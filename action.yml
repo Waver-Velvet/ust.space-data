@@ -1,6 +1,14 @@
-name: Space (Action) @ UST
-description: The GitHub Action for Space @ UST. Snapshots the data of ust.space periodically.
+name: ust.space-data
+description: ''
 author: undefined
+
+inputs:
+  session:
+    description: The session cookie of ust.space.
+    required: true
+  rate:
+    description: The maximum rate of the requests (per second).
+    default: '1'
 
 runs:
   using: node20

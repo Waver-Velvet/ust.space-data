@@ -1,6 +1,6 @@
 {
-  "name": "space-action-at-ust",
-  "description": "The GitHub Action for Space @ UST. Snapshots the data of ust.space periodically.",
+  "name": "ust.space-data",
+  "description": "",
   "version": "0.0.0",
   "author": "undefined",
   "private": true,
@@ -11,24 +11,27 @@
     "node": ">=20"
   },
   "scripts": {
-    "lint": "eslint --fix --ext .js .",
-    "bundle": "npm run format && npm run package",
-    "package": "ncc build src/index.js --license licenses.txt"
+    "go": "dotenvx run --env-file=.env.local -- node ./src/index.js",
+    "lint": "eslint --fix src",
+    "bundle": "npm run lint && npm run package",
+    "package": "ncc build src/index.js --license licenses.txt",
+    "prepare": "husky"
   },
   "license": "MIT",
-  "eslintConfig": {
-    "extends": "./.github/linters/.eslintrc.yml"
-  },
   "dependencies": {
     "@actions/core": "^1.10.1",
-    "@actions/http-client": "^2.2.0"
+    "@actions/http-client": "^2.2.0",
+    "limiter": "^2.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.23.7",
     "@babel/eslint-parser": "^7.23.3",
     "@babel/preset-env": "^7.23.8",
+    "@dotenvx/dotenvx": "^0.11.0",
+    "@vercel/ncc": "^0.38.1",
     "eslint": "^8.56.0",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.29.1"
+    "eslint-plugin-import": "^2.29.1",
+    "husky": "^9.0.6"
   }
 }
