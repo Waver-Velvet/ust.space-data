@@ -1,0 +1,7 @@
+name: Space (Action) @ UST
+description: The GitHub Action for Space @ UST. Snapshots the data of ust.space periodically.
+author: undefined
+
+runs:
+  using: node20
+  main: dist/index.js
