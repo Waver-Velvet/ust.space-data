@@ -25058,7 +25058,7 @@ const HTTP_CLIENT_OPTIONS = {
     Cookie: `ustspace_session=${core.getInput('session')};`,
   },
   allowRetries: true,
-  maxRetries: 10,
+  maxRetries: 60,
 };
 const BASE = 'https://ust.space/';
 
