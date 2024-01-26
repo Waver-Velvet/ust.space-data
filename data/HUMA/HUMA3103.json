@@ -1,0 +1,80 @@
+{
+  "course": {
+    "id": 597,
+    "subject": "HUMA",
+    "code": "3103",
+    "name": "Making Chamber Music B",
+    "description": "Through weekly coaching sessions and public performances, students will learn all facets of chamber music making at a high level and expand their repertoire on their instrument. Students will also learn team-building skills and develop attentiveness to partners in an ensemble. This is a course for students who are highly motivated, and sufficiently trained and experienced in classical music performance. Enrollment in the course requires instructor's approval based on audition outcome.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2310,
+      2210,
+      2030,
+      1830,
+      1730,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 319,
+        "name": "SZE, Man Lun Amy",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "CCZtBr6bmUUCEKAAxU8crmINHRmQHcsx",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 319,
+          "name": "SZE, Man Lun Amy",
+          "rating": 1
+        }
+      ],
+      "author": "mhcm138",
+      "date": "Dec 22, 2019",
+      "title": "A rewarding course for musicians",
+      "comment_content": "HUMA3102 and HUMA3103 are equivalent. <br /><br />Two experienced musicians took turn to teach my chamber music group. They gave comments on the techniques, communication within the ensemble, and interpretation of the chosen work.&nbsp;&nbsp;<br /><br />In this semester, one piano trio and one piano quartet were formed. The instructors chose (Debussy - Piano Trio in G major) and (Brahms - Piano Quartet No. 1 in G minor) for these groups, respectively.<br /><br />❗ Audition is required in the first week of the semester before joining this course. It requires two contrasting pieces within 15 minutes. I played (Mendelssohn Violin Concerto in E minor - 3rd movement) &amp; (Bach Partita in D Minor BWV 1004 - Allemande) for audition.",
+      "comment_teaching": "✅ Both instructors (Dr. Amy Sze &amp; Mr. Anders Hui) were passionate and gave useful feedback to improve our musicianship. <br /><br />✅ Remarkable that Mr. Anders Hui is the second associate concertmaster of HKPhil, he offered some practical comments on violin techniques to me. <br /><br />✅ Dr. Amy SZE is a pianist, who helped those &#039;solo&#039; pianist to adapt the changes from playing solo music to chamber music repertoire.",
+      "comment_grading": "Grading is absolute and normally all students get a satisfactory grade because they have strong musical background. <br /><br />💯Course Grading:<br />1️⃣ Final Public Performance - 40%<br />2️⃣ Mid-Term Performance - 30%<br />3️⃣ Participation - 20%<br />4️⃣ Attendance - 10%<br /><br />Final grade: A- (This grading did not apply to my other teammate. He got one subgrade lower)<br /><br />The other piano quartet group with more experience in making chamber music got A.",
+      "comment_workload": "We heavily relied on out-of-class practice. Our chamber music group rehearsed before classes on few aspects: the basic intonation, rhythm, and make the piece in-form. If the group refuse to rehearsal, you will waste time in lessons. <br /><br />Substantial amount of practices must be done in order to give a professional performance.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

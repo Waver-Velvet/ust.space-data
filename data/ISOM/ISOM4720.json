@@ -1,0 +1,133 @@
+{
+  "course": {
+    "id": 711,
+    "subject": "ISOM",
+    "code": "4720",
+    "name": "Simulation in Business and Management",
+    "description": "Introduction to probabilistic models of operations management; generating random numbers; simulating random variables and discrete event systems; variance reduction techniques; application to risk management, option pricing and other financial problems; application to inventory, queuing, and manufacturing systems.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2030,
+      1830,
+      1630
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ISOM\" data-code=\"2500\" href=\"/review/ISOM2500\" target=\"_blank\">ISOM 2500</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2411\" href=\"/review/MATH2411\" target=\"_blank\">MATH 2411</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2421\" href=\"/review/MATH2421\" target=\"_blank\">MATH 2421</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2431\" href=\"/review/MATH2431\" target=\"_blank\">MATH 2431</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"IEDA\" data-code=\"4130\" href=\"/review/IEDA4130\" target=\"_blank\">IEDA 4130</a>",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 353,
+        "name": "CHEN, Ying Ju",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "MkurAcjlkDqY6hrNlhCjzIgQqX0RHy7Y",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 353,
+          "name": "CHEN, Ying Ju",
+          "rating": 1
+        }
+      ],
+      "author": "Happypig375",
+      "date": "Jan 06, 2023",
+      "title": "The prerequisites are fake 😉 (Real prerequisite: logic, programming mindset, software usage)",
+      "comment_content": "The real prerequisite is familiarity with programming (the mindset, not specific programming language), clear logic, and memorization of software interfaces. Prof Ying-Ju confirmed that out of all courses in OM, this course is one of the two all about software usage. The other one is ISOM3710 Business Modeling and Optimization which uses Excel. (Note: ISOM4830 Analytics for Service Operations has now been offered which is an extension of ISOM3710 itself therefore is also all about software usage.) The third place, ISOM4740 Enterprise Resource Management, only has half of it about ERP software itself with the other half concepts from lecture content. The official prerequisites will only be used in the (untested) chapter 1. <br /><br />The course is just an introduction to the usage of ARENA software to simulate business processes, including customer flows like choosing the shortest queue and baulking behaviour (leaving early due to long queue), then get useful statistics like average and maximum queue length, entity queue time, resource utilisation (instantaneous utilisation), entity time in system (total time, also known as cycle time), and entity wait time. In my opinion, this is what OM is about! Modelling your operations and investigating improvements! The only downside is that ARENA is a paid software with limitations imposed in its free version, where only 150 simultaneous entities can be simulated. Moreover, in my group project, we also identified weird queue preference behaviours such as Category I Patients waiting a long time for Cubicle Rooms despite we setting the queue type to Highest Attribute Value with the attribute set to Priority attribute. We in the end used additional Seize and Release modules from Advanced Process template to ensure Category I patients seize a &quot;Next Seat&quot; resource in order to ensure they do get priority. The explanation of Prof Ying-Ju is that ARENA has bugs that resulted in this. What!? It&#039;s an industry standard and yet has bugs in queuing. This reminds us to use our logic and common sense instead of blindly trusting the software 😉<br /><br />All assessments are done in groups with 4 people (or 5 if uneven distribution) except the midterm exam and the final exam. So, you should find good groupmates since most of the assessments are done in groups.<br /><br />Just see the attached files for detailed content. Reminder: Chapter 1, Animations, and Blocks module won&#039;t be tested in the exams or homework. Moreover, Chapter 1 and Animations also did not appear in in-class exercises. So, you should put effort in studying other parts of the materials.",
+      "comment_teaching": "Aside from the first lecture of chapter 1 which is untested, the rest of the lectures are all similar to lab sessions. Prof Ying-Ju would demonstrate how to solve questions using ARENA, and we should follow his instructions. This is unlike lectures which may bore some people, whereas putting ourselves into using ARENA will definitely help those who seek to understand instead of memorise. Only primary school math is required, that&#039;s why the official prerequisites are fake 😉<br /><br />Two weeks before the final period, Prof Ying-Ju also released November 2019 recorded lecture videos which may be arranged differently from this semester, but all key steps are the same. This shows that the lecture content won&#039;t be much different from semester to semester, though this course specifically is not offered every semester.<br /><br />You can always ask Prof Ying-Ju and TA Edmond Ho during lectures or in-class exercises for specific problems you face. Don&#039;t waste these opportunities for help especially when every point matters for your grade!<br /><br />Each lecture will introduce 2 to 3 examples which you will follow, except in class exercises where additional content may or may not be taught before in-class exercises. You can also start early if additional content is taught since this gives you more time to think.<br /><br />For difficult in-class exercises, submissions at least 10 minutes after the official lecture time end are also accepted. <br /><br />So, the teaching is nice and helpful.",
+      "comment_grading": "Asked Prof Ying-Ju about grading, and he usually gives a 25% A range. What more can you expect?<br /><br />6 In-class exercises&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20%<br />(Answer document, ARENA model)<br />2 Homeworks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10%<br />(Answer document, ARENA model)<br />1 &quot;Quiz&quot; (Midterm Exam) 15%<br />(Answer document, ARENA model)<br />1 Final Exam&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25%<br />(Answer document, ARENA model)<br />1 Midterm Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15%<br />(Proposal document, presentation with slides, ARENA model. Graded by 70% professor and 30% classmates during presentation iPRS)<br />1 Final Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\t\t 15%<br />(Presentation with slides, ARENA model. Graded by 70% professor and 30% classmates during presentation iPRS)<br />------------------------------------------<br />Total&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\t\t\t 100%<br /><br />2 Midterm Presentation Questions&nbsp;&nbsp;&nbsp;&nbsp;2%<br />2 Final Presentation Questions&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2%<br />1 Sudden Question&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1%<br />-----------------------------------------------------<br />Bonus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5%<br /><br />1 Homework peer evaluation missed&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-1%<br />1 In-class exercise peer evaluation missed -1%<br />1 Project peer evaluation missed&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-1%<br />---------------------------------------------------------------<br />Maximum Punishment at the end of semester&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-3%<br /><br />6 In-class exercises (20%)<br />==========================<br />There are 6 in class exercises weighted equally. Sometimes they will introduce new modules or logic to use in the same lecture before the in-class exercise. Remember to help your groupmates because your individual score will be averaged with the group average! (e.g. Say you did not make any mistakes in your answer DOC file and ARENA model submission. Your score will still be capped at 9.8 because your groupmate made 3 mistakes.) Still, ensure you submit the correct model first and is not the one pulling down others. The prof also said he will check whether you just uploaded your groupmate&#039;s work. However, I am unsure how this is done.<br />My score = 9.5/10 10/10 10/10 9.5/10 9.8/10 10/10 = 19.6%/20%<br />(An individual peer evaluation form for in-class exercises will be released at the end. Remember to do it or you will lose 1 total mark!)<br />Distribution not released though.<br /><br />2 Homeworks (10%)<br />=================<br />There are 2 homeworks weighted equally. See attached questions. They require more thinking than in-class exercises. One person submits for the whole group. If you think clearly and follow instructions carefully, each can be completed in 40 minutes by one person. I did all questions for the whole group since I didn&#039;t want others to make mistakes lol (it&#039;s also practice for exams! My groupmates who did not spend time to check my work ended up forgetting how to do things in exam)<br /><br />My score = 40/40 30/30 = 10%/10%<br />(An individual peer evaluation form for homework will be released at the end. Remember to do it or you will lose 1 total mark!)<br />Distribution not released though.<br /><br />Midterm Exam and Final Exam (40%)<br />=================================<br />Same format as homework, just limited in time. This means it is open book, open notes, open Internet, just no communication with each other. You complete the questions in Word documents and ARENA models as well. Prof also ensured them to be easier than in-class exercises and homework. Just think clearly and follow instructions carefully! Midterm exam is within lecture time, and you complete 3 questions within 70 minutes. Final exam is within final exam period, and you complete 4 questions within 2 hours. These questions take longer than midterm exam and one of them also came in subparts unlike midterm exam but like in-class exercises. I could finish them all in 1 hour though. TA Edmond Ho will tell you that Animations and Blocks module will not be tested in both midterm and final exams. Though, the exam questions this term focused on more important ideas such as Routes, Stations, Sequence, Set, Expression, choosing shortest queue, alongside the basic stuff like Create, Dispose, Process, Decide, Assign and Record. Traps such as inconsistent time units between question parts and conversions between arrival rate and exponentially distributed interarrival times (Arrival rate are required in ARENA schedules of arrival, while interarrival times are required in ARENA Create modules. Weird design) did not appear in the exams.<br />Tip - make sure you practice all homework questions as they can prepare you well for exams! Don&#039;t just rely on your groupmates to carry you! Also, seek to understand the core ideas and implementation methods instead of memorizing specific examples. This can help you face new questions.<br /><br />My score for midterm = 100/100 = 15%/15%<br />My score for final = 25/25 (Unreleased score. asked TA Edmond Ho for this) = 25%/25%<br />Emailed TA Edmond Ho to provide statistics for both exams together (Prof Ying-Ju did not provide a breakdown to TA Edmond Ho):<br />Min = 0/25 (0%/40%) (Note: My groupmate&#039;s friend apparently thought that not going to exams can still guarantee a pass with C-)<br />LQ = 9.25/25 (14.8%/40%)<br />Mean = 16.10/25 (25.76%/40%)<br />Median = 17.50/25 (28%/40%)<br />UQ = 23.5/25 (37.6%/40%) (Wow!)<br />Max = 25/25 (40%/40%)<br /><br />Project (30%)<br />=============<br />Choose a business or organisational problem and suggest improvements, proven using ARENA models. For the midterm, submit a project proposal document, presentation slides, and ARENA model. For the final, only presentation slides and ARENA model are submitted. You can improve from your midterm model for your final with additional techniques taught in later lectures or do a different organisational or company problem entirely for your final. I asked Prof Ying-ju and he confirmed that the midterm project submission will not be considered in the final project submission grading. You will present the slides in class, with iPRS evaluation after each presentation by classmates. The average iPRS response will account for 30% of grade while the prof will not disclose his 70% score though Prof Ying-Ju said that the 30% will be similar to the 70% anyways from historical data. No worries about this though as Prof Ying-Ju only added that we are not expected to present the model in the midterm presentation after the first group presented but everyone already included it in the slides LOL. Asked Prof Ying-Ju how to strike a balance between data measurable by ourselves but the problem being unimportant, such as HKUST lifts, and data not easily measurable by ourselves but the problem being important, such as hospital processes. The answer is that we can make use of online research papers online for data not measurable by ourselves, but we can also make reasonable guesses for cases where online information is also not unavailable.<br /><br />My group, since they consist of final year students other than myself, is one that did everything near the two to three days before the deadline and blitzing out some work instead of spending more time on research and implementation. In the midterm project, my group submitted a wrong version of our model at the last minute which hit the 150 simultaneous entities limit of the free version of ARENA. (One group of mainlanders apparently used Batch and Separate modules which are out of syllabus, to get around this to simulate HKUST lifts during peak hours. Their model is complicated but logical, however they failed to make everyone understand it.) Though, it seems that some other groups made even less work than us - such as a simple queueing model for Times Square and suggesting a mobile app. Asked Prof Ying-Ju about this and suggestions that just add resources are not that valuable, but it is the easy way. If you can reorganise resources for better efficiency, it will be more valuable.<br /><br />But in the end, the dispersion in project score is not that large anyways. This is what saved me from being dragged down by my group.<br />My score = 80.47/100 = 24.141%/30% (which is also the LQ)<br />(An individual peer evaluation form for projects will be released at the end. Remember to do it or you will lose 1 total mark!)<br />Emailed TA Edmond Ho to provide statistics for both projects together (Prof Ying-Ju did not provide a breakdown to TA Edmond Ho):<br />Min = 77.62/100 (23.286%/30%)<br />LQ = 80.47/100 (24.141%/30%)<br />Mean = 81.24/100 (24.372%/30%)<br />Median = 82.25/100 (24.675%/30%)<br />UQ = 82.65/100 (24.795%/30%)<br />Max = 83.56/100 (25.068%/30%)<br />The range is 1.782%/30%. The IQR is just 0.654%/30%. They are so small!<br /><br />Presentation Questions (Bonus 4%)<br />=================================<br />Just ask questions to groups in the Q&amp;A section after they present, before the iPRS. TA Edmond Ho will give you a participation card for you to write down your information to be handed in at end of lecture, or the lectures after if you forget to hand them in. As long as the question is not nonsense, TA Edmond Ho should give you a card. The maximum cards counted for midterm is 2 and for final this is also 2. But, as you can see, the dispersion of other compoenents within the A range is small so not getting this bonus will give you a disadvantage.<br />My score = 4%/4%<br /><br />Sudden Question (Bonus 1%)<br />==========================<br />This really caught me off guard. Prof Ying-Ju, in the first lecture after midterm exam, in the one introducing the submodel, first ensured everyone added a Submodel through the Submodel button (Home -&gt; Navigation) in ARENA, clicked into the Submodel through double clicking, waited a bit, then asked how to exit from the Submodel back to the main model. It was a race to raise hands, and only 2 students could be fast enough: right click empty area in the Submodel space and click &quot;Close Submodel&quot;. For me, I stupidly only right clicked the entry triangle and the exit square. There is also another solution introduced after answering this question: In the Project Bar to the left, in the Navigate tab, there are Top-Level and &quot;Submodel 1&quot; listed. Double click Top-Level to return to the main model.<br />My score = 0%/1%<br /><br />If Prof Ying-Ju dares to ask this sudden question again, now you know what to answer immediately (as a thanks for reading through my UST Space review) 😉<br /><br />Punishment (Maximum -3%)<br />========================<br />Just remember to read email at the end of the semester to know when to complete iPeer peer evaluations on time. It seems that this is only done to identify freeriders, rather than having any score adjustments due to contributions. However, if you don&#039;t fill them in, for each peer evaluation, you lose 1%. Total this is 3%. So, remember to check email for Canvas announcements and iPeer postings!<br />My score = -0%/3%<br /><br />Total<br />=====<br />My score = 19.6% + 10% + 40% + 24.141% + 4% - 0% = 97.741% (A+)<br />Emailed TA Edmond Ho to provide statistics for total:<br />Min = 54.95%<br />LQ = 70.45%<br />Mean = 82.81%<br />Median = 86.15%<br />UQ = 92.39%<br />Max = 97.80%<br /><br />I even received an additional Canvas message!<br /><br />&gt;I am very impressed by your superb performance in ISOM 4720! Great job and it shows the remarkable intelligence.<br />&gt;<br />&gt;If you happen to be interested in postgraduate study (MPhil/PhD), please feel free to contact me then!<br />&gt;<br />&gt;Best,<br />&gt;Ying-Ju<br />(Here, he means he is involved with admission to HKUST&#039;s own research postgraduate programs and can help when you do apply - probably a job from the Chair Professor position he holds.)<br /><br />If I had not asked 4 questions in presentations, then I could have ended up with an A-. But still, if you tried your best then you should still succeed 😉",
+      "comment_workload": "During lectures, it might be stressful to complete in-class exercises on time, but this only uses lecture time instead of additional time. For homework, if you have a clear mind and understand what is being done in lectures, having a mental model of modules involved, following question requirements carefully, then you can complete each homework in an hour for the whole group! But the main workload comes from projects, which may be annoying compared to regular courses where you don&#039;t have to search for a business problem and solve it yourself. It also depends on your groupmates whether you would stress for a better project. Though, if the entire group agrees to work less, then you can obviously put in less work like my group. I don&#039;t know if the low dispersion for the project scores will change in the future though 😉",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 9,
+      "vote_count": 10,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "Vp0mZmoHzDJuEawhbhdQJZne1ED52rrg",
+          "name": "ISOM4720_Syllabus_22FA",
+          "format": "docx"
+        },
+        {
+          "key": "DgR0zNJkrNaUjnl0pxwR2MZILcVXAeJ5",
+          "name": "Syllabus Course Info - 4720",
+          "format": "pptx"
+        },
+        {
+          "key": "uh6jY0bnwOXChGRoU9hxbj3qRyPmK68b",
+          "name": "Chapter 1",
+          "format": "pptx"
+        },
+        {
+          "key": "o9VvdqjIg97jIHwOtfJN6iiK0kR16A4I",
+          "name": "Chapter4(Arena_Ch2_lec)",
+          "format": "ppt"
+        },
+        {
+          "key": "cSdhTmgU48ytAdTcCXM8II3TIZpRjLWn",
+          "name": "Dynamic_Chap2",
+          "format": "pptx"
+        },
+        {
+          "key": "FbOCqWC8qPfoE3gMzO6K5vXopMuaAXJS",
+          "name": "Dynamic_Chap3a",
+          "format": "pptx"
+        },
+        {
+          "key": "AbYhVqHOGsYyUz7tZKvzRG2rYuyzy1lk",
+          "name": "Dynamic_Chap4",
+          "format": "pptx"
+        },
+        {
+          "key": "knvcEU8PRK0nt7pMllxrDEvF6jz2dOk1",
+          "name": "Dynamic_Chap5",
+          "format": "pptx"
+        },
+        {
+          "key": "nFEadTkuT2XE2bLFGwojteJggMdkNxWH",
+          "name": "Chapter7-4720-22FA",
+          "format": "pptx"
+        },
+        {
+          "key": "Q2RbhKUlis5YmVEqQGEIMWhlJkE9hCax",
+          "name": "HW1",
+          "format": "pdf"
+        },
+        {
+          "key": "mRM1YXxgL12Q584DGD6QoXF8mrIxwxZc",
+          "name": "HW2",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "course": {
+    "id": 414,
+    "subject": "ENVS",
+    "code": "2002",
+    "name": "Environmental Internship",
+    "description": "This course aims to provide students with hands-on experience in the environmental field. Students will undertake training and supervised internships with our potential collaborators (including government departments, environmental consultants, conservation groups, and research laboratories; either in or outside Hong Kong). Course assessment will be based on students’ reports (written and/or oral) and supervisors’ evaluation. Graded P or F. Maybe graded PP. Cantonese may be used in off-campus trainings and internships, in some situations. Instructor’s approval is required for enrolling in the course. Priority will be given to ENVS students.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 227,
+        "name": "KO, Ice Wai Ping",
+        "count": 2
+      },
+      {
+        "id": 228,
+        "name": "LAM, Ka Sin Cindy",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "k2RleYlWQu3Ub6Cqy8pvPLy1nGCY8NSy",
+      "semester": "2016-17 Summer",
+      "instructors": [
+        {
+          "id": 227,
+          "name": "KO, Ice Wai Ping",
+          "rating": 1
+        },
+        {
+          "id": 228,
+          "name": "LAM, Ka Sin Cindy",
+          "rating": 1
+        }
+      ],
+      "author": "kmchanal",
+      "date": "Aug 05, 2018",
+      "title": "",
+      "comment_content": "There are two interviews conducted by the school and the company before you are assigned to be their intern. <br /><br />- ALS Life Sciences Division (Environmental)<br />- Business Environment Council<br />- Eco-Education &amp; Resources Center<br />- Friends of the Earth (Hong Kong)<br />- Fung Yuen Butterfly Reserve<br />- Hong Kong Wetland Park<br />- Kadoorie Farm &amp; Botanic Garden<br />- Ocean Park Hong Kong<br />- WWF-Hong Kong",
+      "comment_teaching": "There is a minimum requirement of 120 working hours.",
+      "comment_grading": "Pass or fail <br /><br />- 50% of course grade from internship supervisor<br />- 50% of course grade from the tasks you have to complete every week",
+      "comment_workload": "Depends on which company you are in and also you have to complete the following tasks.<br />- Weekly log sheet<br />- Progress report (written format, middle of internship)<br />- Meetings with course coordinators<br />- Oral presentation",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "El0pDl779JhzdOZfeivfhmYJbXhaP31M",
+      "semester": "2015-16 Summer",
+      "instructors": [
+        {
+          "id": 227,
+          "name": "KO, Ice Wai Ping",
+          "rating": 1
+        }
+      ],
+      "author": "Holap Wong",
+      "date": "Aug 13, 2016",
+      "title": "",
+      "comment_content": "Summer internship with a final presentation at the end. Need to fill in weekly duty sheet. There are several options in company. OP, Kadore farm, Wetland park etc. You also need an interview selection by Ice Ko to put you into the company that suit you most.",
+      "comment_teaching": "Depend on different company. Different company have different length, but there is a minimum requirement of 120 hours.",
+      "comment_grading": "Pass or fail only. If you fail to join the presentation or fail to fill in the weekly log sheet, then you will have a chance to be fail.",
+      "comment_workload": "Depends on your company.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "course": {
+    "id": 955,
+    "subject": "MECH",
+    "code": "2907",
+    "name": "Mechatronic Design and Prototyping",
+    "description": "This course's aim is to broaden the professional and engineering interests of students by enhancing their practicum/team-based experience through initiatives different from those of traditional lectures and tutorials. This is a project-based course to develop the students' knowledge/experience in designing and building a practical mechatronics system (formerly called Industrial Training). Students will work in teams to identify the needs for their designed prototype. Also, students will be given the opportunity to design and build various mechatronics components including electronic circuits, motors, sensors, etc. from CAD drawings, and practise their engineering knowledge through all laboratory sessions. The main goal is to develop and nurture skills in problem-solving, communication, interpersonal interaction, project and time management, etc. via the entire project.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2030,
+      1930,
+      1830,
+      1730,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MECH\" data-code=\"2520\" href=\"/review/MECH2520\" target=\"_blank\">MECH 2520</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.25,
+    "rating_teaching": 3.5,
+    "rating_grading": 3.75,
+    "rating_workload": 2,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 565,
+        "name": "MA, Lok Wang",
+        "count": 4
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "lb7aPo2xEO4pnH2z9wyB76GY9nmBXHI8",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 565,
+          "name": "MA, Lok Wang",
+          "rating": 1
+        }
+      ],
+      "author": "Jacky 01",
+      "date": "Jun 15, 2020",
+      "title": "CHOOSE A GOOD TOPIC FOR YOUR PROJECT!!!",
+      "comment_content": "You need to make a mechatronic device, which means it is consist of mechanical parts and electronic parts in a group of 2-3. You will need some related skill like Arduino, L298N motor control and simple programming to finish the task.",
+      "comment_teaching": "They did not teach anything at all. They only released the information after we asked them. Important knowledges like Arduino, L298N and programming will not be taught during the lecture. They will only teach you how to use the laser cutter. Due to the pandemic, we will have online meeting every week, each meeting only takes 10 min. The meeting is for group. You can ask questions or advises from Robin or TA and they will record the progress of your group.",
+      "comment_grading": "Peer evaluation 5%<br />Log sheets 10%<br />Project report 30%<br />Project presentation 30%<br />Video demonstration 25%<br /><br />There are total 4 log sheets which you need to write what your group have done in that week. The project presentation is 15 min. The word limit for report is less than 50 pages, but usually we write it for about 20 pages including pictures. Also, the video demonstration will have some marks on the Solidworks model.<br /><br />They did not released any grade for each part. The grading is lacking transparency. However, it seems like the most important factor to affect your grade is the topic itself. Robin prefer the product that is very close to mass-produced version. So a product that can be easily implicated in real life is better. For our group, we build a model for vertical automated parking system, which cannot easily implicated in real life, so we only get B even though we work very hard. So if you did not choose a suitable topic, no matter how well your product functioned, if it is hard to implicated in real life, you will not get a good grade from the beginning. So remember to choose a good topic.",
+      "comment_workload": "This year we are not allowed to use the lab due to the pandemic, which makes the task extremely difficult as you can&#039;t use any tool from the school and they will not provide anything to you. You need to but everything online including the tool. Although the budget is $400, it is still not enough as many group have been over-budget. It is also hard to find a place to work together as well. You need to discuss everything online. Also, you are always busy every week as you need to find suitable materials online, make a detailed Solidwork sketch, make the product, prepare the presentation and do the final report. So the workload is quite high even not during the pandemic. The only good thing is you don&#039;t have mid-term and final exam. Also, remember to ensure your component is fine before the live demonstration as some group found that their component is out of order only a week before the demonstration, so they don&#039;t have enough time to buy a new one.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 2,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "4QoKz12Wh0mVMk09gNmvUfT3mSrkR43U",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 565,
+          "name": "MA, Lok Wang",
+          "rating": 1
+        }
+      ],
+      "author": "bbmadevipalive",
+      "date": "Jun 13, 2019",
+      "title": "Interesting course!! Group project... teammates are the key to success",
+      "comment_content": "Compose a prototype that involves mech, elec and programming<br />a group of 3 to 4<br />you can form a group within your own lab session but cannot work with those in different lab sessions<br />Prof Ma described this course as a one-sem fyp",
+      "comment_teaching": "Prof Ma came to lab sessions and mech workshop every week to observe and ask about our progress. Sunny and workshop technician kim were helpful. The lab technician was a bit talkative but still kind enough to let us test our prototype in unofficial lab opening times.",
+      "comment_grading": "Prof Ma said a design involving the 3 areas mentioned above can already get a B-.<br />Try to think of some interesting ideas that he likes so its more likely to get a good grade",
+      "comment_workload": "As my teammates were soso, some did not appear often and some didnt manage to finish their work 2 days before demo...me and another teammate&#039;s workload became heavy<br />a presentation and a final report<br />a prototype demo<br />a peer evaluation<br />4 log sheets",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Pw9fXzMtCPd5eLUF8x0Dol96KnZlu8Cz",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 565,
+          "name": "MA, Lok Wang",
+          "rating": 1
+        }
+      ],
+      "author": "MS01",
+      "date": "Jun 05, 2018",
+      "title": "This course is infamous of its workload",
+      "comment_content": "You had to build a mechatronic prototype and you would be marked based on the design and the performance of achieving certain tasks.<br /><br />In this semester, you can decide your own topic for your group project. Although you can still use previous year&#039;s topics, it is not recommended to do this because the performance requirement is tough.<br /><br />There is a 4 hours lab in every week for you to set-up your product, go to the workshop to use different machining tools.",
+      "comment_teaching": "Robin would teach you nothing, he would ask you about the idea of your prototype and may give you some comments. Once he approved it, you can go on with it.<br /><br />Actually, most of the teaching is done by the technician in the mech workshops and in the laboratory. They are willing to answer your questions regarding the use of machines and the connection of arduino board.",
+      "comment_grading": "I think your grade should not lower than B if your product is practicable.",
+      "comment_workload": "The workload is heavy as shit even your groupmates are not those free-rider scum. <br /><br />Since you have to draw SolidWorks model for presentation and compose programming for your project. It is recommended to find some people with good software proficiency.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "95h3KHzTpevnRKsl0UENXPVTLCKjOAgQ",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 565,
+          "name": "MA, Lok Wang",
+          "rating": 1
+        }
+      ],
+      "author": "Nasty",
+      "date": "Aug 04, 2017",
+      "title": "Practical Course without lectures",
+      "comment_content": "The content of this course was that you had to build a mechatronic prototype, and you would be graded based on your design and it&#039;s performance in accomplishing tasks. There was a 4 hour lab every week. There were no exams, but there was a report and a presentation along with the project demo.",
+      "comment_teaching": "There was no teaching in this course. The professor wasn&#039;t there half the time as he had a time clash with another course!<br />Students had to learn a lot of electronic stuff on their own, for example, how to program and use arduino. Note that we are mech students and we have no experience with C programming, as it isn&#039;t a part of the mech curriculum.",
+      "comment_grading": "The grading completely depended on whether the professor liked your prototype or not. This often depended on whether he liked the student or not.&nbsp;&nbsp;He was very biased. Hence, many students with good prototypes got B and many students with average prototypes got A.",
+      "comment_workload": "The workload of this course was quite heavy. The 4 hour lab every week wasn&#039;t enough if you wanted a good grade. My team had to meet regularly outside class to work on our prototype.<br />We were not taught how to program an arduino in C language and had to learn it ourselves.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

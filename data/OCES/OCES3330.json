@@ -1,0 +1,88 @@
+{
+  "course": {
+    "id": 2732,
+    "subject": "OCES",
+    "code": "3330",
+    "name": "Marine Biology Laboratory",
+    "description": "Both laboratory and field investigations will provide the opportunity to apply and adapt the experimental methods developed here to specific groups of marine organisms, diversified marine habitats, and practical issues in marine/environmental science. Tutorial sessions and field trips will be used to enhance student's understanding of the practical work and the theories covered in the lectures.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810
+    ],
+    "prerequisites": "",
+    "corequisites": "<a class=\"course-link\" data-subject=\"OCES\" data-code=\"3130\" href=\"/review/OCES3130\" target=\"_blank\">OCES 3130</a>",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 4,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 228,
+        "name": "LAM, Ka Sin Cindy",
+        "count": 1
+      },
+      {
+        "id": 1090,
+        "name": "YAU, Sin Ting Cynthia",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "leT55vFTFVDIWOBnfYzmkL83j59W8PZD",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 228,
+          "name": "LAM, Ka Sin Cindy",
+          "rating": 1
+        },
+        {
+          "id": 1090,
+          "name": "YAU, Sin Ting Cynthia",
+          "rating": 1
+        }
+      ],
+      "author": "New fruit",
+      "date": "Jan 03, 2024",
+      "title": "Interesting and fun OCES course",
+      "comment_content": "Marine organisms structure, physiology and behavior.<br />Distribution of coastal habitats.<br />Organism abundance, eveness etc.<br /><br />Working with teammates was enjoyable and the lab + field sessions were fun.",
+      "comment_teaching": "Cindy is a very nice professor. She explains things to us clearly and her powerpoints were simple and to the point. She makes jokes in class also and the learning atmosphere is relaxing and positive.<br /><br />Cynthia does not officially teach this course, but she came to various sessions and helped us identify various interesting species, she also told us many interesting facts of coastal organisms!",
+      "comment_grading": "Individual lab reports (5) 12%<br />Group field trip reports (2) 20% <br />Group Project presentations (1) 10%<br />Final exam (1) 48%<br />Continuous assessment 10% (attendance, questions in app, attitude of studies, etc.)<br /><br />Good grading<br />Got mean in lab reports and presentations.<br />Got highest (full mark) in field trip reports and in final exam. <br />A+ at last.<br />Almost full points are given in reports as long as you write a sufficiently long answer that is on the right track.",
+      "comment_workload": "Light<br />Lab and field reports are easy as the answers could be found from the lab manual.<br />Final exam is straightforward, as long as you recite the lab manual you will do fine.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

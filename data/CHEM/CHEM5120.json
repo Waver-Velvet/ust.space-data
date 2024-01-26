@@ -1,0 +1,77 @@
+{
+  "course": {
+    "id": 1603,
+    "subject": "CHEM",
+    "code": "5120",
+    "name": "Advanced Organic Chemistry II",
+    "description": "Stereochemistry and conformational analysis, reactions of various classes of organic compounds, synthetic organic chemistry, modern methods of synthesis including specific methodologies and multistep complex syntheses.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2210,
+      2110,
+      2010,
+      1810,
+      1610
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"5110\" href=\"/review/CHEM5110\" target=\"_blank\">CHEM 5110</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 56,
+        "name": "DAI, Wei Min",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "zs448uGuF2lXEltvTVTlo5ZnVKEgFQfx",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 56,
+          "name": "DAI, Wei Min",
+          "rating": 1
+        }
+      ],
+      "author": "holymama",
+      "date": "Jan 01, 2019",
+      "title": "",
+      "comment_content": "This is Part II of a two semester advanced organic chemistry course designed for postgraduates. This course will provide the understanding necessary to assimilate and remain current with the primary literature of synthetic organic chemistry.<br /><br />1. Alkylation of Enolates and Other Carbon Nucleophiles<br />Means for generating enolates from carbonyl compounds<br />Regioselectivity and stereoselectivity in enolate formation<br />Oxygen versus carbon alkylation<br />Solvent effect<br />Conjugate addition<br />Alkylation of enamines and imine anions<br /><br />2. Reactions of Carbon Nucleophiles with Carbonyl Groups<br />Aldol condensation<br />Robinson annulation<br />The Mannich reaction<br />Acylation<br />The Wittig reaction<br />Sulfur ylides<br /><br />3. Functional Group Interconversion by Nucleophilic Substitution<br />Conversion of alcohols to alkylating agents<br />Nucleophilic substitution at saturated carbon<br />Nucleophilic cleavage of carbon-oxygen bonds in ethers and esters<br />Interconversion of carboxylic acid derivatives<br />Electrophilic Additions to Carbon-Carbon Multiple Bonds<br />Additions to alkenes, allenes, and alkynes<br />Oxymercuration<br />Electrophilic sulfur and selenium reagents<br /><br />4. Electrophilic Additions to Carbon-Carbon Multiple Bonds<br />Hydroboration<br />Reactions of organoboranes<br /><br />5. Concerted Cycloadditions, Unimolecular Rearrangements, and Thermal Eliminations<br />The Diels-Alder reaction<br />Dipolar cycloaddition reactions<br />The Cope and Claisen rearrangements<br />[2,3]-Sigmatropic rearrangements<br />The Ene reaction<br />Unimolecular thermal elimination reactions<br />β-Eliminations involving cyclic transition state<br /><br />6. Reactions Involving Transition Metals<br />Organocopper intermediates<br />Organopalladium intermediates<br />Organonickel compounds<br />Reactions involving rhodium, iron, and cobalt<br />Organometallic compounds with π bonding<br />Olefin metathesis reactions<br /><br />7. Multistep Synthesis<br />Protective groups &amp; Retrosynthetic analysis<br />Selected examples of total synthesis",
+      "comment_teaching": "The lectures are somehow not useful towards your essay and Dai seldom mentioned the details of the essay until the last moment. Yet, the course content can enrich your knowledge in organic synthesis as lots of reagents and mechanisms mentioned in lectures was not covered in UG organic chem courses. You should not miss it if you are a organic chemistry lover.",
+      "comment_grading": "Presentation and discussion about a current research paper (50%) <br />Essay about a current research topic or a synthetic plan (50%)<br /><br />Mysterious grading as we didn&#039;t receive any feedback, but still can guess that this course has a good grade as it is a PG course :)",
+      "comment_workload": "No workload at all as you don&#039;t need to do any memorization. Just hand in your essay on time and read more research paper related to organic synthesis.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

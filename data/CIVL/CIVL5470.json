@@ -1,0 +1,33 @@
+{
+  "course": {
+    "id": 2249,
+    "subject": "CIVL",
+    "code": "5470",
+    "name": "Industrial Wastewater Treatment",
+    "description": "Procedures for industrial surveys; includes waste sampling, waste characterization, treatability studies, selection of treatment methods for achieving cost effective operation, case studies of selected types of industrial waste treatment.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2030,
+      1830,
+      1710
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"3420\" href=\"/review/CIVL3420\" target=\"_blank\">CIVL 3420</a>",
+    "corequisites": "",
+    "exclusions": "JEVE 5470",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

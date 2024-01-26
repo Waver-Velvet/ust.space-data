@@ -1,0 +1,75 @@
+{
+  "course": {
+    "id": 3187,
+    "subject": "ISOM",
+    "code": "2040",
+    "name": "Business Simulation and Strategic Decisions",
+    "description": "This course combines case discussions to illustrate strategic decision making in business with an integrated hands-on business simulation exercise as part of the learning process. The course may be taught blended-learning with online discussions and meetings, or in a traditional face to face mode. Topics include making strategic choices and evaluating options and tradeoffs in a competitive business simulated industry environment.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230,
+      2030,
+      1930
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 366,
+        "name": "CLARK, Theodore Henry King",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "gPpgKMWTF2NNu2fPr2YePB0gJp9CNzeg",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 366,
+          "name": "CLARK, Theodore Henry King",
+          "rating": 1
+        }
+      ],
+      "author": "nek",
+      "date": "Mar 02, 2022",
+      "title": "Business Simulation?",
+      "comment_content": "The previous code for this course is ISOM 3100. You may refer to ISOM 3100 for more reviews.<br />The course mainly uses the online platform &quot;Capstone&quot; to do business stimulation. You have to study the user manual and rules. The professor will share what companies should do when facing trade-offs. <br />It is a blended learning course, so you have to watch some online videos (30 min - 1 hr) and attend 1 lesson (2 hours) each week.<br /><br />It is true that some techniques or concepts about how to master the stimulation can be applied in different industries. However, I am still feeling like the course content is &quot;紙上談兵&quot;, not really linked to the real business world.",
+      "comment_teaching": "The professor and TA are knowledgeable on the topics and they will share their advice on our simulation.",
+      "comment_grading": "Lecture Video and Online Quizzes - 10%<br />Participation [Personal Investment Performance + contributions to class discussions, peer evaluation] - 20%<br />Individual Business simulation - 10%<br />Group Business simulation - 40% <br />Comprehensive Review Assessment - 20%<br />----------<br />50% of the course is about &quot;playing&quot; the Capstone simulation, it is not easy to understand how it works in the beginning. But once you know the skills and techniques, it is not difficult to get a good outcome in the simulation.<br />The class size is small (~10 people), only 3 groups are formed for the group simulation. Even you make some mistakes at the beginning, the professor and TA will guide you back to the right track. As a result, all groups get a good outcome. So the grade mainly depends on your final assessment.<br />The score for the final assessment is not released.<br />But due to the small class size, it is not easy to get A range.",
+      "comment_workload": "Light workload. Spend about an hour to discuss the strategy with your groupmate each week for the group simulation.<br /><br />The comprehensive assessment (final exam) is open book, open internet.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

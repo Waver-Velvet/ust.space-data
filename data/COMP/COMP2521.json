@@ -1,0 +1,144 @@
+{
+  "course": {
+    "id": 1509,
+    "subject": "COMP",
+    "code": "2521",
+    "name": "Mobile Application Development Projects",
+    "description": "This course is intended to bring together students from different disciplines to focus on coming up with innovative mobile solutions to address domain-specific problems. This will be a student-led project-based course. Teams of students will focus on developing applications to address the needs of specific application domains. Learning additional technical knowledge will be demand-driven in self-learning mode. Students will be supported by technical advisors, which include a faculty member who is the main instructor, as well as instructional assistant(s) and student\nhelpers with technical knowledge.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1710,
+      1630,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 3.33,
+    "rating_grading": 5,
+    "rating_workload": 2.67,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 97,
+        "name": "MUPPALA, Kumaraswamy R Jogesh",
+        "count": 1
+      },
+      {
+        "id": 123,
+        "name": "LEE, Dik Lun",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "zmufMcU84ZDNB4NyioDfXSFT2dvCenRp",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 123,
+          "name": "LEE, Dik Lun",
+          "rating": 1
+        }
+      ],
+      "author": "sapnu",
+      "date": "Jun 04, 2020",
+      "title": "",
+      "comment_content": "We discuss a lot about search engine, starting from its history all the way until present use and future development.<br />Topics covered include some algorithm for search engine and information retrieval, as well as the difference between commercial search engine and enterprise search engine.<br />Project is doable after he discussed about the algorithm for search engine, which he covers before midterm, so you can start early on your project.",
+      "comment_teaching": "He is a very passionate guy. He did a lot of research and work around search engine for as long as he lived.<br />Very knowledgeable and will answer your question promptly",
+      "comment_grading": "Grade is really good, compare to other comp courses (if you know what I mean)<br />For the project, do as much bonus as you can, because the mean is quite high for the project.<br />Midterm and final were not so bad if you take a couple of days to study and listen to his lecture.",
+      "comment_workload": "Only 1 term project and 3 homework, midterm and final.<br />Homeworks are doable in a couple of hours and help you revise for the exam as well<br />Don&#039;t procrastinate for the project. If you start the project early, you will be sure to get good results. Can use any language you like.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "sruI74tpWUEb4vI52hTxLcB7cR52TT2O",
+      "semester": "2017-18 Fall",
+      "instructors": [],
+      "author": "Eric_",
+      "date": "Jan 23, 2018",
+      "title": "Good grade but heavy workload",
+      "comment_content": "We need to do a Moblie Application Project. It needs a&nbsp;&nbsp;proposal, a UI design, an application prototype and architecture designs for front-end and back-end.",
+      "comment_teaching": "They will teach some basic knowledge about mobile applications. But, I like this project-based teaching and learning experience.",
+      "comment_grading": "The grade is very good. Normally, you will get a very high mark if you finish all the requirements.",
+      "comment_workload": "The workload is heavy for a SENG student since we need to present nearly every week. There are four stages before the final report. If you want to implement the application, it takes much more time to learn and implement the application.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "WY7emwHR8wsEl0tsVGhpBWJijKcqPgus",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 97,
+          "name": "MUPPALA, Kumaraswamy R Jogesh",
+          "rating": 1
+        }
+      ],
+      "author": "hyliuad",
+      "date": "Jan 31, 2017",
+      "title": "",
+      "comment_content": "好多野都要自己學，唔清楚為什麼要上呢個course。<br />如果有學過HTML, CSS同JS的同學會容易上手，沒有的話就比較辛苦。",
+      "comment_teaching": "自己學好過上課。。。",
+      "comment_grading": "都算幾好grade，寫到個app就A左。",
+      "comment_workload": "這是一個Project-Oriented的course，目的是交出一個可以用的Mobile Application，但不知道為什麼每一個禮拜都要交document。。。",
+      "rating_content": 3,
+      "rating_teaching": 2,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

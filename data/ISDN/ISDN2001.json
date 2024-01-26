@@ -1,0 +1,77 @@
+{
+  "course": {
+    "id": 2987,
+    "subject": "ISDN",
+    "code": "2001",
+    "name": "Second Year Design Project I",
+    "description": "This course is the first part of a one-year project course offered to second year students. The project requires application of technology and design to develop innovative solutions to a challenging problem. Each student is assigned a component of a large project, which is sponsored by industry. Project planning. Distribution of tasks among the team members. Identification of the problem through interactions with the staff of the sponsored company. Ideation. Design concept generation. Selection of ideas. Prototyping. Testing and redesigning. Instructor's approval is required for enrollment in the course.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ISDN\" data-code=\"1002\" href=\"/review/ISDN1002\" target=\"_blank\">ISDN 1002</a>",
+    "corequisites": "<a class=\"course-link\" data-subject=\"ISDN\" data-code=\"1004\" href=\"/review/ISDN1004\" target=\"_blank\">ISDN 1004</a> AND <a class=\"course-link\" data-subject=\"ISDN\" data-code=\"1006\" href=\"/review/ISDN1006\" target=\"_blank\">ISDN 1006</a> AND <a class=\"course-link\" data-subject=\"ISDN\" data-code=\"2300\" href=\"/review/ISDN2300\" target=\"_blank\">ISDN 2300</a>",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 894,
+        "name": "LEUNG, Suk Wai Winnie",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "OmYnsblEiV9nHV62fXX351zVNowZfLUl",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 894,
+          "name": "LEUNG, Suk Wai Winnie",
+          "rating": 1
+        }
+      ],
+      "author": "Jim13322",
+      "date": "May 05, 2022",
+      "title": "Very good course",
+      "comment_content": "The contents are really good. Winnie would guide us to start our team. We can choose the project we are interested in. And we would keep learning something regarding team and project management. User testing, market research, etc.",
+      "comment_teaching": "The teaching is very good. I feel I have learnt new thing in every lessons.",
+      "comment_grading": "The grade makes sense. I am not very hard working person. I just do the part I am interested and I got B+.<br />Also, no exam!",
+      "comment_workload": "The workload is relatively low if nothing special happen. But if someone freeride you. Then maybe your workload would be high.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

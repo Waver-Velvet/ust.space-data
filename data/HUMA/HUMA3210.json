@@ -1,0 +1,253 @@
+{
+  "course": {
+    "id": 600,
+    "subject": "HUMA",
+    "code": "3210",
+    "name": "Traditional Chinese Poetry: Tang and Song Poetry",
+    "description": "A guided critical study of the representative works of the major shi and ci poets in the Tang and Song periods, with emphasis on the development of the various poetic styles.",
+    "categories": [
+      "Common Core (H)"
+    ],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230,
+      1830,
+      1610,
+      1510
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4.83,
+    "rating_grading": 4.83,
+    "rating_workload": 4.83,
+    "review_count": 6,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 898,
+        "name": "LI, Siya",
+        "count": 6
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "RwBAj0AUl4WSiO7iLWQlBRjRYxAq8TxL",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 898,
+          "name": "LI, Siya",
+          "rating": 1
+        }
+      ],
+      "author": "Jacky091122",
+      "date": "Sep 03, 2023",
+      "title": "出眾的唐宋詩課",
+      "comment_content": "從不同層面包括風神、格調、情景交融、意境等等去欣賞唐宋詩，課程中結合膾炙人口的近代流行樂曲協助學生理解，感覺新鮮有趣。",
+      "comment_teaching": "教學認真親切",
+      "comment_grading": "感覺不算太爛garde但因為個人懈怠作業和默書所以只拿了B+",
+      "comment_workload": "有唐宋詩背誦 四十首<br />有文學創作功課，題材方式不限與課題&quot;詩&quot;相關即可<br />有期末論文<br />有期末考試 會預先給作文題",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "fMkZtvvgb5zmTgnAAozaEokTsU3NEvTd",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 898,
+          "name": "LI, Siya",
+          "rating": 1
+        }
+      ],
+      "author": "溺水小羊",
+      "date": "May 18, 2023",
+      "title": "",
+      "comment_content": "老师人真的特别好内容也很有趣，然后课程内容其实对于理解古诗词有很大帮助，结合了流行歌曲进行诠释",
+      "comment_teaching": "教学可以，但是一节课三个小时太久了会有一点无聊",
+      "comment_grading": "暂无公布数据",
+      "comment_workload": "每周会有一次固定作业关于歌词的，然后有一个final要背几十首古诗填空很容易加上开放性题目，作业还有一篇论文和创作型作业",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "L9v8nIUzjxiAvqxwFA3VQdxCveiYrxaV",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 898,
+          "name": "LI, Siya",
+          "rating": 1
+        }
+      ],
+      "author": "Cary.R",
+      "date": "May 30, 2019",
+      "title": "Happy hours with poetry",
+      "comment_content": "内容很充实，从诗经、唐诗、宋词皆有涉猎，选取的诗歌经典而有韵味，课程中给学生展示许多新颖的鉴赏视角，给人耳目一新之感。<br /><br />（以及Professor会经常插播喜爱的歌曲以加深对某知识点的认识",
+      "comment_teaching": "轻松 活泼<br />注重与学生的呼应",
+      "comment_grading": "10% Participation <br />10% 创作<br />30% 期中考试<br />50% 期末考试",
+      "comment_workload": "非常合理的workload<br />期中约30首诗，期末约50首诗词，并完成一个创作Project<br />背诵诗歌的范围会在考前两周公布，所以有充足时间背完",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "wtRBYGxD62TSFvOcfRjB2O7iYgMSLYSO",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 898,
+          "name": "LI, Siya",
+          "rating": 1
+        }
+      ],
+      "author": "Neva",
+      "date": "May 23, 2019",
+      "title": "good instructor",
+      "comment_content": "老师讲的非常好啦<br />上课没事会说一些积极向上的话开导大家，虽然考勤占10%，但是并没有查考勤，只有这10%都会给大家。但是如果没来上课估计考试也不会做，因为简答题和大题都是老师上课会提到但是lecture notes上没有的。<br />一学期大概要背七十来首诗，midterm考三十来首，final考四十来首，看老师心情啦我觉得。<br />10%出勤 10%创作作业 30%midterm 50%final final只考midterm之后学的内容。<br />创作作业虽说是有十分但是老师给分大概就是从7-10这个区间给分。作业内容随便做，可以唱歌，画画，跳舞，等等。",
+      "comment_teaching": "老师很好，讲的也很生动，很负责，下课没事可以跟老师约饭",
+      "comment_grading": "grade我觉得就是你付出了努力肯定能在分数上体现出来，不来上课的基本上考的都不会太好，因为古诗主要是靠老师带领着领悟嘛，这学期是12个fail，所以真的会fail，并不需要什么古诗基本功",
+      "comment_workload": "没有workload.创作作业凭自己喜好，除了考前背背古诗，看看文献，就没什么需要花时间花功夫的地方了",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "jCBzOJJxoRCt3cZQShMDtVRpHBgEX1Pv",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 898,
+          "name": "LI, Siya",
+          "rating": 1
+        }
+      ],
+      "author": "Moving",
+      "date": "Feb 02, 2017",
+      "title": "中山大学解聘殴打学者甘阳的青年教师李思涯",
+      "comment_content": "內容上至先秦詩經，下至宋代詩詞，包涵各種類型的詩歌，例如思鄉、愛情、送別、友情、山水、哲理詩等等，對唐宋詩歌有基本認識以後，Professor Li會教導五言律詩創作（平仄、韻腳、對仗、鋪排）。",
+      "comment_teaching": "Professor Li並不是針對一首詩研究，而是廣泛地對整個朝代和不同詩人的風格特色作出評論。上課氣氛輕鬆，間中會播放流行音樂，好像教到懷古的《烏衣巷》，會輔以謝安琪的《喜帖街》，帶出歷史滄海桑田之感，而且每首詩會讓學生唸頌三遍以加深記憶。",
+      "comment_grading": "出席及課程表現 10% 創作 10% 期中測驗 30% 期末測驗 50%<br /><br />考試分兩部份—填充題和短答題<br />填充題：測驗範圍有30（期中）／45（期末）首詩，然後抽考20（期中）／30（期末）首詩，通常一首詩只要背一聯，一題一分<br />短答題：試卷有2題，一題佔5（期中）／10（期末）分，考核課堂上強調過的文學概念，需要用PowerPoint的詩作為例子說明<br />創作可以是詩歌、繪畫、或歌唱等，看你的創新能力",
+      "comment_workload": "沒有功課，沒有作業，只要考試前用功背書。可以隨意走堂，Attendence分數視乎你考試的分數，原因是考試內容很多都會在課堂上講，沒聽不知道要求答案，當然如果你沒有上課但考試高分，Attendence也會高分。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 10,
+      "comment_count": 2,
+      "attachments": []
+    },
+    {
+      "hash": "ggW8rVZudkboqt5S9a3LvuFuEu8KgaZm",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 898,
+          "name": "LI, Siya",
+          "rating": 1
+        }
+      ],
+      "author": "Odd渠宫",
+      "date": "Jan 05, 2017",
+      "title": "人好grade好",
+      "comment_content": "學的東西不是很多但是很精隨，確實有學會很多技巧去怎麼欣賞一首詩。",
+      "comment_teaching": "不算特別出彩用心。Prof. 課下也不是很好找。但是考試的東西全部都有重複強調。",
+      "comment_grading": "給grade很好很好。良心的是出grade之後還給我解釋，其實已經超了學校要求的A range比例，給的非常大方。",
+      "comment_workload": "完全沒有⋯除了考前背背書⋯⋯⋯attendance可以無視，不上課不知道考試的標準答案。",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

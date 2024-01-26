@@ -1,0 +1,115 @@
+{
+  "course": {
+    "id": 628,
+    "subject": "HUMA",
+    "code": "4840",
+    "name": "Selected Readings of Religious Taoism",
+    "description": "This course attempts to explore religious Taoism by studying the selected Taoist canon.  Discussion will be focused on the key concepts and fundamental doctrines of the religion.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1910,
+      1430
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 308,
+        "name": "YIP, Kam Ming",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "qlLznMo8OOqRW2lZn9PhdZiOPvjhnJLk",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 308,
+          "name": "YIP, Kam Ming",
+          "rating": 1
+        }
+      ],
+      "author": "KenMan",
+      "date": "Jun 16, 2020",
+      "title": "",
+      "comment_content": "HUMA 4840是葉錦明教授在科大任教的最後一門課程。內容涵蓋道家道教思想為主。由於道教系統龐大複雜，這門課程只集中討論內丹鍊養，而符籙科儀等一概不沾。課程內容是閱讀傳統中國道教經典，例如《河上公注老子》，《黃庭經》，《抱朴子》，《鐘呂傳道集》等。完成這個課程後，你會大概明白中國本土宗教道教中的修仙煉（內）丹究竟是怎麼一回事。",
+      "comment_teaching": "教授演繹技巧非常好，上課內容豐富，亦歡迎學生課後與她論「道」。",
+      "comment_grading": "如果你表現平平，也有B。此外，教授注重學生上課時的表現。",
+      "comment_workload": "需要交一篇4000字的論文，而且你會在交論文前，present你論文的構思。原本有Final exam，但因社會動盪取消。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "qXBGqo1nMLRFOm28ZzclhxwAfaVlr41K",
+          "name": "HUMA4840",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "W7ixeCBFxUdhtpypS8vfPAYEX7GIW4aZ",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 308,
+          "name": "YIP, Kam Ming",
+          "rating": 1
+        }
+      ],
+      "author": "Student",
+      "date": "Sep 04, 2015",
+      "title": "",
+      "comment_content": "The course content is not that interesting, and quite difficult to understand.",
+      "comment_teaching": "The professor&#039;s presentation skill is good, and she is always willing to offer help to student. However, she may stick to a topic too long, so some of the topics included in the syllabus would have to be skipped.",
+      "comment_grading": "I guess if you are not very lazy, you could get a B quite easily. However, if you want to get A range, you may need to try very hard.",
+      "comment_workload": "A casual presentation, term paper and a written test only",
+      "rating_content": 3,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

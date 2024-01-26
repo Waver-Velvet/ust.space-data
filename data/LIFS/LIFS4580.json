@@ -1,0 +1,140 @@
+{
+  "course": {
+    "id": 821,
+    "subject": "LIFS",
+    "code": "4580",
+    "name": "Bioinformatics",
+    "description": "Frontier knowledge in bioinformatics.  From the fundamental data mining, to the advanced topics in evolutionary analysis, protein structure prediction and genomics study.  Both basic and applied aspects of bioinformatics will be explored in this course.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1730,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3.33,
+    "rating_teaching": 3.33,
+    "rating_grading": 4.33,
+    "rating_workload": 5,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 485,
+        "name": "XUE, Hong",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "TJ53gMW516yunS7ArjyzK19R0C3dzZ3a",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 485,
+          "name": "XUE, Hong",
+          "rating": 1
+        }
+      ],
+      "author": "Alexa",
+      "date": "Jan 22, 2018",
+      "title": "",
+      "comment_content": "The content is quite outdated and useless for understanding fundamental concepts in this field. Many resources introduced in the course are no longer in use. I believe most people take this course just because they need the credits.",
+      "comment_teaching": "The professor&#039;s English is not clear enough. The lectures are boring. The lectures are also not useful for exams.",
+      "comment_grading": "The grading is not bad. My grade is above mean less than 1 SD, still got A.",
+      "comment_workload": "Little workload. No homework, assignment and reading just like most other life science courses.",
+      "rating_content": 2,
+      "rating_teaching": 2,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "gGMLRt6z0lmtBCkDF4GQzyD9PYsFEYYU",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 485,
+          "name": "XUE, Hong",
+          "rating": 1
+        }
+      ],
+      "author": "LKY",
+      "date": "Jun 25, 2017",
+      "title": "Good for your grade",
+      "comment_content": "A memorizing and boring course. You can learn some bioinformatics softwares and tools.The most important part of this course is the principles behind the tools and softwares.How they work and their pros and cons.",
+      "comment_teaching": "She just read out the notes. There is a review session before every exam,she will tell u which parts are important .<br />When you do revision,you just have to read the content in review session lecture.Things other than review session are almost not examed.",
+      "comment_grading": "Best among 4000 level . The grade is very good .",
+      "comment_workload": "1miderm 1 final only.She provides u some exercise but the exercise has nothing to do with exam.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "pX2GhtuMjl5nVZFfqO6CFccaYYIOV7c7",
+      "semester": "2015-16 Spring",
+      "instructors": [],
+      "author": "mustard",
+      "date": "Aug 03, 2016",
+      "title": "",
+      "comment_content": "Despite its course code of 4000level, the course isn&#039;t as difficult as it seems. You mostly learn about types of programs or techniques (e.g. Microarray, use of Databases etc) used to study DNA sequencing, protein sequencing etc. Although professor gives out simple exercises we can try at home for each lecture, they won&#039;t be covered in exams. At the end of the course, it felt like I didn&#039;t really learn anything applicable at this instant, because you&#039;re learning more about the theories of how they work not how to apply them.. You might find this course easier to understand if you&#039;ve taken course Biochemistry I.",
+      "comment_teaching": "You sometimes have to try hard to make out what she&#039;s saying because she speaks really soft. Her lecture notes are very concise, so you have to attend the lectures to understand them. She gives you a short review summarizing materials learnt before every exam.",
+      "comment_grading": "This is a small class of about 40 people. Midterm counts 40% and Final 60%. Mean for midterm was 30 out of 40, stdev of around 5.",
+      "comment_workload": "No assignments",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

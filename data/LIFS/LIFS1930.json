@@ -1,0 +1,2821 @@
+{
+  "course": {
+    "id": 1386,
+    "subject": "LIFS",
+    "code": "1930",
+    "name": "Nature of Life Sciences",
+    "description": "This is an innovative blended-learning course that comprises both independent e-learning and face-to-face tutorial components. The course covers general and up-to-date topics such as conservation biology and animal forms and functions in the field of Biology, metabolism and cell signaling in Biochemistry, and recombinant DNA, animal and plant biotechnology and bioethics in Biotechnology. For students in their first, second and third year of study; or fourth year students with instructor's approval.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2310,
+      2230,
+      2210,
+      2130,
+      2110,
+      2030,
+      2010,
+      1930,
+      1910,
+      1830,
+      1810,
+      1730,
+      1710,
+      1630,
+      1610,
+      1530
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3.88,
+    "rating_teaching": 3.81,
+    "rating_grading": 3.44,
+    "rating_workload": 4,
+    "review_count": 64,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 477,
+        "name": "TANG, Jessica Ce Mun",
+        "count": 50
+      },
+      {
+        "id": 481,
+        "name": "LAM, Yeung",
+        "count": 48
+      },
+      {
+        "id": 470,
+        "name": "LEUNG, Kar Wah",
+        "count": 39
+      },
+      {
+        "id": 479,
+        "name": "CHEUNG, Helen",
+        "count": 20
+      },
+      {
+        "id": 227,
+        "name": "KO, Ice Wai Ping",
+        "count": 8
+      },
+      {
+        "id": 586,
+        "name": "CHAO, Melody Man Chi",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "pdmaEHcpCgBduT1m3S8MVruDqerqs2qW",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 227,
+          "name": "KO, Ice Wai Ping",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 0
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "asa_05",
+      "date": "Jan 18, 2024",
+      "title": "A fairly good course",
+      "comment_content": "Content:<br />1. Transcription and translation<br />2. Stem cells<br />3. Recombinant DNA Technology<br />4. Animal Biotechnology<br />5. Plant Biotechnology<br />6. Animal Form and Function<br />7. Cell Signaling<br />8. Metabolism and Nutrition<br />9. Biodiversity and Evolution<br />10. Ecology<br />11. Conservation Biology<br />12. Bio-ethics and Public Acceptance<br /><br />I think the first part of the syllabus(Tang&#039;s part) is quite similar to the content in LIFS1902. <br /><br />Each topic has online reading material with a graded quiz with around 10 questions. The quiz must be done before class to better understand the content taught.",
+      "comment_teaching": "I really enjoyed Lam Yeung&#039;s teaching, he would take time to go through the quizzes and explain his thought process behind each question. He also uses interesting case studies as examples when teaching a topic. Lam taught 6-8 (3 topics) <br /><br />Despite the bad reviews about Ice Ko, I liked the way she taught her topics the only thing that annoyed me was her persistence to get us away from electronic devices and use our brains rather than chatgpting questions. She also used good case studies to explain topics and link them to hk. (Topics: 9-12)<br /><br />I felt like throughout the course Jessica Tang put the least effort into making her topics interesting and she would speed through her slides and questions that unless you were a life science student it would be difficult to understand her topics. (Topics: 1-5)",
+      "comment_grading": "Final exam (60%)<br />Written assignment(10%)<br />Attendance(10%) - cant be absent for more than 2 classes<br />Quizzes (20%)<br /><br />The raw marks for the final exam and the written assignment were not disclosed. My final mark just appeared on the student center.",
+      "comment_workload": "Each topic has online material that you are supposed to go through before you do the quiz. A fairly good amount of content and the quizzes aren&#039;t necessarily hard. <br /><br />In the written assignment two topics are assigned to you randomly and you must choose one. The only drawback with this was that the lecturers didn&#039;t provide much information about what type of essay it should be or what they expect from students.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "sTI6FZgTrJm0rLUYcPxM1p3k3iKhhql6",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 227,
+          "name": "KO, Ice Wai Ping",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        }
+      ],
+      "author": "imm",
+      "date": "Jan 02, 2024",
+      "title": "",
+      "comment_content": "Many are covered in DSE biology and some parts are related to LIFS1902, so if you are doing both at one time, it should be easier. <br /><br />syllabus: <br />Transcription and Translation<br />Stem Cells<br />Recombinant DNA<br />Animal Biotechnology<br />Plant Biotechnology<br />Animal Form and Function<br />Cell Signaling<br />Metabolism and Nutrition<br />Evolution<br />Ecology<br />Conservation Biology<br />Bio-ethics and Public Acceptance",
+      "comment_teaching": "all three professors are nice to answer your questions <br /><br />Dr Tang loves to give you a question for little group presentation when only 15 mins left <br /><br />Don&#039;t know much about Dr Lam(skip two lesson;)<br /><br />Dr Ko has a really neat and clear powerpoint, all needed info are clear written(Dr Tang prefers using pics)<br /><br />except that Dr ko reminds me of my high school 訓導主任, spend around 10min in the first lesson to talk about punctuality, stop talking as a late student arrives, leave dead silence",
+      "comment_grading": "pretty good, A-<br />did all the quizzes on time, 100% participation mark, one day late for the 400 word-essay(-10%), doing ok in the final exam<br /><br />BUT it didn&#039;t release the grade for essay and the final exam<br /><br />TIPs for final: do read through the slides in the tutorial<br />I was focusing more on the online materials, turns out they have about 5 to 6 questions asking about stuff on the tutorial slides.",
+      "comment_workload": "light for students with biology background <br /><br />no midterm, save time for other courses <br />one lesson per week, one quiz before lesson (due the day before lesson), question in quizzes are easy(just for memorizing), can use chatgpt to find all answers",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "pKrrUOIwHM9yXaU2NHUcBEBPF0A8rfH0",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 227,
+          "name": "KO, Ice Wai Ping",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "ddj2004",
+      "date": "Nov 25, 2023",
+      "title": "",
+      "comment_content": "Content is quite straightforward (some concepts that might have been taught in high school). If you have a strong foundation in biology, you should be fine.<br /><br />Here are each instructor&#039;s topics for reference: <br />Tang:<br />Transcription and Translation<br />Stem Cells<br />Recombinant DNA<br />Animal Biotechnology<br />Plant Biotechnology<br /><br />Lam:<br />Animal Form &amp; Function<br />Cell Signaling<br />Metabolism &amp; Nutrition<br /><br />Ko:<br />Evolution<br />Ecology<br />Conservation Biology<br />Bio-ethics and Public Acceptance",
+      "comment_teaching": "Lam is very good, he always encourages us to learn science in order to solve problems and understand the reasoning behind the scientific concepts instead of just memorising for the sake of getting good marks. He is also very interactive and tries to get the whole class invovled in discussions. <br />Tang and Ko are also good but I was not too interested in Ko&#039;s topics.",
+      "comment_grading": "Received A-<br />Final (60%), assignment-essay (20%), quiz (10%), participation (10%)<br /><br />Final exam is 1.5 hours long with only MCQ. Quite straightforward if you have revised sufficiently. I started revising around a week earlier which should be fine<br />No midterm<br /><br />For the assignment, you have to write an essay about a given topic (no more than 400 words). The topics are quite interesting.",
+      "comment_workload": "Not that much, quite easy to manage with other courses as well. Revision for final exam is manageable.<br /><br />In the week leading up to the next class, you will have to read the materials of the upcoming class and complete a graded quiz (10-11 MCQs). The quiz is not too hard, especially if you read all the material given. <br /><br />The essay needs some effort - choosing a topic, doing research on it and being able to concisely write about it within a word limit. Choose your topic and start planning well before the deadline, this is not something you can do at the very last minute.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "T2QB0PUT7STMuI77yzEXYG6JKaxWVeis",
+      "semester": "2022-23 Fall",
+      "instructors": [],
+      "author": "Edmundpoon",
+      "date": "Sep 24, 2023",
+      "title": "Tttttttt",
+      "comment_content": "Codomain is simply the set of values that includes range along with a set of additional values. Understanding the different definitions is important as it helps to clarify the differences between one and the other.<br /><br />Usually, Codomain and Range serve the same purpose when it comes to figuring out the output of the function. Using a Domain and Range calculator, one can easily find out the solutions to any problems prese",
+      "comment_teaching": "You may be seeing this page because you used the Back button while browsing a secure web site or application. Alternatively, you may have mistakenly bookmarked the web login form instead of the actual web site you wanted to bookmark or used a link created by somebody else who made the same mistake.<br /><br /><br />Left unchecked, this can cause errors on some browsers or result in you returning to the web site you tried to leave, so this page is presented instead.",
+      "comment_grading": "physiological changes after eating can increase the amount of medicine absorbed by the body. As the question takes Cola as an example, Itraconazole (antifungal medication) has a better absorption when taken with food and acidic drink (like Cola). On the other side, with food ,many other medications’ absorption and also effectiveness can be reduced significantly making them ineffective. Given the fact the physiological effects of food on digestive system especially the gut such as changes in its pH (acidity) and motility.<br />An additional information: it is recommended not to take medicine with caffeinated drinks, citrus juice or milk due to the reducing of effectiveness already mentioned above, opposing to the absorption of certain components like iron. That is why we advice to wait for at least an hour if a patient drinks milk, tea or coffee. Water is still the best an",
+      "comment_workload": "An interesting point about the range and codomain is that “it is possible to restrict the range (i.e. the output of a function) by redefining the codomain of that function”. For example, the codomain of f(x) must be the set of all positive integers or negative real numbers and so on. Here, the output of the function must be a positive integer and the domain will also be restricted accordingly in this case.<br /><br />Till now, we have represented functions with upper case letters but they are generally represented by lower case letters. If f is a function from set A to B a",
+      "rating_content": 2,
+      "rating_teaching": 5,
+      "rating_grading": 2,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "eXPVHW3roeCBRggozIYfcTQEQnM0QATs",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 227,
+          "name": "KO, Ice Wai Ping",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 0
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "marvellous",
+      "date": "Sep 23, 2023",
+      "title": "小伏",
+      "comment_content": "1. Transcription and translation<br />2. Stem cells<br />3. Recombinant DNA<br />4. Animal biotechnology<br />5. Plant biotechnology<br />6. Animal form and function<br />7. Cell signaling<br />8. Metabolism and nutrition<br />9. Evolution<br />10. Ecology<br />11. Conservation bio<br />12. Bio-ethics and public acceptance",
+      "comment_teaching": "Jessica Tang is the most boring instructor, I don&#039;t know what she is teaching<br /><br />Lam Yeung is better as he is more interactive with students<br /><br />Just based on teacher skills, Dr. Ice ko is the best among the three, she has clear pronunciation and is easy to follow, but the problem is we are not allowed to be late in class and required us to turn off our mobile phones during the class, and no iPad is allowed during the discussion, which is very different to other instructors",
+      "comment_grading": "Final MC 其實個人覺得唔係出得好深，只要有溫下書都應該pass 到， 但係Essay 真係好難拿高分，因為對未學過/寫過bio Essay 嘅同學會有啲難掌握, 最後導致Essay　好易爛grade.<br />Online quiz:10%<br />Participation:10%<br />400 words essay:20%<br />Final exam(all MCs) 1.5 hrs: 60%",
+      "comment_workload": "One final (All MC), One Essay to write ( Assigned by the instructors randomly), and quizzes that are required to be done before the next class, you can find most of the answers on the internet, just a couple of MCs. <br />上堂答問題可以拿participitation 分數",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "E6PeIbYNpRQIB9rJPaaHLrC0gLjPxwXf",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 227,
+          "name": "KO, Ice Wai Ping",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "Aaaaab",
+      "date": "Jun 22, 2023",
+      "title": "",
+      "comment_content": "(Blended learning course)=<br />Read and learn the material by your own+ tutorial<br />1. Transcription and translation<br />2. Stem cells<br />3. Recombinant DNA<br />4. Animal biotechnology<br />5. Plant biotechnology<br />6. Animal form and function<br />7. Cell signaling<br />8. Metabolism and nutrition<br />9. Evolution<br />10. Ecology<br />11. Conservation bio<br />12. Bio-ethics and public acceptance",
+      "comment_teaching": "Overall it is good<br />The lesson is interactive and quite fun",
+      "comment_grading": "Online quiz:10%<br />Participation mark:10% (5% deduction will be made if more than 2 no- shows in class after add/drop, active participation is required)<br />Writing assignment(Short essay):20%<br />Final exam(all mcq)1.5 hrs:60%",
+      "comment_workload": "-Not much to do at the beginning, only need to finish quiz before the next lesson in Canvas.(All mcq)<br /><br />- Need to read and learn the material by yourself, teachers usually&nbsp;&nbsp;do a short review on the topic and have discussion on it or rather than teaching the whole topic again<br /><br />-A short essay(around 400 words) writing assignment will be assigned to you, Topics will be announced before final(around the end of the semester). It costed me a lot of time@_@.<br /><br />-Two topics will be assigned to you, you only have to choose one to work on.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "zMTKeUCtx9Ty1z9Bc9ZCb6QPB4KYojor",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 227,
+          "name": "KO, Ice Wai Ping",
+          "rating": 1
+        }
+      ],
+      "author": "Linda123",
+      "date": "Jun 21, 2023",
+      "title": "",
+      "comment_content": "Jessica&#039;s part:<br />1. Transcription and translation<br />2. Stem cells<br />3. Recombinant DNA<br />4. Animal biotech<br />5. Plant biotech<br />Philip&#039;s:<br />6. Animal form and function<br />7. Cell signaling<br />8. Metabolism and nutrition<br />Ice&#039;s:<br />9. Evolution<br />10. Ecology<br />11. Conservation bio<br />12. Bio-ethics and public acceptance",
+      "comment_teaching": "Jessica had clear explanations of simple bio definitions<br />Philip made the classes quite fun by demonstrating different applications in life<br />Ice was a bit strict on getting on-time to class<br />All professors had detailed ppts or other online materials",
+      "comment_grading": "online quiz 10%<br />participation mark (different ways to obtain, depending on professors) 10%<br />written assignment 20%<br />final exam (1h) 60%",
+      "comment_workload": "reading online materials and online quiz each week<br />participation in class (answering questions, doing worksheets in groups in class)<br />400 words written assignment (nearly end of semester)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "PeeKnZFe4jFgvQtdAT4Swp1A3IMdOyUz",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 0
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 227,
+          "name": "KO, Ice Wai Ping",
+          "rating": 0
+        }
+      ],
+      "author": "Karen Lau",
+      "date": "Jun 02, 2023",
+      "title": "黑箱Grading",
+      "comment_content": "Blended mode<br />上堂前要自己上canvas睇note同做quiz先<br />上堂會講note冇既野(例如case study) 同埋group discussion要你填工作紙 問返上堂教嘅嘢同case study 答案啱唔啱都冇所謂<br />會take attendance 上堂答問題會有participation mark<br />走多過兩堂會扣5% Attend+parti分<br />有少似中學bio堂 尤其是喺Ice Ko嘅加持下<br />三個tutor教唔同部分<br /><br />對於無bio底嘅人嚟講content可能有d難明 有bio底嘅就會覺得易<br /><br />Syllabus:<br />Jessica：Transcription and Translation<br />Stem Cells<br />Recombinant DNA<br />Animal Biotechnology<br />Plant Biotechnology<br /><br />Lam：Animal Form and Function<br />Cell Signaling<br />Metabolism and Nutrition<br /><br />Ko：Evolution<br />Ecology<br />Conservation Biology<br />Bio-ethics and Public Acceptance<br /><br />Final考哂所有topic",
+      "comment_teaching": "Jessica:跟ppt讀 少悶<br />為左個個都有parti分會chur人答問題<br /><br />Lam:會叫你諗同答一d比較creative嘅問題(例如group discussion叫你諗一嚿有助lower the body temperature嘅嘢)<br />上完一堂會出返ppt同重點<br />我覺得係成個course最好既tutor 可惜淨係教三堂😢<br /><br />Ko:極品<br />Group discussion要你收ipad唔比你上網搵答案<br />成日講廢話叫你唔好靠哂電腦<br />同中學訓導一樣<br />上佢堂自己醒定d順便扮工抄notes(因為group discussion唔可以開電腦iPad所以建議用紙筆抄)<br />雖然佢咁搞法確實可以令人專心上堂但我係心散慣嘅壞學生🙈<br />不過叫人準時上堂自己都會準時落堂 算佢有口齒<br />可能係因為佢上完我個section仲有下個section要上所以唔得閒diu人🤔<br /><br />Reg課時見到Ice Ko有份教建議drop<br />除非好似我咁走唔甩 咁就祝你好運啦🤪<br />(我group B 數太廢 唔想讀math1014同phys1112又要fulfill school requirements 唯有焗讀)",
+      "comment_grading": "Attend+parti(10%):全部有上<br />Assignment(10%):平均8.78/10<br />Essay(20%):冇出分<br />Final(60%):冇出分<br />Overall:B+ (本來預左有A-😭) <br />Grading非常黑箱作業 真係伏伏伏伏伏🚁<br /><br />利申:dse bio Lv.4<br />Lifs1902 C+",
+      "comment_workload": "Assignments(每星期做十條mc)<br />MC做完一題冇得返轉頭好蝦人<br />大部份答案可以網上搵<br />Sem尾要交一篇Essay(400+-5% 字) 隨機抽兩個topic出嚟比你二揀一<br />有兩個星期時間做<br />(essay唔可以用ai做 自己寫啦😉) <br />Final(1hr 50條mc)<br /><br />以一個 3 cred course嚟講workload合理",
+      "rating_content": 3,
+      "rating_teaching": 2,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "1AXAGS06FLL1SHCmAcmhmr76CzMawCg2",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 227,
+          "name": "KO, Ice Wai Ping",
+          "rating": 0
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "SunGamePlay",
+      "date": "Nov 16, 2022",
+      "title": "Good course if Ice KO is not involved",
+      "comment_content": "You have to self-learn and answer the quiz online.<br />Powerpoint for you to self-learn is full of words, <br />some topic might taught in HKDSE syllabus, <br />some are very new things. <br />Don&#039;t scare about the online material of this course, <br />everyone scare about these.<br />Drop this course if you feel you can&#039;t handle it,<br />Don&#039;t take the risk of getting bad grade.<br /><br />The syllabus is listed for you to reference.<br />Topics<br />Evolution<br />Ecology<br />Conservation Biology<br />Animal Form &amp; Function<br />Cell Signaling<br />Metabolism &amp; Nutrition<br />Transcription and Translation<br />Stem Cells<br />Recombinant DNA<br />Animal Biotechnology<br />Plant Biotechnology<br />Bio-ethics and Public Acceptance",
+      "comment_teaching": "Except Ice Ko, all other 2 instructor is good.<br />But Ice Ko making me have no choices but have to put an E here.<br />Ice Ko is the worst instructor I had ever seen in the HKUST.<br />She didn&#039;t like a university professor, more like a college teacher.<br />Leave her as far as possible, or don&#039;t regret afterward.",
+      "comment_grading": "Quiz + Attendance + Exam + Essay<br />Quiz have to self learn, not easy if you didn&#039;t take biology in HKDSE.<br />Attendance very annoying, especially when you have to listen to<br />what Ice Ko said.<br />Exam only MC, no LQ, that&#039;s the only good things.<br />Essay take a long time, not worth anyway. <br />The grade is not good, very bad grade course.<br />Take 1901 if you didn&#039;t have bio background.",
+      "comment_workload": "The workload is very high if you have zero biology background.<br />If you know how to do the quiz, you can do it quick.<br />But normally you have to self learn a lot, <br />which you might take serval hours<br />before you can start to do the quiz.<br />The essay also take a long time which you can&#039;t not do it <br />as it count a lot in your final result.<br />There is much better choices if you just want to <br />fulfil school requirement.",
+      "rating_content": 2,
+      "rating_teaching": 1,
+      "rating_grading": 2,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "12qG7gFnNXgQpxeGC7eWmaWlH3uQBHy9",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "Constance_V",
+      "date": "Oct 21, 2022",
+      "title": "",
+      "comment_content": "Introduced many topics about life science, some of which are interesting but others are difficult and boring. Needed blended learning, which means you should read the material posted on canvas, finish the quiz and then attend the class.<br /><br />Includes conservation biology, the forms and functions of animals, metabolism and cell signaling, recombinant DNA, animal and plant biotechnology, and bioethics.",
+      "comment_teaching": "I took this course via zoom, it was a tutorial course and used case analysis to explain the contexts. <br /><br />The three professors were ok,&nbsp;&nbsp;while I think LEUNG is slightly better.",
+      "comment_grading": "Due to the pandemic, the final exam was canceled and we only needed to write an essay of fewer than 1000 words. The topic must be chosen in two arranged ones.<br /><br />I wrote about 700 words and finally got A-, don&#039;t know how it works.<br /><br />BTW my major is in LIFS, maybe it is easier for me?",
+      "comment_workload": "Average workload, several reading materials, 1 quiz each week, and 1 final essay.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "KE0OaFQUy4BdKoOBF3TPhuDfTD9s7f2v",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        }
+      ],
+      "author": "ywyim",
+      "date": "Aug 26, 2022",
+      "title": "",
+      "comment_content": "Won&#039;t repeat the syllabus la<br />I think the content is extended from DSE bio, it&#039;s good for LIFS students to study, won&#039;t be too challenging.",
+      "comment_teaching": "All are nice and willing to answer questions. Lessons are very interactive and answer more questions in class can have bonus marks so do participate more.",
+      "comment_grading": "Zoom lessons so no exam<br /><br />Canvas Quizzes = 20%<br />In Class Participation , iprs= 20%<br />Essay = 60%<br /><br />For essay, each students will have two topics to choose, one of my topics was &quot;Should organism be conserved? Discuss one species that was not mentioned in class.&quot;<br />I only wrote around 700-800 words, marks was not known.<br />I also absent in one lesson. <br /><br />Grade is B+",
+      "comment_workload": "Not much workload, just finish quiz before each lesson, all can be googled. Essay maximum is 1000 words, can be finished quick.<br />Participation mark also easy to get, not really need to open mic answer, just type in chat box.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "vqDMnL3S52dcQJu5uC0cA0LpX00Jero5",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 586,
+          "name": "CHAO, Melody Man Chi",
+          "rating": 1
+        }
+      ],
+      "author": "Markus:)",
+      "date": "Jun 06, 2022",
+      "title": "Nice course of Non-bio Students",
+      "comment_content": "Simple Biology&amp; Ecology topics. If you did SL Bio in the IB, this wouldn&#039;t be a problem for you, as the majority of the topics are just revisions with a bit of HL content sprinkled in there such as the Krebs Cycle and Glycolysis.<br /><br />Topics<br />1. Evolution<br />2. Ecology<br />3. Conservation Biology<br />4. Animal Form &amp; Function<br />5. Cell Signaling<br />6. Metabolism &amp; Nutrition<br />7. Transcription and Translation<br />8. Stem Cells<br />9. Recombinant DNA<br />10. Animal Biotechnology<br />11. Plant Biotechnology<br />12. Bio-ethics and Public Acceptance",
+      "comment_teaching": "The entire teaching team was very approachable &amp; were very kind. My favorite instructors were Philip Lam &amp;Melody Leung, both of them would respond to emails fairly fast and generally made the content more interesting than it was. I remember that Prof Lam included a comparison between the components of Energy drinks such as Monster and Redbull and compared them to Coffee &amp; Tea. It was a good way to link the content to actual applications.",
+      "comment_grading": "Scheme<br /><br />IPRS Quizzes = 20%<br />In Class Particiation = 20%<br />Written Assignment = 60% <br /><br />I got a B+ in the end which I&#039;m fine with. I think that the majority got full marks for their IPRS and the in-class participation. As such the course grade is basically dependent on how you do on the Essay.",
+      "comment_workload": "Note-taking can take a fair bit of time depending on the module as some take 2/3 hours while most take an hour. I remember that Animal Form and Function, Cell Signaling, and Metabolism &amp; Nutrition took longer than most.<br /><br />Both the IPRS and Class participation are free marks. Just pay attention during class to catch the IPRS and answer the prof&#039;s questions. Who could have known that Profs are more inclined to help a student outside of class hours if they participate during class.<br /><br />The bulk of the grade was made up of a 1000 Word Essay where you were you could choose between one of two open-ended questions. We didn&#039;t have a final exam due to the sem being online. The Essay is really a hit or miss as they don&#039;t really give you a lot of guidance. Just email the prof if you are uncertain as it makes up the majority of your grade.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ZsNbzfsBmfSvdn0EE8of0Fj638DdlsuX",
+      "semester": "2021-22 Fall",
+      "instructors": [],
+      "author": "cell_cwl",
+      "date": "Apr 28, 2022",
+      "title": "",
+      "comment_content": "Biodiversity and Evolution<br />Ecology<br />Conservation Biology<br />Animal Form and Function<br />Cell Signaling<br />Metabolism and Nutrition<br />Transcription and translation<br />Stem cells<br />Recombinant DNA<br />Animal Biotechnology<br />Plant Biotechnology<br />Bio-ethics and Public Acceptance",
+      "comment_teaching": "上堂答問題有bonus point<br />睇下片、答下問題、討論下",
+      "comment_grading": "爛grade course<br />C+<br />中學有讀Biology，上堂輕鬆<br />但無論以前有冇讀Bio，到final嘅時候都係唔識。。。",
+      "comment_workload": "400 words essay<br />有final exam<br />上堂前睇notes (好多字）+ quiz（唔難，睇左notes就識）<br />最多可以走兩次堂",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 1,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "krjkohZmIqgxc6OngB4jtuoan2jSdfOK",
+      "semester": "2021-22 Fall",
+      "instructors": [],
+      "author": "NahNah",
+      "date": "Jan 27, 2022",
+      "title": "",
+      "comment_content": "Somehow challenging to those students who haven&#039;t studied biology before.<br />It can let students explore other fields of life science",
+      "comment_teaching": "Including group discussions.<br />The teaching is not too boring. <br />The professors are interactive. <br />Students can answer questions to get bonus marks.",
+      "comment_grading": "I got a C+ with late writing and didn&#039;t do any preparation for the final exam.",
+      "comment_workload": "Several mc questions before every class.<br />The workload is not heavy but somehow annoying because some of the mc questions are quite tricky. But it is not a big deal.<br />One writing and final exam.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "LLakafe2POfm8SjuuCDrXR15UnGz0ngh",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 0
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "SmokingPuddle58",
+      "date": "Dec 31, 2021",
+      "title": "Hard workload, not bad grade, but think twice!",
+      "comment_content": "I will not repeat the content as others have already posted them.<br /><br />Talking about the quality of the online materials they made..... Very bad.<br /><br />How come the material still uses .swf document, while Adobe has abandoned Flash in 2021??? And how come some of the link doesn&#039;t work at all? The professor should review all online materials before distributing to us. <br /><br />Also regarding the content, hmm, why they could put these topic together, when they are quite unrelated? After all, I didn&#039;t know what I have studied. Maybe I have known that there are many clever people or people who have took biology taking this course to get a good grade and increase their CGA.",
+      "comment_teaching": "Every Monday you are attending a tutorial, but not lecture.(But this tutorial lasts for 1.5 hour, and will not go over the contents in the online material. They will give some new and extra stuff based on the online materials). You yourself are teaching yourself the contents. That&#039;s called &quot;blended learning&quot;. Therefore, I am rating for &quot;tutors&quot;.<br /><br />Leung: How come you suddenly switch your language during your lesson??? I know that some students also can speak Cantonese, but that&#039;s not the reason for you to switch to Cantonese during the lesson. Also, don&#039;t force us to answer the question when we don&#039;t want to do that! It make us very embarrassing! Anyway, in her lesson, I usually do other things, such as maths and lang assignments, to use time more wisely!<br /><br />I give no comment to other two &quot;tutors&quot; because they are quite normal, at least they don&#039;t force us to answer questions. But all of the tutorials were quite boring.<br /><br />If you can&#039;t adopt such a &quot;blended-learning&quot; style, then run!",
+      "comment_grading": "Quizzes : 20%, on canvas, in which most of the answers can be found on the internet.<br /><br />Essay&nbsp;&nbsp;&nbsp;&nbsp;: 20%, usually announced two weeks between study break. 400 word limit. Choose 1 topic among 2.<br /><br />Final&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 60%, with 40 MCQs. ( 1MCQ == 1.5% of your course grade!!!)<br /><br />-5% deduction for missing more than 2 tutorials.<br /><br />Bonus marks will be given for answering questions during tutorial.<br /><br />I didn&#039;t know my marks for LIFS1930 as professors didn&#039;t release them..<br /><br />The grading is not too bad(maybe)! Without any biology background, I eventually get a B+!<br /><br />Here are some tips for the final exam.🤔<br /><br />Find some questions related to that topic on the internet and do them. Some of the questions in the final seems to be copied exactly from those online quizzes. (Without even changing the options)<br /><br />Also, the final will asks the question from the tutorial! (For 2 questions). Remember what professors said during the tutorial!<br /><br />Finally, some questions may come from the quizzes they set. Revise them briefly before exam.<br /><br />But the most important is to go through the online materials!(Including the definitions of some key terms!) They will be tested.<br /><br />Remember that, there are no exclusion for those who have taken biology but the content are mostly high-school biology contents and therefore, think twice before joining this course, especially for those without biology backgrounds.",
+      "comment_workload": "I think quite light for those with biology background. Me, without biology background, find a little &quot;chur&quot; in this course.<br /><br />As I don&#039;t like biology so much, therefore, I put some time in other subjects but not in 1930. Before the final, I feel stressed, so I go through all the materials in a very few hours. That&#039;s when I feel &quot;chur&quot;. However, the final exam is not difficult. The examination time is 2 hours. But usually the exam can be finished within 1 hour.(As they are all conceptual question)",
+      "rating_content": 2,
+      "rating_teaching": 2,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "HA7wqGKegPUA0R8TXmwqbW7JYZSJprnJ",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "IssacLai",
+      "date": "Dec 29, 2021",
+      "title": "They might be just some small drawbacks, yet they happen at the right place which makes them a sugar-coated trap",
+      "comment_content": "The contents are more or less the same every semester. If you did study some biology before, the materials are not too hard for you to read and understand while enough to raise some interest into the topic. Also doing a bit research may help on doing case studies in tutorials as well as selecting essay topics and writing them.",
+      "comment_teaching": "They are able to guide you in class and provide equal chance for all to get bonus marks.",
+      "comment_grading": "20% quizzes to be done every week at home online without time limit. This is easy and not time consuming.<br /><br />60% final exam with 40 mcs. This depends on your understanding of the content. If you have enough studying then 90 minutes are much more than enough to complete. Just note that a few questions are based on what is said during tutorial but not the contents on canvas. Also bioethics will also be in the exam.<br /><br />The 20% essay is the real deal. I bet this is where grades are determined actually as the above 80% are just too easy to get high score. A difference in two or three marks here may cause a difference in grade, I suppose.<br /><br />Although I get nearly 90% in the quizzes, obtain a handful(at least a bit above average?) of bonus marks, and performing really well in exam, eventually I got a B+ only. I guess my essay ruined the whole thing...although I don&#039;t know why. The course does not let you know your essay marks as well as the final exam, so I have no idea what went wrong. I won&#039;t appeal though, because this should probably be the only lifs course i am taking, so I would rather work harder on the subjects i am interested in.<br /><br />Well, in another perspective, this means that those without a biology background can also strike for an A range in the course just like those who have, and I really have this kind of friend (we are both in year 1) who ended up an A+. This is the only reason I gave it a D but not an E.",
+      "comment_workload": "Not high.<br />The time required to read the course material is at most several hours per topic, and if you omit the videoes it takes probably less than an hour. I don&#039;t recommend this though because they are worth watching. For the quizzes, you can safely refer to the internet, although careful reading the course material once is enough to get you a nine out of ten, the remaining mark depends on how careful you read the question. Tutorials are in a light mood and you can choose to attend but daydreaming,&nbsp;&nbsp;but the questions are not hard and many of them has no fixed answer, so try to raise your hand a bit occasionally.<br />If not the essay this part would be an A --- yes now I really hate that 400 word essay after grades are out.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 2,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "vZvjWMu1ISvoFfFxB1eBESEKl94n0wWo",
+      "semester": "2021-22 Fall",
+      "instructors": [],
+      "author": "Spongi Bobu",
+      "date": "Dec 29, 2021",
+      "title": "YOU WONT BELIEVE HOW THIS COURSE HAS IMPACTED ME THESE 3 MONTHs!!!11!!!!!11! #not_clickbait (emotional)",
+      "comment_content": "Biodiversity and Evolution<br />Ecology<br />Conservation Biology<br />Animal Form and Function<br />Cell Signaling<br />Metabolism and Nutrition<br />Transcription and Translation<br />Stem Cells<br />Recombinant DNA<br />Animal Biotechnology<br />Plant Biotechnology<br />Bio-ethics and Public Acceptance<br /><br />You can ignore some topic which taught in secondary school, about 25% is secondary school stuff and good luck on that 75%, some are easy some are hard",
+      "comment_teaching": "Very interesting teaching which can really inspire you<br />But good teaching doesn&#039;t mean its a good grade course ;)",
+      "comment_grading": "I underestimated the difficulty of this course so I got B-(also spent most time on math), which I consider as a rotten grade. Moreover, this course is very time-consuming recommend DON&#039;T reg this course at fall sem, especially during year 1 u will get shredded by people from higher form.",
+      "comment_workload": "You need to do quizzes every week and some answers can be found on the internet. You gotta score really high cuz everyone will score high too, please aim for at least 85% if you want B range.<br /><br />You also need to write an essay before the end of sem, when I say before the end of sem it means smth like 2 weeks before exam. And is it a pain to write this essay even the word limit is 400 only, ofc if you don&#039;t care grade this is a quite chill course as 1 lesson per week. Oh btw u need luck and some social power if you want to profit in this course (cuz that&#039;s how mafia works), you are recommended to group up with people or even use money to buy sources.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 2,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "K4NkS5L7qhlgdXhbJderr2zJu6PxzPd5",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        }
+      ],
+      "author": "llz28",
+      "date": "Jan 19, 2021",
+      "title": "",
+      "comment_content": "1. biodiversity and evolution<br />2. ecology<br />3. conservation biology<br />4. animal form and function<br />5. cell signaling<br />6. metabolism and nutrition<br />7. transcription and translation<br />8. stem cell<br />9. recombinant DNA<br />10. animal technology<br />11. plant technology<br /><br />Mostly a review of high school biology. If you are taking other LIFS courses like 1902 or 1030, there will be some overlaps.",
+      "comment_teaching": "Teaching is overall ok. <br />There are more interactive parts compared to big lectures. Approximately 2 to 3 iPRS questions every class, but no need to worry about being correct or not.",
+      "comment_grading": "Participation iPRS questions 10%<br />Quiz 30%<br />Final essay 60%<br /><br />The grade for final essay is not published. No idea what the mean/sd of each component is.<br /><br />Me: about 97% in the quiz, don&#039;t know about the participation and final essay, A range in the end.",
+      "comment_workload": "quiz + 1000-words final essay<br /><br />Finishing the quiz before class (about 10 questions each time). The answers can be found in handouts most of the time.<br /><br />Instructors leave 2 to 3 weeks for the final essay.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "9TwigWlKHvuuVhEGUgi4Xv2OGXu9pO6F",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "BlossomHM",
+      "date": "Jan 08, 2021",
+      "title": "爛",
+      "comment_content": "Biodiversity and Evolution<br />Ecology<br />Conservation Biology<br />Animal Form and Function<br />Cell Signaling<br />Metabolism and Nutrition<br />Transcription and Translation<br />Stem Cells<br />Recombinant DNA<br />Animal Biotechnology<br />Plant Biotechnology<br />Bio-ethics and Public Acceptance",
+      "comment_teaching": "Prof.Leung 同Prof.Lam 都樂意答問題 上堂幾輕鬆 幾nice<br />Jessica 就有啲煩 chur你答問題<br /><br />整體都唔錯",
+      "comment_grading": "爛到想講粗口<br />Quiz+Final Essay <br />Quiz差唔多做齊(好似miss左個) 攞八九成分<br />Final Essay 有俾心機做<br />最後C-.... cls<br />對一個yr1嘅學生嚟講係幾大打擊",
+      "comment_workload": "都唔算大<br />Quiz都係上堂前做<br />每個星期一個quiz<br />一課一個quiz<br />上堂聽佢講<br />Jessica就會嗌人答 Philip同Melody就唔 你想答就答<br />好似答問題會計分",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 1,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "P2GFUuKPSjxeDc3gdYxN032zd8CDRv9k",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "laujason1205",
+      "date": "Dec 29, 2020",
+      "title": "都唔係傳聞中講到咁爛grade",
+      "comment_content": "Syllabus:<br /><br />Biodiversity and Evolution<br /><br />Ecology<br /><br />Conservation Biology<br /><br />Animal Form and Function<br /><br />Cell Signaling<br /><br />Metabolism and Nutrition<br /><br />Transcription and Translation<br /><br />Stem Cells<br /><br />Recombinant DNA<br /><br />Animal Biotechnology<br /><br />Plant Biotechnology<br /><br />Bio-ethics and Public Acceptance",
+      "comment_teaching": "All three instructors are good, they don&#039;t put emphasis on memorizing the content, also they are willing to answer your questions if you have any!",
+      "comment_grading": "Quite good grading, most of the time I just hea all the lessons, and I only wrote around 700 words in the 1000-word essay assignment. But at last, still get an A-. So, if you have the bravery to take this &quot;so-called&quot; 爛grade course, give it a try :)",
+      "comment_workload": "Light workload, only need to finish an all-MC quiz every week before each lesson, most of the answers of the quizzes can be found on google lol. Because of the special case of this year, we have no midterm and final exams, but we need to finish a 1000-word essay by the end of this term.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "v3V1y4gWLu1ukb6ncZYu7ZqcOi1IcCYv",
+      "semester": "2020-21 Fall",
+      "instructors": [],
+      "author": "Tsuiyu",
+      "date": "Dec 19, 2020",
+      "title": "",
+      "comment_content": "Was fine, nothing super interesting nothing boring,fair content. You don’t have to memorising anything because there’s no final exam.",
+      "comment_teaching": "Nothing specific, but all the professor have clear accent that doesn’t makes us fall alseep",
+      "comment_grading": "Didn’t know why I did to deserve a “C” , Spent a lot of time on it and none of my time was rewarded, Also because the grading of a 60% essay was not announced, I have no clue what’s wrong with my essay .",
+      "comment_workload": "Light workload , just quiz of 10 questions as homework each week.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 2,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "pHEHdXvtOI4QEmLzWCRbK0uz8kdecSwj",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "傲慢的香蕉",
+      "date": "Dec 15, 2020",
+      "title": "",
+      "comment_content": "General bio knowledge, it is simple for those who have a biology background in highschool. Science students can consider this course if u think you are good t biology.<br />Covered Topic<br />Biodiversity and Evolution<br />Ecology<br />Conservation Biology<br />Animal Form and Function<br />Cell Signaling<br />Metabolism and Nutrition<br />Transcription and Translation<br />Stem Cells<br />Recombinant DNA<br />Animal Biotechnology<br />Plant Biotechnology<br />Bio-ethics and Public Acceptance",
+      "comment_teaching": "Online materials + Zoom lectures<br />Several readings needed before lessons to get familiar with the topic<br />Lots of interactions in class, many students pop up their fun ideas<br />Also, teaching source are separated from online one so u are less likely bored in lectures<br />Professor in second is quite good. He went through the difficult questions in the quiz with us and clear the concept.",
+      "comment_grading": "IPRS 10%&nbsp;&nbsp;attend all classes<br />Online Quiz 30% total 80/90<br />1000-word essay 60% Not announced<br />Suprised Grade: A+<br />Iprs is important if u want a gd grade, u can really stand out by this guaranteed 10 points<br />Online quiz before class every week, about 10Q, not challenging and time-consuming, most of them can be googled <br />Essay topics are assigned last week of the semester, every student is given 2 of 12 random topics, 5-6 students per topic set<br />What topic assigned paly crucial role to your grade, u better choose the topic to show ur creativity and innovativity. If ur essay is dull like your topic is to introduce one species that is rapidly evolving without stating its potential use, I think u will be hard to impress the professor to get a good grade. It is important to show your thoughts. Year 1 without essay writing experience is not recommended to take since the essay really weighs heavily and u may easily screw it up.",
+      "comment_workload": "General speaking, weekly quiz+attendance+1 final assignment+online lecture is not harsh. <br />This course can save u sometime in the mid-term period, the final exam period everyone is busy, Final essay has a two-week quota that makes u feel less stressed.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "r6FQmgNGw9JDJ9YTpchvoNdXQzCp8y2B",
+          "name": "LIFS1930 Rubric for Essay Assignment-1",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "FLYQL1YP6ZONFIcfwOxE9OqmjAsMEMe1",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 0
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "Jungkok",
+      "date": "Sep 09, 2020",
+      "title": "Poor grading course, not worth to take unless you want a low GPA",
+      "comment_content": "Most of the content is somehow extended from the course LIFS 1902 or DSE Biology syllabus, it would be easy to understand the content if you have a Biology background.<br />However, under COVID-19, there is no final examination in this course, and each student is only assigned one essay topic related to one topic taught only, so it is not a must for students to go through all of the topics.",
+      "comment_teaching": "The teaching of the three instructors is fair, and the content is easily understandable.",
+      "comment_grading": "Very poor grading.<br />The competition in this course during this semester is very tight. Since it has no final exam this semester, there is a final assignment essay that contributed to 70% of the course grade. The mark of the essay is not transparent, I could not see my result even when I have sent an email for appealing my grade. And the grading for essay writing is somehow quite subjective, since different topics are graded by different instructors.<br />I have got a &quot;C&quot; in the final grade.",
+      "comment_workload": "Quite light workload. We only have to finish some quizzes every week before the lecture and can easily get the 30% score. Most answers to the quizzes can be searched on Google.<br />And there is one essay that replaced the final exam, contributed 70% of the course grade.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 1,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "piGMzX8N39zJWFhFzumifqQCoXLxEaWI",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 0
+        }
+      ],
+      "author": "風田",
+      "date": "Jun 12, 2020",
+      "title": "",
+      "comment_content": "因爲哩陣係疫情網 所以教學變作一個個網上tutorial<br />課堂内容係聽下唔同life science ge 科技同埋 mechanism<br />例如係cell signaling，animal biotechnology， stem cell等等<br />當中可能會問d幾有趣ge問題 例如叫學生諗下d咩stem cell ge新用途等等 再同你簡單分析下可行 同埋實用性等<br />上堂之前要睇該星期題目ge power point 同埋做埋quiz<br /><br />essay 題目:<br />A1 Discuss a species that is rapidly evolving that was not mentioned in the tutorial. What are<br />your thoughts?<br />A2 Discuss about relocation of a species that was not mentioned in class. What are the<br />advantages or disadvantages of relocation? What is your point of view?<br />A3 Discuss the conservation of one species, that was not mentioned in class. What are the<br />advantages and disadvantages of conserving this species? What is your point of view?<br />B1 What if homeostasis fails? Provide a case, which was not discussed in the tutorial, to<br />elaborate your thought.<br />B2 Discuss how faulty cellular communication(s) can lead to cancer and what are the lastest<br />technology for treating the disease.<br />B3 Sugar substitutes: friend or foe. Discuss the advantage and disadvantage of using sugar<br />substitutes.<br />C1 Describe a human disease that is caused by genetic mutation. Explain how gene<br />mutation affects the resulting protein, as well the pathology of the disease.<br />C2 Base on the characteristics of stem cells, name and elaborate on an application of stem<br />cell, and in which way this application can benefit us.<br />C3 Use recombinant DNA technology to create a bacterial strain that could positively impact<br />human society.<br />C4 Name and elaborate on an application of animal biotechnology, and in which way this<br />application can benefit us.<br />C5 Name and elaborate on an application of plant biotechnology, and in which way this<br />application can benefit us.<br />C6 Identify a bioethical issue happened recently. Discuss the stand points of the major<br />parties, and state your point of view.",
+      "comment_teaching": "Lam 睇得出幾用心 上堂比較認真 會用心解答問題同prepare<br />Leung 上堂比較輕鬆，會耐心解答問題（即使有煩膠，都會耐心）<br />Jessica 唯一采用分grp活動ge 人 好中意人答問題，想每個人都有分 （好尷尬，特別强制某kam grpmate講野）",
+      "comment_grading": "靚grade （應該)<br />essay分無睇到<br />我quiz有八成多d<br />最後A左",
+      "comment_workload": "workload幾輕鬆<br />2020 spring sem 只係得一篇essay 900 words (70%)<br />每個人會係12題題目隨機派2題 你要揀一題答<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;十幾個簡單ge quiz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(30%)<br />另外如果有答問題可以有加分 詳細機制唔係幾清楚<br />但係好似min 要上8 堂&nbsp;&nbsp;5好走甘多堂 佢會點名 太多空缺會扣分",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "creX41ToVkdlQqiHaXwKb6diq0IVlROM",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "0.0.....",
+      "date": "Jun 05, 2020",
+      "title": "好爛grade",
+      "comment_content": "Biodiversity and Evolution<br />Ecology<br />Conservation Biology<br />Animal Form and Function<br />Cell Signaling<br />Metabolism and Nutrition<br />Transcription and Translation<br />Stem Cells<br />Recombinant DNA<br />Animal Biotechnology<br />Plant Biotechnology<br />Bio-ethics and Public Acceptance",
+      "comment_teaching": "無乜特別 幾個tutor算nice<br />zoom上堂有兩個人堂堂嘈住都無鬧人<br />Jessica 好快覆email<br />LAM每次上完堂都會send返email講返重點",
+      "comment_grading": "好爛grade<br />30%online quiz<br />70% final essay<br /><br />final essay 要寫900字 有兩個星期時間寫<br />無出分 無comment<br />final grade C range",
+      "comment_workload": "每個星期一個online quiz<br />online quiz既答案上網search到<br />完sem後有一篇900字既essay要交",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 1,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "fJnHcyouApFiPTL9naouXjvBJkv4nPVL",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "HonestReview01",
+      "date": "Jun 01, 2020",
+      "title": "沒有Final的Lifs 不是我喜歡的Lifs (No Final Exam,No Good Grade)",
+      "comment_content": "Tang&#039;s part:<br />1.Biodiversity and Evolution<br />2.Ecology<br />3.Conservation Biology<br />Lam&#039;s part:<br />1.Animal Form and Function<br />2.Cell Signaling<br />3.Metabolism and Nutrition<br />Leung&#039;s part:<br />1.Transcription and Translation<br />2.Stem Cells<br />3.Recombinant DNA<br />4.Animal Biotechnology<br />5.Plant Biotechnology<br />6.Bioethics and Public Acceptance",
+      "comment_teaching": "Dr. Tang loves making some group discussions during her tutorial while Dr. Lam and Dr. Leung having more interaction with students during their tutorial. But the overall atmosphere is not that ideal as this was an online semester.",
+      "comment_grading": "-12 online quiz (30% of the total mark) <br />-900-word assignment (70% of the total mark)<br />-Bonus mark for answering questions during the tutorial (I don&#039;t think it is important to your grade though)<br /><br />Grade:C<br />Maybe I should give credit to my poor performance in the essay since my essay sucks and there is no final exam for this course in both fall and spring semesters. Seems that the grading for this course is even harsher without the final exam.<br /><br />冇Final 既1930=更加伏伏伏伏伏伏伏伏",
+      "comment_workload": "Only 12 online quizzes and a 900-word essay, I guess I cannot blame the workload of this course for this semester.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 1,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "VxEh5MrSWX7Y8QAA3Df4KFQHdzdT1nwf",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        }
+      ],
+      "author": "user404",
+      "date": "Feb 20, 2020",
+      "title": "",
+      "comment_content": "T1: Evolution<br />T2: Ecology<br />T3: Conservation Biology<br /><br />T4: Animal Form and Function<br />T5: Cell Signaling<br />T6: Metabolism and Nutrition<br /><br />T7: Transcription and Translation<br />T8: Stem Cells<br />T9: Recombinant DNA<br />T10: Animal Biotechnology<br />T11: Plant Biotechnology<br />T12: Bioethics and Public Acceptance",
+      "comment_teaching": "Blended Learning Mode is used in this course. Students are required to read most of the materials before the class. <br /><br />Students are divided into groups and encouraged to discuss during the lesson. The instructors will give you examples and case studies to talk about in each lesson.&nbsp;&nbsp;<br /><br />I like Dr Lam most. We can see his passion in the class. He always sends students an email after the lesson to recap what we have discussed or learnt. He also explained the answers of the online quiz in each lesson.",
+      "comment_grading": "The grading scheme changes because of the cancellation of the classes. <br /><br />Original grading scheme:<br />Weekly online quiz - 20%<br />Essay (400 words) - 20%<br />Final examination (MCQ) - 60%<br /><br />New grading scheme:<br />Weekly online quiz - 30%<br />Essay (max: 900 words) - 70%<br /><br />Bonus marks will be given after answering the questions during the lessons.&nbsp;&nbsp;<br /><br />You cannot know your essay&#039;s score. It is difficult to judge the grading is reasonable or not only with the online quizzes&#039; mark.",
+      "comment_workload": "Very light workload. Only a weekly online quiz (with no time limit) and 1 essay are required. <br /><br />For the weekly quiz, there are about 9 MCQs with no time limit in each quiz. You can search for most of the answers on Google. Thus, the mean of online MCQs is usually high.<br /><br />For the essay, you can choose 1 out of the 2 assigned topics to write. The examples discussed in class (which may not appear in notes but only appear in the reading materials) cannot be used in the essay. Therefore, you may need to remember what you have discussed in class because of the topic&#039;s requirement.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "SCOCdh6ifUBpdaIzuGbItEj0jtlpmINF",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "USTBCB",
+      "date": "Feb 07, 2020",
+      "title": "A good grade course for year 1 Sci student to study",
+      "comment_content": "Each topic will not go very deep, just the simple thing . Each week just have to attend 1.5hrs lecture.<br /><br />These topics are taught by Jessica<br />Week 1: Evolution<br />Week 2: Ecology<br />Week 3: Conservation Biology<br /><br />These topics are taught by Dr. Phillip Yeung<br />Week 4: Animal Forms and Function<br />Week 5: Cell Signaling<br />Week 6: Metabolism and Nutrition<br /><br />These topics are taught by Melody Leung<br />Week 7: Transcription and Translation<br />Week 8: Stem Cell<br />Week 9: Recombinant DNA <br />Week 10: Animal Biotechnology<br />Week 11: Plant Biotechnology<br />Week 12: Bioethics",
+      "comment_teaching": "Honestly, all professors taught very well, they can create a good learning environment in the class all the times. They all encourage student to answer the questions in class in order to gain bonus marks towards the final grade.",
+      "comment_grading": "Due to the suspension of class, the grading system was changed in this semester.<br /><br />Original grading system<br />12 Quizes: 20%<br />400 Words Essay: 20%<br />Final Exam : 60%<br /><br />This semester grading system<br />12 Quizes: 30%<br />900 Words Essay: 70%<br /><br />Each quiz I nearly got full marks, but the essay marks are not given.<br /><br />Finally, I got a A-",
+      "comment_workload": "The workload is not too heavy compare to MATH 1012/1013, you just have to do online quiz before attending the lecture. Each quiz only have 10 questions, and all of the answers can be found in the notes. The essay are not too difficult for a year 1 student, every student will have two sets of essay topic which they can choose the one they are interested in it. The essay is a little bit time-consuming as most of the essay topic have to use example to explain but not allowed to use the example provided in notes. This causes a little bit time-consuming.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "FIrb4cZIQL7hRb2j6MtgMFRUS40xOgvd",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        }
+      ],
+      "author": "No,Thankyou!",
+      "date": "Dec 31, 2019",
+      "title": "直升機：伏伏伏伏伏伏伏伏伏伏伏伏",
+      "comment_content": "T1: Evolution<br />T2: Ecology<br />T3: Conservation Biology<br />T4: Animal Form and Function<br />T5: Cell Signaling<br />T6: Metabolism and Nutrition <br />T7: Transcription and Translation <br />T8: Stem Cells<br />T9: Recombinant DNA<br />T10: Animal Biotechnology<br />T11: Plant Biotechnology<br />T12: Bio-ethics and Public Acceptance",
+      "comment_teaching": "This course is using blended learning approach. Which mean it require you to learn on your own. You need to read the reading material before you go to the tutorial class. You need to get familiar with the topic. The tutorial is just point out some main ideas that you need to know. <br />Dr Lam is good. He is passionate in teaching and he want to interact with students. He encourage students to participate in the discussions and welcome us to express our ideas or opinions in the related topics. However, he only teach three tutorials.",
+      "comment_grading": "Original:<br />Weekly online quiz 20%<br />Written assignment (400words) 20% at the end of semester <br />Final examination (MCQ) 60%<br />(5% deduction may be made if more than 2 no-show)<br /><br />Adjusted (due to class cancellation):<br />Weekly online quiz 30%<br />Written assignment (900words) 70%<br /><br />My grade<br />Weekly online quiz ~about 7.89/10<br />Written assignment ~unknown but I think I wrote like shit<br /><br />Final grade=C+",
+      "comment_workload": "light.<br />Weekly online quiz (MCQ about 9 to 10), not so difficult but need to pay attention in doing the quiz. These quiz cannot using google only, you need to refer to some of the reading material provided. (If you want to get full marks)<br />For the written assignment, I would say it very difficult for me. Since I am not interested in biology, it take me about 2 day to finish it (and the quality is .......you see my grade).<br />In conclusion, for people who don&#039;t enjoy study biology, you should not choose this course, otherwise you will become me.<br />爛龜，後悔中",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 1,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "SuN0fXDGxItOyByj8UR3B76gRFjRZKEf",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "kellylo00",
+      "date": "Aug 19, 2019",
+      "title": "",
+      "comment_content": "The content is just somehow similar to those in secondary school biology. But even fewer things to be memorized. Quite easy.",
+      "comment_teaching": "The teaching is good and interesting. Many interactions and group discussions have done during lessons. Usually includes lots of pictures and videos.",
+      "comment_grading": "Quite a good grading. I didn&#039;t study much and didn&#039;t go through ppt before the lesson. Still got a B+. But students with biology background suggested. (Particularly studied biotechnology as electives)",
+      "comment_workload": "Not really high but attendance needed. An MC quiz (Very few questions) required after each lesson. The tutors will ask you to do some research at home (but is still fine if you don&#039;t do so) and you need to go through the whole powerpoint before attending the lesson. An essay will be required at last.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "M3jRNskaZezbOcQoRFWP0R9FJlmkFRVz",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 0
+        }
+      ],
+      "author": "WilliamLeung",
+      "date": "Aug 09, 2019",
+      "title": "LIFS 1930 Nature of Life Sciences",
+      "comment_content": "This is an innovative blended-learning course that comprises both independent e-learning and face-to-face tutorial components. The course covers general and up-to-date topics such as conservation biology and animal forms and functions in the field of Biology, metabolism, and cell signaling in Biochemistry, and recombinant DNA, animal and plant biotechnology and bioethics in Biotechnology.",
+      "comment_teaching": "LAM YEUNG is passionated, he sends emails to students after every class to recap/ highlight the essentials or note to us, and his part is biophysics/ and cell biology<br /><br />LEUNG is passionated, she asks every group to work as a team to discuss and she will go to each table to direst our discussion, you can ask her improvising questions.<br /><br />TANG, despite her annoying voice, she read aloud the powerpoints.",
+      "comment_grading": "A) 9 quizzes (easy)<br />some answers can be directly found on the internet.<br /><br />B) 1 essay (20%)<br />you are asked to write a 400-word essay<br />May cause you 3-4 days <br /><br />C)Final <br />50 mc (go through every lecture notes before the exam)",
+      "comment_workload": "Light<br />You have to read before the exams <br />That&#039;s it",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "gDnkPdpudmcrYqCzPbE5ls2lBbhx59YC",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 0
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 0
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "myosin",
+      "date": "Jul 13, 2019",
+      "title": "Very BAD GRADE course",
+      "comment_content": "Simpler than lifs1902!!!!!!!!!!!",
+      "comment_teaching": "Teaching is very relaxing in the lesson.",
+      "comment_grading": "What I want to say about this course is that the grade is super bad! You won&#039;t know your score of your quiz and essay. <br />Getting a full mark online quiz should be a gift and it is supposed that you should get full mark for that.<br />You will also get some bonus mark if you answer questions in the lesson. <br />But the problem is that you won&#039;t know your score before releasing your grade. You will NEVER know why you get super bad grade. Although I think it is a easy course, with most of the questions in the quiz I know how to answer, it turns out that I got a B- only. What is the problem behind? <br />My confidence originates from the results of lifs1902, since I got A- from that. And this course is even&nbsp;&nbsp;a lot easier and simpler than lifs1902. But why I would get just a B- in lifs1930!!!!!!!!!!!!!!<br />Lifs1930 is supposed to let some students with no prior biology background to study, so the concepts should be simpler. But the grade is really disastrous. <br />Not as good as others thought.<br />Hate this subject with no release of result!!!!!!!!!!!!",
+      "comment_workload": "Almost no workload that you will not put focus in this subject. But consequently it turns out to be a great disaster. So be conscious to study regularly and not the last minute.",
+      "rating_content": 1,
+      "rating_teaching": 2,
+      "rating_grading": 1,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "4Y5qprAEEgCFnwxLt9bniOHnl8YUBEIn",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "shhhh",
+      "date": "Jul 03, 2019",
+      "title": "",
+      "comment_content": "The content is similar to that we studied in secondary school, with more details added into it. The course includes 12 chapters. Each chapter is around 2x~3x pages and easy to understand(as there are many pictures).&nbsp;&nbsp;<br />1. biodiversity and evolution<br />2. ecology<br />3. conservation biology<br />4. animal form and function<br />5. cell signalling<br />6 metabolism and nutrition<br />7. transcription and translation<br />8. stem cells<br />9. recombinant DNA<br />10. animal biotechnology<br />11. plant biotechnology<br />12. bio-ethics and public acceptance<br />It is appropriate for year 1 students to study this course.",
+      "comment_teaching": "lam is the best. others are so-so. they won&#039;t care what u do in the classes. Jessica tries to give everyone bonus mark but the meaning for bonus mark is already gone.",
+      "comment_grading": "The grading is fair.<br />20% quizzes<br />20% essay<br />60% final exam<br />I finished all the quizzes and I get average 9-10/10 for every quiz. The mark of your essay won&#039;t be disclosed so idk my score. <br />final exam: all mc questions. they are easy but tricky. u need to be careful for some questions while others can be answered easily if u do your revision. i use 5 days for revision in a &#039;hea&#039; way. I got a B at last.",
+      "comment_workload": "finish one quiz before each tutorial class starts. it takes 20% of whole course. everyone will do it so if you forget to do one u may already fall down to a lower sub-grade. <br />u can choose ur essay topic but only have two choices. everyone has their own combination of choices which is randomly distributed according to your surname.<br />some topics are hard while some are easy. it requires u critical thinking but mine didn&#039;t. my essay is factual that all I need is to type the things and add some illustration.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "L65cuLOScYyF84Ueeg72Gkw1NXFnOCdV",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "Achromous",
+      "date": "Feb 11, 2019",
+      "title": "Nice course for LIFS1902/ Biology(DSE) students",
+      "comment_content": "Biodiversity and Evolution<br />Ecology<br />Conservation Biology<br />Animal Form and Function<br />Cell Signaling<br />Metabolism and Nutrition<br />Transcription and Translation<br />Stem Cells<br />Recombinant DNA<br />Animal Biotechnology<br />Plant Biotechnology<br />Bio-ethics and Public Acceptance<br /><br />Tips: <br />1.If you learnt them in high school, this is a nice course.<br />2. If you are taking LIFS1902 at the same time, you would find both courses much easier to understand &#039;cause you are learning and doing revisions on these topics at the same time!",
+      "comment_teaching": "Read notes. Do revisions on your own. Don&#039;t rely on tutorials.<br />There will be interesting cases and discussions in class only. So chill and have fun.<br />I like LAM best. He put efforts in teaching i.e. sending emails about mainpoints and notes.<br />Others are quite fine.<br />(My group was TOO creative and most prof. skipped my group lol Oh please dear prof. ,let us answer ur questions )",
+      "comment_grading": "You won&#039;t know ur scores.<br />Bonus marks are not worthy &#039;cause only one prof. would take this seriously. Others would ask everyone to asnwer questions.<br />Essay: max marks 20<br />exceed wording, late assignment = deduce marks<br />Quiz: if you get them most of them correct, I think it will not be a problem<br />Final: MCs 1.5hrs(a bit too much for me)<br />There was some hidden jokes as the MC answers. It was fun.<br />I got a B+ at last. i thought I could get a better grade though.",
+      "comment_workload": "Only one online quiz per week ,hand in on or before Monday. (&#039;cause class was in tue.)<br />One 400 words essay. Hand in ONE hard copy to office mailbox, ONE softcopy through Canvas. Copy your essay and put it into the WS format provided. Just choose one topics u like.<br />Att. is important.<br />It would be best if you read all materials. If not, maybe the great internet can help u do the quizes.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "VFxdQNzKYxHPtbtF1HvFrQXnzp2xHRhH",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "TM-AN",
+      "date": "Jan 09, 2019",
+      "title": "Not a course for Year 1 students",
+      "comment_content": "The course materials consist of 12 chapters. Chapter 1 is about evolution. Chapter 2-3 are about ecology and biodiversity. Chapter 4-6 are about cell biology. Chapter 7-12 gives an introduction to genetics.<br /><br />The materials are not easy to understand mainly because the length of different parts in a chapter is not properly assigned.<br /><br />It is common to see that the notes just defined a term then move on to the next part, while you don&#039;t really know why you need to know that term.<br /><br />The notes for Ch. 4-6 is very lengthy, having paragraphs for every point, but the notes for Ch. 7-12 is too brief, far from sufficient to understand a concept. I mostly rely on the notes I made during my DSE period to deal with these chapters.",
+      "comment_teaching": "Only one 80-min. tutorial every week, no lectures. <br /><br />The lecturers will assume you already know everything about the chapter before the tutorial, which is usually about a case-study.<br /><br />The lecturers do take attendances, so you still have to attend the tutorials even if the contents mostly do not appear in the exam.",
+      "comment_grading": "The exam (60%) is a 40-question MC, 1.5 hr is given to finish it.<br />The MC are also very easy, in the sense that if you memorized everything in the materials. <br /><br />If you did memorize the definitions of all the relevant terms, you will definitely know the answers, and you will definitely not know the answer if you did not memorize all of the relevant terms.<br /><br />So here comes the problem. this course is not specifically designed for year 1 students, I found quite a lot of higher year students, even year 4 students studying in this course. <br /><br />With a very easy exam, the higher year students are likely to get near full marks in the course.<br /><br />Year 1 student will struggle really hard to get satisfying grade in this course. <br /><br />Note: You will not know your marks of your essay and your final exam.",
+      "comment_workload": "Basically no workload, only 9-10 MC on canva every week (20%). An essay (20%) is assigned near the end of the semester, with the deadline the end of study period.",
+      "rating_content": 2,
+      "rating_teaching": 2,
+      "rating_grading": 1,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "UwW5NzqnJ9WhImm8z9D4hmF1LbKOjoZg",
+      "semester": "2018-19 Fall",
+      "instructors": [],
+      "author": "Choisum",
+      "date": "Jan 01, 2019",
+      "title": "",
+      "comment_content": "this course have many chapter which some of them are overlap with the secondary school biology. just giving more detail of the theory and the application of the theory. so you need so many time&nbsp;&nbsp;to memorize the new word like mimicry and new theory.",
+      "comment_teaching": "this course uses small group teaching that students will be arranged into groups&nbsp;&nbsp;which will discuss with each other in the lesson. during the lesson, the instructor will give you different kind of case study and example to make sure you understand what they are talking about.",
+      "comment_grading": "this course will not give you the score you got so it is bad to student that you won&#039;t know you are weak at what. i finally got c grade in this course but I don&#039;t know why i get that grade",
+      "comment_workload": "this course requires student to understand the theory at home which means you need to prepare for the lesson with the ppt and quiz. the essay of the course needed to be submitted during the period of final exam and the essay is quite hard to find many supportive material.",
+      "rating_content": 2,
+      "rating_teaching": 4,
+      "rating_grading": 2,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "zS2pzrOUhxzl5L3AkwuSF5fAfpAoeuQn",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "Alice08",
+      "date": "Oct 08, 2018",
+      "title": "",
+      "comment_content": "similar content of 1902 but more difficult:<br />-Biodiversity and Evolution<br />-ecology<br />-conservation <br />-Animal Form and Function<br />- cell signaling <br />-metabolism and nutrition<br />-transcription and translation<br />-steam cells <br />-recombinant DNA<br />-Animals Biotechnology <br />-plant biotechnology <br />-bio-ethics and public acceptance",
+      "comment_teaching": "Pilip is the best!!!The lessons are taught by him is great but only have 3 lessons. Others are boring.",
+      "comment_grading": "have essay, online quiz, all mc final<br />since have many year 3-4 lifs students coming to study the course, they will get better grade because they have learnt already. then, for year one students, you will .......",
+      "comment_workload": "not high workload, only have online quiz every week and no too much content need to remember, it is manageable when compare to other Lifs course.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "KXJ3YEQQiYKHWqJNuDxRFkuzoj3QweVx",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "AnsonL.",
+      "date": "Aug 21, 2018",
+      "title": "",
+      "comment_content": "大部分同1902 差唔多:<br />-Biodiversity and Evolution (Tang)<br />-ecology(Tang)<br />-conservation (Tang)<br />-Animal Form and Function(Lam)<br />- cell signaling (Lam)<br />-metabolism and nutrition (lam)<br />-transcription and translation(Cheung)<br />-steam cells (Leung)<br />-recombinant DNA (Cheung)<br />-Animals Biotechnology (Cheung)<br />-plant biotechnology (Leung)<br />-bio-ethics and public acceptance (Leung)<br /><br />total 有12 個Topic, 每個instructor 講3個",
+      "comment_teaching": "blended learning course <br />上堂之前要上canvas 睇reading material, 然後做Quiz<br />好處係一星期只上一堂. <br />上堂有好多時間討論, 有D case study 會討論下. 其實上堂好輕鬆.<br />Leung, Kar Wah: 上堂討論時會入組, 講書都清楚<br />Tang, jessica Ce Mun: 講書ok, 但有D悶<br />Cheung, Helen: 講書一般, 都有D悶. (佢canvas 出quiz 的題目可以上google 找到, 比起其他instructor 出的題目好像意義不太)<br />Lam, Yeung: 幾用心, 上完堂會send email 講番今堂學嘅野. 又會教番大部人答錯online quiz 的題目",
+      "comment_grading": "Online qiuz 20%<br />Written assignment 20%<br />Final examination (1.5 hr , mc only) 60% (1.5 hr 太多, 好快就做完, 見到有人15min 做完走)<br /><br />5% deduction will be made if more than 2 no-shows in class after add drop period <br /><br />*bonus marks will be given for active participation in class .(要答問題, 不過大部分時間都係有上堂就比你)",
+      "comment_workload": "canvas mc questions (每topic~10題) + 400 word essay + final +每星期一堂, 輕鬆<br /> (eassy 每個instructor 出3題, total 12題, 但只會有6題比你選擇)",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "LNWiOJ18wXPpdHuK4O89LCyC3ueE69cO",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        }
+      ],
+      "author": "淺水健",
+      "date": "Aug 19, 2018",
+      "title": "",
+      "comment_content": "this course teach something similar with lifs 1902 but the notes are much better than that (easier to read) and there will teach some further things.&nbsp;&nbsp;Answer questions every lessons can add more class performance mark.",
+      "comment_teaching": "professors are funny and nice. They don&#039;t mind so much if you attend the course late.",
+      "comment_grading": "the grade is good. Easy get good grade.",
+      "comment_workload": "before every lesson, it is necessary to read the reading material and finish the online quiz. the quiz have no time limit. An essay under 400 words also need to hand in during final period. Tutor will help students how to write that essay.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "X4Ba2BFt2eZ5edPmvGoX4vqdtJPzEoMG",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        }
+      ],
+      "author": "阿晴",
+      "date": "Jun 01, 2018",
+      "title": "伏",
+      "comment_content": "課程不是太難，但主要要看好多essay<br />如果怕字就唔好讀<br />有不少課程與LIFS1902 相同<br />有一些是中學可能教過<br />課程大綱<br />01. Biodiversity and Evolution<br />02. Ecology<br />03. Conservation Biology<br />04. Animal Form and Function<br />05. Cell Signaling<br />06. Metabolism and Nutrition<br />07. Transcription and Translation<br />08. Stem Cells<br />09. Recombinant DNA<br />10. Animal Biotechnology<br />11. Plant Biotechnology<br />12. Bio-ethics and Public Acceptance",
+      "comment_teaching": "一般般<br />Philip不錯<br />其他有啲悶<br />要你不斷用腦諗佢哋嘅問題<br />課程不是Lecture, 係Tutorial<br />但不會教網上資料嘅嘢",
+      "comment_grading": "考試只考MC，1.5小時<br />望落唔算深，但原來有伏<br />唔係好考reading啲嘢<br />有assignment<br />全部唔知自己攞幾分<br />結果C咗",
+      "comment_workload": "有quiz (1/week)<br />有assignment (1essay, not more than 400 words)<br />有final (MC only, 1.5 hours)",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 1,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "TnJIHgl3jsYwMHOYleG3u4gt2H9NzLRU",
+      "semester": "2017-18 Spring",
+      "instructors": [],
+      "author": "ctyk",
+      "date": "Jun 01, 2018",
+      "title": "",
+      "comment_content": "Biodiversity and Evolution<br />Ecology<br />Conservation Biology<br />Animal Form and Function<br />Cell Signaling<br />Metabolism and Nutrition<br />Transcription and Translation<br />Stem Cells<br />Recombinant DNA<br />Animal Biotechnology<br />Plant Biotechnology<br />Bio-ethics and Public Acceptance<br /><br />Most content overlapped with LIFS1902",
+      "comment_teaching": "The course is blended-learning. It requires you to learn most of the content by yourselves through canvas. The lessons are all about discussions among your groupmates on the materials covered on canvas.",
+      "comment_grading": "The grading is quite lenient.<br />You just have to go over the slides once to give you a B range. Attendance and bonus marks (answering questions during class) contribute some marks to the final grade The finals is all mc questions and quite common sensed.<br /><br />Recommended to those who have taken LIFS1902 before",
+      "comment_workload": "Only one online quiz per week before each lesson.<br />One 400 words essay<br />Attendance required for each lesson",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "75Fju6psa66oVrL5f2fU45Xc6Qj672Rs",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 0
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "iwantarange",
+      "date": "Jun 01, 2018",
+      "title": "A quite good course with low workload",
+      "comment_content": "This course has 4 main topics:<br />Tang: Evolution and conservation biology (the topic is not very interesting if you are not interested in environmental science)<br />Lam: Processes inside organisms, including cell signaling, respiratory system, food and nutrition, etc. (not bad, some content overlaps with HKDSE biology)<br />Cheung and Leung focus more on biotechnology and ethics.<br /><br />In conclusion this course covers various aspects of life science, which matches with the course name.",
+      "comment_teaching": "Tang: Not good not bad<br />Lam: He teaches quite well. Has tried to explain concepts clearly and has maintained a good learning environment.<br />Cheung: Her teaching is ok, but somehow I don&#039;t think many people likes the way she teach for unknown reason.<br />Leung: Encourages discussion among groups. She will spend some time on each group to let your discussions more informative.",
+      "comment_grading": "20% Quizzes<br />20% Written Assignment<br />60% Final (all MC questions)<br />Some bonus for participating in class<br />No midterm, only quizzes score are known<br /><br />Statistics:<br />Quizzes: Mean 81.1/89 Me 87/89<br />Written Assignment: A normal one like everyone else<br />Final: I think I get about 30/40 while the exam is not very hard<br />Bonus: I think I reached the maximum because I answered exactly 1 question for most of the tutorials<br />Grade: A-<br /><br />Try to revise the self-learning materials (the pdf for quizzes) carefully and I don&#039;t think you will get a bad grade. Some questions are based on subtle parts in the self-learning materials, which determines your grade a lot in my opinion.",
+      "comment_workload": "Just 1.5 hours of tutorial per week and do the quizzes before lesson. You can look for answer of Cheung&#039;s quizzes via Google (somehow I usually can&#039;t find answer to quizzes in self-learning materials), not sure about Tang&#039;s ones. Lam&#039;s and Leung&#039;s quizzes require a good understanding of the self-learning materials, but you can find nearly all answers in the materials.<br /><br />In general, I don&#039;t think the workload is high. Even the written assignment requires 400 words only. You may further reduce your workload if you have a solid background in life science.<br />(For me, I am year 1 with non-LIFS intended major. I have studied HKDSE biology but didn&#039;t study LIFS1902. You can be non-attentive during class and study 2~3 days before final exam if you have similar/better LIFS background as mine.)",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ytYNomaKj8ZhRAcmk0lZTTejnxw1PzBp",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 0
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        }
+      ],
+      "author": "lhtam",
+      "date": "May 31, 2018",
+      "title": "Worth to take.",
+      "comment_content": "Jessica&#039;s Part: <br />1. Biodiversity and Evolution<br />2. Ecology<br />3. Conservation Biology<br /><br />Lam&#039;s Part: <br />4. Animal Form and Function<br />5. Cell Signaling<br />6. Metabolism and Nutrition<br /><br />Helen&#039;s Part: <br />7. Transcription and Translation<br />9. Recombinant DNA<br />10. Animal Biotechnology<br /><br />Melody&#039;s Part: <br />8. Stem Cells<br />11. Plant Biotechnology<br />12. Bio-ethics",
+      "comment_teaching": "Jessica&#039;s Part: <br />-Course material is easy to understand <br />-Basically she ensures all of us will get a bonus mark for answering questions (Or even you don&#039;t have to do so as sometimes she will give marks to the whole group if one people in your group answered) <br /><br />Lam&#039;s Part:<br />-The materials are more difficult compared to other topics, but he explained very clearly and teach us how to memorize (or he celled &quot;understand&quot;) the specific terms more easily <br />-Very interactive and funny teaching especially the case study! <br /><br />Helen&#039;s Part:<br />-So-so teaching, tho she asked question but usually dead-air <br /><br />Melody&#039;s Part: <br />-Group discussion and role-playing in her sessions, quite interactive and innovate us a lot especially in the chapter of Stem Cells and Bio-ethics<br />-All got one bonus point automatically",
+      "comment_grading": "Online Quiz (Done before the day of lesson) 20%<br />Short Essay (400 words on assigned topic) 20% <br />Final Exam (40 MCQs) 60% <br /><br />-Online quizzes are easy, got around 93.5%<br />-You have two options to choose for the essay, write either one of them (from different instructors), basically Jessica and Lam&#039;s topics are more difficult while Helen&#039;s part is easy. However you can&#039;t choose which instructor&#039;s topics as they already assigned (e.g. I got one from Jessica and one from Lam)<br />-Final exam is easy. Quite surprised that there are questions on bio-ethics. For Lam&#039;s part, make sure you read through the tips and email sent by him after his lessons! <br /><br />No marks released for both essay and exam. <br />Final grade: A",
+      "comment_workload": "Since this is a blended learning course, we only have one tutorial (1 hr 20 mins) per week so workload is super light. <br />The only thing that we have to prepare is the online quiz and reading materials on Canvas. <br /><br />Attendance is required.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "7gq1C6S1YBfLfKL2fsa8EKgXMM0jd81P",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "Hongjj",
+      "date": "May 31, 2018",
+      "title": "relaxing and good-grade course",
+      "comment_content": "blended learning course :<br />50% of time learning at your own pace using the online material provided<br />50% of&nbsp;&nbsp;time for face to face tutorial sessions<br /><br />Topics are as below:<br />Biodiversity and Evolution<br />Ecology<br />Conservation Biology<br />Animal Form and Function<br />Cell Signaling<br />Metabolism and Nutrition<br />Transcription and Translation<br />Stem Cells<br />Recombinant DNA<br />Animal Biotechnology<br />Plant Biotechnology<br />Bio-ethics and Public Acceptance",
+      "comment_teaching": "Jessica: <br />she teaches :<br />1.Biodiversity and Evolution<br />2.Ecology<br />3.Conservation Biology<br /><br />- she is encouraging, she always asks questions and make sure that everyone get the bonus mark (bonus mark are awarded for answering/asking question, even if the answer is wrong)<br />- there are more activities in her classes compare to other instructor (e.g role play, doing worksheets)<br /><br />Philip (Lam Yeung): <br />he teaches: <br />1. Animal Form and Function<br />2. Cell Signaling<br />3. Metabolism and Nutrition<br /><br />- explain things clearly, tell us how to remember the content in a smart way<br />- teaches with passion, he sent us email after lecture to sum up what he said in the lesson, and also EXAM TIPS !!! <br />- the best instructor IMO<br /><br />Helen:<br />she teaches:<br />1.Transcription and Translation<br />2.Recombinant DNA<br />3.Animal Biotechnology<br /><br />- she will let you sign the bonus mark sheet even if you didn&#039;t participate in class lol<br />- a typical instructor, nothing special, she will ask you question and if no one answer she will give the mic to anyone nearby<br /><br />Melody(Leung Kar Wah)<br />she teaches:<br />1.Stem Cells<br />2.Plant Biotechnology<br />3.Bio-ethics and Public Acceptance<br /><br />- compare to other instructor, her teaching method is very different. she will give us a topic and allow to discuss within group for the whole lesson. and she will come to your group and ask you what you think (don&#039;t be nervous, she will guide you and there is no&nbsp;&nbsp;right or wrong answer to her question)<br />- you will automatically gain a bonus mark if you are not totally silent",
+      "comment_grading": "20% canvas quiz<br />20% 400 words essay<br />60% final exam<br />+ bonus mark for participating in class<br /><br />2 no-show will result in mark penalty&nbsp;&nbsp;(remember to sign the attendance sheet)<br /><br />for the essay: <br />you need to express your view or explain things in 400 words, which is quite hard. <br /><br />for the exam: (1.5 h)<br />quite easy<br />consists of 40 questions<br /><br />for Jessica&#039;s and melody&#039;s part: <br />not too difficult if you read through the material for a couple of times<br /><br />for Philip&#039;s part:<br />don&#039;t waste time remember the pathway of a certain reaction (e.g kreb cycle/ how many ATP produced) this will NOT appear in the exam<br />read his email about the exam tip ! really helpful <br /><br />for Helen part :<br />idk, she asked some questions that does not appear in the material provided (or i didnt revise (?))<br /><br />i actually didn&#039;t spend too much time (~1.5 days) on this course&#039;s exam cause i have other exam on the same day. but i still know how to answer 80% of the exam questions and eventually got a B+. i would say is satisfactory.<br /><br />they wont release the mark for the essay and exam, the grade is satisfactory but not transparent",
+      "comment_workload": "no midterm <br />1.5h of lesson per week (yes its true)<br />you only need to do the weekly online quiz ( you can finish it within 30 mins)<br />this is a 3 credit course but it feels like a 1 credit course for me",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "y5noprdsokhlZPbcHKClJccJIRTcR1T4",
+      "semester": "2017-18 Spring",
+      "instructors": [],
+      "author": "stark_elijah",
+      "date": "Apr 02, 2018",
+      "title": "",
+      "comment_content": "Syllabus<br />Biodiversity and Evolution <br />Ecology<br />Conservation Biology <br /> Animal Form and Function<br /> Cell Signaling&nbsp;&nbsp;<br /> Metabolism and Nutrition <br /> Transcription and Translation <br /> Stem Cell (Harder)<br /> Recombinant DNA <br /> Animal Biotechnology <br /> Plant Biotechnology <br />Bio-ethics and Public Acceptance<br /><br />Components<br />Online quiz 20%<br />Written assignment 20%<br />Final examination 60%",
+      "comment_teaching": "It is a combination of lecture and classroom teaching. Some instructors will have more interactions with you but some will only give boring talking. Sometimes, they will have role play and discussion. I like discussion because you can speak with your group mates and &quot;Hea&quot;.",
+      "comment_grading": "Quite good. If you have studied fall semester 1902 or you are year 2-4 that study life science, you must have advantage. Have a normal performance can get B range.",
+      "comment_workload": "Every week has 1 online quiz. It is quite easy if you have read all the online material. Actually, some answers can be searched from the internet.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "IcKnnQT99IsTEHB0uAJ3lQ6neJTLmfo5",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 1
+        }
+      ],
+      "author": "pyliab",
+      "date": "Jan 20, 2018",
+      "title": "Review",
+      "comment_content": "Most of the content are overlapped with LIFS1902<br />But they are quite simple <br />Recommend this course to those who also study LIFS1902 <br />But you can only absent 2 class",
+      "comment_teaching": "The course mainly relies on your own online study and some of the details in class<br />Philip is very good<br />But the others..........I can only say they prepared well, and thanks for making science more boring:)",
+      "comment_grading": "Quite good grade<br />I forget to do some of the homework still get A <br />But some of the additional information taught in class are also included in the final exam<br />Remember to go to the class",
+      "comment_workload": "The workload is quite reasonable.<br />Homework: About ten MC online questions every week<br />No mid-term, which is a very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very good reason why I recommend this course to you all<br />One essay <br />Final is MC questions",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "UhdtHlSadwT0vUZsaxv1ZP0QukDyGXpl",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 1
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "qwerty",
+      "date": "Dec 30, 2017",
+      "title": "Rleaxing but informative",
+      "comment_content": "Tutorial (1.5hrs) and weekly canvas quizzes (10 min of ur time, 10 questions usually)<br />Quiz to be submitted a day b4 ur tutorial session<br /><br />Jessica: ecology, evolution amd conservation biology. Not too difficult. Good instructor<br />Philip: animal form and fx, cell signalling, nutrition<br />Helen: animal biotech,&nbsp;&nbsp;genetic engineering, genetics<br />Melody: plant biotech, stem cells, bioethics",
+      "comment_teaching": "Jessica explains succinctly and keeps the course interesting. Willing to answer questions <br />Philip likes to include stuff outside the reading materials in his tutorial sessions. Very nice instructor and very informative. Looooong reading material<br />Helen&#039;s part is quite simple but she makes it more complex than it shd be in the reading materials. Still a good instructor and will answer many questions in great detail. Light reading material. Her quiz questions co me from some online website accessible by students, but the questions are not always relevant to her reading materials<br />Melody oversimplifies her part, in my opinion. Her tutorial has students discussing amongst themselves without giving much directions to students, so it results in awkward discussions at times. Reading materials can be a bit confusing",
+      "comment_grading": "Online quiz (mc) (only counts after add/drop period)<br />400 word essay (choose 1 out of 2 given topics to write on; topics released 2ish weeks b4 final. To be submitted a few days b4 final) (both hardcopy and aoftcopy have to be submitted)<br />MC final (1.5 hrs) (40ish questions)<br />Attendance (only counts after add/drop period)<br />These all count towards ur grade<br /><br />Dunno the marks obtained for final or the essay<br />No paper checking<br />From what ive heard, not hard to get b<br />Personally not too satisfied with grade (a)",
+      "comment_workload": "Lesson is relaxing<br />Mostly the tutor talking<br />They try to engage u and have students discuss amongst themselves but most ppl keep to themselves and it&#039;s dead air most of the time<br />Most ppl dont pay attention<br />Despite their rule on counting students as no-show if they are 15 minutes late, they are still very lax abt it. They let ppl who come in 30 min late to sign in. <br />Quizes are easy, reading comprehension really<br />Final is trickier<br />Essay is rlly hard to pull off since the word limit is 400. Exceedingly difficult to explain those topics succinctly without oversimplifying the matter",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "5LSFhjvGOCvSUhuxOW7HfQUnUG6DSWtL",
+      "semester": "2017-18 Fall",
+      "instructors": [],
+      "author": "kkhunter",
+      "date": "Dec 19, 2017",
+      "title": "Well...",
+      "comment_content": "Basic biology and biotechnology<br /><br />Intended Learning Outcomes<br /><br />At the end of this course, students will be able:<br /><br />To acquire fundamental knowledge through computer-assisted learning in the areas of biochemistry, biology and biotechnology.<br />To cultivate self-paced practice, feedback and monitoring of self-progress.<br />To be able to inaugurate global connection.<br />To be able to utilize in-class game-based / case study activities to reinforce online learning.<br />To develop higher order skills in order to make critical and rational judgments over societal concerns in life sciences.<br />To seek and share biological knowledge, independently and in collaboration with others.",
+      "comment_teaching": "The tutor will repeat the online material and have some discussion.",
+      "comment_grading": "I didn&#039;t revise much<br />DSE BIO: 4<br />Grade: B",
+      "comment_workload": "Low<br />Remember to do the online quiz every week. <br />Components<br /><br />Percentage<br />Online quiz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20<br />Written assignment *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20<br />Final examination 1.5 hours&nbsp;&nbsp;60<br /><br />5% Deduction will be made if more than 2 no- shows in class after add/drop",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Ff8KKdbDqc59rLWirVMyD8SxJMn37Yc0",
+      "semester": "2016-17 Spring",
+      "instructors": [],
+      "author": "Patrickkkk",
+      "date": "Dec 06, 2017",
+      "title": "",
+      "comment_content": "It is a relaxing course.<br />You just need to memorise all of the self learning things by yourself.<br />Some online quiz questions can bo found on google.<br />Those teaching does not help a lot.<br />Answering questions on lessons will get bonus marks but it doesn’t help a lot.",
+      "comment_teaching": "They said 50% is taught in lesson.<br />The other 50% is self learning.<br />But it is 100% self learning for the final examination.<br />Those teaching is useless but it may be useful for deciding the topic of the essay.",
+      "comment_grading": "You cannot know your scores of both essay and final exam.<br />The statistics of the score of online quiz, essay, and final exam also will not be released.<br />No paper checking.",
+      "comment_workload": "One 1.5 hours lesson per week.<br />Need to take attendance and you cannot skip more than two lessons.<br />One online quiz per week with 10 mc questions.<br />One essay about the topic they taught with not more than 300 words.<br />The topic will be assigned and released at the end of the semester.<br />The essay need to be submitted at the end of study break.<br />One 2 hours final exam with 40~45 mc questions.",
+      "rating_content": 2,
+      "rating_teaching": 2,
+      "rating_grading": 2,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "vLKPTS1z6iMHjZerC7TfT6CZ0kDUL9aW",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "騫",
+      "date": "Aug 21, 2017",
+      "title": "Good grade and similar to Lifs1902",
+      "comment_content": "TOPIC大部分同1902相似，每堂上堂之前都要睇曬canvas d notes 同做埋online quiz，利申有bio底一定無問題。",
+      "comment_teaching": "上堂主要要求學生討論，不過其實有好多人都唔出聲。仲會要學生答問題，只要答到就有bonus marks，上堂氣氛我覺得好過其他courses。",
+      "comment_grading": "好grade。不過final 同&nbsp;&nbsp;essay 無得睇翻grade。",
+      "comment_workload": "每星期得一堂<br />online quiz x 12 <br />assignment x1 (400字 essay, 可以起佢隨機抽比你嘅題目揀一條做)<br />Final （MC）",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "WZqUvyvMNOGsUP2o8TIG30IeTwz5TCwY",
+      "semester": "2016-17 Spring",
+      "instructors": [],
+      "author": "lili036",
+      "date": "Aug 19, 2017",
+      "title": "",
+      "comment_content": "most of the content are the same as lifs 1902 and the things that you learnt from high school, just a little bit more explanation, and the teaching method is different.",
+      "comment_teaching": "they are not teaching the things appear in exam, just show some examples in class and explain them. I totally don&#039;t know what they want to teach us.",
+      "comment_grading": "they won&#039;t tell you the marks that you get in the exam or even the essay. So I don&#039;t know which parts I did bad and how come I get a C- in this course. I attend the class after add-drop period and I think that they also count attendance during add-drop period. So maybe they deduct my marks from that.",
+      "comment_workload": "a lot of reading material.<br />The essay is quite difficult cause you have to use no more that 400 words to write a comprehesive essay.<br />you have to finish a quiz before each lesson",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 2,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "SpDothIK2wCUaOFhUlcZQfMva7aCg3za",
+      "semester": "2016-17 Spring",
+      "instructors": [],
+      "author": "Mandyho",
+      "date": "Aug 04, 2017",
+      "title": "LIFS1930",
+      "comment_content": "Just basic biology stuff and most topics are easy to follow. For LIFS1902 people or high school biology students, it will be a simple revision.",
+      "comment_teaching": "No lecture. Only some briefing followed by group discussion. Some instructor did create a good discussion atmosphere while most not.",
+      "comment_grading": "Easy to score A range if you can get the regular quiz web work correft and do&nbsp;&nbsp;satisfactorily for a short written assignment. Final is easy if you go through the material once before the final.",
+      "comment_workload": "Depends if you read the weekly material regularly. Have weekly web work with only 10 questions each and a short written assignment to be done during study break.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "fc8wNDxGsNVySTFxHVRFYFqGtI03hQFq",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "Alpha703",
+      "date": "Jun 03, 2017",
+      "title": "Unclear but good grading",
+      "comment_content": "Tang:<br />Biodiversity and Evolution<br />Ecology<br />Conservation Biology<br />Lam:<br />Animal Form and Function<br />Cell Signaling<br />Metabolism and Nutrition<br />Cheung:<br />Transcription and Translation<br />Stem Cells<br />Animal Biotechnology<br />Leung:<br />Recombinant DNA<br />Plant Biotechnology<br />Bio-ethics and Public Acceptance<br /><br />Topics are broad but not in-depth. I think it is simliar to HKALE Biology(not so sure since I study HKDSE Bio but most topics are more in-depth than DSE). Don&#039;t need to put too much efforts on the biochemical reactions in the contents(the complex protein names...)<br /><br />Blended learning: You read all the reading materials on canvas(similar to textbook/lecture notes in regular courses, have some Flash/videos), as well as the tutorial materials(the basis of tutorial activities, though most of us read them right in the tutorial sessions). Then just go to the tutorials and take attendance and learn and also get bonus marks for answering questions. In the tutorials you sit in pre-assigned groups and usually there will be group discussions. Good chance to meet some friends too.",
+      "comment_teaching": "Tang: Generally ok. (already forgot her teaching since she&#039;s in the first 3 lessons)<br />Lam: Passionate and tried hard to get us to actively answer questions and show our understanding by not using the wordings in the materials to explain the answers. Tutorial materials are well-prepared.<br />Cheung: She can explain concepts clearly and used whiteboards to ensure that our concepts are accurate. Not very interactive though. Tutorial materials are ok.<br />Leung: Very relaxing teaching(lol). Just go over some main points then let us &#039;group discussion&#039; in the rest of the lesson. If she is not nearby, then our group will just chat on whatever topics as if it&#039;s break time. She will come over every group to facilitate meaningful discussion on the tutorial questions(and did a good job since we really learn more after the discussions)",
+      "comment_grading": "Unclear but good grading.<br /><br />Assignments(&#039;Quizs&#039; to be completed before tutorial day)(20%) Me: 86/89&nbsp;&nbsp;Mean:~81.5/89<br />Essay(20%) Me: Unknown<br />Final Exam(60%) Me: 31/40(Estimated, they never release the results)<br />Bonus mark(Get them by raise hands and answer questions in tutorials except Leung&#039;s)(+?%) Me: 4/7 (Answered questions in 4 out of 7 tutorials that can add bonus marks)<br /><br />Grade: A-<br />(Note: I didn&#039;t study LIFS 1902)",
+      "comment_workload": "Assignments: The &#039;quizs&#039; on canvas that your need to complete before the tutorial session, 10 straightforward MCs based on the reading materials but can be Googled. Usually need to spend 0.5-2 hours to finish, much lighter than Webwork/masteringphysics.<br /><br />Essay: Released in the 2nd last week for the semester and deadline is the last day of study break(before final exam). 2 topics are randomly assigned to you and you need to choose one to write not more than 400 words essay. Due to the word limit(exceeding it will result in marks deduction) the things you can write is limited so not big workload.<br /><br />Final exam: I spent 1 day to study only and only covered half of the contents. But if you sped 2 days you will revise all the topics.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "f0pQ9GJuapBFtLNk2GNG6DCKHlQ4eRqq",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        }
+      ],
+      "author": "Rezzaldo",
+      "date": "May 17, 2017",
+      "title": "",
+      "comment_content": "Covers DSE Bio topics<br />like biodiversity, ecology, animal form and structures, animal &amp; plant biotechnology, ethics, etc.<br />Due to its diversity and time constraint, tutors won&#039;t explore deeply into each topic.<br />Mostly DSE-level, yet there are some new terms that haven&#039;t been mentioned during high school years.<br />Reading the materials is suffice for finals.",
+      "comment_teaching": "Jessica: She is very nice and has a soft voice. Encourages students to take part in discussions.<br /><br />Lam: He likes students to explain a bit further. Don&#039;t need to use jargons, but you should be able to explain the concepts precisely.<br /><br />Helen: Shows most professionalism because she looks the most serious(?) Similar to Lam.<br /><br />Melody: Uses most of the time to help out students to brainstorm ideas for her essays. If you are ever assigned to hers, then you&#039;re in good hands, else it&#039;s justing wasting your time to attend.",
+      "comment_grading": "More than 2 absence leads to mark penalty.<br />A bonus mark for an acceptable answer in each tutorial. <br />The average for every quiz is very high, but it is easy to obtain full marks if you revise well. No time limit, so check your answers carefully before submitting unless you want to challenge yourself.",
+      "comment_workload": "One online quiz due before each tutorial. Won&#039;t be graded for quizzes during the add-drop period and those past deadlines.<br />A 400-word essay is due days before the start of exam period. You can choose 1 from 2 assigned topics. The late penalty is harsh. A penalty also recurs if you exceed the word limit.<br />No midterm.<br />Only finals.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "dSia351bnEmUPdoHcxitGL6HhdH2WuuD",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        }
+      ],
+      "author": "Adidas",
+      "date": "May 15, 2017",
+      "title": "Easy but not fair course",
+      "comment_content": "Super easy. Read all ppt and tutor notes are enough. Not much need to be understood.",
+      "comment_teaching": "Some are good. Some are boring and students are quite inactive usually.",
+      "comment_grading": "Good.",
+      "comment_workload": "Okay. Remember to do quiz every week. BUT the essay topic allocation is super unfair. Some students were being allocated by very easy topics, just a few clicks on the internet can find tons of information and references while some topics are difficult to find enough information to write about and the content of the topics sounds easy but in fact acquired deep understanding of difficult knowledges and essay reading skills. It may cause problems for non-lifs major or students with weak english.",
+      "rating_content": 3,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "1KAJe27AQcTvfitKoWAV0YuaWZ5MYCnp",
+      "semester": "2016-17 Fall",
+      "instructors": [],
+      "author": "amazing",
+      "date": "Feb 10, 2017",
+      "title": "",
+      "comment_content": "The content is not difficult. If you have studied other life science courses before , you can even skip revising some chapters.All tutorials. They takes attendance and you can get bonus marks by answering questions in classes.",
+      "comment_teaching": "Philip is good. You can learn biology that is not for exam on lessons. But I remembered there was a instructor that didn&#039;t come at all because of sick leave. But that won&#039;t affect so much because the exam mainly based on the notes on canvas but not the content on tutorials.",
+      "comment_grading": "I just studied 1 day and got B range. All mc questions in exam. But I cannot view my score of the essay.",
+      "comment_workload": "Every week there are quizzes but they are easy. 1 essay with 500 words only and final exam of mc questions only. Not much recitation is required.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "v0FXe1OsF6NQwHdglPmQQzaalT2w0YR9",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 0
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "Sarah Feng",
+      "date": "Jan 27, 2017",
+      "title": "",
+      "comment_content": "As a non-bio major year one student who studied DSE biology, the contents are still mostly easy. The more difficult part for me is about transcription and translation.",
+      "comment_teaching": "Since this is a blended learning course, tutorials are mostly for exchanging ideas but not teaching. Students are required to learn the given online material by themselves.",
+      "comment_grading": "The grade is not as good as I thought. The grading is not transparent at all. No paper checking is available. I am able to know my marks only after 2 times of request.",
+      "comment_workload": "The Workload is quite flexible. It is easy to finish the online quizzes. But learning all the material definitely takes time. Even though the instructors claimed that memorizing information is not encouraged, the exam questions really test memory but not logics.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "KqBdwYIcTByisYkJIpqyN1aYxEaaveNi",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 1
+        }
+      ],
+      "author": "wasd0109",
+      "date": "Jan 27, 2017",
+      "title": "Extreme difficulty for non-bio students.",
+      "comment_content": "It covers introductory part of some advanced courses such as cell bio, biochem and etc. Since I have taken 2040 and some other more advance LIFS courses before, the content is easy to handle for me. However, this will be tremendously difficult for ppl who have limited&nbsp;&nbsp;knowledge to biology so please don&#039;t take it to fulfill Sci school requirement if u give a damn about your grade.",
+      "comment_teaching": "Due to the nature of the course (Blended learning), I rarely attend the tutorial which student exchange idea. Thus I cant give a very clear insight into the instructors&#039; teaching quality. But in the few tutorial that I attended, I think Dr. Lam&#039;s tutorial is really fun and engaging. I can feel his passion in teaching and he would send message to support us and encourage us to ask question.",
+      "comment_grading": "The online quizzes are relatively easy and the final exam is of MC. The end term essay is a bit tough as some of the topics are not directly related to the content of the course but ask for a bit of a brainstorming but overall B range should be easy if you complete all the tasks on time. Bonus marks for attending the tutorial classes but not really that important.",
+      "comment_workload": "Workload divided by weeks, very difficult for non-bio students.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "9EigmLni4yCjBoEifYwEJLlaFN4idyet",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 0
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "just a guy",
+      "date": "Jan 23, 2017",
+      "title": "a very good graded course",
+      "comment_content": "教嘅同LIFS1902差唔多但係易好多 都有少少新野 中學有讀過bio/上過LIFS1902就會覺得呢科好輕鬆 有biodiveristy, ecology, animal form, cell signaling, plant bio, recombinant DNA, Bio ethics etc.",
+      "comment_teaching": "4個professor輪住教唔同topics<br /> jessica主要教biodiveristy, ecology<br /> philip lam主要教animal form同signaling<br /> melody主要教stem cell, plant bio, bio-ethics<br /> helen 主要教translation transcription, animal biotech<br /> 除咗helen, 其他professors都幾好",
+      "comment_grading": "好好好好好好好好好好好好好好好好好好grade <br />好易拎A range<br /><br />Percentage<br />Online quiz :20%<br />Written assignment :20%<br />Final examination :60% (全mc)",
+      "comment_workload": "冇乜workload 係每教新topic都要做一次online quiz, 好簡單單,答案上網/notes都搵到. 考final前作篇幾百字essay，題目佢隨機派俾你",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Hyf2y7N75U5pUKoDzHCzAqbDnZeneEWb",
+      "semester": "2016-17 Fall",
+      "instructors": [],
+      "author": "ceciliaTWK",
+      "date": "Jan 19, 2017",
+      "title": "",
+      "comment_content": "有D TOPIC同1902重複，但系教既野散收收。<br />每個星期系CANVAS會有一大堆野比你睇完之後做ONLINE QUIZ，基本上都算系簡單，有時可以上網搵到答案。",
+      "comment_teaching": "上堂基本上都系比D問題討論下，上下網搵答案，基本上就系對著部電腦上堂，有D悶。",
+      "comment_grading": "",
+      "comment_workload": "online quiz x 12 (一星期一份）<br />assignment x1 (400字 assay)<br />Final 全MC",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ijmGLTPh7ZT30YeQitYXS6rhRC6Q2Upb",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "httang",
+      "date": "Oct 06, 2016",
+      "title": "",
+      "comment_content": "Mostly overlapped with LIFS 1902. The notes are quite detailed and long. Topics are about biotechnology, cells and biodiversity.",
+      "comment_teaching": "So many discussion during lessons but still it is a bit boring. Attendence is not counted.",
+      "comment_grading": "Memorize and understand all the notes and you will get a good grade. But it takes time to read through all the notes you got .",
+      "comment_workload": "Have an essay to be handed in at the end of the course, which the questions are easy to answer. There are weekly online quizzes. They wont take you much time to complete them.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "wzg68JQapc98CLqP0n0zOJBhT862Prua",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 0
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        }
+      ],
+      "author": "dliak",
+      "date": "Sep 20, 2016",
+      "title": "Simple work, good grading",
+      "comment_content": "The content of this course is much overlapped with LIFS 1902. There are too many simple and broad concepts invovled in the tutoral material. But it really takes time to memorize, but the exam is really simple, makes you doubt about what you have learned.",
+      "comment_teaching": "Lecturers for this course are mostly energetic, except Helen, who seems to be absent in teaching and not prepared.Because the teaching is based on group discussion and case study, they may have tried to motivate students to participate, but the results are always awkwardness and silence.This in part is the students&#039; responsibility, of course.",
+      "comment_grading": "Online Quiz takes up 20%, more than 100 questions in total. Interestingly, the questions are sometimes inconsistent with the online materials. For Jessica classes especially, there are videos about ecosystems, but the questions are too specific&nbsp;&nbsp;to the video content.<br />Essay takes up 20%, about 400 words, with topics on one tutorial. It&#039;s easy as long as you have attended that tutorial and read the materials(although not neccessarily)<br />Final exam takes up 60%. However, there are only 45 MC questions out of my expectations. That makes me nervous as well, as if you make mistakes for 1 question, there shall be great change to your grade.<br />But generally speaking, as far as I know, the grading is farily nice. Although the essay grades and final exam scores are not released at last, many get a satisfactory grade.",
+      "comment_workload": "If you don&#039;t expect it to be hard, then the workload is not an issue. No attendence in tutorial which is once a week, no lectures. If you manage to memorize all these stuff inside the online materials, of course, the workload will be comparable to LIFS 1902. But no use in the final exam, which mostly depends on your common knowledge.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "4GrqSK5lI4mo6ThAdggf7CdHF5aBsncu",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 0
+        },
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "PeanutBoy",
+      "date": "Aug 08, 2016",
+      "title": "a course that gives you no stress",
+      "comment_content": "Divided into modules, most of these are simple biology stuff that you probably have learnt in high school. Just a bit of new knowledge that can be handled pretty easily.<br /><br />- Evolution<br />- Ecology<br />- Conservation<br />- Animal form and function (types of tissue)<br />- Cell signaling<br />- Metabolism and nutrition <br />- DNA Transcription and translation<br />- Stem cells<br />- Recombinant DNA<br />- Biotech<br />- Ethnics",
+      "comment_teaching": "To be honest, the tutorials are pretty much useless. They seem like those meaningless LANG courses where you do group discussion most of the time. I usually do my own stuff or chat with my groupmates. You can actually learn it all from the canvas materials yourselves without giving a sh*t about the lessons. Yet, I find the materials to be a mess sometimes, so it might be better to make your own notes from the materials given.",
+      "comment_grading": "20% - 12 canvas quiz <br />(MCs with supplementary materials to help you)<br />60% - final exam <br />(MCs again which are easy if you really read thru the notes put on canvas. Just read and think carefully before making a choice)<br />20% - 400-word essay <br />(I hate the fact that they release details of the essay task just before study break and require you to submit it right before your finals)",
+      "comment_workload": "Another stress-free course. Just submit your canvas quiz and essay punctually. But again, you have to finish your essay during the study break, making the task quite an annoyance.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "cpYDCMMSHZN8kNWysX2BQ7yHnxtTDtkY",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "smyuen",
+      "date": "Jun 06, 2016",
+      "title": "Great Course",
+      "comment_content": "High school level bio stuff.<br /><br />(What is wrong with this review system? Why bother to make it a so-called &#039;adequate&#039; length?)",
+      "comment_teaching": "You learn with your laptop only.<br /><br />(What is wrong with this review system? Why bother to make it a so-called &#039;adequate&#039; length?)",
+      "comment_grading": "20% online quizes<br />20% 400 words essay<br />60% final exam(40 MCQs)<br /><br />(What is wrong with this review system? Why bother to make it a so-called &#039;adequate&#039; length?)",
+      "comment_workload": "No lectures, don&#039;t even have to attend the once-a-week tutorial.<br /><br />(What is wrong with this review system? Why bother to make it a so-called &#039;adequate&#039; length?)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 8,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

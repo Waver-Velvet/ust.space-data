@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 3715,
+    "subject": "PHYS",
+    "code": "5340",
+    "name": "Introduction to Quantum Many-body Theory",
+    "description": "Introduction to theoretical methods for quantum many-body systems. Perturbative methods, like Green's functions and diagrammatics, will be introduced. Topics in response theory and quantum magnetism will be covered. More modern, entanglement-based approaches, like tensor networks, will also be discussed.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2330,
+      2130
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1549,
+        "name": "PO, Hoi Chun",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "XAhiXUzTC4gs2Dw9QgdDYA56mIIaxVeK",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1549,
+          "name": "PO, Hoi Chun",
+          "rating": 1
+        }
+      ],
+      "author": "LionelCheung",
+      "date": "Aug 18, 2022",
+      "title": "",
+      "comment_content": "The course mainly contains some basic knowledge of quantum many body. If your want to research this topic, you can learn a lot from this course. However, the students need to have the background of quantum mechanics and mathematics to understand the contents.",
+      "comment_teaching": "Prof can teach the knowledge clearly.",
+      "comment_grading": "The grading is very good. All you need to do is to finish the assignments and the final project. You can get what you want :)",
+      "comment_workload": "The workload is not very heavy. Prof gives out 2-3 questions per 2 weeks. In the end of term, students need to finish a project of an arbitrary topic related to quantum many body in a 3-4 people group.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

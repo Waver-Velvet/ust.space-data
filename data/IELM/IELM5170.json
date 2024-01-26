@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 1738,
+    "subject": "IELM",
+    "code": "5170",
+    "name": "Advanced Production Planning and Control",
+    "description": "Operation mission and modern production planning and control systems. MRP, JIT , and OPT methods. Integrated processes and systems design. Software packages will be introduced through a simulated company environment.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1710,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ISOM\" data-code=\"5700\" href=\"/review/ISOM5700\" target=\"_blank\">ISOM 5700</a>",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 354,
+        "name": "LIU, Qian",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "HmCwbcY3CUu0uUUTN795zwVtzAW7zURT",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 354,
+          "name": "LIU, Qian",
+          "rating": 1
+        }
+      ],
+      "author": "jde1993",
+      "date": "Sep 09, 2016",
+      "title": "",
+      "comment_content": "The content is similar as IELM4100, but there are more proof here, so a bit math background is required. However, it&#039;s not that technical comparing to the other IE courses.",
+      "comment_teaching": "Prof. LIU is pretty nice and helpful. And the way she taught is clear.",
+      "comment_grading": "Since its a PG course, the grade is usually good enough<br />If you can attend the lecture and figure out those included in the lecture notes, you can get good grade for sure.",
+      "comment_workload": "One homework every week with around 3 questions. The midterm and final are accumulative.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

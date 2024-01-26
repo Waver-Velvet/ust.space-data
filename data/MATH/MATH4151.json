@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 908,
+    "subject": "MATH",
+    "code": "4151",
+    "name": "Introduction to Lie Groups",
+    "description": "General linear groups, orthogonal groups, unitary groups, symplectic groups, exponential maps, maximal tori, Clifford algebra, spin groups.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2030,
+      1630
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2010\" href=\"/review/MATH2010\" target=\"_blank\">MATH 2010</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2011\" href=\"/review/MATH2011\" target=\"_blank\">MATH 2011</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2021\" href=\"/review/MATH2021\" target=\"_blank\">MATH 2021</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2023\" href=\"/review/MATH2023\" target=\"_blank\">MATH 2023</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"3043\" href=\"/review/MATH3043\" target=\"_blank\">MATH 3043</a>) AND (<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2111\" href=\"/review/MATH2111\" target=\"_blank\">MATH 2111</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2121\" href=\"/review/MATH2121\" target=\"_blank\">MATH 2121</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2131\" href=\"/review/MATH2131\" target=\"_blank\">MATH 2131</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2350\" href=\"/review/MATH2350\" target=\"_blank\">MATH 2350</a>)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 538,
+        "name": "HUANG, Jingsong",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "vSMttqm5DVN40fPoMDfHE2RursdXYib4",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 538,
+          "name": "HUANG, Jingsong",
+          "rating": 1
+        }
+      ],
+      "author": "agoti",
+      "date": "Sep 09, 2021",
+      "title": "it&#039;s what it says on the tin.",
+      "comment_content": "See description.<br /><br />You want introduction to Lie Groups, you get introduction to Lie Groups. <br />The content is relatively simple compared to how complex the whole topic is. The in-depth content is given in the textbook (+ a few books given during the lessons), which one can look into if they so desire.<br /><br />The course is split into 3 parts, as a step-by-step journey (aka: &quot;introduction&quot;) to eventually understanding the topic:<br />1. Representation of Finite Groups<br />2. Lie Algebra (+ Representations)<br />3. Lie Groups (+ Representations)<br /><br />Oh, and the course assumes you know MATH3121/MATH3131 already, despite not having it as prerequisite. I didn&#039;t take that course, so I struggled quite a bit.",
+      "comment_teaching": "Is average. The professor occasionally spends a bit of time explaining the background and application of Lie theory (it is an introduction after all), and will ask students to raise questions and comments about the materials taught. <br />I probably can&#039;t say for everyone because of my lack of math background, but I it took me a lot of off-class self-studying to catch up with the things taught.<br /><br />I&#039;m just *very* glad that the Zoom recordings exist.",
+      "comment_grading": "I got A+, despite failing to understand how the last question of the last homework worked. <br /><br />Since I don&#039;t know what grades other students received, and there are no feedback for the homework whatsoever, I can only assume with a sample size of 1 that the grading is very lax.",
+      "comment_workload": "3 Homework only (questions given during lessons, to be submitted in a week after the chapter ends). No exams.<br /><br />The homework questions are given as a way for students to &quot;explore&quot; on the topic, and to understand how some of the idea and proofs work. (As the professor said they are kind of like &quot;mini-projects&quot;)<br />If you have enough understanding of how things work (or have watched the lecture enough times to understand the topic and questions), the questions aren&#039;t a big problem. I don&#039;t, so the homework took me some time. Not that much more than your average math proof-writing course though I guess.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

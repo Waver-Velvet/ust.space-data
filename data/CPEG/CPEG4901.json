@@ -1,0 +1,87 @@
+{
+  "course": {
+    "id": 2610,
+    "subject": "CPEG",
+    "code": "4901",
+    "name": "Computer Engineering Final Year Project in COMP",
+    "description": "Each student of the Computer Engineering program is required to complete a final year project before graduation. The student is expected to conduct a project on a topic related to Computer Engineering and/or its application. The project is guided and conducted under the supervision of faculty members from the Department of Computer Science and Engineering. Credit load will be spread over the year. Instructor's approval is required for enrollment in the course. For CPEG students only.",
+    "categories": [],
+    "website": null,
+    "credits": 6,
+    "semesters": [
+      2330,
+      2310,
+      2240,
+      2230,
+      2210,
+      2130,
+      2110,
+      2040,
+      2030,
+      2010,
+      1930,
+      1910,
+      1840,
+      1830,
+      1810
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 116,
+        "name": "GOLIN, Mordecai Jay",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "0uD1YyI267hV7jLUFD1W0oQlAqzDkF1c",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 116,
+          "name": "GOLIN, Mordecai Jay",
+          "rating": 1
+        }
+      ],
+      "author": "cryptojet",
+      "date": "May 04, 2023",
+      "title": "Best course in HKUST",
+      "comment_content": "The grading is great if you commit to effort. Professors will not help you in terms of technical development. Therefore, you have to solve all issues on your own.",
+      "comment_teaching": "No teaching at all. You have to teach yourself.",
+      "comment_grading": "The best grading course in HKUST. Being a CPEG student, I need to partner with a COMP student to do a CS project. If you have shown your effort and commitment. The professor will treat you well. Therefore, please communicate with your professors more often.",
+      "comment_workload": "It really depends on your project. If you work smartly, you can have very little workload. Thus, you need to think of the project before committing a year of effort.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

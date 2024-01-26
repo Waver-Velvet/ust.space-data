@@ -1,0 +1,111 @@
+{
+  "course": {
+    "id": 3344,
+    "subject": "OCES",
+    "code": "2100",
+    "name": "Conservation Field Trips",
+    "description": "This course introduces students to a range of local conservation efforts through various field trips. Through this course, students are expected to enhance their appreciation of our nature, to recognise the importance of harmony between human and the environment, as well as to learn how to contribute to environmental conservation as a responsible citizen. Guided tours may be conducted in Cantonese by the request of hosting organizations. Instructor's approval is required for enrolling in the course.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 228,
+        "name": "LAM, Ka Sin Cindy",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "JvMdptzoGNg3cQ5tvawnYbSs7HRsI7eJ",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 228,
+          "name": "LAM, Ka Sin Cindy",
+          "rating": 1
+        }
+      ],
+      "author": "ying_",
+      "date": "Feb 16, 2023",
+      "title": "",
+      "comment_content": "1. Course Introduction<br />2. Field Trip (1): OCRF Visit + Butterfly Walk <br />at HKUST<br />3. Field Trip (2): Fung Yuen Butterfly Reserve<br />4. Field Trip (3): Ho Ha Wan Marine Life <br />Center – WWF HK<br />5.Field Trip (4): Horseshoe crab survey in Pak <br />Nai – The Nature Conservancy<br />6. Field Trip (5): Ting Kok Mudflat and <br />Coastal Cleanup – Tai Po Environmental <br />Association<br />7. Field Trip (6): Conservation of freshwater <br />turtles– Ocean Park Conservation Fund<br />8. Field Trip (7): Birdwatching in Long Valley <br />– Sea Education Association<br />9. Group Project Presentation",
+      "comment_teaching": "Great.",
+      "comment_grading": "Written assignment (10%)<br />Group Project Presentation (20%)<br />Peer Evaluation (10%) <br />Participation and Attendance (60%)<br /><br />Easy to get a good grade if you participate all the field trip.",
+      "comment_workload": "Light. You only need to write a 100 words individual report and give one presentation based on the experience of one of your field trips.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "WKepwnxIbd7GUddq6Uul2Bf4nluqiW4e",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 228,
+          "name": "LAM, Ka Sin Cindy",
+          "rating": 1
+        }
+      ],
+      "author": "JustinLai",
+      "date": "Nov 26, 2021",
+      "title": "Very low workload easy pass great lab",
+      "comment_content": "1 Course Introduction <br />2 OCRF Visit + Butterfly Survey at HKUST<br />3 Ho Ha Wan Marine Life Center – WWF HK<br />4 Ma Shi Chau Geotour – Tai Po Environmental Association<br />5 Mai Po Nature Reserve – WWF HK<br />6 ALS Life Sciences – Hong Kong<br />7 Oyster Restoration in Pak Nai - The Nature Conservancy<br /><br />One of the few great courses offers a once-in-a-lifetime opportunity to learn outside of the classroom.",
+      "comment_teaching": "Great introduction to the future internship location. <br />A good guide can make all the difference.<br />I&#039;d say the most engaging and enjoyable trip was the last one; everything was fantastic, especially the content. It is a moment of relief during the exam period",
+      "comment_grading": "Easy pass. so long as you go on all of the trips.",
+      "comment_workload": "Workload is really light. Attendance is the only thing that counts, and only one essay is required.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

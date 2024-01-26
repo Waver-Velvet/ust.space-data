@@ -1,0 +1,466 @@
+{
+  "course": {
+    "id": 1385,
+    "subject": "LANG",
+    "code": "4034",
+    "name": "Technical Communication II for Mechanical and Aerospace Engineering",
+    "description": "A one-term, major-specific course for all Mechanical and Aerospace Engineering students. The course focuses on academic speaking and writing skills for laboratory report writing and the Final Year Design Project. For MAE students only.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030,
+      1930,
+      1830,
+      1730,
+      1630,
+      1530
+    ],
+    "prerequisites": "(For DDP only) LANG 1403 OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1404\" href=\"/review/LANG1404\" target=\"_blank\">LANG 1404</a> OR LANG 1003 (Prior to 2022-23); (For all others) <a class=\"course-link\" data-subject=\"LANG\" data-code=\"2030\" href=\"/review/LANG2030\" target=\"_blank\">LANG 2030</a>",
+    "corequisites": "<a class=\"course-link\" data-subject=\"MECH\" data-code=\"3690\" href=\"/review/MECH3690\" target=\"_blank\">MECH 3690</a> OR <a class=\"course-link\" data-subject=\"MECH\" data-code=\"3830\" href=\"/review/MECH3830\" target=\"_blank\">MECH 3830</a>",
+    "exclusions": "",
+    "rating_content": 2.91,
+    "rating_teaching": 4.27,
+    "rating_grading": 4.09,
+    "rating_workload": 3.82,
+    "review_count": 11,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 418,
+        "name": "AU, Chui Han Anita",
+        "count": 3
+      },
+      {
+        "id": 421,
+        "name": "TANG, Eunice",
+        "count": 2
+      },
+      {
+        "id": 298,
+        "name": "WU, Kam Yin",
+        "count": 1
+      },
+      {
+        "id": 415,
+        "name": "YUNG, Hoi Hei",
+        "count": 1
+      },
+      {
+        "id": 464,
+        "name": "CARMICHAEL, Sarah",
+        "count": 1
+      },
+      {
+        "id": 880,
+        "name": "WONG, Lee Long Shaun",
+        "count": 1
+      },
+      {
+        "id": 1050,
+        "name": "SAKURAI, Kazuhiro",
+        "count": 1
+      },
+      {
+        "id": 1303,
+        "name": "CHAN, Thomas Anthony Chun Hun",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "Way5hi02S7Pw2maXKNSb4bbmIMQZBGRj",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 464,
+          "name": "CARMICHAEL, Sarah",
+          "rating": 1
+        }
+      ],
+      "author": "An225 Mriya",
+      "date": "Jun 07, 2023",
+      "title": "LANG course in the era of ChatGPT",
+      "comment_content": "LANG4034 is the department-specific English course that all mechanical and aerospace engineering students needs to take, which consisted of 2 parts:<br />(A) laboratory reports; and<br />(B) FYDP technical project (including a design proposal report and presentation).<br /><br />Basically for most of the lessons, you will be introduced with a part of report writing or the presentation. While the assessment focused on the technical project, the course also spent about 1 month to acquaint you for the lab reports.<br /><br />While I can&#039;t say anything for my future FYDP, as the lab reports will be assessed in MECH3690/MECH3830, they are rather useful skills. I therefore disagree that LANG4034 is just a reincarceration of LANG2030.<br />-&gt;At least in my MECH3690 course, the marking TA placed significant regard to the contents and format of lab reports (though often in an arbitrary way), so the contents are also quite important actually.",
+      "comment_teaching": "By all means I must place Sarah Carmichael as one of the best LANG instructor. Often she would reshuffle students into different groups, and encouraged them to discuss the lesson&#039;s topics, though lesson attendance is much lower than one will expect in typical LANG courses. Impromptu presentations were also common, which prepared me well in the latter real presentations.<br /><br />In addition, Sarah was also responsive to students&#039; enquiries and provided useful feedback to consultations and in assignment feedbacks, whether it was report formats or the project scope. Outside of the curriculum, she was also avid in the recent boom of generative AI, and she often spoke about recent experience with AI in teaching.",
+      "comment_grading": "Archived CLE grading page:<br />http://web.archive.org/web/20230607095906/https://cle.hkust.edu.hk/sites/default/files/2021-09/Course%20description-LANG%204034.pdf<br /><br />Laboratory report review: 2/4 (5%)<br />Design proposal report, Part 1: 6+6/14 (10%)<br />Design proposal report, Part 2: 7+7+6/21 (35%)<br />Presentation 1 (individual pitch): 5+5/14 (10%)<br />Feedback on Presentation 1: 3/4 (5%)<br />Presentation 2 (group presentation): 5.5+5+6/21 (35%)<br />*While course attendance is mandatory, for some reasons CLE didn&#039;t allocate attendance score, essentially legalizing skipping courses.<br /><br />The initial lab report review is rather easy, though I&#039;d say it&#039;s hard to capture all points, resulting in a mediocre score. It shouldn&#039;t affect your grade too much. For the design proposal report writing, as long as you follow the typical rules of academic writing and the requirements, you should be perfectly fine. Since this semester, you can use generative AI to proofread your work and submit the revised work with declaration. Not using generative AI to complete your report is also OK (as seen from my score), though I&#039;m not sure how AI will evolve after a few years.<br /><br />For the final presentation, you should expect more questions after the presentation when compared to LANG2030, as everyone now have some basic understanding to engineering subjects.<br /><br />At the end get an A- for the course, which I believe it&#039;s fair to my groupmates&#039; and my contribution.",
+      "comment_workload": "As mentioned above, 95% of the course&#039;s assessment are focused on the FYDP technical reports, one would have an easy beginning for LANG4034, which would only need your group to finish a simple review by picking up errors in a sample lab report, with workload and grading shared on your groupmates.<br /><br />The FYDP technical report required you to form a group and develop a hypothetical FYDP project that is suitable for undergraduate students. I would say the workload is lower than LANG2030 and other LANG courses, with reduced essays and presentations, and also a chance to review your proposal after design report Part 1.<br /><br />My advice is try to be a little bit wild (after all it&#039;s still LANG water-blowing), but still act within the reasonable red line of UG-level research. Probably due to more robust knowledge in the field, we see less erratic designs in the course.<br /><br />Though take note that the deadlines for design reports and presentations will largely collide with your projects in MECH courses. Be prudent and plan/start your tasks early, play the typical LANG way: remember you&#039;ve experienced for this 3 times before.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "3srIe3Ms2NmPvDHpvpnGZZmzpW46R9JT",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1303,
+          "name": "CHAN, Thomas Anthony Chun Hun",
+          "rating": 0
+        }
+      ],
+      "author": "350xwb",
+      "date": "Aug 05, 2022",
+      "title": "Just LANG2030 v2.0",
+      "comment_content": "The course book is the same for every year, nothing special. Just teach you how to write a lab report for MECH3690 and prepare you for FYDP report.",
+      "comment_teaching": "The instructor just goes through the lecture notes and calls it a day. No useful feedbacks or advice given for the assignments.",
+      "comment_grading": "Average to Good grading<br />2.1 10/14<br />2.2 10/14<br />2.3 14/21<br />2.4 15/21<br />Overall B+",
+      "comment_workload": "Medium to heavy workload. <br />2 main group projects with individuals parts:<br />1. A checklist for writing a lab report (200 words in pt form, 5%, very easy)<br />2.1 Design Report Overview (3-400 words, topic decided by own group and submitted Individually, 10%)<br />2.2 3 mins video about your group topic + peer review&nbsp;&nbsp;(Individual, 10%+5%)<br />2.3 Full design report for your group’s topic (14-1500 words, Individual, 35%)<br />2.4 15 mins group presentation + 3 mins Q&amp;A (35%)",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "zK7f9vWsqOQyaM2DidCIThouGH6DSKQi",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 418,
+          "name": "AU, Chui Han Anita",
+          "rating": 1
+        }
+      ],
+      "author": "Ingrid",
+      "date": "Aug 20, 2019",
+      "title": "",
+      "comment_content": "- a compulsory course for MAE students<br />- lab report language and skills for MECH3830<br />- FYDP report writing and presentation<br /><br />Assessment:<br />1. Lab report commenting quiz<br />2. design project overview report<br />3. design project overview presentation<br />4. proposal report<br />5. proposal presentation",
+      "comment_teaching": "Anita is a good teacher.&nbsp;&nbsp;Her feedback after the first presentation really help me for the second presentation.&nbsp;&nbsp;She are willing to help student to aim at high score.",
+      "comment_grading": "not difficult to get a good grade<br /><br />my final grade: A-",
+      "comment_workload": "The workload is light.&nbsp;&nbsp;<br /><br />The reports and presentations are group work.&nbsp;&nbsp;Each student does not need to write much in the reports.&nbsp;&nbsp;The more you practice for the presentations, the better you can perform.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "2m4E2msYCW13tD6ZnT9J17u8iFz6Xv8b",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 421,
+          "name": "TANG, Eunice",
+          "rating": 1
+        }
+      ],
+      "author": "kero星人",
+      "date": "Jun 08, 2019",
+      "title": "",
+      "comment_content": "Unavoidable class for MAE students :)<br />First-half about project report and the second half about FYP report.<br />Quite straight forward indeed<br />No need to buy textbook as it is useless",
+      "comment_teaching": "Eunice is an excellent teacher, always give very specific and useful comment for in-class materials and even things outside class. <br />students can sign for attendance even late<br />No homework at all (unlike most other lecturers), and her class always dismiss early :))))",
+      "comment_grading": "Super good grading, although her raw assessment score is slightly lower than other lecturers.<br />Our class is giving out 5 for fair work, yet other classes are easy to get 6 or 7.<br />However, her sessions are easy A range class, with a mean around B+ to A-, where other classes are giving out mean like B.<br />To compare with 2030, I would say much much better grading, probably best grading lang course ever :)",
+      "comment_workload": "Light.<br />The first assessment is to comment a rubbish-like FYP report individually during class, like a teacher. But as it is too rubbish, there are too much to write and time is very limited.<br />The second part is presentation and report written by three students in a group, each responsible for his/her own part and graded separately except task achievement. Parts are intro, design, technical viability.<br />The third part is an extension from the second part, based on what you wrote and write experimental design for testing, market potential, and abstract/conclusion.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 2,
+      "attachments": []
+    },
+    {
+      "hash": "3kiUteoltyz0JibMAjOMRv02ivbAk0Rp",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 298,
+          "name": "WU, Kam Yin",
+          "rating": 1
+        }
+      ],
+      "author": "hime",
+      "date": "Jun 08, 2019",
+      "title": "Probably the easiest lang course foe mae students",
+      "comment_content": "The course mainly consists of two parts: lab report and fydp report. Learning how to write a good lab report is pretty important as you should be taking MECH3830 at the same time which requires to write a total of 4 lab reports throughout the whole semester. However, the second part is not that useful at this moment.",
+      "comment_teaching": "My instructor is quite lenient in class discipline. Even many students come late or are noisy during the class, he is not mad at this. His teaching is fair, sometimes you may feel bored because he keens on asking you to discuss with your classmates, which may be unnecessary sometimes, but generally speaking his teaching is ok.",
+      "comment_grading": "Again, the grading really depends on the instructor, yet there seems to be no killer at this semester. My instructor is kinda generous in giving grade. I think if you can get an average of level 5 for each assignment, you should be able to get at least a B+",
+      "comment_workload": "The first half is very relax, you just have one easy assessment to deal with. However, the workload of the second half is quite heavy as there are total two presentations and reports you need to finish. Fortunately, the &#039;solo carry&#039; potential of this course is quite large, you can still get a good grade even you have free-riders in your group.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "dMqq9DaYKcj9I6J3nsQSW9Bkh4FVirtv",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 418,
+          "name": "AU, Chui Han Anita",
+          "rating": 1
+        }
+      ],
+      "author": "CKL",
+      "date": "May 26, 2019",
+      "title": "",
+      "comment_content": "1. Lab report writing<br />2. Final Year Design Project<br /><br />The first part lasts for 1 month, which is designed for the language part of writing MECH 3830 lab reports. The second part lasts for the remaining 2 months, which is design for the final year project MECH 4900.",
+      "comment_teaching": "The teaching of the instructor is neither good or bad, just moderate. The good point of her class is that she would give many time for us to read through the materials. If you are lazy, you can take some rest. You can also use that time to digest the knowledge, so that you can follow the teaching progress easily.",
+      "comment_grading": "10%: Critiquing a sample lab report<br />15%: Design project overview presentation<br />20%: Design project overview report<br />20%: Design project proposal presentation and Q&amp;A<br />25%: Design project proposal report <br />10%: Participation<br /><br />The grading is quite lenient when compared with other LANG courses. If you could point out the main points of the lab report, you can easily got 6.5. I got some 5 and 6 in the design project overview, and got mostly 6 in design project proposal. If you pay attention in class and listen carefully to the requirements, I think getting a 6 is not a difficult task.<br /><br />Finally, I got A range.",
+      "comment_workload": "Workload is just like other LANG courses, 2 presentations and 2 reports, except 1 extra lab report quiz. The design project proposal is based on the design project overview, so if you do not have to do much work in the proposal part.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "9wguZgGtLcseICZjKMcD3ox2d2DdSvpd",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 880,
+          "name": "WONG, Lee Long Shaun",
+          "rating": 1
+        }
+      ],
+      "author": "MS01",
+      "date": "May 31, 2018",
+      "title": "Shitty LANG course ever in HKUST",
+      "comment_content": "Basically, it is divided into 2 parts:<br />1. Lab report writing<br />2. Communication skills for the FYDP<br /><br />The first part is about your MECH3830 Lab report writing and it is relatively &quot;useful&quot; thing in this lang course. It may help you to write the lab report in a formal / professional way. <br />(But I can tell you that even you don&#039;t follow the writing styles teach in this course, you can still get high mark in you 3830 report. Lang course teaches you to write the procedure part in paragraph but 3830 report can use point-forms for that part)<br /><br />The second part is about the FYDP. You will be given a chance to theoretically do a FYDP and learn to give a proper presentation for your future FYDP and write the report in a proper style.<br />(Since I have not started my FYDP, I would not be able to tell whether they are useful.)<br /><br />Overall, it is a waste of time.",
+      "comment_teaching": "I think his teaching is acceptable, given that it is the first time he teaches this course. He will ask you question during the lesson in order to make sure you are not daydreaming.<br /><br />He will give you feedback on your presentation so that you can make improvement in your report writing. However, he releases the comment a bit late. He gave comment on my group project proposal presentation just 1-2 hours before the report deadlines, and at the same time my groupmates and I were focused on the shitty and infamous MECH2907 project. If he could give the feedback earlier, our group could spare more time for the report improvement.",
+      "comment_grading": "1. Critiquing a sample lab report (10%)<br />2. Design project overview presentation (15%)<br />3. Design project overview report (20%)<br />4. Design project proposal presentation and Q&amp;A (20%)<br />5. Design project proposal report (25%)<br />6. Participation (10%) <br />-----------------------------------------------------<br />I think the grading is similar to LANG2030. <br /><br />I get one 6, mostly 5 with some 4, turns out a B-.",
+      "comment_workload": "Workload is low compare with previous lang courses, but it also depends on your groupmates. Also, don&#039;t spend too much time on setting the stupid FYDP topic, just use your MECH2907 project or LANG2030 innovation project as your topic.<br /><br />Moreover, beware of the deadlines, as they may crash with your MECH3830 and MECH2907, proper time management is needed.",
+      "rating_content": 1,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "0ICziKzIZXqEgcJ03CB9mFXLvIDpjMVi",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 418,
+          "name": "AU, Chui Han Anita",
+          "rating": 1
+        }
+      ],
+      "author": "potat0",
+      "date": "Jul 06, 2017",
+      "title": "pointless",
+      "comment_content": "This course is basically a waste of time, but it&#039;s easy grade. Even so, it den&#039;t teach anything you don&#039;t already know, and for the sake of points you need to pretend to be interested in it and happy about it. Engineering topics covered are also quite outdated (at least from 5 years ago) which makes the entire class extra boring <br />1) How to write a lab report<br />2) How to write an FYP report (spoiler: same as 1)<br />3) How to make ugly and uninteresting PPTs<br />Basically if you are in year 3 and taking this course it&#039;s 100% pointless, cause you would have already learnt this stuff during your courses in one way or another",
+      "comment_teaching": "How can you teach english if your english is bad?<br />- grammar mistakes<br />- pronunciation mistakes <br />- inaccurate content <br />makes an effort to be happy and lift up the mood but honestly with such an uninteresting content smiling isn&#039;t going to be enough.",
+      "comment_grading": "Easier than the other lang courses I guess<br />- Attendance &amp; participation (individual)<br />- task 1: how to correct a lab report (10%) (individual)<br />- task 2: FYDP proposal report and presentation report (first half) (team and individual)<br />- task 3: FYDP proposal report and presentation report (second half) (team and individual)",
+      "comment_workload": "Low workload, but depends on your teammates. If they are good then it&#039;s easy, If they are free-rider scum then go ahead and have fun.",
+      "rating_content": 1,
+      "rating_teaching": 2,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "fMpOOlOKzNGr8x38SjF6EWO4u8NzlWn3",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 1050,
+          "name": "SAKURAI, Kazuhiro",
+          "rating": 1
+        }
+      ],
+      "author": "GK",
+      "date": "Jun 03, 2017",
+      "title": "Your last LANG and best LANG very likely",
+      "comment_content": "One part is about 3830 lab report writing and the other part is about FYDP report and presentation skills. Unlike last year (probably because of the last year bad response), the content this year matches the 3830 course. I think it is the improvement of the 3830 course instead of here, but good communication anyways. So the skills you learned here would be more useful on the lab report writing in 3830. <br />For FYDP part, you will be given a chance to theoretically do a FYDP. Since I have not started my FYDP, I would not be able to tell whether they are useful.<br />This is the major required course so you have to take it anyway. Enjoy!",
+      "comment_teaching": "Dr Sakurai is the best instructor among all the instructors, I think. Since he is not a technical person, he would focus on language requirements in report and&nbsp;&nbsp;presentations. But as I know, some other instructors have MECH background and will seek whether your FYDP is feasible. So it depends on person. In terms of teaching, his lessons will never bore you. Although the topics are quite boring which you may have learned already, lessons are taught in a not so boring style.",
+      "comment_grading": "In-class review of a sample lab report<br />10%<br />Design project overview presentation (in groups)<br />15%<br />Design project proposal presentation and Q&amp;A on a component/simple device (in groups)<br />20%<br />Short written project overview (individual)<br />20%<br />Design project proposal report on a component/simple device (individual)<br />25%<br />Dr Sakurai is generous in giving high scores. It is common to see 6 and 7. Got an A range for final grade.",
+      "comment_workload": "Light load when compared with previous LANG. No vocab test and only simple report and presents required. Very light load when compared to the other MECH course you are having this semester. Take it as a break.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "srlHxNZyQe0N1craMSllNIj15Xu04LYI",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 421,
+          "name": "TANG, Eunice",
+          "rating": 1
+        }
+      ],
+      "author": "Hah?Why?",
+      "date": "Jan 03, 2017",
+      "title": "May be the last LANG course in your U-life",
+      "comment_content": "Just like the other LANG courses before,<br />it aims to give you something that you can actually google it.<br />It is about how to write lab and FYDP reports and prepare for the FYDP presentation.",
+      "comment_teaching": "Eunice&#039;s class is relaxing.<br />And she is very nice.",
+      "comment_grading": "I think it depends on your instructor.<br />If you participate in class activities actively and prepare well for the class assessments, you will be fine.<br />I just answers a few questions in class and prepared properly for the reports and presentations and then got a B+.<br />I think it&#039;s not too bad.",
+      "comment_workload": "Very light workload.<br />Each student writes only a part of a report (about 600 words) and gives two group presentations, one is 12-minute and another one is 15-minute, with two teammates. <br />And the report and the presentations are about a product that you can use it as your FYDP.<br />It is like LANG2030. You need to talk about why you design it and how it works.<br />and there is a in-class quiz about rectifying mistakes in a lab report.",
+      "rating_content": 3,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "nalH6cIC9JZcrJEX78HT6QeR714n9ivv",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 415,
+          "name": "YUNG, Hoi Hei",
+          "rating": 1
+        }
+      ],
+      "author": "KAL",
+      "date": "Apr 27, 2016",
+      "title": "",
+      "comment_content": "一。唔知教乜, LANG 同Dept 無溝通<br />唔關個tutor事, 係個course coordinator 同 MECH dept 根本無溝通<br />LANG教一套, Dept就用另一套<br />係啊教完lab report procedure o個 part 叫我用 paragraph, 轉頭交上3830 用 point form, bullet form 就9/10<br />咁點解我要用3 cred 學D我唔洗improve既野<br /><br />二。亂改分<br />一樣唔太關呢個tutor 事(可能佢small potato掛), 只係我得到既消息係有人覺得學生應該有&#039;room for improvement&#039; 所以第一篇文同present都只會得6/7, 所以呢我o個班就全班俾人tune低左分最高得6分<br />好喇轉個頭同一日另一班出分就有人6.5翻黎<br />咁即係你想我呢班低分就架硬改低人地班個分?<br />定係你就覺得你o個班既就只有0.5分做 improvement, 其他班就1分咁呀? <br />唔係白老鼠就可以咁架下話?<br />定係你質疑緊我o個班個tutor既專業? 係既你就唔好俾佢教啦 <br />一係你就好似LANG1002, 1003咁錄影<br />咁你點改我個分我都無野講<br /><br />就咁 呢個course根本唔應該出現",
+      "comment_teaching": "氣氛幾好, 不過始終第一年點第一年教唔識教好正常",
+      "comment_grading": "唔知, 我打既時候未完sem, 不過個分就俾人改黎改去<br />無standard 無marking, 我相信個course coordinator都唔知自己想點<br />要打既 content 打晒",
+      "comment_workload": "要2個present同2篇report, 不過上開3830就麻木晒所以唔算好chur",
+      "rating_content": 1,
+      "rating_teaching": 5,
+      "rating_grading": 1,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

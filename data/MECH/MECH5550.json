@@ -1,0 +1,32 @@
+{
+  "course": {
+    "id": 1823,
+    "subject": "MECH",
+    "code": "5550",
+    "name": "Precision Machining",
+    "description": "Basic concepts of precision machining; the well developed methods and systems of fixed and free abrasive technology for micro- and nano- precision machining and fabrication applications; methods and techniques for process control modeling and characterization; advanced applications of abrasive technology such as free form machining and micro fabrication.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2010,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

@@ -1,0 +1,187 @@
+{
+  "course": {
+    "id": 1238,
+    "subject": "ELEC",
+    "code": "4810",
+    "name": "Introduction to Biosensors and Bioinstrumentation",
+    "description": "This course builds on the fundamental knowledge of biosensors and bioinstrumentation. Lectures and hands-on laboratory experiments cover: (1) Basic concepts of biomedical signal analysis; (2) Measurements of bioelectrical, biomechanical and biochemical signals for medical diagnosis and clinical monitoring; (3) Principles of biosensors and biochips; (4) Simple design of new bioinstrumentation and biosensor to solve biomedical problems.",
+    "categories": [],
+    "website": "http://course.ee.ust.hk/elec4810",
+    "credits": 4,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2400\" href=\"/review/ELEC2400\" target=\"_blank\">ELEC 2400</a> OR <a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2420\" href=\"/review/ELEC2420\" target=\"_blank\">ELEC 2420</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3.25,
+    "rating_teaching": 3,
+    "rating_grading": 3.25,
+    "rating_workload": 2.5,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 186,
+        "name": "QU, Jianan",
+        "count": 4
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "zbwhZlLnxg5LCMGS5Lp6NgKGZrgST7ZY",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 186,
+          "name": "QU, Jianan",
+          "rating": 1
+        }
+      ],
+      "author": "Oscartf",
+      "date": "Jan 19, 2024",
+      "title": "Not bad as I thought but not recommended",
+      "comment_content": "COURSE OUTLINES: <br />&nbsp;&nbsp;I. INTRODUCTION: OVERVIEW OF COURSE<br />1. Types of medical electronic devices<br />2. General characteristics of biomedical signals<br />II. BASIC CONCEPTS<br />1. Mathematical descriptions of random signals<br />2. Measurement systems fundamentals<br />• Transduction<br />• Signal processing methods<br />• Close loop systems<br />• Equipment specifications<br />III. BIOPOTENTIALS<br />1. Origin: Ionic currents in a single cell<br />2. Action potentials (nerve and muscle)<br />3. Multiple cells: Generation of body-surface potentials<br />4. Electrocardiography (ECG)<br />• Physiology of the heart<br />• Dipole concept<br />• Lead systems<br />• Electrodes, amplifiers<br />• ECG instrument design (First lab assignment)<br />5. Electromyography (EMG)<br />6. Electroencephalography (EEG)<br />IV. BLOOD PRESSURE AND FLOW MEASUREMENT<br />1. Physiology of the circulatory system<br />2. Pressure transducers (invasive)<br />• Strain-gauge (1-,2-,4-arm bridges)<br />• Inductive<br />• Capacitive<br />• Piezoelectric<br />• Optical<br /><br />3. Non-invasive pressure monitoring<br />• Manual cuff<br />• Oscillometric (Second lab assignment)<br />4. Flow measurement<br />• Indicator-dilution method (dye, thermal)<br />• Electromagnetic<br />• Doppler ultrasound<br />V. RESPIRATORY MONITORS<br />1. Physiology of blood/gas exchange<br />2. Capnography<br />3. Oximetry (Third lab assignment)<br />VI. CLINICAL CHEMISTRY and INTEGRATED BIOSENSORS<br />1. Spectrometry<br />2. Electrochemical sensors and Hematology counting<br />3. Integrated and smart sensors<br />5. Biochip for clinical diagnostics <br /><br />The course includes lots of knowledge about biology. If you are not interested in the combination of biology and electronic, I don&#039;t recommend you to take the course. I do so because the instructor is my FYP advisor and he force me to take the course.",
+      "comment_teaching": "The professor teaching is sort of bad, very boring when you take a lot of the biosignal and how they works. If you are really not interested in biology and how the biosignal measuring device works, please do not take this course.<br /><br />And the professor always said the course/ the lab is &quot;very fun&quot;, but I don&#039;t think so when I am doing the assignments or the lab reports.",
+      "comment_grading": "The grading for the lab report is strict, but for assignment is weird.<br />mid term: 14.5/18 mean 11.43<br />final: 36.5/46 mean 31.89<br />and I got 2 assignment with 0 marks.<br />Grade B",
+      "comment_workload": "The course is extremely busy at the first few weeks, every week you will get a homework and it is not easy to complete it if you take it so serious or even you attend the lecture. Also, when it comes to the half of the semester, the homework is totally meaningless. For example, ask you to do web search about biopotential and write a 800 summary, which is completely not related or helpful to your mid term or final, of course, they will not take your summary serious and give you full mark whatever you wrote.<br /><br />Otherwise, there are 7 labs and have prelab questions, which needs you to calculate the resistor or the capacity value. Among all the labs, there are around 5 different circuit that measured different types of biosignal. Please remember, these circuits will be a part of the final. One of the final questions needs you to draw out the one of the circuits, which is kind of stupid as each circuit has 20 to 30 components with different values.<br /><br />Last, the mid term and final is hard, doing revision for one/ two days is far from enough if you are not listening in class. I do think the teaching team acknowledge this problem, so you will get extra marks when you hand write your cheat sheet for the exam.(one 2 side A4 for mid term and two 2 side A4 for final)",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "JXw9SWoMiH8JFhDxqNGnnU1aOcS3tFyg",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 186,
+          "name": "QU, Jianan",
+          "rating": 1
+        }
+      ],
+      "author": "cychiuaj",
+      "date": "Jan 03, 2021",
+      "title": "",
+      "comment_content": "COURSE OUTLINES: <br />&nbsp;&nbsp;I. INTRODUCTION: OVERVIEW OF COURSE<br />1. Types of medical electronic devices<br />2. General characteristics of biomedical signals<br />II. BASIC CONCEPTS<br />1. Mathematical descriptions of random signals<br />2. Measurement systems fundamentals<br />• Transduction<br />• Signal processing methods<br />• Close loop systems<br />• Equipment specifications<br />III. BIOPOTENTIALS<br />1. Origin: Ionic currents in a single cell<br />2. Action potentials (nerve and muscle)<br />3. Multiple cells: Generation of body-surface potentials<br />4. Electrocardiography (ECG)<br />• Physiology of the heart<br />• Dipole concept<br />• Lead systems<br />• Electrodes, amplifiers<br />• ECG instrument design (First lab assignment)<br />5. Electromyography (EMG)<br />6. Electroencephalography (EEG)<br />IV. BLOOD PRESSURE AND FLOW MEASUREMENT<br />1. Physiology of the circulatory system<br />2. Pressure transducers (invasive)<br />• Strain-gauge (1-,2-,4-arm bridges)<br />• Inductive<br />• Capacitive<br />• Piezoelectric<br />• Optical<br /><br />3. Non-invasive pressure monitoring<br />• Manual cuff<br />• Oscillometric (Second lab assignment)<br />4. Flow measurement<br />• Indicator-dilution method (dye, thermal)<br />• Electromagnetic<br />• Doppler ultrasound<br />V. RESPIRATORY MONITORS<br />1. Physiology of blood/gas exchange<br />2. Capnography<br />3. Oximetry (Third lab assignment)<br />VI. CLINICAL CHEMISTRY and INTEGRATED BIOSENSORS<br />1. Spectrometry<br />2. Electrochemical sensors and Hematology counting<br /><br />3. Integrated and smart sensors<br />5. Biochip for clinical diagnostics",
+      "comment_teaching": "The instructor has tried to explain the biological concept with a lot of examples and detailed information. the content is relatively difficult and costs a lot of time especially for those who have no biological knowledge such as cell membrane and the heart. but there is no tutorial session, so the only way is to ask the prof. directly or searching from the internet. <br /><br />some content will not be explained in class which requires you to read the handout. some handout is really long and too difficult to understand.<br /><br />No attendance required. According to the situation, all labs will have videos and data support, attendance for labs is optional.<br /><br />the TAs&#039; response in around 2-3 hours, which is quick enough.",
+      "comment_grading": "Grading:&nbsp;&nbsp;<br /><br /> Homework&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(15%) <br /> Lab reports:&nbsp;&nbsp;&nbsp;&nbsp;(15%) <br /> Midterm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(20%)&nbsp;&nbsp;(max: 20+4bonus)<br /> Final&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(50%) <br /><br />it is a small class, so there are only a few people can get A range, and the B range is relatively wide. I think it is pretty fair compare to other small class courses. <br /><br />My grade is A-, which homework ~80%, lab reports ~90%, midterm 16.5<br />the final score is not released, but I think it should be similar to the midterm. As mentioned, it is a small class, so A range will be much difficult, but overall is still fair.",
+      "comment_workload": "To be honest, the assignments and labs workload is normal, one assignment per week up to midterm, and one lab report per week starting after the midterm. Total 6 assignments and 6 labs. the most time consuming maybe the first assignment if you are not familiar with Matlab. the code for data analysis used in the assignment will be reused in each lab report. for each report and assignment, around 3 hours will be spent, therefore it is around 3 hours workload per week, which is fair for a 4 cred course. <br /><br /><br />the instructor claim that you just need to have some basic circuits knowledge to study this course, so you do not need to have bio knowledge. <br /><br />but the main problem is the content is not familiar for most of the students which is very difficult. if you really want to understand the course materials, you have to spend a lot of time self-learning and revise. for those who have not much biological knowledge, it is a hard time until you get familiar with the content. therefore, it is not a suitable course for those not interested in this area and not good at bio-content.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "8cOv0bKCoK5AUAM4nzt3axDLzTTPCQBa",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 186,
+          "name": "QU, Jianan",
+          "rating": 1
+        }
+      ],
+      "author": "kwan1234",
+      "date": "Dec 30, 2020",
+      "title": "The workload and grade are not balance. Don’t take it if you want a higher grade with less workload.",
+      "comment_content": "COURSE OUTLINES: <br />&nbsp;&nbsp;I. INTRODUCTION: OVERVIEW OF COURSE<br />1. Types of medical electronic devices<br />2. General characteristics of biomedical signals<br />II. BASIC CONCEPTS<br />1. Mathematical descriptions of random signals<br />2. Measurement systems fundamentals<br />• Transduction<br />• Signal processing methods<br />• Close loop systems<br />• Equipment specifications<br />III. BIOPOTENTIALS<br />1. Origin: Ionic currents in a single cell<br />2. Action potentials (nerve and muscle)<br />3. Multiple cells: Generation of body-surface potentials<br />4. Electrocardiography (ECG)<br />• Physiology of the heart<br />• Dipole concept<br />• Lead systems<br />• Electrodes, amplifiers<br />• ECG instrument design (First lab assignment)<br />5. Electromyography (EMG)<br />6. Electroencephalography (EEG)<br />IV. BLOOD PRESSURE AND FLOW MEASUREMENT<br />1. Physiology of the circulatory system<br />2. Pressure transducers (invasive)<br />• Strain-gauge (1-,2-,4-arm bridges)<br />• Inductive<br />• Capacitive<br />• Piezoelectric<br />• Optical<br /><br />3. Non-invasive pressure monitoring<br />• Manual cuff<br />• Oscillometric (Second lab assignment)<br />4. Flow measurement<br />• Indicator-dilution method (dye, thermal)<br />• Electromagnetic<br />• Doppler ultrasound<br />V. RESPIRATORY MONITORS<br />1. Physiology of blood/gas exchange<br />2. Capnography<br />3. Oximetry (Third lab assignment)<br />VI. CLINICAL CHEMISTRY and INTEGRATED BIOSENSORS<br />1. Spectrometry<br />2. Electrochemical sensors and Hematology counting<br /><br />3. Integrated and smart sensors<br />5. Biochip for clinical diagnostics",
+      "comment_teaching": "The overall teaching style is satisfactory. Professor give a lot of detail information of the content. However, few calculation example will be given. There are no tutorial lesson which makes you difficult to apply the knowledge into real time example (Exam and mid-term question).",
+      "comment_grading": "Grading:&nbsp;&nbsp;<br /><br /> Homework&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(15%) <br /> Lab reports:&nbsp;&nbsp;&nbsp;&nbsp;(15%) <br /> Midterm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(20%)&nbsp;&nbsp;<br /> Final&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(50%) <br /><br />The final grade is really bad. Normally, small number of class always have nice grading(absolute grading). However, you won’t see it in this course.&nbsp;&nbsp;<br /><br />The workload is too high but the B range is too wide. So difficult to achieve A range compare other ELEC courses.",
+      "comment_workload": "The workload is pretty high. There are homework every week when the semester start. After the lab begin, you have to do the lab report every week which really time consuming. You have to spend more than normal 4 credit class to understand the materials and finish the homework. I do not recommend to take these course to fulfil the elective requirement unless you really want go deep in this area.",
+      "rating_content": 2,
+      "rating_teaching": 3,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "rx7s0e1IADTmyldsnNBSZ7tNmZzA2HI1",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 186,
+          "name": "QU, Jianan",
+          "rating": 1
+        }
+      ],
+      "author": "Davidliu",
+      "date": "Jan 02, 2019",
+      "title": "",
+      "comment_content": "This course introduces electrical and physics students to the concepts underlying the design of medical electronic devices. Methods for acquiring and processing signals from the human body are studied mostly at the system level, but practical examples of the circuit-level design of medical devices are also presented. After completing this course, one should understand the biophysical origins of the electrocardiogram, the blood pressure pulse, and other major diagnostic variables and be able to design systems to measure them.",
+      "comment_teaching": "The lecture will cover a lot of information and explanation that is not included in the notes. So attending the lecture is very very important. Also, it would be easy for students to understand the concept in this course if they have biological knowledge background. Professor will explain the concepts and calculation during the lectures before the experiments.",
+      "comment_grading": "Homework (15%)<br />Lab reports: (20%)<br />Midterm (20%)<br />Final (45%)",
+      "comment_workload": "Assignments and five experiments. There is one week for doing the assignment. A report is needed to submit after each experiment. However, the experiments are usually similar except the finding. You may feel stressful if you also take other ELEC3XXX or ELEC4XXX, because there must be assignment or lab report need to submit in every week.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

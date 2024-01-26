@@ -1,0 +1,140 @@
+{
+  "course": {
+    "id": 1035,
+    "subject": "PHYS",
+    "code": "3040",
+    "name": "Introduction to Materials Science",
+    "description": "An integrated study of the nature and behavior of metals, ceramics and polymers.  Topics include crystal structures, phase diagrams, microstructures and microscopy, defects, phases and interfaces in materials systems, phase transformations, deformation, annealing and failure of materials.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1930,
+      1710,
+      1510,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.33,
+    "rating_teaching": 3.67,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 620,
+        "name": "WEN, Weijia",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "hzRDtsu2EfVBk2vz2nRaTe4x7CUJj2LL",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 620,
+          "name": "WEN, Weijia",
+          "rating": 0
+        }
+      ],
+      "author": "henry407",
+      "date": "Jan 20, 2016",
+      "title": "Good Grade, Boring Course",
+      "comment_content": "This course covers all basic aspects of material science including Young&#039;s modulus, phase diagram, conductivity and smart material etc.. (Textbook: Materials Science And Engineering An Introduction). However, the course mainly covers the qualitative aspect of those topics and quantitative calculation is rarely covered, which is rather disappointing for a student willing to understand material science in-depth.",
+      "comment_teaching": "The teaching is not bad - if you could understand his English. <br />Professor writes down all the things on the board and you have to copy it as he will not upload them to the web. The professor tries to encourage students to participate the lesson by offering students additional points when answering questions. This is a good practice but the professor seems to forget it toward the end of the semester.",
+      "comment_grading": "The homework and final scores were not shown to us in this year, so it is rather difficult to judge the grading of the course. The professor mentioned that he never gives grade lower than B-. So, I bet it would be a GPA saver if you don&#039;t mind the boring lessons and contents.",
+      "comment_workload": "Apart from a mid-term and a final exam, there are nearly no homework (two in the whole semester this year). The exam only covers the content written on the board during class. So, if you spend your time on the lesson to drop down all the notes, you will be fine.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "G9351AC2iZxl9uXrElBVMUOJWxUSrfRz",
+      "semester": "2015-16 Fall",
+      "instructors": [],
+      "author": "Bread",
+      "date": "Dec 25, 2015",
+      "title": "",
+      "comment_content": "The course covers some basic material science topics. While it is a PHYS3000 course, there is a good reason why no pre-requisite is required for this course--you really can go into this course with just basic high school science knowledge and understand most of the content.<br />The course covers the following:<br />-Bonding<br />-Crystal structures, lattice position/direction/plane, plane/linear density<br />-Dislocation, defects<br />-Diffusion<br />-Stress/strain, deformation and elastic modulus<br />-Phase, phase diagram, microstructure of solid solution, eutetic structure, etc.<br />-Composite materials and their properties<br />-Energy levels and energy band, piezoelectrics<br />-Thermal expansion and conductivity<br />-Some magnetic properties",
+      "comment_teaching": "Prof. Wen&#039;s teaching is quite good...assuming you can understand his English. You will probably end up missing around quite a lot of the content as his English can be rather hard to understand at times. He tries to discuss with the students about how to apply some of the concepts in real life, and ask students to give predictions to results. Overall, it will help with learning the course quite a bit. And since he really does not follow whatever textbook he is using closely, I recommend attending the lessons to see what he is teaching.",
+      "comment_grading": "This course is a legendary god grade course, and with good reasons. Apparently, the minimum you will get is a B, and if you just put in a bit of effort, you will get an A. <br />The score calculation is as follow:<br />Homework/quiz: 15%<br />Mid-term: 35%<br />Final: (just) 50% (Look, it is what the professor himself said near the end of the course!)<br />The exams have a rather heavy emphasis on memorization of definition, and they are not too difficult.<br />You can also get a piece of paper/sticker for every question you answer, and the paper will be collected at the end of lesson, which will be converted into a score increase for every paper you get (I forgot the exact amount it increases by). Since he will give you the paper even if you answer wrongly, if you always raise your hand and try to answer as many question as possible, like a good primary school student (which as stupid as it sounds, is what I did at this course), you can get an A+ easily.",
+      "comment_workload": "There are 2 rather easy assignments before the mid-term, and after that I guess the TA/Prof. Wen forgot we need to do assignment, so there are no more afterwards. There was also a quiz...in which discussion of answer among students is allowed, so it is quite pointless.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "5hI6uxrwWsBqrYSV9tMHmLHK391ndjpT",
+      "semester": "2013-14 Fall",
+      "instructors": [
+        {
+          "id": 620,
+          "name": "WEN, Weijia",
+          "rating": 1
+        }
+      ],
+      "author": "RagingBarbarian",
+      "date": "Aug 26, 2015",
+      "title": "",
+      "comment_content": "I don&#039;t know why nobody is writing review for this very famous course. It is about introductory material science, talking about things like unit cells (FCC, BCC, etc.) and other things related to material science in an almost maths-free manner (only simple maths with simple equations included). The content is easy yet really interesting.",
+      "comment_teaching": "No lecture notes available online at all. What you have to do is to attend the class and jot down the notes. The professor&#039;s English and Cantonese and Mandarin are very much a huge disaster, and you will understand why once you attend his class for the first time. But this does not make his teaching any worse. All in all, the teaching is easy to understand.",
+      "comment_grading": "God grade course. Not &quot;good&quot;, but &quot;god&quot;, ok?<br />I forgot the exact weighting, but it&#039;s about 15% HW, 35% midterm, 50% final.<br /><br />Midterm is a piece of cake. Easy questions, very &quot;hea&quot; grading - &gt;50% of people got full marks.<br /><br />Final is a bit more challenging, but still manageable if you revise at least 1 day before.<br /><br />What worths noticing is that he awards you with a small piece of &quot;Good Job&quot; paper if you can answer his questions in class. Each piece of that good job paper contributes 0.1% to your overall course point, directly added on top of how much marks you have already got. I remember I got like 30 of them throughout the whole semester, so I got an extra 3% towards my total marks.<br /><br />At last I got an A+ in this course, and I could not have my final paper checked. But who will bother checking it when you already got an A+?",
+      "comment_workload": "Only like 2 or 3 homeworks with 3 or 4 secondary school level maths questions included throughout the whole course. Very easy to get full marks.<br /><br />The teaching pace is quite slow, so midterm and final do not include many things. You can simply revise a day before but still able to get very high marks.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

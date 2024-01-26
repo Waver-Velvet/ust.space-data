@@ -1,0 +1,118 @@
+{
+  "course": {
+    "id": 1538,
+    "subject": "FINA",
+    "code": "4303",
+    "name": "Fixed Income Securities",
+    "description": "Pricing of bonds, term structure models, duration analysis and immunization techniques, valuation of interest rate options, convertible bonds, mortgage-backed securities, pricing credit derivatives, bond portfolio construction and management.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2230,
+      2030,
+      1930,
+      1810
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"3103\" href=\"/review/FINA3103\" target=\"_blank\">FINA 3103</a> AND <a class=\"course-link\" data-subject=\"FINA\" data-code=\"3203\" href=\"/review/FINA3203\" target=\"_blank\">FINA 3203</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 3,
+    "rating_grading": 4.5,
+    "rating_workload": 4.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 241,
+        "name": "BENZ, Entela",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "8FLwL0zNJFIpAAJpaSUbPwYESxEoHKTG",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 241,
+          "name": "BENZ, Entela",
+          "rating": 1
+        }
+      ],
+      "author": "zephyr",
+      "date": "Aug 25, 2021",
+      "title": "",
+      "comment_content": "major concepts such as duration, convexity, swaps, FRN, forwards, futures are all covered. the course really focused on logic and calculation.",
+      "comment_teaching": "The lectures can be quite helpless since the professor usually went beyond the topic. The class usually spends half of the time doing presentations and Q&amp;A. watching videos can be more efficient.",
+      "comment_grading": "got 94/100 in midterm, 96/100 in final. 90/100 in two presentations, A- at last. The curve can be quite tricky, may be a bit difficult to get an A or A+, you cannot make any mistakes in the exam.",
+      "comment_workload": "one quiz every week, basically covering the content of the week. the quiz is one-trail-only, so do be careful. <br />two presentations, one market news for 5min, the other industry paper research for 20min, groups of 3-5 ppl are formed voluntarily.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "eDCxW3LHIiZ5gpPLAzEvpXSjv3I599Fs",
+          "name": "IMG_40160FBF128B-1",
+          "format": "jpg"
+        }
+      ]
+    },
+    {
+      "hash": "xML6kNjGrVY57nlAOCXAwLVZJRtB9f1X",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 241,
+          "name": "BENZ, Entela",
+          "rating": 1
+        }
+      ],
+      "author": "THCorpLtd",
+      "date": "Jun 05, 2020",
+      "title": "Hint of practicality",
+      "comment_content": "Bonds, swaps, credit derivatives, futures etc.<br /><br />Quite practical indeed since valuation/price quotations are close to how they&#039;re done irl.<br /><br />Prof is also quite keen on updating students on market news. Maybe it&#039;s becuz she was in the banking industry before",
+      "comment_teaching": "It&#039;s not fair for me to comment since the whole semester is based on zoom teaching, and the lesson time is actually midnight for the prof, so she often looks exhausted. Connection problems are common too.",
+      "comment_grading": "Online graded quizzes 20%<br /><br />Group Assignment 20%<br /><br />Mid-term Exam 30%<br /><br />Final Exam 30%<br /><br />Not sure what my grade is but they&#039;re not difficult to handle at all",
+      "comment_workload": "Extremely low. A short quiz after every lecture, assignments are basically equivalent to the quiz except longer. Midterm and Final exam are quite easy.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

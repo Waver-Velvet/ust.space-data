@@ -1,0 +1,109 @@
+{
+  "course": {
+    "id": 2972,
+    "subject": "HUMA",
+    "code": "2597",
+    "name": "Environmental History",
+    "description": "This course provides students with an introduction to the field of environmental history focusing on the past one hundred years of environmental change around the globe. The course will explore different themes in environmental history, including the environmental impact of humans, the history of sustainable development, environmental justice movements and national programs of nature conservation.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2030,
+      1910
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3,
+    "rating_teaching": 3,
+    "rating_grading": 3.5,
+    "rating_workload": 2.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1020,
+        "name": "SMITH, Jenny Leigh",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "Xul1D0PHIISBvWO6RarWrNnZcycNmNuq",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 1020,
+          "name": "SMITH, Jenny Leigh",
+          "rating": 1
+        }
+      ],
+      "author": "就黎升仙",
+      "date": "Jun 07, 2021",
+      "title": "Online Mode, This course is useless!",
+      "comment_content": "Module One: Fresh Water <br />Local Topic: Hong Kong Water Supply<br />Regional Topic: The Mekong River<br />Global Topic: Fresh water scarcity<br /><br />Module Two: Global Climate Change<br />Local Topic: History of Flooding and landslips in Hong Kong<br />Regional Topic: Asian Cities: sinking and stifling<br />Global Topic: Climate-influenced famines and wars<br /><br />Module Three: Sustainability<br />Local Topic: land reclamation in Hong Kong<br />Regional Topic: recycling in Asia&nbsp;&nbsp;<br />Global Topic: Carbon credits: the history of an ecological idea <br /><br />Module Four: Pollution<br />Local Topic: plastics on Hong Kong shorelines<br />Regional topic: History of air pollution in Asia<br />Global topic: light pollution<br /><br />Module Five: Agro-ecology<br />Local Topic: Hong Kong farms<br />Regional Topic: History of rice paddies and their ecosystems<br />Global Topic: Farms as polluters<br /><br />Module Six: Conservation<br />Local Topic: Hiking trails and Country Parks in Hong Kong<br />Regional Topic: Conserving Tigers and Elephants in Asia<br />Global Topic: The rise of environmental NGOs<br /><br />P.S.<br />Modules 1 to 4 are also covered in SUST1000 :)",
+      "comment_teaching": "Professor doesn&#039;t like to reply emails. Receive reply after 2 weeks.",
+      "comment_grading": "QOTD: 20%<br />Quiz 1: 10%<br />Quiz 2: 10%<br />Quiz 3: 10%<br />Final Timeline Project: 20%<br />Mini Lecture: 10%<br />Book Review: 20%<br /><br />Mean: 80.33<br />My score: 79.5 --&gt; Grade: B<br />This course should be absolute grading and same as other HUMA courses.",
+      "comment_workload": "You need to attend every lecture for quizzes and QOTD (can answer in Discussions in Canvas). For quizzes, you also need to watch movies and reading materials. <br /><br />Book Review: Read a book with more than 300 pages",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 4,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 4,
+      "attachments": []
+    },
+    {
+      "hash": "MjVZtl7j5Dlp7v2K8LBPDJ8EHXqkYOej",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 1020,
+          "name": "SMITH, Jenny Leigh",
+          "rating": 1
+        }
+      ],
+      "author": "CS水泡",
+      "date": "Jan 23, 2020",
+      "title": "Content is pretty interesting, but not very useful in some fields of studies",
+      "comment_content": "Talks about various topics from global and local perspective. A lot of them links back to environmental and cultural history of Hong Kong.<br /><br />Talks all things from water, conservation, domestication to zoology of specific animals. Class only covers 60% and the rest are reading material.",
+      "comment_teaching": "Teaching is chill albeit a tad early in the morning, and professor is happy to answer questions related to class material or arrangements.",
+      "comment_grading": "The grading is lean and partial marks are given appropriately. Participation is important but you can do the questions on canvas on the same day. However, the grade cutoff is strict. I got a 89.3% and it is still a B+.",
+      "comment_workload": "The main load besides quizzes and finals are the presentation, a review essay based on one of the reading materials and an unguided &quot;field trip&quot;. The last one is just a worksheet that you fill up before and after going to the specified places.<br /><br />Reading material can feel unimportant and not heavily mentioned until the first quiz comes, but it is too late to read them all by the time. If you don&#039;t like reading, don&#039;t take this course.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

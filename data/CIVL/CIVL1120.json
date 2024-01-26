@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 2411,
+    "subject": "CIVL",
+    "code": "1120",
+    "name": "Exploring Earthquake Engineering",
+    "description": "This course intends to facilitate student’s exploration in earthquake engineering through hands-on experiments. Students are grouped to design and build scaled building models using wood, glue, strings and rubber bands, which are loaded and tested on a shake table under simulated earthquake ground motion. Through the design, build and test process, students can observe the effect of different design variables and details on the test result. Students are then guided to interpret the observations, identify possible issues, explore relevant knowledge, and propose viable options for improvement. Students need to reflect what they have learned on a revised building model and contest other groups in a final competition.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1830,
+      1730
+    ],
+    "prerequisites": "Level 3 or above in HKDSE 1/2x or 1x Physics OR a passing grade in HKCEE Physics",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 1,
+    "rating_workload": 1,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1235,
+        "name": "JAMSHIDI, Maziar",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "phmWckvZoMKTYeWdVw0qPjoD0BsXxjwy",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 1235,
+          "name": "JAMSHIDI, Maziar",
+          "rating": 1
+        }
+      ],
+      "author": "hahahahaha",
+      "date": "Nov 07, 2019",
+      "title": "",
+      "comment_content": "Content is average. It focused more on the experiment part and we can gain experience from that . However, the course did not really provide guideline to improve our building design and we need to rely on other research and experiment results.",
+      "comment_teaching": "Teaching is really interesting. The course aims to let you have hand-on experience on building a building model and undergo earthquake test.",
+      "comment_grading": "VERY VERY POOR. Year 1 students please do not take in this course. The grade is mainly comprised of two part. One is the two seminar discussion conducted in class and the other is the result of your model building. This course was filled with Year 4 civil Students which they will use their knowledge and experience to beat you. And some of them even have competition experience so it is very difficult to excel in this course. For me, i have one seminar discussion marks below mean while other is above average. Finally i get a C+ which is totally ridiculous considering i have put a lot of efforts in this course.",
+      "comment_workload": "Workload is quite heavy. You may need to spend extra out of class time to finish your model building and prepare your seminar discussion.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

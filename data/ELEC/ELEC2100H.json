@@ -1,0 +1,105 @@
+{
+  "course": {
+    "id": 1368,
+    "subject": "ELEC",
+    "code": "2100H",
+    "name": "Honors Signals and Systems",
+    "description": "This is an accelerated and intensive course on signals and system analysis. The course covers continuous- and discrete-time Fourier series, Fourier transform, Laplace Transform, interactions between signals, linear time invariant systems, differential and difference equations, and the sampling theorem. There will also be an introduction to advanced concepts and related applications, such as various transforms used in image processing and modulation techniques used in communication systems, which will allow students to develop a deeper understanding of the fundamentals of signals and systems. MATLAB will be introduced as an integral part of this course.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      1810,
+      1710,
+      1610,
+      1510
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"1100\" href=\"/review/ELEC1100\" target=\"_blank\">ELEC 1100</a> OR <a class=\"course-link\" data-subject=\"ELEC\" data-code=\"1200\" href=\"/review/ELEC1200\" target=\"_blank\">ELEC 1200</a> OR <a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2400\" href=\"/review/ELEC2400\" target=\"_blank\">ELEC 2400</a> OR <a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2410\" href=\"/review/ELEC2410\" target=\"_blank\">ELEC 2410</a> (prior 2016-17)) AND Grade A- or above in (<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2011\" href=\"/review/MATH2011\" target=\"_blank\">MATH 2011</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2023\" href=\"/review/MATH2023\" target=\"_blank\">MATH 2023</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2111\" href=\"/review/MATH2111\" target=\"_blank\">MATH 2111</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2350\" href=\"/review/MATH2350\" target=\"_blank\">MATH 2350</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2351\" href=\"/review/MATH2351\" target=\"_blank\">MATH 2351</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2352\" href=\"/review/MATH2352\" target=\"_blank\">MATH 2352</a>)",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2100\" href=\"/review/ELEC2100\" target=\"_blank\">ELEC 2100</a>",
+    "rating_content": 3.5,
+    "rating_teaching": 4.5,
+    "rating_grading": 4,
+    "rating_workload": 3,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 175,
+        "name": "LOUIE, Raymond Hall Yip",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "TjEXXPiJOIHpQWmLACA0fJQTbQ4gXpgw",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 175,
+          "name": "LOUIE, Raymond Hall Yip",
+          "rating": 1
+        }
+      ],
+      "author": "george",
+      "date": "Feb 03, 2017",
+      "title": "",
+      "comment_content": "這門課是ELEC1200的延伸。20%的信號與LTI系統，60%的傅裡葉分析，20%的拉普拉斯分析。這些內容個人感覺都很有趣，它們的應用真的很神奇，傅裡葉變換就應該從信號與系統這邊學起嘛~<br />要用到的數學基礎課上都講得很清楚，零基礎稍微看一看就能懂了，所以我覺得沒必要去等上完前置數學課再來。畢竟這個honor課只有fall有。錯過了就得等到大三了。",
+      "comment_teaching": "課堂的話，教授經常拋出一些很簡單的數學問題，然後沒人回答，然後冷場orz。所以如果可以的話，就給教授挽挽尊唄，一般不會答錯，錯了也沒什麼，教授很萌的，覺得講的慢的這樣可以推進課堂的進度，覺得有點跟不上的舉手提問就好，小班嘛，教授會盡量照顧到每個人的。而且因為小班，感覺聽課質量與效率異常的高，我坐在第二排，老師一覽無余，所以一般也不會玩手機啥的，聽課就十分的專心。",
+      "comment_grading": "給龜是絕對龜，可以說是相當寬松的了：GuaranteedA+, A, A- for scores above 92%, 85%, 78% Guaranteed B+, B, B- for scores above71%, 65%, 60% Minimum score for passing is 40%。總評80以上就有A range，總評60以上就有Brange，試問科大還有誰orz",
+      "comment_workload": "這門課有四個lab和四個pre-lab，pre-lab不用去實驗室，沒有要交的東西，但建議要把它們做一遍。基本上是接著1200講MATLAB對信號的處理，Lab可以直接用pre-lab的代碼（稍經修改），pre-lab看過一遍就都不難。每個lab占2%，共8%。然後有四次homework，大概每次有一周的時間完成，workload較大，注意早點開始做。各2%，共8%。有一次quiz，在midterm的時期（十月中旬），占8%，一個小時，題量較大，要把握好時間。Midterm在十一月初，占30%，final占46%。",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "4i1xyEb7aRLdajtfGAXq4rO4y3Dx0KRM",
+      "semester": "2015-16 Winter",
+      "instructors": [],
+      "author": "scambret",
+      "date": "Aug 12, 2016",
+      "title": "",
+      "comment_content": "Il corso è particolarmente complesso, fatelo solo se siete davvero interessati al corso e se siete davvero bravasfnjkandkfm",
+      "comment_teaching": "Il professorolto chiaro scjkoale spiegazidfai e sgliare la claaefsse. Lesercitatodre è molto simpatico eadf riesce a meadfttere entuwdgsiasmo.",
+      "comment_grading": "Bisogna studiare tanto e duro per prendere un ottimo voto. Per pasare comincia a essere facile, ma andiamo non siamo qui per passare e basta gli esami. Anxi dobbiamo migkiore la media con e samj del generen.",
+      "comment_workload": "Non partioclsj em complesso prendere un buono voto, ma solo se limoegno e adegiatonaskfn ksndfjnkafd",
+      "rating_content": 2,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 20,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

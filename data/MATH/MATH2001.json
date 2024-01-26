@@ -1,0 +1,442 @@
+{
+  "course": {
+    "id": 3812,
+    "subject": "MATH",
+    "code": "2001",
+    "name": "Foundation of Mathematics",
+    "description": "This course covers a number of foundational concepts and rigorous reasoning in mathematics which are essential for intermediate- and upper levels mathematics courses especially in the field of pure mathematics. The main purpose of the course is to enhance students’ conceptual and logical understanding of mathematics, and strengthen students’ ability on writing mathematical proofs. Topics include mathematical induction, set notations and logic, complex numbers, inequalities, construction of real numbers, elementary number theory, etc.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2310,
+      2210
+    ],
+    "prerequisites": "Level 5 or above in HKDSE Mathematics Extended Module M2 OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1012\" href=\"/review/MATH1012\" target=\"_blank\">MATH 1012</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1013\" href=\"/review/MATH1013\" target=\"_blank\">MATH 1013</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1023\" href=\"/review/MATH1023\" target=\"_blank\">MATH 1023</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3.73,
+    "rating_teaching": 2.18,
+    "rating_grading": 2.64,
+    "rating_workload": 3,
+    "review_count": 11,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 534,
+        "name": "YAN, Min",
+        "count": 11
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "pcZrocf8VUJBVPZ03u4fTvrXLfKzTMDq",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        }
+      ],
+      "author": "WDQM",
+      "date": "Jan 08, 2024",
+      "title": "Typical YANMIN course",
+      "comment_content": "The content for this course is basically about some rigorous and fundamental concepts and definitions for math. Sometimes, I think it is too rigorous, even useless. But you must take it if you are on the track of pure math.<br />I think only the equivalence relation and counting are tricky and need some time to think about and digest, others are really easy.<br />Make sure you understand some of the cardinality arithmetic to solve the proof.",
+      "comment_teaching": "The teaching was median, for YANMIN at least. He is a nice person but sometimes cannot balance the key points well. Sometimes, he takes two weeks to introduce a trivial concept while sometimes skipping some useful ones. But his explanation is quite good and understandable.<br />However, I did not take many lectures since I think his lecture notes are very good in concept explanation and examples. So it is fine not to go to the lecture.<br />He does not have recording, very YM style.",
+      "comment_grading": "The grading is quite fair, I guess. It&#039;s only too hard to get an A+.<br />I get 85 in MT and 97 in the final, nearly full marks in HW, and get an A.<br />The grade book is as follows.",
+      "comment_workload": "WORKLOAD deserves 3 credits<br />Like a typical YANMIN course, he always lets you do the exercise in the lecture notes nearly every week, which is quite trivial but costs a lot of time. His lecture notes make lots of mistakes, so be suspected for the question.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "lCdRhEHhQxiZx1BN19S0815jUAeQ41yw",
+          "name": "grades(1)",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "z03Wf5UU9ubvUWkJFzZgkABW2CZMAF7N",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        }
+      ],
+      "author": "Whatsmyname",
+      "date": "Jan 07, 2024",
+      "title": "Yan&#039;s class does not have the recording!",
+      "comment_content": "For the content, I think it is good for laying my mathematical foundation because the content of the course gives us the rigorous defintion of numbers, the content and relations of Sets and Maps, the rigorous of the prime numbers and the study of division.",
+      "comment_teaching": "Sorry Prof. Yan, although your lecture notes is actally good and the midterm and final examinations is acually good, I should give the teaching a D. The reason is that Yan&#039;s voice is small and blurry and the most important, you don&#039;t give the recording! I only can watch the video in Youtube and Bilibili!",
+      "comment_grading": "The grading is not elastic at all. I should give it C",
+      "comment_workload": "Actally, The total workload is the 1hr homework load * 8 homework + 3hr midterm exam + 3hr final exam + preparation time + teching time=14hr + preparation time + teaching time per term. It is not a big number.",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "UnV9T4pQXITbapapNnv3WyTbovkgmVCE",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 0
+        }
+      ],
+      "author": "simon fung",
+      "date": "Jan 02, 2024",
+      "title": "",
+      "comment_content": "1 Logic<br />1.1 Statement<br />1.2 Implication<br />1.3 Quantifier<br />1.4 Proof<br />1.5 Induction<br />2 Set and Map<br />2.1 Set and Element<br />2.2 Set Operation<br />2.3 Map<br />2.4 Onto, One-to-one, and Invertibility<br />2.5 Equivalence Relation<br />------------------------------Mid term------------------------------<br />3 Number<br />3.1 Natural Number<br />3.2 Integer<br />3.3 Order<br />3.4 Multiplication<br />3.5 Rational Number<br />3.6 Real Number (Not examined)<br />3.7 Exponential (Skipped)<br />3.8 Complex Number<br />4 Integer and Polynomial<br />4.1 Quotient and Remainder<br />4.2 Decimal Expansion<br />4.3 Greatest Common Divisor<br />4.4 Prime and Factorization<br />4.5 Congruence<br />5 Counting<br />5.1 Finite Counting<br />5.2 Cardinality<br />5.3 Countability",
+      "comment_teaching": "Lecture: <br /><br />Monday 16:30 - 17:50, Friday 12:00 - 13:20, Lecture Theatre E<br /><br />Tutorial:<br /><br />SUN Haofang (hsunav@connect.ust.hk)<br /><br />T1A Friday 18:00 -18:50, rm2406<br /><br />T1B Tuesday 12:00 - 12:50, rm1027 (LSK Building)<br /><br />SHI Zhongyi (zshiah@connect.ust.hk)<br /><br />T1C Monday 10:00 - 10:50, rm2303<br /><br />T1D Monday 18:00 -18:50, rm2304<br /><br />Yan Min&#039;s teaching is quite bad he just reads the notes out during lectures and TAs just do the same thing without explaining anything at all.",
+      "comment_grading": "Extremely bad grading you will 100% get C+ don&#039;t take this course if you want at least B- or above. Only take it if you want to know how is pure math like.",
+      "comment_workload": "Homework<br /><br />No hard copies of the homework will be distributed. Please check canvas for the latest assignments. Usually you have one week to do the homework. The answer will provided after the homework is collected. Absolutely no late homework will be accepted.<br /><br />Exam and Grade<br /><br />Homework 20%, midterm 30%, final 50%.<br /><br />Homework take me at least 4 hours to do,not different from wasting my time for bad grade.",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "VN03UA1K2qHo4oQXuKHwGtrCH06pCDV9",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 0
+        }
+      ],
+      "author": "Candy626",
+      "date": "Jan 05, 2023",
+      "title": "",
+      "comment_content": "1 Logic<br />1.1 Statement<br />1.2 Implication<br />1.3 Quantifier<br />1.4 Proof<br />1.5 Induction<br />2 Set and Map<br />2.1 Set and Element<br />2.2 Set Operation<br />2.3 Map<br />2.4 Onto, One-to-one, and Invertibility<br />2.5 Equivalence Relation<br />------------------------------Mid term------------------------------<br />3 Number<br />3.1 Natural Number<br />3.2 Integer<br />3.3 Order<br />3.4 Multiplication<br />3.5 Rational Number<br />3.6 Real Number (Not examined)<br />3.7 Exponential (Skipped)<br />3.8 Complex Number<br />4 Integer and Polynomial<br />4.1 Quotient and Remainder<br />4.2 Decimal Expansion<br />4.3 Greatest Common Divisor<br />4.4 Prime and Factorization<br />4.5 Congruence<br />5 Counting<br />5.1 Finite Counting<br />5.2 Cardinality<br />5.3 Countability<br />--------------------------------Final--------------------------------<br />Basically the contents of Professor Yan&#039;s MATH110 20 years ago.<br /><br />The level of difficulty varies greatly among topics.<br />For example, 4.1 Quotient and Remainder is quite easy, but 3.6 Real Number is quite hard to understand.<br /><br />This course is a required course for pure math majors, but according to Professor Fong, Tsz Ho, all the stuff taught in this course can be learnt more in-depth in other required courses, so I am not sure why he still decided to revive this course.<br /><br />The knowledge taught in this course is slightly useful to those who are taking MATH1023 or MATH1024.<br />I think the greatest use of this course is to help you determine whether you would like to major in MATH, as it gives you a taste of the more abstract side of math.",
+      "comment_teaching": "The course instructor is Professor Yan.<br />The TAs are Kailong Gao and Zhongyi Shi.<br /><br />There are 2 80 minutes lectures and 1 50 minutes tutorial per week.<br />Attendence is not taken for both lectures and tutorials.<br />Professor Yan also opened a WeChat group for us, but I did not join group.<br />Note that I attended most lectures and all tutorials.<br /><br />Professor Yan is not too good of a teacher.<br />His voice is loud and tone is ok.<br />His English is good but with slight accent.<br />He writes on the whiteboard with a marker, and font is ok.<br />He is prepared before the lesson, and gives some extra examples in addition to those in lecture notes.<br />His teaching speed is ok.<br />However, even though he tried to explain stuff clearly, he failed to do so. He often overcomplicate stuff, and I had a hard time understanding the contents. It is better to learn by yourself or wait for the TA to explain it again in the tutorials.<br />Also note that he spend most of the lecture time after the mid term on 3.6 Real Number, but decided to not examine the topic as he think it was too difficult.<br />He often make mistakes and have a lot of typos in his lecture notes (even the final exam answers are wrong!).<br />Also, he always receive phone calls (about 2 or 3 per lecture) and pauses the lecture to pick up the phone.<br />The good thing about Professor Yan is that he gives us short thinking breaks regularly, so that I actually have time to understand what he is talking about.<br />Bonus: Professor Yan invited us to hike after the mid term.<br /><br />My TA was Kailong Gao, so i cannot comment about Zhongyi Shi.<br /><br />Kailong Gao is a below mean TA.<br />His voice is loud but tone is lazy.<br />His English is meh and accent is quite heavy but still audible.<br />He writes on the whiteboard with a marker, and font is ok.<br />He explains much more clearly than Professor Yan, but unfortunately, I don&#039;t think he prepares before tutorials, as his tutorials are basically same as the lectures, and he need to look at the lecture notes before starting every new sentence. He is also quite unorganized, as he taught chapter 4 and 5 in just one tutorial at an extreme pace.<br />His teaching speed is mostly good though.<br />I also thinks that he does not communicate with Professor Yan, as Professor Yan announced that 3.7 Exponential is skipped, but Kailong Gao teaches it anyways.<br />He did welcome questions after tutorials and was quite helpful i terms of answering questions.<br /><br />In my opinion, treat the lectures as a preview, and treat the tutorials as the real lectures. Also, please learn by yourself.",
+      "comment_grading": "Grading is kind of bad.<br /><br />Grading scheme:<br />Homework 20%<br />Mid term 30%<br />Final 50%.<br /><br />For this year, I guess the mid term was of normal difficulty, but the final was a bit too easy (comparing to MATH110 or MATH2721 finals in the past), and the cut-offs are very very high. If you mess up any of them, your grade is doomed.<br /><br />Not recommended to take this course unless it is a major requirement, as it allows people who suck at proving (eg. me) to get good grade, while future IRE Math majors get B due to careless mistakes.<br /><br />Grade book attached below.",
+      "comment_workload": "Average workload for a 3-credit course, but this is a 2-credit course.<br /><br />Homework is given out about weekly after the add-drop period has ended, and deadline is set at about 1 week after release.<br />In total, there are 9 homework.<br />Homework only consists of exercise selected from Professor Yan&#039;s lecture notes.<br />Homework length varies from homework to homework, some can be lengthy while some are quite short. The same goes for homework difficulty.<br />In general, each homework takes about 2 to 8 hours.<br /><br />As explanation by Professor Yan or TA are both not too clear, and some content is actually quite challenging, quite some time is needed to understand the concepts. It took me 1 or 2 days to study for the mid term and 2 to 3 days to study for the final.<br /><br />Both the mid term and final are open-book (technically open internet too as Professor Yan allowed us to use laptops and tablets, but did not check if we are using the Internet), and the difficulty of the final is lower than expected, so you could say that you &quot;do not need to study&quot;.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 2,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "MowjVmFerWaLtwb47X55mKz6GznytRwG",
+          "name": "Grade - Copy",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "FPCAonmgxdEorotXuqdtBZBw5WvzW6hJ",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 0
+        }
+      ],
+      "author": "aXRei",
+      "date": "Dec 16, 2022",
+      "title": "Content essential for maths major, but delivered in a poor way",
+      "comment_content": "Once upon a time there were MATH110 and then MATH2721, but they went dead for a long time. FF (Prof. Fong, UG coordinator) said in his blog that he brought back this course (with a new course code) to prepare students for studying maths in the future.<br /><br />Comment from others: very similar to COMP2711<br /><br />TLDR: <br />Introduction to different aspects of pure mathematics<br />Tests only include easy parts of the lecture content, also questions are ambiguous that Yan Min had to explain them several times.<br /> <br />Giving 3 hours to finish 5 straight-forward problems (which should only take around 1 hour) open-book cannot well distinguish students&#039; ability.<br />&nbsp;&nbsp;<br />The course consists of 5 chapters.<br /><br />~Before Mid-term~<br /><br />1. Logic<br /><br />Statement: sadly the truth table is not introduced (indeed very useful), just be careful with logic (e.g. not (A and B) = not A or not B)<br /><br />Implication: if A then B, A =&gt; B etc. Note that this does not imply B =&gt; A. Note that this do not imply causality between A and B (despite the arrow) <br /><br />Quantifier: For all, There exists. Note that they cannot be interchanged (for all a there exists b is different to there exists b for all a)<br /><br />Proof: Proof by contradiction, basic proof such as sqrt(2) is irrational<br /><br />Induction: strong (assume true for all n&#039; &lt; n), weak (assume true for n-1), double (two variables). Note you always need to prove the base case (usually n = 1).<br /><br />No offence but if you start getting lost in this part you should drop this course and think again whether you are capable of studying maths. I don&#039;t mean that this chapter is trivial, but it is the easiest among mathematics<br /><br />2. Set and Map<br /><br />Set: Definition, Operations (union, intersection, complement, disjoint union, cartesian product) Note the operations are consistent with logics<br /><br />Map: Properties of Map, Domain, Range, Image, Pre-image. Note that you can map a set to another, instead of just element to element; Surjectivity, Injectivity, Bijectivity, (Left / Right) Inverse. Note how to use these properties (e.g. prove that f(x) is injective: f(x) = f(y) =&gt; x = y). Yan Min&#039;s proof on Bijective &lt;=&gt; Invertible is not so accurate, better to read off maths stack exchange<br /><br />Equivalence Relation: Properties, Equivalence Class, Partition, Quotient Map. TBH this part is quite confusing at first. Note that Equivalence Relation is just generalisation of equality. Two elements are equivalent if they share the same property.<br /><br />~After Mid-term~<br /><br />3. Number System<br /><br />Natural Number: Starting from Peano&#039;s Axioms, addition and order can be defined. Their trivial properties are proven from definition and induction<br /><br />Integers: Defined based on equivalence class of natural numbers.<br />Rational Numbers: Defined based on equivalence class of integers<br />Addition and Multiplication for integers and rational numbers are defined. (indeed well-defined i.e. same result with different expression of equivalence class). Later their properties are proven.<br /><br />Real numbers: Transition from Algebra to Analysis. In this course, real number is constructed from Dedekind cut (infernum of a lower-bounded set of rational numbers). Yan Min said this part is too hard and did not include it in the exam. With real numbers power can be defined (power is not taught)<br /><br />Complex numbers: we want to know what is sqrt(-1), we did it, at what cost? Well, the numbers can no longer be ordered. Very basic knowledge of complex numbers, such as definition, arithmetic, exponential, conjugate, argument, modulus<br /><br />You should try to forget basic arithmetic you have been using since primary school. As long as it is not proven, you cannot use it. Luckily for this chapter, there is only 1 problem in final, which is related to solving linear system of equations with complex coefficients. Only DSE M0 knowledge required<br /><br />5. Counting<br />Finite counting: Definition of counting, Inclusion-Exclusion Principle<br />Cardinality: comparing size of infinite sets, Cantor-Schroder-Bernstein Theorem for showing same cardinality (finding injections for both directions)<br />Countability: Define countability (finite or size of natural numbers), explain why real number is uncountable<br /><br />The only proof-type question in final is related to counting, but it only uses simple proving by contradiction technique.<br /><br />4. Number Theory<br />Quotient and Remainder<br />Decimal Expansion<br />Greatest Common Factor<br />Prime and Factorization<br />Congruence<br /><br />Understanding techniques in finding solutions is enough. Euclidean Algorithm is very common in past papers so try to learn how to reconstruct things backward<br /><br />As this is an introductory course to mathematics, I understand that the content is not in-depth",
+      "comment_teaching": "Yan Min&#039;s teaching is controversial, some may think that he teaches well and explains the concepts clearly, but I don&#039;t think so.<br /><br />This is not a bias for a 9am course, but it is quite difficult to follow Yan Min&#039;s teaching. Although he usually gives out breaks to give us time to understand what he say, no one understands.<br />Reading the lecture notes (sadly very confusing and full of typos, quite surprised that the notes had 20 years of history) or even Terrence Tao&#039;s Analysis 1 is more efficient. <br /><br />Also, Yan Min tends to procrastinate and mark our midterms after we finish the final. Nevertheless, he is quite efficient and finishes marking nearly 200 test papers in a few days.<br /><br />Edit: some of the proofs are confusing to read, ProofWiki and StackExchange will be your good friends.",
+      "comment_grading": "TLDR: very high cut-off due to easy Mid-Term and Final; mediocre grading<br />A range 22%<br /><br />Edit: It may seems not bad that getting mean in a maths course gets you B. However, the mid-terms and finals are ironically easy computations, which mean one suffer a lot from even the smallest mistakes. <br /><br />Grading scheme:<br /><br />HW 20%<br />Mean 88.3%<br /><br />Mid-Term 30%<br />Mean 66.4 SD 22.6 (out of 100)<br /><br />Final 50%<br />Mean 72.1 SD 21.2 (out of 100)<br /><br />Overall<br />Mean 72.5% SD 18.9%<br /><br />Cut-off<br />97.4 A+<br />93 A<br />87 A-<br />84 B+<br />70 B<br />65 B-<br />62 C+<br />55 C<br />46 C-<br />43 D",
+      "comment_workload": "TLDR: average workload<br /><br />9 Homework sets, all come from lecture notes. Some of the problems are challenging, but most are just playing with definitions for once or twice.<br /><br />For each homework sets, 3 problems are graded (10 marks each), others are not graded. If you finish them, you get 3 marks per question.<br /><br />You should refer to math stack exchange to check your answer before submission. Moreover, you can gain insight from the website if you don&#039;t know how to finish the problem.<br /><br />Around 2 hours per week for assignment and revision. Since the tests are open-book, you only need to familiarise with the logic of important proofs",
+      "rating_content": 3,
+      "rating_teaching": 2,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "X7NOwEDa4Hzdp6VvCeXzWydFBKbEd9oZ",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        }
+      ],
+      "author": "STsAiR",
+      "date": "Dec 09, 2022",
+      "title": "Heavier workload than 3-credit course",
+      "comment_content": "Logic: statement, quantifier, proof, induction<br /><br />Set and Map: set, union, intersection, difference, map, image, preimage, onto, one-to-one, inverse, equivalence relation<br /><br />Number: natural number, integer, rational number, real number, exponential, complex number<br /><br />Integer and Polynomial: division, decimal expansion, prime, factorisation, greatest common divisor, congruence, divisibility criterion<br /><br />Counting: finite, infinite, cardinal, ordinal, countability",
+      "comment_teaching": "Yan Min is a chill prof with good English accent. He knows cantonese and Mandarin. Most of the lecture are chill since he will give us break every 15mins. I guess he doesn’t know the aim of this course so he keep “MODIFYING” the lecture notes and there are 9 version in total. The UG coordinator said that the sim of this course is to learn how to write proof in IG story while there are many proof in hw but just one in the exam.",
+      "comment_grading": "Dunno yet since the exam is just finished. But we still haven’t receive our midterm score💣. Prof said he will mark the midterm himself cause he doesn’t trust the TA marking, however, he still haven’t mark the paper and go hiking instead….",
+      "comment_workload": "Pretty heavy for non math major student. Since there are 9 homework in total, mostly around 10 questions in each hw. Some proof is not easy and I don’t know what i am doing when it comes to functions. But the best part of this course is when you take 2001 and COMP2711 at the same time, over 60% of content are overlap, you can study two courses at once when you are doing revision. The UG coordinator said he hopes math student who took this course will know how to write proof. However, there are only 1 proof in the exam within 5 questions in total. Besides, four out of five questions can be placed inside COMP2711 since they are literally the same, the remained one is just solving simultaneous equation with complex number(which you can finish with high school skills).",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "7VyU6ytmnH6ym3LVdrWyatEy19QNqiPG",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 0
+        }
+      ],
+      "author": "Codemetry",
+      "date": "Nov 24, 2022",
+      "title": "A math foundation course but you compete with geniuses",
+      "comment_content": "Syllabus (Easy:🔷, hard:🔶)<br /><br />🔷 Chapter 1: Logic<br />🔷 1.1 Statement<br />🔷 1.2 Implication<br />🔷 1.3 Quantifier<br />🔷 1.4 Proof<br />🔷 1.5 Induction<br /><br />🔷 Chapter 2: Set and Map<br />🔷 2.1 Set and Element<br />🔷 2.2 Set Operation<br />🔷 2.3 Map<br />🔷 2.4 Onto, One-to-one, and Invertibility<br />🔶 2.5 Equivalence Relation<br /><br />🟥 Midterm exam 🟥<br /><br />🔶 Chapter 3: Number<br />🔷 3.1 Natural Number<br />🔶 3.2 Integer<br />🔷 3.3 Order<br />🔷 3.4 Multiplication<br />🔶 3.5 Rational Number<br />🔶 3.6 Real Number (Very hard) (Luckily Yan Min excludes this topic from the final exam)<br />🔶 3.7 Exponential (Yan Min skipped it but the T.A. didn&#039;t)<br />🔷 3.8 Complex Number<br /><br />🔷 Chapter 4: Integer and Polynomial<br />🔷 4.1 Quotient and Remainder<br />🔷 4.2 Decimal Expansion<br />🔷 4.3 Greatest Common Divisor<br />🔷 4.4 Prime and Factorization<br />🔶 4.5 Congruence<br /><br />🔶 Chapter 5: Counting<br />🔷 5.1 Finite Counting<br />🔶 5.2 Cardinality (Very hard)<br />🔶 5.3 Countability<br /><br />🟥 Final exam 🟥<br /><br />Here are some remarks for two hard chapters. The chapter &quot;Real Number&quot; is about the definition of ℝ and the proofs of its properties, which are extremely complicated, and are based on the topic &quot;Equivalence Relation&quot;, which is hard as well. Also, the chapter &quot;Cardinality&quot; is very difficult as you need a lot of experience to properly construct a bijective map between two given sets.<br /><br />An alternative name to this course is Foundation of Hiking. Out of the blue, prof. Yan Min held a hiking event for students from this course and his MATH 2131 (Honors Linear and Abstract Algebra).",
+      "comment_teaching": "His English accent is easy to follow. He also knows Cantonese and Mandarin, in case you can&#039;t explain your questions in English. (Especially helpful for THAT student, if you know what I mean)<br /><br />He sometimes uses weird notations to explain the content, which can be difficult to follow if you missed his explanations for them. For example, he likes to use 1-1c to represent 1-1 correspondence and a circle to represent the equivalent class of (a,b) with equal a²+b², which can be confusing. Otherwise, he explains every step detailed.<br /><br />Besides, his teaching is messy. He sometimes suddenly skips from one theorem/topic to another. He also writes messily on the whiteboard, sometimes jumping from one corner of the whiteboard to another.<br /><br />Lecture notes are updated nearly every week. This can be quite inconvenient for people without iPad or computer. But it&#039;s ok for me as I was using an iPad.<br /><br />There is inconsistent teaching and notation between Yan Min and TA. For example, Yan Min says that the definition of the exponential operator is an optional topic, but TA still teaches it anyways.",
+      "comment_grading": "Homework 20%<br />Midterm 30%<br />Final 50%<br /><br />There is no exclusion to this course, hence anyone, including year 4 MATH IRE pure math students. Essentially, you are competing with math major seniors.<br /><br />The mid-term and final exams were approximately 3 hours with 5 questions. However, the time limit was not strict, Yan Min allowed you to continue writing even after 3 hours had passed.<br /><br />Due to the vagueness of words in his questions (What did it mean by &quot;smallest&quot; equivalent class?), Yan Min explained all of them before the start, but many people still asked for clarifications in the middle of the exams.<br /><br />Also, you could use your iPad during exams to refer to Yan Min&#039;s notes and your own notes. Technically you weren&#039;t allowed to use the internet, but no one checked, as Yan Min was the only invigilator. Therefore, someone might be using Math StackExchange secretly. Therefore, there is no guarantee that the exams were fair.",
+      "comment_workload": "The workload is reasonable. There is one assignment per week with around 10 questions, which roughly takes me 5 hours to finish. Besides, 3 questions will be marked in each homework, and you automatically gain marks for other questions as long as you finished. Finally, you can submit homework late as long as before the release of the solution.",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 1,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ZkPVdPxPJrPEVmdSsSwN1vJVz1LFKsnI",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        }
+      ],
+      "author": "4N",
+      "date": "Nov 24, 2022",
+      "title": "Really Fundamental",
+      "comment_content": "1. Logic <br />2. Set and Map<br />3. Number<br />4. Integer and Polynomial <br />5. Counting <br />You will get a sense how rigorous mathematicians are. I find construction of Numbers and Counting the most two interesting topics",
+      "comment_teaching": "The instructor try to explain everything clearly.<br />The teaching pace is slow.<br /> However, there are some typo or flaw in lecture notes, so he has to update it almost after every lecture.",
+      "comment_grading": "HW 20%<br />Midterm 30%<br />Final 50%",
+      "comment_workload": "There are many exercises almost every week . They are not difficult, just be careful to write every step with reason, and be rigorous. TA only grades three of them in each assignment.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "PSw8iionZhZwGC6gX7EElz69gzdHQI8T",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        }
+      ],
+      "author": "SmokingPuddle58",
+      "date": "Nov 16, 2022",
+      "title": "Be careful about the scam! (Yan Min, 2022)",
+      "comment_content": "Strongly suggested for MATH major students, which helps you a lot in analysis and rigorous thinking in mathematics.<br /><br />- Logic<br />- Set and map<br />- Number, integer, polynomial<br />- Counting<br />======<br />OK lemme made some edit here<br />Strongly suggest to AUDIT this course.",
+      "comment_teaching": "Yan Min, the professor in math department that has a good English accent and quite surprisingly, be able to use Cantonese (Although with some accent), and would like to give break every 15 minutes.<br /><br />In fact, I quite like his personality. Like in midterm, if you have conflict in exam time (7-10pm) due to lab? <br />Average professor: Let&#039;s change the time.<br />Yan Min: I allow you to come late and take the exam till 11pm. <br /><br />Bruh noice! 😂<br /><br />Regarding his notes, he has made many different versions for his notes, and each assignment will refer to a different version of notes. It brings a huge confusion for us, maybe it&#039;s acceptable coz it&#039;s a new course.<br /><br />Finally, your paper setting skill need to be greatly improved to prevent confusion by other student.<br /><br />Also, can we have the midterm paper now bruh. Before you bring your kids to hiking it&#039;s better for you to check whether you have finished your task or not. Thank you.",
+      "comment_grading": "Simple grading theme<br />20% Assignment<br />30% Midterm<br />50% Final<br />This scheme also applies to his MATH2131 class.",
+      "comment_workload": "It&#039;s a 2 credit course, although I cannot find the difference with a 3-cred course. Maybe because we didn&#039;t learn much things from this course? But there&#039;s assignment every week (Although workload is OK), still, I believe it&#039;s a 3-cred course over a 2 credit course.",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "lPiHFtGTomwH121y5o1uGUuioc8b5tM7",
+          "name": "2022-11-16_20-46",
+          "format": "png"
+        }
+      ]
+    },
+    {
+      "hash": "JVo2kLq7LS7NbsM4GDkrYM4N2ZHya36V",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 0
+        }
+      ],
+      "author": "maths 4ever",
+      "date": "Nov 16, 2022",
+      "title": "Good content but bad instructor",
+      "comment_content": "It is requirement for pure maths/pure maths advanced track<br />CONTENT:<br />CH1 :Logic: statement, quantifier, proof, induction<br /><br />CH2 :Set and Map: set, union, intersection, difference, map, image, preimage, onto, one-to-one, inverse, equivalence relation<br /><br />------------------------------midterm---------------------------------<br />CH3: Number: natural number, integer, rational number, real number, exponential, complex number<br /><br />CH4: Integer and Polynomial: division, decimal expansion, prime, factorisation, greatest common divisor, congruence, divisibility criterion<br /><br />CH5: Counting: finite, infinite, cardinal, ordinal, countability<br /><br />COMMENT:<br />Actually they are basics of almost all upper level maths course (even MATH1023 requires some of these knowledge) So it is essential for almost all maths major I think.",
+      "comment_teaching": "EXTREMELY BORING . HIS TONE JUST MAKE ME WANNA SLEEP, ALSO ALWAYS &quot;GIVE US BREAK&quot; AND THEN LISTEN TO HIS PHONE CALL (so I only attended a few of his lecture then skipped all remains)<br />ALSO HE NEED CLARIFY ONE QUESTION IN MID TERM&nbsp;&nbsp;FOR SERVAL TIMES . PLZ MAKE THE INSTRUCTION MORE CLEAR",
+      "comment_grading": "20%HW (details in workload)<br />30%MT<br />50% FINAL<br /><br />STAT:<br />MT:<br />mean=66.36<br />sd=22.64<br /><br />FINAL<br />mean=72.11<br />sd=21.18<br /><br />OVERALL<br />mean=72.48<br />sd=18.94<br /><br />Mean at B<br />Cut off of A- is 87.01% and u need 97.42% for an A+(one people got 97.28% and became A , sorry about him/her)<br />Top 23% will be in A range and 3 ppl got an F<br />And also range of B+ only 3 marks , that mean getting 83 mark and 87 mark will cause a difference in 2 grades wtf (unluckily thats me :[ )",
+      "comment_workload": "(Almost) One assignment per week , with 3 graded questions chosen randomly (each maximum 10 marks) , other question will be given 3 marks upon completion , so I think it is somehow normal and acceptable for a maths course<br /><br />One open notes mid term , we can bring his notes and self written notes to exam . 5 questions in mid term , basically need a little study then everything will be fine<br /><br />One final exam and details are similar to mid term",
+      "rating_content": 5,
+      "rating_teaching": 1,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "nrR7zCg73n5ek20jQhx9jeUcPt3NfFx7",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 0
+        }
+      ],
+      "author": "Drater",
+      "date": "Nov 15, 2022",
+      "title": "Mistakes were made",
+      "comment_content": "Description:<br /><br />This course covers a number of foundational concepts and rigorous reasoning in mathematics which are essential for intermediate- and upper levels mathematics courses especially in the field of pure mathematics. The main purpose of the course is to enhance students’ conceptual and logical understanding of mathematics, and strengthen students’ ability on writing mathematical proofs. Topics include mathematical induction, set notations and logic, complex numbers, inequalities, construction of real numbers, elementary number theory, etc.<br /><br />Topics:<br /><br />Logic: statement, quantifier, proof, induction<br /><br />Set and Map: set, union, intersection, difference, map, image, preimage, onto, one-to-one, inverse, equivalence relation<br /><br />Number: natural number, integer, rational number, real number, exponential, complex number<br /><br />Integer and Polynomial: division, decimal expansion, prime, factorisation, greatest common divisor, congruence, divisibility criterion<br /><br />Counting: finite, infinite, cardinal, ordinal, countability",
+      "comment_teaching": "I only attended a few of YM&#039;s lessons, and boy were they not worth my time. The thing is not only is it a 9am course (which I hate), the reason you attend his lecture is either to find somewhere else to sit and do your own thing, or listen to him &quot;teaching&quot; us by reciting what the lecture notes say without any new examples etc. I gave up shortly afterwards so I don&#039;t know exactly how much the teaching pace have changed.",
+      "comment_grading": "Exam and Grade:<br /><br />Homework 20%<br /><br />Midterm 30%<br /><br />Final 50%<br /><br />The TA&#039;s are pretty lenient on grading our homework, so it&#039;s a free 20% if you can handle simple but braindead homework. The midterm was sort of stupid if you ask me, YM&#039;s english is just beyond our comprehension, even multiple students had to ask the same question.<br /><br />Edit: After grading is out, the finals mark is really bad and the curve became so fucked I got lower than expected",
+      "comment_workload": "Pretty much doesn&#039;t have a consistent homework schedule and deadline placement, probably new homework every time YM taught us anything new. The number of questions varies in each homework but not by a lot, the questions are sometimes confusing but manageable.",
+      "rating_content": 3,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 6,
+      "vote_count": 6,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

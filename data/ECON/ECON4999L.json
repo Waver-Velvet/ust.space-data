@@ -1,0 +1,75 @@
+{
+  "course": {
+    "id": 2177,
+    "subject": "ECON",
+    "code": "4999L",
+    "name": "Foundation Workshop in Economics",
+    "description": "The foundation workshop provides students with basic mathematical tools frequently used in economic analysis. Topics include matrix algebra, single and multivariate calculus, and constrained and unconstrained optimization. The aim of the course is to prepare students for higher level required and elective economics courses. Students must seek approval from the Department for registration.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1830,
+      1730,
+      1630
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1033,
+        "name": "MENG, Xiaoxuan",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "wChajzAagkLrZxzpeNyMu69Yx987uyCY",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 1033,
+          "name": "MENG, Xiaoxuan",
+          "rating": 1
+        }
+      ],
+      "author": "Omgust",
+      "date": "Oct 25, 2017",
+      "title": "",
+      "comment_content": "1.\tVector, inner product and economic interpretation<br />2.\tCommon economic applications of single-variable calculus<br />3.\tComparative-static analysis in multi-variable models<br />4.\tMulti-variable unconstrained optimization problem and economic applications<br />5.\tMulti-variable constrained optimization problem and economic applications<br />6.\tSystem of nested optimization problems and economic applications<br /><br />Prof printed notes and exercise for everyone so you don&#039;t need to print it yourself.",
+      "comment_teaching": "Very nice, prof would explain every concepts in details and she will make sure everyone can follow her. <br /><br />There was tutorial session after the lecture and let students to try practice questions. Both prof and TA would help you if you fell uncertain to the question.<br /><br />A 2 hours class was consisted of 1 hour lecture and 1 hour tutorial.",
+      "comment_grading": "Very nice.<br />Participation 10%<br />4 Problem Sets 40% <br />(Each 10%)<br />2 Quizzes 50%<br />(Each 25%)<br /><br />Since this was a small class, prof was able to recognize all students. Skipping class is not encouraged. The mean of problem sets and quizzes were high, but the grading was not straightly follow the school policy (because this was a small class). the prof tried her best to give as large amount A range and B range as she could.",
+      "comment_workload": "Not really heavy even there were 4 problem sets in total. Given that you pay attention to the class you will be able to answer all the questions. If you feel uncertain, you are welcome to visit the prof and TA, they are willing to solve your problems.<br /><br />Before the quiz, prof would upload exercises and the question type and style are very much like the one appeared in the quiz. Completing all the exercises definitely help you succeed in this course.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

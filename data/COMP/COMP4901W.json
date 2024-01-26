@@ -1,0 +1,214 @@
+{
+  "course": {
+    "id": 3631,
+    "subject": "COMP",
+    "code": "4901W",
+    "name": "Introduction to Blockchain, Cryptocurrencies and Smart Contracts",
+    "description": "This course provides a holistic introduction to the world of Blockchain Protocols and Smart Contracts. You will learn how cryptocurrencies such as Bitcoin and Ethereum work, why they are secure, and how you can use them to develop smart contracts. You will also learn to detect and avoid common security vulnerabilities in smart contracts. This is a very hands-on course with lots of extra-credit homeworks and mini-projects and no final exam. The course covers the following topics: basics of cryptography, the double-spending problem in decentralized currencies, Proof-of-work and its alternatives, programmable blockchains and smart contracts, auctions and escrows, common smart contract vulnerabilities, and tools for verifying the correctness of a smart contract.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230,
+      2130
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012\" href=\"/review/COMP2012\" target=\"_blank\">COMP 2012</a> AND (<a class=\"course-link\" data-subject=\"COMP\" data-code=\"2711\" href=\"/review/COMP2711\" target=\"_blank\">COMP 2711</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2711H\" href=\"/review/COMP2711H\" target=\"_blank\">COMP 2711H</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2343\" href=\"/review/MATH2343\" target=\"_blank\">MATH 2343</a>)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.8,
+    "rating_teaching": 4.6,
+    "rating_grading": 2.6,
+    "rating_workload": 3.6,
+    "review_count": 5,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1493,
+        "name": "KAFSHDAR GOHARSHADY, Amir",
+        "count": 5
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "cbTDZ0DXkM2CrGyteuaZWmEWZYV40T8x",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1493,
+          "name": "KAFSHDAR GOHARSHADY, Amir",
+          "rating": 1
+        }
+      ],
+      "author": "Pollux",
+      "date": "Jun 16, 2022",
+      "title": "CSE department f*** with us again",
+      "comment_content": "Really interesting topic, I can learn about smart contract and actually write some &quot;useful&quot; contracts. The content is slightly related to COMP3632, with some overlapping contents.",
+      "comment_teaching": "The teaching is decent and normal. Nothing special, and nothing bad.<br />The Prof. is knowledgeable in the field, and since it is the first offering I feel like the presentation is slightly unprepared.",
+      "comment_grading": "I got 111% over 125%, A-<br />Cut-off: A+: 120%, A: 115%<br />Wltf?<br />Yeah &quot;Bonus&quot; marks, but you must do it anyway.<br /><br />Update on 27/06/2022: After I (and many others) emailed CSE Department Heads about this, they decided to change the grading scheme back to &quot;normal&quot;<br />I get A+ now<br />If they offer this course again, expect the grading to be significantly different and you may get B with high score as to balance out the total distribution of A.",
+      "comment_workload": "7 homework, each takes a few hours or up to a day.<br />1 project, a few days of work, some google and thinking. <br />You can resubmit once for better grade.<br />Adequate time to finish the assignments/project.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "tpSYRtXUVstVaDVvX86Q4NQkR4FiKixN",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1493,
+          "name": "KAFSHDAR GOHARSHADY, Amir",
+          "rating": 1
+        }
+      ],
+      "author": "Never Social",
+      "date": "Jun 16, 2022",
+      "title": "(revised) NEVER TRUST THE GRADING SCHEME",
+      "comment_content": "Builds up from fundamentals to programmable money. <br /><br />One month after the exam, I hardly recall 10% of the content.<br /><br />Not hard tho.",
+      "comment_teaching": "Very nice professor, stay for a while to answer questions. <br /><br />Replies emails in reasonable amount of time.",
+      "comment_grading": "(Still giving the department a fat E even with the revise)<br /><br />Fuck the department, inflexible motherfuckers incapable of bearing any risk ε&gt;0, all the cost had to be bore by students.<br /><br />Professor designed a relaxed grading scheme but department rejected the letter grade distribution since it may be too good, 102 -&gt; B (it got revised, but its still curved, wheres my promised A+?)<br /><br />lmao, got punished for &quot;relaxing by not doing the bonus in the last assignment&quot;. Fuck you, the whole premise of bonus is that a min would be applied, its the department&#039;s fucking responsibilities to make sure a grading scheme will be accepted no matter the performance of the batch of student.<br /><br />⢸⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⡷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br />⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠢⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br />⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠈⠑⢦⡀⠀⠀⠀⠀⠀<br />⢸⠀⠀⠀⠀⢀⠖⠒⠒⠒⢤⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠙⢦⡀⠀⠀⠀⠀<br />⢸⠀⠀⣀⢤⣼⣀⡠⠤⠤⠼⠤⡄⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠙⢄⠀⠀⠀⠀<br />⢸⠀⠀⠑⡤⠤⡒⠒⠒⡊⠙⡏⠀⢀⠀⡇⠀Son, are you⠢⡄⠀<br />⢸⠀⠀⠀⠇⠀⣀⣀⣀⣀⢀⠧⠟⠁⠀⡇⠀⠀quitting yet⠀⠀⡇⠀<br />⢸⠀⠀⠀⠸⣀⠀⠀⠈⢉⠟⠓⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸<br />⢸⠀⠀⠀⠀⠈⢱⡖⠋⠁⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸<br />⢸⠀⠀⠀⠀⣠⢺⠧⢄⣀⠀⠀⣀⣀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸<br />⢸⠀⠀⠀⣠⠃⢸⠀⠀⠈⠉⡽⠿⠯⡆⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸<br />⢸⠀⠀⣰⠁⠀⢸⠀⠀⠀⠀⠉⠉⠉⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸<br />⢸⠀⠀⠣⠀⠀⢸⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸<br />⢸⠀⠀⠀⠀⠀⢸⠀⢇⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸<br />⢸⠀⠀⠀⠀⠀⡌⠀⠈⡆⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸<br />⢸⠀⠀⠀⠀⢠⠃⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸<br />⢸⠀⠀⠀⠀⢸⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠷",
+      "comment_workload": "7 assignments throughout the semester, 2 hours each;<br /><br />1 solo project, around 10 hours;",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 1,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "LW4eFZjQD8vmVeTwZNaHAJS4eo7Wxv5r",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1493,
+          "name": "KAFSHDAR GOHARSHADY, Amir",
+          "rating": 1
+        }
+      ],
+      "author": "clscompany",
+      "date": "Jun 16, 2022",
+      "title": "(Revised) Disappointing ending -&gt; better ending",
+      "comment_content": "Very comprehensive and well-organised course materials for beginners. The first half of the course is more theoretical. The second half is more practical with Solidity programming.<br />Professor will release the lecture videos on YouTube. Attendance is not compulsory but highly recommended.",
+      "comment_teaching": "One of the best teachings I have seen in this university. Professor is an expert in this domain and explains everything clearly and slowly. He is willing to reply to students’ emails.",
+      "comment_grading": "(2022-06-27更新)<br />CSE Department收到好多學生既email 宜家改返個grading<br />B-&gt;A<br />老實講幾驚訝 按往例呢件事本身只會石沉大海<br />Amir應該都有份遊説department<br />不過如果下個sem再開呢個course<br />Grading就會揸正來做<br /><br />呢單野本來就唔應該發生 不過最後至少department還返咁多位一個公道<br />有啲course仲係咁嘅貓樣<br /><br />希望同類事件以後唔會再發生<br />Amir教書真心數一數二 feel到佢有心 希望你會繼續開course 唔好俾呢單野影響你嘅熱誠<br />================================<br />(原本嘅comment)<br />滿分+幾分bonus食B<br /><br />CSE Department真係每個sem都有新花款<br />今個sem COMP3021嘅翻版<br /><br />究竟我哋班CS學生做錯咗啲咩<br />係咪前世殺咗人地成家定放火燒左人哋條村<br />讀科大本身已經好慘㗎啦<br />點解每個sem仲要有COMP course冇啦啦伏我地班學生<br /><br />呢個course本身有7份assignment(70%) + 1份project(30%) 然後有啲assignment同project會有bonus題目(25%) 啲bonus分用黎補返俾人扣咗嘅分<br />講到明係bonus 即係額外嘢/optional啦<br />所以啲人自然當100分係滿分<br />點知要跟返學校個grading policy <br />普遍啲人都好高分唔可以派太多A range<br />要諗辦法分返開啲人 而家變咗bonus都計埋落個總分度 (100-&gt;125)<br />咩原來個grading criteria可以話改就改?原來咁兒戲㗎?<br />咁樣對我哋好唔公平 大佬啊你如果一開頭講到明bonus有機會唔係optional 我哋班學生都會做埋佢啦 而家我哋個個都以為係optional 最後出嚟個grade根本就唔係反映我地嘅實力 純粹去鬥邊個係先知一早估到會係咁然後做晒所有bonus<br /><br />以我所知3632之前都有類似嘅情況 professor想派多啲A range但係俾department reject咗<br />Amir應該本身都係咁做 睇怕又係俾department reject咗<br />所以我認為個問題唔係出自professor到 反而係嗰department<br />不過講開又講 Amir改grading policy冇任何canvas/email announcement<br />純粹係有學生主動send email問+學生逐個逐個傳&nbsp;&nbsp;搞乜啊<br />其實最失望係呢個位 Amir你俾個解釋 我哋都冇咁嬲啊<br />明明教書教得咁好 做乜會臨尾香㗎<br /><br />根據academic registry嘅article(https://registry.hkust.edu.hk/resource-library/grading-courses):<br />The Guidelines for Use of Undergraduate Course Grade Distribution Bands acknowledge that there are justifiable variations in grade distributions among Schools and between introductory courses (levels 1000 or 2000) and advanced courses (levels 3000 or 4000); and that there is no intention to use a rigid rule to artificially force course grades to a preset distribution, which would go against the spirit of academic freedom and criterion referencing.<br />However, where undergraduate course grades fall outside the above guideline bands, faculty and instructors assigning grades should consider moderating their marking/grades, where appropriate, to assure themselves that the grades are academically justified, and should be ready to explain their grading decisions.<br />又話no intention to use a rigid rule?又話唔想go against criterion referencing?又話grades should be academically justified?你哋而家究竟有邊樣嘢做到啊?<br /><br /><br />最後附上一條伍公子嘅YouTube片 完美代表我讀大部份comp course嘅心路歷程<br />https://www.youtube.com/watch?v=JfoLR-9SvOc<br /><br />盲目拉curve真係害死人<br /><br />延伸閱讀(近年精彩伏comp course):<br />COMP3021(Charles ZHANG新鮮出爐): https://ust.space/review/COMP3021<br />COMP4111(Charles ZHANG): https://ust.space/review/COMP4111/view/dXKwkPmbNkepxu21qaMmIVcfeqwo47d6<br />COMP4211(James KWOK): https://ust.space/review/COMP4211/view/DmavC4mrFtDUoI3dsMUULx5cetigmYpJ<br />COMP4331: https://ust.space/review/COMP4331<br />COMP4221(Dekai WU): https://ust.space/review/COMP4221<br />COMP3031: https://ust.space/review/COMP3031/view/ZBmeLNamrxeKVCYCFQzJLyQXodJfNv1E &amp; https://ust.space/review/COMP3031/view/ZOBS0WK30py4AHHOHtq1ngEf42qeqOVV<br />COMP3311: https://ust.space/review/COMP3311<br />COMP4632: https://ust.space/review/COMP4632<br />COMP4651: https://ust.space/review/COMP4651/view/GVR2rpAgj7GbJd3ZipgJzOoGfceEhAUW<br />COMP3632(重用midterm and final 不過professor睇得出有心教書 仲有希望): https://ust.space/review/COMP3632/view/l21UxfYDVMu34sETfWUG2rfIBfiqm1j3<br /><br />伏course嘅數量來講應該真係Asia number 1",
+      "comment_workload": "Ustspace has a weird definition on workload. A is very light, B is light, C is average.<br /><br />Reasonable workload. Since there is no midterm or final, the assignments and the project are relatively more challenging. The marking is forgiving such that you can resubmit once for each assignment (not project) after receiving feedback. Students are required to finish the project on their own without any discussion with peers. That&#039;s why it requires weeks to complete the project.<br /><br />As announced by the professor, a few students had been caught plagiarism in the assignments. This fact is a huge deterrent to cheating in this course.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 29,
+      "vote_count": 29,
+      "comment_count": 2,
+      "attachments": []
+    },
+    {
+      "hash": "JRNGLsEfhH1biwLtFJZ9Zuaf5dEWLbzx",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1493,
+          "name": "KAFSHDAR GOHARSHADY, Amir",
+          "rating": 1
+        }
+      ],
+      "author": "McBoy",
+      "date": "Jun 15, 2022",
+      "title": "Great course, amazing lecturer",
+      "comment_content": "Syllabus:<br />- Hash Functions and Public key cryptography<br />- Double spending problem<br />- Bitcoin and proof of work<br />- Proof of stake and other alternatives to proof of work<br />- programmable blockchains<br />- introduction to Ethereum<br />- implementing smart contracts in solidity<br />- commitment schemes<br />- auctions and escrows<br />- reentrancy and out-of-gas vulnerabilities<br />- incentivization bugs<br />- verifying the correctness of smart contracts<br /><br /><br />This course is about:<br />- Decentralization and its benefits<br />- Privacy-preserving technologies<br />- Understanding the big ideas in Bitcoin and Ethereum<br />- smart contract programming in Solidity<br />- Vulnerabilities in Smart Contracts<br />- Security Analysis",
+      "comment_teaching": "One of the best lecturers in the CSE department for sure. Answers your questions by email quickly, gives great feedback, and has very fluent English. <br /><br />Homework questions (especially bonus questions) may not be topics taught in the class, but of course, we are CS students, and this is a 4000-level course. We should at least be proficient at googling and not rely on the lecturer spoon-feeding us all the answers for the homework, especially as there are no exams in this course.",
+      "comment_grading": "Doing all the required assignments and the final project perfectly will give you 100 points. However, there are also bonus points (up to 25). I received over 100 points, but the official grades are not out yet. There are rumors that the grading scheme will be changed by the CSE department, but we will have to wait and see.<br /><br />If we use the original grading scheme as agreed at the beginning of the semester, it is a very good grading course.<br /><br />UPDATE:<br />How the f*** is 114 A-???????? I did not do the bonus points knowing for sure I will get over 100 points. Now I get A- WOW.<br /><br />UPDATE 2:<br />They finally changed my grade to A+.",
+      "comment_workload": "No exams, 7 assignments (coding + report), and 1 project. There are a lot of bonus points in the homework and in the final project. If you don&#039;t do the bonus, the workload is quite low. The bonus questions usually are trickier and may not be taught in the class.<br /><br />The workload is for sure way lower than Prof Golin&#039;s COMP3711 or COMP3711H class, even including the bonus questions if you know how to research and use google. Keep in mind that there are no exams in this course, so the number of assignments is completely justified.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 9,
+      "vote_count": 9,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "fAJ2SUWcip16vqS1YHVGF7b9yY2dqoI8",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1493,
+          "name": "KAFSHDAR GOHARSHADY, Amir",
+          "rating": 1
+        }
+      ],
+      "author": "V8_BITURBO",
+      "date": "Jun 12, 2022",
+      "title": "",
+      "comment_content": "1.Hash Functions and Public-key Cryptography<br />2.The Double-spending Problem<br />3.Bitcoin and Proof-of-Work (PoW)<br />4.Proof-of-stake and other alternatives to PoW<br />5.Programmable Blockchains<br />6.Introduction to Ethereum and Solidity<br />7.Implementing Smart Contracts<br />8.Commitment Schemes<br />9.Auctions and Escrows<br />10.Re-entrancy and Out-of-gas Vulnerabilities<br />11.Incentivization Bugs<br />12.Verifying Correctness of Smart Contracts<br /><br />The first half of the course mainly focus on theories of blockchain, like cryptography schemes, hash functions and the basic working principles of blockchain.<br />The second half is to teach you to code your smart contract with solidity. This language is very similar to&nbsp;&nbsp;C++. Writing codes is the easiest part even if you get a B- in COMP2011, understanding the cybersecurity concepts would be much more important.",
+      "comment_teaching": "The prof.&#039;s English was very fluent and had almost no accent. He did not use any textbooks or materials, but directly wrote&nbsp;&nbsp;the corresponding content while lecturing. There was no difference between the lecture session and the lab session. Both of them are simply lectures. The concepts were explained in detail, but they were not enough for completing the assignments.",
+      "comment_grading": "Grading is the most wonderful and dramatic part of this course. It is a This is an EVEN MORE OUTRAGEOUS AND EXAGGERATED DISASTER then COMP3021!!!<br /><br />There is no midterm and final exam. Instead, there are 7 assignments and 1 final project. Each assignment carries 10% of your total grade and the final project worths 30%. For each of the assignment, every student got a chance of resubmit if they did not obtain full mark. Apart from this, you can obtain a 15% bonus for assignments and 10% for the final project. <br /><br />It is hard to tell the actual mean scores for the assignment part as everyone could resubmit. But obviously, it would be very close to 100%. The mean score for the final project is 27.9/30.<br /><br />My scores:<br />Assignments 70/70 + 4 bonus.<br />Final Project 25/30 + 5 bonus.<br />Overall: 100/100<br /><br />I thought I would definitely get a A+ for this course. But guess what, the department changed the grading scheme at the final moment. The full mark for this course is updated into 125, and grades will be distributed by a standard way of &quot;拉curve&quot;. So my marks become 104/125.<br /><br />This is much more ironic than the situation in COMP3021. I don&#039;t know why there&#039;s no one even discuss about it, as there are 125 students in this coures, even more than COMP3021.",
+      "comment_workload": "As I mentioned in the teaching part, the content taught during the lectures are not enough for you to complete the assignments, especially for the first 3 of them. You have to do a lot of research on yourself to discover the answers, from the Internet forums, the bitcoin white book and even some research papers. If you aim full marks on the assignments, then the workload for each of them will be as much as an COMP3711 assignment.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 1,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 8,
+      "vote_count": 10,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

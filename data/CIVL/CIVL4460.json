@@ -1,0 +1,192 @@
+{
+  "course": {
+    "id": 177,
+    "subject": "CIVL",
+    "code": "4460",
+    "name": "Process Design of Environmental Engineering Facilities",
+    "description": "Basic principles in the process design of environmental engineering facilities, such as water and wastewater treatment systems, pump station, as well as sanitary landfill disposal.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"3420\" href=\"/review/CIVL3420\" target=\"_blank\">CIVL 3420</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3.25,
+    "rating_teaching": 3.5,
+    "rating_grading": 4,
+    "rating_workload": 3,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 945,
+        "name": "WU, Di",
+        "count": 3
+      },
+      {
+        "id": 77,
+        "name": "CHEN, Guanghao",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "RP9cHj07ql3N62c8tJOR4LqiUME0jVjj",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 77,
+          "name": "CHEN, Guanghao",
+          "rating": 1
+        }
+      ],
+      "author": "源",
+      "date": "Jan 19, 2023",
+      "title": "A nice course, but need self-learning",
+      "comment_content": "A nice course, I really like this.<br /><br />It is more like a PG class, with lots of new technology involved. The Prof. is professional, but content always be side-tracked. [Sometimes he likes to talk about using CEPT replace primary settling. But this method will somehow affect the BOD content and result in poor biological treatment. ] <br /><br />you can consider this course to be an extended version of CIVL3420, but more complicated. (To be honest, much much complicated). you are expected to learn:<br />1) biological modeling (course content of CIEM 5420)<br />2) Life cycle analysis <br />3) innovative technology - anammox (course content from CIEM 5480)<br />4) water reuse (course content from CIEM 5480)<br /><br />um.... at least I have tried to sit these 2 classes in my year 3 period, so I think this course is acceptable. But some of my friends (who are Msc), they are somehow confused.",
+      "comment_teaching": "Prof. likes to talk about different topic, so better have an idea he wont be able to cover all content. (but your design need those)<br />I have to self-search the calculation of MBBR and MBR to do the project. my groupmate needs to learn how to do anaerobic digester design.<br /><br />Better self-learn. Strongly suggested to read this book:<br />&quot;Biological Wastewater treatment&quot; __ IWA.<br />If you can understand this book, then you will be fine. But if not, go and ask TA/ attend CIEM 5420/5480.",
+      "comment_grading": "I get A range, with so many efforts.<br /><br />2 HW, 1 is literature review, 1 is presentation + group project.<br /><br />For literature review (must be related to environmental issue), 3000 words and 20-40 literature review. a good way to do your FYP.<br /><br />For presentation + group project, choose 1 plant to design which can fit 50 years later( for North District development). Very complicated. you need to calculate:<br /><br />1) preliminary treatment (grit/screen)<br />2) primary treatment (laminar/&nbsp;&nbsp;salsnas filter)<br />3) secondary treatment (MBBR/MBR/AGS/Activated sludge)<br />4) Disinfection <br />5) water reuse (if needed)<br />6) sludge and side stream treatment (anammox + digestor)<br /><br />Please, check the EPD government policy and effluent standard.&nbsp;&nbsp;some area will hope to do water reuse for toilet flushing, but some wont. BTW, be well prepared with your presentation, the prof. will be very harsh when looking at your design. (Some PG student being challenged and the prof. claimed he is disappointed and cannot see any effort in their work.)",
+      "comment_workload": "You are expected to have a high and in-deep level of wastewater treatment knowledge and idea. you are also recommended to find some Msc student to group with. <br />Please also do more research on process design and self-learning. <br /><br />Well, so quite high. but if you are not interested in wastewater treatment, then dont attend. If you have been intern in EPD, DSD or consultant in water group: ask them and learn about wastewater treatment.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "84554FUq5ptuuHjpJqlysYRAimEwgJMb",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 945,
+          "name": "WU, Di",
+          "rating": 1
+        }
+      ],
+      "author": "Ivyac",
+      "date": "Sep 12, 2020",
+      "title": "3 group project+1 individual project",
+      "comment_content": "Mainly about design of wastewater treatment. Attendance/ Inclass exercise accounts for 15%. You have to design modern water facilities, wastewater treatment facilities and sludge treatment facilities. Report is 3000-5000 words critical review to discuss challenges and solutions. And make a 10 min pre.",
+      "comment_teaching": "Friday TA/Tuesday+Thursday mainly taught by Dr. Wu Di",
+      "comment_grading": "Not as high as you imagine in the past.",
+      "comment_workload": "To be honest, teacher said the burden of the project would be heavy. You are supposed to drop it as soon as possible if you are not interested in the class. So he can divide into groups.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "v60WHhJb8B3U3WaaB9pDejbi6SewrTFe",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 945,
+          "name": "WU, Di",
+          "rating": 1
+        }
+      ],
+      "author": "Becks",
+      "date": "May 09, 2020",
+      "title": "",
+      "comment_content": "water and wastewater treatment<br />principles and design concepts<br />4 site visits",
+      "comment_teaching": "not that good, sometimes boring<br />沒有guanghao chen，只有wu di教課，11月份的課也沒能邀請到guang hao chen和prof choi",
+      "comment_grading": "和water and wastewater engineering有點類似，選修過load輕鬆<br />因為停課改網課，最後的pre換成了4頁的project，我寫的一般，B+。",
+      "comment_workload": "normal<br />in-class excercise，三篇site visit report，期末一篇project",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "2AN0BaXGPhDkUDDxVE3TOSpsyBya1sqc",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 945,
+          "name": "WU, Di",
+          "rating": 1
+        }
+      ],
+      "author": "ettk",
+      "date": "Jan 27, 2020",
+      "title": "無乜嘢學嘅ciev elective",
+      "comment_content": "基本上係civl3420嘅advanced少少嘅版本,其中有幾大部份都係3420入面cover過,會有少少計數咁,基本上過到3420嚟讀真係無難度 (同埋其實如果純粹為grade可以完全唔使理teaching content,睇埋下面grading就知點解)<br />呢個course其中一個(可以話係唯一一個)亮點係有幾個site visit,會帶大家去污水廠 食水廠 T Park O Park,都算係唔錯嘅安排,比大家同industry有多啲互動",
+      "comment_teaching": "Woody可以話係一個幾有心教識大家嘅professor,你問得嘅佢一定盡佢所能解明你,甚至有次有人問咗佢一個問題,佢返去check完literature再答我哋<br />但係始終佢母語係普通話,所以有時解釋d concept嘅時候會唔係太清楚,要聽吓估吓咁",
+      "comment_grading": "20% In-class quiz (可以成組咁傾咁你當唔當係quiz...?)<br />40% 三份site visit report揀最高分嘅兩份<br />40% Group Presentation: 21st century challenge of environmental engineering (今個sem因為停課變咗個人report,題目一樣)<br /><br />除咗quiz之外,剩低果80%其實同lecture內容完全無關<br />比分黎講,reports其實注重grammar format多過technical嘢",
+      "comment_workload": "其實都幾重<br /><br />Site visit report (x3): 去完兩個星期後交,5個人寫20版<br />Individual report: 自己一個睇literature,寫4版",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

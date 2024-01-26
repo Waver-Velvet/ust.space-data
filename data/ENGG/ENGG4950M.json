@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 1475,
+    "subject": "ENGG",
+    "code": "4950M",
+    "name": "Engineering Special Project: ABU Robocon 2016",
+    "description": "A special project supervised by one or a group of faculty members. Normally, a project proposal and a final report are required. May be repeated for credits if the projects have different emphases or cover different topics. Enrollment in the project course may require instructor's approval. May be graded PP.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      1530
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 1,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 190,
+        "name": "WOO, Kam Tim",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "hsiOmrMCdF6gdFQ6CuOeaLk24JUrghHQ",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 190,
+          "name": "WOO, Kam Tim",
+          "rating": 1
+        }
+      ],
+      "author": "Pang.",
+      "date": "Apr 13, 2016",
+      "title": "3A1E again :D",
+      "comment_content": "Robocon is an annual international competition where students design robots to achieve tasks assigned by the organizer. This year&#039;s theme involves driving a smaller robot purely by brushless fans, as well as climbing up a pole.<br />A local competition is first held in June, and the champion team will represent HK to compete in Thailand in August.<br />To join, students must first join the robotics team, pass through vigorous training from Oct through Feb before enrolling in the course.<br /><br />The content is divided into 3 parts:<br />Hardware - PCB mainboard / motor driver design, soldering<br />Mech - Robot structure design and building<br />Software - Embedded systems programming (initially STM32F1)<br />Students only have to choose one role depending on interest.",
+      "comment_teaching": "Prof Woo (aka. 老細) acts as supervisor of the management of the team together with other TAs. The actual teaching is done by senior Robotics team members.<br />Despite this, it is not uncommon to feel the urge to look up online resources and solve problems by yourself; not because of the senior members being unhelpful but rather this process of self-learning is actually fun.",
+      "comment_grading": "Very good grade.<br />Not sure at this moment, but judging from past experience, nearly everybody gets at least a B, and A range is virtually guaranteed for the more active members.<br />Grading is very subjective as there is no &quot;standard&quot; to judge who is doing better in team. In particular, ~80% of grade comes from 4 peer evalutations. Therefore it is always a good idea to befriend other teammates (which is easy as everybody else is as &quot;toxic&quot; as you).",
+      "comment_workload": "Depends on how involved you are in the team.<br />In case you need it, we have beds, refrigerator and recently hi-fi system for you to &lt;s&gt;annoy people working next door&lt;/s&gt; enjoy robotics life =)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "course": {
+    "id": 1366,
+    "subject": "CIVL",
+    "code": "4440",
+    "name": "Environmental Systems Analysis",
+    "description": "This course introduces principles of systems analysis for the planning and management of the environment. The course aims to provide students with the ability to define environmental systems, evaluate alternatives for making optimal decisions, and develop sustainable solutions. Simple to complex case studies are used to present concepts of environmental modeling and single-objective optimization to identify best strategies for environmental quality control. Concepts of multi-objective optimization and Pareto efficiency are also presented for solving problems with conflicting economic and environmental goals. These key concepts are applied to a selection of environmental problems, including problems of water and air quality, solid waste management, and climate change.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1710,
+      1610,
+      1510
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"2410\" href=\"/review/CIVL2410\" target=\"_blank\">CIVL 2410</a> OR <a class=\"course-link\" data-subject=\"ENVR\" data-code=\"2010\" href=\"/review/ENVR2010\" target=\"_blank\">ENVR 2010</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 72,
+        "name": "NG, Tze Ling",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "cIM1HYLVskJ4YqZ2KCz7kMHdVwhZ7w3V",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 72,
+          "name": "NG, Tze Ling",
+          "rating": 1
+        }
+      ],
+      "author": "BillyTsang",
+      "date": "Dec 21, 2017",
+      "title": "Engineering Optimization",
+      "comment_content": "This course introduces different types of optimization methods, which are then applied to environmental management problems.<br /><br />1. Introduction to systems analysis <br />2. Basic principles of environmental modeling<br />3. Fundamentals of optimization<br />4. Method of Lagrange multipliers<br />5. Linear programming<br />6. Air pollution management using linear programming<br />7. Piecewise linearization<br />8. Multiobjective programming<br />9. Cost-benefit analysis<br />10. Environmental economics<br />11. Water quality policy modeling and analysis<br />12. Mixed integer programming and facility location models<br />13. Municipal solid waste management using mixed integer programming",
+      "comment_teaching": "Professor NG delivers concepts in optimization and environmental management well. She encourages students to participate in class by asking questions. She is easy to contact and replies to email quickly.<br /><br />Her powerpoint slides are colourful. She uses pictures and graphics to illustrate relationships between systems. I recommend copying down her in-class example exercises for later references in cheat sheet in the final exam.",
+      "comment_grading": "2017-18 Fall<br />Homework: 55%<br />Final examination (one A4 double-sided cheat sheet): 30%<br />Pop-up quizzes: 10%<br />Class participation: 5%<br /><br />My score:<br />Homework: 489/500<br />Final examination: 120/120<br />Pop-up quizzes: 58/60<br />Class participation: 5/5<br />Final letter grade: A+",
+      "comment_workload": "There are totally 5 pieces of homework and 7 to 8 pop-up quizzes. Quizzes are usually assigned after the end of a chapter. Those quizzes are open book, open note, &quot;open instructor&quot;. Each piece of homework is assigned for a duration of two weeks. There is a short time of Q&amp;A on homework difficulties at the beginning of each lecture. Homework problems will be similar to examples in class but for a more complex but not difficult version.<br /><br />Don&#039;t be misled this is a light workload course. I put an &quot;A&quot; in this attribute because I think all assignments are very well designed for a student to learn the principles of optimization and environmental management with the least amount of problems. In the other words, I think the homework is very efficient for learning.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

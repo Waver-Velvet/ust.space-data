@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 2210,
+    "subject": "ENVS",
+    "code": "4012A",
+    "name": "An Introduction to Geographic Information System (GIS) and Its Application",
+    "description": "Geographic information system (GIS) is an information system designed for environmental management. With the rapid development of Internet and geospatial technology, tremendous amount of environmental data become easily available at our fingertips. GIS has become an essential tool for us to better understand, manage and conserve our environment. This course provides students with fundamental concepts of GIS and a chance to gain some hands-on experience in GIS application (through computer exercises, case studies and a site visit). For ENVS students in their third and fourth year of study only.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1740,
+      1640
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "ENVS 6012C",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 889,
+        "name": "CHEUNG, Sai Kit",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "QqTGAGhQgLPDXMnqkyFGs3S2OTq9j3y1",
+      "semester": "2017-18 Summer",
+      "instructors": [
+        {
+          "id": 889,
+          "name": "CHEUNG, Sai Kit",
+          "rating": 1
+        }
+      ],
+      "author": "Kui",
+      "date": "Sep 13, 2018",
+      "title": "好鬼悶但又好好grade既course",
+      "comment_content": "教既野都係gis既baisc background + history + application<br />第1個prof教既野比較容易同淺白d<br />第2個prof教既野就比較講科技多d, e.g. satellite, radar",
+      "comment_teaching": "會有2個老師教<br />第1個會比較著重application多, 即係點樣用果個Arcmap<br />但佢教lab教得好快, 唔係d 同學好人肯教我, 我都搞唔掂<br />第2個係cheung sai kit教, 佢會講多d 以家gis既應用<br /><br />不過overall因為d content有d悶, 所以上堂都係好鬼悶",
+      "comment_grading": "非常非常之好grade, <br />從來都唔知D lab啊, asm啊, test幾多分<br />但最尾A 左<br />out of expectation",
+      "comment_workload": "4個lab(用arcmap output d野)<br />2個test<br />1個group project (都係用返佢上堂講過既gis功能)",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

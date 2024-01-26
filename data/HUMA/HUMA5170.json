@@ -1,0 +1,110 @@
+{
+  "course": {
+    "id": 2027,
+    "subject": "HUMA",
+    "code": "5170",
+    "name": "Chinese Historical Lexicology",
+    "description": "This course provides a theoretical and practical introduction to Chinese historical lexicology, dealing with various issues of Chinese words including word formation, semantic structures and sense relations of words, x-bar analysis of Chinese words, lexicalization, cultural component of words, and lexical variation among dialects of Chinese.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2110,
+      1830,
+      1630
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 323,
+        "name": "SUN, Jingtao",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "llBHTgarhnpIFYjlz4n6nyhRuiYxk5nH",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 323,
+          "name": "SUN, Jingtao",
+          "rating": 1
+        }
+      ],
+      "author": "noegg",
+      "date": "Mar 11, 2022",
+      "title": "",
+      "comment_content": "课程总的来说很冷门如果对语言无趣的话学起来会很无聊",
+      "comment_teaching": "Best Professor &amp; easy class. No homework and makes a 3 hour course an hour and 45mins at most. Only thing youll do in this class and be graded on is his mid term and final. He gives lots of freebies and tells you word for word what youll need to write in your notes and remember. Hes extremely kind and entertaining. 100% recommend to everyone.",
+      "comment_grading": "给分非常非常nice",
+      "comment_workload": "几乎算是没有worlload 主要的工作就是最后的paper",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "uwbpYrSsE0P8h70dK6VGv70u4bs3J9yP",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 323,
+          "name": "SUN, Jingtao",
+          "rating": 1
+        }
+      ],
+      "author": "viko5555",
+      "date": "Feb 05, 2022",
+      "title": "很好",
+      "comment_content": "课程主要讲汉字的性质，后缀，和古汉字的分类，内容不是很难，我是其他专业的学生。<br />This course is designed to provide an introductive survey of Chinese historical lexicology, with emphasis on <br />its theoretical aspect. It covers lexical semantics, meaning of word, development and evolution of Chinese <br />lexical items over history, relationship between the sound and meaning, and the lexical system in ancient <br />Chinese. The course also studies the vocabulary items in ancient script in order to help students to access the <br />firsthand materials. For comparative purposes, the ancient usage of word in modern dialects will also be <br />investigated.<br /><br />第一章 漢語一音一義規則 One syllable/one meaning principle in Chinese<br />第二章 語素、字、詞、詞組 morpheme, zì, word and word group<br />第三章 派生構詞 word derivation<br />第四章 詞義 word meaning<br />第五章 古文字與詞義研究 Paleography and word meaning research<br />第六章 詞彙的發展和演變 Lexical development and change<br />第七章 詞彙化 Lexicalization<br />第八章 音義關係 Relationship between sound and meaning<br />第九章 詞彙與文化 Word and culture",
+      "comment_teaching": "很像大陆的高中老师，老师上课喜欢举例子来调动课堂气氛。最后一节课还会发糖果。",
+      "comment_grading": "pre 5% （4个人一组 这个只要参加了就给满分）<br />quiz 15% （全班mean都不及格 sd 7左右 就算考的不好也不太影响最后成绩）<br />paper 80% （pg 8000字 只要跟课堂话题有关就可以 老师人非常nice 如果绝对时间不够可以延长DDL）<br /><br />感觉A range的人很多，平时多跟老师交流，有拿高分的几率",
+      "comment_workload": "workload很轻 平时只有一些reading",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

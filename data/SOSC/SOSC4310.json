@@ -1,0 +1,76 @@
+{
+  "course": {
+    "id": 2135,
+    "subject": "SOSC",
+    "code": "4310",
+    "name": "Chinese Capitalism: Historical and Comparative Perspectives",
+    "description": "This course examines the development of capitalism in post-Mao China through the lens of comparisons with capitalist practices in pre-1949 China and non-PRC Chinese economies and with select capitalist systems elsewhere. Through reading and discussing scholarly works focusing on contractual governance, students will be guided to explore the forces that shape the evolution of internal organization, inter-firm interactions, and business-government relations in different historical and social contexts. The objective is to help students deepen their understanding of China's economic transformation and broaden their perspectives on capitalist economic organizations and institutions.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2130,
+      1730,
+      1630
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 654,
+        "name": "LIN, Yi-Min",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "IAEw9E1WWp6ZVZ3KnBxYUuTZSDogJ3JQ",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 654,
+          "name": "LIN, Yi-Min",
+          "rating": 1
+        }
+      ],
+      "author": "WAIT&SEE",
+      "date": "Jun 07, 2017",
+      "title": "Quite a good and interesting course",
+      "comment_content": "This course is basically using a historical and comparison method to talk about the Chinese economy in the 20th century to present. Topics are very interesting and well-chosen by professor. For example, the labour problem in China, the development of &quot;guanxi&quot; in Chinese enterprises, the relationship between institution and business in China.<br />The topics and contents are a bit academically difficult. It is a real 4000-level SOSC course.",
+      "comment_teaching": "Professor is well-prepared every class and his knowledge is very rich that he brings lots of new concepts and explain the concepts very well. <br />He speaks very fluent English and he can also speak Putonghua and Cantonese.<br />But his tone is a little bit soft and sometimes may fall asleep as the course held at night.",
+      "comment_grading": "Grading is quite good I think.<br />PG and UG students are graded separately. <br />40% for weekly exercise and 60% for book report. That&#039;s it. No attendance.<br />UG only offer 10 spaces.",
+      "comment_workload": "Workload is quite light for a 4000-level SOSC course. There is no midterm, final, presentations, projects in this course.<br /><br />40% weekly exercise. Read at least one reading (around 10 pages), think one question and give two short answers. No page limit and no word limit. All my exercises are less than 1 page.<br /><br />60% book report. Choose and read a book from a book list which contain 30+ books suggest by Professor. Write a book report with some guidelines. No page limit and no word limit.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 6,
+      "vote_count": 6,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

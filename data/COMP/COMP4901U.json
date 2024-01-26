@@ -1,0 +1,249 @@
+{
+  "course": {
+    "id": 3510,
+    "subject": "COMP",
+    "code": "4901U",
+    "name": "Modern Compiler Construction",
+    "description": "Compiler implementation encompasses a wide range of techniques which are relevant to many software engineering areas. From parsing ad-hoc configuration file formats to validating complex specification languages to generating efficient code solving data-intensive problems at scale, many important problems of today and tomorrow fall within the general framework of compiler construction. In this context, the usefulness of compiler theory and practice goes much beyond understanding the technology underlying your grandpa's old C compilers – our software-driven world is full of domain-specific languages that need correct and efficient implementations, and emergent areas like machine learning are more than ever in need of innovations from the fields of compilation and optimization. In this course, you will learn the essentials of modern compiler construction, including parsing, analyzing, transforming, and code-generating programs. You will learn to design and implement your own programming language and extend it with features of your choice in a small team project.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230,
+      2110
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012\" href=\"/review/COMP2012\" target=\"_blank\">COMP 2012</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012H\" href=\"/review/COMP2012H\" target=\"_blank\">COMP 2012H</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4.83,
+    "rating_grading": 4.67,
+    "rating_workload": 3.67,
+    "review_count": 6,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1526,
+        "name": "PARREAUX, Lionel",
+        "count": 6
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "2J01nUsVgWUgiAQTswtlwoDzTke6cAdg",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1526,
+          "name": "PARREAUX, Lionel",
+          "rating": 1
+        }
+      ],
+      "author": "rind",
+      "date": "Jun 06, 2023",
+      "title": "Audit this course will be a better choice",
+      "comment_content": "You may refer to other comments.<br /><br />What I would like to emphasize is the difficulty level of this course. To me, I think this course is even more difficult than PG Theory course. Because not only you have to be good at maths, you also need to be a good programmer (or this course could make you to be one... given that you spend enough effort).<br /><br />But in general, the contents are cool, modern (quite rare in CSE dept) and definitely useful for any programmers.",
+      "comment_teaching": "Lionel and TAs (John and Anto) are very supportive to answer any question at any time (they set up a discord group). You can even ask advanced materials. For those who are interested in researching/dive deeper in this area, take this course.<br /><br />The lectures are recorded and I recommend studying the recording unless you are pure genius/already familiar with the topic he is talking. The pace is quite fast and the content are difficult, I need to pause many times to digest what is happening.",
+      "comment_grading": "I write this review before they release grade so I will be less biased.<br /><br />60% - Mini projects<br />40% - Final Exam<br />Optional project - cover at most half of the points lost in mini projects.<br /><br />Mini projects (x5, full mark:10):<br />Median: 9 8 8 10 9<br />My score: 8 6 5 8 2<br />Basically the mini projects have very high median, if you slipped any one of them, very likely you have to do the optional project for better grading.<br /><br />Exam:<br />Mean: 42.58<br />Median: 38.25\tHigh: 71<br />Upper Quartile: 53\tLow: 18<br />Lower Quartile: 32.13<br />My score: 51.5/70<br /><br />For the exam, the type system question will differentiate the A-range students. Understanding the question is already a difficult task. For student like me who don&#039;t understand what is happening, just focus on other 3 questions first. Out of the other 3 questions, I think the proof question is the most difficult (It worths 10 points!).<br /><br />Optional project: I didn&#039;t do it, please refer to other reviews.",
+      "comment_workload": "This is the part where I would suggest any of you to audit this course.<br /><br />To successfully get an AU grade, you could either:<br />1) work on the mini projects<br />2) participate the exam and get somewhat &quot;OK&quot; score<br /><br />I think the workload of this course will be originally B, and each attribute below will downgrade 1 level:<br />1. You don&#039;t know about Scala.<br />2. Proofs and math statements are quite painful to you.<br /><br />Except the first mini project, each mini project later on will depends on the previous projects, and they won&#039;t release the answer as they will be used in the coming offerings as well. So error accumulates if you have a bad mini projects, you cannot do proper testing for some testcases because they even couldn&#039;t pass the previous stages. So you should actually spend more time on testing your code in the first few projects, and correct your mistakes once you get any feedback. <br /><br />For final year student, if you are doing job searching (also fyp, other courses...) at the same time like me, usually you won&#039;t have time to deal with your debts. So put more effort in the first few projects because once the debt grows, you will be very despair and totally give up in later stages (like me).<br /><br />For the Scala part, it is an amazing language but it has so MANY language features. Understanding some of them (why they exists) requires a deep knowledge in programming. Personally I find variance very cool. But in order to better understand this course and being able to work on the mini project. You must spend the first few weeks learning Scala (Btw in UST, we spend 2 semesters on C++).<br /><br />The math part of this course is also quite difficult for general CS students. Btw they mentioned that you don&#039;t have to write &quot;rigorous&quot; proofs in this course. But still, generating the idea to formulate a proof is difficult.<br /><br />Often time, I think I am not capable of studying CS. The side effect of studying this course is to understand how stupid I am.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 6,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "3qhaNcIbfj1zxdOTHaaxQ3xmBe6LT6SJ",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1526,
+          "name": "PARREAUX, Lionel",
+          "rating": 1
+        }
+      ],
+      "author": "mark_",
+      "date": "May 26, 2023",
+      "title": "Extremely content-rich and rewarding course (Update: To be renamed COMP4121, offered starting Spring 2024)",
+      "comment_content": "The content basically covers everything you need to implement a compiler. I will say it is not an easy course. Some even claim it&#039;s PG-difficulty, although I disagree.<br /><br />- Formal languages, regular expressions, lexing<br />- Context free grammars, parsing LL(1) grammars, Pratt parsing<br />- Name analysis<br />- Type theory, type checking/unification, let polymorphism<br />- WebAssembly crash course, codegen<br />- Compiler optimisation, control flow graphs<br /><br />After this course, you&#039;ll probably have the prerequisite knowledge to create your own language for real and learn toolchains like LLVM.<br /><br />I highly recommend you to have the following pre-requisites before you take this course:<br />- Comfortable with discrete math (If you got through COMP 2711 or 3711, you are probably fine)<br />- Open to learn new math concepts such as inductively defined sets, lattices<br />- Prepared to learn functional programming<br />- Some computer architecture (COMP2611, even if taken in the same semester, is enough)<br /><br />If you lack some of these, then you may struggle. As always, try out the course during add-drop period and have a go at the first lab.<br /><br />By the way, the entire course is taught in Scala. At first, it&#039;s quite tricky to learn. But, after a while, you will fall in love with algebraic data types and pattern matching. It will also probably make you a better programmer.<br /><br />P.S. I heard the course will become a standard COMP offering in the future. If so, it will probably be one of the hardest standard COMP electives for UG.<br /><br />UPDATE: It appears this course will tentatively be offered in Spring 2024: https://cse.hkust.edu.hk/ug/courses/<br /><br />UPDATE 2: This course will be converted into an official course: COMP 4121, and will be offered starting Spring 2024. As of writing it is yet to be approved, but it should be added soon.",
+      "comment_teaching": "Professor Parreaux (LP) is a great instructor. His teaching is clear, and the lecture slides provide ample detail for when you want to go back and revise something. <br /><br />Lectures are up to 2 hours long (though usually only 90 minutes), with a 10 minute break in the middle. While he sometimes may go too fast during class, he is extremely patient and willing to answer questions during the break or after class.<br /><br />The real heart of this course is the tutorials, delivered by the TAs. The tutorials have attendance, but skipping one regardless is a death wish. This course is an oddball in UST, in the sense that the tutorials are actually really hard and you **will** be confused and exhausted. This is not necessarily the fault of the TAs or the professor -- the content is just inherently hard. However, the tutorials are quite interactive, and you are encouraged to work in groups (although we all know that isn&#039;t happening in HKUST CSE :P)<br /><br />As for the labs, I only attended one or two of them as they seem to just be a Q&amp;A / support session if you need help with the labs.<br /><br />Moreover, all the TAs and LP himself are reachable through a class Discord server.<br /><br />Overall, great teaching.<br /><br />Also, shout-out to LP for making special arrangements to accommodate students who had a time clash to still register the course!",
+      "comment_grading": "The grading scheme is as follows:<br /><br />60% labs<br />- 5 labs, each graded /10, worth 12% each<br />&nbsp;&nbsp;&nbsp;&nbsp;- For each lab, major mistakes deduct two points, while minor mistakes deduct one point<br />&nbsp;&nbsp;&nbsp;&nbsp;- In my experience, mistakes from the same root cause will not be penalised twice (grading is done manually)<br />40% Final Exam<br /><br />Moreover, there is an optional bonus project graded out of 100% that can recover up to 50% of the total lab marks. You extend the compiler in some cool way in groups of 1-4 for this project. The actual formula for the lab score is:<br /><br />min(60%, Your lab score + 30% * project score)<br /><br />Note that attendance is required for the tutorials. I don&#039;t actually know what happens if you skip a tutorial, but I wouldn&#039;t recommend finding out. :P <br />--<br /><br />PROJECT<br /><br />Again, fully optional, and is only for the purpose of making up lost lab points. You&#039;re given a long list of project ideas (or you can come up with it on your own), and you implement it by yourself or in groups. The projects have a hard upper limit on the team size depending on the difficulty.<br /><br />It seems you can get a good score on the project as long as you implement everything carefully and write lots of relevant details in your report.<br />--<br /><br />FINAL EXAM<br /><br />The final is quite hard. It&#039;s full of theory and a bit of programming (also, there are some proof questions). I had to stare at a question for 30 minutes before having any idea what it was trying to say. However, the format is quite similar to the tutorials, and LP provides a lot of past papers for your self-study.<br /><br />The final was originally out of 80 (+5 bonus), but the max score was truncated to 70 due to the difficulty this semester.<br /><br />Stats: Low&nbsp;&nbsp;LQ&nbsp;&nbsp;Median&nbsp;&nbsp;UQ&nbsp;&nbsp;High&nbsp;&nbsp;|&nbsp;&nbsp;Mean<br /><br />Final exam (truncated, /70):<br />18&nbsp;&nbsp;32.13&nbsp;&nbsp;38.25&nbsp;&nbsp;53&nbsp;&nbsp;71&nbsp;&nbsp;|&nbsp;&nbsp;42.58<br /><br />The labs usually have a median of around 8 and always an upper quartile of 10.<br /><br />--<br />LETTER GRADE<br /><br />Overall 98.3% -&gt; A+<br />Getting around upper quartile will result in an A/A-.",
+      "comment_workload": "The bulk of the workload comes from the labs.<br /><br />The labs are challenging. Basically, you are building towards a full-blown compiler in Scala for a mini-language called Amy. Each lab builds one stage of the compiler:<br />- Lexer<br />- Parser<br />- Type checker<br />- Codegen<br />The first lab is an interpreter which is designed to get you acquainted with the language. It is unrelated to the compiler.<br /><br />Each lab builds on the previous one. You are expected to write your own test cases. You will be given feedback on your labs so that you can fix bugs and whatnot (which you should do), but solutions to the labs are NOT released. If you discover any bugs, fix them before the rest of your compiler breaks.<br /><br />Most labs are doable in a day. However, some really hard labs like the parser and codegen lab took me a few days to complete.<br /><br />--<br /><br />There will also be some additional workload from trying to understand the content and tutorial questions outside of class.<br /><br />--<br /><br />The bonus project was released on the last day of semester, and was due at the end of the finals. If you plan to do it, be prepared to work on it alongside your finals.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 10,
+      "vote_count": 11,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "t6UdbcP0Z5kV8pTSdp356A8F2zDwpvDh",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1526,
+          "name": "PARREAUX, Lionel",
+          "rating": 1
+        }
+      ],
+      "author": "TrebledJ",
+      "date": "Jan 03, 2022",
+      "title": "Well-typed course that compiles and runs smoothly",
+      "comment_content": "I won&#039;t say too much, as most of what I planned to write has already been covered by other reviews.<br /><br />Good all-around content. Learned quite a bit about compiler stages, pitfalls, and design techniques.<br /><br />Also picked up Scala, which is a nice mix of OOP and functional programming, something like a cross between Python (readability), Java (libraries and compilation), and C++ (typing, but slightly different).<br />And also a bit of WebAssembly.<br /><br />You get to practice mathematical induction and dynamic programming as well.",
+      "comment_teaching": "Very clear teaching, guidelines, lab descriptions, lecture notes.<br /><br />Lectures are relatively interactive, which I find somewhat of a rarity. Tutorials actually introduce new content and are intellectually challenging, so I strongly recommend attending, even if it&#039;s through Zoom. Plenty of examples and exercises all-around.<br /><br />LP is very nice. Made the project optional. Gives detailed feedback in labs. Responds reliably to emails. Gives breaks during lectures.<br /><br />Only annoyance I have is that Labs 3-5 weren&#039;t graded until after the semester was over, so there wasn&#039;t any feedback on some compiler stages. :( But this doesn&#039;t stop me from giving teaching an A.",
+      "comment_grading": "Good.<br /><br />Labs (each out of 5): 4.5, 4.5, 5, 4, 2<br />Project: 5<br />Final: 64/80<br />Overall: A<br /><br />(There is no maximum mark for the project.)<br /><br />With the project optional, any marks earned for the project go towards replenishing marks lost in labs. Based on observations of other reviews, LP is kind enough to fully replenish our lab marks.",
+      "comment_workload": "5 Labs. 1 Project. 1 Final.<br /><br />In each lab, we&#039;re tasked with implementing a stage of a compiler pipeline to compile a subset of Scala. The skeleton provided is a full-blown Scala project. Be sure to take advantage of the testing library and write test cases.<br /><br />The first several labs are a breeze (interpreter, lexer, parser). The last few labs are much more difficult (type checking, codegen). Especially codegen. This one requires a lot more thought.<br /><br />The project is fun. You form up to groups of 3 and implement any compiler extension to the compiler you finished from the labs. Also, did I mention LP made the project optional?<br /><br />The final was nice and intellectually challenging. LP provided past papers from EPFL (although those were much easier).<br /><br />A word of caution though. Usually, each lab would build upon a previous lab (e.g. the parser stage depends on the lexer stage). Likewise, the project depends on the compiler you&#039;ve implemented for the labs. So it&#039;s better to fix bugs early on, or else the rest of your compiler will suffer. Make sure your test cases have good coverage of all the rules. If you&#039;re taking this course without any friends (as I did), good luck.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "MTywf9rqCYUcdV7DmmZ9DwLMbb5sPToJ",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1526,
+          "name": "PARREAUX, Lionel",
+          "rating": 1
+        }
+      ],
+      "author": "kotakbas",
+      "date": "Dec 28, 2021",
+      "title": "One of the richest UG CS course. Certainly must-have",
+      "comment_content": "High level-wise you will learn how to write every stage of the compiler (except for optimization) from tokenizing the code and creating AST, up to actually converting it into an assembly code.<br />As described by others, there will be 5 bi-weekly labs and weekly lectures &amp; tutorials.<br />Labs were extremely fun as you had hands-on experience writing compiler phases for a mini-language Amy with a functional programming language (Scala).<br />Note: if you are thinking of taking this course or COMP3031, note they greatly overlap in FP language content.",
+      "comment_teaching": "The instructor was very knowledgeable (just google his Ph.D. thesis and you&#039;ll know what I mean ^^) and willing to answer any questions. Unlike most professors in UST, he likes to give questions during tutorials &amp; lectures &amp; labs to engage his students. Most people may not like it or feel shy, but I certainly enjoyed this kind of interaction.",
+      "comment_grading": "- 60% -- bi-weekly labs (5 in total)<br />- 40% -- Final<br />- (optional) Project of your choice as an add-on to Amy compiler.<br /><br />The optional project greatly alleviated my grade after ruining certain labs:<br />Labs: [5, 3, 4, 1.5, 5]<br />Final: 70<br />Project: 6.5<br />Overall: A+<br /><br />Fair grading, can&#039;t say much.",
+      "comment_workload": "It was fairly hard, but labs were quite fun, so it didn&#039;t bother me. Labs each took about a full day or more (parser lab was by far the hardest one). The optional project was during finals so you gotta find ~3-4 days to finish it (I&#039;d suggest starting it early). Preparing for finals isn&#039;t too hard as it was about the same difficulty as tutorials: you&#039;ll be good as long as you crack tutorial problems.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 6,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "8sj0qHAjWhS3MGxpew0UTuAk4gv1pi4w",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1526,
+          "name": "PARREAUX, Lionel",
+          "rating": 1
+        }
+      ],
+      "author": "Asagami Fujino",
+      "date": "Dec 28, 2021",
+      "title": "Finally a compiler course",
+      "comment_content": "It is surprising that actually not much has been taught during the semester, even though it feels like much.<br /><br />Topics (roughly):<br />- regular expression<br />- context free grammar<br />- parsing `LL(1)`<br />- name analysis<br />- type checking (basic type theory)<br />- code generation (to WebAssembly)<br /><br />The programming language this course uses is Scala 3. If you are familiar with Haskell, OCaml or other functional languages you would get used to it quite easily. The pre-req is useless, as you are not touching OOP at all. (The true pre-req would be induction, and some knowledge of assembly)<br /><br />Fun facts:<br />Simple type was taught in the lecture<br />Subtying was introduced during the tutorial<br />Dependent-type was tested in the final exam.",
+      "comment_teaching": "LP is a very nice guy and he is willing answer all your questions.<br />Although sometimes he may not be able to explain things thoroughly, this is the first he teaches this course so it is fine.<br />I think there&#039;s no TAs in the course. LP is giving all the. sections (lecture, labs, tutorials)",
+      "comment_grading": "Scheme:<br />Labs: 5 * 5% (25%) | Project: 35% (opt) | Exam: 40%<br /><br />The project is made optional due to time limitation. So the project is used to make up lab scores (up to 50% of lab grades). But I don&#039;t know how the actual calculation works.<br /><br />My:<br />Lab: 5, 4.5, 3.5, 4, 5<br />Project: 3<br />Exam: 69/80 (Some crazy guys manage to get 82 which is ridiculous)<br />Overall: A+<br /><br />I think the grading is actually quite good...",
+      "comment_workload": "Being a 3 credits course, it consists of 2-hr lecture, 2-hr tutorial, and 2-hr lab, which seems quite heavy.<br />But the good thing is that there is 1 lab every 2 weeks (though the last be was given 3 weeks to finish) and every lab can be completed in about 4 to 6 hours, so it is possible to finish in lab time. (Since I have experience in FP and PL, I find them not too difficult. If you don&#039;t know anything about functional programming, you may need sometime to get your hands on)<br />The project is an extension of the compiler (lab work). But you can also write another one from scratch and even in another language (like Haskell) XD, if you are willing to.<br />Doing the requires some efforts, but it is kind of like another lab.<br />You also need to write a report for the project ...",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 4,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "VrgzywaSAvgBzmnFbgEgAhOCHxBbDKdz",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1526,
+          "name": "PARREAUX, Lionel",
+          "rating": 1
+        }
+      ],
+      "author": "CS水泡",
+      "date": "Dec 26, 2021",
+      "title": "Rich content, nice instructor",
+      "comment_content": "One of the richest CS UG course in HKUST content-wise. Challenging like COMP3711 but in a good way.<br /><br />A must-take if you are looking to pursue PG in CS, and you should audit just for the things you&#039;d learn. Half the class is PG anyways.<br /><br />Basically a clone of the course offered in Swiss Federal Institute of Technology Lausanne (EPFL) under the same name, but theirs is worth 6 credits.<br />https://edu.epfl.ch/coursebook/en/computer-language-processing-CS-320 <br /><br />Understanding discrete math, theory of computation, functional programming, computer architecture are extremely useful but not required.<br /><br />You write a compiler for a Scala-like functional programming language to WebAssembly in Scala in the lab.",
+      "comment_teaching": "The instructor is new to teaching in UST and makes some typos, but he is super nice and willing to change the weighting if needed. He handles everything from lecture, tutorials to labs. I only met the TA once in the final.<br /><br />Every lecture is like a talk you&#039;d find in a developer conference, extremely information dense and detailed. Don&#039;t ever skip one because without it you won&#039;t even understand the question in tutorials and final.<br /><br />The instructor is also open for discussions during mid-lecture breaks and after class.",
+      "comment_grading": "The course is definitely not easy, following are the weightings:<br /><br />60% over 5 lab assignments<br />40% final exam<br />[optional] project<br /><br />The project can recover up to 50% of marks lost in the lab assignments, so basically:<br /><br />40% * final + min(60%, labs * 60% + project * 30%)<br /><br />This was not the intended weighting but the one we got because the project late-semester was too heavy. <br /><br />Labs mean are around 80%<br />final mean is 55/80<br />87 is actually the highest possible score and some crazy guy managed 82<br /><br />Overall 92% =&gt; A<br /><br />Original weighting as follow:<br /><br />40% final<br />25% lab (5% each)<br />35% project<br /><br />I gave A for grading because hard work will be reflected in the grade, not because it is easy to get good grades.",
+      "comment_workload": "Would have been worse than B had the project not changed to optional last minute. <br /><br />Labs are challenging but manageable. The libraries he gave you are in .jar file which makes language server features unavailable. You better clone the GitHub repositories of those libraries and look at the examples yourself.<br /><br />Final is pretty tough, but being open-book helps. Print the WebAssembly examples and I don&#039;t think it&#039;s hard to pass.<br /><br />I decided to still do the project, where you add an extra feature to the compiler you have built in the 5 labs. Form a group of 1 to 3 depending on the difficulty of your feature. This part is super intensive, done during the final period without much help, you basically need to figure out everything yourselves. <br /><br />With the project, workload is more like D towards the end. However, the high number of PG students means he can give more A than other courses and hard work does have returns.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

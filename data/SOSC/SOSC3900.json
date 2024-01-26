@@ -1,0 +1,181 @@
+{
+  "course": {
+    "id": 3358,
+    "subject": "SOSC",
+    "code": "3900",
+    "name": "Abnormal Psychology",
+    "description": "Abnormal psychology is the scientific study of psychopathology and abnormal behavior. This course introduces theories, research methods, and the most updated research findings in the field of abnormal psychology. Students will be introduced to various types of psychological disorders, such as mood disorders, schizophrenia, personality disorders, somatoform disorders, sex-related disorders, etc. They will also learn about the diagnosis, causes, maintenance, and treatment of major psychological disorders from an integrative perspective.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2210,
+      2110,
+      2010
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"SOSC\" data-code=\"1960\" href=\"/review/SOSC1960\" target=\"_blank\">SOSC 1960</a> OR <a class=\"course-link\" data-subject=\"SOSC\" data-code=\"1980\" href=\"/review/SOSC1980\" target=\"_blank\">SOSC 1980</a> OR <a class=\"course-link\" data-subject=\"SOSC\" data-code=\"1969\" href=\"/review/SOSC1969\" target=\"_blank\">SOSC 1969</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.5,
+    "rating_teaching": 4.5,
+    "rating_grading": 4.5,
+    "rating_workload": 4.5,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 659,
+        "name": "LAI, Pui Yee",
+        "count": 4
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "sNPiVf5q5HD3LxkP4FROZUnfpZEJmkUd",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 659,
+          "name": "LAI, Pui Yee",
+          "rating": 1
+        }
+      ],
+      "author": "Casssuper6",
+      "date": "Feb 22, 2022",
+      "title": "",
+      "comment_content": "See other&#039;s review",
+      "comment_teaching": "quite detailed and his pronunciation is good and easy to follow, just half f2f, half zoom really hard to hear the discussion in the classroom (as I attended zoom class)",
+      "comment_grading": "My total score: /100 I got B<br />-Quiz1 1-hour open book (15%): my score = lowest :(&nbsp;&nbsp;mean = 11.6/15 <br />-Quiz2 1-hour open book (15%) my score = lowest :( mean = 11.35/15<br />-Group project+15-minute presentation (30%): my score = 23/30 mean: 25.1/30<br />-Individual research paper maximum 600 words (10%): my score = 7/10; mean = 7.5/10 <br />-group project proposal: 5/5 mean:4.9/5<br />-Film critique maximum 1500 words (25%): my score = 24/25 mean:21/25<br /><br />2 quizzes got lowest still can get a B, super good grade lol",
+      "comment_workload": "not too heavy tbh",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "FXyNopgIT1FsFrBWkB3G0rUMepwSMQq3",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 659,
+          "name": "LAI, Pui Yee",
+          "rating": 1
+        }
+      ],
+      "author": "penguin3220",
+      "date": "Jan 04, 2021",
+      "title": "",
+      "comment_content": "You can refer to other&#039;s comment, the content is more or less the same. Beatrice would explain one or more mental disorder in each chapter.",
+      "comment_teaching": "May not be the funniest professor in UST, but she is always the one willing to answer all the questions students ask.",
+      "comment_grading": "Quiz 1: above mean ard 1 sd<br />Quiz 2: below mean ard 0.5 sd<br />Group Project: 28/30 (no mean shown)<br />Individual Paper: 6/10 (mean: 7.80/10)<br />Film critique: 23/30 (no mean shown)<br />Peer Evaluation: + 1 bonus mark<br /><br />Overall: B+ <br />I probably above mean dd, the grade seems fair (when I took this course last semester, there is no comments at all so scaryyyyy lol now you can look at ours now haha gayau)",
+      "comment_workload": "The workload overall is fair, BUT be careful of the distribution of the workload. Kind of light workload in the beginning of the semester, but VERY HEAVY at the end of the semester (Beatrice style anyway)",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 2,
+      "attachments": []
+    },
+    {
+      "hash": "68vxnNAgMLwfpWGeJFfgDAqJ8Xm1iwf6",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 659,
+          "name": "LAI, Pui Yee",
+          "rating": 1
+        }
+      ],
+      "author": "Andy HK",
+      "date": "Dec 31, 2020",
+      "title": "",
+      "comment_content": "Quiz 1<br />Introduction<br />What is Abnormality?<br />Models of Abnormal Behavior<br />Assessment and Diagnosis<br />Anxiety and Obsessive-Compulsive<br />Disorders<br /><br />Quiz 2<br />Mood Disorders<br />Trauma and Stress-Related Disorders<br />Schizophrenia Spectrum Disorders<br />Somatic and Dissociative Disorders",
+      "comment_teaching": "It seems she reads the sentences from the textbook as the elaboration or explanation of the key points in the lecture notes. Need to pay attention in class and jot down the notes. Dr. Lai&#039;s explanation is quite good and clear overall. Attending the lecture is strongly encouraged.",
+      "comment_grading": "My total score: 84.25/100 I got A- <br />-Quiz1 1-hour open book (15%): my score = 11.75/15; mean = 9.81/15 SD = 2.36<br />-Quiz2 1-hour open book (15%) my score = 11.5/15; mean = 9.01/15 SD = 1.80<br />-Group project+15-minute presentation (30%): my score = 24/30<br />-Individual research paper maximum 600 words (10%): my score = 6/10; mean = 7.80/10 SD = 2.02<br />-Film critique maximum 1500 words (30%): my score = 30/30<br />-Peer evaluation: 1 bonus mark upon completion<br /><br />Group project要做好個treatment plan，要對應番個case ge causes，做好呢部分就會高分, 否則一定低分加Q&amp;A不斷被插。組組都講CBT(Cognitive-behavioral therapy)，CBT完全被濫用",
+      "comment_workload": "Quite packed indeed. Quiz 1 and quiz 2 have examined quite a lot of things not mentioned in the lecture notes and during the lecture, which are materials in the textbook. But the textbook is not sold at UST bookstore, so it is a bit ridiculous to examine those materials in my opinion. It was fortunate that I bought the textbook from Amazon. 有2個chapters (Trauma and Stress-Related Disorders, Schizophrenia Spectrum Disorders) quiz完全冇考。每個Quiz有3條長題目各佔10分。Quiz2 考左2題屬於Somatic and Dissociative Disorders，係quiz前2堂先教既chapter, 都未夠時間消化，更加冇時間睇textbook。開考後先睇textbook然後不斷copy and paste，用左好多時間溫lecture notes jot down好多notes點知係廢既。考啲野都係奇奇怪怪冇諗過會甘考。例如Quiz1考左MMPI test，臨時先即刻上維基百科睇解釋。好彩film critique 30/30, 先有A-. Film critique 3揀1， 我寫Bipolar disorder, 靠本textbook好多，好多解釋、例子、points都係lecture notes冇提，但film critique要寫落去，都關Bipolar disorder事。Textbook係呢個course係超重要，一定要買！反而果本DSM-V冇乜用。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "MdWFjefsp9aLoQDOfgBCRlKnmbQA3ZzA",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 659,
+          "name": "LAI, Pui Yee",
+          "rating": 1
+        }
+      ],
+      "author": "LukaModric",
+      "date": "Oct 20, 2020",
+      "title": "",
+      "comment_content": "Quiz 1<br />Introduction<br />What is Abnormality?<br />Models of Abnormal Behavior<br />Assessment and Diagnosis<br />Anxiety and Obsessive-Compulsive<br />Disorders<br /><br />Quiz 2<br />Mood Disorders<br />Trauma and Stress-Related Disorders<br />Schizophrenia Spectrum Disorders<br />Somatic and Dissociative Disorders",
+      "comment_teaching": "Interesting<br />Play video in class<br />Some psycho test in class",
+      "comment_grading": "Quizzes 15x2=30%<br />Essay type; 3 questions in 1 hour (max 400 words each) open-book<br />Quite rush actually<br /><br />Group project 40%<br /> - Presentation and Q&amp;A (30%)<br /> - Individual paper (10%)<br />Topic: any disorder not mentioned in lecture<br /><br />Film Critique 30%<br />Choose 1 film from those 3 given<br />Submit after all lecture ends",
+      "comment_workload": "Workload: fine<br />Reading required",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "course": {
+    "id": 2690,
+    "subject": "SOSC",
+    "code": "2400",
+    "name": "Quantitative Data Analysis for Social Research II",
+    "description": "This course introduces applied analysis of survey, administrative and other types of data of interest to social science researchers. The course is divided into two parts. The first part deals with statistical inference involved in survey data analysis from a practical perspective. The focus will be on the specification of models including choice of control variables, the interpretation of results, handling missing data, and the challenges posed by reverse causality, omitted variable bias, endogeneity, and other issues that commonly arise in the analysis of social data. The second part introduces analytical strategies for “unconventional” data types, such as social network, web data, and plain texts. Special attention will be given to challenges to social scientists regarding data extraction, data integration, and visualization.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"SOSC\" data-code=\"1100\" href=\"/review/SOSC1100\" target=\"_blank\">SOSC 1100</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 3.5,
+    "rating_grading": 4.25,
+    "rating_workload": 4.5,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 783,
+        "name": "WANG, Hongbo",
+        "count": 4
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "DzWDx7GHWfuw700IqQt7Um0cx85DZH9T",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 783,
+          "name": "WANG, Hongbo",
+          "rating": 1
+        }
+      ],
+      "author": "Rezzaldo",
+      "date": "Dec 16, 2021",
+      "title": "Easy but learnt a little, good grade though",
+      "comment_content": "1. Causality<br />2. Simple Linear Regression (SLR)<br />3. Coefficient and Goodness-of-fit <br />4. Choice of X <br />5. Log Transformation<br />6. Curvilinear Effect <br />7. Categorical X<br />8. Interaction Effect <br />9. Motivation for Multiple Linear Regression (MLR)<br />10. Visualization (Cancelled)<br /><br />There are a R computing session and a lecture alternating in each week.<br /><br />The scope of this course is narrow because it is all about SLR that matters. MLR is a bonus which is slightly mentioned.",
+      "comment_teaching": "Hongbo asked us straightforward questions to consolidate our understanding in what he has just said. Unfortunately, we were too quiet and for most of the time it caused dead air. Sometimes, he asked us tricky questions too. Since this course was straightforward, there were no difficult parts that challenged the effectiveness of his teaching.",
+      "comment_grading": "Week 4 R Practice (6/8, mean: 5.13)<br />Log Transformation R Practice (2/2, mean: 1)<br />Constant Elasticity Model R Practice (2/2, mean: 0.91)<br />Week 10 R Practice (Curvilinear Effect) (3/4, mean: 2.13)<br />Week 12 R Practice (3/5, mean: 2.65)<br />Presentation (17/20, mean: 17.35)<br />Final Report (45/50, mean: 44.48)<br />Attendance (18/20, mean: 17.96)<br />Participation (8/10, mean: 5.57)<br /><br />Final grade: B+",
+      "comment_workload": "No midterms, no final.<br /><br />Only attendance (iPRS, 20%), participation (excellent (=10), satisfactory (=8), and unsatisfactory (=4), 10%) and project (presentation: 20%, final written report: 50%, total 70%) counts.<br /><br />For the project, we need to submit a project proposal in week 8, a progress report in week 11, a presentation on SLR in week 13, and a final report of 30 pages maximum (font 12, double-spaced) in study period before the final exams. The workload is fair as we can form 5-6 ppl per group so each contributes to an average of 5-6 pages only, and if you have done the presentation properly, you can copy what you&#039;ve said onto the report because some parts are overlapping.<br /><br />There are in-class R practices that he requires us to submit before end of class which are attributed to the participation score.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "CCSA9lNohadsbMcqkcPZOlsDnuagooMP",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 783,
+          "name": "WANG, Hongbo",
+          "rating": 1
+        }
+      ],
+      "author": "Bolinda",
+      "date": "Jan 21, 2021",
+      "title": "",
+      "comment_content": "lecture講數據分析模型之類的，tutorial主要講如何用rstudio進行數據分析。<br />intro<br />statistical inference<br />inference for two-way table<br />mutiple linear regression<br />logistic regression<br />causal inference<br />text analytics<br />social network analysis<br />GIS<br />visualization",
+      "comment_teaching": "講課不是很有趣，照著ppt念。tutorial教rstudio的ta講的不錯，很詳細",
+      "comment_grading": "主要是project的分，佔比很重。寫的最好是prof感興趣的話題，用的方法也要獨特一點。我的project拿了很高分，相反quiz基本都是靠猜的，但是大家都考的不好，認真聽講基本沒問題<br /><br />midtem 20%（10/20，mean 8.7，high 15）<br />group project 60%（oral 20%，report 40%）（report 40/40，mean 33.9；oral 20/20，mean 15.4）<br />attendence and participation 20% （20/20，mean 19.2）<br />grade：A",
+      "comment_workload": "主要就是project的workload，不算很大，4個隊友，分散下來能接受<br />midterm考的是lecture的內容，也有r的計算，認真聽講就沒問題",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "4GjXnu8By9x8mwhkkDNh8UGMJL37QxP0",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 783,
+          "name": "WANG, Hongbo",
+          "rating": 1
+        }
+      ],
+      "author": "ilovesosc",
+      "date": "Jan 07, 2019",
+      "title": "A required course for QSA",
+      "comment_content": "This course the basic theory of statistics, like statistical inference, linear regression and two-way table. Unlike math course, this course is teaching is a more &quot;appllied&quot; way which is focusing on why the theory goes like that and what does the values means. It is great for the presquesite that taking this course in FALL and taking MATH 2411 in Spring. This helps you be more familary with the calcalations and know what is happening.",
+      "comment_teaching": "I think Hongbo is a really good teacher but he is not the best in teaching statistics. So sometimes there is a lot of confusions which he cant fixed it even though he was tried his best (I think). His teaching is totally not focusing on calcalations but unfortunately appears a lot in mid term and exam. So you should have more self study time and dont expect you will understanding how to calcaluate after lecture.",
+      "comment_grading": "As SOSC 1100 is really a good grade course, this course is not good grade as it is expected but it is still pretty good. Although the mean of final exam is especially low only around 40%, this course is graded by curse so you will received a relative good grade even your result is not that good.",
+      "comment_workload": "Btw, the 5 quizes&nbsp;&nbsp;really kill a lot of people as it is really tense to take the online quiz (12 questions each) in 45 mins. It&#039;s required a lot of calcalations. If you dont familiar with the course material and and know how to calcaluate, the will received a very low score in the quiz(the mean of the quizes is also liow actually)<br /><br />This course is great with no any assignments as the lectuer dont want to waste our time of doing so. However, attendence is strictly requied lesson (especially if there is any pop quiz!)",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Yv65TbU32pDwiuaJvRLTqrH5ODPDA0Yq",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 783,
+          "name": "WANG, Hongbo",
+          "rating": 1
+        }
+      ],
+      "author": "I.048S96",
+      "date": "Dec 11, 2018",
+      "title": "Mediocre Statistics Course. Better than SOSC1100.",
+      "comment_content": "Content is okay. But there are a few problems: <br /><br />1) There is too much content for the Professor to teach us. He had to cancel some R tutorial session for lecture sessions.He initially assigned two,three weeks for regression, but only used one.<br />2) The Professor and the TAs did not have a well-established set of rules for the quizzes and attendance. Their lack of preparation caused a lot of confusion. <br />3) The quiz questions were problematic. At least 1 ~ 2 questions every quiz didn&#039;t have correct answers or were not visible on Canvas.<br />4) The quizzes were supposed to be pop-quizzes, but the TA ended up telling us almost all the time (which is great). And we had two quizzes left in the final two weeks of the semester so it was no longer a pop-quiz. <br /><br />[Topics Covered]<br />1. Review of SOSC 1100<br />2. Normal Distribution (Quiz 1)<br />3. Sampling &amp; Sampling Distribution (Quiz 2)<br />4. Probability Models<br />5. Introduction to Inference (Quiz 3)<br />6. Inference for Population Mean<br />7. Inference for Population Proportion<br />8. Inference for two-way tables (Quiz 4)<br />9. OLS Regression (Quiz 5)",
+      "comment_teaching": "As for Professor Wang Hongbo, I personally think he did a much better job than SOSC1100, but even so there are a lot of ways he could improve this course. <br /><br />I think the course would be much better if the Professor: <br />1) considered the level of his students and made sure that the exams were not as difficult as it was this semester. Final mean of 41% was shocking.<br />2) slowed down when the students don&#039;t understand the course material. He was busy catching up with the syllabus and left most of the students behind.",
+      "comment_grading": "[Quiz 1]<br />mean = 4.6, low = 1.5, max = 6.0<br />[Quiz 2]<br />mean = 3.8, low =1, max = 5.5<br />[Quiz 3]<br />mean = 2.1, low = 0, max = 5.5<br />[Quiz 4]<br />mean = 3.1, low = 1, max = 5.0<br />[Quiz 5]<br />mean = 3.6, low = 0, max = 6.0<br /><br />[Midterm Exam (31 questions. Bonus question worth 2 points)]<br />n = 33, mean score = 20, median score = ??, max score = 30, min score = 13, standard deviation of scores = ???.<br /><br />[Final Exam (31 questions. Bonus question worth 1 points)]<br />n = 33, mean score = 13.56, median score = 13, max score = 26, min score = 8, standard deviation of scores = 4.51.<br /><br />I am unsure if Professor Wang Hongbo will grant a curve for this course (he did mention doing so after the midterms). But relative to the teaching, the quizzes and the tests are difficult. 75 minutes for 31 multiple-choice questions is not enough, especially if you account for the fact that most of the questions are calculation-oriented. It&#039;s odd that he managed to get 75 minutes for the final exam when most exams are set to 3 hours as default.",
+      "comment_workload": "There are no assignments but there are five quizzes over the semester. Each quiz has 12 questions each and accounts for 6% of the final grade (each question is 0.5% of the final grade, total 30%).<br /><br />So in order to secure an acceptable grade, you must spend an hour or two every week studying and preparing for the quiz. <br /><br />Attendance accounts for 10% of the final grade. Every time you miss class, you lose 1%. He used iPRS for attendance most of the time, but he started using sign-up sheets for attendance in the final weeks (I don&#039;t think that worked either). If the class is in the morning like us (9 am Tuesday and Thursday), attendance may be a problem.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "M2y3rHPvXy1Jg1kgfkNeQQFi5kKwnBj5",
+          "name": "SOSC2400_syllabus v1-3",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

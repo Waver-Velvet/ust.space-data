@@ -1,0 +1,32 @@
+{
+  "course": {
+    "id": 3288,
+    "subject": "ECON",
+    "code": "5630",
+    "name": "Empirical Industrial Organization",
+    "description": "This course covers various econometric methods used in industrial organization that is often referred to as the structural estimation approach. These methods have been gradually developed since 1980s in parallel with the modernization of industrial organization based on the game theory and now widely applied in antitrust policy, business strategy, and neighboring fields such as labor economics and international economics. This course presumes a good understanding of PhD-level microeconomics and microeconometrics. Participants are expected to understand at least UG-level industrial organization. This course requires participants to write programs mostly in R and sometimes in C++ to implement various econometric methods.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2210,
+      2010
+    ],
+    "prerequisites": "",
+    "corequisites": "<a class=\"course-link\" data-subject=\"ECON\" data-code=\"5210\" href=\"/review/ECON5210\" target=\"_blank\">ECON 5210</a> AND <a class=\"course-link\" data-subject=\"ECON\" data-code=\"5300\" href=\"/review/ECON5300\" target=\"_blank\">ECON 5300</a>",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 4,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

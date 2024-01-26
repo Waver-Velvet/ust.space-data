@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 4152,
+    "subject": "ELEC",
+    "code": "6910Z",
+    "name": "Modern Solid State Devices",
+    "description": "This course aims to provide students with the up-to-date research and development progress of solid state devices and technologies in the 21st century, with a focus on emerging materials and physical phenomena of modern electronics and optoelectronics. Emphasis will be placed on the interdisciplinary nature of present solid-state research, bridging the gap between fundamental physics, materials science, and practical device engineering.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1643,
+        "name": "LIN, Yen Hung",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "ZqoOn0W9irWpYyi45k5rtcbLBPxXVbmG",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1643,
+          "name": "LIN, Yen Hung",
+          "rating": 1
+        }
+      ],
+      "author": "qzhangcr",
+      "date": "Sep 28, 2023",
+      "title": "NICE",
+      "comment_content": "The teacher is very nice and the class is lively！ I can learn a lot from the class.&nbsp;&nbsp;And the class just need a presentation and 3000-word essay.",
+      "comment_teaching": "The teacher is very nice and the class is lively！ I can learn a lot from the class.&nbsp;&nbsp;And the class just need a presentation and 3000-word essay.",
+      "comment_grading": "The teacher is very nice and the class is lively！ I can learn a lot from the class.&nbsp;&nbsp;And the class just need a presentation and 3000-word essay.",
+      "comment_workload": "The teacher is very nice and the class is lively！ I can learn a lot from the class.&nbsp;&nbsp;And the class just need a presentation and 3000-word essay.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

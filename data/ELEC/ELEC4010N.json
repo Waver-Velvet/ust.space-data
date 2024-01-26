@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 3645,
+    "subject": "ELEC",
+    "code": "4010N",
+    "name": "Artificial Intelligence for Medical Image Analysis",
+    "description": "Medical imaging is an essential component of the entire healthcare continuum, from wellness and screening to early diagnosis, treatment selection, and follow-up. This course will involve a deep dive into recent advances in AI in medical image analysis, focusing on deep learning approaches for disease screening and detection from medical images. Topics include in this course: Foundations of deep neural networks, foundations of medical images, and then study cutting-edge deep learning models in the context of a variety of healthcare data, including image, text, multimodal and time-series data. The course aims to provide students from diverse backgrounds with both conceptual understanding and practical grounding of cutting-edge research on AI in healthcare. This course will provide a broad overview of this field and the foundation techniques required to process, analyze, and use images for scientific discovery and applications.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230,
+      2130
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"COMP\" data-code=\"2011\" href=\"/review/COMP2011\" target=\"_blank\">COMP 2011</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012\" href=\"/review/COMP2012\" target=\"_blank\">COMP 2012</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012H\" href=\"/review/COMP2012H\" target=\"_blank\">COMP 2012H</a>) AND (<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2111\" href=\"/review/MATH2111\" target=\"_blank\">MATH 2111</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2121\" href=\"/review/MATH2121\" target=\"_blank\">MATH 2121</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2131\" href=\"/review/MATH2131\" target=\"_blank\">MATH 2131</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2350\" href=\"/review/MATH2350\" target=\"_blank\">MATH 2350</a>)",
+    "corequisites": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"4240\" href=\"/review/ELEC4240\" target=\"_blank\">ELEC 4240</a> OR <a class=\"course-link\" data-subject=\"ELEC\" data-code=\"4820\" href=\"/review/ELEC4820\" target=\"_blank\">ELEC 4820</a>",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1495,
+        "name": "LI, Xiaomeng",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "LuZzxtdso3hj0Hq5dxe4MiL2a7AS97EF",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1495,
+          "name": "LI, Xiaomeng",
+          "rating": 1
+        }
+      ],
+      "author": "GUO,JR",
+      "date": "Jun 07, 2022",
+      "title": "NO EXAM~",
+      "comment_content": "This is a very new course. Developing ideas based both on AI and deep learning. Very advanced topics are introduced.<br /><br />Topic 1. Course Introduction<br />Topic 2. Basic Vision models classification<br />Topic 3. Basic Vision models segmentation<br />Topic 4. Advanced Vision models 3D+Videos<br />Topic 5. Retinal Images + AI<br />Topic 6. Multi-modal data and Dermoscopy<br />Topic 7. Ultrasound and Pathology<br />Topic 8. CT MRI<br />Topic 9. Covid-19 and Unsupervised learning<br />Topic 10. Semi-supervised learning<br />Topic 11. Attention<br /><br />The basic part is for using the deep learning method. And the latter part is AI + Deep Learning. I think some students in BIEN or COMP can take this course if they are interested in the medical research area.<br /><br />If you are interested in some areas but not in the topics, you can ask the professor to arrange for you or talk to the professor directly.",
+      "comment_teaching": "Prof. LI gives lectures only on Friday for a long lecture session and we only have lectures once a week, pretty like some PG courses. She will answer all your questions clearly and precisely. Prof. LI will try to explain the course content and your problems in an easy understanding way. If you are interested in the course, please take it.<br /><br />TAs are very kind and reply to emails very fast. And you can ask them questions for assignments and projects. They will give you good idea for the assignment.",
+      "comment_grading": "Each Assignment is 20%. we have 3 assignments.<br />Project 40% and 8% of bonus.<br /><br />The final grading hasn&#039;t been released yet. But I believe as an advanced course. It will give a good letter grade here.<br /><br />And if you do all parts of assignments carefully, you will not get a low score.",
+      "comment_workload": "I would like to give a B on workload. Mainly because of homework 2. Which is really hard.<br /><br />Assignment 1 and assignment 3 are very easy you can finish within 1.5 hours to 6 hours. (From me and my friends).<br /><br />**Assignment 2: you need to implement 3 separate deep learning methods in segmentation, classification, and Video recognition, if you are a beginner, start this early and ask TAs frequently.<br /><br />Project: you need to implement 2 methods related to semi-supervised learning. Professor and TAs will give you a list of projects and you can choose from it. For this semester, most of us choose the 3D segmentation with Semi-supervised learning, which makes the presentation quite boring. And you need to group with another person to do the project. If you write the report clearly, you can get a high score.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 2,
+      "vote_count": 3,
+      "comment_count": 2,
+      "attachments": []
+    }
+  ]
+}

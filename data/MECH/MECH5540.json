@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 2333,
+    "subject": "MECH",
+    "code": "5540",
+    "name": "Precision Engineering",
+    "description": "Principles of precision engineering, 3D tolerancing for precision design, flexure and nano-positioning, interferometry for precision measurement, dynamic control for precision machining of engineering materials, ductile machining for brittle materials, applications and industrial practices.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2110,
+      1710
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "MESF 5560",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 578,
+        "name": "GAO, Yongsheng",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "pvVVztVgJyPc9W3edx02mnZNDswbdxno",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 578,
+          "name": "GAO, Yongsheng",
+          "rating": 1
+        }
+      ],
+      "author": "Ben Lee",
+      "date": "Jan 26, 2022",
+      "title": "Good course to learn while not being too heavy loaded",
+      "comment_content": "This course taught about precision engineering with focus in tolerancing, kinematics variation and cost of the manufacturing process to reach such tolerence. The reference book suggested in the course is a good book to learn about precision engineering which provides easy to understand explanation and an abundant of example. I am not an elite kind of student but I find the material interesting and will continue to read it if I have time.",
+      "comment_teaching": "The mode of teaching was real time hybrid lite (or simple names ) where we have on-compus teaching while people can also choose to use zoom. Lite mode does not offer much support to zoom students that is (you wont have aligned microphone from professor, proper camera to capture what professor wrote on the whiteboard and professor wont have time to reply to the zoom inquries. If you really want to learn things, you should read the reference book of the related topics and ask question. If you just want the credits, then you read the reference book of the topics related to the assignment.",
+      "comment_grading": "Got a B+. I think thats alright.",
+      "comment_workload": "You have a term paper to where you need to bring up a design and perform 2D-tolerancing analysis. Some matrix will be involved but they are fairely straight forward. You will be given enough time to do and consult on the term paper before deadline.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

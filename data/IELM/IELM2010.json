@@ -1,0 +1,777 @@
+{
+  "course": {
+    "id": 632,
+    "subject": "IELM",
+    "code": "2010",
+    "name": "Industrial Engineering and Modern Logistics",
+    "description": "This course provides an introduction to industrial engineering (IE). It comprises of two parts. The first part introduces basic IE analytical tools, such as optimization, game theory, probability and statistics, stochastic processes and simulation, at a conceptual level. In the second part, many of the IE practical concepts, including production and operations management, logistics and supply chain management, financial engineering, are introduced.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1710,
+      1610,
+      1510,
+      1430
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"IELM\" data-code=\"2200\" href=\"/review/IELM2200\" target=\"_blank\">IELM 2200</a>",
+    "rating_content": 4.63,
+    "rating_teaching": 4.37,
+    "rating_grading": 4.26,
+    "rating_workload": 4.42,
+    "review_count": 19,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 948,
+        "name": "WANG, Xin",
+        "count": 10
+      },
+      {
+        "id": 356,
+        "name": "JONEJA, Ajay",
+        "count": 9
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "ozwfQFhSZWQTgs4v91voWkrIrvIxLJqw",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 948,
+          "name": "WANG, Xin",
+          "rating": 0
+        }
+      ],
+      "author": "Burakceresa",
+      "date": "Jan 31, 2018",
+      "title": "Would not recommend it for freshmen.",
+      "comment_content": "1. game theory <br />2. inventory management <br />3. project management <br />4. revenue management <br />5. waiting line analysis <br />6. demand forecasting <br />7. productivity and process analysis <br />8. process selection <br />9. introduction to financial engineering<br />10. optimization<br /><br />To be honest, tutorials are garbage.<br />Attended most of them, but in the end, it doesn&#039;t make any difference because the only thing that matters is the assignment.",
+      "comment_teaching": "I did not find the teaching as great as most students found it.<br />I felt like he was only reading the lecture notes.<br />TAs are willing to help, so whenever you feel confused, go to their offices.",
+      "comment_grading": "Midterm was easy. Mean for the midterm was pretty high.<br />Final will be harder involving more probability concepts which resulted in a lower mean.",
+      "comment_workload": "You only need to do the assignments and work the sample papers given before exams.<br /><br />You will have 6 assignments, but in the end, only the best 5 grades will be counted.<br /><br />I would not recommend this course to a freshman.<br />I took it during my first year, and I had a hard time to understand certain concepts.<br />I took it because it was the only introductory course about industrial engineering and was pre-enrolled in it.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "6SUk98N6VJOsCYw52UBXeVvJCBWEoqyN",
+          "name": "Lec 1 Intro to IE",
+          "format": "pdf"
+        },
+        {
+          "key": "8VDnlFFydcNCqaQiSXbjV0v2CYc85Ux2",
+          "name": "Lec 3 Game Theory",
+          "format": "pdf"
+        },
+        {
+          "key": "LBydSXlVsBBm2lyBF020pgRbSdQxaqdS",
+          "name": "Lec 4 Probability Basics",
+          "format": "pdf"
+        },
+        {
+          "key": "4ShhOVNfrjlxzQVr1YrdL7ZvfrWh2WUn",
+          "name": "Lec 5 (a) Productivity and Process Analysis",
+          "format": "pdf"
+        },
+        {
+          "key": "Edp6LVSO2eSzQ6AUQjsC0OeU61gzLGev",
+          "name": "Lec 6 (a) Midterm Review",
+          "format": "pdf"
+        },
+        {
+          "key": "3qrChybQuYOA1Ezrsy6T0LcUR0dxUpMz",
+          "name": "Lec 7(a) Waiting Line Analysis",
+          "format": "pdf"
+        },
+        {
+          "key": "5N7zMjDpT1KfFkRm7dxXbuc6NNqdEAux",
+          "name": "Lec 7(b) Waiting Line Analysis",
+          "format": "pdf"
+        },
+        {
+          "key": "QoHiSfTRriHllXBuiUvsROOMWSyo40Ph",
+          "name": "Lec 8(a) Inventory Management",
+          "format": "pdf"
+        },
+        {
+          "key": "lKQsCmQaJAsLVQyzoA7qxofsQriS7rr9",
+          "name": "Lec 8(b) Inventory Management",
+          "format": "pdf"
+        },
+        {
+          "key": "tpAUxWsJZWvkAsCCXilVI9L7CjcI2Csz",
+          "name": "Lec 8(c) Inventory Management",
+          "format": "pdf"
+        },
+        {
+          "key": "skold8QUurSCsRg9SFJ0JnVB6o51AQE0",
+          "name": "Lec 9 Revenue Management",
+          "format": "pdf"
+        },
+        {
+          "key": "9pZZKlfYOLusl4KGDJVjHjLkUXmff0BK",
+          "name": "Lec 10 Supply Chain Management",
+          "format": "pdf"
+        },
+        {
+          "key": "y9ysllTjuawisvKseSZgRg6hx9SlMXiv",
+          "name": "Lec 11 Project Management",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "Y5QV6wfV0zja3QKI6Qm4eWxOQh01MEFi",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 948,
+          "name": "WANG, Xin",
+          "rating": 1
+        }
+      ],
+      "author": "ustpeople",
+      "date": "Jan 25, 2018",
+      "title": "",
+      "comment_content": "Introduction to <br />1. game theory <br />2. inventory management <br />3. project management <br />4. revenue management <br />5. waiting line analysis <br />6. demand forecasting <br /> 7. productivity and process analysis <br />8. process selection <br />9. introduction to financial engineering<br />10. optimization",
+      "comment_teaching": "His teaching is really good. Clear explanation with some real life examples, sometimes showing videos for student to have better understanding.Prof prefers the class to be more interactive. Students are not allowed to use any electronic devices during the lecture.",
+      "comment_grading": "The mean for midterm is really high 32/40 with standard deviation of 4. For final, the mean is 29/40. Overall, the examination papers are considered to be easy, as long as you understand the logic and do all the assignment. Sample questions and past year papers will be provided before examination to prepare students for the test. Grading is okay but it is really competitive as everyone score really well. One double-sided handwritten cheat sheet is allowed for midterm and final.",
+      "comment_workload": "6 assignments in total, 3 before midterm and 3 after midterm. The questions in the assignments are sometimes quite challenging and require some critical thinking.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "z0SE14UwdO8ubiEzdQagvnreo1bojCpW",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 948,
+          "name": "WANG, Xin",
+          "rating": 1
+        }
+      ],
+      "author": "helloooo",
+      "date": "Jan 19, 2018",
+      "title": "Good",
+      "comment_content": "Interesting content, very similar to ISOM2700 but a simpler version",
+      "comment_teaching": "Boring voice, and 9am lessons are bad<br />The powerpoint slides are quite clear and include all content for midterm and final (no need extra stuff)",
+      "comment_grading": "Grading is quite good <br />Mean is high<br />Midterm and final is equal weighting and one mark accounts for one percent in your grade, so need to be extra careful<br />Attendance is not taken and the lectures are not useful, you can read the slides and still get high marks<br />Assignments are easy",
+      "comment_workload": "Light workload, assignments need little time to complete",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "tQifBqz2Yn5hemaQ8H85YoEm5Jkoqpdq",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 948,
+          "name": "WANG, Xin",
+          "rating": 1
+        }
+      ],
+      "author": "nerd",
+      "date": "Jan 16, 2018",
+      "title": "",
+      "comment_content": "- Game Theory<br />- Probability<br />- Wait line analysis<br />- Revenue management<br />- Demand forecasting<br />- Financial Engineering etc..<br />A lot of topics are included but the content are not complicated",
+      "comment_teaching": "Prof Wang teaches with passion and his slides are very clear and detailed. He usually can explain the concepts in a clear way.",
+      "comment_grading": "Grading is very good <br />Just do the assignment carefully and hand it in on time<br />Midterm is quite easy, but the final is quite difficult..<br />In final exams, prof included different topics in the same questions which you may find it difficult to pick the right equation. Besides, a lot of conceptual questions are asked in finals which calculations are not required but you need to explain in words.( This part is quite challenging since he didn&#039;t cover that in lecture)",
+      "comment_workload": "Workload for assignments is quite low<br />but you are required to WRITE a double-sided A4 cheatsheet in both midterm and final.. (which spent me quite a lot of time on that)<br />Just 6 assignments throughout the semester, no project, no presentation",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "plIZ6KzgsGAI3ftt4qzviQJn4oSAeB3C",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 948,
+          "name": "WANG, Xin",
+          "rating": 1
+        }
+      ],
+      "author": "JamieWei",
+      "date": "Jan 09, 2018",
+      "title": "",
+      "comment_content": "Introductions of <br />Game Theory, Process Analysis, Supply Chain, Queueing Theory, Inventory/Revenue/Project Management, Demand Forecasting<br />Only introducing few simple concepts about each topic.",
+      "comment_teaching": "The instructor was good, passionate, and willing to answer questions. Sometimes even told some jokes. <br />One of the TA(Terence) was good. He explains concepts and problems clearly.",
+      "comment_grading": "Fair. <br />Assignment 15%<br />Midterm 40%<br />Final 40%<br />Class Participation 5%",
+      "comment_workload": "Assignments were quite easy at first but became harder in the last few ones. Best to double check with others. <br />Midterm was ok but kind of tricky.<br />Expected Final to be really hard but it turned out fine.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "YTavdLo34WUqwXTwF9MWJi69Q5jeE1uD",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 948,
+          "name": "WANG, Xin",
+          "rating": 1
+        }
+      ],
+      "author": "Ericv",
+      "date": "Nov 22, 2017",
+      "title": "Great Class",
+      "comment_content": "Class was great, content not too bad. Midterm easy. Final expected to be reasonable. Allowed to have sheet of paper for tests.",
+      "comment_teaching": "Great lecturer. No phones or computers allowed. The second one can be a hit bothersome if you like to use your laptop for the slideshow. So you must print the slides before coming to class. I typically use a tablet to make notes on my slides, so I found this to be a bit annoying that I had to start printing.",
+      "comment_grading": "Grading is fair. Midterm average was around 80.",
+      "comment_workload": "Not much work. 5 homeworks, all relatively simple.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ZjfwMoeNoYNMwZKlzJNXcDCda8f9661v",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 948,
+          "name": "WANG, Xin",
+          "rating": 1
+        }
+      ],
+      "author": "JamesW",
+      "date": "Jun 02, 2017",
+      "title": "",
+      "comment_content": "This course provides an introduction to industrial engineering (IE). It comprises of two parts. The first part introduces basic IE analytical tools, such as optimization, game theory, probability and statistics, stochastic processes and simulation, at a conceptual level. In the second part, many of the IE practical concepts, including production and operations management, logistics and supply chain management, financial engineering, are introduced",
+      "comment_teaching": "The instructor was responsible and passionate. He explained the concepts slowly and clearly. This was his first year of teaching this course but he seemed experienced. I really enjoyed attending his classes. He explained the content very well and covered the topics in a very interesting and engaging manner. The TAs were also responsible as well.",
+      "comment_grading": "Fair.&nbsp;&nbsp;Examinations accounted for a large portion of the final grade. Exam questions were similar to the homework problems. If you make a mistake in your homework, make sure you don&#039;t repeat your mistake in your finals.<br /><br />Both midterm and final exams are closed book and closed notes. However, you could bring along a double sided A4 cheat sheet.",
+      "comment_workload": "There were a total of 6 assignments. Only the best 5 will be counted towards your grade. They were generally not difficult and most of the answers could be found in the power points. No late homework is accepted. The hard copy of the homework had to be submitted to the<br />collection box before 5pm of the due date. There was also one pop quiz.<br /><br />Remember to write your cheatsheet clearly. Also, you can memorize some equations or some key points about the advantages and disadvantages of using such equations.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "rlyqeMMSQ96B8N65eyJcrWVS3eF1iTN6",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 948,
+          "name": "WANG, Xin",
+          "rating": 1
+        }
+      ],
+      "author": "butter New fly",
+      "date": "Feb 01, 2017",
+      "title": "Basic and useful course",
+      "comment_content": "This is an introduction course and the content is very easy to understand and much related to real life. The course features on linear optimization, game theory, probability, process analysis, queueing theory, supply chain and inventory management, revenue management and project management. Before midterm it is very easy but after midterm there is much more memorization. Also this course utilizes a little bit of math.",
+      "comment_teaching": "The teacher is very very responsible and make huge effort to make the class atmosphere lively. We even played some games in some classes. Tutorial quality varies, actually no need to attend, just go through the tutorial slides is enough.",
+      "comment_grading": "Assignment: 15%<br />Class participation: 5%<br />Mid-term Exam: 40% <br />Final Exam: 40% <br /><br />There are a total of six assignments, and the best five are counted. Assignments varies in difficulty, but there are two weeks for each exam and classmates to work together with. <br />Mid-term is very easy, very similar to the sample paper. 10 out of 100 something people got full mark in midterm. <br />Final is not easy, rather comprehensive.",
+      "comment_workload": "The workload is very light, only one homework every two weeks.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "SARykmqOQj0NjKzHYS1vKYXcjGBNmp6J",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 948,
+          "name": "WANG, Xin",
+          "rating": 1
+        }
+      ],
+      "author": "ransacker69",
+      "date": "Jan 22, 2017",
+      "title": "Interesting course which is less like your typical engineering course",
+      "comment_content": "Good content with interesting topics covered.",
+      "comment_teaching": "Instructor is very good. I enjoyed attending his classes. He explained the content very well and covered the topics in a very interesting and engaging manner.",
+      "comment_grading": "Grading is okayish. Since the mean goes very high you have to do well to ensure a good grade. Can&#039;t afford slip ups. Both mid term and final have equal weightage and are of only 40 marks, so when converted to percentage every mark means 2.5% of that exam, so a small mistake may cost you. Class participation also carries additional weightage.",
+      "comment_workload": "Workload is acceptable. 6 homeworks in total to be submitted as hard copies (to be posted in letterbox) out of which the best 5 are counted. One pop quiz took place in class that I missed. Otherwise not much. It&#039;s manageable.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Oyc5Rixc8yB8ajkofdoXAy4xo6vFCctD",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 948,
+          "name": "WANG, Xin",
+          "rating": 1
+        }
+      ],
+      "author": "Leonard",
+      "date": "Nov 23, 2016",
+      "title": "A good common core course for business students",
+      "comment_content": "An introduction course to industrial engineering. It covers a wide range of basic IE knowledge which is mostly conceptual. In terms of the mathematical part, there are some fundamental math models that students need to handle, such as linear programming. Moreover, this course is generally similar to the OM in business, and it introduces many business examples. Therefore, it is a good common core course for business students.",
+      "comment_teaching": "The instructor is new this year but experienced as well as passionate. He will reply questions in e-mails very soon and is willing to communicate with students after lectures. The only drawback is that his expression is not that clear.",
+      "comment_grading": "Assignments and exams are both tightly related to the problems in notes. To get good grades, students only need to get familiar with the contents in notes instead of reading any extra materials.",
+      "comment_workload": "As mentioned in &quot;grading&quot; part, just follow the instructor and everything will be OK.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "yMLWexhp3PvDViksZxDIRs4sg95MlKrC",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 356,
+          "name": "JONEJA, Ajay",
+          "rating": 1
+        }
+      ],
+      "author": "Cecilia Cheng",
+      "date": "Aug 20, 2016",
+      "title": "",
+      "comment_content": "Exam I (2 hours): 40%; Homeworks: 15%; Reading report: 5%; Exam II (2 hours): 40%; Bonus of up to 3% based on participation.",
+      "comment_teaching": "Ajay is nice and outgoing. However, for Hong Konger, I think it is rather difficult to understand his accent. TA is helpful. In the course, it will include some basic knowledge about maxflow, simplex solver and quene theory. However, no prior complicated math theory is required.",
+      "comment_grading": "It is rather easy to get a good grade if you attended the lessons.",
+      "comment_workload": "The workload is moderate. It simply have 2 examination 2 assignment and one book report. The homework is short and easy.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "R6QNY6trpb09isSVxzVDst1HrV9Sc9ye",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 356,
+          "name": "JONEJA, Ajay",
+          "rating": 1
+        }
+      ],
+      "author": "Hongseo",
+      "date": "Jan 26, 2016",
+      "title": "",
+      "comment_content": "The content of the course was interesting. Professor introduced some concepts of logistics, storage management, queues, etc. Although there were some concepts that were a little hard to comprehend, the contents of the course were all suitable for people who learn about IELM for the first time.",
+      "comment_teaching": "Professor&#039;s teaching was very good. He explained the concepts very clearly and humorously, providing a lot of examples. The tutorials were helpful to enhance my understandings of the course materials as well.",
+      "comment_grading": "The grading of this course was good overall. There wasn&#039;t much assignment or work that are graded towards the final grade, so I had to be careful not to make small mistakes, but the contents of the assignments were all appropriate and clear as they were similar to the questions and examples discussed in the class. The exam questions were also similar to the homework assignment questions.",
+      "comment_workload": "The workload was not heavy for this course. There were 5 homework assignments, one book report and two exams. Professors and TAs were helpful when I encountered difficult problems on the homework assignments and there was a plenty of time to complete the book report.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "fWYddsUwUOulDw6B8pTsSQ2RonFgzNTl",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 356,
+          "name": "JONEJA, Ajay",
+          "rating": 1
+        }
+      ],
+      "author": "Kristian",
+      "date": "Jan 22, 2016",
+      "title": "",
+      "comment_content": "The course materials are interesting and enjoyable. They are rather useful and shows the basics of what you will learn in more advanced IELM courses. The first half of the term covers the easier parts of the course, but after midterms&nbsp;&nbsp;the course materials consists of probabilistic materials and are harder to understand.",
+      "comment_teaching": "The teacher teaches very slowly and really helps us in understanding the course material. However this might get repetitive really quick and you will get bored in class. Especially as he often does reviews of what the class learned on the previous lecture.",
+      "comment_grading": "I would say grading is standard. If you want to get A range you need to get at least mean SD and do all the assignments. Participation in class helps with up to 3% extra points for your total grade.",
+      "comment_workload": "Total of five assignments over the whole course, and a 1000 word book report. Not too much work is expected from you. The teacher is quite strict with time deadlines but&nbsp;&nbsp;all the assignments are easy and can be finished in a very small amount of time.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "pM8krDcW2HiSsYVwigbJsR9p8Yyz823j",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 356,
+          "name": "JONEJA, Ajay",
+          "rating": 1
+        }
+      ],
+      "author": "hs",
+      "date": "Jan 22, 2016",
+      "title": "",
+      "comment_content": "Content:<br />-IELM history<br />-Minimum spanning trees<br />-Dijkstra<br />-Max flow min cut<br />-Linear programming<br />-Probability &amp; statistics<br />-Managing inventory / Newsvendor model<br />-Queues<br /><br />Format: <br />Biweekly lectures where the professor covers about one topic per lecture. Weekly tutorials where the TA clarifies the lecture topic and answers any questions students have.<br /><br />Assignments:<br />-5 assignments submitted through canvas about the lecture topics. The questions are pretty reasonable in terms of difficulty, as long as you pay attention in class.<br />-A book report from a suggested book list (the professor is very specific about what structure he wants, so it&#039;s just a matter of following his formula)<br /><br />Attendance:<br />-No attendance requirement for lectures/tutorials",
+      "comment_teaching": "One of the better professors at HKUST. He&#039;s very enthusiastic about the content, and it rubs off on his students. His teaching style is entertaining yet efficient, so it&#039;s easy to stay alert in his class. The TA also knows his stuff and will help with any homework problems you might have.",
+      "comment_grading": "Grading is very reasonable. For the homework assignments, don&#039;t be scared if you make a few mistakes on them. According to the professor, he hopes that we&#039;ll make mistakes on the homework so that we won&#039;t on the exam. Anything not covered in the homework will not be on the exam. <br /><br />Weighting for the exam is very fair. At the start of the course, he&#039;ll give you an opportunity to suggest changes to the weighting system if you dislike it.",
+      "comment_workload": "Medium homework load. One assignment every one to two weeks. The problems themselves aren&#039;t too difficult, they just require a bit of thought. Usually there are four to five questions per assignment.<br /><br />You have the entire semester to write the book report, so it isn&#039;t a problem.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "rX8TbX15BY897Ssoxd6nej5nBA8R14YP",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 356,
+          "name": "JONEJA, Ajay",
+          "rating": 1
+        }
+      ],
+      "author": "Anonymous D",
+      "date": "Jan 15, 2016",
+      "title": "",
+      "comment_content": "A very good taste of the Industrial Engineering degree. First stage of the course consists of deterministic processes; minimum spanning tree, linear programming, etc. Second stage of course consists of stochastic processes such as queuing theory, inventory control, and quality control.",
+      "comment_teaching": "Fairly paced with clear delivery. Ajay is passionate in delivering the course content, chooses the material nicely. Just pay attention in classes and can do well in course.",
+      "comment_grading": "Fairly lenient with the grading.",
+      "comment_workload": "Not much workload, homeworks can give adequate practice if concepts are learned properly.<br />5 homeworks, 1 mid term, 1 final exam, and 1 book report.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "PJG4QBtpysteWeu4oeC86KqD9XocdZvp",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 356,
+          "name": "JONEJA, Ajay",
+          "rating": 1
+        }
+      ],
+      "author": "Eric Chan",
+      "date": "Jan 04, 2016",
+      "title": "",
+      "comment_content": "The first half of the course is about graphs, finding the minimum spanning tree, shortest path,maximum path inside a graph and also&nbsp;&nbsp;simplex method(system of linear equation). Most of it is not that difficult. The second half of the course mainly focus on statistic, learning about probability destiny function, sample checking, inventory, queues. The second half is much more difficult than the first half if you haven&#039;t study statistic before like me.",
+      "comment_teaching": "Ajay&#039;s teaching is slow pace and a bit boring. But he is quite passionate and he is willing to answer student&#039;s questions. The lesson before the mid term he used the whole lesson to answer student&#039;s questions. The tutorial is mainly about extra information of the lecture. It is not really useful for the assignment or exam but for your own interest.",
+      "comment_grading": "The exams&#039; topics are independent and the weighting of two exams is the same. Both exam is not that difficult compared to the assignment. However the curve will be higher so you need to be more careful in order to get a better grade. The grades of homework also weights about 10-15% so you should get at least 90% to get a good grade.",
+      "comment_workload": "This course have 5 assignment and a book report. Each assignment contains about 3-4 questions that is about the previous taught topic. It takes about 1-3 hours to finish each of them according to your understanding on the topics. You also need to hand in a book report before the final exam. You need to choose a book inside the book list provided. The topic of the books are around IELM.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "p83JPk9EyRvTJ44GuAbQg5gNY5aqQlze",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 356,
+          "name": "JONEJA, Ajay",
+          "rating": 1
+        }
+      ],
+      "author": "lordsonkit",
+      "date": "Dec 09, 2015",
+      "title": "",
+      "comment_content": "Introduction to IE and LM, before mid-term will be deterministic problems, and will teach non-deterministic stuff like pdf, distribution, etc.",
+      "comment_teaching": "A bit boring and slow-paced, still he explains concept clearly.",
+      "comment_grading": "Good for assignments, as long as you have listed out the main focus of the question, having the correct approach, there is at least 50% of the mark. <br />For exam, it&#039;s fair a long as you revise the concept. There is a small cheat sheet with some equations so you don&#039;t need to remember them all<br />Mean 72.2%, 80.2% -&gt; B+",
+      "comment_workload": "There are total of 5 assignments and 1 book report for the course. They are not too difficult. There are some buffer (with slight mark penalty, up to one week) that Ajay gives for late submission.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "0hbAkGI3WAAL6BDLeVjKa4iwSQWOnOGU",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 356,
+          "name": "JONEJA, Ajay",
+          "rating": 1
+        }
+      ],
+      "author": "vs",
+      "date": "Aug 25, 2015",
+      "title": "Engaging, passionate prof",
+      "comment_content": "Sound introduction to the principles of IE, incl. network analysis, basic probability, inventory management, engineering management fundamentals. Basic, meaning not much maths or theory presented at all [the most maths was differentiating a two-variable calculus equation during inventory management]. Dragged on a little bit though, AJ could have sped up the pace of his discussions.",
+      "comment_teaching": "AJ is the undergrad course coordinator for IELM: if you want to know more about IE/if you&#039;re interested in pursuing IE would be a good chance to get introduced to both him and the subject. Can get monotonous and boring at times, but not too often...try not to zone out [try]. He&#039;s obviously very passionate about his trade. His teaching leaves somewhat to be desired however - a lot of the actual learning process you have to carry out by yourself. Check out his ihome.ust.hk page for typed PDF notes for [almost] every chapter.",
+      "comment_grading": "Fair. Try to be consistent, and to do well in both HWs and exams. Don&#039;t be like me and make stupid mistakes on exams [non cumulative, 40% weighting each] and f*k your grade up. The book report is a good chance to read some relevant content. Actually read the book!",
+      "comment_workload": "Pretty light. As long as you get your homework assignments [of which I think there were around 5 or 6? Maybe 7?] done in time, no biggie. He gives you until the very end of the day to submit your assignment. Make use of the TA if you can/should you wish to, I guess. I thought he was an arrogant not-so-helpful a** most of the time.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "JiLFD6IJATWo2mWGnY0qpiu3bklwlHWL",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 356,
+          "name": "JONEJA, Ajay",
+          "rating": 1
+        }
+      ],
+      "author": "Karim",
+      "date": "Aug 25, 2015",
+      "title": "",
+      "comment_content": "The course is meant for an introductory look into Industrial Engineering, and through the courses introduces some topics of the many topics that one would study if you pursue the major. The topics that were introduced were logistics management, Operations management, and probabilistic problem solving. Although, there is math involved in this course, it is at a very basic level, and is just used to prove, as the lecturer puts it &quot;that you have the most perfect answer&quot;.",
+      "comment_teaching": "The lecturer is definitely very passionate about the subject, this does make you want to listen and learn. He also tries to make sure everyone is engaged by asking questions many times, so that he can teach you though guiding your thought process, rather than everyone following his. He does go off topic sometimes, but with the aid of the TA(terrence) he would make sure the tutorials were succinct and would explain anything if you had any queries. Therefore the staff of the course are very good.",
+      "comment_grading": "I would say the grading is very fair, and is split between weekly/bi-weekly homework assignments, mid-term, final and a book report. Heavier weights are put on the examinations, as they use the homework as a learning method for you to make mistakes so that you won&#039;t make them in the exam. I personally did not score well in the homework assignments, as I had made many mistakes. But, I didnt make them in the examinations, and did well in them. The TA does nitpick quite a bit, with the homeworks, and the examinations as he wants you to make your answers clear and therefore prefers that you use math, to explain your answers.",
+      "comment_workload": "The workload is defiantly manageable, since attendance is not required, but I would recommend them. Or at least the tutorials as they are essential. The book report is nice, and although looks daunting, is not as long as you don&#039;t try to read the book in one night. The homework assignments are not very long either, you spend maximum of an hour to make them perfect. The exams are non-culumitive as well. Therefore when you start revising, you&#039;ll realise there isn&#039;t much to revise. Which illustrates my point that the workload is light, and stays light through the semester.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 2,
+      "attachments": []
+    }
+  ]
+}

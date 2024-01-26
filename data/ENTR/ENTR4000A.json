@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 1564,
+    "subject": "ENTR",
+    "code": "4000A",
+    "name": "Global Product Development for Successful Technology Startups",
+    "description": "Joint lecture and project-based course on global product development through a global and interdisciplinary team approach among three institutions in Beijing, Hong Kong and Seoul. This course requires students to go out into global society and industry companies beyond (China, Hong Kong, Korea) for seeking and defining a global user-centered design problem by themselves, to develop the engineering design alternative to solve it, and then to build a working critical function prototype. Through the course, students will cultivate the ability of “global first movers,” who can develop a product and technology which has not existed before. This course requires to execute a design project by composing a global and interdisciplinary design team, which consists of students from the three universities. Students will collaborate through online tools as well as 3 face-to-face meetings throughout the semester in the three respective campuses. This course provides various lectures such as marketing, industrial design, patent law, creative thinking, conceptual design methodology, and case studies in problem creation. Cross-college faculty patent attorney, external experts provide individual and team mentoring for student projects. Graded P or F.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1710,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 894,
+        "name": "LEUNG, Suk Wai Winnie",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "4BH34YBlAxLeV961uXtG7iKRoFPvqwiw",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 894,
+          "name": "LEUNG, Suk Wai Winnie",
+          "rating": 1
+        }
+      ],
+      "author": "clarko",
+      "date": "Mar 10, 2020",
+      "title": "Absolutely Amazing",
+      "comment_content": "The content is organised by BUAA, SNU and HKUST. It offers brief explanations of key focus points of product development, product design and entrepreneurship. However, keep in mind, most of this course is focused on you getting into a team, finding a pain point in a market, and then actually building and presenting your idea. There is abundant help along the way but most of the content you learn will be on the job working on your idea.",
+      "comment_teaching": "The teaching, in my opinion, was good, but I valued the mentorship much more. A portion of this course will be via online teaching as professors in other universities will teach you things which are relevant to their domain. My word of advice is, ask as many questions as you can, only through this way will you learn more!",
+      "comment_grading": "The grade is generally quite well received from all the people I spoke to from the course. As long as you put in the work and did not slack for group meetings you will have achieved something which your grade will reflect. This is not a traditional course on finals and midterms. You need to come up with a sensible product and properly present it in front of panellists and a large audience.",
+      "comment_workload": "The workload is relatively intensive as you have to consistently be present in group meetings and pull your weight. Hopefully you are joining this course for your genuine interest and if this is the case, you will thoroughly enjoy the process of working in this course as you will have a physical representation of your hard work. Also you will be travelling all around Asia (Korea, Beijing, Shenzhen) to do this course, so as long as you enjoy the work, it is an amazing course.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "course": {
+    "id": 2320,
+    "subject": "MATH",
+    "code": "4992",
+    "name": "Capstone Project in Applied Mathematics",
+    "description": "This is a project-based course that provides students an opportunity to integrate and apply mathematical tools to analyze problems in applied mathematics. Specific topics will be chosen by the instructor. For MATH students in their fourth year of study only.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"3312\" href=\"/review/MATH3312\" target=\"_blank\">MATH 3312</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"4991\" href=\"/review/MATH4991\" target=\"_blank\">MATH 4991</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"4993\" href=\"/review/MATH4993\" target=\"_blank\">MATH 4993</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"4994\" href=\"/review/MATH4994\" target=\"_blank\">MATH 4994</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"4999\" href=\"/review/MATH4999\" target=\"_blank\">MATH 4999</a>",
+    "rating_content": 4.75,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 3.5,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 527,
+        "name": "KU, Yin Bon",
+        "count": 4
+      },
+      {
+        "id": 535,
+        "name": "LEUNG, Shing Yu",
+        "count": 4
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "NC6E2K4Lswbq9IMpT4PTVFVcd2Ir2ShR",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 535,
+          "name": "LEUNG, Shing Yu",
+          "rating": 1
+        },
+        {
+          "id": 527,
+          "name": "KU, Yin Bon",
+          "rating": 1
+        }
+      ],
+      "author": "Peipar",
+      "date": "Dec 21, 2023",
+      "title": "Great Experience",
+      "comment_content": "Lecture 1: Introduction to capstone project<br />Lecture 2: Examples of projects<br />Lecture 3: How to write report and give presentation<br />Tutorial 1: LaTex<br /><br />The lectures help you get some ideas, and understand the professors&#039; expectations.<br /><br />You can do any topic, but the focus should be on using applied/numerical/computational mathematics techniques.",
+      "comment_teaching": "You will be assigned one of the professors for meetings. Mine was Professor Tim (Leung Shing Yu).<br /><br />He was very helpful and willing to guide me throughout the project, so definitely suggest you to exhaust any and all questions during the meetings, including any random ideas, as he always gave some good feedback.",
+      "comment_grading": "1. Project Proposal (10%)<br />2. Weekly Progress x7 (20%)<br />3. Meeting Reflections x3 (10%)<br />4. Presentation (30%, median 16.58, max 25.03)<br />5. Report (30%, median 18.00, max 24.75)<br /><br />A+ = 80%<br />A = 70%<br />A- = 65%<br />B+ = 56%<br />B = 53%<br />B- = 50%",
+      "comment_workload": "Really depends on you.<br /><br />Presentation:<br />1 person = 8 mins<br />2 people = 13 mins<br />3 people = 18 mins<br /><br />Report:<br />1 person = 6 pages<br />2 people = 8 pages<br />3 people = 10 pages",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "qriohSqxR671k62ewRQECCKBVdD9KWfU",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 535,
+          "name": "LEUNG, Shing Yu",
+          "rating": 1
+        },
+        {
+          "id": 527,
+          "name": "KU, Yin Bon",
+          "rating": 1
+        }
+      ],
+      "author": "QazwerJG",
+      "date": "Jan 25, 2022",
+      "title": "Best Course Ever IN MATH",
+      "comment_content": "You need to develop the whole content of the course. The topic is decided by you.",
+      "comment_teaching": "The prof will teach you about how to write a good essay and the basic latex skills that you will use in the project. <br /><br />The prof will have meetings with your group several times, if you face any problem you can feel free to have an extra meeting during the semester.",
+      "comment_grading": "The grading is extremely good as when my group is having some content that is not related to the topic, we are still getting B+ grading.<br />The presentation and essay are both on the mean.",
+      "comment_workload": "If your group is not having any free-rider, the workload is very light.<br />You just need to do your work every week for a good result.<br />DO NOT TRY TO DO YOUR WORK ON DEADLINE.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "k6dLdUPN3quVpytck2m1x44NU64D4Nsc",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 535,
+          "name": "LEUNG, Shing Yu",
+          "rating": 1
+        },
+        {
+          "id": 527,
+          "name": "KU, Yin Bon",
+          "rating": 1
+        }
+      ],
+      "author": "youth222",
+      "date": "Dec 28, 2021",
+      "title": "Good experience for MATH students",
+      "comment_content": "Lectures and tutorials in the first few weeks, then have meeting with prof twice. <br />--------------------------------------------------- <br />This course mainly depends on your interest and how much time you spend on doing your project. <br />You can do whatever you want, as long as it&#039;s related to mathematics (how you interpret your topic) <br />For myself, I did something that is related to a numerical course under IEDA, in which MATH dept does not offer any similar course. <br />Therefore, it was a good experience for me as I can learn what I want, fulfill my graduation requirement, and most importantly, increase my CGA. (see grading part)",
+      "comment_teaching": "I think they are top 2 kindest people in MATH department. They are willing to answer your questions, and do not mind answering stupid questions",
+      "comment_grading": "The score of the task was quite low generally, but the letter grade turned out to be nice. <br />Apart from honor course, I can say this is best grading course among MATH. <br />As I know, Mean=B+<br />I think it&#039;s not difficult to score mean, as long as you build your ideas/perception reasonably and thoroughly. (i.e. to score high, you do not need to be perfect, you can allow something remain unsolved --&gt; Remember: this is just a capstone rather than FYP)<br />Spend some time every week. Try your best to do the project !!",
+      "comment_workload": "3 Easy assignments, and weekly project progress.<br />The workload of the 2 main components: presentation and report -&nbsp;&nbsp;Depends on how much time you spend.<br />--------------------------------------------------- <br />You can form group of 1/2/3<br />Presentation: <br />1 student&nbsp;&nbsp;: 8-10 mins<br />2 students: 13-15 mins<br />3 students: 18-20 mins<br /><br />Report:<br />6 pages -- 1 student<br />8 pages -- 2 students<br />10 pages -- 3 students<br />--------------------------------------------------- <br />I am a one-person group, I spend about 1-1.5 hour per week to build up my ideas and I think it is acceptable. As I am doing it continuously, I do not find it harsh during the end of the semester.<br /><br />Unless you are god, I guess most people will stuck in some stages, so better not to leave everything till the deadline. <br /><br />If you are doing what you are really interested in, I don&#039;t think you will find it time consuming, but rewarding and satisfying.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "9Pz9hkILXhW7mjn6IdzTjYmCBZIX021m",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 535,
+          "name": "LEUNG, Shing Yu",
+          "rating": 1
+        },
+        {
+          "id": 527,
+          "name": "KU, Yin Bon",
+          "rating": 1
+        }
+      ],
+      "author": "HungSimon",
+      "date": "Dec 28, 2021",
+      "title": "Applied Math Capstone Project",
+      "comment_content": "This course is consisted of four lectures which are all three hours long and two tutorials. Prof. Leung is responsible for lectures and Dr. Ku is responsible for the tutorials. <br /><br />Lectures and his notes give you the ideas for topics. Then think a applied math topic to be your capstone project. <br /><br />Tutorial is all about LATEX and MATLAB. LATEX is for typing and generating your FYP and MATLAB is just for learning. You can pick other programming language for the FYP.",
+      "comment_teaching": "Two lecturers are quite clear for explanation of course requirement. Beside, the canvas page is designed well. Just follow the deadline and instructions. <br /><br />Prof. Leung and Dr Ku are nice guys. Feel free to ask for recommandation for your project.",
+      "comment_grading": "The total grade is composed of the following elements. <br />1. HW: Mathematical Model&nbsp;&nbsp;&nbsp;&nbsp;7.5 / 10<br />2. HW: for MATLAB&nbsp;&nbsp;&nbsp;&nbsp;10 / 10<br />3. HW: for LaTeX&nbsp;&nbsp;&nbsp;&nbsp;10 / 10<br />4. Proposal&nbsp;&nbsp;&nbsp;&nbsp;7 / 10<br />5. Project Progress&nbsp;&nbsp;&nbsp;&nbsp;20 / 20<br />6. Final Presentation&nbsp;&nbsp;&nbsp;&nbsp;22.57 / 30<br />7. Final Report&nbsp;&nbsp;&nbsp;&nbsp;22.5 / 30 <br /><br />My letter grade turns out is A+. All my hard works paid off in the end.",
+      "comment_workload": "Regarding the workload, I shall give the capstone project a E grade. I have put enormous efforts in this FYP (preparation, coding, generating desired results, LATEX...) and those HW assignments. <br /><br />What I want to say is, what extent of this FYP workload depends on yours attitude, you can be pretty free if you pay cursory attention to this course and do not need a good enough grade.<br /><br />Due to putting too much time on this FYP, I have little time to prepare the final exam of other courses (This is a very BAD EXPERIENCE for me !!!! ). Please try your best to balance your time. Finally, what I want to recommand is try to enroll some easy courses for fulfillment of other credit requirement if you need to take a capstone project 4992 in that semester. Otherwise, it is a hell.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

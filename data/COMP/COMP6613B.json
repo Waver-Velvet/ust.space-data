@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 1640,
+    "subject": "COMP",
+    "code": "6613B",
+    "name": "Topics in Programming Languages: Semantics and Verification",
+    "description": "This course provides an introduction to the three main approaches for defining the semantics of programming languages (operational, denotational, and axiomatic). It then illustrates how they can be utilized to prove basic program properties such as safety and termination. Finally, it looks into LTL verification from a logic-game-automaton perspective.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2030,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1493,
+        "name": "KAFSHDAR GOHARSHADY, Amir",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "LzwluoPBjldn8ed0R7k1dTEbpuLTCxL6",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 1493,
+          "name": "KAFSHDAR GOHARSHADY, Amir",
+          "rating": 1
+        }
+      ],
+      "author": "pca",
+      "date": "May 22, 2021",
+      "title": "Great course, highly recommended",
+      "comment_content": "Theoretical stuff, not too hard even for undergraduates.<br /><br />Three approaches for defining semantics: Operational, Denotational, Axiomatic. Mainly focused on how to define operational semantics and how to use axiomatic semantics to do verification via Hoare logic. Two-players game on infinite graphs for verification, automaton on infinite words, and linear temporal logic are related and used for verification. <br /><br />The content focused mostly on the ideas and proofs, but not much on actually using these to verify programs. The content is interesting.",
+      "comment_teaching": "Amir&#039;s teaching is great, his explanations are very clear and he replies to emails quickly.",
+      "comment_grading": "The grading is lenient, the professor said would give most of the students A/A+. He allows homework resubmission after giving feedback and gave a lot of bonuses. The final exam is a take-home exam with 2 weeks for us to complete and is quite similar to previous homework.",
+      "comment_workload": "There are only a few assignments that are not too hard to do. We have to read a paper and present it to the class, but we don&#039;t have to make a beautiful PPT, so the workload is very light.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

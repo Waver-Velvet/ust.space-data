@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 3868,
+    "subject": "TEMG",
+    "code": "4940A",
+    "name": "T&M Prototyping and Research Project: Smart Contract Research for UBS",
+    "description": "Students will be assigned to one of the 2 research topics. Topic (1) DeFi Recommendations - Decentralized Finance protocols are specialized autonomous programs to replace traditional ways of delivering finance applications. Students are to research into DeFi and make recommendations for UBS’s consideration. Topic (2) Synapse Business Case – HKEx Synapse is a new integrated settlement solution for Northbound Stock Connect. It is to complement the existing post-trade infrastructure using DAML smart contract technology by standardizing and streamline post-trade workflows. Students are to develop a business case for whether UBS should migrate to Synapse. Instructor consent is required for this course.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2220
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

@@ -1,0 +1,526 @@
+{
+  "course": {
+    "id": 2724,
+    "subject": "ISDN",
+    "code": "1004",
+    "name": "Sketching",
+    "description": "This course focuses on developing the skills to generate, visualize and define design concepts in 2-D and 3D in both paper and digital formats. Topics covered include freehand sketching on paper, freehand sketching on mobile devices, illustrating the basics of perspective and orthogonal drawing, storyboarding, and visual communication. Students will develop skills in sketching both organic as well as geometric forms.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.46,
+    "rating_teaching": 4.54,
+    "rating_grading": 3.62,
+    "rating_workload": 2.08,
+    "review_count": 13,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1471,
+        "name": "LAU, Brian Hui Wang",
+        "count": 9
+      },
+      {
+        "id": 1301,
+        "name": "LAU, Brian Yee Huan",
+        "count": 4
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "doISm2YYvpy7yV1HEyI4fA4FjlDaRL1I",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1471,
+          "name": "LAU, Brian Hui Wang",
+          "rating": 1
+        }
+      ],
+      "author": "优少",
+      "date": "Dec 12, 2023",
+      "title": "",
+      "comment_content": "初级素描知识",
+      "comment_teaching": "Brain有很强的艺术能力，并且也能很耐心的教给大家素描的知识",
+      "comment_grading": "评分不透明，不确定是如何给分的<br />很大程度上取决于Brain的喜好，过于主观",
+      "comment_workload": "workload很大，作为一门一分的课程，但是作业基本有3分甚至4分课的量",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 2,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "LTV2sD6VtRf32ICZbfKfTrPW2eufCil3",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1471,
+          "name": "LAU, Brian Hui Wang",
+          "rating": 1
+        }
+      ],
+      "author": "heolc",
+      "date": "Aug 07, 2023",
+      "title": "enjoy ISDers its a required course",
+      "comment_content": "The content of this course is pretty well organized since it tackles most of the drawing skills needed for designers. And we learned how to draw 3d shapes, human figures, buildings, hands, random objects from daily lives, etc. They were all helpful in practicing drawing skills. Only thing that could be better improved is the quality of jpg files uploaded on canvas.",
+      "comment_teaching": "The instructor is a skilled designer. He demonstrated the drawing in front of the class with some explanation and we had to copy his doing. The demonstration is not in detail but rather brief. However it was ok since the class was small and he roamed around to help students in need during the whole class. I guess this is &#039;learning by doing&#039;. If he gave us a detailed explanation and guide I might have slept through class. So I preferred his way of teaching.",
+      "comment_grading": "I personally enjoyed the class, barely was absent, and practiced most of the content given via canvas on my sketchbook. There were two(?) sketchbook check and one final exam as I remember. The exam was drawing 3d objects. It required perception of space and critical reasoning. The time was quite tight cause for me there were much to express and develop.",
+      "comment_workload": "Workload of this course is more than a typical 1 credit course. More than that most people would predict it to be. However it isn&#039;t thaaat much as other reviews mentioned. Still manageable if you maximize the use of your time in class.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "fIna2h2gXMkTNZoGJzkTAydi5ryociIE",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1301,
+          "name": "LAU, Brian Yee Huan",
+          "rating": 1
+        }
+      ],
+      "author": "Shal2111",
+      "date": "Jun 22, 2023",
+      "title": "Sketching for Beginners",
+      "comment_content": "This is a beginner friendly course. You start by drawing lines and simple sketches and move on to more difficult sketches. All aspects of sketching are explained to you, so even if you are not artistic it will be easy to follow.",
+      "comment_teaching": "Brian is great at explaining how to sketch, and will teach you again fi you ask him to. Don&#039;t hesitate to ask him for help.",
+      "comment_grading": "Grading for this course was vague. They asked us to sketch some chairs for our final assignment. As for the rest, depends on your classwork and homework quality.",
+      "comment_workload": "Workload is high and Workload is reflect in your grade. The more effort you put in, the higher your grade will be. Brian will look at your entire sketchbook at the end of the semester so make sure you keep up with the homework as well.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "KnXpanagjKz9AJNIGRXHSAp8coFtJgXj",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1471,
+          "name": "LAU, Brian Hui Wang",
+          "rating": 0
+        }
+      ],
+      "author": "⠀",
+      "date": "Jan 01, 2023",
+      "title": "Good luck if you don&#039;t have background",
+      "comment_content": "Frankly speaking, the course packs a lot of content. It ranges from usage of muscles, lines, shading, shapes, brainstorming, hands, bodies, etc. Tons of examples and Brian is a really skilled artist as well. <br /><br />Attached please find the syllabus. Though this is for reference only. <br /><br />However, the amount of content is overly ambitious for the time available, leaving people with no background slipping and struggling to catch up.",
+      "comment_teaching": "Brian adopts an interactive approach, involving fun chats between him and you. But unfortunately not effective in helping beginners. <br />IF you do not have background in sketching, you may face the following issue: <br />- Stagnation in improvement<br />- Confusion<br />- Frustration<br />- Discouragement<br /><br />But if you already have background you would have a blast attending the lesson.",
+      "comment_grading": "[Standard message regarding ISDN] As ISDN is a small subject, the mean of grades will be higher but the standard deviation will be smaller. If you aim for B&#039;s ISDN will be great as you need to pay less effort, but if you aim for A+&#039;s go somewhere else or get ready to chase for nothing (some courses don&#039;t have A+ because instructors believe there are always room for improvement). <br /><br />Grading scheme is not very transparent and the final score relies on his impressions of the sketchbook inspection and final quiz. <br /><br />NOTE: The myth that grading is base on degree of improvement is entirely false as people with years of sketching experience get by with A&#039;s and people with no experience may only get a B. <br /><br />I got a B-. Luckily not C (only one or two Cs, those people really do nothing). <br /><br />Though it only weights 1 credit, it marks the difference of 0.1 TGA. If only grading is really based on degree of improvement, I would be a lot happier. <br />Do not let 1 credit deceive you. It still has a solid impact. And I got impacted.",
+      "comment_workload": "Heavy workload which will be invisible to you until the last because of no strict deadlines, but I guess this is better than having deadlines, then I will not submit homeworks altogether as I know the time is not worth it to be used this way.&nbsp;&nbsp;<br /><br />Each lesson assigns sketching tasks to you. Not checked until the last lesson. You risk further struggles to catch up if you skip the last task as each lesson builds on top of the previous lesson .",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "HXs7B6lCVLCc42xrV27vj6wxxVo8BcDL",
+          "name": "ISDN_1004_SYLLABUS_AUTUMN_2022",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "LiLBOR3WDZBWZpktywvcLsGIxmjWWFMY",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1471,
+          "name": "LAU, Brian Hui Wang",
+          "rating": 1
+        }
+      ],
+      "author": "Borong",
+      "date": "Dec 31, 2022",
+      "title": "远离1004, If you are not a ISD student, do NOT enroll!!!",
+      "comment_content": "这个课教了有关设计的素描，大概分成素描基础、设计和人体三个板块。内容设计得还比较合理，但我不认为我会在之后运用素描这项技能。<br />This class teaches sketches related to design, roughly divided into three sections: basics of sketching, design, and human body-related sketching. The content is relatively reasonable, but I don&#039;t think I will use this skill later.",
+      "comment_teaching": "第一个月的教学内容还不错，之后基本都是自行练习。Brian和Aron教得挺好的，但这取决于你怎么听。<br />The teaching content in the first month was not bad, but in the rest of the term, you need to spend most of your time practicing. Brian and Aron teach pretty well, but it depends on how you listen.",
+      "comment_grading": "摆烂了也能拿B-（也有意外拿C+的），但是拿A+几乎不可能，如果有很好的素描功底可能能到ArangeYou can get a B- even if you give this course up&nbsp;&nbsp;(but some accidentally get a C+), but it’s almost impossible to get an A+. If you have good sketching skills or work really hard, you may be able to get to the A range.",
+      "comment_workload": "作业难度和量都很大。虽然Brian不设due，但不要妄想着不写作业，因为他会在期末把所有人的素描本收上去。<br />The work is difficult and heavy. Although Brian doesn&#039;t set a due, don&#039;t think about ignoring homework, because he will collect everyone&#039;s sketchbooks at the end of the term.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "AdoCM1zB885BwAcoZNOEEDtFuYQ0KYFK",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1471,
+          "name": "LAU, Brian Hui Wang",
+          "rating": 1
+        }
+      ],
+      "author": "ZanDas",
+      "date": "Dec 27, 2022",
+      "title": "Good course, but be careful to the workload",
+      "comment_content": "This course is made for those who have no previous sketching experiences before but still want to learn the fundametals of sketching. Therefore, dont expect that you would become a sketching master after this course.<br /><br />1. Drawing lines and building up line quality<br />2. Building shapes<br />3. Building boxes and different objects with the aid of the boxes<br />4. Methods of rapidly generating design ideas<br />5. Building simple human figures",
+      "comment_teaching": "As long as you follow the instuction of the instructor, you can basically express your ideas clearly with the&nbsp;&nbsp;others in terms of a sketch. There isnt much teaching, but more practicing in this course. Most of the time brian would just give you some direction and you will draw on your own for the remaining time.",
+      "comment_grading": "The grading is great as brian takes learning curve of a individual more than his/her sketching skills in consideration while giving your grades. In other words, even if your sketches are not at the top, you can still get a A range if you follows his feedbacks on your sketches and improving them by practicing a lot and show your efforts to brian.",
+      "comment_workload": "High. In terms of a 1-credit course, although theres not solid assignments or exams, you would still want to finish the task and practice a lot.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "mBeYBSG6snLeyBLRj6uIEWOJbBpoe1tO",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1471,
+          "name": "LAU, Brian Hui Wang",
+          "rating": 1
+        }
+      ],
+      "author": "Hou Liangheng",
+      "date": "Aug 27, 2022",
+      "title": "Maybe an important part in ISDN",
+      "comment_content": "In short, this is a sketch course. But technically, this is a design course. At first, you will learn from how to draw a line to how to draw a project and a person. Finally, you will learn how to design a project from your mind to reality.<br /><br />I listed my own summary of the lecture:<br />1. Line<br />2. Lines of different depths and lengths<br />3. Circle and square<br />4. Cubes and spheres<br />5. Copy the product image with the cube<br />6. Design and draw your products<br />7. Hand<br />8. Body<br />Since this semester is related to ISDN2300, many of the sessions will be devoted to discussing your design.",
+      "comment_teaching": "Brian will tell you what to draw together, then give you time to contact each other and go through them one by one to tell you what the problem is. TA Natali will also help you.<br /><br />When discussing the design for ISDN2300, Brian will ask you to show him your own work and express your own ideas one by one. Since everyone is just learning to sketch and can&#039;t draw very good, Brian will let you speak your mind and help you draw what you want to do.",
+      "comment_grading": "Grading is not bad, but very subjective. <br /><br />Probably a lot of it is based on how well you draw, but is your design novel enough (that is, if Brian understands your design).<br /><br />My grade is B+",
+      "comment_workload": "The workload is so heavy as a 1 credit course. <br /><br />One assignment was to design 20 products, and each product required at least three views of the picture, a total of at least 60 pictures. Of course, I ended up submitting only 16 designs.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Y90iHEI1YmPDIQVPbrX3kyMHUHMZLTEa",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 1301,
+          "name": "LAU, Brian Yee Huan",
+          "rating": 1
+        }
+      ],
+      "author": "JackHack",
+      "date": "Aug 28, 2021",
+      "title": "Worth the credit so much",
+      "comment_content": "The course is designed for beginner.<br />You can learn a lot:<br />Drawing lines, shapes, object<br />Controlling strokes<br />Basic color theory<br />Rather complex objects and composition<br />Human steady/moving<br /><br /><br />If you have drawing skills before, and you are ISD student, then you don&#039;t have a choice to drop this required course. However, you can ask the professor for more challenging tasks and your grading<br /><br />After attending the course, I can draw nicer, instead of scrappling randomly on paper.",
+      "comment_teaching": "The teaching was very good. Even though the course was conducted online, the prof will check and guide each one of us.",
+      "comment_grading": "Grading was based on your homework and final exam. I don&#039;t remember the exact ratiio.<br /><br />Basically, the better you draw, the higher grading you will have. I can&#039;t draw very well but still managed to get a B.<br /><br />The final exam was to design and draw certain adn tasks themes with 2(?) hours? Not too hard",
+      "comment_workload": "The most important thing is: it is only 1 credit, the work load is worth 5 credits.<br /><br />ISD says they should have give it more credits, but they can&#039;t pack more content within 18 credits",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "EQjMVVkjwcaGhEt3hxohWQmTadLLQAwL",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 1301,
+          "name": "LAU, Brian Yee Huan",
+          "rating": 1
+        }
+      ],
+      "author": "Duallife",
+      "date": "Aug 26, 2021",
+      "title": "Nice but tired",
+      "comment_content": "Content is rich. But really a looooooot! i mean the prof is nice and teaches you many necessary things about sketching but it&#039;s really a big topic. Basically, you need to practice a lot to get an ok grade.<br />However, the lesson time is mainly the prof talk about sth, and you have 10-20 minutes of time of sketching yourself, then continue this loop for the whole lesson. So hard to judge whether it&#039;s useful or not.",
+      "comment_teaching": "Brain is nice and patient. Like really nice, also do some interesting demo for us.",
+      "comment_grading": "I think is ok? but it heavily dependents on whether the students know to sketch beforehand. Finally get B+, from a beginner don&#039;t know shit, I think ok la...<br />However, I did learn a lot and see a lot of youtube tutorial off classes, so it did require a lot of time investment.",
+      "comment_workload": "nothing to say, probably 10 credit course. U need to do assignment every week and all count as part of the final result. The few tedious one maybe something like draw 50 3d structure those kind of things, which takes a lot of time to do. For serious, I think it should be a 3 credit course at least.",
+      "rating_content": 3,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "8wynywOnLL2cZRRCygrDnOeEHyP11pOT",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 1301,
+          "name": "LAU, Brian Yee Huan",
+          "rating": 1
+        }
+      ],
+      "author": "Xxyz",
+      "date": "Jul 29, 2021",
+      "title": "very interesting course",
+      "comment_content": "basically like taking drawing classes. you get to draw whatever you like and every week will be given a topic randomly.",
+      "comment_teaching": "brian is a really kind teacher. he was very patient and willing to answer all kinds of questions. i once asked him about how to draw better circles or different shapes and he did provide some good suggestions that helped me a lot in sketching later on. according to his intro, he runs a design company and often needs to do quick sketches for his client during presentations so he&#039;s really good at sketching.",
+      "comment_grading": "we only need to submit several sketches for him to grade but i think its based on his in-class observation instead of how well you actually draw. becuz i didnt think i draw nicely but still happened to get an A-",
+      "comment_workload": "workload was not too heavy back then only need to keep drawing for almost 3 hrs every Wed morning",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ZJ71T3YAQJ58J3fKmxYJSIbxNOCcnRB5",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1471,
+          "name": "LAU, Brian Hui Wang",
+          "rating": 1
+        }
+      ],
+      "author": "paopaopao",
+      "date": "May 04, 2021",
+      "title": "一门很累的课",
+      "comment_content": "内容比较充分，不过我英语比较烂而且brain有时候说的很快，我有时候会听不懂",
+      "comment_teaching": "对在HKUST的学生来说可能会更好一点，但我上的是线上课，虽然brain会点评但并没有什么用",
+      "comment_grading": "感觉等级完全取决于Brain的个人想法......我认真的保质保量的完成了所有作业并且我敢说我有素描基础且画的还不错，但最后依然只有A-，所以不建议没有素描基础或者没有绘画热情的学生报它，很可能烂龟......",
+      "comment_workload": "作业极多，特别多，非常多，由于我还蛮喜欢画画的所以对我来说还ok但极不建议不爱画画的人报！会累死！我上传了一些我的作品以供参考",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "RO8akQraxq20kSzlclC80skMB8NHN3zi",
+          "name": "example2",
+          "format": "pdf"
+        },
+        {
+          "key": "RjgToYff0M6mm0Cc5SjMv5rxpbrBGb08",
+          "name": "example1",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "TYKvQg2yvXt2Ma9XJZ8bOtvLxB9KOsaT",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1471,
+          "name": "LAU, Brian Hui Wang",
+          "rating": 1
+        }
+      ],
+      "author": "Abhijith",
+      "date": "Jan 22, 2021",
+      "title": "Take this course ONLY if u want to visualize a lot and kill time",
+      "comment_content": "The course is well designed and most importantly, well intended. And you&#039;ll end up drawing about 500 sketches, big and small, by the end of this course. So, get a fat sketch book before hand. You&#039;ll mostly draw by hand using a regular pencil. You&#039;ll also use color pencils at the end.",
+      "comment_teaching": "Brian is an artist so, he has the mindset of an artist. If your drawing is shitty, he&#039;ll still have some advise for you. If not for the grades, you&#039;ll never get penalized in this course 😂. Don&#039;t know if that&#039;s a good thing tho 🤔.",
+      "comment_grading": "I never got my grades during the duration of the course, nor did I ever see the scores in the canvas. So, don&#039;t bother about them and just do what you&#039;re supposed to do, as best as you can.",
+      "comment_workload": "There&#039;s a ton of workload. And I really mean it. All the other courses I took that term, totalling to 15 credits combined, had half the work. If I didn&#039;t take the course for that 1 credit, I would&#039;ve breezed through the fall term. If I drew like a toddler after all that happened, I regret taking this course. I have attached some of my drawings to this review.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "A6YFmkJxVIbOtzCVQonAR0KEa2qVGBzc",
+          "name": "Example",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "eJHT8rP7lNoRUXoYIDiKH2fC448WRWLn",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 1471,
+          "name": "LAU, Brian Hui Wang",
+          "rating": 1
+        }
+      ],
+      "author": "Aleco",
+      "date": "Sep 04, 2020",
+      "title": "If you have a sketching foundation, don&#039;t be afraid to take it.",
+      "comment_content": "This is a drawing class. You will learn sketch and learn how to use different materials to draw. For example, Crayons, pencils, watercolors, and even correction fluid. If you have a background in sketching, this course will be quite easy for you.",
+      "comment_teaching": "Brian is a good prof and will inspire you to create your own designs.",
+      "comment_grading": "The grade of this course depends on how many pictures you finished. I only remember you need 10 pictures to get an A. Actually, you should draw one or two more pictures to ensure to get a good grade.",
+      "comment_workload": "If you want to get an A, to may spend a lot of time on this course. For me, I finished 12 sketches to get an A. The average time of one sketch is about 2-3 hours. If you only want an average grade, the workload is fine.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

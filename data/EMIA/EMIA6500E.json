@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 4280,
+    "subject": "EMIA",
+    "code": "6500E",
+    "name": "Introduction to Emerging Applications of Artificial Intelligence",
+    "description": "This course provides students with an overview of the field of Artificial Intelligence (AI) focusing on Machine Learning (ML). This course aims to familiarize students with the modern developments in AI including deep learning, generative and adversarial networks, transformer, large language models, and applications in creative media, physical science research, and quantum computing. Throughout the course, students will have hands-on experiences of using modern AI/ML software and collaborate on practical projects involving AI applications.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

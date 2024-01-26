@@ -1,0 +1,143 @@
+{
+  "course": {
+    "id": 1301,
+    "subject": "MATH",
+    "code": "1701A",
+    "name": "Introductory Topics in Mathematical Sciences: Introduction to SAS",
+    "description": "Students are required to have knowledge on basics of statistics before taking this course. The aim of this course is to introduce the statistical package --- SAS --- for data analysis. In certain sense, this course may be viewed as an antecedent course to MATH 4422 Data Analysis. Non-MATH(SF track) students have to seek requisite waiver to take the course.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      1420
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2411\" href=\"/review/MATH2411\" target=\"_blank\">MATH 2411</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"4422\" href=\"/review/MATH4422\" target=\"_blank\">MATH 4422</a>",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 542,
+        "name": "YU, Chi Wai",
+        "count": 3
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "R9Kdzt6RCOl2HDrVwGR7AM0V5Glyla4f",
+      "semester": "2015-16 Winter",
+      "instructors": [
+        {
+          "id": 542,
+          "name": "YU, Chi Wai",
+          "rating": 1
+        }
+      ],
+      "author": "Maurice",
+      "date": "Feb 16, 2016",
+      "title": "",
+      "comment_content": "Introduction to SAS, Descriptive statistics with SAS, Analysis of Variance (ANOVA), Linear regression models and Basic Categorical Data Analysis.",
+      "comment_teaching": "Normal teaching style.",
+      "comment_grading": "I think it is in absolute grading. most of the people I know get A-range in this course. <br /><br />Final Exam is straight forward and in open book format, you just need to scan your notes before the exam.",
+      "comment_workload": "Workload for this course is pretty low. This course did not have any assignments, all you need is just to attend lab session and do those exercises. Exercises are easy and straight forward, whenever you encounter any problems you can always ask Dr. Yu.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "T6B8CUVyTHYZJaJh8dfV8I7WehcAa9g9",
+      "semester": "2015-16 Winter",
+      "instructors": [
+        {
+          "id": 542,
+          "name": "YU, Chi Wai",
+          "rating": 1
+        }
+      ],
+      "author": "Wayne",
+      "date": "Feb 08, 2016",
+      "title": "",
+      "comment_content": "主要教SAS<br />當係溫下所有STAT既內容: CI, regression analysis model, ANOVA, 咩都有D<br />開得好快好CHUR<br />有D programming會好D<br />上足LAB，FINAL都差唔多<br />有DD tricky<br />SF track take黎當溫書唔錯<br />都見到有APPLIED黎讀",
+      "comment_teaching": "都OK既，悶左D<br />英文一般",
+      "comment_grading": "成個月都未出grade唔知<br />Lab Assignment : 20%<br />Final : 80%",
+      "comment_workload": "0，係要上下LAB<br />無功課",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "dYzxNjZFOQ40Eyp5nA02UGTSsaQeEy2a",
+      "semester": "2014-15 Winter",
+      "instructors": [
+        {
+          "id": 542,
+          "name": "YU, Chi Wai",
+          "rating": 1
+        }
+      ],
+      "author": "YSY",
+      "date": "Aug 23, 2015",
+      "title": "",
+      "comment_content": "成個course 都係講下點樣用電腦程式幫你一次過得出你要的statistics <br />對於一個冇programming 底ge 人我覺得都易明呀, ppt 有曬指示, 又唔難學",
+      "comment_teaching": "教得ok. 英文唔難明<br />幾熱心解答學生問題",
+      "comment_grading": "lab assignments all full mark<br />final full mark<br />A+",
+      "comment_workload": "上一星期 3個鐘的堂(5日)<br />係上9點堂有d 難度<br />好似有兩、三份lab assignments 要做, 佢會系堂上畀時間你做, 唔識又會親自過黎教你, lab assignments 就係有幾條題目, 寫低你得出ge 數據/結果, 大部分係填上幾個數字, 或者英文字, 唔算話好難<br /><br />上完堂, 到第二個星期五(好似係)就考試, 出ge 題見真係同lab assignment 9成相似",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

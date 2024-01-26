@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 2371,
+    "subject": "ENVR",
+    "code": "3010K",
+    "name": "Explore and Research the Atmospheric Environment - Engaging High School Community",
+    "description": "EXPLORE (Explore and Research the Atmospheric Environment) is an integrated experimental platform developed by the HKUST air research team. EXPLORE consists of a hardware platform that allows participants to measure the air pollutants directly using high-school supportable facilities. The course Community EXPLORE: Science to Action, aims to (1) let interested undergraduates learn the technicality of the EXPLORE platform; (2) serve as an advisor to a secondary school on the EXPLORE platform; and (3) lead high school students to conduct some school based educational/research program related to improving their air quality. This is the first part of a two-semester sequel project course.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      1810,
+      1710
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 215,
+        "name": "LAU, Pui Sang",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "IWI9O9IQz5ygVJi3p1b7FpOpMsNzuCOo",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 215,
+          "name": "LAU, Pui Sang",
+          "rating": 1
+        }
+      ],
+      "author": "Kalakela",
+      "date": "Feb 24, 2020",
+      "title": "",
+      "comment_content": "The course is about the atmosphere in environment. It mostly teaches you how to identify various types of gases in the air, mostly they are harmful to the environment.",
+      "comment_teaching": "Author taught us well and always welcome us to seek help from him!<br />There will be TAs that teaches you step by step to allow you to run through the whole experiment.",
+      "comment_grading": "The grading is quite good even though it is only a 2-credit course! For you who are willing to write lab report and do experiment, it is a course that’s good for you to have a nice grade !",
+      "comment_workload": "There is only 1 to 2 lectures you are required to attend. After attending those lessons, you are required to to some experiment on how to collect different kinds of gases. <br />The only disadvantage is you are required to come back to UST during winter semester in order to accumulate enough information for your lab report. But luckily students are just required to finish very light workload before the final exams are ended. It allows you to focus on the project after the finals are ended.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

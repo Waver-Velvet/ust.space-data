@@ -1,0 +1,546 @@
+{
+  "course": {
+    "id": 544,
+    "subject": "HUMA",
+    "code": "2050",
+    "name": "Classical Chinese",
+    "description": "An introduction to the fundamental aspects of Classical Chinese grammar and a linguistic study of Classical Chinese texts selected from the classics in the pre-Qin era and the Han period, including Shijing (Book of Songs), Zuozhuan (Zuo’s Commentaries), Lunyu (Analects), Mengzi (Mencius) and Shiji (Records of the Historian). This course also teaches students to translate classical Chinese into modern Chinese and to improve Chinese communication skills, with emphasis on academic writing.",
+    "categories": [
+      "Common Core (H)",
+      "Common Core (C-Comm)"
+    ],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2240,
+      2230,
+      2110,
+      2030,
+      1830,
+      1730,
+      1610,
+      1530,
+      1430
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.31,
+    "rating_teaching": 4.62,
+    "rating_grading": 4.31,
+    "rating_workload": 4.31,
+    "review_count": 13,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 323,
+        "name": "SUN, Jingtao",
+        "count": 6
+      },
+      {
+        "id": 1194,
+        "name": "LI, Dechao",
+        "count": 5
+      },
+      {
+        "id": 309,
+        "name": "ZHANG, Min",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "4XcttGSv7tTZUjcoNBK6nKJcGup1Y3Zc",
+      "semester": "2021-22 Summer",
+      "instructors": [
+        {
+          "id": 1194,
+          "name": "LI, Dechao",
+          "rating": 1
+        }
+      ],
+      "author": "lmacchch",
+      "date": "Dec 02, 2022",
+      "title": "好好龟的中lang",
+      "comment_content": "content中规中矩，讲的是文言文",
+      "comment_teaching": "dechao的teaching不错，讲郑伯克段于鄢的时候讲的很有深度，其他的内容也不错，有上高中语文课的感觉",
+      "comment_grading": "绝世好龟<br />quiz, midterm, final都是开卷的，做好cheatsheet好容易得高分；assignment感觉不怎么看，似乎写了就是满分<br />我最后A+，出乎意料",
+      "comment_workload": "细，几乎没什么作业",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 12,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "t7lEV3VJQmEuiDi3lcrbIPLmQKbJlEhO",
+      "semester": "2021-22 Summer",
+      "instructors": [
+        {
+          "id": 1194,
+          "name": "LI, Dechao",
+          "rating": 1
+        }
+      ],
+      "author": "Mingjai52",
+      "date": "Sep 14, 2022",
+      "title": "勤力＋背書叻可以試",
+      "comment_content": "《左傳》鄭伯克段於鄢、 齊晉鞌之戰、晏嬰論季氏、司馬遷<br />《報任安書》（節選）<br />《漢書》 張騫傳 <br />《大學》（節選）<br />《論語》（節選）<br />《老子》（節選）<br />《詩經》 靜女、簡兮<br />《孟子》 齊桓晉文之事",
+      "comment_teaching": "教授十分有熱誠和高文化水平，中間會有10分鐘break<br />有時會播片睇，但因為3個鐘實在太長，好易覺得悶同眼瞓",
+      "comment_grading": "Competitive, 太多學霸，所以要花時間背書，肯背＋有source就應該唔會太差，但因為我太懶＋純粹想fulfill requirement所以...哈哈<br /><br />1) Attendance 10%<br /><br />2) Quiz 20%<br />Highest: 66/66<br />Mean: 53.1/66<br />SD: 9.9<br /><br />3) Midterm 20% <br />Mean: 77.7/100<br />SD:17.1<br /> <br />4) Assignment 15%<br /><br />5) Final 35%<br />Mean: 147.7/183<br />SD: 26.2",
+      "comment_workload": "一份讀書報告：翻譯文言文＋寫記敍文<br />一個測驗：漢字結構<br />midterm＋final: cumulative",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "u4j0P27iNQCCdMGGyHGKUHu3yuCm0Wsu",
+      "semester": "2021-22 Summer",
+      "instructors": [
+        {
+          "id": 1194,
+          "name": "LI, Dechao",
+          "rating": 1
+        }
+      ],
+      "author": "ciserein",
+      "date": "Sep 02, 2022",
+      "title": "讀唔到1660/2660都可以考慮下呢科",
+      "comment_content": "上面有人講咗，唔講咁多，都係史記詩經論語嗰種四書五經。要求係背到語譯同知道唔同嘅文言語感邏輯，以及成篇文章嘅中心思想同細節上文下理咁。<br /><br />課文：<br />《左傳》鄭伯克段於鄢 左丘明<br />《左傳》鞌之戰 左丘明<br />《左傳》晏嬰論季世 左丘明<br />《大學》<br />《論語》<br />《漢書》張騫傳 斑固<br />《老子》（道德經）<br />《詩經》靜女、簡兮<br />《孟子》<br />必讀課文係咁多，但係實際上有更多額外嘅語譯同文言文要背要讀，例如詩經唔止問你兩篇，佢會額外問下其他詩，子衿啊山有扶蘇啊，乜都可能會出。<br /><br />文言常識：<br />漢字結構、形聲字（講文字變化，從甲骨文象形文變成現代漢字）<br />古今詞義異同（講詞義變化，意義縮小改變）<br />詞類活用 （講詞性，意動用詞、形容詞變動詞之類，比較難）<br />特殊語序（唔知讀咗咩）<br />被動表示法（普通被動句，唯...是...、為...之類嘅文言句）<br />呢part講語感講運氣，唔明就死背。<br /><br />算常見且有用嘅內容，學到嘢，但係真係唔有趣，文言文嚟講算比較悶嘅課程。",
+      "comment_teaching": "講真覺得唔係教得特別好，高中中文老師feel，但係我覺得比自己以前中學啲中文老師教得差XD<br />高於平均水平嘅教授，課程講明用普通話授課，正正常常不過不失，有問題會詳細解釋，會講啲extra嘅內容，而且考試會考。<br />冇乜特別。",
+      "comment_grading": "最重要都係呢part。個個都係學霸，個mean都算小高。有sources嘅話應該係冇問題嘅，而且都算靚grade。記得背多啲嘢，聽下書就都應該A range到嘅。<br /><br />quiz (20%):<br />Mean- 53.1/66<br />SD- 9.9<br />Mine- 64.5/66 (+1.15 SD)<br /><br />assignment (15%):<br />乜都冇出<br /><br />attendance (10%):<br />Mine- full<br /><br />midterm (20%):<br />Mean- 77.7/100<br />SD- 17.1<br />Highest- 99.5/100<br />Mine- 88.5/100 (+0.63 SD)<br /><br />final (35%):<br />Mean- 147.7/183<br />SD- 26.2<br />Highest- 178.5/183<br />Mine- 165.5/183 (+0.68 SD)<br /><br />Final grade= A",
+      "comment_workload": "一個quiz、一個midterm、一個final、一份語譯加1500字作文嘅assignment，加埋上堂，workload算細。認真讀想A range嘅話要背多好多嘢，所以workload應該算普通。我自己冇乜特別認真讀，quiz midterm同final每個試都分別溫咗一兩日咁大把，份assignment都係做咗兩晚咁，最後因為讀得太hea炒咗少少。<br />對我嚟講因為疫情同summer sem所以workload唔大，不過文言文同背書能力因人而異，問心自己背書比較強所以覺得workload細，但係對好多人嚟講可能workload唔細，比個B佢算。",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "QgIPiWxNFMuk8qIngY4tApjC1GRyih4s",
+      "semester": "2021-22 Summer",
+      "instructors": [
+        {
+          "id": 1194,
+          "name": "LI, Dechao",
+          "rating": 1
+        }
+      ],
+      "author": "TRINITROTOLUENE",
+      "date": "Aug 24, 2022",
+      "title": "perfect substitute for LANG 1117/1118",
+      "comment_content": "summer內容應該會比spring少一點？<br />文選：<br />鄭伯克段于鄢 鞌之戰 <br />晏嬰論季世 張騫傳 <br />詩經選 (《簡兮》《靜女》)（古詩詞鑒賞）<br />論語、孟子、老子、大學選<br />通論：<br />（漢字的結構和發展）（古今詞義的異同 ）<br />詞類的活用 古代漢語的詞序 被動表示法 <br /><br />都比較基礎",
+      "comment_teaching": "高中老師風格，非常詳盡地逐字解釋，所以沒什麼基礎也完全可以聽懂。偶爾吹水看視頻，全部普通話授課，總體來說十分不錯（雖然我還是偶爾會睡著）",
+      "comment_grading": "比較fair<br />Grading scheme (根據第一節課的syllabus):<br />participation(attendance):10% 線下課有簽到<br />quiz*1:20% mean:53.1/66 sd:9.9<br />assignment*1:15% （spring應該會不止一次作業）<br />midterm:20%<br />final:35%<br /> <br />我quiz 65/66 midterm 94/100 final沒出分<br />final grade:A+",
+      "comment_workload": "summer由於mix mode考試都是開卷 因此wl小很多 基本看熟就行不用要求完全背出來 考試前留出2-3天複習時間足矣<br />上課聽講還是比較需要的，有些考試裡的short question會涉及到上課教授提到的內容<br />assignment就一個 很輕鬆<br />reading material有但基本不用怎麼看",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "5jfD8av52KLEuikKlEJFFWTsC1WcwChP",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1194,
+          "name": "LI, Dechao",
+          "rating": 1
+        }
+      ],
+      "author": "樹大有枯枝",
+      "date": "Dec 29, 2021",
+      "title": "肯背+有時間背嘅話可以一戰",
+      "comment_content": "利申：小弟冇文學修養，平時唔睇書，更加唔識睇文言文<br /><br />Content 明顯比 LANG1113 / 1117 更加有深度，因為你都好難喺 UST 搵到比 LANG course 更冇意義嘅 course。教授會花唔少時間講下文選嘅歷史、文化背景，又會涉獵啲儒家、道家、法家思想。上堂聽下呢啲好似好過上中 lang 聽 lang tutor 吹水同 discuss 埋晒啲尷尬嘢 ^^<br /><br />文選：<br />■ 史書類：《鄭伯克段於鄢》、《鞌之戰》、《晏嬰論季世》、《張騫傳》<br />■ 哲學類：《大學》、《論語》、《老子》、《孟子》<br />■ 詩經：《簡兮》、《靜女》<br /><br />通論：<br />漢字結構、古今詞義異同、詞類活用、古代漢語詞序、被動表示法<br />對於 local 學生冇乜學過啲中文詞類/語法都有啲深 (e.g. 謂語/狀語/補語，及物/不及物動詞，意動/使動)，但係認真聽 + google search 下都可以解決。",
+      "comment_teaching": "教授都幾有心機教，文言文會逐句講、逐句解釋，尤其頭幾個禮拜嘅 pace 會慢啲，即使我冇乜文言文底都會聽得明（除咗老子，我諗識通靈先會明）。有時會加啲地圖、播下片幫大家 visualize 下感受下篇文嘅 content。唯一嘅問題就係 midterm / final 前有時教唔切會剩低一兩句叫你返屋企自己睇。<br /><br />有時會講啲 out of slides 嘅 background / 同一句文言文嘅唔同解釋。唔好當故仔聽咗/瞓咗就算，呢啲你以為吹水嘅嘢係有可能喺考試嘅 short questions 度出現 ^^",
+      "comment_grading": "普通話教、起碼一半 NDS，可以想像到 midterm / final 分都好 competitive，但係最後個 grade 都幾靚。<br /><br />■ Quiz: 10% (Mean 45.22/70, Median, 45.75/70, Std 12.96, Me 68.5/70)<br />考漢字結構。背咗六書定義+例字、裘錫圭《文字學概要》大概 350 個例字嘅分類，係記憶力比賽。之後 midterm / final 唔會再考。<br /><br />■ Assignment 兩份: 7.5% x 2<br />Assignment 1《五帝本紀》讀書報告 (冇出分)<br />Assignment 2《己亥雜詩》詩詞鑑賞 (Mean 7.2/7.5, Me 7.5/7.5)<br />感覺只要唔係亂寫就畀 full mark。<br /><br />■ Midterm: 25% (Mean 69.55/95, Median, 74.5/95, Std 15.70, Me 87/95)<br />Midterm competitive 過 quiz 好多，median 高過 mean 唔少，啲分集中喺 &gt;70，可以睇返 distribution。<br /><br />■ Final: 40% (冇出分)<br />Final 係 cumulative，考晒所有文選，midterm 前嘅嘢係唔會考少啲。<br /><br />■ Attendance: 10%<br /><br />今個 sem 嘅考試接近純背，唔需要好好文言文底，背熟晒啲嘢（不過真係好多嘢）就有機會 A range。似乎派 grade 都唔算緊手。Midterm 高 mean 少少, final 拉返都 A 到。<br />Final grade: A+.",
+      "comment_workload": "■ Assignment<br />今個 sem assignment workload 細咗，以前有一份《萬神紀》典故變咗 optional 唔計分（做咗亦冇 bonus）。<br /><br />Assignment 1 係《五帝本紀》讀書報告，有 6 段 extract 要語釋，然後再抽一段故事寫 1500 字記敍文，要反映「你在具體行爲處事上的文化理解」，啲 requirements 都好模糊下。<br /><br />Assignment 2 係《己亥雜詩》詩詞鑑賞，315 首詩揀一首寫 2000 字鑑賞。今次更加模糊，「從你認為可以發揮的任何角度入手，只需言之有物。」<br /><br />由於我冇學過點寫呢啲鑑賞，佢又幾乎冇 guidance，所以嘔 1500 / 2000 字都有啲辛苦。<br /><br />■ Midterm / Final<br />有幾類題型：<br />□ 文選嘅注釋、語釋：冇技巧，背晒佢。語釋要求「反映原文的語法特點」，即係堂上提到嘅意動/使動嗰類，Google 返嚟嘅語釋可能要 modify 下。<br /><br />□ Short questions：有得揀嚟做 (e.g. 8 選 6)。考文化、歷史背景等等上堂提過嘅嘢。唔一定喺 slides 搵到。<br /><br />□ Unseen passage 嘅語釋。今個 sem 有啲 unseen passage 係 slides 出現過但冇仔細教到，有機會睇得明。未見過就...考天才。<br /><br />□ 解釋語法現象。話就話「重在理解，不考定義」，實際上除非你根底好好，否則都係冇技巧，背晒所有通論 slides 嘅例子就得。<br /><br />所有嘢都係要背，workload 可想而知。我 midterm 背咗 4 日，final 背咗 6 日。",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 24,
+      "vote_count": 25,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "wiFfwVqjgw0rTv3w53BNeNBdcuydoaas",
+          "name": "Midterm Score Distribution",
+          "format": "png"
+        },
+        {
+          "key": "YODZ1jHAS3PLCxk1GeG5XAnpSoIRejkt",
+          "name": "HUMA 2050 Final Exam",
+          "format": "pdf"
+        },
+        {
+          "key": "0AP22JYG7bjMq0PRh35TMZTS3ENe8nxg",
+          "name": "midterm",
+          "format": "pdf"
+        },
+        {
+          "key": "PgYeayY7lt2YH8LuQA7x8iNkUpasgyE4",
+          "name": "midterm-key",
+          "format": "pdf"
+        },
+        {
+          "key": "TGUqCDuQy10majGHqtMdUnjYoNXZA9XD",
+          "name": "quiz1",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "ylJbh752SXMRpLh40S0BJyYGIsoeW5m0",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 323,
+          "name": "SUN, Jingtao",
+          "rating": 1
+        }
+      ],
+      "author": "knowsnothing",
+      "date": "Jan 23, 2021",
+      "title": "Workload正常 內容唔錯 多內地生",
+      "comment_content": "感覺有d似高中中文堂，唔同嘅係教授會教得更加深入，唔係一味死背，要理解埋背後嘅政治時代背景同埋評鑑古文，搵典故，幾有趣。<br />除咗要睇熟ppt仲要比心機預習，內容唔算簡單<br />範圍：詩經，左傳，論語，孟子，史記",
+      "comment_teaching": "有任何問題都好樂意答，不時會播片，有extra reading，準備充足。",
+      "comment_grading": "好多內地生，競爭激烈。教授話唔會教內地高中課程嘅文章，所以都公平嘅<br />Midterm above mean around 0.5sd, final above 1.x sd, assignment full marks, b+<br />A range 人數較少",
+      "comment_workload": "assignment 要寫評鑑，2500~3000字 workload 唔算多，平時上足堂，背熟ppt 同埋多d去百度睇下文章解說應該b/b+唔難 上a range 要本身文言文底非常好。",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "RlsqoMPqODfCxBrDdnxjBOvFX5hVZJ9a",
+          "name": "HUMA2050_updated",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "2BKOCkSRN8jwTa99dkPoptR1IbmStm80",
+      "semester": "2017-18 Spring",
+      "instructors": [],
+      "author": "maksyu",
+      "date": "Jun 01, 2018",
+      "title": "教授很好，可惜workload重了點",
+      "comment_content": "- 文選：《左傳》、《報任安書》、《論語》等<br />- 漢字結構<br />- 古代漢語 語法<br /><br />（詳參附件）",
+      "comment_teaching": "這個學期教授換成了李德超(Li, Dechao)老師。他是一個很有學問的教授。<br /><br />我原本以為教授只會講古代漢語，就像以前中學學文言文大部分的時間都是學文言文本身。但教授原來是個很有情懷的人。他強調學古文是要學以前的思想，所以課上的收穫真的很多。<br /><br />教授也很努力把不同的元素加入到課堂裡頭，例如播放MV，電影片段。他本人也是非常友善。",
+      "comment_grading": "期末考試: 45% <br />(accumulative，但有些課題期中考跟小測考過了就沒再考)<br /><br />期中考試：25%<br /><br />小測：5%<br /><br />課業3份，最好的兩份各占10%，剩下的一份占5%<br /><br />（原本有兩個小測，因時間不夠，取消了。原本做三次課業，只計算最好的兩次。後來把小測二的5%撥到課業那裡）<br /><br /><br />個人覺得grading就還好，教授也不是killer",
+      "comment_workload": "個人覺得對於一個2000lv的課來講，這個course的workload有點重。<br /><br />第一份作業是第一節課佈置的。看一個MV，然後找歌詞的典故。也不難。<br /><br />第二份作業是看《五帝本紀》，然後從一個文化角度寫essay。<br /><br />第三份作業是選曹雪芹或納蘭性德的一首詩，從一個文化角度寫一篇長的Essay （1200-2500字）<br /><br />作業都是給2星期去完成的。第二份作業前還有兩份類似的作業，不算分數，只是讓我們明白一下怎樣做第二份作業。<br /><br />再加上考試啊那些，其實assessments的份量有點多。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "b6bPYp4dr5iIcv68cFCpY4uymgamC99Y",
+          "name": "HUMA2050-tentative syllabus",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "sajwvHA8T7ypu2Xh7rpkrRgLBVwe5hyl",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 323,
+          "name": "SUN, Jingtao",
+          "rating": 1
+        }
+      ],
+      "author": "yre",
+      "date": "Jan 23, 2017",
+      "title": "",
+      "comment_content": "The content to be covered in this course includes basic principles of Classical Chinese syntax, causative<br />and denominative constructions, passive, function words, and selections from Zuozhuan 左傳, Lunyu 論語<br />Mengzi 孟子, Hanfeizi 韓非子, and Shiji 史記.<br />多是名篇。",
+      "comment_teaching": "教授很可愛！非常博學，喜歡擴展知識，也十分耐心。",
+      "comment_grading": "總體來看挺不錯的。雖然有很多大陸同學，還有很多水平很高很認真的local，競爭壓力比較大。<br /><br /><br />Attendance will carry 5% of the total weight; <br />midterm, 30%; <br />assignments, 15%; （這個有兩三次題量小的作業，有一個小作文）<br />and the final, 50%.",
+      "comment_workload": "每堂課內容不多，但如果考前再學習有點吃力。<br />這樣看，如果每週不上課，考前大概每週內容 3 hours 應該妥妥的。<br />在 huma 裡面應該算 workload 小的。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "AsYNkQX1FwfMIgYl3tmmXdvGYIGf1f6v",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 323,
+          "name": "SUN, Jingtao",
+          "rating": 1
+        }
+      ],
+      "author": "Peiyang",
+      "date": "Dec 16, 2016",
+      "title": "Nice knowledge in classical chinese",
+      "comment_content": "Good selections from the traditional Chinese essays. Mainly from Pre-qin period.",
+      "comment_teaching": "Require attention in class for he will explain all the translation on course material in class. Also need to take notes. The teacher is really nice for his humor and respect for students.",
+      "comment_grading": "Relatively fair grading. One main problem is that the course is taught in Mandarin, A&nbsp;&nbsp;lot of mainland students will take this course.",
+      "comment_workload": "Relatively small amount of assignment. Only two during the entire semester. But midterm and final questions amount are very high. Need to write very fast to complete all the questions.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "2csm61c26HqnJ98mcS47JXpMP6W6BThI",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 323,
+          "name": "SUN, Jingtao",
+          "rating": 1
+        }
+      ],
+      "author": "mcca",
+      "date": "Jan 21, 2016",
+      "title": "workload不大但很多內地生",
+      "comment_content": "喜歡ＨＵＭＡ的還是會覺得有趣，就是不停的讀文言文，基本上就是中學語文課的進階版",
+      "comment_teaching": "教授人很好，感覺很輕鬆隨和，感覺像中學上課，不過他常常講遠了回不來。上課的人大部份都不是在聽，因為實在太像中學語文課，對內地生來說更是視之如無物。",
+      "comment_grading": "上課會傳attendance sheet自己填，一個不小心miss了還是可以讓同學幫忙。注意很多內地生刷龜，要是純粹覺得有趣而沒有特別好的語文根底的同學被刷龜是少不免了。",
+      "comment_workload": "兩份assignment，一個mid-term，一個final<br /><br />assignment不難，主要是一些語譯和語句練習（如賓語前置的應用），上課會有講到，沒上課的找找資料也可完成<br /><br />mid-term和final的內容大部份powerpoint會有，包括字詞解釋，句子翻譯和其他篇章內容的問題等，要注意的是考試要寫字要快，因為要寫的蠻多",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "le8nafG05VkNFkusO9lzTBnep5XLvgyO",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 309,
+          "name": "ZHANG, Min",
+          "rating": 1
+        }
+      ],
+      "author": "Lam",
+      "date": "Jan 21, 2016",
+      "title": "Not quite interesting but good grade",
+      "comment_content": "Metaphors and metonymy! Analyze all kinds of metaphors. It sounds that every class it&#039;s about the same things and&nbsp;&nbsp;theories so I felt bored. Dig into many commonly used phrases and sentences like &quot;falling in love&quot; and show that in this sentence, there&#039;s a metaphor which is LOVE IS A CONTAINER, to show that metaphors are commonly used as a conceptual tool to help people understand things.",
+      "comment_teaching": "Vivid, always use actions or graphs to explain metaphors. Really excited every class and always laughing at his own jokes regardless of all the asleep students....",
+      "comment_grading": "Nice grading, most of my friends got A plus.",
+      "comment_workload": "There is actually just one assignment that you need to hand in. Although the TA didn&#039;t even let us know the grades of the assignment, it felt like the prof just want us to research a little bit and it&#039;s good as long as you did it. Quite simple work. Midterm is just a quiz. Take attendance so it&#039;s necessary to go to classes, you can even just go there at the last 10 minutes.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 6,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Bq0ob2ErOAxcWvxxL33Qhdkzw0tsovjV",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 323,
+          "name": "SUN, Jingtao",
+          "rating": 1
+        }
+      ],
+      "author": "Mandy233",
+      "date": "Aug 25, 2015",
+      "title": "好客不好Grade",
+      "comment_content": "课挺好的，教授讲的很细，文言文是一个字一个字讲的，也普及了很多古代文常和很多有趣的小故事。但是对文章内容，中心，思想深度没有太好把握...内容比较流于文章表面....",
+      "comment_teaching": "老师很有耐心，问问题都会回答，上课挑错也不会生气（我没有挑Hhh",
+      "comment_grading": "🐢挺烂的...不过还是分人吧...我也认得期中比我低，最后ARange哒",
+      "comment_workload": "不大，有两次Assignment，第一次主攻字意，第二次写分析....没有需要思想深度的东西...注意细心就好啦。平时上课会签到，让别人帮签也可以，走堂也没有什么关系，看PpT就好",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 33,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "t9xNyLlYlKXNJd4beatzWYDbyYaubrVB",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 323,
+          "name": "SUN, Jingtao",
+          "rating": 1
+        }
+      ],
+      "author": "KL",
+      "date": "Aug 01, 2015",
+      "title": "",
+      "comment_content": "上堂教咗幾篇古文，professor會逐句解釋，ppt做得好詳細，溫完都夠考final。每個星期要自己再睇多篇文，雖然話會都考，但最後好似無考到。",
+      "comment_teaching": "感覺professor對呢個course都幾有heart。",
+      "comment_grading": "因為係用普通話教，所以全班起碼有70%係mainland。不過努力溫notes就唔會被人屈機。",
+      "comment_workload": "兩份功課+midterm+final。attendance 5%，唔翻3堂唔計，之後沒堂扣0.5%。",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

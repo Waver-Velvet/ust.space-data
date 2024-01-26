@@ -1,0 +1,158 @@
+{
+  "course": {
+    "id": 2766,
+    "subject": "BIEN",
+    "code": "2610",
+    "name": "Chemical Biology for Engineers",
+    "description": "A concise introduction of biochemistry, cell biology, and pharmacology to engineers. Molecular and supramolecular building blocks of biological systems. Analysis and engineering of biological systems by chemical principles. Introduction to transcriptomics, proteomics and metabolomics.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1830
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"1010\" href=\"/review/CHEM1010\" target=\"_blank\">CHEM 1010</a> OR <a class=\"course-link\" data-subject=\"CHEM\" data-code=\"1020\" href=\"/review/CHEM1020\" target=\"_blank\">CHEM 1020</a>) AND (<a class=\"course-link\" data-subject=\"LIFS\" data-code=\"1901\" href=\"/review/LIFS1901\" target=\"_blank\">LIFS 1901</a> OR (Level 3 or above in HKDSE 1x Biology))",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.33,
+    "rating_teaching": 4.33,
+    "rating_grading": 3.67,
+    "rating_workload": 4,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1216,
+        "name": "KUANG, Becki Yi",
+        "count": 3
+      },
+      {
+        "id": 915,
+        "name": "NI, Rong",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "IlQvmBgIFvMLObEWmfXxqelEko2WN4gT",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1216,
+          "name": "KUANG, Becki Yi",
+          "rating": 1
+        }
+      ],
+      "author": "ays",
+      "date": "Jan 01, 2023",
+      "title": "",
+      "comment_content": "Part 1 (under Exam 1)<br />Nucleic acid &amp; nucleic acid engieering<br />-Lecture 0 - 6<br /><br />Part 2 (under Exam 2)<br />Protein &amp; protein engineering<br />-Lecture 7 - 12<br /><br />Part 3 (under Exam 2)<br />Small biomolecles<br />-Lecture 13 - 14<br /><br />Part 4 (under Exam 3)<br />The principle and application of bioengineering<br />-Lecture 15 - 22",
+      "comment_teaching": "The slides are quite clear and can deliver the main points effectively. Becki will sometimes add recent news of development of certain technologies into the slides and introduce them to us, but they are not included in the three exams. Overall teaching is quite fun and lively.",
+      "comment_grading": "Three 40-minute Exams (chose top 2 out of 3) - 60%<br />-MCs, True or False, short questions, calculations and drawings<br />-one page of cheatsheet is allowed (max A4)<br />-some of the questions are quite tricky, so read the questions very carefully and make sure you really undrstand the concepts<br />-Becki sometimes tells which part of the powerpoints must appear in the exams, so attending the lectures are important<br /><br />Written assignment (2 pages) - 10%<br /><br />Two In class excercise - 15%<br />-Fun interactive experiments during the lessons and will have to complete a short piece of assignment afterwards<br />-Qestions are quite easy so no worries<br /><br />Participation (in class quiz) - 15%<br />-As long as you finish the quizzes then you will get the marks because they are not graded<br /><br />Bonus 1 point for 1 office hour section<br />-Send email to TA to reserve",
+      "comment_workload": "Only one written assignment and two half-paged assignments after the two in cass excercise, so the workload is actually quite light and manageable.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "jewsbaJmbVT3Xw612fKMb6Y0tWXyG6Ia",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1216,
+          "name": "KUANG, Becki Yi",
+          "rating": 1
+        }
+      ],
+      "author": "RIbtSU",
+      "date": "Dec 21, 2022",
+      "title": "Not Suggested for Lifs students",
+      "comment_content": "The topics seem similar to lifs stuff but actually more about engineering. Dun be fake by the topics names.<br /><br />Module 1: Nucleic acid &amp; nucleic acid engineering<br />Lecture 1: Introduction of nucleic acid and gene<br />Lecture 2: Basics of genetics and genomics<br />Lecture 3: DNA mutation &amp; damage repair<br />Lecture 4: RNA processing &amp; catalysis<br />Lecture 5: Gene editing &amp; DNA cloning<br />Lecture 6: Engineering of artificial nucleic acid<br /><br />Module 2: Peptide &amp; protein engineering<br />Lecture 8: Basics of protein: building block of life<br />Lecture 9: Enzyme and structural protein<br />Lecture 10: Antibody and bioactive small peptide<br />Lecture 11: Protein engineering part 1<br />Lecture 12: Protein engineering part 2<br /><br />Module 3: Small Biomolecules<br />Lecture 13: metabolite and their use in healthcare<br />Lecture 14: ligand drug-target<br /><br />Module 4: The principle and application of bioengineering<br />Lecture 15: Combinatorial chemistry and molecular evolution<br />Lecture 17: Labeling of biomolecules<br />Lecture 18: Tracking of biomolecules<br />Lecture 19: Monitoring interactions between biomolecules&nbsp;&nbsp;<br />Lecture 20: Sanger sequencing &amp; microarray<br />Lecture 21: Chemical-assisted sequencing for identifying modification<br />Lecture 22: Chemical-assisted sequencing for structural identification<br />Lecture 23: Protein separation and identification",
+      "comment_teaching": "Teaching is fair. Prof includes some videos during lectures. Also, she would talk about some extra knowledge at the end of the lectures. In-class exercises are done during lecture time within 30 minutes. The powerpoints contain a lot of pics that are directly copied from online and will be tested in the exam. However, actually there are some concepts taught not that accurately or not the same as you learn in Lifs courses.",
+      "comment_grading": "The grading distribution is as follows:<br />In-class exercises: 15% (2 exercises, 7.5% each )<br />Written assignment: 10% (2 pages)<br />3 exams (60% in total, 30% each, count best 2 out of 3)<br />Participation: 15% (in-class quiz, similar to attendance)<br />Bonus: 1% (appointment with the professor)<br /><br />Prof didn&#039;t disclose the performance detail of the class (i.e. mean, SD, upper quartile)<br /><br />For the exams, the MCs are asked in a weird way sometimes. Prof tends to set them tricky, but her English may not be so good that the turnout makes you misunderstand what the statements mean. <br />I am a lifs student and have already taken many lifs courses with A range while I have never encountered this problem though MCs in lifs courses can also be tricky. If you are lifs student and have a strong lifs background, you better not take this course. If you think with a Life Science mindset, you will easily get wrong in her exams.",
+      "comment_workload": "The workload for this course is rather heavy, with a midterm, final, quizzes, report and attendance exercises. Expect to spend slightly more time on this course.<br /><br />However, the workload is still manageable because cheatsheets are also allowed in the exams, which lifts some workload of memorizing the content.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Nrgv2FQVZmQWKTHLFgts9qXPjayoAYLy",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 1216,
+          "name": "KUANG, Becki Yi",
+          "rating": 1
+        },
+        {
+          "id": 915,
+          "name": "NI, Rong",
+          "rating": 1
+        }
+      ],
+      "author": "tcwong",
+      "date": "May 28, 2019",
+      "title": "Great Course for Bioengineering or Chemical Engineering",
+      "comment_content": "The content covers concepts similar to biochemistry, with more emphasis on the application in engineering. It&#039;s a great course connecting the principles of life science to engineering, and being a chemical engineering major myself, I still find the content to be quite manageable and interesting.<br /><br /><br />Module 1: Nucleic acid &amp; nucleic acid engineering<br />Lecture 1: Introduction of nucleic acid and gene<br />Lecture 2: Basics of genetics and genomics<br />Lecture 3: DNA mutation &amp; damage repair <br />Lecture 4: RNA processing &amp; catalysis<br />Lecture 5: Gene editing &amp; DNA cloning <br />Lecture 6: Engineering of artificial nucleic acid <br /><br />Module 2: Peptide &amp; protein engineering<br />Lecture 8: Basics of protein: building block of life <br />Lecture 9: Enzyme and structural protein<br />Lecture 10: Antibody and bioactive small peptide<br />Lecture 11: Protein engineering part 1<br />Lecture 12: Protein engineering part 2<br /><br />Module 3: Small Biomolecules<br />Lecture 13: metabolite and their use in healthcare<br />Lecture 14: ligand drug-target<br /><br />Module 4: The principle and application of bioengineering<br />Lecture 15: Combinatorial chemistry and molecular evolution <br />Lecture 17: Labeling of biomolecules <br />Lecture 18: Tracking of biomolecules <br />Lecture 19: Monitoring interactions between biomolecules&nbsp;&nbsp;<br />Lecture 20: Sanger sequencing &amp; microarray<br />Lecture 21: Chemical assisted sequencing for identifying modification <br />Lecture 22: Chemical assisted sequencing for structural identification <br />Lecture 23: Protein separation and identification",
+      "comment_teaching": "Both Professor Kuang and Professor Ni are very enthusiastic about their teaching, and can explain teaching materials clearly while maintaining our interest. The powerpoint slides are also well-made with lots of visuals and QR codes for further reading to help us understand.",
+      "comment_grading": "The grading distribution is as follows:<br />In class quiz: 15% (4; choose top 3 out of 4)<br />Written assignment: 10% (3 pages; open end topic)<br />Midterm: 30%<br />Final: 35 %<br />Participation: 10% (in class exercise, similar to attendance)<br />Bonus: 2% (appointment with professors, 1 point each time)<br /><br />My score:<br />In class quiz: 14.35/15<br />Written assignment: 10/10<br />Midterm: 94/100<br />Final: 82/100<br />Participation: 10/10<br />Bonus: 2/2<br />Overall: 93%<br />Final Grade: A+<br /><br />As you can see, the grading is quite good.",
+      "comment_workload": "The workload for this course is rather heavy, with a midterm, final, quizzes, report and attendance exercises. Expect to spend slightly more time on this course.<br /><br />However, the workload is still manageable because not only are there no assignments, cheatsheets are also allowed in the midterm, final and quizzes, which lifts some workload of memorizing the content.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 5,
+      "comment_count": 3,
+      "attachments": []
+    }
+  ]
+}

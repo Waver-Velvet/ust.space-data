@@ -1,0 +1,61 @@
+{
+  "course": {
+    "id": 2203,
+    "subject": "ENGG",
+    "code": "2990I",
+    "name": "Engineering Approach for Airship Design",
+    "description": "This course is designed to give 1st year engineering students exposure to different engineering disciplines through designing and building a remote controlled airship. Specifically, they will build an airship that uses helium balloons for lift, has motors and propellers for propulsion and control, and is controlled remotely using an Android device. Students will first acquire the basic knowledge and skills through online learning in the first part of the course. In the second part of the course, students will meet face-to-face and be divided into design teams with a common goal: construct an airship and participate in a competition at the end of the term. For Year 1 Engineering students only.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1640
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ENGG\" data-code=\"1200\" href=\"/review/ENGG1200\" target=\"_blank\">ENGG 1200</a>",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": [
+    {
+      "hash": "EDBbQEct857VkzyXgK00jpoYP3WRFDi9",
+      "semester": "2016-17 Summer",
+      "instructors": [],
+      "author": "Janewing",
+      "date": "Aug 23, 2017",
+      "title": "",
+      "comment_content": "engg2990i係online course, 唔係用好多時間上堂, 會教寫apps, Arduino砌airship, 同埋少少mech野, 課程唔係好深, 唔好要識到好深入, 例如apps只係用mit app inventor寫而唔係揼code. 對電子, cs, mech 有興趣既人可以take下",
+      "comment_teaching": "instructors 都好用心教, 仲有好多sta, 可以隨時佢地問問題",
+      "comment_grading": "very good grade<br />上堂時間唔多, workload 細, 性價比高",
+      "comment_workload": "very low workload",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

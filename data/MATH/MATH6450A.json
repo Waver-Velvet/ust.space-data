@@ -1,0 +1,213 @@
+{
+  "course": {
+    "id": 2087,
+    "subject": "MATH",
+    "code": "6450A",
+    "name": "Statistical Machine Learning",
+    "description": "The course is concerned with methodology, techniques and software to explore and analyze large complex data sets. By introducing principal ideas in statistical learning, the course will help students to understand conceptual underpinnings and statistical insights of a variety of supervised learning and unsupervised learning methods. Topics include: Linear methods for regression and classification, model assessment and selection, decision trees, additive models, bagging and boosting, neural networks and support vector machines, clustering, graphical models, multiple testing. Students should seek approval from the instructor to take this course.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1630
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4.6,
+    "review_count": 5,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 888,
+        "name": "JING, Bing-yi",
+        "count": 5
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "lburBFhSPvYIF681KxDU16s5vxbKa23E",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 888,
+          "name": "JING, Bing-yi",
+          "rating": 1
+        }
+      ],
+      "author": "jimmyx",
+      "date": "May 09, 2022",
+      "title": "",
+      "comment_content": "Basically this course is a review of ESL, from supervised to unsupervised learning. Despite from the STAT parts, the course also covered topics like SVM, NN, boosting.",
+      "comment_teaching": "The professor would assume students have diversified background, hence the course does not have too much mathematical derivation. Prof. JING likes telling stories lol.",
+      "comment_grading": "The grading is fine, the same as other MATH PG courses. Not hard to get an A-range. <br /><br />There is a course project, just implement the STAT ML methods in whatever problem and do a presentation.",
+      "comment_workload": "Reasonable workload. It&#039;s suggested to read the textbook an do some programming.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Vfh2bL6xpVUN1Oy1gqKgLxSilQnwboMv",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 888,
+          "name": "JING, Bing-yi",
+          "rating": 1
+        }
+      ],
+      "author": "yobrah",
+      "date": "Dec 14, 2021",
+      "title": "",
+      "comment_content": "Professor teaches relevant content and tries to stay up to date with the state-of-the-art.",
+      "comment_teaching": "Teaching style of the professor is very good. He&#039;s active and tries to engage with the students so that they ask meaningful questions.",
+      "comment_grading": "Grading is fine because the final exam is a lot similar to the homeworks. So, if you did well on the homeworks, you have nothing to worry about.",
+      "comment_workload": "Workload is okay. A couple of homeworks (maybe 4) during the whole semester. Questions are taken from the textbook or from his own material.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "pmc41phCP8Beuz8NUaMu3qnlldpbp3YG",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 888,
+          "name": "JING, Bing-yi",
+          "rating": 1
+        }
+      ],
+      "author": "Assaf",
+      "date": "Aug 26, 2021",
+      "title": "",
+      "comment_content": "ESL and lots of research papers and professor&#039;s handouts<br />Providing a comprehensive understanding of machine learning.",
+      "comment_teaching": "Fun<br />Many examples.<br />Based on ESL<br /> lots of research papers and professor&#039;s handouts<br />Providing a comprehensive understanding of machine learning.",
+      "comment_grading": "A+<br />Do your final project delicately(3 persons as a team). Need to grasp various data visualization technique. Presentation is also important.",
+      "comment_workload": "Almost no workload<br />Two homework: One Regression, one classification<br />One final project:(3 people as a team)&nbsp;&nbsp;Do your final project delicately. Need to grasp various data visualization technique. Presentation is also important.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "hXIMLATlaBL4xL8mqG4r2xLWJG2AvA44",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 888,
+          "name": "JING, Bing-yi",
+          "rating": 1
+        }
+      ],
+      "author": "shutupandtake",
+      "date": "Sep 23, 2019",
+      "title": "A good course to gain machine learning experience",
+      "comment_content": "Check his syllabus, or pick up ESL to scan through the contents (Elements of Statistical Learning), he mainly covers supervised learning. (Start with LDA, then linear model, and model with regularization. Even a touch on SVM. Some validation and model evaluation methods will be touched along the course.",
+      "comment_teaching": "Will benefit students who have some hands-on experience in machine-learning. Preferably some coding experience such as R and Python. He will go over the topic depending on his own research interest but you can discuss with him if you have some topics really interested in. Rigourous math is hardly spotted but you can drill it with ESL (Although ISLR will be a better point to start with). Friendly to non-statistic major students.",
+      "comment_grading": "Friednly grading. No requirement on attendence, though interesting lectures. depending on your project&#039;s overall performance. You can form a team up to 4 members, good to collaborate since there&#039;s no restriction on the dataset and topics you analyze. (Kaggle can be a good site to refer to).",
+      "comment_workload": "Generally light, no assignments, only projects for final evaluation, but you need to submit a proposal when forming up a team, should be around wk 3 after the add-drop period. Some extremely competitive UG students will also enroll in this course.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Oj0bJth3xKRehLfxwlNK12ReKw7Wzn4h",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 888,
+          "name": "JING, Bing-yi",
+          "rating": 1
+        }
+      ],
+      "author": "FL",
+      "date": "Sep 12, 2017",
+      "title": "",
+      "comment_content": "Covers key topics in classic textbook &quot;The Elements of Statistical Learning&quot; by Hastie, Tibshirani and Friedman. Another book for reference, which is easier, is Introduction to Statistical Learning by James, Witten, Hastie and Tibshirani. Majority of the courses are devoted to supervised learning. A lot of derivation of formulae.",
+      "comment_teaching": "First intuitive examples were given. Then in-depth derivation of formulae were carried out. Helpful for understanding the topics. However, for a given topic, if you missed the first class of the series, it seems impossible to catch up with the following classes.",
+      "comment_grading": "Criticisms were sharp and to the point when students were giving the presentation. Grading was lenient though.",
+      "comment_workload": "No assignments/exams. Only a project. Workload is light.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

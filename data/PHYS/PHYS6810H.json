@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 2539,
+    "subject": "PHYS",
+    "code": "6810H",
+    "name": "Introduction of Topological Band Theory",
+    "description": "The course will mainly cover the most recent development in the band theory, which introduces the concept of topology. Topics include Bloch theorem, energy band, Berry’s curvature, Spin Hall effect and quantum spin Hall effect, topological invariance, Chern number and Z2 index, Z2 topological insulator, topological crystalline insulator, topological semimetal and Weyl semimetal.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      1730
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

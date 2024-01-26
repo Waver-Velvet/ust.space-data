@@ -1,0 +1,77 @@
+{
+  "course": {
+    "id": 3320,
+    "subject": "ISDN",
+    "code": "3200",
+    "name": "Graphic Communication",
+    "description": "This course aims to get the students acquainted with a number of basic components used to build a coherent and meaningful graphic project/entity, which are central to understanding visual communication on fundamental level. This is done through series of lectures and related assignments where these are broken down and applied with special purposes. Necessary technical requirements for digital and physical/material application are covered at the start, after which main design tools (image and text) are analyzed along with basic visual design rules and guidelines (unity, hierarchy, balance, contrast, etc.) followed by addressing elements to build a fundamental graphic narrative (color, reduced visuals, full visuals, infographics), concluded by application of aforementioned items across different media: Deliverables ‐ Poster, Booklet, Digital Presentation, with consistency in translation of semiotic values and with showcasing basic visual literacy in execution of each as a final requirement.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2310,
+      2210,
+      2130,
+      2110,
+      2010
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3,
+    "rating_teaching": 5,
+    "rating_grading": 2,
+    "rating_workload": 2,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1471,
+        "name": "LAU, Brian Hui Wang",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "cNQaM5vvnJKaXVNoiwXEnYQ9h9FeN9CT",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1471,
+          "name": "LAU, Brian Hui Wang",
+          "rating": 1
+        }
+      ],
+      "author": "Borong",
+      "date": "Dec 31, 2022",
+      "title": "Stay away from ISDN!!!远离ISDN！！！",
+      "comment_content": "The lectures will become tutorials after the first month, and there will be two projects. Graphic design need practice, and Brian will help the students with it. So I think the content is fine.<br />在开学一个月后所有课都会以tutorial形式进行，之后一共有两个平面设计的项目。这是合理的，毕竟走平面设计的过程进行练习是较好的学习方法。",
+      "comment_teaching": "Brian is a good designer who runs a design company called Mad studios. His teaching in this course is fine since it is about his skills, he will also tell you something deeper if you would like to have some talks with him.<br />Brian 是一位优秀的设计师，他经营着一家名为 Mad studios 的设计公司。他在这门课程中的教学很好，毕竟这是关于他的长处，如果你想多和他谈谈，他也会告诉你一些更深层次的东西。",
+      "comment_grading": "This is NOT a course for beginners, Brian will be strict with your work. And half of the students are exchange students, some are really good at graphic design.<br />这不是给初学者的课程，Brian 会严格要求你的作品。同时有一半的学生都是交换生，他们非常擅长平面设计。",
+      "comment_workload": "Although there are only two projects, Brian will make you do them over and over again. Don&#039;t try to ignore the workload, or you will get a C+ like me.<br />虽然只有两个项目，但Brian会让你一遍又一遍地做。不要试图忽视工作量，否则你会像我一样得到 C+。",
+      "rating_content": 3,
+      "rating_teaching": 5,
+      "rating_grading": 2,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

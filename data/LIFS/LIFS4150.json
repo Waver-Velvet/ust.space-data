@@ -1,0 +1,357 @@
+{
+  "course": {
+    "id": 813,
+    "subject": "LIFS",
+    "code": "4150",
+    "name": "Plant Biotechnology",
+    "description": "Current status and future potential of Biotechnology, with emphasis on the fundamentals of plant molecular biology and biotechnology.  Using examples of marketable products from food industry, Traditional Chinese Medicine (TCM) and agricultural fields.  The role of basic research in the development and production biotechnology products will be described.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"LIFS\" data-code=\"2040\" href=\"/review/LIFS2040\" target=\"_blank\">LIFS 2040</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 3.57,
+    "rating_grading": 4.57,
+    "rating_workload": 3.71,
+    "review_count": 7,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 486,
+        "name": "LI, Ning",
+        "count": 7
+      },
+      {
+        "id": 470,
+        "name": "LEUNG, Kar Wah",
+        "count": 6
+      },
+      {
+        "id": 502,
+        "name": "WONG, Joseph Tin Yum",
+        "count": 3
+      },
+      {
+        "id": 1419,
+        "name": "LI, Laam",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "mI2eaRtQQOfOXTm96Kttc3wtGQQFMmm3",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        },
+        {
+          "id": 1419,
+          "name": "LI, Laam",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        }
+      ],
+      "author": "RIbtSU",
+      "date": "Dec 28, 2023",
+      "title": "Difficult exams and fair grading",
+      "comment_content": "Week 1<br />1 Sep<br />Course Introduction AL<br />Week 1<br />4, 6, 8 Sep<br />Medicinal plants &amp; natural drug molecules AL<br />Week 2<br />11, 13, 15 Sep<br />Plant tissue culture AL<br />Week 3<br />18, 20, 22 Sep<br />Molecule extraction to bioassay AL<br />Week 4<br />25 Sep<br />Revision AL<br />Week 4<br />27 Sep<br />Quiz 1 AL<br />Week 4<br />29 Sep<br />Group Presentation introduction JW<br />Week 5<br />4, 6 Oct<br />Inducible promoters and agrobacterium-mediated DNA transfer NL<br />Week 6<br />9, 11, 13 Oct<br />Genetic engineering of herbicide-tolerant crops/ cotton fiber NL<br />Week 7<br />16, 18, 20 Sep<br />Quantitative and functional PTM Proteomics and interactomics NL<br />Week 8<br />25 Oct<br />Quiz 2 NL<br />Week 8<br />27 Oct<br />Group Presentation introduction JW<br />Week 9<br />30 Oct, 1, 3 Nov<br />Phycological (aquatic plants) Biotechnology I JW<br />Week 10<br />6, 8, 10 Nov<br />Group presentation I JW<br />Week 11<br />13, 15, 17 Nov<br />Group presentation II JW<br />Week 12<br />20, 22, 24 Nov<br />Group presentation III JW<br />Week 13<br />27, 29 Nov<br />Group presentation IV JW",
+      "comment_teaching": "Dr. Li&#039;s teaching is fair. If you have taken LIFS3110, you know that Amy&#039;s voice is soft and plain, but she explained things quite well. You should be aware of those small details covered in the lecture slides as they would be examined. <br /><br />Prof. Li Ning is excellent in terms of teaching. He taught the topics from the very basics of genetics. So if you have forgotten everything learned from LIFS3140, it is still fine. Just follow his flow, and you will get the concepts. He sometimes uploads recordings late, and please notice that there aren&#039;t any recordings for tutorial sessions, so I suggest attending lectures for his part. His exam is really challenging.<br /><br />Joseph Wong is shit as usual. I think all of you have known this since LIFS2070. His part does not have exams but only group projects. However, his notes and instructions are totally unorganized. His speaking is also problematic as mostly no one understands what he is referring to. Luckily, you can simply ask in Cantonese after class so that you will be more clear with what he really wants for your group project.",
+      "comment_grading": "Course Grading<br />Midterm I (Amy): 35%<br />Midterm II (Li Ning): 25%<br />Group Project (Joseph Wong): 40%<br /><br />Only the score of Midterm I is disclosed, but you can email Prof to ask for your scores in other parts after the letter grade is released (I did so).<br /><br />My score:<br />Midterm I: 30/35 <br />(Mean: 20.27, LQ: 17.5, UQ 23.5, High: 31)<br /><br />Midterm II: 19/25<br />Group Project: 35.2/40<br /><br />Overall: 84.2%<br />Letter Grade: A+<br /><br />To be honest, the score is quite low, the overall score is only 84.2%, so I guess this proved how difficult the exam is, especially for the exam of Li Ning. I guess the mean maybe only around 10 out of 25. For the group project, do not hesitate to ask Joseph Wong for more details so that you can fulfill what he wants and attain a better score.",
+      "comment_workload": "The workload is normal I think. Both Amy and Li Ning&#039;s exams are challenging, but the scope of exams is actually not that much. To perform well in the exams, I guess having enough sleep the day before the exam is more important than studying for many hours. The exams require your critical thinking and logic instead of reciting.<br /><br />For group projects, try to find good groupmates. The workload of this course mainly comes from the group project (in my opinion). You need to attend every Joseph Wong lecture to know more about his instructions for the group project, which is still very confusing. He is changing instructions frequently, so you really need to attend his lectures though he is very shit.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "aMTzaaztYeAkjVyDqwSdAfKygA45iZo3",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 1
+        }
+      ],
+      "author": "kjung",
+      "date": "Dec 29, 2021",
+      "title": "All the information you need before the course",
+      "comment_content": "Professor Li<br />1. Inducible promoters and agrobacterium-mediated DNA transfer<br />2. Genetic engineering of herbicide-tolerant crops / cotton fiber<br />3. Quantitative and functional PTM proteomics and interactomics<br /><br />Professor Leung (Melody)<br />1. Medicinal plants &amp; natural drug molecules<br />2. Production of secondary metabolites and drugs in plants<br />3. Single cell culture, suspension culture of medicinal plant organs in fermentation<br />4. Molecule identification, extraction and bio-assay<br />5. Plant as energy source<br /><br />Professor Wong<br />Presentation preparation. Subject related to aquaculture (micro/macro algae and technologies for improvement and usage)<br /><br /><br />Summary<br />Li: Promoters, Agrobacterium, Cotton plastic, Herbicide, PTM<br />Melody: Medicinal plants, Plant cell culture, Extraction &amp; Bioassay,&nbsp;&nbsp;Bio-energy",
+      "comment_teaching": "Lecture first starts with professor Li. He is a good professor. Explains materials clearly but hates to be disturbed during the class. Better ask questions after the class finishes.<br /><br />Professor Melody is definitely one of the best professors I have encountered. She teaches with little jokes and tries her best to get the class interactive. Contents clear and concise. <br /><br />Professor Wong does not really teach in this course. He does a introduction about the aquaculture before students start preparing presentation. For the presentation consultation I felt he is little unclear. It is better you continuously bother him to get things cleared out and know what he expects to see in your presentation.",
+      "comment_grading": "Mid term: 60%<br />Mid term covers only Li and Melody&#039;s contents. The percentage of the questions are correlated with the lectures they have (Melody have more lecture so more questions from Melody&#039;s part)<br />Mid term involved MCQ and short essay from Li and short answered questions from Melody.<br /><br />Presentation: 40%<br />Presentation is further divided into 15% Oral presentation and 25% Literature review. Literature review is nothing special but ppt with improvements and 500 words summary of the whole presentation in one of the pages.",
+      "comment_workload": "Workload is quite fair. There are a lot of contents to be cleared for midterm as it takes 60% of the course. Take mid term like your final as it seems presentation scores don&#039;t deviate greatly between groups.<br />As long as slides are well understood and attend all the lecture there is no problem. Small tip is to understand all the techniques involved as questions are like small case studies to ask students to elaborate which technique to be used for what purpose.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Il9XvzZjbbOZLKTheHqTlHd35qTQFord",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        },
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        }
+      ],
+      "author": "Mcdreamy",
+      "date": "Jan 07, 2021",
+      "title": "",
+      "comment_content": "Li Ning&#039;s part:<br />Inducible promoters and agrobacterium-mediated DNA transfer&nbsp;&nbsp;<br />Genetic engineering of herbicide-tolerant crops/ cotton fiber <br />Fruit and flower Biotechnology&nbsp;&nbsp;<br />Principles and fundamentals of quantitative PTM proteomics&nbsp;&nbsp;<br />Quantitative PTM proteomics and its application in medicine and agriculture <br /><br />Melody&#039;s part:<br />Medicinal plants &amp; natural drug molecules Production of secondary metabolites and drugs in plants<br />Single cell culture, suspension culture of medicinal plant organs in fermentation<br />Molecules identification, extraction and bio-assay <br /><br />joseph&#039;s part: <br />Phycological (aquatic plants) Biotechnology I <br />Phycological (aquatic plants) Biotechnology II <br />Presentation",
+      "comment_teaching": "melody 負責literature review 個part<br />joseph 負擔個present 好煩，完全唔知佢想點，一時一樣，D email 睇死人，10封有9封都睇唔明。一時要人交point form, 一時要人交essay,一時就交summary。",
+      "comment_grading": "Mid-term Examination (I)&nbsp;&nbsp;&nbsp;&nbsp;40%<br />Literature Review (II)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30%<br />Oral Presentation (III)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30%<br />the midterm only covers Li&#039;s part (long q)",
+      "comment_workload": "literature review 同oral presentation 都係5-6個人一組。<br />literature review 1000-1200字,好快做完<br />oral presentation 多野做，present完要跟佢要求再執一次，仲要交多兩份report. <br />基本上midterm完之後唔上堂都搞得掂",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "iLNnnnob1Ps13wm0kDUb7WcEhnEevdd2",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        }
+      ],
+      "author": "Kabul",
+      "date": "Dec 21, 2019",
+      "title": "Lenient B range",
+      "comment_content": "Introduction to fundamental principles crucial to the development of plant biotechnology, as well as its applications in various fields.<br />🔷 Fundamental principles of plant biotechnology including methods of plant transgenesis, gene silencing, extraction and isolation, bioassays and quantitative PTM proteomics.<br />🔶 Applications of plant biotechnology including agriculture, horticulture, bioenergy and biopharmaceuticals.<br /><br />Li Ning&#039;s part:<br />🔷 1 Inducible Promoters<br />🔷 2 Agrobacterium-mediated DNA Transfer<br />🔶 3 Genetic Engineering of Herbicide-tolerant Crops<br />🔶 4 Genetic Engineering of Cotton Fiber<br />🔶 5 Flower Biotechnology<br />🔷 6 Gene Silencing in Plants<br />🔶 11 Genetic Engineering of Fruits<br />🔶 12 Genetic Engineering of Stress-tolerant Crops<br />🔶 13 Genetic Engineering of Cold-tolerant Plants<br />🔶 14 Genetic Engineered Plants for Bioenergy Industry<br />🔷 15 Principles of PTM Proteomics<br />🔷 16 Application of Quantitative 4C PTM Proteomics<br /><br />Melody&#039;s part:<br />🔶 7a Medicinal Plants<br />🔶 7b Medicinal Algae<br />🔷 8 Identification, Extraction &amp; Bioassay<br />🔶 9 Plant Cell Culture<br />🔷 10 Plant &amp; Algae as Drug factory",
+      "comment_teaching": "I have mixed opinion on Prof Li.<br /><br />✅ He is very passionate indeed, and encourages a lot of active learning.<br /><br />❌ But he is also notorious for not being able to go through the whole lecture slides and just letting us read the rest of them by ourselves.<br /><br />❌ Another thing is his HORRIBLE midterm exam arrangement. (I mean it.) He did not book an extra room to accommodate all of us, and still insisted on having us all sitting in alternate seats. After wasting some time Melody/the TAs finally found an empty room to accommodate the rest of students. But still some of the students had to sit on the ground to do the exam... (WTF?)<br /><br />✅ Melody&#039;s teaching is satisfactory, with overall clear explanation and elaboration.<br /><br />❌ It&#039;s, however, not a very participative style and at times her lectures become quite dull.",
+      "comment_grading": "✏️ Midterm: 40%<br />✏️ Final: 45%<br />💬 Presentation on Research Paper: 15%<br /><br />The midterm consisted of both Li Ning&#039;s and Melody&#039;s parts. Li Ning&#039;s part was MC questions, but they were certainly not easy. He only skimmed through the surface during lectures, but in the exams a much higher level of details were required. Don&#039;t believe him when he says he&#039;s gonna cover up to this or that in the exams... Melody&#039;s part is comprised of a few context-based questions on the principles of extraction, isolation and bioassays of a certain compound in plants. They were not easy either, and as a result most of us crashed the midterm exam.<br />Mean = 44.56%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SD = 14.36%<br /><br />Due to the political situation in Hong Kong, the final exam became an online open-book one. 2 questions were asked in the exam - one on how to make a transgenic tomato with certain desirable traits, and another one on the application of 4C quantitative PTM proteomics to identify phosphosites of cold-treated crops. A logical layout of experimental design was required in our answers and I personally think the difficulty was quite reasonable. (Not sure if others caught the point - Prof Li provided LOTS of hints on how to answer the final exam questions in the online Zoom exam review session)<br /><br />Grade&nbsp;&nbsp;&nbsp;# of Students (151)<br />A+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8<br />A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13<br />A-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9<br />B+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30<br />B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;41<br />B-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16<br />C+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11<br />C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7<br />C-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8<br />D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7<br />F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1<br /><br />20% gets A range;<br />58% gets B range;<br />the remaining 22% gets C range or below.<br /><br />💯 I got an A by being within the top 10% of the class. Fair enough.",
+      "comment_workload": "The major course workload lies on the tutorial presentation on a research paper. Each project group consisting of 5 students is required to critique a research paper related to a certain topic, and deliver a presentation on the paper to help other students review essential concepts mentioned in the lectures. I believe this would be the very first course for life sciences students to ever critique a research paper. For your information, websites such as PubMed provides a very good source of research papers.<br /><br />Attendance is not compulsory. But I believe it is impossible to understand the PowerPoint slides without listening to Li Ning&#039;s explanation in class.<br /><br />Just like other life sciences course, preparation a few days ahead of the exams is absolutely required. There is no way you can digest the materials in the last minutes.<br /><br />There used to be an innovative project in the past years, but it was cancelled this year due to a much larger enrollment than the past.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "6asiL32XxcqkgvxDquXfc0ccJ224xFlq",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 0
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        }
+      ],
+      "author": "ny5n6",
+      "date": "Jan 23, 2018",
+      "title": "",
+      "comment_content": "Teaches you basic concepts in plant biotech and touches upon topics such as genetic engineering in plants, protein extraction, drug synthesis in plants<br /><br />Li Ning: genetic engineering in plants and different plant parts<br />- Herbicide<br />- Promoters<br />- Agrobacteria mediated genetic engineering in plants<br />-Using cotton, flowers, fruits, plant secondary metabolites as targets for genetic engineering<br />Melody: conventional methods on plant culture and compound extraction in plants",
+      "comment_teaching": "Li Ning: has a lot to teach, but is not detailed enough, may require more research on your own time<br />Melody: quite detailed and comprehensive",
+      "comment_grading": "Midterm: 40%<br />Final: 40%<br />Projects (2): 10% each <br />Bonus points for asking questions during presentations (Mandatory, Professor Li will remind students to ask question)",
+      "comment_workload": "No homework, only two projects<br />1. presenting a research paper<br />Li Ning - students have to find their own research papers and present it as a group<br />Melody - provides research paper for students to present, emphasizes on the main key topics on the paper so students can present to their peers <br />2. Innovative project<br />Presenting a new plant biotech product to be released into the market. - Graded by Li Ning",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "kbYTR3dFQwnDeyOD9buRoEkvw1tv2umu",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        }
+      ],
+      "author": "biph",
+      "date": "Dec 27, 2017",
+      "title": "",
+      "comment_content": "The content is quite comprehensive, have taught you steps on how to do biotechnology (which could be applied in other biotech courses.) and the applications of different areas in plant biotech. <br /><br />Li Ning, talked on the theory and applications of plant biotechnology on various areas , e.g. flowers, fruits, cottons. <br /><br />Melody, taught more on the process of how to genetic engineer a plant, knowing which part you want to GM and the desired product biosynthetic pathway, isolate/extract the gene of interest, bioassay, culture of plant cells. <br /><br />Li Ning -<br />Chemical Inducible Promoter<br />Agrobacterium (use of Ti plasmid)<br />Herbicides <br />Cottons<br />Flowers<br />Ribozyme<br />Gene Silencing<br />Fruits<br />PTM-Proteomics<br /><br />Melody - <br />Medicinal Plant<br />Medicinal Algae<br />Identification, Extraction and Bioassay<br />Plant Cell Culture<br />Plant and Algae as Drug Factory",
+      "comment_teaching": "Li Ning -<br />For me, his topics are much more difficult than Melody&#039;s part as you need to be really familiar and understand the theory behind the topics in order to answer his MC questions in the exams correctly. <br /><br />He tried to explain in class, however I think the depth of knowledge he explained&nbsp;&nbsp;is not enough for you to answer the exam. So extra effort is needed after class to digest and revise and even go on Google to search for the theories. <br /><br />Melody - <br />She explained very clear on her topics and asked questions to make sure you understand what she said.",
+      "comment_grading": "Mid Term: 40%<br />Final: 40%<br />Project: Summary of a research paper 10%<br />Innovative Project: 10%<br />Bonus Mark for asking questions in projects: +1<br /><br />Mid term - <br />Answer 10 MCs out of 15 from Li Ning <br />(Choose the 10 most confident and the MCs are quite straight forward)<br />2 Long Questions from Melody <br />(Similar to the sample question Melody gave us)<br /><br />Final - <br />30 MCs and 10 Point Essay from Li Ning<br />(MCs requires much more thinking and in depth understanding of the theory and applications. <br />10 mark essays writing about ethylene surge before fruit ripening.)<br /><br />Mid Term Score: 32.86/40 (Mean:24)<br />Final Score: - (Not Released)<br />Summary of Research Paper Project: 8/10<br />Innovative Project: 9/10<br /><br />Final Grading: A<br /><br />They are not killers, both are quite lenient and generous in giving good grades. Li Ning said in the first few class that he would like to give all of us B+ or above. <br /><br />Honestly speaking, if you aim high, then you need much more extra effort and time to work on the materials.",
+      "comment_workload": "No homework, only 2 short projects. <br />Workload is fine.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "8X7nUWEptwnRRIr82Mp0Aan6yfcFRYxH",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        }
+      ],
+      "author": "qorhvk",
+      "date": "Dec 23, 2017",
+      "title": "",
+      "comment_content": "Content was quite interesting. Just as the course title is indicating, the course teaches about applying biological concepts to make real life plant products. <br /><br />Melody part was about extracting, cell culturing and bioassay. Just straightforward concepts Prof. Li Ning covers a variety of topics: cotton biotechnology, Agrobacterim mediated gene modification, herbicide, flower genetic engineering and so on. <br /><br />The course has midterm, final and two presentations. One presentation is just summarizing a paper that is related to the course topic. Not a hard one. <br />Second one is pretty interesting, both in a good way and in a bad way. It is called an innovative project, where you have to come up with a product that is commercially feasible. He focuses mainly on &quot;innovation&quot;, whether the idea is original. <br />Actually he gives grades generously (or hilariously)for the presentation, so i think the exam is still the key for the grade.",
+      "comment_teaching": "Melody<br />She talks really fast and to be honest, not very good at explaining. She jumps to next sentence without finishing her last sentence. Her tone is high and bright, but monotonic: when she was asking question, it took everyone 30 seconds to realize that she was actually asking something. <br /><br />Li Ning<br /><br />Teaching is not bad, but after taking two course of his, i am pretty sure he forgets what he said. Never believe when he says it will only cover up till this, or this will be tested; it will never happen. You need to study every detail that is written on the powerpoint.",
+      "comment_grading": "Midterm: 40<br />Presentation: 10<br />Innovative project: 10<br />Final: 40<br />Bonus +1 point if you ask question during tutorials, basically when somebody else is giving presentation. Not meaningful point as almost everyone gets it and I think it&#039;s maximum 1 bonus point. <br /><br />Following the curve for A range, but I think he is generous for B range. Final exam score was not released so not sure.",
+      "comment_workload": "Not that much. Just be careful with LI ning&#039;s part, because when he is teaching, he only scratch the surface, but in real exam, it&#039;s all about details. Also, tutorial presentations could also come up in the final, but it was not that hard.",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

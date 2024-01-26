@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 1425,
+    "subject": "SCIE",
+    "code": "1030E",
+    "name": "Critical Thinking",
+    "description": "Understand and evaluate historical thoughts leading to the modern scientific method. Develop critical thinking skill by applying the scientific method to social concepts and current affairs. Instructor's approval is required for taking the course. Graded DI/PA/F.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1510
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 534,
+        "name": "YAN, Min",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "qpCIWBN8cSO0h60sIArB8W60ZBGHfLAy",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        }
+      ],
+      "author": "terrylam",
+      "date": "Nov 29, 2015",
+      "title": "幾好攞credit既堂",
+      "comment_content": "不實用 但不完全無用<br />課程分兩部分<br />一部分討論時事（同高中通識差唔多）<br />另一部分系研究哲理 講好多歷史上出名既名人同佢地既理論",
+      "comment_teaching": "教得好用心<br />雖然思維有點偏",
+      "comment_grading": "只有Pass or Fail<br />但係instructor一開始就話唔會fail<br />甘姐系必pass 啦？",
+      "comment_workload": "簡直無workload 不過上得堂 自己備課甘啦",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

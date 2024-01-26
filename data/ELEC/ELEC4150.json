@@ -1,0 +1,76 @@
+{
+  "course": {
+    "id": 334,
+    "subject": "ELEC",
+    "code": "4150",
+    "name": "Information Theory and Error-Correcting Codes",
+    "description": "Communication and information theory; self and mutual information measures; channel models and capacity; source coding; hamming codes; cyclic codes; BCH and Reed-Solomon codes; convolutional codes and the Viterbi algorithm; burst error correction; Turbo coding.",
+    "categories": [],
+    "website": "http://course.ee.ust.hk/elec4150",
+    "credits": 3,
+    "semesters": [
+      2010,
+      1710,
+      1510,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2100\" href=\"/review/ELEC2100\" target=\"_blank\">ELEC 2100</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 164,
+        "name": "MOW, Wai Ho",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "ERLV2tpP9UIztcKfZzbDuvWKdTROrXGZ",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 164,
+          "name": "MOW, Wai Ho",
+          "rating": 1
+        }
+      ],
+      "author": "ptrknow",
+      "date": "Jan 01, 2021",
+      "title": "",
+      "comment_content": "Outline:<br />L1 - Introduction<br />L2 - Linear Block Code<br />L3 - Abstract Algebra<br />L4 - Cyclic Codes<br />L5 - Well Known Block Codes<br />L7 - Burst Error Correction<br />====== Term Exam =========<br />L6 - Convolutional Codes<br />L8 - Information Theory Basics<br /><br />- Although the official prerequisite is ELEC2100, It is actually better for you to have taken ELEC1200 and probability course<br />- A large part of the course focuses on linear cyclic block code (L2-L5)<br />- The content is not too much<br />- The content might sound abstract at the first glance. Fortunately, there are additional solved examples given along with the lecture notes. It is IMPORTANT to understand and try to solve those additional examples yourself.<br />- Essentially, this is a math course, although the professor focuses more on concepts and applications rather than proofs. Comparatively, those recommended textbooks are much more formal and abstract in style.",
+      "comment_teaching": "The teaching is okay. The professor will talk about a lot of sidenotes regarding some points in the slides. His explanation is usually detailed, but sometimes is not exactly clear.<br /><br />He is very responsive and helpful in answering email.",
+      "comment_grading": "Homework x3 (20%)<br />- Homework 1 Mean: 86.7/100<br />- Homework 2 Mean: 91.2/100<br />- Homework 3 Mean: 72.3/100<br /><br />Term Exam (40%): Mean 54.3/100<br />(Open Book, 80 minutes)<br /><br />Project (40%)<br />- Project Task 1 Mean: 69.2/100<br />- Project Task 2 Mean: 49.7/100<br /><br />My result: almost full in homework, around 90 in term exam, full in project task 1, around 90 in project task 2 =&gt; A+<br /><br />To me, the mean is surprisingly low, because the assessments are not particularly difficult. They are at most of intermediate difficulty. Given the small class size, I guess this is because the distribution is bipolar - some are doing quite good, but some are doing very bad.<br /><br />I think the most tricky concept in homework 3 is minimal polynomial. Let me emphasize here again: it is IMPORTANT to understand and try to solve the additional examples. The additional examples regarding minimal polynomial turn out to be very useful to solve the homework problem. If you can&#039;t understand the example by yourself, do ask the professor for help!<br /><br />Similarly for the term exam, if you have understood and tried to solve the addtional examples (together with lecture notes and homework, of course), then your result should not be too bad. (Particularly, for the term exam in this semester, you should be able to secure at least 70 marks.) The term exam does contain some tricky questions that require you to think twice, but most other questions are straightforward.<br /><br />(BTW the term exam this semester does not test us specifically on abstract algebra and interleaving, so be aware of this if you want to study this course in the future. The professor explicitly claims that he did not want us to rely on past exams too much. What does it implicitly tell us?)<br /><br />The project basically requires us to implement the concepts, e.g. encoding, decoding, interleaver, shortening, etc., using MATLAB. Furthermore, In task 1, we need to do Monte Carlo Simulation on AWGN channel, while in task 2, we need to do experiments using MobileLab which is developed by the professor&#039;s team. In MobileLab, you are essentially transmitting bits over a WiFi channel using your mobile phone camera. (Maybe some of you would see this thing in future ELEC1200 offerings?)<br /><br />IMO, the main difficulty is not about implementation (with MATLAB, the implementation is fairly straightforward), but about setting the right parameter, e.g. bit error probability, interleaver depth, etc. This reflects whether you really understand the concept.<br /><br />Of course, I give an A for this section because I obtained an A+ without so much effort. But I do not know about the overall curve, or in other words, whether the professor grades leniently or strictly.",
+      "comment_workload": "The workload is moderate.<br /><br />Finishing the homework is not too difficult. Some proofs can be found on google. You can also seek help from the professor.<br /><br />Preparing the term exam is not very time-consuming. It is mainly about going through the homework and additional examples.<br /><br />The project implementation is not complicated. I do not use MATLAB very often, but I still managed to finish the implementation in 1 or 2 days (for each task). The truly time-consuming thing is tuning the parameter. in task 2, you may also need some time to set up your mobile phone and MATLAB environment.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

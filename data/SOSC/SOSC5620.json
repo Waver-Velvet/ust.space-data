@@ -1,0 +1,75 @@
+{
+  "course": {
+    "id": 2520,
+    "subject": "SOSC",
+    "code": "5620",
+    "name": "Sustainable Development",
+    "description": "This course is designed to give students an understanding of how government and business professionals formulate policies related to the foundations of sustainable development. The course begins with an exploration into the concept of prosperity and conventional view of development in the context of environmental limitations. From that basis we will consider the economic, political and social ramifications of sustainable development and investigate the need for rejuvenation and innovation.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2130,
+      1930,
+      1730
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "SOSC 301E",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 216,
+        "name": "PATCHELL, Gerald Roe",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "1JVFPo6LEMqF6eG5XtoVXYb5LSfoLrK0",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 216,
+          "name": "PATCHELL, Gerald Roe",
+          "rating": 1
+        }
+      ],
+      "author": "RPG student",
+      "date": "May 10, 2022",
+      "title": "Sustainable Development",
+      "comment_content": "If you are interested in environmental and sustainability issues, especially recent sustainable development in the Greater Bay Area, you will find this course very interesting and informative. But there is quite a heavy load of conceptual theories related to sustainable transitions.",
+      "comment_teaching": "Professor Patchell is very knowledgeable in his field and gives lots of examples in classes.<br />His powerpoint usually has more than a hundred slides for each lecture, so it&#039;s quite difficult to digest everything.",
+      "comment_grading": "Participation in class 10%<br />Short presentations through semester (two) 30%<br />Group final presentation 20%<br />Final report 40% (grade derived from individual contribution)",
+      "comment_workload": "As with other RPG level classes, I think the workload depends on how deep you want to dig into each topic. But the mandatory readings for each lecture is not demanding, with an average of two to three articles per week. And there are many supplementary materials provided on Canvas, which are helpful for the final project.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

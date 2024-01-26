@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 3340,
+    "subject": "MATH",
+    "code": "6450H",
+    "name": "Mathematical Analysis of Machine Learning Algorithms",
+    "description": "This is an advanced graduate course for students who are already familiar with basic machine learning algorithms such as support vector machines, decision trees, boosting, neural networks etc, and has learned the basic mathematical tools such as calculus, linear algebra, and probability. This is mainly a mathematical class, and the goal is to introduce the basic techniques in the theoretical analysis of machine learning algorithms, with motivations and applications.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2010
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2033\" href=\"/review/MATH2033\" target=\"_blank\">MATH 2033</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2121\" href=\"/review/MATH2121\" target=\"_blank\">MATH 2121</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2411\" href=\"/review/MATH2411\" target=\"_blank\">MATH 2411</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2421\" href=\"/review/MATH2421\" target=\"_blank\">MATH 2421</a>) AND <a class=\"course-link\" data-subject=\"MATH\" data-code=\"4432\" href=\"/review/MATH4432\" target=\"_blank\">MATH 4432</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 2,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1366,
+        "name": "ZHANG, Tong",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "WrhwSFGTCIGcPjMQUPt8PdPHQhtMGebo",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1366,
+          "name": "ZHANG, Tong",
+          "rating": 1
+        }
+      ],
+      "author": "Aaron W",
+      "date": "Dec 31, 2020",
+      "title": "Hard course but interesting content",
+      "comment_content": "This course is about the mathematics of statistical learning, covering a wide range of topics. The course is heavily focused on the mathematical/theoretical aspect and there is zero coding involved (all theory). <br /><br />Topics: <br />- Introduction and basic probability inequalities<br />- Uniform convergence, and generalization analysis<br />- Validation analysis, VC-class<br />- Rademacher complexity, concentration inequality<br />- L2 regularization and kernel methods<br />- L1 regularization, sparsity analysis, and boosting<br />- Analysis of neural networks<br />- Regret analysis and online learning<br />- Aggregation and second order methods<br />- Multi-armed bandits<br />- Contextual bandits<br />- Statistical upper and lower bounds<br /><br />Also, this course is co-listed with COMP6211F but there is no difference between the two.",
+      "comment_teaching": "Prof Zhang is very knowledgable and one of the leaders in the field. He is also willing to help and respond to the questions we have.",
+      "comment_grading": "6 assignments (15% each)<br />1 reading assignment (10%)<br /><br />Scores: me (mean) all out of 100<br />Assignment 1: 90 (72.3)<br />Assignment 2: 100 (74.4)<br />Assignment 3: 100 (75)<br />Assignment 4: 95 (93.6)<br />Assignment 5: 98 (97.7)<br />Assignment 6: 84 (88.6)<br />Reading assignment: 98 (93.1)<br />Overall: 94.85 (84.55)<br />Grade: A",
+      "comment_workload": "Prof Zhang types out the lecture notes in a book form and updates it every week. By the end of the semester, the lecture note is 230 pages long (of dense theorems and proofs).<br /><br />There was an assignment every other week and they were all extremely difficult and take a lot of thought. Usually, I only know how to approach half of the problems, and the other half I was only able to do after bashing my head against the lecture notes for a week. Also, only a few of the questions had similar variants online so googling doesn&#039;t help.<br /><br />I&#039;ve taken 7 PG courses, and this course is easily the most difficult (and the one I spent the most time on).",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

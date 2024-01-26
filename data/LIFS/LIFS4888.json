@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 4331,
+    "subject": "LIFS",
+    "code": "4888",
+    "name": "Development and Registration of Pharmaceutical Products",
+    "description": "An introduction of the development and registration of pharmaceutical products in Hong Kong and the Mainland markets. Registration of pharmaceutical products (drugs, medical devices, food supplements) is a comparatively new biotechnology‐business model, which has evolved from governmental regulations to public health through the assurance of safety and efficacy of pharmaceutical products. This course emphasizes the essential components of pharmaceutical development; discusses the key stages and decision points in the process; and gives a detailed analysis on the quality control and regulatory requirements. The technological and financial requirements of the development of pharmaceutical products are also covered. Professional training in these disciplines, lacking in Hong Kong and the Greater Bay Area, is crucial for students who plan to pursue further studies or develop their career in the biotechnology sectors.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"LIFS\" data-code=\"2070\" href=\"/review/LIFS2070\" target=\"_blank\">LIFS 2070</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

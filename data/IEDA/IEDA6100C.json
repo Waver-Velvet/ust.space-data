@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 2843,
+    "subject": "IEDA",
+    "code": "6100C",
+    "name": "Revenue Management and Dynamic Pricing",
+    "description": "A Ph.D. level course covering current topics in Revenue Management and Dynamic Pricing. The goal of the course is to provide students with the background and tools required to perform research on open-problems in this rapidly growing field. An overview of business issues including a taxonomy and basic models of allocation of constrained capacity under uncertainty, overbooking, market segmentation, price optimization across a network and dynamic pricing. Students should select a class project from a list of current research topics provided. Each student will be expected to read and present key results of a paper from the bibliography provided.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1830
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 899,
+        "name": "GALLEGO, Guillermo",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "wY0x9NfM7VG3roqlRFZLuoFwy7KyNTBd",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 899,
+          "name": "GALLEGO, Guillermo",
+          "rating": 1
+        }
+      ],
+      "author": "alexcdong",
+      "date": "Nov 06, 2022",
+      "title": "",
+      "comment_content": "Week 1 Taxonomy, Business Issues and Basic Models <br />Week 2 Choice Modelling and Assortment Optimisation <br />Week 3 Network Revenue Management<br />Week 4 Dynamic Pricing and Competition<br /><br />The first four weeks are lectures by Prof. Gallego, followed by 5 sections of paper presentation and 5 sections of project presentation made by students.<br /><br />For the paper presentation, Prof. Gallego provides a reading list for students to choose from. And for the project presentation, students are expected to develop a sketch of original research project and present their preliminary results. To make students&#039; life easier, Prof. Gallego also provide several potential research topics for reference.",
+      "comment_teaching": "Prof. Gallego is a leading researcher in the filed. It is really fortunate to have him share his perspective of the field and research ideas. His teaching is based on his preparation for a review book in the field. <br /><br />Speak of personality, Prof. Gallego is a charming, funny, energetic, old gentleman.",
+      "comment_grading": "Grading is never important for PhD courses. PhD students are finally judged by their dissertation and academic career.",
+      "comment_workload": "Each student should finish a paper presentation and a original project presentation. No further workload.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

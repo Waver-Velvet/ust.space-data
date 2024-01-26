@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 3906,
+    "subject": "CORE",
+    "code": "1310",
+    "name": "Accounting, Business & Society",
+    "description": "Overview of accounting in business and social contexts; use of accounting information for accountability and decision-making in companies, non-profit organizations, and government; major elements of accounting, including assets, liabilities, revenues and expenses; discharge of accountability by companies through corporate social and environmental reports. The aim of this course is to make students aware of how accounting could be applicable to fundamental business transactions and ways to evaluate how businesses are operated.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2240,
+      2230
+    ],
+    "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1401\" href=\"/review/CORE1401\" target=\"_blank\">CORE 1401</a> OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1402\" href=\"/review/CORE1402\" target=\"_blank\">CORE 1402</a> OR CORE 1403 OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1404\" href=\"/review/CORE1404\" target=\"_blank\">CORE 1404</a> OR LANG 1002 (prior to 2022-23)",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ACCT\" data-code=\"2010\" href=\"/review/ACCT2010\" target=\"_blank\">ACCT 2010</a>",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1521,
+        "name": "CHEUNG, Kwok Yip",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "uFcDFm8LnAWPvV9oYf11x1t3qljQCMmx",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1521,
+          "name": "CHEUNG, Kwok Yip",
+          "rating": 1
+        }
+      ],
+      "author": "lmhayden",
+      "date": "Jun 08, 2023",
+      "title": "Good common core",
+      "comment_content": "Week 1 - Business and The Accounting Profession<br />Week 2 - Ethics/Corporate Governance/CSR Framework<br />Week 3 - Foundation Concepts of Accounting<br />Week 4 - Measuring Income to Assess Performance<br />Week 5 - Accrual Accounting and Financial Statements<br />Week 6 - Statement of Cash Flow<br />Week 7 - Accounting for Sales<br />Week 8 - Inventories and Cost of Goods Sold<br />============== Midterm ==============<br />Week 9 - Long-lived Assets and Depreciation<br />Week 10 - Liabilities and Interest<br />Week 11 - Stockholder’s Equity<br />Week 12, 13 - Financial Statement Analysis<br /><br />The content is not too difficult for a non-business student (such as me) although I did not studied any business subject (such as BAFS) in secondary school.",
+      "comment_teaching": "Steven is very good at teaching and explaining some difficult concept to us. He took into account the fact that we are not business students, so some difficult contents are cut. I like this attitude. This shows me that he wants us to learn something from him instead of just wanting to earn his salary.",
+      "comment_grading": "The grading is good. <br /><br />Participation (10%), Individual assignment (10%), Mid-term Examination (40%), Final Examination (40%).<br /><br />Midterm exam only cover questions about corporate governance (week 2), ethics (week 2), bank reconciliation and update cash book (week 7); and inventory and cost of goods sold (week 8).<br /><br />Final exam only cover questions about Long-lived Assets and Depreciation (week 9), Liabilities and Interest (week 10), Stockholder’s Equity (week 11) and Financial Statement Analysis (week 12, 13)<br /><br />(Final exam is more slightly difficult than midterm exam.)<br /><br />my mark:<br />Participation: 10/10<br />Individual assignment: 100/100<br /> Mid-term Examination: 99/100<br />Final Examination: unrelease<br /><br />Final grade: A+",
+      "comment_workload": "The workload is nearly none. You only need to summit one assignment.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

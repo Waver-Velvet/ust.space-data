@@ -1,0 +1,124 @@
+{
+  "course": {
+    "id": 920,
+    "subject": "MATH",
+    "code": "4424",
+    "name": "Multivariate Analysis",
+    "description": "Inferences of means and covariance matrices, canonical correlation, discriminant analysis, multivariate ANOVA, principal components analysis, factor analysis.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"3423\" href=\"/review/MATH3423\" target=\"_blank\">MATH 3423</a> and <a class=\"course-link\" data-subject=\"MATH\" data-code=\"3424\" href=\"/review/MATH3424\" target=\"_blank\">MATH 3424</a>",
+    "corequisites": "",
+    "exclusions": "ISOM 5530",
+    "rating_content": 5,
+    "rating_teaching": 4.5,
+    "rating_grading": 4,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 888,
+        "name": "JING, Bing-yi",
+        "count": 2
+      },
+      {
+        "id": 1338,
+        "name": "YANG, Qing",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "zdkqPS7l76FAHzN95lbY4JGLZ4FNmCVf",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 888,
+          "name": "JING, Bing-yi",
+          "rating": 1
+        },
+        {
+          "id": 1338,
+          "name": "YANG, Qing",
+          "rating": 1
+        }
+      ],
+      "author": "aneagonh",
+      "date": "Jan 07, 2021",
+      "title": "Love you 3000.",
+      "comment_content": "Linear Algebra Review<br />Multivariate Normal distribution <br />Inference of mean vector <br />Comparison of Several Multivariate means (MANOVA)<br />PCA<br />Factor Analysis<br /><br />Coz this is an online semester and prof hasn&#039;t taught UG courses for many years, he didn&#039;t have enough time to cover all chapters. <br /><br />However, there should be no more regression analysis in this course coz he said 3424 has done this job already.",
+      "comment_teaching": "Prof is really nice and willing to answer you anythings, be it 4424-related or not.",
+      "comment_grading": "Prof said he didn&#039;t want to add burden to us during COVID-19, so he would try to make the exam easier. <br /><br />He kept his promise eventually. <br />Easy exam, good grade.<br /><br />If Prof. Jing still teaches 4424 next time, just go for it.",
+      "comment_workload": "You only need to study for final exam. <br />That&#039;s all.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "uZpvpnTSlmbnJCDz4q8jnOVf0bTO0n6n",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 888,
+          "name": "JING, Bing-yi",
+          "rating": 1
+        }
+      ],
+      "author": "USTAsiaNo1",
+      "date": "Dec 26, 2020",
+      "title": "Introduction to Multivariate Statistics",
+      "comment_content": "- Content list<br /><br />( ) means that section used part of that course contents<br />&lt;&gt; means that section is an extension of that course<br /><br />* I actually didn&#039;t take 3424 so I am not sure if there is any overlapping. From what I heard, it seems there IS some overlapping in things like ANOVA, please go to check 3424 review for confirmation :)<br /><br />1. Graphical interpretation of multivariate data<br />2. Revision of Linear Algebra (2111~2131)<br />3. Random sample &lt;(2421)&gt;<br />4. Multivariate Normal &lt;(2421)&gt;<br />5. Inference of mean &lt;(3423)&gt;<br />6. Comparison of Several Multivariate means (ANOVA/MANOVA)<br />7. Principle Component Analysis (PCA)<br />8. Factor Analysis<br />9. Canonical Correlation Analysis (only briefly introduced)<br /><br />- Proof vs Concept<br /><br />This course emphasises concept!!!<br />Ratio of &quot;intuition&quot; vs &quot;proof&quot; vs &quot;actual calculation&quot;:<br />50% vs 25% vs 25%<br />Not every theorem or properties will be proved <br />at least not as many proofs as 3423<br /><br />Be aware if you REALLY want the proof of everything<br />Anyway, you can check the textbook, all proof is there and clearly explained<br /><br />- Importance of Multivariate skill and this course<br /><br />I would say it is a must course for people love statistics, it doesn&#039;t make any sense to say u know statistics without knowing how to deal with multivariate data. For example, PCA, which you will learn here, is properly one of the most important concept in the world of data science. <br /><br />However, due to the rare opening of this course and unstable and unstandardised teaching (refer to &quot;teaching&quot; part), don&#039;t take my word as truth as changes might happen when you see this course again!!<br /><br />- Required knowledge from Linear Algebra<br /><br />You should have been familiar with SVD or EVD from linear algebra computationally, conceptually, and graphically before taking this. They are essential tool for the whole course and will help you A LOTS in understanding the reasoning of everything, especially like PCA, Factor Analysis. <br /><br />If you are not that good at linear algebra, professor will teach some &quot;basic in linear algebra&quot; at the beginning, just take it up at that time :)",
+      "comment_teaching": "I would use three words:<br />- Intuitive <br />- Unstable<br />- Nice<br /><br />Here is the explanation:<br />1. Professor focuses on the idea/concept super heavily, it is quite good if you want to gain some insight into the topic like LRT/ANOVA/PCA/Factor analysis<br />I think he explains fairly good, however...<br /><br />2. The experience is not stable, what does it mean?<br />Here is the story:<br />This course has not been opened for a while. Professor jing think it is a super important course and therefore voluntarily host this course this semester by himself<br /><br />Therefore, the materials and teaching have not yet standardised, so, even I personally quite enjoy his teaching as I care about concept heavily, I have to honestly say the teaching might not be as good as other courses which opened every semester and taught by the same professor.<br /><br />Let I explain it in more detail, even he emphasised concept, it doesn&#039;t mean he explains them in a fully understandable and comprehensive way. As I mentioned, you can gain some insight. BUT, it is &quot;some insight&quot;, not &quot;comprehensive understanding in abstract and concrete level&quot;. Like, he will use different examples, graphical representation to explain something, but he rarely go to the abstract level directly. So, you can get some insight, but you might need to read the textbook to see the formal definition of some fancy properties he mentioned with the examples and graphs<br /><br />So, I personally think, without learning yourself by reading textbook or finding some online resources, what you can really get is some insight, which in most case is the most important idea of that chapter, but, not the full picture. So, go study yourself, learn the theory in detail, and attain the lecture, see how the professor understand it, finally, you will understand everything. This course alone might be quite incomplete or not in-depth, but with your own studying, it will be perfect :)<br /><br />Final remark: it seems I really say too many bad things here lol, I just want to make it honest and clear that the teaching indeed have room for improvement. Anyway, I am quite enjoy the journey and indeed gain some important insight in statistics. <br /><br />(TBH, the workload of this course is just too low, you definitely have many spare time to read the textbook and consolidate your knowledge<br />And I believe anyone who will ever consider this course will have the motivation to do that)<br /><br />3. What a nice guy<br />The professor is just nice, welcome every problem, you can ask basically everything, from silly problem to crazy deep learning thing<br />With what I mentioned in 2., you can actually go to ask the professor in person to get all the detail if you want.<br /><br />Overall, I would claim it is B",
+      "comment_grading": "- Grading Scheme<br /><br />30% Assignment<br />70% Final<br /><br />- Statistics<br /><br />Basically, everyone, every assignment is 100%<br />Final exam, not disclosed<br /><br />So, no comment can be given<br />just ignore the C I gave in this section<br /><br />- Personal comment <br /><br />Even I don&#039;t know the mean, sd, ..., and even my score LOL<br />What I can tell u guys is that the exam is SUPER EASY<br />I believe the sd is SUPER low and mean is SUPER high<br /><br />SO, it is easy to get a high score, but it is hard to get higher than mean<br /><br />Just bear in mind that it might be a special case under prof jing teaching (as mentioned in &quot;workload&quot; part)",
+      "comment_workload": "- Comment on the assignment and exam<br /><br />Assignment: Easy<br />Final exam: Easy<br /><br />TBH, It is probably the easiest course ever in UST advanced math course <br /><br />HOWEVER, I believe it is because professor jing is new to this course and he doesn&#039;t want to scare us. <br />Also, since he really didn&#039;t go into detail, so he cannot ask something too crazy anyway, so, the exam is so standard and on-the-ground.<br /><br />At least, subjectively specking, I think it is a really low workload course, even compared with some 1000 level, it is still low<br /><br />- Comment on the content itself<br /><br />I didn&#039;t take 3424 at all, and I take 3423 together with this, with my background, I still find it manageable to understand the contents as long as you read the textbook and go to the lecture together. Since the professor didn&#039;t go too deep in detail, like proving everything, you don&#039;t need to work so hard as the whole review emphasise and still able to gain some useful insight!",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 4,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "course": {
+    "id": 1398,
+    "subject": "MECH",
+    "code": "3690",
+    "name": "Aerospace Engineering Laboratory",
+    "description": "Fundamentals of instrumentation and measurement and their application in engineering testing and experimentation. Focuses primarily on application of the fundamental principles learned in MECH 3640, MECH 3650, MECH 3660, MECH 3670 and MECH 3680 to more advanced test and measurement applications. Includes principles of analog and digital data acquisition, analysis of discrete measurement data, statistical assessment of hypotheses, design of experiments, and similarity scaling of data. For AE students only.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030,
+      1930,
+      1830,
+      1730,
+      1630
+    ],
+    "prerequisites": "",
+    "corequisites": "<a class=\"course-link\" data-subject=\"LANG\" data-code=\"4034\" href=\"/review/LANG4034\" target=\"_blank\">LANG 4034</a> AND (<a class=\"course-link\" data-subject=\"MECH\" data-code=\"3640\" href=\"/review/MECH3640\" target=\"_blank\">MECH 3640</a> OR <a class=\"course-link\" data-subject=\"MECH\" data-code=\"3650\" href=\"/review/MECH3650\" target=\"_blank\">MECH 3650</a> OR <a class=\"course-link\" data-subject=\"MECH\" data-code=\"3660\" href=\"/review/MECH3660\" target=\"_blank\">MECH 3660</a> OR <a class=\"course-link\" data-subject=\"MECH\" data-code=\"3670\" href=\"/review/MECH3670\" target=\"_blank\">MECH 3670</a> OR <a class=\"course-link\" data-subject=\"MECH\" data-code=\"3680\" href=\"/review/MECH3680\" target=\"_blank\">MECH 3680</a>)",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 2.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 4,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1261,
+        "name": "REDONNET, Stephane",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "j8mF3ObUYPVa8Z33ngfqFByfghhCkdkY",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1261,
+          "name": "REDONNET, Stephane",
+          "rating": 1
+        }
+      ],
+      "author": "An225 Mriya",
+      "date": "Jun 19, 2023",
+      "title": "Stress and tension (Literal and Extended Sense)",
+      "comment_content": "As a laboratory course that focus on verifying what we&#039;ve learnt on textbooks before, the course introduced almost no new contents, if not something new about aeroacoustics. Fast Fourier transform (FFT), a topic that was never introduced before, was also often required to be used to write lab reports. You are strongly advised to find a teammate who&#039;re familiar with Matlab and FFT.<br /><br />The labs, all conducted with 4 teammates, were listed as follows. The brackets indicate what prerequisite knowledge involved:<br />1. Data acquisition and analysis (using FFT)<br />2. Mechanical vibration (MECH3610)<br />3. Venturi flow (MECH1907/2210)<br />4. Boundary layer (MECH3640)<br />5. Stress and strain (MECH2040/3650)<br />6. Buckling and bending (MECH2040/3650)<br />7. Open-cavity noise<br />8. Turbojet performance (MECH3660)<br /><br />There&#039;s also a final project where each group was to build, test and fly a glider as far and straight as possible, in addition to a report.",
+      "comment_teaching": "Despite all of the craziness, Professor Redonnet&#039;s teaching delivered course contents in a clear and understandable way. That said, the course was changed so that we only need to attend 4 lectures at the beginning 4 weeks, after in which we would start the experiments. He&#039;s also aware of the sheer workload for the course, and reduced 1 lab session (and lab report as well), though it didn&#039;t reduce much workload for us...<br /><br />Dr. Simon Li was the lab instructor. His explanation was lively, and he provided us many useful assistance in conducting experiments. He&#039;s also willing to solve technical problems during experiments, which was especially helpful in an UG lab with aging and sometimes malfunctioning equipment.",
+      "comment_grading": "*Attendance and participation: 5% (Almost full)<br />*Midterm: 15% (Data lost, my score is somewhere near the mean, mean 68.7%)<br />*Lab reports and final project: 80%<br />Lab 1: 82%, mean 82.12%<br />Lab 2: 92%, mean 91.98%<br />Lab 3: 85%, mean 82.98%<br />Lab 4: 90%, mean 83.98%<br />Lab 5: 96%, mean 90.15%<br />Lab 6: 87%, mean 89.29%<br />Lab 7: 70%, mean 78.78%<br />Lab 8: 80%, mean 85.49%<br />Glider project: 72%, mean 81.17%<br />&lt;Reminder: Group score, mean score&gt;<br /><br />During each lab, each group was required to prepare a log sheet recording the experiment&#039;s detail, which could be completed by one groupmate. At the end there would also be a group question, the scope ranging from easy ones like &quot;what is the model of some apparatus&quot; to more academic questions. Once people were comfortable with them then almost everyone scored nearly full mark.<br /><br />The closed-book midterm without cheat sheet was divided into 2 parts. The first part was of the Frenchman&#039;s style: brain-twisting conceptual MC questions, while the second part gave you some experiment results and require you to write something in a lab report manner. Without proper revision, you would be quite screwed in dealing with MCQs, which was especially true if you were stuck on lab reports and unable to do revision.<br /><br />One can see the course was heavily graded on your lab reports and final project. <br />*For lab reports, everyone needed to be the main writer of a short and long report, in which it was said that the main writer would have more weighting in the lab report&#039;s grade.<br />*Lab reports typically focused on your presentation, and sometimes you could have marks deducted for stupid reasons like &quot;table without borders missing&quot;.<br />*That said, the TAs did look at your contents as well. Any missing contents would result in more significant mark deduction (as evident in Lab 7).<br />*The final project report and the glider&#039;s gliding performance weights 3:7.<br />*If the glider was continued in the future, you are STRONGLY ADVISED to compare your glider with a paper airplane in your report. In case if your glider got screw up, then the paper airplane could be a better substitute with better competitiveness.<br />This will be discussed more detailed in the workload part.<br /><br />At the end get a B. It looked isn&#039;t that good, but when combining with other factors, I&#039;m glad to see I didn&#039;t end up in something even worse...",
+      "comment_workload": "I usually leave E gradings in a whole-life-order manner, but its high time to grade it now. An E grading for workload is an understatement to me. For groups with competent groupmates the workload could be probably somewhere near D, but for me, the course was a literal XK-class end-of-the-world scenario.<br /><br />To give some background with my review, I had 3 groupmates, namely A, B and C (for privacy). A and B were non-JUPAS students who had only taken a few co-requisite MECH courses. C was an exchange student who joined our group in a last-minute attempt. I do not intend to blame anyone, but in general my experience in this course is truly awful.<br /><br />After each lab was finished, we would distribute the workload on each others. For A and B, their writings were truly awful in terms of grammar and content, often neglecting every writing standard prescribed in LANG4034. In a few cases they even made up their words, often in a academically wrong way. Any modifications on their writings would essentially become wholesale deletion and replacement. For results and discussion parts, they also often made significant errors and omissions with respect to the experimental questions we were intended to answer. As they had limited prerequisite knowledge, their availability on some harder topics were also limited. Things go only worse when B was taking a part-time job at every Sunday afternoon until midnight, so he couldn&#039;t respond to any feedbacks made by me.<br /><br />To be fair, they were also good hand craftsmen, and indeed helped the group in crafting the final glider (and leaving me in writing the lab reports). Without them, I would have serious problems with building the glider and writing 2 lab reports at the same time.<br /><br />Now let&#039;s talk about C, he&#039;s a diehard deadline fighter who usually start off his work as early as Friday, and as late as Sunday afternoon (the deadlines for report is the same: 23:59 Sunday). He&#039;s also a frequent traveller (common for exchange students), so his availability was essentially Schrödinger&#039;s cat. That said, he&#039;s the only one who truly understand FFT well. Without him we would have screwed on Lab 1 and 8. I had mixed feelings with him, until he left AWOL to Japan before the deadline of final glider project. At that time, I only want to behave like the Kinabatangan bigfoot to this contemptible i-shake-it (Korean transliteration, you guess it).<br /><br />The result: I became the editor-in-chief of all reports. Whenever they couldn&#039;t write, I had to took over. Whenever they wrote something, I still had to took over and revise their deficient works. During the course period, every Sunday was essentially struggles with deadlines through the midnights.<br /><br />I hope these experience give you some hints in choosing teammates. In addition, we also had a group of Year 4 students who crushed everyone else by flying their glider through the sport&#039;s center&#039;s corners. I&#039;m not sure if they had previous experience, but if you encounter someone with aviation competition experience, please do try your best to headhunt them to your group.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "EWB4s6XRmtkdljkjMMZrQhlvoOJCSSFB",
+      "semester": "2021-22 Spring",
+      "instructors": [],
+      "author": "JackHoho",
+      "date": "Feb 07, 2023",
+      "title": "",
+      "comment_content": "Conduct experiments (it was conducted in online mode in my case so the labs were recorded for us to view) on <br /><br />1. Aerodynamics &amp; Aeroacoustics<br />2. Flow through a Venturi Meter<br />3. Boundary Layer<br />4. Turbojet Engine Performance<br />5. Strain Measurement &amp; Stress Concentration<br />6. Aircraft Structures (buckling &amp; bending)<br />7. Vibration Measurement<br />8. Measurement of fracture toughness<br />9. Glider design and competition<br /><br />The course starts with introducing you to the basics of lab report writing, e.g. formats, significant figures, data reduction errors... For each experiment, there is a mini-lecture on the theory and formulas associated with the topic, that aids your lab report writing.",
+      "comment_teaching": "Since it was delivered via zoom, teaching was mediocre at best. They put the effort in the making of experiment videos but did not go to great lengths to explain the methodology and nuances of the experiments. The TA was helpful tho.",
+      "comment_grading": "fair",
+      "comment_workload": "9 lab report on a group basis (3-4 people in a group) in the span of the semester<br /><br />A glider project in which you would build from scratch (2x1-m long carbon sticks, blue tack, tape and scissors would be provided but you have to fabricate the skin by yourselves) to compete with other groups. You would also present to the prof. about your design choices but in a casual way. <br /><br />A quiz at the end of the semester",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

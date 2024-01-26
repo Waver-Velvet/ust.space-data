@@ -1,0 +1,75 @@
+{
+  "course": {
+    "id": 3613,
+    "subject": "BIEN",
+    "code": "3300",
+    "name": "Data Science for Molecular Engineering",
+    "description": "This course is an introductory course on the application of machine learning methods in molecular engineering problems. It covers fundamental data processing and machine learning methods to analyze data in chemistry and biology such as molecular similarity calculation and property prediction.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2130
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"1021\" href=\"/review/COMP1021\" target=\"_blank\">COMP 1021</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 3,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1522,
+        "name": "GAO, Hanyu",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "E9E4Gy55RTvAkyHevMXG2Nt46sduNjDc",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1522,
+          "name": "GAO, Hanyu",
+          "rating": 1
+        }
+      ],
+      "author": "SATB",
+      "date": "Sep 24, 2022",
+      "title": "",
+      "comment_content": "Part 0. Introduction<br />Week 1 Real-world applications of data science in physical, chemical and life<br />sciences<br />Part 1. Math Methods for Data Science<br />Week 2 Basic concepts in linear algebra, calculus and numerical optimization<br />Week 3 Review of statistics and probability<br />Part 2. Data Processing<br />Week 4 Introduction to Python and Pandas for Processing Tabulated Data<br />Week 5 Cheminformatics toolboxes – the example of RDKit<br />Week 6 Results visualization – molecules, chemical reactions, trees, graphs<br />Part 4. Supervised Learning<br />Week 7 Introduction to common supervised learning problems in molecular<br />engineering<br />Week 8 Linear regression - molecular property predictions and feature importance<br />Week 9 Molecular feature engineering and nonlinear regression<br />Week 10 Introduction to deep learning and neural networks<br />Part 5. Miscellaneous Topics<br />Week 11 Introduction to unsupervised learning and reinforcement learning<br />Week 12 Data collection and design of experiments in molecular engineering<br />Week 13 Course project presentation",
+      "comment_teaching": "2 1.5-hour lectures per week, Prof Gao usually used the first lecture in a week to go through the lecture slides, and then the second lecture will be an interactive coding session.<br /><br />I did not find the teaching particularly interesting. I think it is more important that we read enough documentation about the modules we are using for the coding part. Be sure to be fluent in the most common functions in modules like sci-kit learn, RDKit, etc.",
+      "comment_grading": "Homework 20%<br />Final exam 40%<br />Course project 40%",
+      "comment_workload": "Very light, only 2 pieces of homework, both about coding. Although the questions may be long, you can always use Prof&#039;s codes in class as a template.<br /><br />1 individual course project, we must work on something related to data science, preferably (but not limited to) the field of molecular engineering. The easiest way is to apply the codes demonstrated in class in a different context, since the same algorithm can be applied in many scenarios.<br /><br />The final exam is all about coding and manipulating all the functions and algorithms that were taught in class. It should not be difficult if you understand the codes thoroughly. Be sure to read carefully about the questions, don&#039;t miss out on any small detail!",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

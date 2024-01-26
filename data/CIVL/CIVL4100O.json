@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 3743,
+    "subject": "CIVL",
+    "code": "4100O",
+    "name": "Advanced Construction with AI and Robotics",
+    "description": "This multi-faceted course encompasses advanced technologies in infrastructure and building construction, maintenance and operations. The course provides deep learning methods in computer vision and robot sensing with hands-on coding training on solving construction management problems with these methods. Combined with tools from AI and robotics, the course equips students with leading-edge knowledge and practices to bring about successful construction reform in the context of the smart city. The course is a mixture of lectures, tutorials, and student projects. The concept, theory and applications of AI and robotics in construction are delivered through lectures. The tutorials provide hands-on exercises on AI and robotics software development toolkits to learn how to apply these tools with given data. Through mini-projects, students explore the use of the toolkits for practical problem-solving in construction. Instructor’s approval is required.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2210
+    ],
+    "prerequisites": "COMP1021 OR COMP1022P OR COMP2011 OR COMP2012H",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1573,
+        "name": "YU, Yantao",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "ApTenItRD4ZV5SrTniJ49uO4PlWLIwhW",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1573,
+          "name": "YU, Yantao",
+          "rating": 1
+        }
+      ],
+      "author": "HKUST-1",
+      "date": "Dec 19, 2022",
+      "title": "新course: 唔civil的civil course",
+      "comment_content": "新course<br />主要教你揼下machine learning code<br />教下你ml dl啲algorithm 又有好少好少數學咁 我阿嫲嚟聽都聽得明 (利申: 阿嫲有phd)<br /><br />Course content<br />Week 2: Machine Learning in Smart Construction (Regression, RSS)<br />Week 3: Multi-Regression<br />Week 4+5: Assessing Performance: training error, generalization error<br />Week 6: Ridge Regression<br />Week 7: Lasso Regressuin<br />Week 8: NN - Kernal Regression (非NNN)<br />Week 9: Linear Classifier<br />Week 10: Classifiers<br />Week 11: Deep learning<br />Week 12: Robotics<br /><br />有3個test, 3個in class assignment(跟住個TA揼曲就做完) 仲有1個mini-project<br /><br />個mini-project係你要幾個topic度揀一個嚟講可以點樣應用喺construction industry度<br /><br />Computer vision<br />natural language processing<br />speech recognition<br />digital twin<br />collaborative robots<br />exoskeleton<br />如果有其他有興嘅topic可以同professor傾<br /><br />2次present2次report submission<br />第一次喺midterm period左右，要交intro + background only<br />第二次就乜都要交齊<br /><br />啲in class test都係睇下你熟唔熟啲數點計，好簡單的，我阿爺都識計",
+      "comment_teaching": "很好人的professor<br />可以直接上佢office搵佢<br />你問啲唔關事嘅嘢只要佢識佢都會答<br /><br />上佢office可以見到佢有部3090 電競主機，酸死我",
+      "comment_grading": "Course attendance 10% (10)<br />In-class assignment 15% (12)<br />In-class quiz 15% (12)<br />Mini project:<br />Midterm report 10% (9; 7.8)<br />midterm presentation 10% (9.67; 9.07)<br />final report 20% (19; 17)<br />final presentation 20% (19.5; 17.45)<br />分號後面係個mean <br />最後我A+<br />我個frd final present 低我一分A咗<br />我老竇嚟讀呢個course都拎到A-",
+      "comment_workload": "冇乜workload<br />早啲打文會冇咁痛苦<br />最大workload都係打文同睇文吧<br />始終civil底<br />淨係明CNN 同KNN都搞咗我成日<br />淨低都冇乜難度<br />記得睇多啲文睇吓啲人點做吧<br /><br />不過2016年打後computer vision好多都係用deep learning approach<br />而course教嘅好多都係machine learning<br />所以如果你唔係做deep learning嘅話可能搵文上面會有少少難度<br />善用google scholar同sciencedirect吧",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 6,
+      "vote_count": 8,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

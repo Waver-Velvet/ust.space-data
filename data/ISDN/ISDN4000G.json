@@ -1,0 +1,75 @@
+{
+  "course": {
+    "id": 3321,
+    "subject": "ISDN",
+    "code": "4000G",
+    "name": "Internet of Things: From Component Skills to System Integration",
+    "description": "The special topic course introduces the fundamental concepts and skills on how to design an IoT (Internet of Things) system. The course includes fundamental theory and practical hands-on labs and projects for the student to acquire the basic knowledge on several key components for IoT systems, including circuits and sensors, signal processing, embedded systems, and communication and networking. The integration of different components is an important topic for this course.  The students will acquire the knowledge through lectures, practical hands-on labs, and projects. Instructor's approval is required.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2110,
+      2030,
+      2010
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 176,
+        "name": "SONG, Shenghui",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "hE2V29PzUWhk1r3gOwgtuVugy2zZtxME",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 176,
+          "name": "SONG, Shenghui",
+          "rating": 1
+        }
+      ],
+      "author": "Isaackoo",
+      "date": "Jan 20, 2021",
+      "title": "",
+      "comment_content": "Course Description:<br /><br />The special topic course introduces the fundamental concepts and skills on how to design an IoT (Internet of Things) system.&nbsp;&nbsp;The course includes fundamental theory and practical hands-on labs and projects for the student to acquire the basic knowledge on several key components for IoT systems, including circuits and sensors, signal processing, embedded systems, and communication and networking. The integration of different components is an important topic for this course.&nbsp;&nbsp;The students will acquire the knowledge through lectures, practical hands-on labs, and projects.<br /><br />Intended learning outcomes (ILOs) of the course:<br /><br />Describe how an IoT system works<br />Identify the basic components of an IoT system<br />Learn how different components are integrated<br />Acquire hands-on experiment technique<br />Apply the knowledge in designing simple IoT system<br />Carry out performance analysis of an IoT system<br />Coverage:<br /><br />Part I: Circuits and Sensors<br /><br />Introduction<br />Circuits<br />Amplifier<br />Sensor <br />Actuator&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />Part II: Signal Processing<br /><br />Signals and systems<br />Analog vs. digital, ADC<br />Impulse response<br />Frequency analysis<br />Machine learning based signal processing<br />Part III: Communication and Networking<br /><br />Communication systems<br />Source coding<br />Channel coding<br />Modulation<br />Networking, MQTT",
+      "comment_teaching": "Professor Song teaches very well and explains the concept clearly.He is also willing to help you to understand some diffucult concepts after lectures.He replies email fast.",
+      "comment_grading": "The grading is good.<br />Lab30%<br />Assignment10%<br />Mid-term25%<br />Quiz10%<br />Course project25%",
+      "comment_workload": "There is lab every two weeks.5 after class quizzes .2 homeworks",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

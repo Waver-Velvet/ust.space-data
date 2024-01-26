@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 3924,
+    "subject": "CORE",
+    "code": "1668",
+    "name": "Art and Digital Culture",
+    "description": "This course will explore how digital technologies are transforming art production and presentation. From early photography to virtual reality, it will examine art forms at the turn of the mechanical age (e.g. photography, film) as well as artistic practices in the digital age such as virtual reality, data visualization, artificial intelligence, and NFT (Non-fungible token). Situating art and digital culture within a cross-disciplinary context, the course also considers the following key issues: how do digital technologies change our art, culture, and contemporary life? How does art in the digital age define key issues in the digital world such as privacy, copyright, and identity? How can we create art through interdisciplinary practice? Students will learn to analyze new forms of art and related technologies, and to discuss the key\nissues of the body, identity, and surveillance in the digital age.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230
+    ],
+    "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1401\" href=\"/review/CORE1401\" target=\"_blank\">CORE 1401</a> OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1402\" href=\"/review/CORE1402\" target=\"_blank\">CORE 1402</a> OR CORE 1403 OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1404\" href=\"/review/CORE1404\" target=\"_blank\">CORE 1404</a> OR LANG 1002 (prior to 2022-23)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1734,
+        "name": "GUO, Qiuzi",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "19eiwQhG76HVDxVgy6hatxY49KCKSlyg",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1734,
+          "name": "GUO, Qiuzi",
+          "rating": 1
+        }
+      ],
+      "author": "benwong01f611",
+      "date": "Nov 17, 2023",
+      "title": "",
+      "comment_content": "Co-listed with HUMA1673. The course will talk about rise of digital art first, then talks about new types of digital art such as AI art and metaverse. Almost every lesson has group discussion which count towards your grade (4 points). One lecture per week but 3 hours long, easy to fall asleep even it starts at 3pm.<br /><br />For the essay, you should explore emerging issues and debates in art and digital culture research.<br /><br />Last two lectures will be used for presentations, each presentation should be around 20~25 minutes long with follow up questions.<br /><br />Presentation topics:<br />- Photography<br />- Film<br />- Video Art<br />- VR/AR<br />- Digital Cultural Heritage <br />- AI (2 groups can do AI)<br />- NFTs<br />- Video Games<br />- Social Media",
+      "comment_teaching": "Quite good-looking instructor, but she didn&#039;t use mic often. Her voice might make you fall asleep.",
+      "comment_grading": "Class attendance: 10%<br />Class Participation: 20%<br />Group Presentation: 35%<br />Written assignment: 35%<br /><br />One point deducted from class attendance for each absent.<br />Join discussions in Canvas to earn 2 points for each discussion (3 discussions in total). Reply no less than 250 words, reasonable and inspiring. Answer questions in lesson to earn up to 10 points (2 points for each answer). Group discussion assessed by instructor (4 points)<br /><br />I got 10/10 attendance, 8/20 class participation, 30/35 for both essay and presentation, and I got B-. So if you want A-range for this course you may need to answer questions in the lecture.",
+      "comment_workload": "You only need to worry about the presentation and the 1500~1800 words essay. No midterm or final exams. Very little workload.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

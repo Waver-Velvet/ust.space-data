@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 2893,
+    "subject": "ELEC",
+    "code": "6910T",
+    "name": "Deep Learning",
+    "description": "This course focuses on deep learning and its applications in various areas. The topics include the basis of deep learning and its applications in computer vision, speech processing, optimization, reinforcement learning, and natural language processing. Specifically, various forms of deep neural networks will be introduced, such as convolutional neural networks, context aggregation networks, recurrent neural networks, graph neural networks, and generative adversarial networks. The students have the opportunities to implement deep learning models for some AI tasks such as image understanding, image synthesis, graph analysis, and speech enhancement.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1910,
+      1830
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 3,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1240,
+        "name": "CHEN, Qifeng",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "B8s9IGjWJGTsffF1XOfHUwknF1Uq2mTq",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 1240,
+          "name": "CHEN, Qifeng",
+          "rating": 1
+        }
+      ],
+      "author": "HaFred",
+      "date": "Jan 22, 2020",
+      "title": "",
+      "comment_content": "First 5 lectures give introductions on CV, NLP, recommendation systems. Henceforth, the lectures are used for students&#039; presentations.",
+      "comment_teaching": "Neutral. I won&#039;t say the lecturer spends much time teaching. But he can actually give particular advice on deep learning related project.",
+      "comment_grading": "Great grade. Grading fairly. Fairly grading.Grading fairly. Fairly grading.Grading fairly. Fairly grading.Grading fairly. Fairly grading.Grading fairly. Fairly grading.Grading fairly. Fairly grading.Grading fairly. Fairly grading.Grading fairly. Fairly grading.Grading fairly. Fairly grading.Grading fairly. Fairly grading.",
+      "comment_workload": "3 assignments in total. One final project.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

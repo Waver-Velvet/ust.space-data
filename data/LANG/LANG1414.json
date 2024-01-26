@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 4191,
+    "subject": "LANG",
+    "code": "1414",
+    "name": "Elementary Reading and Writing for Non-Chinese Language Background Students",
+    "description": "The course is designed for non-Chinese language background students who have learned Chinese for less than 50 tuition hours.It aims to equip students with Chinese reading and writing skills for daily and social purposes through a range of familiar topics. After successfully completing the course, students will have acquired a basic knowledge of Chinese characters, be able to identify information from simple passages,and write basic sentences to introduce themselves and describe their daily lives.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2310
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"LANG\" data-code=\"1412\" href=\"/review/LANG1412\" target=\"_blank\">LANG 1412</a>, <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1413\" href=\"/review/LANG1413\" target=\"_blank\">LANG 1413</a>, <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1415\" href=\"/review/LANG1415\" target=\"_blank\">LANG 1415</a>, LANG 1416, <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1421\" href=\"/review/LANG1421\" target=\"_blank\">LANG 1421</a>, <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1422\" href=\"/review/LANG1422\" target=\"_blank\">LANG 1422</a>, <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1423\" href=\"/review/LANG1423\" target=\"_blank\">LANG 1423</a>, LANG 1117, <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1121\" href=\"/review/LANG1121\" target=\"_blank\">LANG 1121</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1122\" href=\"/review/LANG1122\" target=\"_blank\">LANG 1122</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1123\" href=\"/review/LANG1123\" target=\"_blank\">LANG 1123</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1124\" href=\"/review/LANG1124\" target=\"_blank\">LANG 1124</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1125\" href=\"/review/LANG1125\" target=\"_blank\">LANG 1125</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1126\" href=\"/review/LANG1126\" target=\"_blank\">LANG 1126</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1127\" href=\"/review/LANG1127\" target=\"_blank\">LANG 1127</a> (prior to 2022-23)",
+    "rating_content": 2,
+    "rating_teaching": 2,
+    "rating_grading": 1,
+    "rating_workload": 1,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1252,
+        "name": "LI, Xiang",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "vIoMlSavQTCHH46n3NCLQUnc1DxWYZAS",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1252,
+          "name": "LI, Xiang",
+          "rating": 1
+        }
+      ],
+      "author": "saygex",
+      "date": "Jan 02, 2024",
+      "title": "Just take 1411",
+      "comment_content": "IF YOU ARE A BEGINNER DO NOT TAKE THIS! DON&#039;T MAKE THE SAME MISTAKE AS I DID. THERE ARE LITERALLY A BUNCH OF SHAMELESS PEOPLE WHO ALREADY KNOW CHINESE AND ARE TAKING IT TO BOOST THEIR GRADES. THEY JUST LITERALLY BROWSE THROUGH INSTAGRAM REELS THROUGHOUT THE CLASS AND FLEX WHILE ALSO SHITTING ON YOU DURING EXAMS.<br /><br />The material is as basic as it gets, involving roughly 350 Chinese characters that you&#039;re expected to commit to memory and master it within a couple of days.",
+      "comment_teaching": "The instructions are somewhat clear, but the instructor frequently stumbles over words or struggles to communicate effectively, creating a less-than-optimal learning experience. And you are also expected to attend almost every class or else your grades will be penalized.",
+      "comment_grading": "The grading system is bafflingly unclear. Even after consulting my instructor, she seemed just as unsure whether it adhered to absolute grading or some mysterious curve. It appears to be a strange hybrid, like MATH 1013, blending absolute grading with a touch of curve, leaving everyone scratching their heads",
+      "comment_workload": "The workload is hands down the worst. You&#039;re expected to dedicate hours every single day to memorize every stroke and sequence of words. And guess what? After that Herculean task, you still need to dive into the intricacies of grammar and miraculously start using it fluently and properly. It&#039;s basically a never-ending grind. And the finals date is like super early so you won&#039;t even have much time to go through all the information. If you are a beginner and happen to find this review after add/drop period, GG.",
+      "rating_content": 2,
+      "rating_teaching": 2,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

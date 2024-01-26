@@ -1,0 +1,85 @@
+{
+  "course": {
+    "id": 3522,
+    "subject": "ENVR",
+    "code": "4470",
+    "name": "Air Quality Control and Management",
+    "description": "Historical and health impact studies related to air pollution. Atmospheric stability and its impact on the transport and dispersion of pollutants. Sources of major air pollutants. Comparison of urban, industrial and transport related air pollution issues, using Hong Kong and Pearl River Delta as examples. Control of stationary and mobile emission sources. Air quality management - framework, policy tools and comparison of different approaches.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 78,
+        "name": "LAU, Alexis Kai Hon",
+        "count": 1
+      },
+      {
+        "id": 1184,
+        "name": "CHE, Wenwei",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "PAgGHjuE87wxQuzp5Mt9aaHoK7ewX1NO",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 78,
+          "name": "LAU, Alexis Kai Hon",
+          "rating": 1
+        },
+        {
+          "id": 1184,
+          "name": "CHE, Wenwei",
+          "rating": 1
+        }
+      ],
+      "author": "Gdax",
+      "date": "Dec 30, 2021",
+      "title": "Good grade course",
+      "comment_content": "This course is equivalent to CIVL 4470. You can take either of them for major electives.<br /><br />The content is simple to follow.<br /><br />Before midterm:<br />Introduction &amp; history about air pollution<br /><br />WHO&#039;s air quality objectives and air quality standards in different countries<br /><br />Air quality management philosophy<br /><br />Air quality index (to discuss the difference between standard- and risk-based index and how to calculate them) <br />How to calculate emission inventories<br /><br />Basics of meteorology (e.g. mixing height, lapse rate, planet boundary layer). Very simple and no need to understand the details<br /><br />Box model and Gaussian model<br /><br />After midterm:<br />Advanced air quality models in terms of emission-based models and receptor models (no need to understand the math behind but only the concepts)<br /><br />Control of different pollutants (like PM, NOx, VOC, SO2...). Much time is spent on particulate matter. Still, no need to understand the math behind but only the concepts.",
+      "comment_teaching": "98% of the course content is delievered by Prof. Che Wenwei. Prof. Lau only provides some supplementary information to students. The PowerPoint is enough for you to get an A (at least for me). Just remember to attend lectures and take notes because many answers to exams are given verbally by Prof. Che and u can&#039;t find them in lecture notes.",
+      "comment_grading": "9 assignments: 85.5/90. Mean 80/90 --&gt; 20%<br />Midterm 25 MCQ: 92/100. Mean 78/100 --&gt; 25%<br />Term paper: 13/15. Mean 10.4/15 --&gt; 15%<br />Final 25 MCQ: 86/100. Mean 75/100 --&gt; 40%<br /><br />My overall score is 89.4. The mean should be around 79. The grade is A. Very good grade. Just make sure ur overall score is &gt;85 to guarantee an A-.",
+      "comment_workload": "Term paper costs me 1 week to go. U should collect enough info and papers to support ur suggestions to existing Hong Kong&#039;s air management system. Also, the format is important (Intro, discussions, conclusion, graphs, etc.)<br /><br />Assignments are easy. Just need some simple calculations and algebra. Calculus and linear algebra are not required.<br /><br />Exams are all MCQ. Most are concept Q. Calculation Q are simple .",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

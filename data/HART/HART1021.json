@@ -1,0 +1,76 @@
+{
+  "course": {
+    "id": 479,
+    "subject": "HART",
+    "code": "1021",
+    "name": "A Contemporary Approach to Painting",
+    "description": "This introductory painting course covers the concepts, theories, problems and production of Contemporary Painting, as well as selected painting practices of the artists in the 20th and 21st century and the stories behind renowned paintings. Students will learn to use painting skills such as canvas preparation, paint application, color mixing as a medium of expression and communication. They will also use acrylic to create painting from still life and paint on unconventional surface in an experimental way. Critical thinking skills are developed through art work presentations, critique and an exhibition. Those interested in furthering the artistic skills and gaining hands-on experience with this art form may enroll in a separate non-credit co-curricular workshop.",
+    "categories": [
+      "Common Core (Arts)"
+    ],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      1830,
+      1430
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 1,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1264,
+        "name": "CHARMES, Philippe Jean Michel",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "VGmDCscixr5FIYuxjPgVkbC7APFcLovY",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 1264,
+          "name": "CHARMES, Philippe Jean Michel",
+          "rating": 1
+        }
+      ],
+      "author": "Fishie",
+      "date": "May 12, 2019",
+      "title": "Take it only if you&#039;re interested!",
+      "comment_content": "A lot of experimental paintings with different types of media, but do not expect that it will teach you the basics of painting, it seems like most people (including me) are not beginners.",
+      "comment_teaching": "Philippe is a very encouraging instructor. Though sometimes his accent can be very confusing, he often draws to explain and even bought his little sketchbook to share. Great instructor overall, but at the same time, he can be quite picky to those who obviously did not try in this course.",
+      "comment_grading": "Good grade or not it does not really matter since it&#039;s only one cred lol",
+      "comment_workload": "Heavy - you have an exhibition towards the end of the course, use your time wisely because you need to finish the paintings in your own time.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "course": {
+    "id": 2344,
+    "subject": "MGMT",
+    "code": "7100",
+    "name": "Behavioral Science",
+    "description": "In-depth study of the foundations of behavioral science research using examples from organizational behavior and other related business disciplines.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2130,
+      1930,
+      1730
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 596,
+        "name": "WONG, Ellick Kin Fai",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "UWaK1K9YzjloyKuzAG36Su3QT5aaRGqG",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 596,
+          "name": "WONG, Ellick Kin Fai",
+          "rating": 1
+        }
+      ],
+      "author": "ChangJoon",
+      "date": "Feb 24, 2022",
+      "title": "mgmt 7100",
+      "comment_content": "Although the course is behavioral science, it includes general history of science and philosophy. You also get to learn about the unique characteristics of different academic journals. Definitely needed for RPG students.",
+      "comment_teaching": "Great prof. interactive. As any PhD seminars in MGMT, almost half of the class is covered by the students&#039; presentations. The prof will give feedbacks of course.",
+      "comment_grading": "I don&#039;t think the grade matters too much. The instructor also seems to be lenient with the grading, but this could be my bias. Final grade was A+. We only had to submit one essay for the final.",
+      "comment_workload": "Not too heavy. It&#039;s okay to take another seminar course while taking this one.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

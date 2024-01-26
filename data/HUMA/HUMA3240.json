@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 602,
+    "subject": "HUMA",
+    "code": "3240",
+    "name": "The Gothic Imagination in Literature and Film",
+    "description": "This course will survey and analyze the tradition, evolution, and recent development of the Gothic. Major features of the Gothic in literature and film, such as monster, vampire, ghost, haunted castle, will be examined in various social and cultural contexts in different periods of time. The course will trace the historical and stylistic changes of the Gothic from the eighteenth-century to the present and discuss what these changes may imply. In addition to guiding students to study individual literary and filmic texts, this course will also examine closely the engagement of Gothic literature with various social concerns and intellectual issues of its day. Topics will include the encounter of Gothic literature with science, with religion, and with politics.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1630,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 3,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 320,
+        "name": "CHEN, Li Fen",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "QSRfbA3SEXOpuYfOkwqPO7XX3dcpkpss",
+      "semester": "2014-15 Fall",
+      "instructors": [
+        {
+          "id": 320,
+          "name": "CHEN, Li Fen",
+          "rating": 1
+        }
+      ],
+      "author": "sgargaa",
+      "date": "Sep 21, 2015",
+      "title": "Interesting class",
+      "comment_content": "In most of the classes, we were made to watch or discuss movies that were based on the Gothic period such as Frankenstein, Vampyre, Dracula and many others. There was a lot of discussion in class related to these movies and about each and every scene and it&#039;s minute details as well.",
+      "comment_teaching": "The teacher had a great and understandable accent unlike many other professors in this University. She actually took interest in the students and allowed many discussions which made students feel involved.",
+      "comment_grading": "•\tAttendance, Participation in Class, Group Discussion: 15%<br />•\tGroup Presentation: 15%<br />•\tMidterm Exam: 30%<br />•\tFinal Exam: 40%<br /><br />Both the examinations are basically a combination of 2-5 essays that needed to be written within 80 minutes, based on the movies we had watches previously. A maximum of 2 classes could be missed in the entire semester, so that was a bit harsh.",
+      "comment_workload": "Movies needed to be watched, and for all other chapters/stories, we had various assigned readings. So, there was a bit of a workload but it wasn&#039;t as much as that in other classes.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

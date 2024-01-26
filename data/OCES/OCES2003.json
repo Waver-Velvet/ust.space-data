@@ -1,0 +1,76 @@
+{
+  "course": {
+    "id": 3469,
+    "subject": "OCES",
+    "code": "2003",
+    "name": "Descriptive Physical Oceanography",
+    "description": "This course is an introduction to physical oceanography that includes topics such as physical description of the sea, physical properties of seawater, methods and measurements, wind-driven ocean circulation, abyssal ocean circulation, boundary processes, and wave motions. Large-scale distributions and processes that are central to the ocean’s role in Earth’s climate and biosphere will also be addressed and discussed.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1111\" href=\"/review/PHYS1111\" target=\"_blank\">PHYS 1111</a> OR <a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1112\" href=\"/review/PHYS1112\" target=\"_blank\">PHYS 1112</a> OR <a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1312\" href=\"/review/PHYS1312\" target=\"_blank\">PHYS 1312</a>) AND (<a class=\"course-link\" data-subject=\"MATH\" data-code=\"1012\" href=\"/review/MATH1012\" target=\"_blank\">MATH 1012</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1013\" href=\"/review/MATH1013\" target=\"_blank\">MATH 1013</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1023\" href=\"/review/MATH1023\" target=\"_blank\">MATH 1023</a>)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 1,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1296,
+        "name": "MAK, Julian",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "4xZyXln6BiZVrIWfLjTD4ipTxFMm47dB",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 1296,
+          "name": "MAK, Julian",
+          "rating": 1
+        }
+      ],
+      "author": "from OST",
+      "date": "Jan 05, 2022",
+      "title": "It is required so sad",
+      "comment_content": "L01 General introduction<br />(W&amp;F Ch.1 + 2; Talley Ch.1 + 14)<br />L02 Descriptive overview: broad terminology and oceans<br />(Knauss Ch.1 + 7; Talley Ch.2, 9–13; Wunsch Ch.3; P&amp;E Ch.2 + 7)<br />L03 Descriptive overview: not oceans<br />(Knauss Ch.11; Talley Ch.2; P&amp;E Ch.8)<br />L04 Forces, equations and calculus<br />(Knauss Ch.4 + 5; Talley Ch.7; Wunsch Ch.11; W&amp;F Ch.3 + 4)<br />*** assignment 1 (1 week to do) ***<br />L05 Sea water properties and thermodynamic forcing I: temperature and salinity<br />(Knauss Ch.1, 2, 3, 8; Talley Ch.3, 4, 5; Wunsch Ch.3; W&amp;F Ch.2; P&amp;E Ch.3, 4, 5, 6.5)<br />L06 Sea water properties and thermodynamic forcing II: density<br />(Knauss Ch.2; Talley Ch.3, 4, 5; Wunsch Ch.3; W&amp;F Ch.2, 3, 4; P&amp;E Ch.3)<br />L07 Mechanical forcing I: pressure + gravity<br />(Knauss Ch.5; Talley Ch.7; Wunsch Ch.3; W&amp;F Ch.3 + 4)<br />L08 Mechanical forcing II: rotation (Coriolis)<br />(Wunsch Ch.3; Talley Ch.7; Knauss Ch. 5 + 6; W&amp;F Ch.3 + 4)<br />*** assignment 2 (1 week to do) ***<br />L09 Mechanical forcing III: wind<br />(Wunsch Ch.3; Knauss Ch.6; Talley Ch.7; W&amp;F Ch.3 + 4; P&amp;E Ch.7.1)<br />L10 Mechanical forcing IV: friction and viscosity<br />(Wunsch Ch.11; Knauss Ch.4; Talley Ch.7; W&amp;F Ch.3 + 4)<br />L11 Wind driven circulation I: Ekman + Sverdrup<br />(Wunsch Ch.3; W&amp;F Ch.8)<br />L12 Wind driven circulation II: Western Boundary Currents<br />(Wunsch Ch.10, 11; P&amp;E Ch.7; Talley Ch.9, 10; W&amp;F Ch.8)<br />*** Mid-term (1hr) ***<br />L13 Meridional Overturning Circulation I: Southern Ocean and ACC<br />(Wunsch Ch.9, 11; Talley Ch.1; 3W&amp;F Ch.10 + 12; E&amp;P Ch.7.1, 7.2)<br />L14 Meridional Overturning Circulation II: ACC + gyres + boundary currents<br />(Knauss Ch.8; Wunsch Ch.9, 10, 11; Talley Ch. 9, 13, 14; W&amp;F Ch.10 + 12; E&amp;P Ch.7.1,<br />7.2)<br />Physical ocenaography by drawing pictures OCES 2003<br />L15 Dynamics I: waves<br />(Knauss Ch.9; Wunsch Ch.4; W&amp;F Ch.3 + 4)<br />L16 Dynamics II: types of waves<br />(Knauss Ch.10; Wunsch Ch.5; Talley Ch.8; W&amp;F Ch.3 + 4)<br />T03 Problems class for concepts so far and somewhat for assignment 3<br />*** assignment 3 (1 week to do) ***<br />L17 Dynamics III: instabilities<br />(Wunsch Ch.3; W&amp;F Ch.3, 4, 9)<br />L18 Dynamics IV: tides<br />(Knauss Ch.10; Wunsch Ch.6 + 7; Talley Ch.8)<br />L19 Observations I: in-situ<br />(Knauss Ch.1; Wunsch Ch.2; Talley Ch.6; P&amp;E Ch.6)<br />L20 Observations II: remote<br />(Knauss Ch.12; Wunsch Ch.2, 8, 9; Talley Ch.6; P&amp;E Ch.6)<br />T04 Problems class for concepts so far and somewhat for assignment 4<br />*** assignment 4 (1 week to do) ***<br />G01 Observations III: guest lecture from someone who actually goes to sea<br />T05 Review of course + outlooks<br />*** Finals (∼3hrs) ***",
+      "comment_teaching": "ppt 有好多picture, drawing 幫你明concept<br />有時佢好投入寫好多equations 但冇人會明<br />同埋第一次教 ppt 會有錯處<br />上堂都有時講錯<br />有時講得好快下<br />可以睇返zoom recording 或者問佢<br />佢都會努力解答問題<br />明唔明就另一會事",
+      "comment_grading": "Attendance \t10% 送 佢冇take過<br />4 Assignments 40%<br />Midterm \t20%<br />Final \t30%<br /><br />佢成日話唔過50% 就F <br />但最後佢都改左 調低左cut off<br />&quot;90% at the moment is the A- boundary, and below 50% is a fail.&quot;&nbsp;&nbsp;after the midterm<br />&quot;85% and above is A-, and anything below 50% is a fail&quot; before final<br />但最後應該80%and above is A-<br /><br />Total 82% A-<br />得3個A range 但好似其他都派得ok",
+      "comment_workload": "extremely large<br /><br />4 Assignments <br />midterm<br />final<br /><br />assignment 極難靠問TA 成日都睇唔明佢想問咩<br />一份要做幾日 有essay calculation drawing explanation<br />上網都冇咩references<br />要靚grade 一定要睇佢本書<br />同jot notes <br />equations 多數 唔洗識計但要知有咩factors",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

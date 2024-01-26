@@ -1,0 +1,231 @@
+{
+  "course": {
+    "id": 926,
+    "subject": "MATH",
+    "code": "4513",
+    "name": "Life Contingencies Models and Insurance Risk",
+    "description": "The topics discussed in this course include survival models, life tables and selection, insurance benefits, annuities, premium calculation, and insurance policy values.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      1930,
+      1710,
+      1610,
+      1530,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2600\" href=\"/review/ELEC2600\" target=\"_blank\">ELEC 2600</a> OR <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3540\" href=\"/review/ISOM3540\" target=\"_blank\">ISOM 3540</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2421\" href=\"/review/MATH2421\" target=\"_blank\">MATH 2421</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2431\" href=\"/review/MATH2431\" target=\"_blank\">MATH 2431</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4.25,
+    "rating_grading": 4.5,
+    "rating_workload": 3.5,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 912,
+        "name": "LEUNG, Chi Man",
+        "count": 2
+      },
+      {
+        "id": 561,
+        "name": "PENG, Xianhua",
+        "count": 1
+      },
+      {
+        "id": 1667,
+        "name": "DENG, Shuoqing",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "JQdDF6qLlHpl0J92Gl01PqZRUXg9opsi",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1667,
+          "name": "DENG, Shuoqing",
+          "rating": 1
+        }
+      ],
+      "author": "DHKENNY",
+      "date": "May 30, 2023",
+      "title": "Good grade but require effort",
+      "comment_content": "Topics Covered:<br />-Survival Models and Mortality<br />-Life Insurance<br />-Life Annuities<br />-Annual Premiums<br />-Reserves<br />-Multiple Life Models<br />This semester only covers the above topics due to the interest in time",
+      "comment_teaching": "I would say Prof. Deng is a nice guy. He previously taught MATH2511 and gave an excellent grade based on some feedback from my friends.<br /><br />In terms of teaching, I would say it is acceptable as long as you follow his class.<br /><br />Unlike some other professors, he is also willing to answer questions and reply to emails quickly :D.<br /><br />Moreover, I recommend the videos from Coaching Actuaries if you can find the source. It will give you a clearer understanding of the concepts.",
+      "comment_grading": "Grading scheme:<br />3 quizzes: 15%<br />Midterm: 30% (Median ard ~30%)<br />Final: 55% (Median ard ~50%)<br />---<br />The difficulty of quizzes is acceptable since all of them are adapted from the lecture examples or the exercise he asked you to do.<br /><br />However, this is not the case for the midterm. The time was minimal as Prof expected us to finish it as quickly as in SOA exam, making it a disaster.<br /><br />Therefore, He cut down the questions in the exam. 3hr finish 17q while midterm 1.3hr finish 10q. <br />---<br />Prof makes it very clear that he will make A range ~25% which is stricter than MATH2511 (~35%), as he received an email from Uni.<br />---<br />It mainly depends on the final; I only got mean in the midterm but was an outlier in the final exam. At last, I got A range, so it is a good grade course for me.",
+      "comment_workload": "Not sure what&#039;s the case for others, but I would say it is a bit heavy. I do not come from a MATH major background and haven&#039;t taken MATH2511. You have to revise for the quizzes to get the tedious 15%. <br /><br />I revised it one week before the final exam. My advice is to do textbook exercises and redo them once in a while. It is important for you to understand the relationship between formulas and understand what insurance and annuity mean in the timeline. If you have a graphical intuition, you will do well.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "OYI1jY9tJz7vLc3oSQhQNue7x2Hvh10e",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 912,
+          "name": "LEUNG, Chi Man",
+          "rating": 1
+        }
+      ],
+      "author": "想當年",
+      "date": "Jun 26, 2022",
+      "title": "【I don’t have time finished writing it now. I’ll write later】",
+      "comment_content": "【I’ll write later】",
+      "comment_teaching": "【I’ll write later】",
+      "comment_grading": "If you have taken courses from Dr. LCM before, you know how he distributes the grade. He tells you the so-called absolute grading scheme in the 1st lesson. However, he will definitely lower the cutoff of grades if needed. <br /><br />This year:<br />overall percentage&nbsp;&nbsp;grade<br />88%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A+<br />78%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A- or above<br />60%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B- or above<br /><br />To get a C- or above, you need to get 40% in total, and 25% in the final exam.<br /><br />This year, 40 bonus marks (from assignments) and be converted to 1% overall.<br />________________________________________<br /><br />Statistics:<br />The mean of the online final exam is 41.8/100, the highest mark is 80/100. <br />(Note: The mean above is the mean of all MATH4513/RMBI4220 students. The mean in MATH is higher than in RMBI.)<br />________________________________________<br /><br />For me:<br />Assignment (25%):&nbsp;&nbsp;513/300<br />Online final exam (75%):&nbsp;&nbsp;54/100<br />overall = 70.825%<br />grade = A-<br />________________________________________<br /><br />【I’ll write later】",
+      "comment_workload": "【I’ll write later】",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 7,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "juCvN2SHbV3sizOuQZRO67C5uOrT0zTM",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 912,
+          "name": "LEUNG, Chi Man",
+          "rating": 1
+        }
+      ],
+      "author": "calcguy",
+      "date": "Apr 25, 2020",
+      "title": "Everything You Need To Know About Insurance",
+      "comment_content": "Recalled from course syllabus.<br />Chapter 1: Construction of basic survival models<br />- Basic Terminologies: Lifetime random variable, survival function and hazard rate (force of mortality)<br />- Estimation of survival probabilities using life table<br />- Fractional ages assumption<br />- Select life tables<br />- Non-parametric method in determining survival function: Kaplan-Meier estimate and Nelson-Aalen estimator.<br />Chapter 2: Evaluation of insurance benefits<br />- Valuation of simple insurance benefits: Whole life insurance, term insurance, pure endowment, endowment insurance.<br />- Some mathematical tricks in calculating the value of benefit<br />- Valuation of annual life annuity: Life annuity, Term annuity, Guaranteed annuity etc.<br />- Some mathematical methods in evaluating annuity function: Recursion, Woolhouse’s formula.<br />Chapter 3: Premium calculation and policy value<br />- Equivalence Principle<br />- Portfolio percentile premium principle<br />- Effect of extra risk factor to premium calculation<br />- Calculation of policy value<br />Chapter 4: Extension of survival models: Multiple state models<br />- The alive-dead model, permanent disability model, disability income insurance model<br />- Determination of survival probability using Kolmogorov’s equation<br />- Premium calculation and policy value<br />- Multiple decrement models<br />- Joint life and last survivor benefit.<br />-----------------------------------------------------<br />[UNCOVERED TOPICS]<br />Chapter 5: Pension mathematics <br />- Defined contribution and defined benefit pension plans<br />- Replacement ration and Salary scale function<br />- Determine the contribution rate in DC benefit.<br />- Service table<br />Chapter 6: Additional topic (if time permits)<br />- Profit test on life insurance contract.<br />- Application of profit test in setting premium, reserves etc.<br />-----------------------------------------------------<br />DO NOT try to take on SOA Exam LTAM straight away after passing this course. You&#039;ll pretty much fail the SOA Exam if you do not explore more contents in the textbook (based on exam syllabus)",
+      "comment_teaching": "His teaching pace in this course is very slow; he focuses too much in calculation, while I think we can handle the calculations pretty well once we grasp the concepts for the topics. Another possible reason for the slow teaching pace is due to the fact that this is a new course taught by him, and he rushed when writing lecture notes for us, resulting to numerous errors in the lecture notes. Sometimes, he even double checks the calculations during lectures, which I think wastes quite a big chunk of time.<br /><br />Nevertheless, there are some benefits by having this slow teaching pace. For example, we have less topics to study for final exam. Since this is a course heavily demanded on calculations and final results, we would have more time doing those stuffs before exams.<br /><br />Anyway, it seems that he lacks preparation when teaching this course in general. In the future, these issues may not happen again as he already knows what matters the most then.",
+      "comment_grading": "Grading scheme:<br />3 assignments: 20% + Additional Bonus<br />Take-home midterm: 20%<br />Take-home final: 60%<br />-----------------------------------------------------<br />Notes:<br />1. As usual, absolute grading is adopted in this course. However, since everything went online for this term, all the assessment components are made harder than usual. Moreover, the cutoffs are higher than usual too. In particular (subject to change):<br />A+ : 95 or above<br />A range: 85 or above<br />B range: 65 or above<br />P range: 40 or above AND &gt;=25 in final exam<br />2. There are 3 assignments for this term. The bonus marks for each assignment are given as follows:<br />[FORMAT: Bonus Marks + Well-written Bonus]<br />* Assignment 1: 55 + 5<br />* Assignment 2: 80 + 5<br />* Assignment 3: 60 + 5<br />3. For the midterm exam, you can see the script and its solution at the attachment section.<br />4. The final exam is not so tedious (comparing to assignments), but we need to use excel to perform some calculations. <br />-----------------------------------------------------<br />Statistics: [FORMAT: My score / Total (Mean)]<br />Assignment 1: 160/160 (128.1)<br />Assignment 2: 185/185 (179.7)<br />Assignment 3: 165/165 (149.4)<br />Midterm: 60/100 (64.4)<br />Final: 68/100 (60.2)<br />Total: 78.2/100<br />Grade: A<br />I found this quite shocking, especially when he said cutoff for A range is 85. Not sure what happened here.",
+      "comment_workload": "3 assignments in this course. For each assignment, we are given about 10 days to finish them. I personally think it is more than enough to complete them in time. But since this is a course heavily demanded on calculations, it is very easy to make mistakes, so double check your work before submitting them.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 8,
+      "vote_count": 9,
+      "comment_count": 1,
+      "attachments": [
+        {
+          "key": "EmQB5UNzsqa7AjWdmDdj5G4Kj076HRdK",
+          "name": "MATH4513_Midterm_2020Spring",
+          "format": "pdf"
+        },
+        {
+          "key": "Y1HpkuJjeVjM6CarYfQbBrz16P6HcX2J",
+          "name": "MATH4513_Midterm_2020Spring_Solution",
+          "format": "pdf"
+        },
+        {
+          "key": "upc7fxF86hXNUUFLjCg7fuZlVbwn1Zu8",
+          "name": "MATH4513_2020Spring_HW1",
+          "format": "pdf"
+        },
+        {
+          "key": "36AMi02i9ae5AsL0T6v2VTUphj6w19X0",
+          "name": "MATH4513_2020Spring_HW2",
+          "format": "pdf"
+        },
+        {
+          "key": "1M7vV59LOkc5a1qAEshmTGEEGcQtXS07",
+          "name": "spring-2019-ltam-syllabi",
+          "format": "pdf"
+        },
+        {
+          "key": "vN1Sj9cU4XR85Yz51eY3GFt2mljIggnJ",
+          "name": "MATH4513_2020Spring_HW3",
+          "format": "pdf"
+        },
+        {
+          "key": "wOfooqZAUdtz4gBSKDZXGwsQMHR7tSi9",
+          "name": "MATH4513_2020Spring_Final",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "aMRbQOlOkYADjICruqTjdsjUPCCMz4oA",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 561,
+          "name": "PENG, Xianhua",
+          "rating": 1
+        }
+      ],
+      "author": "Sam Tam",
+      "date": "Aug 19, 2016",
+      "title": "Actuarial Models and Insurance Risk",
+      "comment_content": "This course talks about surivial models, life tables and selections, insurance benefits, annuities, insurance permiums calculation and insurance policy values.",
+      "comment_teaching": "Prof. PENG 雖然教得幾悶，不過教得幾好，有斷起notes到補充資料，而且幾好人",
+      "comment_grading": "Homework 15%<br />midterm 30%<br />final 55%<br /><br />final無分睇，直接出grade,midterm個mean好高，有85%到",
+      "comment_workload": "workload唔大，得HW，midterm同final，不過啲野都幾難，HW都係出番textbook既練習，而textbook練習既答案都好容易google到，所以輕鬆。",
+      "rating_content": 3,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

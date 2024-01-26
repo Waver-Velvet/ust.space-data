@@ -1,0 +1,613 @@
+{
+  "course": {
+    "id": 798,
+    "subject": "LIFS",
+    "code": "3130",
+    "name": "Marine Biology",
+    "description": "Survey of the major marine living organisms; their habitat and community structures; trophic interactions and the marine ecosystem.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3.85,
+    "rating_teaching": 3.46,
+    "rating_grading": 4,
+    "rating_workload": 3.77,
+    "review_count": 13,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 231,
+        "name": "LIU, Hongbin",
+        "count": 10
+      },
+      {
+        "id": 236,
+        "name": "QIAN, Peiyuan",
+        "count": 9
+      },
+      {
+        "id": 473,
+        "name": "WANG, Wenxiong",
+        "count": 6
+      },
+      {
+        "id": 229,
+        "name": "CHENG, Jinping",
+        "count": 4
+      },
+      {
+        "id": 228,
+        "name": "LAM, Ka Sin Cindy",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "cpeOyOz7OY0UNtEMOzY10VwwD9quNYSS",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 231,
+          "name": "LIU, Hongbin",
+          "rating": 1
+        },
+        {
+          "id": 236,
+          "name": "QIAN, Peiyuan",
+          "rating": 0
+        },
+        {
+          "id": 229,
+          "name": "CHENG, Jinping",
+          "rating": 1
+        }
+      ],
+      "author": "I don't know",
+      "date": "Mar 19, 2022",
+      "title": "Hell, unless you are able to read unorganized teaching material",
+      "comment_content": "1. Intro to Marine Environment<br />2. Physical and Chemical Oceanography<br />3. Marine microbes<br />4. Primary producers<br />5. Zooplankton<br />6. Cnidarian and worms<br />7. Marine molluscs<br />8. Marine arthropods<br />9. Echinoderms<br />10. Marine Fishes<br />11. Marine Mammals<br />12. Primary Productivity in Ocean<br />13. Food web dynamics<br />14. Harmful Algal Blooms and Possible Mechanisms<br />15. Carbon cycle and global warming<br />16. Sandy Beach and Mudflat Ecology<br />17. Rocky Shore Ecology<br />18. Subtidal ecosystems<br />19. Estuary<br />20. Coral Reef Ecology<br />21. Hydrothermal vent and Cold seeps<br /><br />Boring",
+      "comment_teaching": "Prof Qian is a bad professor, he cant finish his own teaching material and said&quot; i wont use the whole ppt, the remaining part of the ppt is for your reference&quot; However, the final exam covers all of his ppt content , when i read the exam paper i was like &quot;wtf&quot;<br /><br />Prof Liu and cheng is relatively better, clear enough but cheng speaks very fast",
+      "comment_grading": "The grading is very good. But all the score of both project video, essay and final exam are hidden. <br /><br />I heard that the course coordinator is very generous that he gives a large number of A grade to student.<br /><br />Even i think i fucked up the exam and the essay, i still get an A- at the end, this is the first Biological major course that I can get an A range, which i was very surprised by that. <br /><br />attendace 5%<br />Project video 15%<br />essay 15%<br />Final Exam 65%",
+      "comment_workload": "The workload is quite heavy, if you have taken LIFS 3040 animal physiology, the workload of this course is doubled. <br /><br />The project is about making a 5-minutes video&nbsp;&nbsp;in group that is related to any topic about MARINE. Relate to the lecture topic is&nbsp;&nbsp;necessary. <br /><br />Also, It requires to hand in a 1500 essay which is related to the video, it requires a very in-depth content about your video.<br /><br />Final Exam scope is completely crazy, over 3000 pages of ppt you have to remember, please recite every detail of the ppt, it will save you in your exam, I think most of the student fucked up here that allow me to get an A",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "PufpOjhGOJPaz2Y6QlsNEB5jlv75yRet",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 236,
+          "name": "QIAN, Peiyuan",
+          "rating": 1
+        },
+        {
+          "id": 231,
+          "name": "LIU, Hongbin",
+          "rating": 1
+        },
+        {
+          "id": 229,
+          "name": "CHENG, Jinping",
+          "rating": 1
+        }
+      ],
+      "author": "JJLL",
+      "date": "Jan 31, 2022",
+      "title": "Marine Biology",
+      "comment_content": "This course aims to introduce several concepts about marine biology. Here are the following:<br /><br />1. History of Marine Biology Research<br />2. Introduction to Marine Environment<br />3. Microbial diversity, function and processes<br />4. Primary Producers &amp; Primary Productivity <br />in Ocean<br />5. Harmful Algal Blooms and Possible <br />Mechanisms<br />6. Interaction among microscopic organisms – <br />microbial loops<br />7. Zooplankton and planktonic food webs<br />8. Biogeochemical cycles in marine <br />ecosystems <br />9. Survey of major marine taxa<br />10. Sponges and Corals<br />11. Coral Reef Ecology/symbiosis<br />12. Marine Molluscs and shell formation<br />13. Arthropods &amp; Echinoderms<br />14. Oyster and Shrimp farming <br />15. Marine Fishes &amp; Fisheries in Hong Kong&nbsp;&nbsp;<br />16. Marine Mammals and Mammal <br />Conservation<br />19. Indicator species of Marine Pollution&nbsp;&nbsp;<br />20. Between the tides <br />21. Rocky shores<br />22. Sandy Beach &amp; Mudflat<br />23. Estuary<br />24. Chemosynthetic ecosystems<br /><br />Students are required to digest every single topic. More importantly, they are emphasized in connecting several topics and asking questions to explore the &quot;ocean world&quot;.",
+      "comment_teaching": "Generally, all three teachers have different teaching styles.<br /><br />Prof. Qian Peiyuan: <br />As a head professor in Ocean Science, he shared many ideas on different aspects of ocean science, including the controversy in sea otters controlling the sea urchin and abalone population, the ways for animals survive on beaches, mudflats. He does not follow the order of the PowerPoint. Therefore, students are required to study the lecture notes before the lessons. (This method can also apply to other courses so that the revision workload can reduce.)<br /><br />Prof Liu Hongbin:<br />He is like a typical professor in HKUST. He follows the lecture slides and explains some difficult concepts. However, his voice is a bit low so it is recommended to sit in front of him.<br /><br />Prof Cheng Jinping:<br />Her discussion topics are the hardest for me as there are several unfamiliar concepts for BCB students. Her mainland accent sometimes is hard to comprehend. Luckily, her part of the exam mostly follows the lecture notes.",
+      "comment_grading": "The grading system is as follows:<br /> Group project (5 students/group): 30% <br />o Written Commentary: 15% <br />o Oral presentation: 15%<br /> Each&nbsp;&nbsp;group&nbsp;&nbsp;will&nbsp;&nbsp;submit&nbsp;&nbsp;one&nbsp;&nbsp;5-mins&nbsp;&nbsp;video&nbsp;&nbsp;to&nbsp;&nbsp;present&nbsp;&nbsp;their <br />project<br /> Final Examination: 65%<br /> Class attendance: 5%<br /><br />My final grade: A<br />I heard that getting at least a great grade (B or above) can be challenging. As mentioned earlier, students need to be familiar with every topic as much as possible. Due to the pandemic, we only have one exam, covering all the topics. I also saw the grading system in the professor office accidentally. (Trust me, quite a lot of B to C.) <br /><br />The final exam consists of 3 parts: T/F, Short questions, One-page &quot;Essay/ Matching/Table&quot;. Be careful that some short questions and T/F questions contain the sharing from the professors. Jotting notes are necessary. BE CAREFUL about the matching of terminology (It may be present in the final exams in the future). If you are not the expert in terminology, DO NOT ATTEMPT IT!<br /><br />The most deceptive one is class attendance. I would like to give a C here because of it. Professors can give sudden quizzes and take photos to have evidence on the overview of the attendance. Asking questions seems a great way to earn points.",
+      "comment_workload": "The workload is quite heavy in general.<br /><br />For the group project, it is recommended to start the project as soon as possible after finding the teammates. Making a 5- minute video can be easier said than done since you need to filter a lot of information.<br /><br />For the final exam, reading lecture materials, attending classes and google searching for specific terms are strongly advised. Besides, obviously, DO NOT START REVISING THE LECTURE MATERIALS TWO WEEKS BEFORE THE EXAM. IT WOULD BE MUCH BETTER TO REVISE THE NOTES RIGHT AFTER THE LECTURE!",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "lvi6AEszue0Dn7KMd01STscOWA0PU83z",
+      "semester": "2020-21 Fall",
+      "instructors": [],
+      "author": "Elly",
+      "date": "Jan 18, 2021",
+      "title": "",
+      "comment_content": "- All content will be test in final open book exam <br />- total 21 ppt (1000+ pages)<br />- many page are picture without or with little word<br />- 65% final 35% group project",
+      "comment_teaching": "- Actually I think the teaching is quite boring especially the part of distinguishing different marine animals.<br />- lots to cover in every lecture so feel like sucking info into your brain",
+      "comment_grading": "Grading is quite good and number of ppl who got A range is higher that expectation (said by prof)",
+      "comment_workload": "- no mt this sem but change to a group project which is about making a poster <br />- choose 1 topic in 5",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "VE6ufnNcUYTbpkJpp6UHbw9GepNrnbhz",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 236,
+          "name": "QIAN, Peiyuan",
+          "rating": 0
+        },
+        {
+          "id": 231,
+          "name": "LIU, Hongbin",
+          "rating": 1
+        },
+        {
+          "id": 228,
+          "name": "LAM, Ka Sin Cindy",
+          "rating": 1
+        }
+      ],
+      "author": "eatingfreak",
+      "date": "Jan 17, 2021",
+      "title": "IF AVOIDABLE DO NOT TAKE",
+      "comment_content": "Part 1: Introduction to Marine Environment&nbsp;&nbsp;<br />1)\tIntroduction to Marine Environment<br />2)\tPhysical and Chemical Oceanography&nbsp;&nbsp;<br /><br />Part 2: Introduction of Marine organisms<br />3)\tDiversity of Marine Life<br />4)\tSponges and defensive mechanisms<br />5)\tCnidaria &amp; Coral Reef&nbsp;&nbsp;<br />6)\tMarine Mollusca &amp; shellfish farming \t<br />7)\tMarine Arthropods &amp; Echinoderms<br />8)\tReproduction of marine animals<br />9)\tMarine Fishes <br />10)\tMarine Mammals&nbsp;&nbsp;<br /><br />Part 3: Communities and Ecosystems<br />11)\tMicrobial diversity, function and processes\t<br />12)\tPrimary Producers<br />13)\tPrimary Productivity in Ocean <br />14) \tHarmful Algal Blooms and Possible Mechanisms<br />15)\tZooplankton and planktonic food webs \t\t<br />16)\tBiogeochemical cycles in marine ecosystems<br />17)\tSubtidal benthic communities <br />18)\tEstuary <br />19)\tBetween the tides&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />20)\tRocky shores <br />21)\t Sandy beach and mudflat<br />22)\tChemosynthesis based marine ecosystems",
+      "comment_teaching": "Qian: Lots of personal sharing during class, talks really slow, and lots of slides with pictures only. I attended the lectures at first but would always doze off (it&#039;s 9am with his slow pace lecturing...) Lec4-7 are more or less things learned from LIFS2060 (biodiversity) so its okay to simply reverse the slides and take a look at the 2060 notes<br /><br />Liu: His slides are relatively more informative and helpful. Part 3 is also more difficult so it&#039;s better to either be in class or watch lecture videos. I watched lecture videos with 2x speed instead of jotting notes while in class.",
+      "comment_grading": "【Group poster project (5 students/group): 35% 】<br />o\tPoster content: 15%<br />o\tPoster design: 5%<br />o\tOral presentation skill of poster: 10%<br />Each group will have 5 mins of oral presentation + 3 mins of Q &amp; A<br />o\tPersonal effort: 5%<br />Each student will be evaluated by his/her group members, based on personal contribution to the group project （scores ranging from 0 - 5）<br /><br />【Final Examination: 65%】<br />After the add-drop period, prof. Qian suddenly released an announcement with the following text :<br /><br />&quot;As I have already mentioned in early lectures, we will pay attention to attendance of the lectures by individuals (as there is a record of class attendance of each lecture.&nbsp;&nbsp;We will randomly select some records, which will be used for final grade adjustment. &quot;<br /><br />I have no idea whether the professors can actually adjust the grading system after the add-drop period and whether they did adjust our grades according to our attendance. Just find it ridiculous.<br /><br />【for your reference】<br />group project: 24.75/30<br />peer evaluation: 5/5<br />final: 79/100 (mean= 75.55; s.d.=10.51)<br />total: 81.1/100 (mean= 79.31; s.d.= 7.18)<br />grade: B<br /><br />the grading is not as bad but with the bad teaching and messy instructions, better to avoid than take unless neccesary.",
+      "comment_workload": "The workload is not very big but miserable.<br /><br />The guidelines for the group project were not very clear. We were given a few topics to choose from and had to make a poster. But then Prof. Liu mentioned something about a PowerPoint to facilitate our presentation. By the end, most groups just showed the poster from around 30s and then used a PowerPoint to present. My group decided to present with the poster like how prezi works and the professors end up saying we put too little info/ too few graphics on the poster.<br /><br />Got really confused because the PowerPoint should not have been the aid to present but anyway... their advice also changes every time we ask them so... I guess they just say what they think at the moment and would forget right away.<br /><br />About the final exam... we asked whether we can google and the professors only said &quot;you won&#039;t have time for it&quot;. No one knows whether it is allowed or not.<br /><br />If you are still taking it online, prepare a cheat sheet to jot down the things you learned in class. It will help you with your finals. It&#039;s open book anyway.",
+      "rating_content": 3,
+      "rating_teaching": 2,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Nd1xqwDQE0f0T39Llce5A7cUUR823nwR",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 231,
+          "name": "LIU, Hongbin",
+          "rating": 1
+        },
+        {
+          "id": 236,
+          "name": "QIAN, Peiyuan",
+          "rating": 1
+        }
+      ],
+      "author": "clm102",
+      "date": "Jan 04, 2021",
+      "title": "",
+      "comment_content": "Survey of the major marine living organisms; their habitat and community structures; trophic interactions and the marine ecosystem.<br /><br />Part 1: Introduction to Marine Environment <br />Introduction to Marine Environment<br />Physical and Chemical Oceanography<br /><br />Part 2: Introduction of Marine organisms<br />Diversity of Marine Life<br />Sponges and defensive mechanisms<br />Cnidaria &amp; Coral Reef&nbsp;&nbsp;<br />Marine Mollusca &amp; shellfish farming <br />Marine Arthropods &amp; Echinoderms<br />Reproduction of marine animals<br />Marine Fishes <br />Marine Mammals&nbsp;&nbsp;<br /><br />Part 3: Communities and Ecosystems<br />Microbial diversity, function and processes<br />Primary Producers<br />Primary Productivity in Ocean <br />Harmful Algal Blooms and Possible Mechanisms<br />Zooplankton and planktonic food webs <br />Biogeochemical cycles in marine ecosystems<br />Subtidal benthic communities <br />Estuary <br />Between the tides&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />Rocky shores <br />Sandy beach and mudflat<br />Chemosynthesis based marine ecosystems",
+      "comment_teaching": "Difficult to catch up the teaching of professor Qian as he sometimes skipped some concepts which he believed all of us had already known and the content of his powerpoint is too much and a little bit messy I think. Although professor Liu&#039;s teaching is somehow boring, his powerpoint is understandable.<br /><br />But I believe both of them have tried their best to explain things and maybe enthusiasm for marine stuff and basic knowledge of life science are required for people who want to take this course.",
+      "comment_grading": "•\tGroup poster project (5 students/group): 35% <br />-Poster content: 15%<br />-Poster design: 5%<br />-Oral presentation skill of poster: 10%<br />(Each group will have 5 mins of oral presentation + 3 mins of Q &amp; A)<br />-Personal effort: 5%<br />(Each student will be evaluated by his/her group members, based on personal contribution to the group project （scores ranging from 0 - 5))<br /><br />•\tFinal Examination: 65%<br /><br />Final exam: 68/100 (mean: 75.55/100, sd=10.5)<br />Finally got a C. Although I attended all the classes and revised for 2 days, the exam is still extremely difficult for me.",
+      "comment_workload": "Only one final and one group project. However the final included all the things taught in the whole semester.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "tcMXwWfgTwe2FdJeCbYvTt1DpHn8aVZP",
+      "semester": "2019-20 Fall",
+      "instructors": [],
+      "author": "Heidi_duckduck",
+      "date": "Sep 07, 2020",
+      "title": "",
+      "comment_content": "1. Intro to Marine Environment<br />2. Physical and Chemical Oceanography<br />3. Marine microbes<br />4. Primary producers<br />5. Zooplankton<br />6. Cnidarian and worms<br />7. Marine molluscs<br />8. Marine arthropods<br />9. Echinoderms<br />10. Marine Fishes<br />11. Marine Mammals<br />12. Primary Productivity in Ocean<br />13. Food web dynamics<br />14. Harmful Algal Blooms and Possible Mechanisms<br />15. Carbon cycle and global warming<br />16. Sandy Beach and Mudflat Ecology<br />17. Rocky Shore Ecology<br />18. Subtidal ecosystems<br />19. Estuary<br />20. Coral Reef Ecology<br />21. Hydrothermal vent and Cold seeps<br />Quite fun in my opinion, nothing hard to understand.",
+      "comment_teaching": "He is nice and fun. But he mostly only read through the powerpoint.",
+      "comment_grading": "B range",
+      "comment_workload": "Super little workload, only midterm and final. The only thing was there are so many new vocabularies to remember.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Ya7y6pzsECXpLqLWUvqcStvVW6dZEOZ4",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 231,
+          "name": "LIU, Hongbin",
+          "rating": 1
+        },
+        {
+          "id": 473,
+          "name": "WANG, Wenxiong",
+          "rating": 1
+        }
+      ],
+      "author": "LeaveSoon",
+      "date": "Dec 31, 2019",
+      "title": "Prof Liu is so funny",
+      "comment_content": "1. Intro to Marine Environment<br />2. Physical and Chemical Oceanography<br />3. Marine microbes<br />4. Primary producers<br />5. Zooplankton<br />6. Cnidarian and worms<br />7. Marine molluscs<br />8. Marine arthropods<br />9. Echinoderms<br />10. Marine Fishes<br />11. Marine Mammals<br />12. Primary Productivity in Ocean<br />13. Food web dynamics <br />14. Harmful Algal Blooms and Possible Mechanisms <br />15. Carbon cycle and global warming <br />16. Sandy Beach and Mudflat Ecology<br />17. Rocky Shore Ecology<br />18. Subtidal ecosystems<br />19. Estuary<br />20. Coral Reef Ecology<br />21. Hydrothermal vent and Cold seeps",
+      "comment_teaching": "Prof Liu was so funny and kind that he always hurry to end his lectures earlier and would tell us which pages of the ppt would not be examined though there weren&#039;t many pages in each ppt. He was willing to share his own experience in this field. However, it is better to sit in the front as he usually murmured in teaching.<br /><br />Prof Wang gave a lot of details apart from the ppts. However, they were just for your reference and would not be tested (though he state that)",
+      "comment_grading": "Midterm (73/100, Mean: 65) 65%<br />Final exam (Don&#039;t know) 35%<br />Got B+ as a year 2 student",
+      "comment_workload": "No assignments",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "fBUeR2lgS4zaILgwltA5upfjV1syvXAy",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 229,
+          "name": "CHENG, Jinping",
+          "rating": 1
+        },
+        {
+          "id": 231,
+          "name": "LIU, Hongbin",
+          "rating": 1
+        },
+        {
+          "id": 236,
+          "name": "QIAN, Peiyuan",
+          "rating": 1
+        },
+        {
+          "id": 473,
+          "name": "WANG, Wenxiong",
+          "rating": 1
+        }
+      ],
+      "author": "Sunny_nym",
+      "date": "Mar 27, 2018",
+      "title": "A great course for students who have the passion of marine biology",
+      "comment_content": "Interesting topics for an undergraduate student to learn about the marine biology. <br /><br />Professor Liu:<br />Introduction to Marine Environment<br />Physical and Chemical Oceanography<br />Virus, bacteria, archaea<br />Cyanobacteria and protists<br />Primary Producers (phytoplankton and macroalgae)<br />Zooplankton<br />Marine Mammals <br />Primary Productivity in Ocean<br />Harmful Algal Blooms and Possible Mechanisms<br />Food web dynamics&nbsp;&nbsp;<br /><br />Ms Cheng Jin Ping (Guest lecturer):<br />Marine Fishes <br /><br />Professor Wang:<br />Cnidarian and worms<br />Marine molluscs<br />Marine arthropods<br />Marine arthropods<br />Echinoderms<br /><br />Professor Qian (Course coordinator):<br />Coral Reef Ecology<br />Intertidal ecology<br />Subtidal benthic communities<br />Estuary<br />Hydrothermal vent and Cold seeps<br />Biogeochemical cycles in marine ecosystems",
+      "comment_teaching": "Professor Wang&#039;s lectures were well-prepared. He thought of some interesting examples to illustrate the concepts that made students understand more easily. <br /><br />Professor Qian&#039;s lectures were fruitful. He talked about marine environments and some biogeochemical cycles in the marine ecosystems. I think you should sit at the back of the classroom if you are having his lectures as he always turns the volume too loud that you may feel a little bit annoyed. <br /><br />Professor Liu had a relatively casual teaching style when comparing to other lecturers. His slides were sometimes lacked information that you have to pay extra attention in his lectures. You may need to jot down sufficient amount of notes for your study in the future.",
+      "comment_grading": "I got within SD+1 above mean and within SD-1 below mean. Finally got a B from this course. Quite a good grade already comparing to other life science courses.",
+      "comment_workload": "You have to be alert with the mid-term examination as there were 2-3 essay questions to be answered with. That means you may be required to memorise some special terms that have mentioned in the lectures. <br /><br />Regular revision is advised for B grade or above.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "kdgzgGDkwdcIdkvrZAhGRHa5DlLQ49Nu",
+          "name": "Course Outline-LIFS3130-2017 copy",
+          "format": "doc"
+        }
+      ]
+    },
+    {
+      "hash": "oA3anqHpFLYhdR3zIiKMB5bLlNEOJJlG",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 231,
+          "name": "LIU, Hongbin",
+          "rating": 1
+        },
+        {
+          "id": 236,
+          "name": "QIAN, Peiyuan",
+          "rating": 1
+        },
+        {
+          "id": 473,
+          "name": "WANG, Wenxiong",
+          "rating": 1
+        }
+      ],
+      "author": "guessmewho",
+      "date": "Dec 25, 2017",
+      "title": "",
+      "comment_content": "Midterm covers different classes of marine organisms. You need to memorize the structure and function of different organisms. There will be mainly MC and short essay questions. Not too difficult if you have enough revision. Questions are quite strict forward, but be careful to also look at the graphs in lecture notes, make sure you don&#039;t miss any details. <br /><br />Second half of the lecture is taught by Prof. Qian and Hongbin. The format of final is similar to midterm, with MC and 4 essay questions. I think Qian&#039;s questions are more challenging, he likes to ask something not found or taught in lecture. You need to fully understand and integrate your knowledge to answer his questions. But don&#039;t worry too much, we only need to answer 4 out of 5 essay questions.",
+      "comment_teaching": "Hongbin&#039;s lectures are boring. He is more like talking to himself but not to the class. But his lecture notes are very details, enough for you to understand everything covered in exams, so his lectures in my opinion is optional.<br /><br />WANG only taught before midterm and I don&#039;t really remember his teaching. I think his part is normal and fair. With a little bit accent but still easy to understand.<br /><br />QIAN&#039;s lecture notes are super messy and not so organised. It is important to attend his class because he might talk something not included in notes but appear in exams. He loves to spend most of his time talking about one particular page and then go through the rest swiftly.",
+      "comment_grading": "The marking of exams are quite generous on essay questions. The mean is high. I got 86/100 in midterm, and 93/100 in final, and overall I got an A.",
+      "comment_workload": "midterm 48%<br />Final 50%<br />Quiz 2%<br /><br />The quiz is conducted suddenly, but since it contributes only 2 %, it is okay if you miss it. It asked something about the previous lecture notes.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "AQ29MQqMhxzHwV87o6KKh6SClKts8GoF",
+      "semester": "2017-18 Fall",
+      "instructors": [],
+      "author": "tftsangaa",
+      "date": "Dec 22, 2017",
+      "title": "Not difficult course",
+      "comment_content": "The content is quite similar to the previous ones but due to tight teaching schedule, some topics weren&#039;t covered, like shrimp farm and so on. It mostly covered diverse natural habitats such as sandy beach, mudflat, estuary and coral reef. I would say that it is important to know abiotic and biotic factors of various habitats and give comparisons.",
+      "comment_teaching": "I think the teachers are fairly good.",
+      "comment_grading": "Actually, I don&#039;t know how do u play with the fair grading but I got <br /><br />mid-seventy in mid term <br />mid-eighty in final <br /><br />grade:B+<br /><br />I think u better do well in both mid-term and exam cuz they are almost equally weighed. (better say if I have got eighty something in both mid-term and exam, I would have earned A grade. Poor me!)",
+      "comment_workload": "Obviously, there are only two exams and one quiz, straightforward and simple, right?<br />(btw, about the quiz, they prefer to deliver in the lecture and that means u should take all the lectures, esp in the middle of time cuz u don&#039;t know which lecture they gonna suck it in)",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "vuMcusurPIPNNXaApl5l0wyIY0ECIbgt",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 231,
+          "name": "LIU, Hongbin",
+          "rating": 1
+        },
+        {
+          "id": 236,
+          "name": "QIAN, Peiyuan",
+          "rating": 1
+        },
+        {
+          "id": 473,
+          "name": "WANG, Wenxiong",
+          "rating": 1
+        },
+        {
+          "id": 229,
+          "name": "CHENG, Jinping",
+          "rating": 1
+        }
+      ],
+      "author": "NOIUE",
+      "date": "Jan 02, 2017",
+      "title": "good one",
+      "comment_content": "Rich content about marine biology<br /><br />Midterm: sponge and microbes in ocean, plankton, and primary production in marine<br /><br />Final: fish, arthropod, echinoderm, oyster farm, shrimp farm, marine mammals, mollusks, Carol reef, various aquatic habitats",
+      "comment_teaching": "I am sorry to say I seldom go to class <br />I can&#039;t tell whether the teaching quality is good or bad<br /><br />But Qian is a good teacher at least. Able to explain those complicated concepts.",
+      "comment_grading": "above 0.4 sd in mid-term<br />above 2 sd in final <br />Fair grading <br />Grade: A",
+      "comment_workload": "midterm is good<br />but final need many days to study since its content is 2/3 of the whole course",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 1,
+      "attachments": [
+        {
+          "key": "YmIM6N3zFnj52hOE9MAi7qAWicAtuN1y",
+          "name": "Course Outline-LIFS3130-2016 (1)-1",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "4y05w4Y1riU50Ds5g21fOyEVnbo3VbOY",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 231,
+          "name": "LIU, Hongbin",
+          "rating": 0
+        },
+        {
+          "id": 236,
+          "name": "QIAN, Peiyuan",
+          "rating": 1
+        },
+        {
+          "id": 473,
+          "name": "WANG, Wenxiong",
+          "rating": 0
+        }
+      ],
+      "author": "YSA",
+      "date": "Dec 26, 2016",
+      "title": "",
+      "comment_content": "Topics:<br /><br />Introduction to Marine Environment <br />Physical and Chemical Oceanography <br />Biodiversity of Marine Life<br />Sponges<br />Microbial diversity, function and processes <br />Biogeochemical cycles in marine ecosystems<br />Primary Producers (phytoplankton and macroalgae)<br />Primary Productivity in Ocean<br />Harmful Algal Blooms and Possible Mechanisms&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />Marine Mammals <br />Marine Fishes<br />Marine molluscs<br />Marine arthropods<br />Echinoderms<br />Coral Reef Ecology<br />Coral-microbe symbiosis<br />Intertidal ecology (rocky shore)<br />Intertidal ecology (sandy beach/mudflat) <br />Subtidal benthic communities<br />Estuary<br />Mangrove and Wetland<br />Hydrothermal vent and&nbsp;&nbsp;Cold seeps<br /><br />Some of the topics, at the start and end of the course are interesting. But the topics in the middle - arthropods, molluscs, echinoderms, etc. - are extremely boring and useless. Too many details about the different animal groups. Lot of memorization in all topics.",
+      "comment_teaching": "Qian is quite interesting and engages well with students. Liu does not explain very clearly sometimes, and Wang&#039;s lectures are extremely boring.<br />All 3 professors upload very detailed and good lecture notes which are helpful for revision after exams.",
+      "comment_grading": "Midterm: 35%<br />Final: 60%<br />Not sure about the other 5%?<br /><br />The exams are quite easy. MCQs, true and false, short questions, and 3 long questions in each exam. Very basic exams, should be easy if you revise every lecture note before the exam.<br /><br />I got 91.5 in midterm (&gt;1 SD above mean), 58 in final (below mean, did not have time to revise half the topics for final). Total 69 = mean = grade B-.",
+      "comment_workload": "No homework/assignments. Exams are very basic, just memorize everything for the lecture notes. No attendance.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "Hr9ri8S4BAlHMT8Svm3029zhSlaqIiBq",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 231,
+          "name": "LIU, Hongbin",
+          "rating": 0
+        },
+        {
+          "id": 236,
+          "name": "QIAN, Peiyuan",
+          "rating": 1
+        },
+        {
+          "id": 473,
+          "name": "WANG, Wenxiong",
+          "rating": 0
+        }
+      ],
+      "author": "kentanggoreng",
+      "date": "Dec 22, 2015",
+      "title": "Horrible instructors",
+      "comment_content": "The content of the course is quite interesting; you learn about the ocean, how currents, wind, etc works and their correlation with productivity and biodiversity. Then it moves on to marine animals from bacteria, plankton to mammals. Finally it discusses about marine biomes like intertidal, subtidal and estuary.",
+      "comment_teaching": "The course starts with Qian. He&#039;s alright; he&#039;s an expert in marine biology so he knows a lot of stuff. He is like a grandfather you always know --- talks too slow, talks gibberish most of the time, often doesn&#039;t make sense. Wang was bad ---- most of what he talks about doesn&#039;t have any content. It took serious effort to really focus on the classes. As bad as Wang, nobody beats Liu, he was horrendous. I gave up going to class because he was THAT bad. He&#039;s uninspiring, lectures are boring, very unprofessional and lazy. Don&#039;t even bother to go to his paperchecks because he&#039;s so lazy to change your grades, he would make ridiculous and stupid excuses to weigh your answers down.",
+      "comment_grading": "Grading is alright I suppose, as long as you study properly. People usually screw up because the instructors are horrible and the lecture notes are as bad; so make sure you got a hold of a library book.",
+      "comment_workload": "35% midterm and 65% finals. The weighing is VERY SCARY so be careful for the finals.",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

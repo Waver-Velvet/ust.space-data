@@ -1,0 +1,76 @@
+{
+  "course": {
+    "id": 1723,
+    "subject": "HUMA",
+    "code": "5270",
+    "name": "Cantonese Linguistics",
+    "description": "This course deals with various issues of Cantonese, including sounds and tones, word formation, syntax and pragmatics. It will review the history of the language by studying texts from the early 19th century to the present; and examine the current linguistic changes that have redefined Hong Kong speech as a special variety of Cantonese.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2130,
+      1910,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3,
+    "rating_teaching": 1,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 290,
+        "name": "YIU, Yuk Man Carine",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "9xdIhkqAVM7BRfgLBG3wIaL2sOAhIFP7",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 290,
+          "name": "YIU, Yuk Man Carine",
+          "rating": 1
+        }
+      ],
+      "author": "kw123",
+      "date": "Nov 24, 2022",
+      "title": "基本上就係一堆presentation",
+      "comment_content": "Prof基本上講完啲好basic嘅嘢之後就叫我哋一人負責一份文獻present，13個week有八成時間都係present",
+      "comment_teaching": "......其實冇乜點教😂 個人唔太buy叫學生present當教咗，冇乜理論嘢",
+      "comment_grading": "A-還好啦<br /><br />都係睇term paper 個人覺得唔會太難，除非你亂寫",
+      "comment_workload": "我覺得除咗最尾份term paper比較chur，其他都還好",
+      "rating_content": 3,
+      "rating_teaching": 1,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "course": {
+    "id": 2804,
+    "subject": "ENVR",
+    "code": "5320",
+    "name": "Environmental Data Analysis",
+    "description": "This course is designed for students at the start of their postgraduate studies. The course will provide students with knowledge in understanding and using statistical methods in environmental science and applications. Probability distributions, parametric tests of significance against non-parametric tests, Monte Carlo methods, Principal Component Analysis, etc. will be taught in the course facilitated by extensive use of real world problems as example.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030,
+      1930,
+      1830
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

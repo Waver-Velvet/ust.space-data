@@ -1,0 +1,78 @@
+{
+  "course": {
+    "id": 492,
+    "subject": "HART",
+    "code": "1035",
+    "name": "Public Art Interventions",
+    "description": "This course aims to introduce students without artistic background into hands‐on art making for the public realm. Students will look into contemporary concepts of art in public space, such as interventions and guerrilla art, and learn how art has the potential to transform our everyday perception of our life, as taking art from a gallery context into the public can be challenging and thought provoking, yet at the same time playful and meaningful. As part of the course, participants will explore UST campus for its artistic potential, and complete a series of site‐specific interventions using spatial concepts, methodologies, techniques and materials available. Most likely the interventions will be ephemeral only, yet the effect and memory they create for the passing audience will be longer lasting. The interventions will also encourage direct interaction with and feedback from the audience, thus provide participants opportunities to very actively get involved with their daily community.",
+    "categories": [
+      "Common Core (Arts)"
+    ],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2110,
+      1730,
+      1530,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 3,
+    "rating_grading": 2,
+    "rating_workload": 3,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 279,
+        "name": "LAW, Sum Po Jamsen",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "39xXFzevdcVAuqZx4Q49wIJg7sNfgldh",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 279,
+          "name": "LAW, Sum Po Jamsen",
+          "rating": 0
+        }
+      ],
+      "author": "Lunaaaa",
+      "date": "May 05, 2022",
+      "title": "",
+      "comment_content": "The content is somewhat interesting and introduces various public intervention activities in the world. Some of them are very brilliant ideas.",
+      "comment_teaching": "The teacher is really mean. He always thinks that art is what he thinks. He always criticizes your ideas.",
+      "comment_grading": "The presentation skills contribute a lot to the grades that I think are inappropriate. The professor is stubborn and not so open-minded. So he&#039;s really strict in grading.",
+      "comment_workload": "Be prepared to spend a lot of money in your project. Though it looks fun, but it takes a lot of time to make it.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 2,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

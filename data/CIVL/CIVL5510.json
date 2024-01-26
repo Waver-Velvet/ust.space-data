@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 3884,
+    "subject": "CIVL",
+    "code": "5510",
+    "name": "Hydroclimate Data Analysis and Modelling",
+    "description": "This course provides a foundation for data analysis and statistics-aided physical diagnosis in water and climate related studies. Students will have a fundamental understanding of why climate and water research needs the assistance of statistics and probabilities. The course will cover topics including robust and resistant statistics, conditional climatology and persistence analysis, parametric probability distribution, spatiotemporal analysis, and visualization etc. with real analysis examples.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1086,
+        "name": "LU, Mengqian",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "0gduA4KytFB62VvTkA3AZ1zDiYmyhp0l",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1086,
+          "name": "LU, Mengqian",
+          "rating": 1
+        }
+      ],
+      "author": "QiMeng",
+      "date": "Sep 03, 2023",
+      "title": "",
+      "comment_content": "This course provides a foundation for data analysis and statistics-aided physical diagnosis in water and climate related studies. Students will have a fundamental understanding of why climate and water research needs the assistance of statistics and probabilities. The course will cover topics including robust and resistant statistics, conditional climatology and persistence analysis, parametric probability distribution, spatiotemporal analysis, and visualization etc. with real analysis examples",
+      "comment_teaching": "The teacher is very kind and friendly, and gives some suggestions on the direction of my scientific research.",
+      "comment_grading": "The results mainly come from two reports. You can talk about the content of the report that you are interested in. After the report, there will be a question and answer session. Generally speaking, the teacher gives points according to the content of the report, which is still very good.",
+      "comment_workload": "The overall workload is appropriate. The teacher prepared some materials for pre-class study, but it was voluntary. If you are interested in the content of the material, you can still learn a lot. In addition, there are two demonstrations, and the overall workload is moderate.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

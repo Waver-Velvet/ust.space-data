@@ -1,0 +1,115 @@
+{
+  "course": {
+    "id": 1541,
+    "subject": "FINA",
+    "code": "4603",
+    "name": "Venture Capital Financing",
+    "description": "This course covers the application of financial tools and techniques to the funding and valuation of an entrepreneurial venture. The course seeks to provide students with a background on the venture capital industry, the economic intuition underlying its features, and the basic tools required to work in the industry.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030,
+      1910,
+      1830,
+      1730,
+      1630
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"3303\" href=\"/review/FINA3303\" target=\"_blank\">FINA 3303</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 4.5,
+    "rating_workload": 4.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 985,
+        "name": "NASH, John Gerard Francis",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "7frPLTmSyKKr4Ica0JOH8YkjROL2L2hj",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 985,
+          "name": "NASH, John Gerard Francis",
+          "rating": 1
+        }
+      ],
+      "author": "carpeDiem",
+      "date": "May 31, 2022",
+      "title": "Interesting course about venture capital",
+      "comment_content": "1. Venture Capital Industry<br />2. Startup Valuation<br />3. Venture Capital Incentives <br />(Real options, debt overhang, asset substitution...)<br />4. Contract Valuation <br />(Value convertible shares, participating convertible preferred shares, and other structures using portfolio replication technique with Black-Scholes; anti-dilution clauses and implied valuation...)<br />5. Exiting Investments (the IPO process)<br /><br />For people who had a wonderful time learning about financial derivatives (FINA3203 / MATH4514) or have listened to venture capitalists pitching their VC funds during their internships, this course may be your cup of tea!",
+      "comment_teaching": "- Classes are fairly interactive. Prof. asks many reflective questions in class<br /><br />- Prof. and the TA are very responsive to emails<br /><br />- Prof. talks in a concise and succinct manner. He never finishes the classes late<br /><br />- PPTs are easy to understand (clarify with Prof. if any questions pop up",
+      "comment_grading": "20% Group/individual assignment <br />(= case*2, you can collaborate with selected classmates in different sessions up to 4ppl/group)<br />10% Class participation (not entirely based on attendance on Zoom)<br />20% Midterm exam<br />50% Final exam<br /><br />I may be biased because I got an A:<br />- Assignment 1: 9/10<br />- Assignment 2: 10/10<br />- Class participation: not published on Canvas but I was quite active in class discussions<br />- Midterm: 42.5/50 (mean: 39, stdev: 6)<br />- Final: not published on Canvas<br /><br />For the midterm and final exams, remember to manage your time wisely...<br />Skip the hard questions and revisit them if you have time.",
+      "comment_workload": "- Assigned reading: Read the cases (10+ pages each) before attending lectures to get on the same page with the professor during class discussions<br /><br />- Assignments: split the work with your team members and arrange meetings with them (our team had 2 meetings for each case)<br /><br />- Working on practice problems and sample midterm/final questions: they are not for grading purposes but are absolutely helpful in preparing for the midterm and final exams",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "vaG68cbXu7ZC68cguJQpbR3seVRshIdl",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 985,
+          "name": "NASH, John Gerard Francis",
+          "rating": 1
+        }
+      ],
+      "author": "ft",
+      "date": "Jun 01, 2017",
+      "title": "",
+      "comment_content": "4603 = 3103 + 3203 + 3303 + 3403<br />Topics: corporate finance, DCF, multiples, contract valuation, anti-dilution, implied valuation, exit valuation.<br />Prerequisite: FINA3403, but he can waive it for you.<br />I finally know what&#039;s going on in 3303 and 3403 after taking this course. Course materials are difficult but notes are full of examples.<br />Practice problems, sample midterm, sample final are provided. They are very similar to exam questions.",
+      "comment_teaching": "a bit boring...<br />many typos in the notes (as this is the first time to have this course)",
+      "comment_grading": "10% Parti<br />20% Cases<br />20% Midterm<br />50% Final<br /><br />or<br />12.5% Parti<br />25% Cases<br />62.5% Final<br /><br />Count the better one :)",
+      "comment_workload": "only 2 short cases (in group, 2-3 pages are enough)<br /><br />midterm: 1-page double-side cheat sheet<br />final: 2-page double-side cheat sheet",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "course": {
+    "id": 623,
+    "subject": "HUMA",
+    "code": "4220",
+    "name": "Verbal and Visual Representation of China",
+    "description": "The West's cognizance of Chinese people and society has been informed by mixed sentiments of idealism, ignorance, and fear, giving rise to a fragmented vision of China as what it always was: exotic, fascinating, potentially dangerous, and practically misconceived. This course covers a wide range of critical and imaginative texts including language manuals, linguistic translations, intellectual treatises, missionary records, travelogues, creative writings, visual performance and entertainments to examine how verbal and audiovisual representations have shaped the Western conception of China through history.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230,
+      1830,
+      1640,
+      1510
+    ],
+    "prerequisites": "CORE 2651 OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"3501\" href=\"/review/CORE3501\" target=\"_blank\">CORE 3501</a> OR <a class=\"course-link\" data-subject=\"HUMA\" data-code=\"1440\" href=\"/review/HUMA1440\" target=\"_blank\">HUMA 1440</a> OR <a class=\"course-link\" data-subject=\"HUMA\" data-code=\"1660\" href=\"/review/HUMA1660\" target=\"_blank\">HUMA 1660</a> OR <a class=\"course-link\" data-subject=\"HUMA\" data-code=\"2660\" href=\"/review/HUMA2660\" target=\"_blank\">HUMA 2660</a> OR <a class=\"course-link\" data-subject=\"HUMA\" data-code=\"3030\" href=\"/review/HUMA3030\" target=\"_blank\">HUMA 3030</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 2,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 311,
+        "name": "LIU, Jianmei",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "EHjRRnVzpY3hEPoYFcH8akQw9KuQE8Pe",
+      "semester": "2016-17 Summer",
+      "instructors": [
+        {
+          "id": 311,
+          "name": "LIU, Jianmei",
+          "rating": 1
+        }
+      ],
+      "author": "chimz",
+      "date": "Jul 18, 2017",
+      "title": "um...",
+      "comment_content": "there are so many pieces of reading and concepts you need to master:<br />occidentalism<br />orientalism<br />colonialism<br />nationalism<br />China as periphery and decentering, diaspora<br />good sense of Modern Chinese History will help since Chinese culture is developed based on the history. Therefore, pre-requisite of HUMA1440 is somewhat important.",
+      "comment_teaching": "this is a seminar course that students are supposed to have active participation.<br />Prof. Liu will talk about 45 minutes in each lecture.<br />Students will lead the discussion based on the film or drama we watched in the the last lecture.<br />In general, we are having some simple discussion, not something hard-core. Students are required to talk frequently in order to excel in this course.<br />Remember, the film might not be finished in the lecture, so you need to finish it yourself.",
+      "comment_grading": "Professor promised that grades would be chill. But, &#039;activeness&#039; to the extent being an over-hyper kid will safeguard your grade.",
+      "comment_workload": "Everything is crammed into 5 weeks. Students gonna rush in those 5 weeks.<br /><br />10% pop up quiz x6<br />20% Class participation, based on the performance of leading discussion x2 and some more...<br />20% Presentation on individual term paper<br />30% Individual term paper (5 days after the last day of the course)<br />20% Final exam (MC + SQ; on the last day of the course)<br /><br />The syllabus of final exam is extremely long:<br />4 English articles (25 pages each) + 6 short stories + 11 films",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

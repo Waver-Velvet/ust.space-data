@@ -1,0 +1,111 @@
+{
+  "course": {
+    "id": 170,
+    "subject": "CIVL",
+    "code": "4330",
+    "name": "Introduction to Structural Dynamics",
+    "description": "Single degree of freedom systems, multi-degree of freedom systems, continuous systems, random vibrations, dynamic behavior under wind loads and earthquakes.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1730,
+      1630,
+      1530,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"2120\" href=\"/review/CIVL2120\" target=\"_blank\">CIVL 2120</a> AND <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2011\" href=\"/review/MATH2011\" target=\"_blank\">MATH 2011</a> AND <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2350\" href=\"/review/MATH2350\" target=\"_blank\">MATH 2350</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"MECH\" data-code=\"4750\" href=\"/review/MECH4750\" target=\"_blank\">MECH 4750</a>",
+    "rating_content": 4.5,
+    "rating_teaching": 4.5,
+    "rating_grading": 4.5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 65,
+        "name": "HU, Wei Chung",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "iyzdGKcwjIsCEGHWjdZI1NqnW3ipkSdE",
+      "semester": "2018-19 Fall",
+      "instructors": [],
+      "author": "MSY",
+      "date": "Jul 30, 2020",
+      "title": "",
+      "comment_content": "Quite good, this course&nbsp;&nbsp;will be offered again in Spring 2021, they will have very limited quota for those backlogged students, so better take this course in fall sem.",
+      "comment_teaching": "Not bad",
+      "comment_grading": "Good grade",
+      "comment_workload": "Reasonable workload, i think hibivuvuvivkbivuvuvibkdjdjvkvuvkbkb uvuvib uvivi bibk uvi. Bi k bib uvj uvu j j j j j j h m ibj ubj jbudvj uvuvj ubibk. H ubj j ucj j uvubkbk ycycj jguv. Bubj h ubj.&nbsp;&nbsp;&nbsp;U j h y y y h uuvkfjgubj. Bubjbj. Bubj h vuvh h. Bubj.&nbsp;&nbsp;Uvub. Ububjbh h y ububjbj j",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 24,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "3ljymrgWpOePDnCR8673s79YyCEPhNr6",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 65,
+          "name": "HU, Wei Chung",
+          "rating": 1
+        }
+      ],
+      "author": "alanleunghihi",
+      "date": "Jan 21, 2019",
+      "title": "",
+      "comment_content": "Outline:<br /> Newton’s laws of motion<br /> Dynamics of single- degree-of-freedom systems<br /> Dynamics of multiple-degree-of-freedom systems<br /> Dynamics of continuous systems<br /> Introduction to Lagrange’s Equations and Hamilton’s Principle<br /><br />Intended Learning Outcomes:<br />1) Ability to apply fundamental dynamical principles to model, obtain solutions to and interpret structural behavior under various forms of time-varying excitation for discrete SDOF and MDOF systems, as well as basic continuous systems.<br /><br />2) Ability to apply modern numeric and symbolic computing tools (computer algebra systems) for efficient formulation and solution to dynamics problems.",
+      "comment_teaching": "Prof. Hu is a really nice professor. He provides students the CAS calculator which is really useful for the course and convenient when it comes to those complicated numerical equations. All those calculators are bought by himself. <br /><br />His teaching style is casual, and you won&#039;t feel bored or under pressure throughout the whole lecture.",
+      "comment_grading": "The grading is great. Basically, you can easily get high marks in all the quizzes and the project. For the class participation, you can get full marks as long as you come to most of the classes.<br /><br />Class participation (5%) + Quizzes (3x10 % = 30%) + Project (15%) + Final exam (50%) = 100%",
+      "comment_workload": "Three In-class Quizzes<br />1 Project (Submit before the final exam or after)<br />1 Final Exam",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

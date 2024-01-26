@@ -1,0 +1,76 @@
+{
+  "course": {
+    "id": 906,
+    "subject": "MATH",
+    "code": "4063",
+    "name": "Functional Analysis",
+    "description": "Banach space. Hahn-Banach theorem, open mapping theorem, closed graph theorem, uniform boundedness theorem, separation theorem, Krein-Milman theorem. Weak topologies and weak topologies, reflexive spaces, separable spaces, Arzela-Ascoli theorem, uniform convexity. Hilbert space, Riesz representation theorem and Lax-Milgram theorem. Adjoints and duality. Compact, Fredholm, self-adjoint operators and their spectrum. Sobolev spaces, Sobolev inequalities, elliptic boundary value problems, and other applications.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      1830,
+      1430
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"MATH\" data-code=\"3043\" href=\"/review/MATH3043\" target=\"_blank\">MATH 3043</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"4061\" href=\"/review/MATH4061\" target=\"_blank\">MATH 4061</a>) AND (<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2131\" href=\"/review/MATH2131\" target=\"_blank\">MATH 2131</a> OR grade A- or above in <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2121\" href=\"/review/MATH2121\" target=\"_blank\">MATH 2121</a>)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 939,
+        "name": "JIN, Tianling",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "GxSD3LFoyNTa2LdseXmn1z2vISziGrHo",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 939,
+          "name": "JIN, Tianling",
+          "rating": 1
+        }
+      ],
+      "author": "UnconMarketeers",
+      "date": "Dec 17, 2022",
+      "title": "An essential course that should offer every year",
+      "comment_content": "1. Official textbook: Functional analysis, Sobolev space and PDE, Brezis. Strongly recommend this as your first book for functional analysis! Other recommended references are:<br />-&gt; The course MATH5285 (As supplement of untaught concepts with applications and realize that functional analysis can be very applied)<br />-&gt; G.B. Folland&#039;s real analysis (Chapters 4 and onward, for functional analysis)<br />-&gt; W. Rudin&#039;s functional analysis (for second-time learning)<br />-&gt; P. Lax&#039;s functional analysis<br />-&gt; L.C. Evans&#039; PDE (for immediate application of learnt concepts)<br />-&gt; E.M. Stein&#039;s functional analysis (for various applications in other fields)<br /><br />2. Personal comment:<br />-&gt; The true requirements for this course is Mathematical analysis and topology. For real analysis, it serves as a source of concrete example, but not truly essential for knowing course content. <br />-&gt; For the knowledge of &quot;theory&quot;, this course is in overall more in depth than MATH5285, since many big topics like Hahn-Banach theorem, open mapping, closed graph and weak topology are not present in MATH5285; But there are way more concrete examples appearing in MATH5285 than in this course, plus Fourier transform. <br />-&gt; Since infinite dimensional stuff is taken into consideration in this course, you will never see what Yan Min did in MATH2131 for playing with dual. If you hesitate for taking this course because of this, I can say this is not a problem at all.<br /><br />3. Course content:<br /><br />========Part One: Preliminary=======<br /><br />i. Equivalence of norm<br />ii. Definition of (continuous/bounded) linear operator<br />iii. Dual space and dual norm<br />iv. Zorn&#039;s lemma (Super essential! This is equivalent to Axiom of Choice. Without admitting Axiom of Choice, this course has no meaning to exist anymore...)<br />========Part Two: Hahn-Banach theorem========<br /><br />TL;DR: Hahn-Banach theorem only, but with different variants. The analytic variant is for &quot;extension of continuous linaer functional&quot; while geometric variant is for &quot;separation of sets&quot;. <br /><br />v. Hahn-Banach theorem, analytic form (Any bounded linear functional defined on subspace can be extended to whole space as domain)<br />Some consequences:<br />vi. Hahn-Banach theorem, geometric forms (Given two disjoint sets with suitable topological properties, there is closed hyperplane separating them)<br /><br />=========Part Three: Baire Category theorem and Consequences in Banach space========<br /><br />TL;DR: Important theorems relying on Baire Category theorem. Notice that Baire Category theorem is also equivalent to axiom of (dependent) choice!<br /><br />vii. Baire Category theorem (In complete metric space, countable intersection of open dense sets is dense)<br />viii. Uniform boundedness principle (Pointwise boundedness implies uniform bounedness)<br />ix. Open mapping theorem (If the bounded operator is surjective, then the direct image maps open sets to open sets)<br />x. Closed graph theorem (Graph closed iff the operator is continuous)<br /><br />=======Part Four: Weak Topology=======<br /><br />TL;DR: &quot;What if the usual topology is restricted so that all mappings are continuous?&quot; This is the topic that discuss here. <br /><br />xi. Construction of weak topology<br />xii. General topological properties (Hausdorff, formation of open basis)<br />vxiii. Equivalence of weak and strong topology in finite dimension<br />vxix. Non-compactness of unit closed ball in weak topology<br />xiii. Amendment via weak topology (for convex sets, weak and strong sense are the same)<br />xiv. Weak* topology (Weak topology from dual space to original space; Consistent to weak topology for basic properties)<br />xv. Reflexiveness, separability, metrizability...<br /><br />========Part Five: Hilbert Space=======<br /><br />TL;DR: Standard Hilbert space theory - The content is roughly the same as that in MATH5285. With the knowledge of weak topology, some discussion might be more interesting.<br /><br />xvi. Inner product, norm, Cauchy-Schwarz, parallelogram law...<br />xvii. Reflexiveness of Hilbert space <br />xviii. Projection mapping onto closed convex subset<br />xix. Riesz representation theorem<br />xx. Hilbert sum, recovery of partial sum, parseval identity, existence of orthonormal basis...<br /><br />=========Part Six: Compact operator========<br /><br />TL;DR: Properties of compact operator, Fredholm alternative, spectral theorem. They are essential for the study of PDE, say existence of weak solution of elliptic PDE.<br /><br />xxi. Compact operator, with many basic properties (boundedness, composition, finite rank...)<br />xxii. Adjoint operator and equivalence of compactness between operator and its adjoint<br />xxiii. Essential definitions (kernel, range, orthogonal complement...)<br />xxiv. Fredholm alternative theorem<br />xxv. Riesz lemma, and consequence (Unit ball compact iff the space is finite dimensional)<br />xxvi. Spectral theory for bounded/compact/self-adjoint operators<br /><br />=========Part Seven: Some imporatnt theorems (that are used above)==========<br /><br />-&gt; Heine-Borel theorem<br />-&gt; Arzela-Ascoli theorem<br />-&gt; Quotient space in Banach space<br /><br />=========Part Eight: Sobolev space==========<br /><br />-&gt; Weak derivative<br />-&gt; Compact embedding<br />-&gt; Solving PDE (as application of Fredholm alternative)",
+      "comment_teaching": "1. Motivation: The instructor always tells the intuition or motivation behind the concepts or theorems introduced in class, like why weak topology is needed and so on.<br /><br />2. The instructor&#039;s teaching is like, everything comes out of his mind instead of the textbook (but everything can be found from textbook...), because he shows his thinking process of the proof when he teach, unlike that he &quot;already knows the ending of the story&quot;. This is hard to judge whether it is good or bad: A good side is that the thinking process is shown to students, but the bad side is to make the teaching pace slow. For instance, he has struggled in some technical detail of a proof, and wasted half of the lecture time...",
+      "comment_grading": "25% homework, and 75% from max{(25% midterm, 50% final), 75% final}. <br /><br />Warning: Homework can be tricky, but seems everyone gets full mark because the homework mean score can be as high as, say, 97%!",
+      "comment_workload": "4-5 problems per week. Some questions are actually quite long, so the homework can be time consuming. As professor mentioned: In functional analysis, the questions is either easy, or extremely hard. <br /><br />Given that the amount of homework is high and this course only worths 2 credits (which I think insults this course), the workload is not light at all. [Edit: Glad to see that it finally becomes a 3-credit course]",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 6,
+      "vote_count": 6,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

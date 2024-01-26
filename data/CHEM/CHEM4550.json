@@ -1,0 +1,92 @@
+{
+  "course": {
+    "id": 121,
+    "subject": "CHEM",
+    "code": "4550",
+    "name": "Advanced Synthetic Laboratory",
+    "description": "This course provides hands-on experience for students in the pure chemistry option. It emphasizes on the advanced lab techniques such as the setup for air sensitive reaction and use of vacuum line. Experiment of different areas like metal catalyzed cross coupling, regiospecific synthesis and preparation of a mimic model of natural catalyst will be included. For CHEM students under the four-year degree only. Students with minor in CHEM may seek instructor’s approval for enrollment in the course.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2030,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1440
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"3550\" href=\"/review/CHEM3550\" target=\"_blank\">CHEM 3550</a>",
+    "corequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"4555\" href=\"/review/CHEM4555\" target=\"_blank\">CHEM 4555</a>",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 10,
+        "name": "CHAN, Dennis Ho Wai",
+        "count": 1
+      },
+      {
+        "id": 803,
+        "name": "YEONG, Tsz Ying",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "Pj0cR05fdAFzOyu4b6YnnTHMDcyNKG8A",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 10,
+          "name": "CHAN, Dennis Ho Wai",
+          "rating": 1
+        },
+        {
+          "id": 803,
+          "name": "YEONG, Tsz Ying",
+          "rating": 1
+        }
+      ],
+      "author": "helloworld",
+      "date": "Dec 24, 2017",
+      "title": "Advanced organic chemistry laboratory",
+      "comment_content": "Pure option既required lab<br /><br />4550+4555做同一樣實驗，交同一份report，final分開兩份考（一份考synthesis，一份考characterisation），grade分開出<br /><br />四個experiments，頭三個experiment每個做兩個禮拜，最尾一個做三個禮拜<br /><br />Lab 1: chemoselective epoxidation<br />Lab 2: wittig-horner synthesis<br />Lab 3: suzuki coupling (with material option)<br />Lab 4: carbohydrate chemistry (with biomolecular option)<br /><br />話就話advanced synthesis+characterisation，但synthesis佔既比例多D，characterisation part主要都係focus on research synthetic lab有機會用既characterisation，想學用機請移玉步去隔離mc lab<br /><br />同syn lab一樣每個lab有lab quiz，背左lab manual個intro就ok(記得背人名/reaction名)<br /><br />做既野同syn lab差唔多，有做過research lab既話應該輕鬆<br /><br />Report主要都係填空/答short question，唔似syn lab咁要作文，nmr請盡力搵multiplicity/計J-value，short question基本上你搵得返個reaction篇paper照抄就得<br /><br />Final piece of cake，前一日睇下manual, slide同report d 問題應該輕鬆&gt;80%<br /><br />據dennis講每年都會轉下實驗，可能下年會多返d inorg既lab掛",
+      "comment_teaching": "Dennis and Fion各負責兩次briefing，同syn lab差唔多，講下background, mechanism, theory同precaution，冇乜特別，考final前睇下就ok，做lab有咩唔識問ta/technician，但一來人少易帶，二來lab manual都straight forward，而且有咩特別技巧佢地都會dem左先",
+      "comment_grading": "Attendance+safety sheet 5%<br />Lab Quiz 10%<br />25% performance<br />5% product<br />25% lab report<br />30% final<br /><br />好grade，正常發揮包A range",
+      "comment_workload": "Lab: 唔難，跟manual，有咩唔sure問ta/technician就ok<br />Report: easier than syn lab report，最難係上scifinder搵返佢問d reaction<br />Exam: piece of cake",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

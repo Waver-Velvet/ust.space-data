@@ -1,0 +1,115 @@
+{
+  "course": {
+    "id": 1901,
+    "subject": "ACCT",
+    "code": "5410",
+    "name": "Taxation",
+    "description": "The course introduces the fundamentals of Hong Kong taxation based on case law and legislation. Topics include: property tax, salaries tax, profits tax, depreciation allowances, personal assessment, and stamp duty.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1830,
+      1730,
+      1630
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 2,
+        "name": "MAK, Kelvin P",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "NisjLuBFdIgZP6V3xOJTQ4Jse1hSQEcy",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 2,
+          "name": "MAK, Kelvin P",
+          "rating": 1
+        }
+      ],
+      "author": "wwwwq",
+      "date": "Nov 30, 2022",
+      "title": "",
+      "comment_content": "mainly including an introduction to taxation in HK, and the vast majority of time is spent on teaching property tax, salary tax, and only a little part of profits tax is included",
+      "comment_teaching": "the teaching in class is so clear, and there are also many detailed and memorable examples listed during class.",
+      "comment_grading": "not bad, finally I got an A.",
+      "comment_workload": "3 times of assignments and one mid-term group paper. the workload in the final exam is a little bit heavy. need to spend at least 2-3 hours every week on it.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Gdh4UxrkiaRJhom7MPLYXSz04f0nK7OD",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 2,
+          "name": "MAK, Kelvin P",
+          "rating": 1
+        }
+      ],
+      "author": "Ceres",
+      "date": "Oct 22, 2022",
+      "title": "",
+      "comment_content": "Best three from about four take-home assignments as 10% each<br />1 term paper completed by a group consisting with about 5-6 persons , topic given by the instructor 20%<br />One open-book exam for about 50%<br />Mainly about the fundamental knowledge about Hong Kong tax systems, the main idea of tax administration. Salaries tax, profit tax and property tax would be discussed in detail to give general understanding towards the scope of charge, deductions and calculation methods. Other critical Hong Kong Tax issue would also be discussed in the course.",
+      "comment_teaching": "Good teaching skills, giving detailed explanations and waiting quite patiently until you truly understand the core definitions.",
+      "comment_grading": "Not yet known about the final exam grade.<br />Reasonable grading for take home assignments. Hints would be given in the lecture, detailed grading reference is also provided.",
+      "comment_workload": "Reasonable workload. The instructor would not go rush in finishing all the topics covered in the syllabus and would adjust the workload of take-home assignments. Spend about 2-3 hours per week to review the notes and reference resources would be enough for obtaining a relevantly good grade.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

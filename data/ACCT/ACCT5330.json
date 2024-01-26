@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 3610,
+    "subject": "ACCT",
+    "code": "5330",
+    "name": "Financial Institutions: Fundamental Analysis and Risk Management",
+    "description": "This course covers financial statement analysis and risk management practices for financial institutions, with an emphasis on global banks. It aims to provide students with a solid grounding in the critical evaluation of banks’ financial performance, accounting practices, and risk management.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2130
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ACCT\" data-code=\"5160\" href=\"/review/ACCT5160\" target=\"_blank\">ACCT 5160</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

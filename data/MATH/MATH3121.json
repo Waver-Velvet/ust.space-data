@@ -1,0 +1,441 @@
+{
+  "course": {
+    "id": 892,
+    "subject": "MATH",
+    "code": "3121",
+    "name": "Abstract Algebra",
+    "description": "Polynomials; Jordan canonical form, minimal polynomials, rational canonical form; equivalence relation; group, coset, group action; introduction to rings and fields.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1740,
+      1710,
+      1640,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2111\" href=\"/review/MATH2111\" target=\"_blank\">MATH 2111</a>/<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2121\" href=\"/review/MATH2121\" target=\"_blank\">MATH 2121</a>/<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2131\" href=\"/review/MATH2131\" target=\"_blank\">MATH 2131</a>/<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2350\" href=\"/review/MATH2350\" target=\"_blank\">MATH 2350</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"3131\" href=\"/review/MATH3131\" target=\"_blank\">MATH 3131</a>",
+    "rating_content": 4.6,
+    "rating_teaching": 4,
+    "rating_grading": 4.2,
+    "rating_workload": 4.7,
+    "review_count": 10,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 540,
+        "name": "ZHU, Yongchang",
+        "count": 6
+      },
+      {
+        "id": 530,
+        "name": "MOY, Allen",
+        "count": 3
+      },
+      {
+        "id": 690,
+        "name": "LI, Xilin",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "rPaydnj9pg6hP53OmBN6ZZRXqonO3CrF",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 540,
+          "name": "ZHU, Yongchang",
+          "rating": 1
+        }
+      ],
+      "author": "SmokingPuddle58",
+      "date": "Dec 28, 2023",
+      "title": "",
+      "comment_content": "The course is all about groups (Ring is a kind of group, field is a kind of ring also so field is also a kind of group), and probably some kind of discrete math stuffs (Euler&#039;s formula, little Fermat&#039;s theorem).<br /><br />He also offered 3 additional lectures on Jordan canonical form, polynomial ring and field theory. I think these 3 lecture are more interesting than the regular lecture.",
+      "comment_teaching": "To be fair, his teaching is really not that bad. I don&#039;t understand why you guys think his teaching is bad. <br /><br />He is very kind that would answer students&#039; question after class even if the question is quite stupid. Also, he gives plenty of the examples during the lecture time to make our understanding better. And yes, he gives us review on previous lecture so that I can catch up contents in last lecture.",
+      "comment_grading": "Grading is actually quite good that I can give an A.<br /><br />Everything got median but still able to get a B.<br /><br />That&#039;s quite a good grade when compared with other math courses.<br /><br />Grading policy:<br /><br />25% HW<br />75% Final + Quiz (It is actually midterm)<br /><br />The percentage distribution of final and quiz will be decided one day during lecture time. It is usually 25% of quiz and 50% of final.",
+      "comment_workload": "Not heavy I would say. <br /><br />If you want to get for a B-range only, then you do not need to do that much practice. Just understanding the concept and doing assignments will be enough since most of the exam question are similar, or even the same, as the homework question. Yongchang himself also said it is not difficult to get a B-range. <br /><br />Do note that he will test something that is not covered in lecture notes so please go to lectures if you wish to get high marks. (He asked us to give 5 examples of subfield of R in final exam, where subfield is covered in one of the lecture, but not is lecture notes).",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "AF86PmPRHmD0oIVysdb7jBvllzUu2uzy",
+      "semester": "2022-23 Fall",
+      "instructors": [],
+      "author": "Sebastien",
+      "date": "Feb 15, 2023",
+      "title": "",
+      "comment_content": "Course goes over most basic fundamentals of abstract algebra including rings and fields. <br />No big requirements are needed prior to this course.",
+      "comment_teaching": "The teaching follows a book. Professor writes down the important definition and theorems and the white board. <br />We often go over the proofs in of those theorems during the lectures and the professors illustrates with multiple example.",
+      "comment_grading": "The midterms was quite easy but the final much harder. <br />Overall the grading seems fair.<br />Most students get a pretty high raw grade so be aware of the curve.",
+      "comment_workload": "The work load is pretty light. Regular homeworks to help you understand the course content. They take about 1 to 2 hours to complete. <br />One midterm <br />One final",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "zLtl5mrGYQH0WrWxnLaY6dqBoexNfkyc",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 540,
+          "name": "ZHU, Yongchang",
+          "rating": 1
+        }
+      ],
+      "author": "Ocp",
+      "date": "Jan 19, 2023",
+      "title": "Easy content",
+      "comment_content": "The content is quite easy. The professor posted notes on canvas after each class, mainly around 5 pages of pdf. The course introduced many new concepts and taught you how to do the relevant operation, but they were not explained in deep, and I have no idea what they are for after the whole semester. I guess it is because the course is designed to lay a foundation only since there are MATH3131 and MATH5111.",
+      "comment_teaching": "The notes have been explained clearly.",
+      "comment_grading": "25% homework (5 times)<br />75% quiz (in midterm period) + final<br /><br />Each homework was given around 2 weeks to solve so there is plenty of time for you to learn and check with your mates to get a good score. The questions in the quiz and final are precisely covered by the material, and almost as the same difficulty as the homework.",
+      "comment_workload": "Little. Total 5 small assignments.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "yUVRwgGHGUgLtw6z0i55YzXsLQuF3xsO",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 540,
+          "name": "ZHU, Yongchang",
+          "rating": 1
+        }
+      ],
+      "author": "agoti",
+      "date": "Jan 22, 2022",
+      "title": "*Introduction to* Abstract Algebra",
+      "comment_content": "See above. <br /><br />Mainly talked about <br />- groups, symmetric groups, group actions, rings, fields,<br />- group/ring homomorphism and isomorphisms<br />- homomorphism theorem (but none of the isomorphism theorems) for groups and rings<br />- some other miscellaneous subjects (not even assessed)<br /><br />Pretty lackluster for a supposedly &quot;Abstract Algebra&quot; course (I learned more about Groups by myself in summer than in this course). This feels more like an introduction, and MATH3131 is probably the real one that you should take if you can.",
+      "comment_teaching": "Don&#039;t know. Skipped all but the first and last lecture, and only some courses via Zoom due to the instructor posting close to no information on quizzes and assignments outside of lecture slides.<br /><br />From the lectures that I did watch, the instructor probably provides some examples (and trivia) for each concepts. Probably. Idk.",
+      "comment_grading": "I&#039;m guessing the curve is squeezed around 80-100 because of how easy most of the course is.<br /><br />Got 100 in Final, but only A due to losing points in 2 places:<br />- Performing relatively(?) bad on the supposedly &quot;weighs very little&quot; quiz (Actual weighting not given, just something like &quot;60% quiz and final&quot;)<br />- Losing like 10 marks in an assignment due to missing out the explanation on an &quot;explain your answers&quot; question (the question itself is phrased very similarly to another non-explain question in the assignment)",
+      "comment_workload": "Very light workload, just be careful with your assignments (see Grading)<br /><br />6? HWs (some canvas MC questions without reattempts, and later some written questions)<br />1 Quiz (that is actually harder than the Final imo, due to the homomorphism theorem question)<br />1 Final (that supposedly has a &quot;very hard question&quot; that separates the A range, but the one this year is actually much easier than last year&#039;s)",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "CwVi48hjhr0Cd9IAxKpjefsZqC7edex6",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 540,
+          "name": "ZHU, Yongchang",
+          "rating": 1
+        }
+      ],
+      "author": "TheodoreYuen",
+      "date": "Jan 28, 2021",
+      "title": "",
+      "comment_content": "Some basic of algebra, went through the definition of set, group, field, ring, etc, as well as some elementary theorem.",
+      "comment_teaching": "Maybe the professor is not familiar with online teaching, things don&#039;t move as smooth and sometime even he himself has no idea how the technical things should work<br /><br />Also, there are some mistakes in notes or even in the exam questions, which cause some confusion occasionally<br /><br />On the other side, he will do a short revision of the previous lecture before the new content was being taught, which I find quite helpful for me to get back to where we were.<br /><br />He will answer questions you may have during lectures<br /><br />He also arranged a special session before midterm and final exam to go through what we should have learnt and let students ask him questions",
+      "comment_grading": "Homework 30%<br />Quiz + Exam 70%<br /><br />no SD was published<br /><br />Midterm (Quiz):<br />Highest:100<br />Mean: 72<br />Lowest: 15<br /><br />Final:<br />Highest: 100<br />Mean: 63.2<br />Lowest: 22<br /><br />Homework: <br />See attachment<br /><br />Since the exam was conducted online, both exams only contain MC, result in plenty of high scorers, which might have made it quite difficult to get an A range. From estimation, you can only get a C+/B- for mean",
+      "comment_workload": "Pretty light, 5 Homeworks in total, with 1 midterm (Quiz) and 1 final exam<br /><br />It only takes a few hours at most for each homework, not too difficult overall<br /><br />Both exams only contain MC",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "O0YTrjC7YVPfJ3X2YniEI6B0KIYfycTC",
+          "name": "MATH3121 Hw score",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "4O90YNObUkvsTyzNCbIXAyBOigXGfiko",
+      "semester": "2017-18 Summer",
+      "instructors": [
+        {
+          "id": 530,
+          "name": "MOY, Allen",
+          "rating": 1
+        }
+      ],
+      "author": ":):):):)",
+      "date": "Jan 23, 2019",
+      "title": "Good course in summer :D",
+      "comment_content": "The summer version is harder than regular semester version. It takes some part of the honour version (MATH3131), while not much and the exam is much much easier than MATH3131. <br /><br />I like the proof of Chinese Remainder Theorem using abstract algebra language :D <br /><br /><br />:D Come and take it, you can appreciate the beauty of math more! (Although Honor version should be better in this purpose...and still taught by Allen MOY in 2019 spring :D )",
+      "comment_teaching": "The teaching speed is quite fast. So be prepare to jot note at a fast speed! Allen Moy is a nice professor and you can ask him questions! He is willing to answer them!<br /><br />Better to attend class and jot notes from the blackboard, since he doesn&#039;t follow his note exactly!!!!!!!",
+      "comment_grading": "As mentioned by another classmate, <br />&quot;the grading is absolute grading. <br />66% from exams&nbsp;&nbsp;&nbsp;=&nbsp;&nbsp;&nbsp;26% Midterm (2 hours)&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;40% Final Exam (3 hours)<br />34% from 2 quizzes and 4 homework papers&quot;<br /><br />About the difficulties, hw is not hard and TA give high score to everyone. For exam, some careless mistakes may made bcs of short period for this course and thus lack of practise (But I guess you won&#039;t spend much time in practise as well in regular semester right?&nbsp;&nbsp;). But you will learn from your mistakes (as in my case, which is quite painful to lose scores...)<br /><br /><br />I get ~92 in total and get A. :D <br /><br />But I dunno how others perform. There are total 15 students. Since my sample size = 1 and basically summer semester students should be better than regular semester students ON AVERAGE... I dunno about the grading is good or not...<br /><br />But...really hard to get A+ (maybe just for me)",
+      "comment_workload": "4 weeks intensive classes. But...I guess most of us are deadline fighter even in regular semester? So finishing the course in short period can maintain our motivation right? SO I love summer semester more than regular semester :D <br /><br />About workload...it depends on how you define &quot;HIGH&quot;. I attended most of the class and jot notes, and spend ~2 days (you dun hv time to do more than that, and personally I dun like to do exercises or past paper...but I guess in regular sem, I would be more deadline fighter since I also hv other courses workload...) for revision for quiz/exam every week. I do the hw every week for about 4 hours. I think I work really hard and spend many time on this course, and I won&#039;t have so much time to do so in regular sem...but still fair workload!!!<br />(HAHA I keep encouraging people take course in summer/winter sem! )<br /><br />But the bad things is...the time crush with other common core is very serious, so you won&#039;t have chance to take other common core/course when you take this course :D (Look at the schedule and you will understand :( )",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "3grhcMaaBLVM8kHuvHiJAhgun3dkHnMk",
+      "semester": "2017-18 Summer",
+      "instructors": [
+        {
+          "id": 530,
+          "name": "MOY, Allen",
+          "rating": 1
+        },
+        {
+          "id": 690,
+          "name": "LI, Xilin",
+          "rating": 1
+        }
+      ],
+      "author": "qwertyyuiop",
+      "date": "Aug 22, 2018",
+      "title": "Come if you are not that good of math and want to avoid fierce competition",
+      "comment_content": "The content is very brief but comprehensive. Here is the schedule for summer:<br /><br />Week one Tu:<br />Basic set theory, mappings, equivalence relations (section 0)<br />Complex numbers and binary operations (sections 1 and 2)<br />Integers mod n<br />Groups and subgroups (section 4) <br /><br />Week one Th/F:<br />Subgroups (section 5)<br />Classification of subgroups of the integers<br />Cyclic groups (sections 6 and 7)<br />Permutations groups, cycles (sections 8 and 9) <br />Week two M/Tu:<br />Cosets, Lagrange&#039;s Theorem and order of elements (section 10)<br />Direct products (section 11)<br />Homomorphisms, kernel, normal subgroup (section 13)<br />Quotient groups (section 14 and section 15) <br /><br />Week two Th/F: Thursday (June 28):<br />Rings, ring homomorphism, kernel, fields (section 18)<br />Quotient rings (section 26)<br />Classification of ideals of the integers<br />Integers mod n as a quotient ring<br />Greatest common divisor of two integers and the Euclidean algorithm <br /><br />Week three Tu:<br />Units in a ring<br />Prime integers and finite fields<br />Euler phi-function <br /><br />Week three Th/F:<br />Fermat and Euler Theorems (section 20)<br />Chinese Remainder Theorem<br />RSA encryption<br />Midterm (Friday July 06 afternoon) <br /><br />Week four M/Tu:<br />1st isomorphism theorems for groups, and rings (section 34)<br />Unique factorization in the integers Z<br />The polynomial ring F[x] (section 22)<br />Ideals in the polynomial ring F[x] <br /><br />Week four Th/F:<br />The analogy of the polynomials F[x] with the integers Z<br />More finite fields<br />Symmetries (section 12) <br /><br />Week five M/Tu:<br />Group actions, orbits, and isotropy/stabilzer subgroup (section 16)<br />Examples<br />Orbit stablizer theorem and Counting (section 17) <br /><br />Week five Th/F:<br />Counting (section 17)<br />Examples<br />Review <br /><br />In fact, since there are some &quot;Advanced&quot; student in this class, profssor taught more content than that, such as Gaussian numbers and Sylow Theorem.",
+      "comment_teaching": "Professor has handwritten notes for us. But in the class, he changed the order and added more example. So it&#039;s better to take the class rather than studying it by yourself.<br /><br />TA is quite good and helpful. He will hand out exercises every tutorial and tries to recap what we have learned. His exercises are extracted from textbook but really can help students get familiar with the course concepts.",
+      "comment_grading": "The grading is absolute grading. <br />66% from exams&nbsp;&nbsp;&nbsp;=&nbsp;&nbsp;&nbsp;26% Midterm (2 hours)&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;40% Final Exam (3 hours)<br />34% from 2 quizzes and 4 homework papers<br /><br />Among 15 students, there seems to be 2 A+ students and 1 A student who got quite high marks in all quizzes and exams.<br /><br />It seems not that difficult to get good grades or even full marks for all homework, quizzes and exams, if you are not that poor in math concepts and proofs. Some of the questions may simply ask for proof in the notes.",
+      "comment_workload": "Since students usually don&#039;t have much things to do, this course is not that time-consuming. Just take all classes, spend 2-3 hours a week for revision, 3-6 hours a week for homework, that seems enough. If you prefer to learn through textbook, that may take more time.<br /><br />If you like to explore more, there are course materials from MATH3131 on the course webpage. You can check that.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "yiYhFq3s7c4kHlEvt2uZRdg1loOpTSX9",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 540,
+          "name": "ZHU, Yongchang",
+          "rating": 1
+        }
+      ],
+      "author": "gossipgirl",
+      "date": "Dec 20, 2017",
+      "title": "",
+      "comment_content": "I personally really liked the content of the course. <br />Mainly decided into 3 parts:<br />1. Basic Math Revision (Sets, Relations, Functions, Binary Operations, Complex Numbers)<br />2. Group Theory (Groups, Subgroups, Cyclic Groups, Permutations, Lagrange Theorem, Homomorphisms, Factor Groups, Group Action)<br />3. Ring Theory (Rings, Fields, Integral Domains, Fermat&#039;s Theorems)",
+      "comment_teaching": "His teaching is pretty boring. There are no slides so you would have to go to class to get his notes. But, his notes are very similar to the book and you can find most of the examples he uses in class there. <br /><br />However, I found it helpful to hear his explanations. Just helps revise concepts and important theorems for the exams.",
+      "comment_grading": "5 Homeworks 25% <br />1 Quiz 10%<br />1 Final 65%<br /><br />As with all math courses, final has a heavy weightage. Each homework is 5%, which is quite a lot since they are usually not too long and mistakes can be costly. <br /><br />HW mean - 22.5/25<br />Quiz Mean - 8.1/10<br />Final Mean - 47/65<br /><br />Overall mean - 77.6/100<br />I think the mean was quite high this semester, so it is standard absolute grading. <br />90+ A range 80+ B range ...",
+      "comment_workload": "Very low workload. <br />Homework usually have 3-4 questions. Only some of the questions are challenging. <br /><br />Final is 50-50 computational and proof questions. If you&#039;ve practiced enough, they shouldn&#039;t be too much of a problem.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "2rMEYzw9DJMKB2etpBBYP7a6FkUvrFes",
+      "semester": "2016-17 Summer",
+      "instructors": [
+        {
+          "id": 530,
+          "name": "MOY, Allen",
+          "rating": 1
+        },
+        {
+          "id": 690,
+          "name": "LI, Xilin",
+          "rating": 1
+        }
+      ],
+      "author": "Eggtart",
+      "date": "Jul 28, 2017",
+      "title": "",
+      "comment_content": "每星期四堂，五個星期就上完。<br />好充實嘅半個暑假，過得太快好似唔知點解就完咗Sem咁；同埋上得太密太多野一齊學好易亂（附上那個summer的timetable），如果呢個course可以攤長D用曬成個summer sem應該會易吸收D<br /><br />Tentative syllabus and schedule<br /><br />Week one M/Tu: Monday (June 19):<br />Basic set theory, mappings, equivalence relations (section 0)<br />Complex numbers and binary operations (sections 1 and 2)<br />Integers mod n<br />Groups and subgroups (section 4) <br /><br />Week one Th/F: Thursday (June 22):<br />Subgroups (section 5)<br />Classification of subgroups of the integers<br />Cyclic groups (sections 6 and 7)<br />Permutations groups, cycles (sections 8 and 9) <br /><br /><br /><br />Week two M/Tu: Monday (June 26):<br />Cosets, Lagrange&#039;s Theorem and order of elements (section 10)<br />Direct products (section 11)<br />Homomorphisms, kernel, normal subgroup (section 13)<br />Quotient groups (section 14 and section 15) <br /><br />Week two Th/F: Thursday (June 29):<br />Rings, ring homomorphism, kernel, fields (section 18)<br />Quotient rings (section 26)<br />Classification of ideals of the integers<br />Integers mod n as a quotient ring<br />Greatest common divisor of two integers and the Euclidean algorithm <br /><br /><br /><br />Week three M/Tu: Monday (July 03):<br />Units in a ring<br />Prime integers and finite fields<br />Euler phi-function<br />Fermat and Euler Theorems (section 20) <br /><br />Week three Th/F: Thursday (July 06):<br />Chinese Remainder Theorem<br />RSA encryption<br />Midterm <br /><br /><br /><br /><br /><br />Week four M/Tu: Monday (July 10):<br />1st isomorphism theorems for groups, and rings (section 34)<br />Unique factorization in the integers Z<br />The polynomial ring F[x] (section 22)<br />Ideals in the polynomial ring F[x] <br /><br />Week four Th/F: Thursday (July 13)<br />The analogy of the polynomials F[x] with the integers Z<br />More finite fields<br />Symmetries (section 12) <br /><br /><br /><br />Week five M/Tu: Monday (July 17):<br />Group actions, orbits, and isotropy/stabilzer subgroup (section 16)<br />Examples<br />Orbit stablizer theorem and Counting (section 17) <br /><br />Week five Th/F: Thursday (June 20):<br />Counting (section 17)<br />Examples<br />Review",
+      "comment_teaching": "Prof.同TA都教得幾好，Maths用白板果然好D :)<br />講RSA encryption嘅時候幾好玩",
+      "comment_grading": "Good grade. 雖然我嗰個一般。",
+      "comment_workload": "Week2-week5每星期一份功課，六至十題到<br />Week2 Quiz1<br />Week3 Midterm<br />Week4 Quiz2<br />Week5之後Final<br />兩次quiz同midterm都偏簡單，每次都有D題目問definition/theorem<br />結果Final變返正常難度(?)比佢嚇親lol",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "WIp2Zg1OhqiJwXUjHruBcfM6R7dEkfH4",
+          "name": "Screenshot_2017-06-03-16-54-18-651_com.android.chrome",
+          "format": "png"
+        }
+      ]
+    },
+    {
+      "hash": "JXnT8NYbW6O93iLl76oaW7YOB5FAUd6h",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 540,
+          "name": "ZHU, Yongchang",
+          "rating": 0
+        }
+      ],
+      "author": "Aye",
+      "date": "Dec 24, 2016",
+      "title": "Abstract algebra",
+      "comment_content": "Please see attached requirements.",
+      "comment_teaching": "The prof does not really care about this course. There are no notes. Only refer to a textbook mentioned in the syllabus. Also, the prof&#039;s spoken English is not good according to me and it&#039;s hard to follow. So later I didn&#039;t go to class and only read the textbook.",
+      "comment_grading": "A range seems to be really narrow. Likely to be absolute grading.<br />Total mark data:<br />Mean: 69.67<br />SD: 17.75<br />Mine: 80.95 B+<br />It seems B range is wide. Objectively speaking, B+ for 80% is somehow good.",
+      "comment_workload": "There are 5 homeworks which are marked. The theorems mentioned in the requirements for quiz and final exam are limited and specific. In my opinion, B range is easy. A range is unstable because final weights 65% and there are some problems which are more difficult.",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 7,
+      "vote_count": 7,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "JY4S6Ivmp6BYJ8jZc08ehMoCSzGcXXXA",
+          "name": "syl",
+          "format": "pdf"
+        },
+        {
+          "key": "LDCFlN0hnBRiHgPSb5CZIips5IsDse02",
+          "name": "quizrev",
+          "format": "pdf"
+        },
+        {
+          "key": "7vJ5Lvrysftz7cfvzpSUnw7bJHLGeakX",
+          "name": "FinalRev",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

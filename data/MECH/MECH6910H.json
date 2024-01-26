@@ -1,0 +1,32 @@
+{
+  "course": {
+    "id": 1826,
+    "subject": "MECH",
+    "code": "6910H",
+    "name": "Modern Topics on Mechanics of Defects in Solids",
+    "description": "Defects widely exist in solid materials and strongly influence the mechanical and physical properties/behavior of solids under thermo- electro- magneto- and mechanical- loadings. This introductive course on some modern topics of mechanics of defects in solids aims at providing a fundamental understanding and modelling tools of many physical and mechanical properties of solids. It also provides powerful quantitative and rigorous approaches to the mechanics of materials. A brief and integrated view on various roles of defects in mechanics and physics of solids is established through selected topics. The basic concepts, equations and methods used in the mechanics analysis of various kinds of defects by continuum mechanics and thermodynamics approaches are introduced. Typical types of defects - cracks, dislocations, inclusions and inhomogeneities, grain boundaries and phase boundaries - are described intensively with illustrative examples provided. The applications of the theory in the mechanics analysis of fracture of engineering materials and solid-solid phase transformation process in smart materials and structures are demonstrated. This course is intended for graduate and senior graduate students who have a reasonable background in solid mechanics (such as theory of elasticity and plasticity, continuum mechanics) and material science. It can be used either as an introductory course for graduate students who study in solid mechanics and material streams in general or as special topics for senior graduate students whose research topics are related to the plasticity, damage, fracture and phase transition process of engineering materials. This course emphasizes basic principles rather than factual information. It will focus on the explanation of the basic physics ideas, hypotheses, assumptions and approaches in this subject. It also serves to help students to obtain clear physical pictures about fracture and phase transformation phenomena in solid materials.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1810,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

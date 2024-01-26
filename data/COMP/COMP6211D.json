@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 2892,
+    "subject": "COMP",
+    "code": "6211D",
+    "name": "Deep Learning",
+    "description": "This course focuses on deep learning and its applications in various areas. The topics include the basis of deep learning and its applications in computer vision, speech processing, optimization, reinforcement learning, and natural language processing. Specifically, various forms of deep neural networks will be introduced, such as convolutional neural networks, context aggregation networks, recurrent neural networks, graph neural networks, and generative adversarial networks. The students have the opportunities to implement deep learning models for some AI tasks such as image understanding, image synthesis, graph analysis, and speech enhancement.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1910,
+      1830
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1240,
+        "name": "CHEN, Qifeng",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "u14ezUQtrqvXVKZy0EyRYVXdUDYIVkEE",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 1240,
+          "name": "CHEN, Qifeng",
+          "rating": 1
+        }
+      ],
+      "author": "ackbar",
+      "date": "Feb 25, 2020",
+      "title": "",
+      "comment_content": "Special topics in deep learning. Provides mostly an overview of different areas of deep learning. <br /><br />1<br /><br />Course introduction<br />Deep learning overview<br />2<br /><br />Deep learning for computer vision<br />Convolutional neural networks<br />3<br /><br />Deep learning for sequential modelling<br />Recurrent neural networks<br />4<br /><br />Deep learning for Generative Models<br />GAN, VAE, GLOW<br />5<br /><br />Deep learning for Graphs<br />Graph convolutional networks<br />6<br /><br />Deep learning for 3D Data<br />PointNet, PointNet++, OctNet<br />7<br /><br />Deep learning for Reinforcement Learning<br />DQN, Policy Gradient<br />8<br /><br />Deep learning for Image Processing and Synthesis<br />Learning to See in the Dark, Cascaded Refinement Networks",
+      "comment_teaching": "To be honest not much material is taught. The professor presents more of an overview of the different topics which is quite useful for post graduate students who may not be very familiar with different areas. If students with to learn in more detail it is up to the student. I think also it is better if you already have some practical experience working with deep learning models since the course assumes you know the basics.",
+      "comment_grading": "Grading is in general quite lenient. <br /><br />Class participation:\t10%<br />In-class presentation:\t15%<br />Homework:\t30%<br />Final project:\t45%<br /><br /><br />Homework projects aren&#039;t very difficult. Mostly just python coding. Professor provides the different topics and students can choose one for presentation or propose their own. <br /><br />Final project is similar to a proper research project and is the main component of the course.",
+      "comment_workload": "Reasonable, although it depends on you to organize your time. The project can be quite time consuming so need to manage your time well.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

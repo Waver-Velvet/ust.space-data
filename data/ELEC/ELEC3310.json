@@ -1,0 +1,234 @@
+{
+  "course": {
+    "id": 3294,
+    "subject": "ELEC",
+    "code": "3310",
+    "name": "Digital Fundamentals and System Design",
+    "description": "Design and synthesis of digital circuits with main emphasis on sequential logic taught through project-based learning approach. Laboratory assignments make extensive use of VHDL and FPGAs and prepare students for an open-ended project undertaken in the remaining part of the course.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2310,
+      2210,
+      2010
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"1100\" href=\"/review/ELEC1100\" target=\"_blank\">ELEC 1100</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2200\" href=\"/review/ELEC2200\" target=\"_blank\">ELEC 2200</a>, <a class=\"course-link\" data-subject=\"ISDN\" data-code=\"4000D\" href=\"/review/ISDN4000D\" target=\"_blank\">ISDN 4000D</a>",
+    "rating_content": 4.8,
+    "rating_teaching": 5,
+    "rating_grading": 4.8,
+    "rating_workload": 4.4,
+    "review_count": 5,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 168,
+        "name": "YOBAS, Levent",
+        "count": 4
+      },
+      {
+        "id": 169,
+        "name": "TANG TANG, Raymundo Saijong",
+        "count": 4
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "wyLabVjPX9RFd1scopO6ZiWGctA7quuW",
+      "semester": "2022-23 Fall",
+      "instructors": [],
+      "author": "Huang",
+      "date": "Jan 30, 2023",
+      "title": "",
+      "comment_content": "The content is adequate and fulfilling. It helps to learn VHDL from scratch",
+      "comment_teaching": "Both the instructor and the tutor are really good at explaining. It is really an easy course if you pay attention to lectures and tutorials.",
+      "comment_grading": "The grading is really good. The professors try to give the best scores they can if you attend most of the classes and work hard.",
+      "comment_workload": "The workload is a bit heavy, but one can handle it fine with enough time invested. I would say around 4 hours per week is good enough for all the labs and homework.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "GkKoACaZCciUaCzbVEuquHBx8aKXvy4d",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 168,
+          "name": "YOBAS, Levent",
+          "rating": 1
+        },
+        {
+          "id": 169,
+          "name": "TANG TANG, Raymundo Saijong",
+          "rating": 1
+        }
+      ],
+      "author": "LeePresident",
+      "date": "Dec 21, 2022",
+      "title": "",
+      "comment_content": "The main topics of this course are combinational logic, sequential logic and the most important one, Finite State Machine (FSM). For combinational logic, it will be pretty easy if you have studied other related courses before. It also requires you to apply the knowledge in this course to implement the VHDL codes into the FPGA board.",
+      "comment_teaching": "Professor Yobas explains everything in detail and sometimes lets us apply the lecture content just taught to answer the questions.<br /><br />TA Tang Tang is good as well. He clearly explains the details in the tutorials, which are the introductions for the following labs. The code examples are given so we have a better image of completing the labs.",
+      "comment_grading": "Midterm 25% (60/100)<br />Final 25% (48/100)<br />7 Labs 25% (521/530)<br />Mini Project 15% (100/100)<br />Participation 10% (Not shown, but maybe 8%-10%)<br />Homework 0% (If your mark is marginal and you have done all 5 pieces of homework, one grade can be up.)<br /><br />Only labs and the project have the requirement of full attendance.<br /><br />Overall 75.3%-77.3%<br />Grade: B-<br />I expect my grade will be C/C+ but because I submitted all the homework on time.",
+      "comment_workload": "Usually one lab every week<br />The skeleton codes are usually given in the lab manuals and it will be easy to fill in the remaining parts if you understand the concepts in the lecture and tutorial notes.<br /><br />Homework consists of 1-3 questions and it will be easy if you understand the concepts in lectures.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "rHlACx2kDMkcges76rGwPgtUZFwCJS6Q",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 168,
+          "name": "YOBAS, Levent",
+          "rating": 1
+        },
+        {
+          "id": 169,
+          "name": "TANG TANG, Raymundo Saijong",
+          "rating": 1
+        }
+      ],
+      "author": "gdhdsv",
+      "date": "Dec 21, 2022",
+      "title": "good course for beginner, good grade for those who learnt digital circuit knowledge before.",
+      "comment_content": "The content is about basic digital circuit.<br /><br />Combinational circuit, sequential circuit, FSM, Flip flops, etc.<br /><br />lab will let you use VHDL to program the FPGA board.<br /><br />I think for the year1/2 who only studied elec1100 and are not very into hardware knowledge, it is not an easy and interesting course. But it is relatively easy comparing to other 3000/4000-level courses I took (elec3100, elec3300, elec3400, elec 4320), even easier than some 2000-level courses like elec 2100.<br /><br />But if you are a beginner who is interested at hardware and the deep working principle of digital hardware like cpu, gpu, various chips, etc., this is a fundamental and good course for you. It can&#039;t give you deeper knowledge, but it is a good start and necessary. <br /><br />I think this course should be an unofficial requirement for elec2350. You should take this course before taking elec2350.<br /><br />If you have already learnt digital circuit and are good at it, this course can help you to revise and give you very good grade.<br /><br />I studied a course from Coursera before taking this course. That course is quite similar to this course. If you passed that course, elec3310 will be easy for you. You can try if you are interested:<br />https://www.coursera.org/learn/digital-systems",
+      "comment_teaching": "Professor Yobas is good, he can explain things clearly.<br />But professor&#039;s research area is not digital circuit. Not many professors in UST mainly studies digital circuit. <br /><br />TA Tang Tang is good too. He teaches well and clearly like other good ELEC TAs who you are familiar with. His tutorial can give you good overview of next lab and some example questions and some sample VHDL.",
+      "comment_grading": "Midterm 25%, I got 91/100.<br />final 25%, I got 83.5/100.<br />lab 25%, 7 labs, I got 700/700.<br />miniproject, 15%, I got 100/100.<br />attendance, 10%, not shown, assume 8%.<br />hw 0%<br /><br />overall, 91.6%<br />final grade: A<br /><br />Just do the hw and the exercise he gave and study the tutorial notes. You should at least have B range. <br />If you are good, A will be easy to get. You need to do some exercises to get familiar with the content.<br /><br />Overall typical good grade elec course.",
+      "comment_workload": "If you are good at digital circuit, it will be very easy, and the workload will be very low.<br /><br />If you are beginners, it will cost you more time, but is not that high comparing to some extreme chur courses like some COMP courses.<br /><br />One lab every week.<br />To finish the lab, you need to study the template in the first and second lab and understand that clearly. Also, you need to understand the related concepts in the lecture notes. <br /><br />HW only has very few questions (1-3) which you must be able to finish if you understand the lecture notes.<br /><br />mini project is just lab8. but instead, they won&#039;t guide you to do. So actually it is super easy.<br /><br />If you are not good you can ask TA or professor, they can answer you clearly.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "1b1C3ZphXvcNfpovX71SUv3wWihXIfE2",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 168,
+          "name": "YOBAS, Levent",
+          "rating": 1
+        },
+        {
+          "id": 169,
+          "name": "TANG TANG, Raymundo Saijong",
+          "rating": 1
+        }
+      ],
+      "author": "Oscartf",
+      "date": "Dec 20, 2022",
+      "title": "Not like a 3000 course",
+      "comment_content": "There are mainly three topics in this course<br /><br />1. Combinational logic(and, or, xor... all the gate)<br />2. Sequential Logic<br />3. FSM(Finite State Machines) and almost half of the course is about this<br /><br />This course is not hard at all if your logical skill is good enough.",
+      "comment_teaching": "Although I mention the course not being hard, professor explain almost every single concept to you in the lecture, which makes the course a little bit boring when you understand how it works.<br /><br />Tutorials are all about labs and the mini project. The labs are about VHDL coding, which is about programming a Basys 3 board. The progress and the result is different compared with software programming like C++ and&nbsp;&nbsp;Python, etc. But the coding part is easy if you already complete COMP2011 or something similar.",
+      "comment_grading": "As you have to finish the lab and project to get pass, you always get full marks on that.<br /><br />Homework does not count in course grade under usual situation, but I still recommend you to finish all if you are not that busy. Because the same question may appears in mid term and final exam (For me, yes).<br /><br />However, getting high marks on mid term and final exam is difficult. As everyone perform pretty well, you have to pay much more attention on how to design the logical circuit and how to make it works. Deep understanding on each components is a must to get A or B+, for example like different kinds of flip-flop(D ,JK, T), Multiplexer, Decoder. Finishing homework can practice your brain on transforming different parts using gates.<br /><br />Finally, there is course participation marks on course grading. According to the professor, the most easier method to get all participation marks is to attend the lecture, answer questions and ask as much as you can. Make the professor remember you.<br /><br />mid: 25%, final: 25%, lab and project: 40%, Hw: 0%(usually), course participation: 10%",
+      "comment_workload": "There are 7 labs and 1 mini project (all in pair of 2) need to do in the whole course. You must finish all to pass the course. But there are skeleton code for you and the remaining part is piece of cake if you attend the tutorial or have knowledge on how to software programming. I think the most difficult part of lab is to installing Vivado (the software to finish the labs), for student this semester. We have to write Email to AMD to get the permission to install.<br /><br />Total 5 homework, but it does not count in the grade if you work fine in this course. Homework will help when you fail on mid term and final exam marks. You will get pass (the course grade) if you are almost fail but with all homework done.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "BznSuBhiwdq0jpaOHuHtt8xpGWs1FszX",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 168,
+          "name": "YOBAS, Levent",
+          "rating": 1
+        },
+        {
+          "id": 169,
+          "name": "TANG TANG, Raymundo Saijong",
+          "rating": 1
+        }
+      ],
+      "author": "Fpn",
+      "date": "Jun 01, 2021",
+      "title": "",
+      "comment_content": "This course is the revamped version of ELEC2200, more improvements with Vivado Design Suite and Basys 3 Artix-7 FPGA Board for the lab.<br /><br />The lectures include:<br />- Introductory concepts<br />digital, analog, binary, Boolean algebra, DeMorgan&#039;s theorem.<br />- Combinational logics<br />decimal, hex, Sum of Products (SOP), Product of Sums (POS), half adder, full adder, multi-bit parallel binary adder, ripple carry and look-ahead carry adder, comparator, 1s and 2s complement, signed, decoder, BCD and gray codes, encoder, MUX and DEMUX, parity check.<br />- Sequential logics<br />latches, flip-flops, level and edge-trigger, synchronous and asynchronous.<br />- Finite State Machine (FSM)<br />Mealy and Moore machines, sequence detector, serial adder, counter, reverse engineer, registers, counters.",
+      "comment_teaching": "Within the small class, Prof interactively explained and went through each slides thoroughly. TA also did great job in reviewing and briefing for the laboratory assignments, particularly in VHDL syntaxes.",
+      "comment_grading": "- Attendance and extra points if active<br />- Short homeworks<br />- Lab assignments (7 labs)<br />- Midterm exam<br />- Final exam<br />- Miniproject",
+      "comment_workload": "Not heavy workload. You can&#039;t skip any lab sessions or you will fail. Skeleton VHDL codes have been provided for the lab. Try to do the labs before, Vivado software takes long time for synthesis, implementation, etc.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 6,
+      "vote_count": 6,
+      "comment_count": 3,
+      "attachments": []
+    }
+  ]
+}

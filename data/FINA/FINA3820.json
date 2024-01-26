@@ -1,0 +1,75 @@
+{
+  "course": {
+    "id": 436,
+    "subject": "FINA",
+    "code": "3820",
+    "name": "Refinitiv Certification Program",
+    "description": "This course will enable students to learn more about market information and the functionality of a Refinitiv data product most commonly used by financial professionals. It begins with the first module of basic overview and is followed by four core modules on data, screen design, graphics, analysis tools of various instruments, which includes one module of data retrieval in Excel. Students will be eligible in attending the Refinitiv Certification Assessment upon completion of the course. Graded P or F.",
+    "categories": [],
+    "website": null,
+    "credits": 0,
+    "semesters": [
+      2330,
+      2210,
+      2110,
+      2010,
+      1930,
+      1530,
+      1510,
+      1430,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"2303\" href=\"/review/FINA2303\" target=\"_blank\">FINA 2303</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": [
+    {
+      "hash": "HoZ7bDvmCUxagpkWKruNv48qPEL3pfC0",
+      "semester": "2015-16 Spring",
+      "instructors": [],
+      "author": "1999",
+      "date": "Apr 28, 2016",
+      "title": "No need to do the revision, just pay attention to the lesson is already Okay",
+      "comment_content": "This course basically teaches you how to use the financial software &quot;Thomson Reuters&quot; to extract common financial information and some knowledge in interpreting the data extracted.",
+      "comment_teaching": "You can choose to listen to what the instructor says or do your own stuff. Sometimes may not be able to catch up his pace. Powerpoint slides of screenshots are provided for reference. You can also go to the official Thomson Reuters page to watch the online training videos.",
+      "comment_grading": "Only pass(P) or fail(F)<br />Required to fulfill either one of the conditions in order to pass:<br />(a.) attend all the lessons during March;<br />(b.) pass the Thomson Reuters certification exam<br /><br />I didn&#039;t listen to the lessons and didn&#039;t revise much.<br />I just attend all the required lessons and fortunately pass this exam(83%).",
+      "comment_workload": "If you listen to the lesson and follow the steps instructor did on the lessons, no need to revise at all.<br /><br />Only 30 online mc quiz for the exam and require you to get at least 80% of correct answers (=24 correct ans) in order to get the certification/pass.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "iZ8jjXuKIzq9U9ELxa24XbEYQC5voWJn",
+          "name": "FINA3820 Thomson Reuters Certification Program Syllabus spring_16",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

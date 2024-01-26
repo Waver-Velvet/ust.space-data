@@ -1,0 +1,40 @@
+{
+  "course": {
+    "id": 122,
+    "subject": "CHEM",
+    "code": "4555",
+    "name": "Advanced Molecular Characterization Laboratory",
+    "description": "This course is designed for chemistry major students who are enrolling in Pure Chemistry option. It provides students hands-on experience in the operation of different instruments including High Performance Liquid Chromatography (HPLC) and Differential Scanning Calorimeter (DSC) for characterization of organic products. For CHEM students under the four-year degree only. Students with minor in CHEM may seek instructor’s approval for enrollment in the course.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2030,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1440
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"3555\" href=\"/review/CHEM3555\" target=\"_blank\">CHEM 3555</a>",
+    "corequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"4550\" href=\"/review/CHEM4550\" target=\"_blank\">CHEM 4550</a>",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

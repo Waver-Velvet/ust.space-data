@@ -1,0 +1,92 @@
+{
+  "course": {
+    "id": 1864,
+    "subject": "SOSC",
+    "code": "6100B",
+    "name": "Independent Study",
+    "description": "Independent study in a designated subject under the supervision of a faculty member; may require readings, tutorial discussions, and submission of research paper(s); may be repeated for credit if different topics are studied. Regular students are required to enroll in 3-credit course. Enrollment in course below 3 credits require the Division's approval.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2310,
+      2230,
+      2210,
+      2130,
+      2110,
+      2040,
+      2030,
+      2010,
+      1940,
+      1930,
+      1910,
+      1840,
+      1830,
+      1810,
+      1740,
+      1730,
+      1710,
+      1640,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 790,
+        "name": "KU, Shuk Mei Agnes",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "NraIqJwe2Mhmy8jk69WBS7LG7U5KC2zc",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 790,
+          "name": "KU, Shuk Mei Agnes",
+          "rating": 1
+        }
+      ],
+      "author": "tantanya",
+      "date": "Jan 25, 2024",
+      "title": "Sosc3130 Hong Kong Culture",
+      "comment_content": "Contents are easy to catch up with if you attend every lesson. There are topics like culture and identity from historical perspective, space, community and cityscape including popular culture, Housing, and Infrastructure how are they related to Hong Kong Culture.",
+      "comment_teaching": "Teaching in Cantonese which is clear to follow and understand. Professor welcome discussion about the topics which we can learn from different perspective.",
+      "comment_grading": "The grading is fair based on your presentation, exam and papers. Short assignment 10%, Seminar Presentation 10%, Seminar Participation 10%, Essay 25%, Final Exam 40%",
+      "comment_workload": "The final workload would be quite heavy when you have to prepare for the exam and write the final paper at the same time.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 3876,
+    "subject": "CHEM",
+    "code": "5130",
+    "name": "Asymmetric Catalysis",
+    "description": "This course teaches the basic concepts and general modes of action of asymmetric catalysis and synthesis. Asymmetric catalysis is an essential tool in organic synthesis, which is used daily in various industries, such as pharmaceutical, chemical, agriculture, materials, etc. The course will provide in-depth explanation of how catalysts work in organic reactions and how asymmetric control is accomplished in different scenarios. Lectures will focus on mechanistic details of chirality control using case studies. Students are expected to be able to use this important tool to solve various synthetic problems.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1393,
+        "name": "HUANG, Yong",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "BUCKUizvkOst8AlR8rlvlnvTWN5jdQv2",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1393,
+          "name": "HUANG, Yong",
+          "rating": 1
+        }
+      ],
+      "author": "stress+tension",
+      "date": "Sep 05, 2023",
+      "title": "Very good!",
+      "comment_content": "Very well rounded choice of topics.<br /><br />1. Lewis acid catalysis<br />2. Transition metal catalysis (mostly Pd and Cu catalysis)<br />3. Intro to organocatalysis<br />4. Amine catalysis (mostly enamine and iminium catalysis)<br />5. H-bond catalysis (Bronsted acids and chiral thioureas)<br />6. Phase transfer catalysis<br />7. Nucleophilic catalysis<br />8. N-heterocyclic carbene (NHC) catalysis<br />9. Heteroatom catalysis (not covered in detail due to time constraints. powerpoints uploaded to canvas for self-study)",
+      "comment_teaching": "Prof. Huang&#039;s teaching is some of the best in the department. He explains all the concepts very clearly and shows us his thinking. Relevant literature examples are presented and explained, and Prof. Huang also gives us his own insight, some of which are not found in the original literature.",
+      "comment_grading": "Very good.",
+      "comment_workload": "Almost no workload.<br />One essay, one presentation. No exams.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

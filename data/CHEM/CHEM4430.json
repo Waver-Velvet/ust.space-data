@@ -1,0 +1,122 @@
+{
+  "course": {
+    "id": 120,
+    "subject": "CHEM",
+    "code": "4430",
+    "name": "Symmetry in Chemistry and Spectroscopy",
+    "description": "Symmetry principle and group theory, molecular spectroscopy, advanced topics in molecular orbital theory and bonding, chemical kinetics.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      1930,
+      1730,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"2110\" href=\"/review/CHEM2110\" target=\"_blank\">CHEM 2110</a> AND <a class=\"course-link\" data-subject=\"CHEM\" data-code=\"2210\" href=\"/review/CHEM2210\" target=\"_blank\">CHEM 2210</a> AND <a class=\"course-link\" data-subject=\"CHEM\" data-code=\"2410\" href=\"/review/CHEM2410\" target=\"_blank\">CHEM 2410</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.5,
+    "rating_teaching": 4.5,
+    "rating_grading": 4,
+    "rating_workload": 4.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 54,
+        "name": "LI, Xiaoyuan",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "oNmcX5NYZ5xa0PTMArihdXgXA4qiBw0F",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 54,
+          "name": "LI, Xiaoyuan",
+          "rating": 1
+        }
+      ],
+      "author": "LukaModric",
+      "date": "Apr 12, 2020",
+      "title": "",
+      "comment_content": "PART – I : Basics of Symmetry Principle and Group Theory. <br />Chapter 1: Introduction - Why Group Theory for Chemistry? <br />Chapter 2: Classification of Symmetry Transformations <br />Chapter 3: Classification of Figures ( i.e., static models of molecular structures ) - Chirality <br />Chapter 4: Point Groups - The Basic Concepts <br />Chapter 5: Point Groups - Group Elements, Class Structure, Figure Recognition, Relationships <br />Chapter 6: Representation of Point Groups - Character Tables<br /><br />PART – II : Applications of Symmetry Principle and Group Theory in Chemical Problems. <br />Chapter 7:&nbsp;&nbsp;Symmetry and Physical(Chemical) Properties <br />Chapter 8:&nbsp;&nbsp;Symmetry Aspect of MO Theory and Bonding <br />Chapter 9:&nbsp;&nbsp;Symmetry Aspect of Molecular Vibrations <br />Chapter 10:&nbsp;&nbsp;Symmetry Aspect of Electronic(&amp; Vibronic) Spectroscopy-I (Non-transition metal compounds) <br />Chapter 11:&nbsp;&nbsp;Symmetry Aspect of Ligand Field Theory and Electronic(&amp; Vibronic) Spectroscopy-II (Transition Metal Compounds) <br />Chapter 12:&nbsp;&nbsp;Symmetry Aspect of Chemical Reactions <br />Chapter 13*:&nbsp;&nbsp;Non-rigid Symmetry and Dynamic Stereochemistry <br />Chapter 14*:&nbsp;&nbsp;Special Topics on Symmetry and Group Theory in Chemistry ( solid state, supramolecular, magnetic… )",
+      "comment_teaching": "",
+      "comment_grading": "Midterm 50%<br />Final 50% (Written Report)<br /><br />Absolute Grading",
+      "comment_workload": "Light.<br />No assignment.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "u6DDcuPFi8LIQ4JNjMKK0VXMeanize8X",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 54,
+          "name": "LI, Xiaoyuan",
+          "rating": 1
+        }
+      ],
+      "author": "R_Liaw",
+      "date": "Dec 29, 2017",
+      "title": "不能錯過",
+      "comment_content": "Ch1: introduction (Symmetry in different fields of chemistry)<br />Ch2,3: Symmetry Operations &amp; Chirality<br />Ch4: Point Groups (definition of groups &amp; subgroups, group properties, isomorphism)<br />Ch5: Point Groups in Chemistry<br />(Group elements, molecular example and graphical representation, subgroup, class structure)<br />Ch6: Character table<br /><br />Mid-term: Ch1 to Ch6 only<br />main focus: Ch4 to Ch6<br /><br />After mid-term:<br />Application in chemistry aspects<br />Ch7: transition chapter<br />Ch8: MO &amp; Bonding<br />Ch9: Molecular Vibrations<br />Ch10: Electronic &amp; Vibronic Spectroscopy<br />Ch12: Pericyclic Reaction<br /><br />Not enough time for <br />Ch11: Ligand Field Theory<br />Ch13: Non-rigid Symmetry, Dynamic Stereochemistry<br />Ch14: Special Topics<br /><br />呢科重點在於展現symmetry &amp; group theory 在各個chemistry 領域的重要性<br />全新角度認識好多Chem aspect, 鍾意chem 的同學不能錯過",
+      "comment_teaching": "充滿激情 慷慨激昂 (個人建議唔好坐第一排, 個排係淋花位)<br />key points &amp; focus 都好清楚<br />美中不足係pdf show 唔到ppt d animation, 要有上堂先會清楚<br />in-class example 好detail, step-by-step, 真係幫到理解<br />exercise suggest answer 有時有bug, 唔好淨背答案, 要自己做&amp;理解<br />Prof 睇落好似好嚴但內心非常nice, 好肯答問題, mid-term check 卷見到有人嗰分唔夠高唔開心仲會安慰佢",
+      "comment_grading": "mid-term 50%:<br />mean: 66, sd: 20, over 70% students got above 70%<br /><br />term paper 50% 無講分&amp;stat<br />做得好真係會救到mid-term<br /><br />To clarify a myth: 此course 有A+<br /><br />有exchange-in嚟hea 讀會拉低mean",
+      "comment_workload": "Only 1 mid-term and a term paper<br />Mid-term covers Ch1-Ch6, requires understanding but not reciting<br /><br />Term paper:<br />purpose: to apply what we&#039;ve learnt in this course to a specific chemical problem/ a journal paper<br />Working topic: bonding or any type of spectroscopy or any chemical reaction or any physical or chemical property of a molecule<br />guideline 係上堂派, 唔好走嗰堂<br />guideline &amp; requirement 都好清晰<br />無word/page limit, 普遍well focused 唔deadline fight 應該manageable<br />11月中俾guideline, deadline 係final exam period 後1日<br />ch8 開始就教application, cover AN chem, org chem, phy chem, inorg, 每個aspect 都有provide recommend journal paper, 都可以自己另外揾journal paper/ reaction 做topic.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "j6E3yO0Pqdo4il1hbyIVpQwNAhn13XFD",
+          "name": "Chem 4430 Course-Description and Requirement",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

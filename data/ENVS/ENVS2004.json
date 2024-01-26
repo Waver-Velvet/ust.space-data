@@ -1,0 +1,232 @@
+{
+  "course": {
+    "id": 1523,
+    "subject": "ENVS",
+    "code": "2004",
+    "name": "Introduction to Ocean Science",
+    "description": "The ocean defines the features of our planet. The ultimate goal of the course is to promote and enhance ocean literacy, which means the awareness and understanding of fundamental concepts of the history, functioning, and utilization of the ocean. By the end of this course students will understand the ocean's influence on individuals and their influence on the ocean. The course will cover a wide range of topics including ocean physics, marine chemistry, marine geology, and biological oceanography.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1910,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"LIFS\" data-code=\"1030\" href=\"/review/LIFS1030\" target=\"_blank\">LIFS 1030</a> OR <a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1003\" href=\"/review/PHYS1003\" target=\"_blank\">PHYS 1003</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.5,
+    "rating_teaching": 3.75,
+    "rating_grading": 3.75,
+    "rating_workload": 4,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 231,
+        "name": "LIU, Hongbin",
+        "count": 4
+      },
+      {
+        "id": 230,
+        "name": "CHAN, Kit Yu Karen",
+        "count": 2
+      },
+      {
+        "id": 1090,
+        "name": "YAU, Sin Ting Cynthia",
+        "count": 1
+      },
+      {
+        "id": 1259,
+        "name": "WANG, Yan",
+        "count": 1
+      },
+      {
+        "id": 1294,
+        "name": "WYATT, Alex",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "dKRZNiC0GK30vpqSXgSatVZNK8v81agr",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 231,
+          "name": "LIU, Hongbin",
+          "rating": 1
+        },
+        {
+          "id": 1259,
+          "name": "WANG, Yan",
+          "rating": 1
+        },
+        {
+          "id": 1294,
+          "name": "WYATT, Alex",
+          "rating": 1
+        }
+      ],
+      "author": "Jiehua",
+      "date": "Jan 21, 2021",
+      "title": "OCES2001 Survey of Ocean Science",
+      "comment_content": "Big picture: ocean as part of the Earth system. 􏰁 Physical oceanography.<br />Chemical oceanography.<br /> Marine Ecology and Environment.<br />It&#039;s not very difficult and introduction level",
+      "comment_teaching": "Prof LIU: Not good accent, perform normal<br />Prof Wang: responsible and kind<br />Alex: speaking too fast and hard to catch his word. On online teaching mode, only student who attend the class can get lecture video. PPTs are messy and full of a lot of content",
+      "comment_grading": "30% assignment (3 hw, each prof gave one)<br />70% final exam (open)<br /><br />I think it&#039;s bad compared with other envs courses",
+      "comment_workload": "Assignments is not difficult. The questions in the final exam gave Alex need a lot of work but others gave by Prof LIU and Prof WANG are moderate.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "kK6oHFaUNOl9cfnBFKhpuScvrYWa4RbZ",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 230,
+          "name": "CHAN, Kit Yu Karen",
+          "rating": 1
+        },
+        {
+          "id": 231,
+          "name": "LIU, Hongbin",
+          "rating": 1
+        }
+      ],
+      "author": "HashireKinoko",
+      "date": "Dec 22, 2018",
+      "title": "Do not ask for too much, it&#039;s what it is",
+      "comment_content": "Interesting, informative but rather general, more tilted towards biological topics<br /><br />Prof. Chan&#039;s part: (September)<br />1. Introducing Ocean Science<br />2. Hydrologic cycle <br />3. Plate tectonics<br />4. Plate tectonics and Ocean basins<br />5. Ocean sediments<br />6. Deep sea biology <br />7. Hydrothermal vents and cold seeps<br /><br />Prof. Liu&#039;s part: (October onwards)<br />8. Air-sea interactions<br />9. Surface circulation<br />10. Physical properties of seawater <br />11. Thermohaline circulation<br />12. Waves<br /><br />-----Midterm exam (1-12)-----<br /><br />13. Tides<br />14. Coastal processes<br />15. Ocean chemistry <br />16. Introduction to phytoplankton <br />17. Phytoplankton and primary production <br />18. Geographical variations on primary production and&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Introduction to zooplankton I<br />19. Introduction to zooplankton II<br />20. Fisheries oceanography<br />21. Introduction to marine bacteria and archaea<br />22. Introduction to marine virus<br />23. Microbial loop<br />24. Marine resources and environmental concerns<br /><br />-----Final exam (13-24)-----<br /><br />No more field trip this semester",
+      "comment_teaching": "Prof.Chan, as usual, teaching and explaining everything very well and fluently. She would show interesting videos about the topics and ask for our questions to address, sad that she is leaving :(<br /><br />Oh for Arh.Liu, he is also quite nice but sometimes he speaks too soft, and would make some catastrophic assumptions that we knew how to interpret his research findings with random graphs and equations come from nowhere. And unfortunately, most of those content don&#039;t even relate to exams nor the course plan.",
+      "comment_grading": "The exam policy is likely to be adjusted<br />50% midterm (MCQ + 4SQ, 1 lecture long)<br />50% final（cheatsheet, all LQ, 3 hours allowed)<br /><br />Exam questions are mostly straight forward, the slides from Prof.Chan (and her tips :) ) and the textbook are enough to handle the midterm, more than sufficient time was allowed. <br /><br />Mean:31, Sd: 6.1, Maximun: 43 (out of 50)<br /><br />For the final exam, the parts related to planktons and microbiology were taught by Prof.Liu, he likes to use his own or others&#039; research as part of the teaching material, yet those are not necessary for the exam, only main concepts/features are important. <br /><br />Got &gt;0.5 sd in mt, &gt;1.5 sd in final , grade A- at the end, so I guess the grading is normal but worth studying hard.",
+      "comment_workload": "Just the cheatsheet, which Arh.liu is not quite happy about<br /><br />That really makes up the workload as most questions do not actually require the cheatsheet to answer (not like those stupid things in PHYS1003) as the topics are very understandable and the exams were not even meant to be tough.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "5eT7qgtgHCYOBbpz23XAKZto8a5JZpyq",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 230,
+          "name": "CHAN, Kit Yu Karen",
+          "rating": 1
+        },
+        {
+          "id": 231,
+          "name": "LIU, Hongbin",
+          "rating": 1
+        }
+      ],
+      "author": "Penguino585",
+      "date": "Sep 06, 2018",
+      "title": "",
+      "comment_content": "The ocean defines the features of our planet. The ultimate goal of the course is to promote and<br />enhance ocean literacy. Ocean literacy refers to the awareness and understanding of fundamental<br />concepts of the history, functioning, and utilization of the ocean. Students should become ocean<br />literate individuals at the end of this class, meaning that you understand the ocean’s influence on you<br />and your influence on the ocean. Ocean science is a highly interdisciplinary subject. We will cover a<br />wide range of topics including ocean physics, marine geology, marine chemistry, and biological<br />oceanography. This course will consist of lectures, inquiry-based activities, and group discussions.",
+      "comment_teaching": "Dr. Chan is very engaging and excited about the topic. However, she only is teaching only a few lectures and Professor. Liu taught the rest.",
+      "comment_grading": "Mid-term exam 40% <br />Final exam 50% <br />In class participation 5% <br />Field trip report 5% <br /><br />Final isn&#039;t cumulative, but what you learn during the first half of the semester is still important",
+      "comment_workload": "There is a textbook and reading that is assigned, but the use of the textbook is not necessary. Overall, besides the paper, there is not too much to do.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "pwk7pEVvQgR5ltaom9QO9pKcTUdVZ6id",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 1090,
+          "name": "YAU, Sin Ting Cynthia",
+          "rating": 1
+        },
+        {
+          "id": 231,
+          "name": "LIU, Hongbin",
+          "rating": 1
+        }
+      ],
+      "author": "2535",
+      "date": "Jan 08, 2018",
+      "title": "ENVS 2004",
+      "comment_content": "The ocean defines the features of our planet. The ultimate goal of the course is to promote and enhance ocean literacy. Ocean literacy refers to the awareness and understanding of fundamental concepts of the history, functioning, and utilization of the ocean. Students should become ocean literate individuals at the end of this class,meaning that you understand the ocean’s influence on you and your influence on the ocean. Ocean science is a highly interdisciplinary subject. We will cover a wide range of topics including ocean physics, marine geology, marine chemistry,and biological oceanography. This course will consist of lectures, inquiry-based activities,and group discussions.",
+      "comment_teaching": "Quite good",
+      "comment_grading": "5% field trip report<br />40% midterm exam<br />55% final exam<br /><br />Only know the score for the midterm exam and the final grade",
+      "comment_workload": "Rather low for the 4 page report and the midterm exam<br />Take some time to revise for the final exam, esp. the part of the plankton",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "tokUNUAYvuDO3nVOd54d56JItUuJANIO",
+          "name": "ENVS2004_tentative syllabus_Fall 2017",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

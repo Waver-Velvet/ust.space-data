@@ -1,0 +1,106 @@
+{
+  "course": {
+    "id": 1142,
+    "subject": "SOSC",
+    "code": "1460",
+    "name": "Japan: Change and Continuity",
+    "description": "This course provides a basic introduction to Japan. It covers all major aspects including geography, history, society, economics, and politics in order to equip students with fundamental knowledge and a framework for thinking about Japan.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.5,
+    "rating_teaching": 3.5,
+    "rating_grading": 3.5,
+    "rating_workload": 4.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 216,
+        "name": "PATCHELL, Gerald Roe",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "WjtbLocxfePyUKItL3RNRTw3gbSKdzWf",
+      "semester": "2013-14 Spring",
+      "instructors": [
+        {
+          "id": 216,
+          "name": "PATCHELL, Gerald Roe",
+          "rating": 1
+        }
+      ],
+      "author": "TSY41",
+      "date": "Oct 11, 2017",
+      "title": "Good professor, disappointing ga=rade",
+      "comment_content": "Very interesting. If you like Japan, you will learn a lot from culture to society. The course is mainly based on Hofstede&#039;s cultural values and by the end of the class, you will master these values. One more thing is about the movies played almost every class. Some of them are amazing but some are pretty hard to describe.",
+      "comment_teaching": "Jerry is a good professor and he was always open to questions and very helpful.",
+      "comment_grading": "The grading is just so tough. I got 1.5 SD above mean for midterm and 1SD above mean for final but only got an A-. Have to say it&#039;s very disappointing.",
+      "comment_workload": "Very light workload.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "kM4h9zF5366RuuhDJqkbxtWlywXoai9I",
+      "semester": "2013-14 Spring",
+      "instructors": [
+        {
+          "id": 216,
+          "name": "PATCHELL, Gerald Roe",
+          "rating": 0
+        }
+      ],
+      "author": "YDH",
+      "date": "Aug 02, 2015",
+      "title": "",
+      "comment_content": "Using Hofstede Cultural Dimension Framework to analyze the political, economic, social, environmental and historical background of Japan. <br />In my view, the framework is not perfect for explaining some events/ development in Japan, and this is quite odd/ difficult for students to understand.",
+      "comment_teaching": "Canadian NERD, voice is fxxking soft and cannot hear very clear.<br />Sometimes he may show movies in lectures, and these are very IMPORTANT for midterms and final!",
+      "comment_grading": "Official Grade Distribution from Syllabus<br />A\t15%<br />B\t40%<br />C\t35-40%<br />D\t5%<br />F\tRemainder<br /><br />BUT!<br />Me midterm final above 1 SD = A",
+      "comment_workload": "PRS Quizzes<br />midterm <br />final<br />Format: MC + SQ<br />Don&#039;t miss any movies in lecture! Really important !",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

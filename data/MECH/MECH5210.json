@@ -1,0 +1,79 @@
+{
+  "course": {
+    "id": 2332,
+    "subject": "MECH",
+    "code": "5210",
+    "name": "Fluid Dynamics",
+    "description": "Tensor notation, derivation of Navier-Stokes equations, vorticity transport, viscous flow, flow separation, boundary layer, flow instability, turbulent boundary layer, stratified flow, rotating flow.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "AESF 5210, MESF 5210",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 567,
+        "name": "LI, Zhigang",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "IE1GZkEDuA7CQqXJuVf7Rch7F4mLu6o4",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 567,
+          "name": "LI, Zhigang",
+          "rating": 1
+        }
+      ],
+      "author": "YLKWOK",
+      "date": "Jan 12, 2021",
+      "title": "",
+      "comment_content": "It is composed of fluid dynamics that was taught in undergraduate period and adding some new concepts of fluid dynamics. So, the content is not difficult and kind of easy if he or she has had pretty good performance in undergraduate learning process.",
+      "comment_teaching": "I love professor&#039;s teaching style. He goes after every details for each topics. Also, the slides are pretty well-developed and the last slide is summary of the topics, very concise.",
+      "comment_grading": "Grading policy is interesting. At first, it consists of assignments, midterm and final. However, due to the inconvenience or something likewise, the grading policy excludes the midterm and therefore there was only a mocking midterm exam. When the course came to an end, the assignment grading is full to everyone enrolled. The grade for me is B plus. I may think it is deestimated.",
+      "comment_workload": "Workload is fair. The assignments are given after class with period of one to two. Besides, each assignment only consists of few pieces of questions, such as four to six. The most satisfactory thing is that the question scheme is similar to final paper. Therefore it is enough to overview the assignments to prepare the final exam well.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

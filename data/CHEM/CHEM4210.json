@@ -1,0 +1,113 @@
+{
+  "course": {
+    "id": 108,
+    "subject": "CHEM",
+    "code": "4210",
+    "name": "Solid State Chemistry",
+    "description": "Structure and bonding in solids; metals, semiconductors and dielectrics; crystal chemistry of ceramics, silicate minerals and zeolites; electrical, optical and magnetic properties of solids; fullerene chemistry; introduction to x-ray diffraction, electron microscopy, etc.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2030,
+      2010,
+      1810,
+      1610,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"3220\" href=\"/review/CHEM3220\" target=\"_blank\">CHEM 3220</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 50,
+        "name": "YAN, He",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "fYwKAJanlqXKs3T5dWILGoNCtj7YM2M1",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 50,
+          "name": "YAN, He",
+          "rating": 1
+        }
+      ],
+      "author": "KS1Day",
+      "date": "Jan 19, 2021",
+      "title": "",
+      "comment_content": "L1- Intro<br />L2- Basics on solid state chemistry<br />, different applications<br />L3- Bonding, structures, properties<br />L4- Semiconductors<br />L5- Crystallography <br />L6- Crystallography (more complicated example)<br />L7- Silicate<br />L8- Theory and Thermodynamics of Solids(Defects &amp; Energetics of solids)<br />L9- Phase Diagrams: Basics<br />L10- Phase Diagrams: Complicated , Synthesis and Characterization of Solids<br />L11- Methods for Structural Analysis",
+      "comment_teaching": "Just like another review, Prof. Yan really emphasize presentation skills, and what he thinks are important(Usually they will be tested)<br /><br />He hates overtime presentation.",
+      "comment_grading": "Presentation: 50%<br />Final: 50%<br /><br />Prof. Yan divided the 50% presentation into 3 presentation<br />1:1min (Free topic) ~8%<br />2:10mins (Assigned topic) ~18%<br />3:10mins (Free topic) ~24%<br /><br />As Prof. Yan didn&#039;t give us how many mark...I can&#039;t really say(Although you can ask, I didn&#039;t...)<br />I think grade is great...As I just prepared eachpresentation for 2 days, and watch 2 months of video in 1 week, and I got A-",
+      "comment_workload": "As mentioned, I just prepared presentation for 2 days each, and watch 2 months of video in 1 week<br /><br />It is because Prof. Yan will emphasize what he wants you to know or what contents he think are important, and they will be tested.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "nO2sbwcEdAxyjbJHmVLl4RCxYKun6KLg",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 50,
+          "name": "YAN, He",
+          "rating": 1
+        }
+      ],
+      "author": "cheeeeeeeeee",
+      "date": "Dec 21, 2018",
+      "title": "",
+      "comment_content": "Some basics on solid state chemistry<br /><br />- Basics on solid state chemistry <br />-Bonding, structures, properties<br />-Different applications <br />-Properties <br />-Organic Solar cells <br />-Semiconductors <br />-Crystallography (in which most of the midterm came from)<br />-Silicate<br />-Defects &amp; Energetics of solids<br />-Phase Diagram (Final is mostly based on this part)<br />-Materials Preparation<br />-Materials Characterization<br /><br />But I felt that the contents were not really in depth, might have been better if we could delve bit further to the topic.",
+      "comment_teaching": "He puts lots of emphasis on presentation skills.<br /><br />But often felt that he often talks about other science/ his own experiences regarding the topic. But I think his explanations with course materials were lucid and clear for me to understand.<br /><br />I think it is important to actually attend the lectures as he points out what he this is very important, and what he will test on your exam.",
+      "comment_grading": "Presentation: 50% <br />Midterm: 25%<br />Final: 25% <br /><br />I thought the overall grading was pretty good.",
+      "comment_workload": "Simple.<br />Not much workload for this course <br />He also cancelled 4 lectures in this semester after long presentation day. (Because he wanted everyone to do their practice presentation + actual presentation on the same day.)",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

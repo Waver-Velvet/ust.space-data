@@ -1,0 +1,144 @@
+{
+  "course": {
+    "id": 3282,
+    "subject": "CIVL",
+    "code": "4100J",
+    "name": "Introduction to Smart City Economics",
+    "description": "This course will cover economic principles and tools for analyzing the emerging challenging problems in the context of Civil Engineering with a focus on smart city development. The course discusses various economic problems arising in modern power and transport systems through the lens of buildings, electric vehicles, renewable energy, mobility-on-demand services, etc. It also touches upon the nexus across distinct smart urban sectors for efficiency-improving system integration. The course will complement the existing course in microeconomics by focusing on engineering applications and offering extensive practical examples within the smart city context. Through lectures, project and reading, students will learn state-of-the-art models and tools to identify, formulate, and address challenging problems in smart city development.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2110,
+      2010
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.67,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1465,
+        "name": "LI, Sen",
+        "count": 3
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "A4Rybc2HTBgZLRnaUJvb9foPUqDVTCwt",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1465,
+          "name": "LI, Sen",
+          "rating": 1
+        }
+      ],
+      "author": "kwCalvin",
+      "date": "Aug 03, 2022",
+      "title": "Very good Prof",
+      "comment_content": "Not that difficult if you have a good math base.",
+      "comment_teaching": "Very detailed explanation. Prof will answer every questions you have. You can find him easily in his office。有attendance分但系好random，見邊堂少人就會take attendance。可以同佢講有特殊原因上唔到堂，就會唔計你Miss attendance.",
+      "comment_grading": "Very nice. About 25% A range. Prof 改卷鬆手，只要concept系正確，基本上一半分已經入手，如果連step都ok就連最後果一半分都拎埋。",
+      "comment_workload": "4hw, final exam",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "zC7l3lHkPsIYFhovUMIkZDAAuevVMUa5",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1465,
+          "name": "LI, Sen",
+          "rating": 1
+        }
+      ],
+      "author": "gibbslau",
+      "date": "Jan 03, 2022",
+      "title": "",
+      "comment_content": "This course is mainly about some economic or business things. Although it seems hard, most of the concepts will not be detailly examined. However, the Lagrangian function is the most important thing that you have to learn from this course as most of the proves, homework and exam requires the Lagrangian function to calculate.",
+      "comment_teaching": "Professor is very nice, he&#039;ll try to make you understand what that topic is about. If you have any questions about the lecture or homework, it is free to find him and he&#039;ll explain it all clearly.",
+      "comment_grading": "4 homework, each count 10% of your grade<br />10% participation marks, can be easily obtained by attending the lecture. The professor may take attendance sometimes, which will count as extra participation marks.<br />There is no midterm, only final, which counts 50%. It is an open book exam.",
+      "comment_workload": "The 4 homework is not hard, you can easily get them correct if you follow the instructions in the lecture notes. <br />3/5 of the exam question is mainly based on the homework. Only 2 of them is harder than the other questions. But if you had studied well, you can easily obtain the answer.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "nidaDOYqKqsmbBlRR79oFakZVzSG6izI",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1465,
+          "name": "LI, Sen",
+          "rating": 1
+        }
+      ],
+      "author": "Alanbbg",
+      "date": "Dec 20, 2020",
+      "title": "",
+      "comment_content": "Lecture 1 introduction<br />Lecture 2 optimization<br />Lecture 3 game theory<br />Lecture 4 markets<br />Lecture 5 equilibrium<br />Lecture 6 firm<br />Lecture 7 monopoly and oligopoly<br />Lecture 8-9 electricity market overview<br />Lecture 10 market participants<br />Lecture 11 producer<br />Lecture 12-14 balancing<br />Lecture 15-17 networks<br />Lecture 18-21 TNC market<br />Lecture 22-23 routing<br />Lecture 24-25 price of anarchy<br /><br />主要用Lagrangian function 計好簡單嘅數同教少少econ concept<br />教嘅嘢唔多唔難, 輕鬆course",
+      "comment_teaching": "英文正常, 講書唔太悶, 幾好人, 好似識廣東話<br />Send email 問功課都好快覆<br />唯一要彈嘅係第一堂叫人開mic自介, 有少少老尷",
+      "comment_grading": "4 Homework problem sets <br />Participation: check-in/sign in every class <br />Grading: homework (40%), participation (10%), final exam (50%)<br /><br />今年得10個人讀, Professor 話最多俾4個A range, 其他人會盡量俾B+<br /><br />Homework:9/10 (mean:7.625)<br />Participation: 全部人都滿分<br />Final: 冇出分<br /><br />Final open book exam, 兩個鐘考6題, 3題跟homework出, 3題考prove<br /><br />3題prove 我都唔太識做, 最後都有A range",
+      "comment_workload": "今年用zoom上堂, 一登入就計attendance, 一星期得兩堂Lecture, total 3個鐘&nbsp;&nbsp;<br /><br />4份homework, 每份4題, 上堂有教大概點做<br /><br />冇mid-term, 得final",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

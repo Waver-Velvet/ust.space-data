@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 2684,
+    "subject": "RMBI",
+    "code": "3000C",
+    "name": "Insurance Perspectives on Catastrophe Risk Management",
+    "description": "Catastrophe risk management (CRM) is studied from non-life insurance and reinsurance perspective. Various forms of reinsurance contracts, portfolio management and solvency regulation will be discussed. The application of catastrophe models and pricing in assessing risk will be examined in details. Weather risk analysis and weather derivative markets will also be covered. Students shall learn how to embed crisis management into business emergency planning.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1810
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1145,
+        "name": "CHEUNG, Kin Wai",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "5d4gzttJgaUH2mFHgqnsI3RoIL4Zxc5R",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 1145,
+          "name": "CHEUNG, Kin Wai",
+          "rating": 1
+        }
+      ],
+      "author": "SomeoneInUST2",
+      "date": "Jan 15, 2019",
+      "title": "",
+      "comment_content": "As name suggested, it talks about Catastrophe Risk Managment practice. <br /><br />Key Content: <br />- Insurance &amp; Reinsurance <br />- CAT Risk analysis<br />- CAT Loss Quantification<br />- CAT Risk Modeling <br />- Typhoon Risk Modeling <br />- Earthquak Risk Modeling<br />- Managing CAT Risk <br />- Insurance Risk Financing <br />- Weather Derivatives <br /><br />It is definitely not a quantitative course, very qualitative ! The only way to get good grade is memorization !! <br /><br />Computer is allowed and a must for this course since we have practicals (some life examples analysis by excel, complete in class or after-class, graded)<br /><br />It is the most easy course to earn 3-credit for RM Option for RMBI student.",
+      "comment_teaching": "He is a professional in the field of CAT risk management. He had both real-work experience &amp; teaching experience. You can know more details referring to his linked-in: <br />https://www.linkedin.com/in/norman-cheung-bbb36216/<br /><br />He tries to explain everything clearly. However, for me, the course talks much about Geography-related knowledge (which is understandable for such a course) that I don&#039;t quite interested in. So sometimes I get bored and lose my concentration. <br /><br />In general, for me, a nice professor but not interesting.",
+      "comment_grading": "I think as long as you completed the practicals on time and pay attention to the key things you have to remember on PPT, you will score good. <br /><br />I get A range : )",
+      "comment_workload": "Nearly no workload at all. <br /><br />Practicals are done together in class with the help of Professor and fellow classmates. Just four small quizzes on class but they are very very easy. Relax, no big deal.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

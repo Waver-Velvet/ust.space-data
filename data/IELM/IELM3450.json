@@ -1,0 +1,76 @@
+{
+  "course": {
+    "id": 650,
+    "subject": "IELM",
+    "code": "3450",
+    "name": "Logistics Planning and Service Management",
+    "description": "Supply management, purchasing, store management, distribution of goods and services, pricing; productivity in services, training and services logistics.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3760\" href=\"/review/ISOM3760\" target=\"_blank\">ISOM 3760</a>",
+    "rating_content": 4,
+    "rating_teaching": 2,
+    "rating_grading": 2,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 353,
+        "name": "CHEN, Ying Ju",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "MhwVUBv0XUE4tO4JiZk3TuwPAU3ZDKXa",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 353,
+          "name": "CHEN, Ying Ju",
+          "rating": 0
+        }
+      ],
+      "author": "legendarychriz",
+      "date": "Dec 27, 2017",
+      "title": "Even if the final exam grade is good, it can&#039;t still save what you fucked up in midterms.",
+      "comment_content": "Teaches about service management and discuss about cases such as optimize the cost and plan for the most suitable location for retail distribution.",
+      "comment_teaching": "Online videos are required, and somehow the questions about quizzes in canvas is unclear. The lecturer only teaches through videos and that&#039;s all.",
+      "comment_grading": "25% for each exam (midterm and final)<br /><br />For a student who is able to achieve higher than mean in other courses (IELM 2510, 3410, 2410 etc), I believe that I should be okay during midterm, but it turns out that I attained below 2sd than the mean of the midterm, which makes me unable to save my grades only if I can get 2sd higher than the mean in finals. The questions in midterm are quite unclear and almost all questions are MCs, and full MC questions in final exam. The questions from the final exam are based on videos about final review, if you didn&#039;t study then you will be in great trouble. <br /><br /><br />Project 25%<br />Participation 5%<br />Online quizzes 5%<br />Class Practice 15%<br /><br />End up getting an C due to unexpectedly low result in midterm, which is the lowest 15%.",
+      "comment_workload": "No workload at all, just finish online quizzes in canvas and it will be fine. <br />2 projects in midterm period and before final exam period, the workload is okay.",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 2,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

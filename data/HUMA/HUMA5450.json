@@ -1,0 +1,105 @@
+{
+  "course": {
+    "id": 1725,
+    "subject": "HUMA",
+    "code": "5450",
+    "name": "Taiwan and Hong Kong Fiction",
+    "description": "A critical study of development, trends, characteristics of narrative literature in Taiwan and Hong Kong from the late 1960 to the present from cultural, historical, and gender perspectives.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2130,
+      1910,
+      1730,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 311,
+        "name": "LIU, Jianmei",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "RLhhIIKAUOnbFWwzZI506o479groiqtA",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 311,
+          "name": "LIU, Jianmei",
+          "rating": 1
+        }
+      ],
+      "author": "YeFan",
+      "date": "Jan 04, 2023",
+      "title": "",
+      "comment_content": "介绍讨论20世纪中期以后，香港、台湾、马华小说。每节课会有一个课题和一些推荐书目。",
+      "comment_teaching": "普通话授课，每节课老师会邀请港台作家来讲座，然后针对不同课题和讲座内容进行讨论。",
+      "comment_grading": "老师会让助教统计出勤，讨论中积极提问的学生也让助教记下来（应该有加分）。<br />给分很好。",
+      "comment_workload": "每个人会要求一次presentation，最后会让交一篇评论文章。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Y6oo5HaHF39hI0RDz5c9AfaZUoPpWTvs",
+      "semester": "2019-20 Fall",
+      "instructors": [],
+      "author": "xdai",
+      "date": "Jan 05, 2020",
+      "title": "",
+      "comment_content": "老师会列很多建议数目，比较多的讨论时间",
+      "comment_teaching": "普通话授课，老师会分享很多个人经历，上课比较鼓励学生讨论<br />中途会请著名作家来给我们上课，我们这学期请的是陈冠中先生，讲得很好",
+      "comment_grading": "给分很好",
+      "comment_workload": "课业压力很轻，一篇final essay，一次presentation，课上讨论阅读的书目",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 4,
+      "vote_count": 5,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

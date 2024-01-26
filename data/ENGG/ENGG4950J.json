@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 1252,
+    "subject": "ENGG",
+    "code": "4950J",
+    "name": "Engineering Special Project: MATE ROV 2015",
+    "description": "A special project supervised by one or a group of faculty members. Normally, a project proposal and a final report are required. May be repeated for credits if the projects have different emphases or cover different topics. Enrollment in the project course may require instructor's approval. May be graded PP.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      1440,
+      1430
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 2,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 190,
+        "name": "WOO, Kam Tim",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "4JNsK8g7JGt9O6WVY9rNZ7PecvMUJ7Eu",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 190,
+          "name": "WOO, Kam Tim",
+          "rating": 1
+        }
+      ],
+      "author": "Albert",
+      "date": "Nov 01, 2015",
+      "title": "MATE Remotely Operated Vehicle (ROV)",
+      "comment_content": "A student-initiated robotics project to develop an underwater robot. The robot built has to simulate industrial underwater tasks such as repairing sub-sea pipelines, and doing scientific exploration.",
+      "comment_teaching": "Mostly self learning and research, advanced training is given, and peer-to-peer learning from experienced members or teaching assistant. Self study based on open-source resources. A lot of opportunities to learn different subjects.",
+      "comment_grading": "Grading system will depend on the quality of work, teamwork and time management. Grade will come from your peers&#039; evaluation, and teaching assistant assessment.",
+      "comment_workload": "Workload is heavy, student may have to spend more than 30 hours a week to develop the robot. Daily deadlines have to be met. A lot of effort has to be put into teamwork. Work requires experimentation and research. Self study is mandatory.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "course": {
+    "id": 181,
+    "subject": "CIVL",
+    "code": "4620",
+    "name": "Transportation System Operations",
+    "description": "Transportation economics, land use and transportation system, queuing theory and traffic flow analysis, intersection control and design, urban transit operations and management.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"3610\" href=\"/review/CIVL3610\" target=\"_blank\">CIVL 3610</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4.6,
+    "rating_grading": 4.8,
+    "rating_workload": 4.8,
+    "review_count": 5,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 88,
+        "name": "YANG, Hai",
+        "count": 5
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "khgDmUJPB9zYATgubGm93JNtgjGBiLxB",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 88,
+          "name": "YANG, Hai",
+          "rating": 1
+        }
+      ],
+      "author": "**unknown**",
+      "date": "Jan 07, 2022",
+      "title": "Interesting transportation topics covered",
+      "comment_content": "This is a CIVL elective in transportation, with an extension of the topics covered in CIVL 3610.<br /><br />Ch.1 Transportation Economics<br />Transportation Demand, Elasticity, Kraft Demand Model, Consumer Surplus, and Marginal Cost Pricing and Subsidy Policies. <br /><br />Ch.2 Land Use &amp; Transportation System<br />Accessibility, Location Theory, Land-Use and Transportation, and Characteristics of Land-Use Forecasting and the Land Use Plan.<br /><br />Ch.3 Queuing Theory and Traffic Flow Analysis<br />Deterministic Approach and Probabilistic Approach for traffic models, Dimensions of Queuing Models, Queuing Regimes including D/D/1, M/D/1 and M/M/1, Traffic Analysis at Highway Bottlenecks.<br /><br />Ch.4 Intersection Control and Design<br />Inter-green Period and Dilemma Zone, Saturation Flow and Lost Time, Approach Capacity and Degree of Saturation, Determination of Lane Groups, Cycle Length and Green Allocation, Signal Coordination and Delay Analysis at Signalized Intersections.<br /><br />Ch.5 Transit Operations and Management<br />Definitions of Quantitative Performance Attributes, Transit Line Capacity, Way Capacity and Station Capacity, Vehicle Control and Operating Safety Regimes, and Transit Station Operations.",
+      "comment_teaching": "Professor Yang explained the concepts clearly with detailed illustrations, although you might find his accent strong in the first few lectures. Perhaps he knew his spoken English was not fluent, so he made some notations during classes and uploaded annotated PPT slides after the end of each chapter, which could be helpful for revision. He always asked if we had any questions after discussing an important concept. The tutorials mainly reviewed the content taught in the previous lecture and did not cover anything new.<br /><br />Both the professor and TAs are helpful and reply to emails quickly after class.",
+      "comment_grading": "Grading Scheme:<br />HW: 10%<br />Tutorial Quiz: 10%<br />Midterm (Ch.1-3): 30% (ONE cheatsheet allowed)<br />Final&nbsp;&nbsp;(Ch.1-5): 50% (TWO cheatsheets allowed)<br /><br />Statistics:<br />Midterm (Mean=83.6, High=97, SD=8)<br />Final (Mean=75.9, High=94, SD=10.4)<br /><br />Personal results:<br />HW+ Quiz: 19.9 out of 20<br />Midterm: 28.5 out of 30 (95/100)<br />Final: 42.5 out of 50 (85/100)<br />Overall: 90.9<br /><br />I ended up with A for this course, which is a fair grading since I didn&#039;t perform quite well in the final exam (that I left one question about bandwidth mostly blank). I think you need to be the top two candidates in this class so as to obtain A+.",
+      "comment_workload": "The workload is acceptable as a CIVL elective. You need to finish five HWs and a few tutorial quizzes in class (while discussions are allowed). The answer to HWs 2-5 can entirely refer to the source, while HW1 is a bit time-consuming since the TA added some problems with increased difficulty. Besides, there are one midterm and final, which are both closed-book with moderate difficulty. As long as you are able to finish the HWs and quizzes on your own, your exam results will be fine.<br /><br />PS, pay attention to the review session held in the last lecture since topics marked with (*) are more likely to appear in the final.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "kLLivaEt23FZFnQlnEZc5qi1jGSvxP42",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 88,
+          "name": "YANG, Hai",
+          "rating": 1
+        }
+      ],
+      "author": "SQ Flyer",
+      "date": "Dec 22, 2021",
+      "title": "Nice CIVL elective with experienced professor",
+      "comment_content": "This is a CIVL elective course generally for final year students. The course covers the essential elements for designing a transportation system from an operational point of view. The course serves as an extension of CIVL 3610 with more emphasis on transport problems that we encounter in everyday life. I recommend students who perform well in CIVL 3610, those who are interested in transportation engineering or those who have a FYP topic on transportation matter to join this course. <br /><br />The chapters covered are as follows:<br />Midterm <br />Ch.1 Transportation Economics <br />Starting from demand &amp; supply, price elasticity, consumer surplus to marginal cost pricing matters. Different transport economics concepts are explained with detailed examples demonstrated for toll charging problems. <br /><br />Ch.2 Land Use &amp; Transportation System<br />Covering accessibility model, location theory and density saturated gradient model for transport planning and land use forecasting problems. <br /><br />Ch.3 Queuing Theory and Traffic Flow Analysis<br />Covering probabilistic approach of traffic flow problems using Poisson distribution and negative exponential distribution. Follow by introducing the three queuing models, D/D/1, M/D/1 and M/M/1 models. Lots of concepts and differentiation/integration techniques needed for calculations and proofs. <br /><br />Final <br />Ch.4 Intersection Control and Design <br />Introduction of intersection signalling terminologies, dilemma zone, approach capacity, degree of saturation, design of signal coordination at intersection, signal control for multiple intersections with focus on design of through bands, delay analysis at signalized intersections. <br /><br />Ch.5 Transit Operations and Management <br />Design of quantitative performance attributes, transit line/station/way capacity, transit vehicle control and operation of transit safety regime, transit station operations like station capacity. Different concepts and examples covered.<br /><br />If you want to know more, try to self-study TPDM issued by TD, much more beneficial.",
+      "comment_teaching": "Prof Ocean is always passionate during lectures, a very experienced teacher in transportation matters. Lecture notes are reused for many semesters but he still provides sufficient explanations and annotations during lectures to explain the concepts and worked examples. He is willing to answer students&#039; questions and at least some interactions are expected. The only thing is he can speak very loud during lectures, still I like attending his class even I skipped some classes and rewatch the lecture videos. <br /><br />The TAs are responsive during tutorials and homework marking, provide lots of tutorial practices for summarizing and consolidating the lecture content.",
+      "comment_grading": "This course only had 30 students this year, I would say the grading should be reasonable if you pay sufficient efforts revising and working on practice problems and preparing a good cheatsheet for exams. <br /><br />Grading Scheme:<br />Assignments for each chapter: 10%<br />Tutorial Quiz * 8: 10%<br />Midterm: 30%<br />Final: 50%<br /><br />Statistics:<br />Midterm (Mean=83.6, Highest=97) (4 LQs)<br />Final (Mean=75.9, Highest=94) (5 LQs, one question from Ch.1)<br /><br />My result:<br />Midterm not doing well (there was a proof question on queuing model and I messed up)<br />Final got the highest score (much easier)<br />Turns out A, I would say the grading is quite reasonable for a small class.",
+      "comment_workload": "Workload should be less demanding compared to other CIVL elective courses (some electives can be difficult). Assignments reused for decades so not a big deal to complete so. Still need to revise to understand all the concepts in great detail in order to catch up with the schedules for the completion of weekly tutorial quizzes. <br /><br />For the exams, prepare the cheatsheet at least weeks beforehand so you won&#039;t get into trouble typing the equations. During revision, focus more on the proofs of equations as they are examined during exams. <br /><br />For more self-practice, check the textbook problems although I don&#039;t think people are likely to practice at home/in the library.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "DMnAhOYT0IFJbuwzNEfSnly3QqfgLGKn",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 88,
+          "name": "YANG, Hai",
+          "rating": 1
+        }
+      ],
+      "author": "cheese",
+      "date": "Feb 26, 2020",
+      "title": "Good Course in Civil Major",
+      "comment_content": "This course basically teaches you the economics of transportation (Demand, supply, consumer surplus, toll...etc.), the attractiveness of a zone, allocation of the population due to transport, traffic signals, queuing theory, and the way/station capacity of train service.<br /><br />Don&#039;t worry. I think they are really simple and easy to understand. There may be a lot of special terms to remember, but each term is explained detailedly with examples for you to follow. You are even allowed to use a cheat sheet in normal circumstances. (For me, the midterm is using cheatsheet while the final is open book online exam due to the COV-19 plague.) The formulas and calculation steps are easily followed and based on common mathematical sense. <br /><br />If you truly love transportation, you really cannot miss out on this opportunity.",
+      "comment_teaching": "The accent of the professor may be a little hard to follow. However, I didn&#039;t attend the class much and there is no attendance taken. So basically I know the tutors better. They also teach well in tutorials.",
+      "comment_grading": "1Midterm and 1Final<br />1paper-2 faces Cheatsheet allowed<br /><br />The final is conducted as an online open-book exam due to the plague.<br /><br />I got 88 in midterm (The mean is so high (~85) and my friend got the highest score 98/100)<br />There are no details for the final exam but it is pretty easy for me, especially when it is an open-book exam. There are 5 big questions in total. Differentiation may be involved to calculate the maximum quantity (Well, if you learned M2/MATH1013, you will know that).<br /><br />Overall, I got A+",
+      "comment_workload": "1 midterm 1final<br />(For me, midterm and final are easy~)<br />5 homework for each chapter <br />(Homework is a bit harder than exams, because you may need to use Excel to plot graph. But generally, you have all the time to finish them)<br />10 tutorials, with the highest 8 scores of the tutorials counted as 10%<br />(So basically you just need to join 8 tutorials. There will be a quiz each time and you can do it with friends. Pretty straight forward.)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "F5FOS7KEeeWY7PGN1KBHApkAR7srQk9W",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 88,
+          "name": "YANG, Hai",
+          "rating": 1
+        }
+      ],
+      "author": "klklkl",
+      "date": "Feb 01, 2018",
+      "title": "",
+      "comment_content": "5 chapters total, no book required, only lecture notes<br /><br />his lecture notes only cover the key points and all of the examination questions only cover the contents of the notes, so don&#039;t worry about the exam.",
+      "comment_teaching": "His teaching is quite good, clear explanation and patient teaching. He will not start discussing the next key point until all of the students understand the current key point.<br />One bad point for him is that his English pronunciation is bad, you might not understand what he says in the first few lessons, but should be familiar afterwards.",
+      "comment_grading": "Yang Hai is a kind professor, the grade should be good if you revise. I got 80% in midterm, just around the mean score. Professor didn&#039;t disclose the score of Final exam but I predicted that my score is also around the mean score. Final grade is B+ which is good enough as I only obtained average score.",
+      "comment_workload": "very low, just one assignment for each chapter",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "TwF8TuN2WDoXBKjUcoFYK3jBZeU1gFkz",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 88,
+          "name": "YANG, Hai",
+          "rating": 1
+        }
+      ],
+      "author": "QWE",
+      "date": "Jan 10, 2018",
+      "title": "Prof人幾好 grade都好似正常",
+      "comment_content": "總共五個chapter<br />Chapter 1: Transportation Economics<br />一開始教簡單demand/supply 有econ底會好容易<br /><br />Chapter 2: Land Use &amp; Transportation System<br />教下vehicle flow, accessibility 等等3610有學過既野<br /><br />Chapter 3: Queuing Theory and Traffic Flow Analysis<br />有不同既queuing model/situation<br /><br />Chapter 4: Intersection Control and Design<br />Chapter 5: Transit Operations and Management<br />最後係紅綠燈既應用同埋一啲既operation/management",
+      "comment_teaching": "Prof既口音比較重 要一段時間先適應到 不過會用好多妓體語言輔助<br />教得唔錯 可能因為啲野都唔係太難",
+      "comment_grading": "Tutorial Quiz = 10% <br />Homework = 10% <br />Midterm examination = 30% <br />Final examination = 50%<br /><br />前兩樣應該都有90%up<br />Mid-term鬼um眼考得極低分 但份卷其實唔難 所以有人滿分<br />mean~75, 自己below ~1.5-2sd<br />final冇出分 <br />最後B<br />所以grading應該唔錯 (掛)",
+      "comment_workload": "每課有一份assignment 以及同3610一樣有tutorial quiz<br />比起其它course算少workload",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

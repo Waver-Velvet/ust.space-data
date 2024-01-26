@@ -1,0 +1,180 @@
+{
+  "course": {
+    "id": 795,
+    "subject": "LIFS",
+    "code": "3070",
+    "name": "Introduction to Biophysical Instrumentation",
+    "description": "The course offers an introduction to principles and applications of a variety of modern biophysical experimental techniques for the structural and functional study of biological systems at the cellular and molecular levels. It is designed for students who seek a basic understanding of modern biophysical experimental methods to meet future challenges in biological science, synthetic biology, biotechnology, bioengineering and molecular medicine.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      1830,
+      1730,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"LIFS\" data-code=\"2040\" href=\"/review/LIFS2040\" target=\"_blank\">LIFS 2040</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 4.67,
+    "rating_workload": 3.33,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 497,
+        "name": "ZHU, Guang",
+        "count": 3
+      },
+      {
+        "id": 495,
+        "name": "HUANG, Pingbo",
+        "count": 1
+      },
+      {
+        "id": 630,
+        "name": "PARK, Hyo Keun",
+        "count": 1
+      },
+      {
+        "id": 1391,
+        "name": "DANG, Shangyu",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "fJk8DOkUfL0a8z20rmjl3FiF7pCagBTy",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 497,
+          "name": "ZHU, Guang",
+          "rating": 1
+        },
+        {
+          "id": 630,
+          "name": "PARK, Hyo Keun",
+          "rating": 1
+        },
+        {
+          "id": 1391,
+          "name": "DANG, Shangyu",
+          "rating": 1
+        },
+        {
+          "id": 495,
+          "name": "HUANG, Pingbo",
+          "rating": 1
+        }
+      ],
+      "author": "Frankie:)",
+      "date": "Jun 07, 2023",
+      "title": "Difficult content but very easy exam with reasonable grading (ChatGPT allowed)",
+      "comment_content": "This course is to provide a general understanding of how biophysical instruments work and their applications<br /><br />Midterm from Professor ZHU Guang:<br />Introduction<br />Radioisotopes and their applications<br />Light absorption, CD and SPR<br />Fluorescence Resonance and energy transfer<br />DSC and ITC<br />Mass Spectrometry and its Applications<br />NMR spectrometry<br /><br />Final from Prof. Park, Dang, Pingbo<br /><br />DNA, RNA and protein (Prof.Dang)<br />X-ray crystallography (Prof.Dang)<br />Cryo-EM (Prof.Dang)<br /><br />Optical Microscopy (Prof. Park)<br />STED, STORM, PLAM, Optical &amp; Magnetic tweezers (Prof. Park)<br />FRET (Prof. Park)<br /><br />Ions channels, same content as in LIFS3040 (Pingbo)<br />Bioelectricity (Pingbo)<br /><br />The content of this course is quite arduous and hard to grasp as an undergraduate student, especially for the content taught after the midterm exam. However, the exam paper of final exam is very easy with the use of ChatGPT allowed, you might consider taking this course if you are really interested in biophysics.<br /><br />The number of students enrolled in this course is quite low. For this year, there were only 21 students taking this course.",
+      "comment_teaching": "Lecture videos of all professors were provided, so you don&#039;t have to attend the lecture in person.<br /><br />In addition, there will be a few lab visit sessions during the lecture time slot. Attendance of those lab visit sessions is not required and will not be counted towards your final grade for this year. So, you can skip those lab visits if you wish to.",
+      "comment_grading": "The grading of this course is quite good despite its challenging content.<br /><br />Grading Rubrics:<br />Midterm from Prof.Guang: 30% (43 MCQs in 80 mins)<br />Final from Prof. Park, Dang, Pingbo: 40% (35 MCQs in 90 mins, Q1-25 Single-answered MCQs &amp; Q26-35 multiple-answered MCQs)<br />Project: 30% ( A 7-9 pages individual report introducing one of the biophysical instruments taught in this course)<br /><br />My scores:<br />Midterm: 36/43 Rank 5th in the class <br />Mean 29/43 Median: 27.5/43 SD: 6.05 Highest: 40/43<br />Final: Not disclosed<br />Project: Not disclosed<br /><br />Letter Grade: A<br /><br />Grading of this course is quite lenient and generous as I still managed to get an A even though I ranked 5th in the midterm among 21-student course. This may be due to the fact that there are some biophysics enthusiasts enrolled in this course making the mean and highest score ultra high. <br /><br />Both Midterm and Final were open-book, electronic copies of the lecture notes were allowed, and the use of ChatGPT and other search engines was also allowed. As for the project of writing a 7-9 pages report, you can also use ChatGPT and directly copy and paste the content from there as the submitted project files will not be run through Turnitin for plagiarism check.<br /><br />As for the difficulty of midterm and final, I personally think that the midterm is more difficult than final in terms of the exam questions. However, in terms of the content of coverage, the final exam content to be revised is way harder than that in midterm. In final exam, many questions were of exact wordings with the lecture ppt, so you don&#039;t have to worry about its challenging content.",
+      "comment_workload": "The workload is a bit high as content after the midterm becomes difficult to comprehend and challenging. But as long as you know where to find answers from lecture ppt during the exam, you would be fine.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "rAjyKg6z87uUMvylB7S3p6zMTgCi3hZ2",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 497,
+          "name": "ZHU, Guang",
+          "rating": 1
+        }
+      ],
+      "author": "C.Y.",
+      "date": "Aug 28, 2017",
+      "title": "LIFS3070",
+      "comment_content": "The content in quite diverse and there are many paragraphs in each set of note. But do not worry about it as prof. ZHU would tell you what to remember before each exam. Therefore, it is very important to go to the review session.",
+      "comment_teaching": "As Prof. ZHU has a lot of knowledge in terms of research and other area too. He would sometimes diverge out to talk about different topics which are not related to the notes at all but most of them would not be examined if he did not mention it in the review session. The professor is super nice, so you could ask loads of questions after class.",
+      "comment_grading": "Grading is quite good as the professor said &#039;He would like to take advantage of small class and gives more A and B range.&#039; Mean is like 72% for two midterms but no mean was shown for final. Matching and short-answer question for first mid-term, occasionally one or two T/ F questions. For second mid-term and exam, there is short-answer question. Remember to go to the review session for papers as suggested by the professor as you could get some marks that sometimes TA would miss one or two points. Remember to go to the lab visit also, it occupies 10% of the course grade if I am correct.<br /><br />The prof claims that he gives out 4-6 A range that there were only 19 students in our class.",
+      "comment_workload": "Although prof. ZHU tells us what to memorise before hand, time is needed for memorise the whole syllabus! The exam is not cumulative, however, he may leave some part from the first two midterms to be tested In the final. But again, he would clearly mention it in the review session in the first two midterms.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "pYpVE3xZwDkCz61ao0mgkbLPZBS7v1bu",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 497,
+          "name": "ZHU, Guang",
+          "rating": 1
+        }
+      ],
+      "author": "奇奮哥",
+      "date": "Jan 09, 2016",
+      "title": "純背零理解既一個course",
+      "comment_content": "成個course 就係不斷咁教有咩techniques / technology 輔助biochemical research<br />要識describe principle , application, 畫圖 (experimental setup)",
+      "comment_teaching": "都比心機教既 非常好人 mid term&nbsp;&nbsp;final記得去check 分 <br />份人好易話圍 一般黎講可加到唔少分",
+      "comment_grading": "20% by mid-term Exam I<br />20% by mid-term Exam II<br />10% Lab visits &amp; participation <br />50% by final exam <br />details please refer to <br />http://life-sci.ust.hk/course_outline/UG-LIFS-2014-15-Spring/LIFS%203070%20course%20outline%20Spring%202015.pdf<br /><br />本身grade A- <br />兩個Mid term高 ~ 0.5 SD<br />Final 高~ 1 SD",
+      "comment_workload": "Final is accumulative<br />no mc (may have matching) 多數係SQ LQ<br />好多時d answer都要求exact wording from notes<br />考試完全照直問 唔使點用腦 不停自己默書已可應付<br /><br />雖然係咁<br />但到你讀就會知真係多嘢背得好誇張 <br />好多slide都係paragraph length<br />講緊你可能要補百幾段paragraph既嘢<br /><br />所以唔介意背d自己完全唔明既嘢既話grading其實唔錯<br />為學嘢既呢個course就真係唔好take",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

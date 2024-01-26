@@ -1,0 +1,1389 @@
+{
+  "course": {
+    "id": 771,
+    "subject": "LIFS",
+    "code": "1020",
+    "name": "Biology of Human Health",
+    "description": "This course introduces the basic biological principles of human health and diseases with an emphasis on the contemporary leading causes of death in Hong Kong and in the world. Topics mainly focus on common and emergent diseases, aging, and the influence of biotechnology, environment and culture on human health.",
+    "categories": [
+      "Common Core (S&T)"
+    ],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2040,
+      2030,
+      1940,
+      1930,
+      1840,
+      1830,
+      1740,
+      1730,
+      1640,
+      1630,
+      1540,
+      1530,
+      1440,
+      1430
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "Level 3 or above in HKDSE 1/2x Biology or in HKDSE 1x Biology, a passing grade in HKAL Biology, <a class=\"course-link\" data-subject=\"LIFS\" data-code=\"1901\" href=\"/review/LIFS1901\" target=\"_blank\">LIFS 1901</a>, <a class=\"course-link\" data-subject=\"LIFS\" data-code=\"1902\" href=\"/review/LIFS1902\" target=\"_blank\">LIFS 1902</a>, <a class=\"course-link\" data-subject=\"LIFS\" data-code=\"4760\" href=\"/review/LIFS4760\" target=\"_blank\">LIFS 4760</a>",
+    "rating_content": 3.91,
+    "rating_teaching": 3.75,
+    "rating_grading": 3.75,
+    "rating_workload": 4.13,
+    "review_count": 32,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 481,
+        "name": "LAM, Yeung",
+        "count": 19
+      },
+      {
+        "id": 490,
+        "name": "KO, Robert Kam Ming",
+        "count": 13
+      },
+      {
+        "id": 493,
+        "name": "CHUNG, Kenny K",
+        "count": 12
+      },
+      {
+        "id": 477,
+        "name": "TANG, Jessica Ce Mun",
+        "count": 10
+      },
+      {
+        "id": 479,
+        "name": "CHEUNG, Helen",
+        "count": 10
+      },
+      {
+        "id": 471,
+        "name": "MILLER, Andrew Leitch",
+        "count": 1
+      },
+      {
+        "id": 483,
+        "name": "LIANG, Chun",
+        "count": 1
+      },
+      {
+        "id": 1419,
+        "name": "LI, Laam",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "KoVtDUKGyPChtSWl3lRpztcFxbGK0hoY",
+      "semester": "2022-23 Summer",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "jesuisfatiguée",
+      "date": "Jul 27, 2023",
+      "title": "to take or not to take, this is the question",
+      "comment_content": "Content of the course can be found in the other comments.<br />As a student who never studied any biology stuff since Form 3, I find this course a little bit challenging. Not that the contents are hard to understand, but there are just too many new biology terms that I have to recite.",
+      "comment_teaching": "Both instructors are knowledgeable and they teach the lesson well. Just that Dr Lam&#039;s voice is a bit low and I always fell asleep because of this (the lesson is after lunch lol)",
+      "comment_grading": "As mentioned in the other comments, the grading scheme has changed. I personally don&#039;t think that making the group score % higher than the final exam % is a good idea, because you never know who your group mates are. Another illogical thing about this is the presentation and the script is basically the same thing. Is it really a good thing that 1 single group project accounts for 45% of your grade? It&#039;s a question worth considering. Also, the grading is not transparent as you only get to know the score of the quizzes. <br /><br />For your additional reference, I predicted myself getting B+ to A- judging from my exam and presentation performance, and I ended up getting an A-. I would say it&#039;s fair, but I&#039;d definitely prefer a course with higher % for personal work.",
+      "comment_workload": "On a scale of 10, I&#039;d say the workload is 7.5. Lesson attendance is required (you need to do the iPRS). You definitely have to put in some effort in reciting the bio terms and mechanisms before the exam and quizzes. Other than that, if your team mates are :))), then you may have to spent extra time on the project to make sure the quality is ok.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "NE90waK09wLGiAuH9k3RfPpJmD5PDsl9",
+      "semester": "2022-23 Summer",
+      "instructors": [
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        }
+      ],
+      "author": "IDIOTHAHAHA",
+      "date": "Jul 26, 2023",
+      "title": "Grading scheme is changed a lot",
+      "comment_content": "There are a lot of contents about human health biology. In total there are 9 lectures which lecturers would teach you things. Philip Lam will teach first 5 lectures while Jessica Tang will teach the remaining 4.<br /><br />Philip Lam&#039;s lectuer ppts have averagely 60 slides while Jessica Tang&#039;s have averagely 85 slides. <br /><br />The first 4 topics are related to secondary 3 biology but more advanced. The topic environmental health is related to the topic climate change in secondary 3 geography. <br /><br />Since I have only little biology background, I needed to spend so much time searching the Internet and watching teaching videos about the concepts, especially starting from lecture 6. I find the topic pathogen hard to learn because it require so much understanding besides memorization.<br /><br />The contents are useful and you would know a lot about the cause of diseases.",
+      "comment_teaching": "Philip Lam speaks English fluently, clearly, and accurately so you can understand nearly every single word in his lecture. He can explain the concepts well too. You would find him a little bit humorous when teaching.<br /><br />Jessica Tang also teaches well but her speaking isn&#039;t that fluent so sometimes you may find it hard to understand the meaning of whole sentence. However, she can speak clearly. <br /><br />Another thing about Jessica Tang is that she replies email very quickly. Last time I ask her a question through email and she replied and answer my question sufficiently within 15 minutes. So I recommend you email her if you have question especially the day before final exam.",
+      "comment_grading": "35% by Closed-book Final Exam<br />10% by 4 Quizzes<br />10% by Participation<br />30% by Group Presentation<br />15% by Group Presentation Script<br /><br />participation means participate in iprs question<br />group presentation include 5% of peer evaluation<br /><br />Only the individual score of 4 quizzes are released, but no paper, mean, median, sd, etc. Hence, it is hard to improve yourself. Although grading lacks transparency, I still give A for grading because I got decent grade. And I think it is not easy to drop into C range because I feel that the instructors are tolerant on presentation and grading.<br /><br />The final exam is more difficult than all 4 quizzes and there are a lot of difficult English words, which may not exist in lecture slides, in the questions. So, native English speakers may be benefited from it.<br /><br />This grading system is very different from the past because the 45% of total score is contributed by presentation which means final exam contribute less. The lecturers don&#039;t demand very deep or difficult content in the presentation and hence it is totally managable. The major changes to the grading scheme of this course is that essay is changed into presentation.<br /><br />Reasons why you should consider taking this course:<br />1. It is a common core course<br />2. Instructors in this sem are good<br />3. Grading scheme has been changed(improved)<br />4. If you have nothing to do in summer period so you can concentrate efforts in one course<br /><br />If the instructors of this course in the future semester will not be Philip Lam and Jessica Tang, then the teaching and grading quality might be changed drastically.",
+      "comment_workload": "One of the workload is preparing for quizzes and final exam. I had to preview the lecture ppt and write a few pages of notes before every lecture because there are too many points that we need to memorize or understand. Viewing 2-4 pages of A4 paper is easier than viewing 70 ppt slides, right?<br /><br />Another worldload is making powerpoint slides and presentation scripts. To be honest, they aren&#039;t hard to be done.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "yuf4eamhEg6s23ZcDSd9gIG8ktTULJmA",
+      "semester": "2021-22 Summer",
+      "instructors": [
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        }
+      ],
+      "author": "KaruizawaKei",
+      "date": "Jul 21, 2022",
+      "title": "",
+      "comment_content": "only 10 lectures this sem, copying the syllabus from others<br /><br />1.Biological Organization of the Human Body System – From Cells to Organisms<br />2.The Maintenance of Life I&nbsp;&nbsp;- Needed or Unneeded<br />(e.g. Characteristics of life)<br />3.The Maintenance of Life II - Needed or Unneeded<br />(e.g. Carbohydrates &amp; Lipids)<br />4.The Maintenance of Life III - Needed or Unneeded<br />(e.g. Proteins)<br />5.Environmental Health I -&nbsp;&nbsp;Toxic versus non-toxic<br />(e.g. Air/Land/Water Pollution)<br />6.The Foreigners&nbsp;&nbsp;- To Live or to Die<br />(e.g. Bacterial Infections or&nbsp;&nbsp;AIDS)<br />7.The Pumping Heart&nbsp;&nbsp;-&nbsp;&nbsp;Supply versus Demand<br />(e.g. Hypertension)<br />8.The Busy Brain -&nbsp;&nbsp;To Think and to Sense<br />(e.g. stress, depression; Alzheimer’s diseases, etc.)<br />9.The Crazy Cell&nbsp;&nbsp;-&nbsp;&nbsp;To Divide or to Stop<br />(e.g. Cancers)<br />10.Societal Health&nbsp;&nbsp;– Aged versus Young",
+      "comment_teaching": "Both Dr. LAM and Dr. TANG are good at teaching, but I prefer the way of Dr. LAM&#039;s teaching. He is a humorous and patient guy who is willing to answer questions. <br /><br />Dr. TANG is also a good lecturer. She knows a lot and replies to my emails very promptly, but she sometimes will forget we do not have much biological knowledge before. Therefore, it would be a bit difficult to follow her during the lectures.",
+      "comment_grading": "Final Exam: All MC questions 50%<br />80MCs in 70mins. Require good time management<br /><br />Written assignment: Short essay 25%<br />10 topics are available. Choose 1 to write a 400-word essay.<br /><br />In-class quizzes: All MC questions 15%<br />pop quizzes. 3 quizzes in total this sem.<br /><br />In-class participation 10%<br />Turn on camera, miss no more than 2 lectures<br /><br />Very good grading.",
+      "comment_workload": "Every lecture lasts for 3hrs which is too long.<br />Luckily, both Philip and Jessica will let us go earlier.<br /><br />Only a 400-word essay, no more assignments",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "vIpSsTJlSE0xVQgIbakUMO0LpY7TTrX5",
+      "semester": "2020-21 Summer",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "marcuschoii",
+      "date": "Nov 25, 2021",
+      "title": "",
+      "comment_content": "1.Interdisciplinary Overview of Biology, Environment, and Society on Human Health<br />2.Biological Organization of the Human Body System – From Cells to Organisms<br />3.The Maintenance of Life I&nbsp;&nbsp;- Needed or Unneeded<br />(e.g. Characteristics of life)<br />4.The Maintenance of Life II - Needed or Unneeded<br />(e.g. Carbohydrates &amp; Lipids)<br />5.The Maintenance of Life III - Needed or Unneeded<br />(e.g. Proteins)<br />6.Environmental Health I -&nbsp;&nbsp;Toxic versus non-toxic<br />(e.g. Air/Land/Water Pollution)<br />7.Environmental Health II -&nbsp;&nbsp;Hot versus Cold<br />(e.g. Global Warming)<br />8.The Foreigners&nbsp;&nbsp;- To Live or to Die<br />(e.g. Bacterial Infections or&nbsp;&nbsp;AIDS)<br />9.The Pumping Heart&nbsp;&nbsp;-&nbsp;&nbsp;Supply versus Demand<br />(e.g. Hypertension)<br />10.The Busy Brain -&nbsp;&nbsp;To Think and to Sense<br />(e.g. stress, depression; Alzheimer’s diseases, etc.)<br />11.The Crazy Cell&nbsp;&nbsp;-&nbsp;&nbsp;To Divide or to Stop<br />(e.g. Cancers)<br />12.Societal Health&nbsp;&nbsp;– Aged versus Young<br />(e.g. Family Stress, Financial Burden and Medical Management)<br />13.Healthy Lifestyles – Fit versus Unfit<br />(e.g. Exercise and Training)",
+      "comment_teaching": "For lam yeung,<br /><br />he explains clearly about the lectures .<br /><br />Jessica,<br /><br />Very nice and she REPLIES EVERY SINGLE EMAIL for you IN A SHORT PERIOD OF TIME. It is the best things i have ever seen in UST, even i want to solve some questions she explains very clearly and give some additional information about it<br /><br />both good",
+      "comment_grading": "Final Exam: All MC questions 50%<br />Written assignment: Short essay 25%<br />4 In-class quizzes: All MC questions 15%<br />In-class participation 10%<br /><br />Final: it dosent release my grades but i think more than 90%<br /><br />Written assignment: not disclosed but i think i got almost full since i submit to professor for requesting for a brief look and some comments about it and i modify it<br /><br />4-class exercise : the first two i got 6/10 8/10 <br />the other two 10/10 10/10 <br />the first two i think i below mean because i am lazy, the quiz distributed randomly in class <br /><br />participation: i attend every lessons lol<br /><br />in general, i think its not high but i pull myself very hard one week before the exam about studying everyday <br />and the concepts can be solved if you pay effort on it",
+      "comment_workload": "the content before jessica is easy but the questions are difficult<br /><br />for jessica, the concepts are hard and need to remember many details. but the questions in final is easy lol",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "j3tal8d16sBUKWAwMszpaMdlWjouwHOS",
+      "semester": "2020-21 Summer",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "selene",
+      "date": "Aug 24, 2021",
+      "title": "",
+      "comment_content": "1.Interdisciplinary Overview of Biology, Environment, and Society on Human Health<br />2.Biological Organization of the Human Body System – From Cells to Organisms<br />3.The Maintenance of Life I&nbsp;&nbsp;- Needed or Unneeded <br />(e.g. Characteristics of life)<br />4.The Maintenance of Life II - Needed or Unneeded <br />(e.g. Carbohydrates &amp; Lipids)<br />5.The Maintenance of Life III - Needed or Unneeded <br />(e.g. Proteins)<br />6.Environmental Health I -&nbsp;&nbsp;Toxic versus non-toxic <br />(e.g. Air/Land/Water Pollution)<br />7.Environmental Health II -&nbsp;&nbsp;Hot versus Cold <br />(e.g. Global Warming)<br />8.The Foreigners&nbsp;&nbsp;- To Live or to Die<br />(e.g. Bacterial Infections or&nbsp;&nbsp;AIDS)<br />9.The Pumping Heart&nbsp;&nbsp;-&nbsp;&nbsp;Supply versus Demand<br />(e.g. Hypertension)<br />10.The Busy Brain -&nbsp;&nbsp;To Think and to Sense <br />(e.g. stress, depression; Alzheimer’s diseases, etc.)<br />11.The Crazy Cell&nbsp;&nbsp;-&nbsp;&nbsp;To Divide or to Stop<br />(e.g. Cancers)<br />12.Societal Health&nbsp;&nbsp;– Aged versus Young<br />(e.g. Family Stress, Financial Burden and Medical Management)<br />13.Healthy Lifestyles – Fit versus Unfit<br />(e.g. Exercise and Training)",
+      "comment_teaching": "I think the teaching is fine. especially the professor LAM, he would share some relevant interesting stories and knowledge in the class.",
+      "comment_grading": "Because we didn&#039;t show the final exam and essay grade, so I can not detect the situation of grading.<br />Final Exam: All MC questions 50%<br />Written assignment: Short essay 25%<br />4 In-class quizzes: All MC questions 15%<br />In-class participation 10%",
+      "comment_workload": "The workload is small. you just need to come to have a class to make sure you attend. And after class, just need to write a 400 characters essay.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "hRdDU5d8CmWPpz1AyygQIbyZqRGIupSv",
+      "semester": "2020-21 Summer",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "yu006493",
+      "date": "Aug 23, 2021",
+      "title": "",
+      "comment_content": "70% fun and interesting content, 30% boring common sense content. I have learned a lot more about human biology after this course (no biology background before).<br /><br />The fun part: Cellular respiration, protein, lipid, carbohydrates, Nervous system, immune system, cancer, <br /><br />The boring part: environmental protection, global warming, contagious disease, exercise, stress etc.",
+      "comment_teaching": "Both instructors are great and they are willing to answer student&#039;s questions.",
+      "comment_grading": "Quiz: full<br />Attendance: full<br />Final: ???<br />Essay: ???<br />Grade: B+<br /><br />Lack of transparency, the instructors didn&#039;t release essay and final exam scores. I don&#039;t understand why.",
+      "comment_workload": "Need to review lecture content for every 2 lectures to prepare for quizzes. 1 short essay which can be finished in one or two days. The quizzes are not hard if you have reviewed the lecture notes. Need to review all lectures notes before the exam.<br /><br />Not too high workload overall.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "NOgblGycIpxVpuyqRMQrIKajSf8OP9tv",
+      "semester": "2019-20 Summer",
+      "instructors": [
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "Manman",
+      "date": "Jan 21, 2021",
+      "title": "",
+      "comment_content": "Lam<br />1. Interdisciplinary Overview of Biology, Environment, and Society on Human Health<br />2. Biological Organization of the Human Body System – From Cells to Organisms<br />3. The Maintenance of Life I - Needed or Unneeded (e.g. Characteristics of life)<br />4. The Maintenance of Life II - Needed or Unneeded (e.g. Carbohydrates &amp; Lipids)<br />5. The Maintenance of Life III - Needed or Unneeded (e.g. Proteins)<br />6. Environmental Health I - Toxic versus non-toxic (e.g. Air/Land/Water Pollution)<br />7. Environmental Health II - Hot versus Cold (e.g. Global Warming)<br />Tang<br />8. The Foreigners - To Live or to Die (e.g. Bacterial Infections or AIDS)<br />9. The Pumping Heart - Supply versus Demand (e.g. Hypertensio<br />n)<br />10. The Busy Brain - To Think and to Sense (e.g. stress, depression; Alzheimer’s diseases, etc.)<br />11. The Crazy Cell - To Divide or to Stop (e.g. Cancers)<br />12. Societal Health – Aged versus Young (e.g. Family Stress, Financial Burden and Medical Management)<br />13. Healthy Lifestyles – Fit versus Unfit (e.g. Exercise and Training)",
+      "comment_teaching": "Teaching by 2 tutors, Dr. Philip Lam is better.",
+      "comment_grading": "Difficult having a good grade",
+      "comment_workload": "50% Final Exam: All MC questions<br />25%&nbsp;&nbsp;Written assignment: Short essay 400 words<br />15% 3*In-class quizzes: All MC questions<br />10% In-class participation",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 2,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "OUEhqwAFr2coQlh9hXSe5CxOXx5RBIVY",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 471,
+          "name": "MILLER, Andrew Leitch",
+          "rating": 1
+        },
+        {
+          "id": 1419,
+          "name": "LI, Laam",
+          "rating": 1
+        },
+        {
+          "id": 483,
+          "name": "LIANG, Chun",
+          "rating": 1
+        }
+      ],
+      "author": "randomhuman",
+      "date": "Jan 19, 2021",
+      "title": "Pure test of memorisation",
+      "comment_content": "Mid Term:<br />Nervous System<br />Musculoskeletal System<br />Cardiovascular System <br />(Respiratory System and Osmoregulation and Excretion skipped)<br />Digestive System and Nutrition<br />Endocrine System<br /><br />Final: <br />Development and Ageing<br />Lymphatic and Immune Systems<br />DNA Structure and Gene Expression<br />Patterns of Gene Inheritance<br />Chromosomal Basis for Inheritance<br />Biotechnology",
+      "comment_teaching": "Miller is funny. He is like a nice grandpa and you can always ask him questions, preferably not through zoom chat room because he never checks it. His questions are tricky. But he explains everything very clearly in class. He will mention what will be tested during mid term in class (and he deliberately doesn&#039;t include that in his powerpoints) so it won&#039;t hurt to attend all his lectures. <br /><br />Li is not bad. She is very attentive and her powerpoints mostly consist of simple infographics and point forms. Her lectures are relatively more boring though. <br /><br />Liang is actually kinda funny. Attending his lectures is like listening to an uncle telling stories. If you are exam-oriented, you may find reading his powerpoints a better time investment. If not, you&#039;ll find joy in his lectures.",
+      "comment_grading": "50% mid term<br />50 % final<br /><br />Both mid term and final are closed book exams. I think scoring around 70% will get you a B+.",
+      "comment_workload": "There is no assignment in this course. Both the mid term and final are just plain memorisation of literally everything, including examples mentioned in class which might sound irrelevant. So prepare yourselves for that.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "VI3XdnvQhuLfATW4VM6heoAXJkXiHCkx",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 490,
+          "name": "KO, Robert Kam Ming",
+          "rating": 1
+        },
+        {
+          "id": 493,
+          "name": "CHUNG, Kenny K",
+          "rating": 1
+        }
+      ],
+      "author": "Boris Lo",
+      "date": "Nov 07, 2020",
+      "title": "Controversial course",
+      "comment_content": "he course coordinator claimed that it teaches basic biology knowledge. However, 80% of the content is not included in DSE Biology syllabus. Therefore, think twice before taking this course.<br />&nbsp;&nbsp;<br />Feb 19 &amp; 21 (Prof Ko)<br />Biological Organization of the Human Body System – From Cells to Organisms<br /><br />Feb 26-Mar 27 (Prof Chung)<br />The Maintenance of Life I&nbsp;&nbsp;- Needed or Unneeded&nbsp;&nbsp;(e.g. Carbohydrates)<br />The Maintenance of Life II - Needed or Unneeded&nbsp;&nbsp;(e.g. Proteins)<br />The Maintenance of Life III - Needed or Unneeded&nbsp;&nbsp;(e.g. Lipids &amp; Essential Minerals)<br />Environmental Health I -&nbsp;&nbsp;Toxic versus non-toxic&nbsp;&nbsp;(e.g. Air/Land/Water Pollution)<br />Environmental Health II -&nbsp;&nbsp;Hot versus Cold&nbsp;&nbsp;(e.g. Global Warming)<br /><br />Apr 1-May 15 (Prof Ko)<br />The History of Human Health (how diseases shaped our society)<br />The Foreigners&nbsp;&nbsp;- To Live or to Die (e.g. infectious diseases and our responses)<br />The Busy Brain -&nbsp;&nbsp;To Think and to Sense&nbsp;&nbsp;(e.g. stress, depression etc)<br />The Crazy Cell&nbsp;&nbsp;-&nbsp;&nbsp;To Divide or to Stop (e.g. Cancers)<br />Societal Heath I – Aged versus Young (e.g. Family Stress and Financial Burden)<br />Societal Heath II – Aged versus Young (e.g. Medical Management)<br />Healthy Lifestyles – Fit versus Unfit (e.g. Exercise and Training)",
+      "comment_teaching": "Very hard to comment, I do not think the teaching is useful at all. I just study everything myself and google if I encounter something I do not know.",
+      "comment_grading": "For me, the grading is very good. 20% for essay and 80% for the final exam. I got an A with 17/20 essay and 89/100 exam.<br />But the comment right here really shocked the shxt out of here. Maybe I am just being lucky, but seemingly 1 mc question could already affect a sub-grade.",
+      "comment_workload": "Very light. An essay is only about 300-400 words and you can google while final examinations. No attendance is required.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "iYX7Idzwv8gbnY8q1FpuXWGRUKdNfzrI",
+      "semester": "2019-20 Summer",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "lsj",
+      "date": "Sep 07, 2020",
+      "title": "",
+      "comment_content": "This course aims to provide students with contemporary knowledge of biological, environmental, and societal factors that are related to the health and well-being of human individuals. The health of humans, the environment, as well as the society, are interrelated. By corollary, it is essential to fully understand human health and diseases in terms of biological disparities. In the past few years, there has been a growing interest in integrating human health, environment, and society between practitioners from different fields. The objective of the course is to address the correlations between the three corresponding areas under a challenging, interdisciplinary nexus.",
+      "comment_teaching": "Both of the profs are fine",
+      "comment_grading": "pretty fair<br />you have to get full mark at all the quizzes and study hard for both mid term and final, and you will be fine.",
+      "comment_workload": "very light workload except for the note taking",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "hrBQotOdSlfFUHgnaTc34ZvQd6KlldQW",
+      "semester": "2019-20 Summer",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "abc2023",
+      "date": "Sep 06, 2020",
+      "title": "",
+      "comment_content": "not going to repeat<br />strongly encouraged to take the course if you are interested in human biology :)",
+      "comment_teaching": "Both instructors are passionate about teaching. There are two versions of lecture powerpoint uploaded to distinguish exam and optional materials. At the beginning of lectures, Dr. Lam would do a summary on the materials taught in the lesson before.",
+      "comment_grading": "Nice grading. Straight-forward mc questions. <br />Quiz 1: 9/10<br />Quiz 2: 9/10<br />Quiz 3: 10/10<br />Quiz 4: 10/10<br />Final and essay marks were not released. Got A+ at the end.",
+      "comment_workload": "Super light workload. <br />Four mini quiz, one 400 words essay, one final (all MCs)<br />would be fine if you spend lil time to recap after each lecture and revise a bit few days before the final.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "B0oUTQK6wWFqTztXShU5o7l7lbaXhlZz",
+      "semester": "2019-20 Summer",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "P. Ch. W",
+      "date": "Sep 04, 2020",
+      "title": "",
+      "comment_content": "The content is rather basic, and some parts of the course look like common sense. But it might be a little confusing when encountering the terminologies at first.",
+      "comment_teaching": "Dr LAM is really nice. Although he might talk a little bit slowly, his lectures are well organised, and the examples he gave was relevant and engaging.&nbsp;&nbsp;Dr TANG&#039;s lectures were more boring than Dr LAM&#039;s, but still clear enough for students to understand. They both use videos to better illustrate, which is helpful.",
+      "comment_grading": "The grading is fair enough I suppose. There&#039;s no need to fully grasp the knowledge or remember all the terminologies. As long as you attend the lectures, go through the materials after class, and pay attention to what instructors emphasize, you can get a good grade.",
+      "comment_workload": "There are 4 pop quizzes, the essay and the final exam.&nbsp;&nbsp;The pop quizzes and exam only have multiple questions, most of which are explicit questions. For the 400-word essay, there&#039;s a list of topics for you to choose and a whole month for you to compose.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "dHgBawBKk4MD5Vh7eli9qNneqyxSkxEK",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 490,
+          "name": "KO, Robert Kam Ming",
+          "rating": 1
+        },
+        {
+          "id": 493,
+          "name": "CHUNG, Kenny K",
+          "rating": 1
+        }
+      ],
+      "author": "chelocean",
+      "date": "Aug 31, 2020",
+      "title": "",
+      "comment_content": "I think the content is really interesting. The materials given was informational and not difficult to understand.",
+      "comment_teaching": "I think the way in which the classes were taught was pretty boring. The professors mostly read off the slides and did not provide a lot of additional information on top of the material provided. I did not attend most of the classes but still did pretty well in my exams.",
+      "comment_grading": "I think the grading is pretty good. I mostly just remembered everything on the slides and I did pretty well. My statistics:<br /><br />Midterm 38/40 (mean 32.9)<br />Essay 16/20 (mean 17.6)<br />Final 45/50 (mean 35)<br /><br />In conclusion, if you think human biology is interesting and you are good at memorizing things then this course is for you!",
+      "comment_workload": "The workload is low. There is no attendance and the only assignment is the essay. The professor will provide guidelines and topics so it will not be difficult!",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "nX3b4sJyrzdQRcZIJQg0ATBzhHBerWd9",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 490,
+          "name": "KO, Robert Kam Ming",
+          "rating": 1
+        },
+        {
+          "id": 493,
+          "name": "CHUNG, Kenny K",
+          "rating": 0
+        }
+      ],
+      "author": "edenhazard",
+      "date": "Aug 28, 2020",
+      "title": "",
+      "comment_content": "not gonna repeat. pls refer to other reviews:)<br />essay topics include:<br />1.&nbsp;&nbsp;&nbsp;Living in harmony on Earth (KC) <br />2.&nbsp;&nbsp;&nbsp;You are what you eat (KC)<br />3.&nbsp;&nbsp;&nbsp;Global warming–real or not real? (KC)<br />4.&nbsp;&nbsp;&nbsp;Healthy body weight - a blessing in the land of developed world? (KC)<br />5.&nbsp;&nbsp;&nbsp;How we survive in a dangerous world full of pathogens? (RK)<br />6.&nbsp;&nbsp;&nbsp;State of mind in depression (RK)<br />7.&nbsp;&nbsp;&nbsp;A hope in combating cancers? (RK)<br />8.&nbsp;&nbsp;&nbsp;An aging society – problems and solutions (RK)<br />9.&nbsp;&nbsp;&nbsp;Physical exercise and health (RK)",
+      "comment_teaching": "Maybe because of online teaching, it was so boring for me and I just skipped the lessons.",
+      "comment_grading": "80% by Final Exam<br />20% by short essay (400 words)<br />My scores:<br />final: 87/100<br />essay: 17/20 (i chose topic 9)<br />Grade:A- <br />If you read other reviews, then u will know that the B range is extremely narrow. I saw another guy in the review getting 85 in final but only obtained a B.",
+      "comment_workload": "Only a 400-word essay. Very light. <br />Basically in the exam, everyone is just copying answers on google and the lecture ppt.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "lYYldCftqw8FmxbAfKhbhEgQSfzYIR7U",
+      "semester": "2019-20 Summer",
+      "instructors": [
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        }
+      ],
+      "author": "Aiven",
+      "date": "Aug 13, 2020",
+      "title": "Quite funny bio class",
+      "comment_content": "-the powerpoint is quite funny that there is so many video, but almost all the videos are off-topic<br />-the lecture material is quite long but clear<br />-easy for those student who are 0 in biology",
+      "comment_teaching": "-Lam is&nbsp;&nbsp;better in teaching but Jessica is also not bad<br />-sometime overrun but acceptable<br />-those self-experience from the professor is funny",
+      "comment_grading": "- 4 small quiz (10marks)<br />--&gt;I got (9,10,10,10)<br />-for the essay i didn&#039;t do it so seriously and only use two reference<br />-final above mean <br />*i got A- (quite easy to get good grade if u workhard)",
+      "comment_workload": "-sudden quiz<br />-Final <br />-One essay <br />the workload is small that everyone should be ok to handle",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "55VOENfY0yXL5R6xjvooVvmbFOHfeEpt",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 490,
+          "name": "KO, Robert Kam Ming",
+          "rating": 1
+        },
+        {
+          "id": 493,
+          "name": "CHUNG, Kenny K",
+          "rating": 1
+        }
+      ],
+      "author": "c.pang",
+      "date": "Jun 16, 2020",
+      "title": "",
+      "comment_content": "The course coordinator claimed that it teaches basic biology knowledge. However, 80% of the content is not included in DSE Biology syllabus. Therefore, think twice before taking this course.<br />&nbsp;&nbsp;<br />Feb 19 &amp; 21 (Prof Ko)<br />Biological Organization of the Human Body System – From Cells to Organisms<br /><br />Feb 26-Mar 27 (Prof Chung)<br />The Maintenance of Life I&nbsp;&nbsp;- Needed or Unneeded&nbsp;&nbsp;(e.g. Carbohydrates)<br />The Maintenance of Life II - Needed or Unneeded&nbsp;&nbsp;(e.g. Proteins)<br />The Maintenance of Life III - Needed or Unneeded&nbsp;&nbsp;(e.g. Lipids &amp; Essential Minerals)<br />Environmental Health I -&nbsp;&nbsp;Toxic versus non-toxic&nbsp;&nbsp;(e.g. Air/Land/Water Pollution)<br />Environmental Health II -&nbsp;&nbsp;Hot versus Cold&nbsp;&nbsp;(e.g. Global Warming)<br /><br />Apr 1-May 15 (Prof Ko)<br />The History of Human Health (how diseases shaped our society)<br />The Foreigners&nbsp;&nbsp;- To Live or to Die (e.g. infectious diseases and our responses)<br />The Busy Brain -&nbsp;&nbsp;To Think and to Sense&nbsp;&nbsp;(e.g. stress, depression etc)<br />The Crazy Cell&nbsp;&nbsp;-&nbsp;&nbsp;To Divide or to Stop (e.g. Cancers)<br />Societal Heath I – Aged versus Young (e.g. Family Stress and Financial Burden)<br />Societal Heath II – Aged versus Young (e.g. Medical Management)<br />Healthy Lifestyles – Fit versus Unfit (e.g. Exercise and Training)",
+      "comment_teaching": "Very boring because Prof. Ko speaks extremely slow.<br />It is advised to switch the speed to 2.0x when you watch the lecture videos.",
+      "comment_grading": "20% for 400-words essay<br />80% final (100 MCQ within 90 mins)<br /><br />The grading is too narrow. The mean and SD for essay are 17.21 and 1.25. The mean and SD for the final are 79.42 and 8.19.<br /><br />I got 17/20 for essay &amp; 82/100 for final. Finally got B-.<br /><br />Don&#039;t believe that it&#039;s a good-grade course.<br />It is not a good-grade course!!!!!!!!!!!!!!!!!",
+      "comment_workload": "not very heavy workload compared to other courses",
+      "rating_content": 2,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 6,
+      "vote_count": 6,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "BJGoEUrMmo0FHO93GMVk4Pww7Og80P8R",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 493,
+          "name": "CHUNG, Kenny K",
+          "rating": 0
+        },
+        {
+          "id": 490,
+          "name": "KO, Robert Kam Ming",
+          "rating": 0
+        }
+      ],
+      "author": "rgree",
+      "date": "Jun 11, 2020",
+      "title": "Unacceptable teaching quality!!!!",
+      "comment_content": "Not Repeat in here again because it is similar to the previous year",
+      "comment_teaching": "Extremely bad. As far as Prof Chung is concerned, he is just repeating all the points stated in the powerpoint and almost unable to speak a sentence completely in English. The course materials look like copying from the previous one but I think it is fine. Comparing to Prof Chung, Prof Ko is obviously better than him in all the aspects, including the depth of explanation, clearness and enthusiasm.",
+      "comment_grading": "The grading is zero transparency until people ask the prof via e-mail. The grade has been released without any publishment of scores about the essay and final. After asking the professor to give more information about the mean such statistic, he just simply replied you can refer to the canvas. However, the canvas is unable to obtain any information about the mean. <br />With more evidence sent to the professor, he started to state the mean and S.D to all the students. He claimed that even though the mark for eassy has been changed but it is no problem for the grade published. <br />My score: <br />17/20 (the mean and SD for essay are 17.21 and 1.25)<br />79/100 (The mean and SD for the final are 79.42 and 8.19) <br />Finally result in C+, quite disappointed.",
+      "comment_workload": "Not much workload and I subjectively think it may be related to the characters of the professors. In lectures, you will feel that they are just repeating anything already stated in the powerpoint. As a final-year student, I never experience such poor teaching quality. I would say i can see zero enthusiasm in teaching from prof chung although it is too rude.",
+      "rating_content": 3,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 9,
+      "vote_count": 9,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "p0XzZKPdT3FeM80gibpgwdtAYKQYoLZ9",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 490,
+          "name": "KO, Robert Kam Ming",
+          "rating": 0
+        },
+        {
+          "id": 493,
+          "name": "CHUNG, Kenny K",
+          "rating": 0
+        }
+      ],
+      "author": "hypetrain",
+      "date": "Jun 11, 2020",
+      "title": "Beware",
+      "comment_content": "This course introduces the basic biological principles of human health and diseases with an emphasis on the contemporary leading causes of death in Hong Kong and in the world. Topics mainly focus on common and emergent diseases, aging, and the influence of biotechnology, environment and culture on human health.<br />Basically, a lot of basic bio stuff.",
+      "comment_teaching": "No attendance required. The professors act like they hate their jobs and are both bad at teaching. Professor Chung talks like he&#039;s about to fall asleep on live video and catch some zzzs. Professor Ko isn&#039;t any better. He also randomly turned political and said white blood cells are like Hong Kong police officers, protecting citizens lol, yeah sure whatever you say buddy. They also play a shit ton of videos to pass the time. Just don&#039;t take this course.",
+      "comment_grading": "Terrible. 20% essay and 80% final exam. No midterm to act as a checkpoint for us. Got 4 sub-grades lower than what I expected. Probably need around 80% to get B-range, 90% for A-range. Mean is C+. Even in this semester, where we all have to deal with a deadly global pandemic and after they cancelled the midterm. Seems like the grading is even harsher than before, judging from past reviews. It feels like they gave the minimum number of A and B ranges. Final exam was online. 100 questions in 90 minutes, but we could not skip past questions, making it hard to allocate time. The exam also asked for weird details like which US president doesn&#039;t believe in global warming. Take this course if you want to lower your GPA.",
+      "comment_workload": "Light. Just a 400-word essay and a final exam. The real workload is being able to handle the grade you get and trying not to get a stroke.",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 7,
+      "vote_count": 7,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "nRfzBg9Zk6mZhlvf47b28XXiwPCgNZBK",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 490,
+          "name": "KO, Robert Kam Ming",
+          "rating": 0
+        },
+        {
+          "id": 493,
+          "name": "CHUNG, Kenny K",
+          "rating": 0
+        }
+      ],
+      "author": "zzz11",
+      "date": "Jun 11, 2020",
+      "title": "DON&#039;T REG THIS COURSE",
+      "comment_content": "Not to repeat here, you can see in other reviews.",
+      "comment_teaching": "Don&#039;t go to lectures, it&#039;s a waste of time. They just repeat the slide very slowly and play many useless videos so that the lecture can last 1 hour and 15 minutes. I just can&#039;t endure such an extremely boring lecture. Save your time, self-study is more effective.",
+      "comment_grading": "Usually, I&#039;m lazy that don&#039;t write any course reviews. However, this online semester&#039;s grades are EXTREMELY BAD, which makes me have to write this review to convince others not to take this course that will DESTROY your CGA and major selection for year 1 students. I was fooled by the previous reviews that were not suitable for this semester. This terrible course made me and my friend say goodbye to computer science. RIP",
+      "comment_workload": "Very low<br />The essay is only 300 words but it is difficult to get a high score, which is different from what they said in the lecture.",
+      "rating_content": 2,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "9u5P9BnjcyMHiQ3EUMBh8B4lbCwoRQLu",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 493,
+          "name": "CHUNG, Kenny K",
+          "rating": 1
+        },
+        {
+          "id": 490,
+          "name": "KO, Robert Kam Ming",
+          "rating": 1
+        }
+      ],
+      "author": "DrainGang",
+      "date": "Jun 11, 2020",
+      "title": "Not good",
+      "comment_content": "Basic biology, with a focus on human health, talks about basic things related to human biology, environmental effects on human health, mental health, healthy lifestyles and such. Very easy to understand even if you don&#039;t have much of a background in biology. I found it to be enjoyable mostly as you do gain a bit more knowledge about your physical and mental health. <br /><br />Some chapters are boring though, such as the first few where they talk about carbohydrates, that is the hardest and also the most boring part of the course.",
+      "comment_teaching": "Teaching was OK albeit a bit boring. Lectures consisted of the lecturers repeat what is said on the powerpoints and showing some videos, both of which you can do yourself. Attendance is not required, so you can feel free to skip if you want.<br /><br />Personally I did not attend any of the lectures after the first few, and it had no impact on my ability of the course, mostly because the content is super easy.",
+      "comment_grading": "*BASED ON ONLINE TEACHING*<br /><br />80% Finals: Open book, all MCQs, because of how easy the materials in the course is, getting a single question wrong would already affect your grades significantly.<br /><br />20% Essay: 400 word essay on given topics related to the course materials, writing too much deducts your marks. Quite easy as the hardest part is just trying to limit how many words you write... <br /><br />400 words for a university level essay seems insulting as I struggled to fit compelling arguments into my essay without writing too many words, I mean, we were required to write more in secondary school, 400 seems like a unbelievably low demand from a university student.<br /><br />My scores: 17/20 for the essay, and 85/100 on the finals, which got me a B, with scores like this I expected MUCH more, so it seems the competition was fierce among students, or the course had poor grading, or that it could be both.<br /><br />*UPDATE:, A fellow student got 6 questions less than me in the finals, and the same score for the essay, and got a C, 2 subgrades for 6 MCQs is ABSURD, the contents and the essay are simply far TOO easy to be able to test student&#039;s abilities and makes the curve super ugly.*<br /><br />If you are looking at this course for some common core credits I suggest looking for other courses instead.",
+      "comment_workload": "*BASED ON ONLINE TEACHING*<br /><br />Light workload.<br /><br />Essay takes very short amount of time to write due to the length, and the finals take a few days at most to prepare.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 2,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "VxCVn2afE1w1ClaMcnKkKpWHbL03s2Zm",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 490,
+          "name": "KO, Robert Kam Ming",
+          "rating": 1
+        },
+        {
+          "id": 493,
+          "name": "CHUNG, Kenny K",
+          "rating": 1
+        }
+      ],
+      "author": "Kevin Pun",
+      "date": "Sep 02, 2019",
+      "title": "",
+      "comment_content": "The content in the powerpoint is quite difficult. No need to worry much about the content since the MC questions in the exam is quite easy and they just ask about the basics",
+      "comment_teaching": "I only attended classes for the first lesson &lt;.&gt;",
+      "comment_grading": "There is no participation for this class. You can skip the classes as u want. The grading system are 40% for mid term ( all MC ) 40% for final ( MC ) and 20% for an 400 word essay. I have got B after the whole semester <br /><br />Below mean 3 pts for mid term<br />Above mean 1 pts for final<br />Essay on mean <br /><br />Grading is quite good",
+      "comment_workload": "Very light. If u pay afford to study a few days ago before exam, you will get a good grade",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "L0fteYZv3QXsC1S9jXO9L61EbVZkVMlk",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 493,
+          "name": "CHUNG, Kenny K",
+          "rating": 1
+        },
+        {
+          "id": 490,
+          "name": "KO, Robert Kam Ming",
+          "rating": 1
+        }
+      ],
+      "author": "winniethepooh",
+      "date": "Aug 22, 2019",
+      "title": "",
+      "comment_content": "The entire course is interesting enough, especially if you are interested in the human body, and the diseases.",
+      "comment_teaching": "Powerpoint reading aloud and video slideshows every lecture. He welcomed questions after class.",
+      "comment_grading": "Pretty fair grading. It is super easy to get a good grade as long as you memorize all the powerpoint. The essay is also easy to get high marks.<br /><br />Mid-term: above mean<br />Final: a little bit higher than mean<br />Essay: Full mark<br />Overall Grade: A",
+      "comment_workload": "Very light workload, just one short essay, one mid-term and one final. No attendance record which is good! No cheat sheet is allowed for exams.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Qi4uGhdbzJ1WIextQAZmMO36bVDO0F8L",
+      "semester": "2016-17 Summer",
+      "instructors": [
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 1
+        }
+      ],
+      "author": "張鑫媛",
+      "date": "Sep 06, 2018",
+      "title": "Unbelievable workload With low grade",
+      "comment_content": "Overall introduction of how human&#039;s organs work. Biology, as well as chemistry, are involved.",
+      "comment_teaching": "Prof. Lam has a wonderful British tone and a logical narrative. While Prof. Cheung&#039;s English is not pleasant enough. It somewhat affected her accuracy of knowledge.",
+      "comment_grading": "Ended up with B after amazing hard work for a whole summer. <br />I promise I have never worked so hard ever and will not anymore even if in my own major courses.",
+      "comment_workload": "A mid-term and a final, based on powerpoint. You can basically go through the powerpoint for mid-term, but final is much harder. You would need to really understand how those proteins and cells work from principles of chemistry. <br />It is a nightmare for a humanities student with art background in high school to comprehend. I spared no effort but still felt confused. <br />You also need to write a short essay involving your own points that are not discussed in class.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 2,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "VSVXQ4bwScvppFiGvY4SJZ3Isn4f0HBi",
+      "semester": "2017-18 Summer",
+      "instructors": [
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 0
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "冷山",
+      "date": "Aug 21, 2018",
+      "title": "A good grade course",
+      "comment_content": "The content is mainly about human health and diseases. There are lots of slides to remember. Through this course, you can know your body better and to lead a healthy lifestyle.",
+      "comment_teaching": "Philips&#039; (LAM) teaching is really straightforward and he&#039;s really a nice person. He will patiently answer your questions.<br />Helen&#039;s English is not that good and she always repeats the content written in her slides.",
+      "comment_grading": "I think the grading is quite good.<br />It contains four parts: quizzes (20%), midterm (30%),final (30%) and a essay (20%)",
+      "comment_workload": "As a LIFS course, the workload is quite heavy. Lots of words and concepts to memorize!!!",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 2,
+      "attachments": []
+    },
+    {
+      "hash": "buxQ34GtPSDUMucYzL975ORGup4y38wN",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 1
+        },
+        {
+          "id": 493,
+          "name": "CHUNG, Kenny K",
+          "rating": 1
+        }
+      ],
+      "author": "maksyu",
+      "date": "Jun 01, 2018",
+      "title": "Recommend !",
+      "comment_content": "A worth-learning course for those who has little knolwedge about life science. An easy course for non-science student.<br /><br />Kenny is responsible for the first half of the course, and Helen is responsible for the first lesson and the another half.",
+      "comment_teaching": "Both Helen and Kenny are nice.<br />Their classes are quite interactive.<br />Kenny showed us a lot of videos.",
+      "comment_grading": "Quizzes 25%<br />(Kenny gave pop up quizzes.but it is very easy; Helen would inform the students who attended the lesson about the date of the quiz )<br /><br />Mid-term&nbsp;&nbsp;30%<br /><br />Exam (non-accumulative) 30%<br /><br />Essay (max.400 words) 15%",
+      "comment_workload": "Little workload. :D",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "n6raGOeXPS3GITGOnal2PPxQX5RJqfxK",
+          "name": "LIFS 1020  Class Schedule",
+          "format": "docx"
+        }
+      ]
+    },
+    {
+      "hash": "YhO7fkGA897ziadee24tZ0ECvf1TWgHS",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 1
+        },
+        {
+          "id": 493,
+          "name": "CHUNG, Kenny K",
+          "rating": 1
+        }
+      ],
+      "author": "can",
+      "date": "May 29, 2018",
+      "title": "not hard to understand the lectures",
+      "comment_content": "pretty easy to understand even you do not have any bio knowledge<br />the lecture materials cover everything you need<br />will understand the lectures materials even tho you did not go to class",
+      "comment_teaching": "both of the professor teach very well<br />they will ask questions to the class so as to help students to engage more in the class",
+      "comment_grading": "grading is not harsh<br />my mid term were below mean for 1.3 sd<br />all 4 quizzes were just above mean <br />essay and final score were unknown<br />got B at the end",
+      "comment_workload": "altogether 4 quizzes (including pop-up and announced quiz) <br />400 words essay<br />mid exam <br />final",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "uFE0cm2sgNJEhrHEI6svvW9tZQYxzJGA",
+      "semester": "2016-17 Summer",
+      "instructors": [
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "yuto",
+      "date": "Aug 21, 2017",
+      "title": "",
+      "comment_content": "Different organ system such as circulatory, nervous system<br />Environmental health",
+      "comment_teaching": "Dr Lam often include examples explaining the content. Quite funny and impressive. His teaching is easy to understand even for students with no biology backgrounds. <br />Helen is the worst instructor I have ever seen. She always makes mistakes in her iprs and quiz, which is very confusing for revision. She will also talk about knowledge or specific biological vocab without spelling the words out. It is extremely hard for students with no biology backgrounds to catch up.",
+      "comment_grading": "Dr Lam&#039;s quiz and midterm is quite straight forward. I got almost full mark in his quiz and midterm<br /><br />I fail to get good marks in Helen&#039;s quiz and exam as I have no biology background.<br /><br />The essay is simple",
+      "comment_workload": "The workload is low. Only an essay, midterm, exam and a few short quiz.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "FaP8UFWCRwMY6GlgRkO3YdIBWFROaHb4",
+      "semester": "2016-17 Summer",
+      "instructors": [
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 0
+        }
+      ],
+      "author": "Emily0111",
+      "date": "Jul 11, 2017",
+      "title": "",
+      "comment_content": "The content is pretty basic. If you have taken biology before, the lecture slides will be pretty easy to understand for Dr. Lam&#039;s lecture, but Dr. Cheung&#039;s lectures are not as organized and sometimes lack logical flow, which can make it challenging for those without background in biology.",
+      "comment_teaching": "Dr. Lam was a superb instructor. I give him an A+++. He made the lectures interesting, and his English was probably one of the best I&#039;ve heard here, probably because he studied abroad in the states.<br />Dr. Cheung is mediocre when compared with Lam. Her English is not bad, but I feel like she doesn&#039;t prepare for her lectures enough beforehand? It feels like she&#039;s just trying to come up with explanations for the content on the spot, and she skips around the slides quite often. Her lectures could be more organized.",
+      "comment_grading": "Quizzes and midterm for Dr. Lam was pretty straightforward. The questions were usually fair, and they were all covered in the lecture slides.",
+      "comment_workload": "There is a lot of information coming at quite a fast pace for the summer, but it is manageable as the final is not cumulative.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "GDyet1ssjlnXh2k3tWHSSvyAwbJhe3sM",
+      "semester": "2015-16 Summer",
+      "instructors": [
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        }
+      ],
+      "author": "Anchor",
+      "date": "Aug 07, 2016",
+      "title": "a deeper sight into our body",
+      "comment_content": "personally, I think the content is quite useful and interesting<br />talk about our whole body, our heart, our brain, how to maintenance our health<br />all the topics are related to our daily lives<br />definitely can help us understand more to ourselves",
+      "comment_teaching": "its ok<br />Philip has a great amount of interaction with students (maybe cause he uses the IPRS, i don&#039;t know) <br />he shares many his own experience <br />adequate teaching time <br />his classes are always lovely <br />Helen is also trying hard to teach us but <br />she does not show that much enthusiasm as Philip <br />she is also nice yet her teaching is quite boring <br />sorry for playing phone during her lessons xd",
+      "comment_grading": "I haven&#039;t received my grade yet but as most of the students are not science students and we simply have no specific knowledge to this class<br />Philip has said he would give a significant part of the students a &quot; not bad grade&quot; <br />hope he still remember his promises <br />so I think the grade may not be too bad unless you totally have no heart to the lessons",
+      "comment_workload": "only one assignment <br />only mc midterm and mc final exam <br />maybe sometimes popup quizzes but also mc questions <br />how the workload would be heavy???",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "jWRtehOoA16gkHfoeamM7qVA6NG3GSRy",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 0
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 490,
+          "name": "KO, Robert Kam Ming",
+          "rating": 1
+        }
+      ],
+      "author": "Roddie",
+      "date": "Jun 23, 2016",
+      "title": "Lots of words to memorize!!",
+      "comment_content": "The content is quite boring but it might give you some knowledge about diseases, at the first time I thought that this course will give you some basic biology knowledge, like the structure of cells or something. But indeed, it does teach you some knowledge about biology, but most of the time it teach you the diseases and healthy lifestyle.",
+      "comment_teaching": "Admittedly, Lam&#039;s teaching style is the greatest. Roberts is mediocrely acceptable, perhaps is because of his accent. I can barely understand his accent as a matter of fact. Helen....... HeHe....<br />She basically just read out the slides, and as I remember, in Lam&#039;s class, the attendance is around 90%, and it dropped drastically to 50% or even less when Helen takes charge.",
+      "comment_grading": "Midterm: 37/40&nbsp;&nbsp;highest: 39<br />Final: 32/40 highest: 37 (only 10 people who got higher than 33, and most of them got 33)<br />Essay: 17/20 highest: 20<br />Quiz1: 4/5<br />Quiz2: 5/5<br />Quiz3: 9/10<br />Quiz4: 10/10<br />(In the quiz, the highest score is full mark)<br />And eventually I got A, the final is quite difficult, abnormally difficult than midterm and quiz, so be prepared...<br />What I need to mention is that, in the final, there are sooooo many questions did not mention in both the slides and the video!!!!! How the heck can I f**king know how to do this sh*t!!!!!!",
+      "comment_workload": "The only workload is to memorize the words to be honest... and I am too lazy to memorize them, but at least I can recognize most of them... But still.... I have quite some words unfamiliar when taking the final exam, and I am quite regret afterwards lol. Also, remember to watch the video provided in the ppt, it might appears in the quiz and exam.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "CH9zLUMhIzUoOAFS7XWfJHECsWcUo4X4",
+      "semester": "2014-15 Summer",
+      "instructors": [
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 0
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 490,
+          "name": "KO, Robert Kam Ming",
+          "rating": 1
+        }
+      ],
+      "author": "papabubble",
+      "date": "Jan 09, 2016",
+      "title": "",
+      "comment_content": "Topics including Cancer, human brain(more psychology), aging, pollution, different body parts. <br />Essay is related to what mentioned in class.",
+      "comment_teaching": "Philip was great, his class is more casual and relaxing. We can ask question in class anytime.<br />Helen seems not prepared well, sometime I really fell sleepy.",
+      "comment_grading": "total four pop-up quiz, likely have a quiz after two/three ppt.<br />All are MC questions in midterm, final and quiz.<br />C+ for mean.",
+      "comment_workload": "So many special terms to memorize, it was too harsh for me because i can&#039;t memorize things well.<br />Workload might be light to those whose mother language is English because most questions are common sense if you know that word.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "6T8mehIDJvwz3CLJr1Bjw2fLkPRv7VDq",
+      "semester": "2014-15 Summer",
+      "instructors": [
+        {
+          "id": 479,
+          "name": "CHEUNG, Helen",
+          "rating": 1
+        },
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 490,
+          "name": "KO, Robert Kam Ming",
+          "rating": 1
+        }
+      ],
+      "author": "Mandy233",
+      "date": "Aug 25, 2015",
+      "title": "",
+      "comment_content": "most of the time the content is within the range that I learned in senior high school, i remember the instructor saying this course is intended for students who have little background in LIFS. Covering global warming, body structure, brain, cell....not very deep or trivial.",
+      "comment_teaching": "the Lam, Yeung. KO is a very nice instructor with sense of humor and proper structure of teaching, at the meantime, very responsive. <br />While, Helen is a mess, I don&#039;t really know whether she prepared for the class before coming to the classroom.<br />I will give Lam an A and Helen a D.",
+      "comment_grading": "the midterm is quite easy, and the final is a little bit more difficult. There is a simple essay but not easy to get high marks on that essay. The final grade is quite good.",
+      "comment_workload": "Have to recite a lot before quizzes and exams. But not too many words as I had imagined to recite for students whose mother language is not English.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

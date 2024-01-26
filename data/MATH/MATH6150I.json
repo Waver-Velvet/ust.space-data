@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 3212,
+    "subject": "MATH",
+    "code": "6150I",
+    "name": "Combinatorics of Crystal Bases",
+    "description": "Crystal bases are discrete objects that encode useful structure in representations of \nLie algebras. This topics course will develop the theory of crystal bases in a self-contained way from a combinatorial point of view.  Our ultimate goal is to see how crystals arise in the representation theory of quantum groups. As we investigate the theory, we will survey several important classical topics in algebraic combinatorics, such as Young tableaux, insertion algorithms, the Littlewood-Richardson rule, and Stanley symmetric functions. The course will be accessible for first year graduate students with some exposure to abstract algebra that are interested in algebraic combinatorics or representation theory. Students without course prerequisite should seek approval from the course instructor to take the course.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1930
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"5143\" href=\"/review/MATH5143\" target=\"_blank\">MATH 5143</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

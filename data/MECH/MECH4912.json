@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 4352,
+    "subject": "MECH",
+    "code": "4912",
+    "name": "Green Technologies for Buildings, Energy and Water",
+    "description": "This course introduces principles and technologies for sustainable and traditional cooling technologies for buildings, sustainable energy conversion, water desalination and purification. The first part discusses cooling techniques for building including the traditional air conditioner and sustainable solar driven cooling technologies for buildings. The second part discusses solar to thermal and chemical energy conversion technologies including solar collecting and concentrating technologies including solar collecting and concentrating technology, photovoltaic cells and solar thermophotovoltaics. The last part will focus on the water harvesting technologies which include water desalination and purification.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MECH\" data-code=\"3300\" href=\"/review/MECH3300\" target=\"_blank\">MECH 3300</a> OR <a class=\"course-link\" data-subject=\"MECH\" data-code=\"3310\" href=\"/review/MECH3310\" target=\"_blank\">MECH 3310</a> OR <a class=\"course-link\" data-subject=\"CENG\" data-code=\"3220\" href=\"/review/CENG3220\" target=\"_blank\">CENG 3220</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

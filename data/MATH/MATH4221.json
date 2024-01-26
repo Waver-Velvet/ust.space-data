@@ -1,0 +1,159 @@
+{
+  "course": {
+    "id": 909,
+    "subject": "MATH",
+    "code": "4221",
+    "name": "Euclidean and Non-Euclidean Geometries",
+    "description": "Axioms and models, Euclidean geometry, Hilbert axioms, neutral (absolute) geometry, hyperbolic geometry, Poincare model, independence of parallel postulate.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      1930,
+      1830,
+      1730,
+      1630,
+      1530,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2033\" href=\"/review/MATH2033\" target=\"_blank\">MATH 2033</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2043\" href=\"/review/MATH2043\" target=\"_blank\">MATH 2043</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2111\" href=\"/review/MATH2111\" target=\"_blank\">MATH 2111</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2121\" href=\"/review/MATH2121\" target=\"_blank\">MATH 2121</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2131\" href=\"/review/MATH2131\" target=\"_blank\">MATH 2131</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2350\" href=\"/review/MATH2350\" target=\"_blank\">MATH 2350</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3.67,
+    "rating_teaching": 3.33,
+    "rating_grading": 3.67,
+    "rating_workload": 4,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 527,
+        "name": "KU, Yin Bon",
+        "count": 3
+      },
+      {
+        "id": 528,
+        "name": "CHING, Avery",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "QRFVmBGK9E4k4jTdkw9dIbgb5NlHNknO",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 527,
+          "name": "KU, Yin Bon",
+          "rating": 1
+        }
+      ],
+      "author": "Math Major",
+      "date": "Aug 20, 2019",
+      "title": "Nice journey",
+      "comment_content": "So the geometry we’ve been learning since high school is the Euclidean Geometry, which basically are all derived/extended from 5 postulates which have been set by Euclid.<br />The first 4 axioms seems rather obvious, but the fifth (the parallel postulate) seems less obvious than the others.<br />Mathematicians tried to derive/disprove the parallel postulate from the first four axioms (so they can get rid of the parallel postulate), and everyone of them failed. (And it was proved later that it cant be done)<br />So the other mathematicians started to think that maybe the parallel postulate is independent from (which means it cannot be proved or disproved from) the other 4 axioms, and they started to construct geometry systems, which are totally different from the Eucliean geometry, and the journey started.<br /><br />The course was, at least for me, like a journey that Ive been through for a semester. <br />In the other systems of geometry, things which were very obvious in the Euclidean geometry are no longer obvious, or some of them might no longer be true.<br />And the best part of the course for me was the moment in the end of the semester, we combine everything we’ve learnt from the course to prove the independency of the parallel postulate, and finally finish the long long journey.<br /><br />After proving the independency, professor briefly introduced concepts about hyperbolic geometry, which isnt a major part of the course, but worth learning one or two.<br /><br />The content itself isn’t that hard, its just that you might need some time to accept the fact that everything which you thought they are pretty obvious may no longer be obvious, or not even correct in other systems. It might be a little confusing in the beginning.",
+      "comment_teaching": "Great great teaching. <br />It’s my second course with professor Ku Yin Bon, the first was MATH2741 Geometric Construction.<br />I enjoyed the contents of MATH2741 very much but to be honest, i didn’t enjoy his teaching.<br />So i thought this course wasnt going to be interesting, but i was wrong.<br />In this course, his teaching was excellent, he explains everything so well so that everyone could understand.",
+      "comment_grading": "Assignment 10%<br />Midterm 30%<br />Final 60%<br /><br /><br /><br />I think the grading is good.<br />Assignment 25/25<br />Midterm 55/60<br />Final 96/100<br />Resulted in an A+.",
+      "comment_workload": "5 homeworks, 3-4 questions each.<br />Like one homework every 2-3 weeks.<br />A midterm and a final.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "PbGDhLL3e2brXCcGhBvrPNOl5UZFlb6L",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 527,
+          "name": "KU, Yin Bon",
+          "rating": 1
+        },
+        {
+          "id": 528,
+          "name": "CHING, Avery",
+          "rating": 1
+        }
+      ],
+      "author": "Daisuke",
+      "date": "Aug 30, 2018",
+      "title": "Because of some issue in this semester, Dr Ching taught the second half of the lecture",
+      "comment_content": "basically same opinion of above.<br />Axioms and models, Euclidean geometry, Hilbert axioms, neutral (absolute) geometry, hyperbolic geometry, Poincare model, independence of parallel postulate.<br /><br />Basically all the theorem taught is not really hard to understand, but the most difficult part is to USE the theorem, if you did not have a sense how to proof or what method should to used, it is really hard for you to handle the midterm and final, and you may finally get a F. So think twice before you really want to take this course.",
+      "comment_teaching": "Dr Ku and Dr Ching guided the lecture very well. The content is not hard, so if you pay enough attention, you don&#039;t even have to do revision on this lecture.",
+      "comment_grading": "Since we have 8 (or 9) student registered this course, the grading is basically A+, A-?, B+, B-, C... basically fair referring to the point you got in the final exam.",
+      "comment_workload": "just homework and it is not really hard, it shouldn&#039;t take you so many time but it is fair to say the most difficult part is how you use the theorem AND UNDERSTAND THE REASON(HISTORY) OF CHOOSING THIS SET OF AXIOMS.<br /><br />PS: Due to the same issue, the midterm was voted to cancelled.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Lm466XKEVvEIpcFlRlMjuh0ulCq0GHWs",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 527,
+          "name": "KU, Yin Bon",
+          "rating": 0
+        }
+      ],
+      "author": "keithckh",
+      "date": "Jun 18, 2017",
+      "title": "",
+      "comment_content": "Axioms and models, Euclidean geometry, Hilbert axioms, neutral (absolute) geometry, hyperbolic geometry, Poincare model, independence of parallel postulate.<br /><br />Basically all the theorem taught is not really hard to understand, but the most difficult part is to USE the theorem, if you did not have a sense how to proof or what method should to used, it is really hard for you to handle the midterm and final, and you may finally get a F. So think twice before you really want to take this course.",
+      "comment_teaching": "KU, Yin Bon is a rubbish lecturer, not gonna lie, he just simply use the same ppt year by year and did not change anything in the ppt (my friend take this course and he told me about this). Sometimes he don&#039;t even know how to proof a theorem and simply just skip it and he is lazy as ****. If you really want to take this course, you can just skip all the lessons and read the ppt yourself, only attend the lecture when there is assignment to hand in",
+      "comment_grading": "Only 18 students take the course in this semester, around half of them are mainland or non-local students (so it means most likely you will below mean)<br /><br />homework may find source on the internet or somewhere else (math society member), so most likely you would get full marks in assignments, however, the whole course is looking for proof so if you do not familiar with proof, strongly recommend NOT to take this course<br /><br />10% homework<br />30% midterm<br />60% final<br /><br />Around mean -&gt; B- / C+<br /><br />BUT even if assignment full marks (10%), midterm below 1 sd, final below 1 sd -&gt; F",
+      "comment_workload": "Actually really low, but if you do all the homework without sources, it would take you really really long time (Since all questions are proof, which means if you cannot think about it, you may spend a whole day to think 1 question only, 1 homework most likely contain 4 questions)<br /><br />I think the heaviest workload is to read the notes carefully and try to understand the proof (Since the lecturer is rubbish and he just read the ppt word by word)",
+      "rating_content": 3,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

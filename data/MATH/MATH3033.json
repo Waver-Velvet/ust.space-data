@@ -1,0 +1,1051 @@
+{
+  "course": {
+    "id": 890,
+    "subject": "MATH",
+    "code": "3033",
+    "name": "Real Analysis",
+    "description": "Functions of several variables, implicit and inverse function theorem, uniform convergence measure and integral on the real line.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2330,
+      2310,
+      2230,
+      2210,
+      2130,
+      2110,
+      2030,
+      2010,
+      1930,
+      1910,
+      1830,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2011\" href=\"/review/MATH2011\" target=\"_blank\">MATH 2011</a> / <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2023\" href=\"/review/MATH2023\" target=\"_blank\">MATH 2023</a>) AND (<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2033\" href=\"/review/MATH2033\" target=\"_blank\">MATH 2033</a> / <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2043\" href=\"/review/MATH2043\" target=\"_blank\">MATH 2043</a>) AND (<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2111\" href=\"/review/MATH2111\" target=\"_blank\">MATH 2111</a> / <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2121\" href=\"/review/MATH2121\" target=\"_blank\">MATH 2121</a> / <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2131\" href=\"/review/MATH2131\" target=\"_blank\">MATH 2131</a> / <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2350\" href=\"/review/MATH2350\" target=\"_blank\">MATH 2350</a>)",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"3043\" href=\"/review/MATH3043\" target=\"_blank\">MATH 3043</a>",
+    "rating_content": 3.8,
+    "rating_teaching": 4,
+    "rating_grading": 3.68,
+    "rating_workload": 4.24,
+    "review_count": 25,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 544,
+        "name": "LI, Kin Yin",
+        "count": 23
+      },
+      {
+        "id": 527,
+        "name": "KU, Yin Bon",
+        "count": 3
+      },
+      {
+        "id": 1060,
+        "name": "MAK, Hugo Wai Leung",
+        "count": 3
+      },
+      {
+        "id": 528,
+        "name": "CHING, Avery",
+        "count": 1
+      },
+      {
+        "id": 726,
+        "name": "CHU, Kwun Lun",
+        "count": 1
+      },
+      {
+        "id": 1355,
+        "name": "DU, Xusheng",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "K8a6j96Nf71PdGq0OWCKVLAYnW21ZeXF",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 527,
+          "name": "KU, Yin Bon",
+          "rating": 1
+        }
+      ],
+      "author": "notalentinmath",
+      "date": "Dec 29, 2023",
+      "title": "",
+      "comment_content": "Ch.0 Preliminary<br />Basic of sets theory, Real numbers and limits, <br /><br />Ch.1 Point-set Topology <br />Euclidean Space, Open and closed sets, Compactness, Sequence of Points in R^n.<br /><br />Ch.2 Continuity and Differentiability<br />Continuity, Differentiability, Jacobian Matrix, Inverse function theorem, Implicit function theorem.<br /><br />Ch.3 Sequence and Series of Functions<br />Convergence of function, Power Series, Uniform convergence and Differentiation, Uniform convergence and Integration, Abel&#039;s Limit theorem.<br /><br />Ch.4 Lebesgue Integral<br />Lebesgue measure, Measurable function, Lebesgue Integral.<br /><br />The content is quite difficult to understand since most of the time we are using R^n. and most of the theorems are written in a general form which requires more time to understand how to apply it.",
+      "comment_teaching": "3 hours lectures and 1 hour tutorial per week.<br /><br />75% of the time of lecture is proving theorems.<br />and the remaining time is the GeoGebra classwork.<br /><br />Dr. Ku will use a pencil to write down the proof in the lecture notes, sometimes he will include some graphs and examples for us to have a better understanding.<br /><br />He uploads lecture videos in a very quick time （within a day）. You can skip lessons and watch videos, but GeoGebra classwork counts some parts of the grade.<br /><br />The GeoGebra classwork is hard and only open during the lesson before the feedback from students. After the adjustments, the difficulty is appropriate, and we have more time (open until the next lesson) to finish the work.<br /><br />The teaching speed is slow due to the classwork, and we have 3 extra lectures (This semester had fewer lectures due to holidays and extreme weather).",
+      "comment_grading": "Class Participation\t5%<br />Assignments\t 10%<br />Midterm Exam\t 30%<br />Final Exam\t 55%<br /><br />For Class Participation:<br />Participated in x% of the GeoGebra classwork problems.<br />x ∈ [70,100]: 5%<br />x ∈ [60,70): 4%<br />x ∈ [50,60): 3%<br />x ∈ [40,50): 2%<br />x ∈ [20,40): 1%<br />x ∈ [0,20):&nbsp;&nbsp;&nbsp;0%<br /><br />This semester we have 13 GeoGebra classwork, so 10 classwork are required to get full points. <br />The classwork is not necessarily correct, but you need to put some effort into it to get the participation mark.<br />Actually, you can watch the lecture video before the next lesson to get the participation point after adjustment :).<br /><br />Some statistics:<br />Mean, Median<br />Class Participation: 4.03/5, 5/5<br /><br />Assignments: <br />HW1: 8.19/10, 9/10<br />HW2: 7.9/10, 9/10<br />HW3: 7.69/10, 8.5/10<br />HW4: 7.51/10, 8.5/10<br /><br />Midterm Exam: 23/60, 22/60<br />Final Exam: 49.3/100, 50/100<br /><br />I get LQ in Mid-term and UQ in final,<br />The final score is close to the median and I get B.<br />Grade God",
+      "comment_workload": "The workload is quite low, depending on how fast you can understand things.<br /><br />Class Participation: Spending around half an hour to finish the classwork, or you can finish it during the lecture.<br /><br />Assignment: 5 Assignments in 3.5 months, each assignment requires around half a day to finish (for me), not very hard.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "4FHVERN0u0MG6I7O0s7CQrkXoC6Tv76I",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 544,
+          "name": "LI, Kin Yin",
+          "rating": 0
+        },
+        {
+          "id": 527,
+          "name": "KU, Yin Bon",
+          "rating": 0
+        }
+      ],
+      "author": "happyhappyCGA4",
+      "date": "Jan 03, 2023",
+      "title": "Avoid Prof. Li if it is possible",
+      "comment_content": "(1) vector-valued function (hard content with easy questions)<br />(2) sequence and series of functions (intermediate)<br />(3) Lebesgue Measure and Integral (extremely hard)",
+      "comment_teaching": "Prof. Li, he is preparing for retirement. So, of course, he won&#039;t devote too much to teach. He just read his notes, even the punctuation. I believe it is better to learn by yourself rather than waste your time in his lecture.<br />Dr. Ku wants to teach the students. And he wrote something for you to understand better. But he taught so slowly that he didn&#039;t have time to teach Chapter 3, which is the hardest part. He just taught some sample questions, leaving all of us confused (The final high is just 76, which means no one really understands the stuff). And for me, I learned Chapter 3 on Bilibili and Youtube. I found that the Lebesgue Measure and Integral is taught for almost a semester in other universities. How come Dr.Ku wants us to learn it in 1 or 2 weeks?",
+      "comment_grading": "Very bad<br />For myself, I got upper quartile +15 in the midterm, upper quartile +5 in the final, almost full in homework(except for one homework, I only got 88), and +20 more of the overall mean. It turns out an A-(I believe I can get an A in other courses or A+ in some good grade courses)<br />The midterm is a little difficult, and the mean is around 45/100; the final is easier, but the grading is extremely strict, so the mean is still around 47/100. You will get a lot of deductions if you miss a few details<br />If you are a mean student, you will definitely get C/C+",
+      "comment_workload": "Intermediate<br />The homework is not difficult this semester, but you need to check your answers with your friends to guarantee you are correct for every detail (the grading is strict)",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 2,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "8FCkeVekqGNx0JIut98z54rzlWLEURfE",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 544,
+          "name": "LI, Kin Yin",
+          "rating": 1
+        },
+        {
+          "id": 527,
+          "name": "KU, Yin Bon",
+          "rating": 1
+        }
+      ],
+      "author": "operator=",
+      "date": "Dec 29, 2022",
+      "title": "Totally speechless with 2033 and 3033",
+      "comment_content": "(1) sequence and series of functions<br />(2) Lebesgue Measure and Integral in R(hardest in this course)<br />(3) vector-valued function (work with n-dimensional vector space)",
+      "comment_teaching": "我2033和3033上的都是prof Ku的堂。我没上过prof Li的课，但是根据我朋友告诉我的prof Li就是用手指着手写版笔记点读(aka 点读机)。prof Ku相比会好点，他语速会慢一点，然后会把每一步写在纸上，或许能更加容易理解。但是prof Ku讲的太慢了。最后一章Lebesgue integral没时间了直接就讲MCT和LDCT的应用(通过讲几道例题),我们都不知道这俩定理的证明以及怎么就从Lebesgue integral定义直接到应用几个公式这一步了，完全一脸懵逼。更气人的是最后考试竟然闭卷。之前讲了前因后果还可以说是我们不理解所以才要靠背，这次直接不装了是吧，直接theorem memory course。<br />我感觉上了2033和3033之后数学思维方式没有任何提升(学了个寂寞)。",
+      "comment_grading": "烂 (prof Li是course coordinator)<br />28% hw+ 32% mid + 40% final<br /><br />2033: <br />我: 期中mean+2sd&nbsp;&nbsp;期末mean+2sd&nbsp;&nbsp;总分mean+2sd (87.6) -&gt; A, 我听到的消息是只有总分&gt;90才能得A+<br />然后从我几个朋友那儿了解到的一些数据是总分&gt;80 A (总分 mean+1.7sd); 总分 mean+1.2sd B+; 总分比mean高一点C<br /><br />3033(我只能看到prof Ku堂的成绩):<br />midterm:&nbsp;&nbsp;mean 48.46 median 44 upper quartile 63.5<br />final: mean 46.3 median 48 upper quartile 62.5<br />我 mid 87, final 67, overall 81.7 -&gt; A<br />no sd information<br />估计cutoff和2033差不多",
+      "comment_workload": "两个堂用一样的作业和考试, 最后一起给grade。<br />4次作业，和2033差不多，过程会扣的比较严，比较难的题可以向TA和prof要点hint。prof和TA还是挺乐意帮助我们解决作业的。<br />考试的话线上开卷，线下闭卷，4道大题基本还是会有2道past paper类似题或作业变换，剩下的就看天赋吧。",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 6,
+      "vote_count": 9,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "eXFfA2GM7CqGsh2PisURph3YYsmyJ0l2",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 544,
+          "name": "LI, Kin Yin",
+          "rating": 1
+        }
+      ],
+      "author": "想當年",
+      "date": "Jan 07, 2022",
+      "title": "【Mixed-mode semester during COVID-19】prof. Zhang, Hai&#039;s section is different",
+      "comment_content": "*****************************<br />The comment is suitable for L1 only.<br />L1: prof. Li, Kin Yin<br />L2: prof. Zhang, Hai<br />*****************************<br /><br />Prof.李健賢&#039;s teaching is too slow, he even cannot finish all the materials this semester.<br />I believe prof.張海 teaches much more. (But I&#039;m not 100% sure.)<br /><br />The mid-term exam is very normal. (But the mean is lower than I expected.)<br /><br />The final exam accounts for 60% of the course grade. However, it consists of 4 questions only. (This means that if you make mistakes / don&#039;t know how to do 1 question, it is disastrous.) Also, 1 question is not quite relevant to this course indeed. (In fact, more relevant to MATH2033)<br />(These factors increase the uncertainty of assessing our performance.)<br /><br />For most students, you have to take exams on campus, and the exams are closed-book.",
+      "comment_teaching": "*****************************<br />Originally, they planned to pool and grade 2 sections together.<br />However, they decided to separate 2 sections on the last day of the add-drop period. (I think it&#039;s because prof. Zhang, Hai teaches more on set theory and topology,)<br />*****************************<br /><br />Prof.李健賢 is nice in general:<br />1) He replies to emails quite quickly.<br />2) He reminds you to submit homework.<br />3) He grades the homework and exam together with TA.<br />4) You can ask him about the homework after class. (You may feel surprised.)<br />_____________________________________<br /><br />TA: Ms. Cen, Luyu<br />She is nice, and replies to my email pretty quickly.<br />By the way, she is a bit strict when grading our homework.",
+      "comment_grading": "*****************************<br />2 sections has different homework and exam paper.<br />This is only for prof. Li, Kin Yin&#039;s section.<br />*****************************<br /><br />Statistics:<br /><br />Homework: (from canvas)<br />92.93, 84.18, 71.28, 77.86, 86.76<br />Midterm: (from professor&#039;s announcement)<br />Highest: 100 Mean: 58.9 SD 24.6 Q1: 81.5 Median: 59.5 Q3:40<br />Final exam: (not released, from canvas)<br />Mean: 34.09&nbsp;&nbsp;High: 100\tLow: 0<br /><br />Overall mean: (calculated by myself)<br />48.8%<br />________________________________________<br /><br />For me:<br />Homework(20%): 494/500<br />Midterm exam(20%): 89/100<br />Final exam(60%): 48/100<br /><br />overall = 66.36%<br />grade = B<br /><br />(Based on the statistics, you can judge whether the grade is good or not.)<br />________________________________________<br /><br />小弟midterm考得還可以，final考得太糟糕，一鋪清袋。",
+      "comment_workload": "*****************************<br />The workload of prof. Zhang, Hai&#039; section is much heavier.<br />*****************************<br /><br />Only 5 homework, each homework consists of 3-4 questions. However, all questions will be graded strictly.",
+      "rating_content": 2,
+      "rating_teaching": 4,
+      "rating_grading": 2,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "hH57yV6BAqpA4VqdTr5km7yeei1NF4y9",
+          "name": "prof nice reminder",
+          "format": "png"
+        }
+      ]
+    },
+    {
+      "hash": "GmGma0lJQhKrJcbO6N7M7F05RqK0Hbym",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 528,
+          "name": "CHING, Avery",
+          "rating": 1
+        }
+      ],
+      "author": "Aaron W",
+      "date": "Dec 29, 2020",
+      "title": "",
+      "comment_content": "This course is a continuation of 2033 but for higher dimensional spaces. There were 4 parts to the course: <br />1) Topology of the Euclidean Space (closed/open set, vector and matrix norms, etc.)<br />2) Differential calculus of functions in several variables (derivatives in higher dimensional space)<br />3) Uniform convergence of sequences of functions<br />4) Lebesgue’s theory of integrals (measure theory and lebesgue integration)",
+      "comment_teaching": "Didn’t go to class or watch any of the lecture videos, so I can’t comment on his teaching, but his notes are quite concise so it wasn’t too hard to self study.",
+      "comment_grading": "Assignments: 20%<br />Midterm: 30%<br />Final: 50%<br /><br />L2 Statistics:<br />Assignments:<br />- Mean: 15/20<br />Midterm:<br />- Mean: 67.7/100<br />- Max: 100/100<br />Note: L2 had a different midterm from L1 since Avery accidentally leaked the midterm<br />Final:<br />- Mean: 46.4/100<br />- Max: 87/100<br />Overall Mean: 58.5/100<br /><br />Me:<br />Assignments: 20/20<br />Midterm: 95/100<br />Final: 75/100<br />Overall: 86/100<br />Grade: A+<br /><br />I think the grading was quite lenient given that I bombed one of the questions in the final (2/20 for that question), was 12 points below max, but still got an A+.",
+      "comment_workload": "Midterm and finals both consisted of only 4-5 problems, and usually half of them are very standard computations with many similar questions in the past papers, (e.g. inverse/implicit function theorem, or calculating some limit of integrals) so it is very easy to score around mean. Usually there will be 1 or 2 questions about proofs and those are the main deciding factor of whether you do well or not.<br /><br />The workload of the course is super light, since it is just assignments and two exams. However, if you want to do well, then you might have to put in a lot more time depending on how comfortable you are with proofs.<br /><br />If you have some mathematical maturity, you shouldn’t have any trouble with this course and it won’t take too much of your time (I only read the lecture notes to do the assignments and studied 1-2 days before the exams). If you’re confident in your math skills, want a challenge, and can put in a lot of time towards studying, you should try to take 3043 instead.<br /><br />However, if you struggled with 2033, then you will definitely have a hard time with this course if you want to do well.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 7,
+      "vote_count": 9,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "doAPMG4IqPT3MunuPZdlFBDkWeVuI2os",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 544,
+          "name": "LI, Kin Yin",
+          "rating": 1
+        },
+        {
+          "id": 1355,
+          "name": "DU, Xusheng",
+          "rating": 1
+        }
+      ],
+      "author": "calcguy",
+      "date": "Dec 21, 2019",
+      "title": "Exams by Hai Zhang....",
+      "comment_content": "Chapter 1: Vector-Valued Functions<br />* Continuity and differentiation facts about vector-valued functions;<br />* Usage of inverse and implicit function theorems.<br /><br />Chapter 2: Limit Inferior and Limit Superior.<br />Sequences and Series of Functions<br />* Facts on limsup and liminf of sequences in extended real numbers;<br />* Properties of pointwise and uniform convergence of sequences and series of functions. <br /><br />Chapter 3: Set Operations<br />* Union, intersection and complements of sets;<br />* Image and inverse image of functions on sets. <br /><br />Chapter 4: Lebesgue Measure and Integration<br />* Open, closed and compact subsets of real numbers;<br />* Measurable sets and measurable functions;<br />* Lebesgue measure on measurable sets and Lebesgue integral of measurable functions on<br />measurable sets ;<br />* Monotone convergence theorem (MCT) and Lebesgue dominated convergence theorem (LDCT).",
+      "comment_teaching": "Exactly the same as what other people commented. I won&#039;t elaborate too much about Kin LI&#039;s teaching here.",
+      "comment_grading": "- Before adjustment:<br />* 3 homeworks (10%)<br />* 2 presentation exercises (10%)<br />* 1 midterm exam (30%)<br />* 1 final exam (50%)<br /><br />- After adjustment (due to cancellation of classes):<br />* 2 homeworks (20%)<br />* 2 presentation exercises (10%)<br />* 1 midterm exam (50%) [MEAN ~ 49 , SD ~ 20]<br />* 1 final exam (20%) [MEAN ~ 36.5 , SD ~ 21.6]<br /><br />Comments:<br />1. Homework 1 consists of 5 problems (exactly the same throughout each term Kin Li is teaching), while homework 2 consists of 3 problems (not the same from previous terms). Feel free to see the problems and the solutions in the attachment.<br />2. Midterm exam is NOT entirely past paper analysis exam. If you revise and analyse past paper problems, you would obtain 50% of the exam.<br />3. Breakdown of midterm exam:<br />* Question 1: Differentiability and Continuity<br />(a) Proof a function is CONTINUOUS (not on past paper): 10 marks<br />(b) Proof a function is DIFFERENTIABLE (from past paper): 10 marks<br />* Question 2: Inverse Function Theorem (20 marks)<br />Just from past paper<br />* Question 3: Implicit Function Theorem (20 marks)<br />From midterm review.<br />(a) Given (a,b) is a solution to the equation f(x,y) = c, show that near (a,b), y can be expressed as differentiable function of x.<br />(b) Near (a,b), can x be expressed as differentiable function of y? Justify your answer.<br />* Question 4: Sequence and Series of Functions<br />(a) Expand f(x) = exp(...) using Taylor series (6 marks)<br />(b) Proof the series of function is uniformly convergent on [a,b] (8 marks)<br />Use M-test<br />(c) Prove integral from a to b of f(x) is ... (6 marks)<br />* Question 5: Limsup and Liminf (new problem)<br />(a) Proof using Cauchy-Schwarz, triangle inequality etc (8 marks)<br />(b) If limsup a_n = limsup b_n = 1, prove ... (12 marks)<br />4. Final exam is even harder in my opinion than the midterm exam. See the problems and its solution in the attachment. Problem 1 is from past paper again, but that&#039;s only problem that&#039;s similar to past paper :(. <br />5. The &quot;curve&quot; is combined from L1 and L2, since exam questions are the same.<br />6. My scores:<br />* Homework + presentation =&gt; full mark<br />* Midterm: 74 (1.25 SD above mean)<br />* Final: 77 (~1.85 SD above mean)<br />* Total = 82.4 (grade: A-)<br />I think people from L2 have better scores than L1 students. Note the mean is only for L1 section<br />* You tell by yourself whether it is good grade or not.",
+      "comment_workload": "Oh well... before midterm, the workload is quite light. Just complete 1 homework and 1 presentation exercise. Before the exam, make sure you read the transparencies well if you want to score high (there&#039;s some rumours that hai zhang was going to prepare the questions, turned out it was true), and not only the past papers.<br /><br />One week after midterm, classes were cancelled. After the adjustment, many people actually quite happy, since they can choose P/F for this course (knowing the mean is only 49). At first, Kin Li said P/F is not allowed. But luckily, he said P/F is allowed, but to get a P, we need to obtain 35% for the final exam. After few emails from other students, finally, Kin Li decides that a total score of 40% is enough to get a P; no need to take final exam if your current total score is already 40%.<br />So nice... thanks Kin Li.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 6,
+      "vote_count": 8,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "RZ3JqVQOMEl5Vxqv0rqTrrfZVihTKDyi",
+          "name": "3033hw2(2019)sol",
+          "format": "pdf"
+        },
+        {
+          "key": "Vwopwj80xtmgkKiw5zc8OXxBjv96W3MS",
+          "name": "3033hw1(2019Fall)sol",
+          "format": "pdf"
+        },
+        {
+          "key": "BTSPOcaq4AdT1byAct3SsnhFka4zRcbw",
+          "name": "MATH3033final",
+          "format": "pdf"
+        },
+        {
+          "key": "3H4MkxoQUcMyhiHQjdq8EGwdLORgwfOZ",
+          "name": "3033-final-grading scheme",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "QmbNWsHfPFoBY8CE3FbuRzIm3Z4dKjSF",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 544,
+          "name": "LI, Kin Yin",
+          "rating": 1
+        }
+      ],
+      "author": ":):):):)",
+      "date": "Jun 03, 2019",
+      "title": "Good grading~ Thank you Kin Li!",
+      "comment_content": "If you only aim for a B or below grade, and dun care about learning maths, then it could be a &#039;memorisation course&#039; for you. <br /><br />But treating it as &#039;memorisation course&#039; means that u are not knowing what is real analysis, or even more serious, u dunno math ._. Maybe u are only able to do computation stuff in all math courses? Then maybe you choose the wrong major...RIP to you.<br /><br />To learn better, you should not treat Maths as memorisation. Maths is about logic. Please use your logic to study all math courses...(with memorisation for doing some questions...). You will find this way help you appreciate what you are studying, as well as leading to a better grade. Then that means you are not choosing the wrong major, or at least find some meaning from your major! <br /><br />For the content of Real Analysis, please find other comments. <br /><br />My Comment: This is a nice and useful course, esp. Lebesgue measure... U can google how useful it is in real life! Math is not just a piece of art (yeah I enjoy it :D like viewing the good scene and good drawing...different type of beauty :] ) but also practical... :)&nbsp;&nbsp;If u want to go deeper properly u shd go 3043.",
+      "comment_teaching": "Kin Li is a good professor. If you have somethings that do not understands, u can talk to him. But the lecture is just reading contents in the lecture notes. (u dun hv to &quot;take attendance&quot;... not bad but not good. ) But sometimes he would have some elaboration more than the notes. I would say depends on whether u want to self-study or not. It can keep ur motivation for studying ge. For me, I prefer self-study everything in a short time.<br /><br />The notes are quite clear. It states the motivation for the topic, and then go into the definition, and finally some related theorems. The logic flow is clear...<br /><br />TO SOLVE PROBLEMS IN FINAL, u need to look for THE FINAL REVIEW to learn some tricks... since I think it is quite hard to think of them in the exam...maybe my problem. <br /><br />Although proof of the theorem is not required, the tricks used are useful to learn. NOT only for this course but other math areas.",
+      "comment_grading": "Mean: B- to C+<br />Half people C range.<br /><br />***********************************<br />GRADING REFERENCE<br />Hw: ~Full <br />Midterm: ~Full (mean 79)<br />Presentation: Full<br />Final: 60+ to 70+ (mean 33)<br />(A+ need much higher...)<br />=&gt; A<br />***********************************<br />COMMENT: <br /><br />MIDTERM<br />The midterm is easy. To get high score, you can use the strategy of &#039;memorisation of past paper&#039;. But to learn better, you should *also* use your logic to study it. It is used for giving scores to student s.t. he can fail fewer ppl. <br /><br />FINAL<br />Final is much harder. About ~25 to 30&nbsp;&nbsp;scores are relatively easy to get, which can use the strategy of &#039;memorisation of past paper&#039; as well. This is the mean score(33). And the remaining questions are harder to solve. It requires a clear mindset (on the topic, and higher score require concepts on general maths concepts like the definition of limit, differentiation, etc...dun forget them after u take the courses in a junior level like MATH1023, MATH1024, MATH2033 LOL... In fact, learning math is a continuous progress :D), creativity and *luck* (ME this time :D Maybe I am not strong enough so I need luck...I guess top students dun need luck? ) to solve. Therefore, if u dun think u are smart, better start learning it (dun just memorize my fd, this is math but not computational courses...math is a piece of art in logic :P) earlier, not before the exam. Otherwise, I think u can only get &lt;3x score at max. ? If u are smart, then ok u can ignore me. I dunno how smart u are so I dunno how to comment LOL. Usually, solving one more question other than the easy one can have A- grade(?). I can observe that Kin Li is trying to find some point from your answer book to give a score. So he is loosely grading the final exam. Thanks, Kin Li ;D...",
+      "comment_workload": "Light if you aim a B? <br /><br />...3 hw, 2 presentations, 1 midterm, 1 final. <br /><br /><br />*************************<br /><br />HW:<br />Spend one day each. I read through the lecture notes and they are similar to the examples in notes. <br /><br />MIDTERM: <br />I revise 2 days for midterm. If you only want to copy and paste, maybe 1 day is enough. <br /><br />FINAL: <br />And I start to learn Lebesgue measure (only coverage) 3 days intensively before the final...LOL... Not reli good hobby in fact. But I consider myself as a fast learner so that it is fine for me. Maybe few more days can lead me to A+... BTW I think the notes and review questions are very clear already...I didn&#039;t read other stuffs. Not sure if it is helpful to do more questions by urself?",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 6,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "vS2QbZtumprwcIcQ5Hyvx3KlMV0pQ0Hb",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 544,
+          "name": "LI, Kin Yin",
+          "rating": 1
+        }
+      ],
+      "author": "katrin",
+      "date": "Jan 31, 2019",
+      "title": "",
+      "comment_content": "I can only say all kin li&#039;s courses are memorising course. I don&#039;t know the content even after the exam. He sent out some sample questions for mid term and exam. The format are similar and you only need to &quot;copy&quot; those in your exam. Learn nothing but copy. As for the presentation, it takes average less than 1 mins per person. Read the steps only.",
+      "comment_teaching": "boring, very boring, almost directly read out the transparency only. You will never know what is teaching if you only learn from the instructor, but you can still get a &quot;not very bad&quot; grade",
+      "comment_grading": "comparing to other math course, this should be a &quot;good grade&quot; course, you can get around B-/C+ if you get a &quot;mean&quot; in total score",
+      "comment_workload": "2 homework, 2 presentation<br />all similar in these 20 years",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "qVIAikPwErMgb24sUQafQb013JN6r5Yy",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 544,
+          "name": "LI, Kin Yin",
+          "rating": 1
+        }
+      ],
+      "author": "Jackkkk",
+      "date": "Jan 22, 2019",
+      "title": "Work hard and get a good grade",
+      "comment_content": "vector-valued functions<br />sequence uniform convergence<br />Lebesgue measure &amp; integration<br />3 main parts of the course",
+      "comment_teaching": "Kin Li 好人 建議唔明去問佢<br />有lecture video<br />可以走堂",
+      "comment_grading": "考Midterm一定要記得溫 past paper<br />因為題目既類型係十分之相近<br /><br />基本上Midterm+hw 已經夠合格<br />之後就係靠自己既理解同埋勤力去補救<br />記住唔明就一定要去問Kin Li",
+      "comment_workload": "2份HW<br />midterm + exam<br />唔算大workload",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "txnSifS0BSvhpp9Lq7hXix8DQsiBaSVU",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 544,
+          "name": "LI, Kin Yin",
+          "rating": 1
+        }
+      ],
+      "author": "Roder_Y",
+      "date": "Jan 02, 2019",
+      "title": "Good Professor",
+      "comment_content": "The content is about three parts: vector-valued functions, sequence uniform convergence and Lebesgue measure &amp; integration.",
+      "comment_teaching": "Professor Kin Li is a well-known for his responsibility and patience. He responses to students&#039; emails and inquiries very quickly with adequate details.",
+      "comment_grading": "Midterm covers the first two parts and is conducted at the beginning of November. The final covers mostly the last part and contains more information compared with the midterm. You need to fully understand the theorems and properties and come up with the appropriate structure in order to solve the problem.<br />Grading scheme: 10% HW+ 10% Tutorial Presentation+30% Midterm+50% Final. &lt;40% will fail the course.<br />The mean for midterm is 74.11/100 and final 41.91/100. The total mean is 61.47/100.",
+      "comment_workload": "The workload is moderate. Throughout the whole semester, there are only two assignments. And all you need to do except for finishing the assignment is to fully understand the course material. More exercises are recommended.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "giFD5fbH6CB0VUUzVU9Nl5PqcCFUPzYN",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 544,
+          "name": "LI, Kin Yin",
+          "rating": 1
+        }
+      ],
+      "author": "cshime",
+      "date": "Dec 26, 2018",
+      "title": "Midterm good = heaven, midterm bad = hell",
+      "comment_content": "Before midterm:<br />1. Vector-valued functions: check differentiability<br />2. Implicit and inverse function theorem<br />3. Uniform convergence<br />4. limit of supremum and infimum<br /><br />After midterm:<br />1. measurable sets and functions<br />2. lebesgue integrable<br />3. LDCT and MCT<br /><br />Topics after midterm are much more difficult than the topics before midterm. Be careful in midterm so that you will not be suffered in your final revision.",
+      "comment_teaching": "Not much difference to MATH2033, so I am not going to go through the details. We all know Dr Kin Li is a very good instructor. He asked people what kind of questions they want in the midterm and final review section. Remember to attend so that you can get well prepared with the exams.",
+      "comment_grading": "Similar to MATH 2033. Get an overall mean score will attain B-/C+. You will receive a good grade if you are above mean. Here are some statistics for the exams.<br /><br />Midterm (30%)<br />mean : 71.56<br />sd : 18.45<br /><br />Final (50%)<br />mean : 37.49<br />sd : 16.47<br /><br />As we can see that most of the people cannot complete the last 3 tough questions on the final exam, if you get good score in the midterm, it will be really easy for you to get good grade. <br /><br />I got almost full mark on the midterm and only 2X in the final, I still got a B. Therefore, it is VERY IMPORTANT to analyze the midterm questions well.",
+      "comment_workload": "2 homeworks<br />2 presentations<br />1 midterm and 1 final<br /><br />Workload depends on your midterm score.<br />If you are good in midterm, you will only need to complete 2 questions to get B range in final exam, then, your workload will be really light because you just need to revise the past papers to complete the midterm questions and first 2 questions in final.<br />If you are bad in midterm, then you will need to spend much more extra time in understanding the concepts of lebesgue measure and integrables. Then, your workload will be much more heavier because you need to have full understanding to complete the last 3 tough questions in the final exam.<br /><br />Therefore, I will summarize the whole course as the title stated.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 2,
+      "attachments": []
+    },
+    {
+      "hash": "3sA8mf1HtpqFkShakhzAPAFWlhpYf8Bf",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 544,
+          "name": "LI, Kin Yin",
+          "rating": 1
+        }
+      ],
+      "author": "數學研究生",
+      "date": "Dec 26, 2018",
+      "title": "Abstract Pure Math Course",
+      "comment_content": "The content focuses on the multivariate limits, differentiability, inverse function theorem, implicit function theorem, M test, and test for convergence, e.g. comparison test, ratio test, root test, etc. New thing like uniform convergence for functions or series, sup and inf of limit, <br /><br />the above content will be covered for the midterm exam.<br /><br />Measurable, functions, sets, measure zero, lesbuge measure, lesbuge integrable, LDCT, MCT will be covered in the final exam.",
+      "comment_teaching": "Professor uses powerpoint and written transparencies to teach, similar to MATH 2033, normally most of the students attend the first lesson, and then fewer and fewer will attend, as the exam styles and format can be memorized.",
+      "comment_grading": "Similar to MATH 3033, but some of the statistics can be provided.<br /><br />Homework assignment(:<br />Mean: 80.58<br /><br />Presentation:<br />Mean:2.895<br /><br />Midterm Exam:<br />Mean: 71.02<br /><br />Final Exam:<br />Mean: 37.79, sd: 16.47; lowest: &lt;10, highest: &gt;90<br /><br />Normally, mean should be B-/C+",
+      "comment_workload": "Quite good, 2 assignments, it should be 3, but one of them was cancelled. One midterm exam, 4 questions, same types as the past papers, 5 questions in final exam, like the other comments, 3 of them will be used to test your brain.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 2,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "VexkkWFmboSffQ7nibQA6Gncuvi4TXFE",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 544,
+          "name": "LI, Kin Yin",
+          "rating": 1
+        },
+        {
+          "id": 1060,
+          "name": "MAK, Hugo Wai Leung",
+          "rating": 1
+        }
+      ],
+      "author": "billy1996",
+      "date": "Dec 24, 2017",
+      "title": "",
+      "comment_content": "1. vector valued function<br />有d 2023野 比較straightforward<br />記得翻去溫2023 partial differentiation etc.<br /><br />differentiability, inverse function, implicit function (midterm 必考) <br />inverse function, implicit function (final 必考)<br /><br />2. limsup liminf<br />最好明d proof, midterm有條係limsup liminf , 要用M_k or m_k, 明左會容易做d (midterm必考)<br /><br />3. point-wise converge and uniform converge<br />記得溫m test同Adel limit theorem (midterm必考)<br /><br />4. set operation<br />5. measurable set<br />6. measurable function<br />7. lebesgue integration<br /><br />8. LDCT and MCT<br />記得溫！(final 必考)",
+      "comment_teaching": "Kin Li 都係照transparency讀。<br />好好人，有唔識可以搵kin li 好肯慢慢教。<br />走堂都ok，因為有lecture video。<br /><br /><br />tutorial係重點，識reg一定reg Hugo。<br />Hugo真心教得非常好，講得好清晰。",
+      "comment_grading": "10% homework<br />10% present<br />30% midterm<br />50% final<br /><br />正常midterm係送ge，比人叫past paper analysis，記得溫pp，有溫書一定高分。<br />我自己midterm衰白癡，搞到below mean好多<br />final好彩比我追到B<br /><br />homework同present唔識可以搵kin li or tutor<br />基本上homework present 同midterm唔會有太大問題<br />final 5條，頭兩條係inverse(or implicit) function theorem同MCT(or LDCT)，送分ge，又溫書應該問題唔大。<br />Q3,4,5坦白講係考IQ ge，隨緣啦，寫下theorem，博一博。",
+      "comment_workload": "兩份功課，唔算多，不過幾考用腦。<br />midterm 記得溫PP is ok<br />final 我溫左頭兩條就算",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "q0GNHpWNoQroHjrxuDnRDbPd4ujIvRQP",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 1060,
+          "name": "MAK, Hugo Wai Leung",
+          "rating": 1
+        },
+        {
+          "id": 544,
+          "name": "LI, Kin Yin",
+          "rating": 1
+        }
+      ],
+      "author": "math",
+      "date": "Dec 22, 2017",
+      "title": "",
+      "comment_content": "Typical Analysis topics.&nbsp;&nbsp;<br />First half of the semester too easy and standard<br />After midterm starts to be more difficult",
+      "comment_teaching": "Hugo teaches very well.&nbsp;&nbsp;Going to his tutorial is good enough for this course, but need to do a lot of problems provided by him. Remember to attend his tutorial, he recognizes people&#039;s face and names.<br /><br />Lecture: Notes can be downloaded from Kin Li&#039;s website.&nbsp;&nbsp;Lecture videos are provided.",
+      "comment_grading": "Midterm mean around 74/100<br />Final mean around 37/100<br />Overall mean should be around 58/100.<br /><br />Mean grade is B-.<br />Above mean 1 SD B+ or A-.",
+      "comment_workload": "Very relaxed.&nbsp;&nbsp;2 assignments, 2 presentations, 1 midterm, 1 Final.<br /><br />No extra workload, except exercises from Hugo.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "3bKAU8d79KqWXZ1LhXv1OFelP34TcUUG",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 544,
+          "name": "LI, Kin Yin",
+          "rating": 1
+        },
+        {
+          "id": 1060,
+          "name": "MAK, Hugo Wai Leung",
+          "rating": 1
+        }
+      ],
+      "author": "Eggtart",
+      "date": "Dec 22, 2017",
+      "title": "",
+      "comment_content": "midterm前都係操pp，但midterm後淨係focus喺Lebesgue integration，唔似2033嗰陣要背一堆唔知邊度用到嘅theorems同definition（可能係嗰時太蠢唔知做緊咩，死背晒TAT），所以某種意義上3033好似輕鬆d~",
+      "comment_teaching": "Kin Li講解得好清楚，同埋今個sem多咗上office問佢野，一如傳說中嘅好有耐性好nice&lt;3<br />只係把聲真係幾催眠…（睇lecture video先發現，原來開2倍速都好清楚，係正常速度）<br />TA都幾好人同埋好肯答問題，tutorial教得好好，聽完go through返d題目已經夠做",
+      "comment_grading": "Not bad:)",
+      "comment_workload": "2份Homework<br />2次present<br />係溫midterm final花多d時間啫~",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "KkrJcQVkQOgyAeYLR7f4FVvDSkSNd2eC",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 544,
+          "name": "LI, Kin Yin",
+          "rating": 1
+        },
+        {
+          "id": 726,
+          "name": "CHU, Kwun Lun",
+          "rating": 1
+        }
+      ],
+      "author": "grqm",
+      "date": "Dec 20, 2017",
+      "title": "",
+      "comment_content": "1. functions of several variables (differentiability, implicit &amp; inverse function theorems)<br />2. uniform convergence <br />3. measure theory, Lebesgue integral<br /><br />The third part is very abstract and extremely hard. There was simply not enough time for us to really grasp this part (hence the very low mean 3x/100 in final). Very few exercises and examples on these topics.",
+      "comment_teaching": "Handwritten notes. Quite concise and to the point.",
+      "comment_grading": "10% homework (x2)<br />10% presentation (x2)<br />30% midterm<br />50% final<br /><br />I got slightly above mean in both midterm and final (0.5 sd) and got a B",
+      "comment_workload": "Not really that much, but as an analysis course the content itself is decidedly difficult, meaning one needs more effort than other maths courses",
+      "rating_content": 2,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "yo5yNaVvQOiKo56YTvIBnl52uc8Kn84j",
+      "semester": "2013-14 Fall",
+      "instructors": [
+        {
+          "id": 544,
+          "name": "LI, Kin Yin",
+          "rating": 1
+        }
+      ],
+      "author": "Christian",
+      "date": "Aug 21, 2017",
+      "title": "Good",
+      "comment_content": "Quite hard... This is due to the math curriculum problem.",
+      "comment_teaching": "Ok la... he is quite caring. Just simply ask him in office hours and he will be very kind to teach you anything. He will always answer students answer through email if you are polite. Quite a nice teacher but sometimes quite boring...xd",
+      "comment_grading": "Good! The mean is around B-, No bad grades if you can finish all the assignments, summit on time and then finish the first 2 easy questions in exam",
+      "comment_workload": "Very good with only few questions for 1 sem, spared time to study.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "uyq0ymm6Mpd96Fh2LbqFExsG4POteByY",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 544,
+          "name": "LI, Kin Yin",
+          "rating": 1
+        }
+      ],
+      "author": "Kingsman",
+      "date": "Aug 16, 2017",
+      "title": "jeng",
+      "comment_content": "Functions of several variables, implicit and inverse function theorem, uniform convergence measure and integral on the real line.",
+      "comment_teaching": "Quite good. Although I skipped lesson most of the time, I still think Prof. Kin Li is a good lecturer. His &quot;teaching speed&quot; is adequate. He is good at teaching student abstract mathematical concept.",
+      "comment_grading": "Quite fair and systematic. He will show the approximated percentage of students within each range of grade. Final mean 30~/100, I get 49/100 and finally get the grade A-.",
+      "comment_workload": "Two assignments and one optional homework. Two easy presentation in the tutorial class.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "qLa2TR8rwG3qRAXO3vOYO7svkWDNRlhI",
+      "semester": "2014-15 Fall",
+      "instructors": [
+        {
+          "id": 544,
+          "name": "LI, Kin Yin",
+          "rating": 1
+        }
+      ],
+      "author": "Alex",
+      "date": "Apr 03, 2017",
+      "title": "",
+      "comment_content": "Inverse function theorem <br />Implicit function theorem <br />Uniform Convergence<br />Lebesgue Measure &amp; Integration <br />open, closed or compact sets<br />LDCT<br />Simple function",
+      "comment_teaching": "The notes is clearly written and large amount of example is given.<br />The lecture is quite boring.<br />Presentations are not helpful on learning.<br />Prof. Kin Li is very patient in answering questions.",
+      "comment_grading": "10% hw<br />10% present<br />30% midterm<br />50% final<br />The homework, presentation and midterm are very standard, almost everyone gets very high mark. The grading dependents only on final exam. There were 2 standard question and 3 harder IQ question in the final exam.<br />Final exam: Mean=32.61&nbsp;&nbsp;SD=12.82&nbsp;&nbsp;High&gt;80&nbsp;&nbsp;Low&lt;15",
+      "comment_workload": "The workload is not heavy.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "s43yMDYw0YcdTEj1D5A4iZx3m5YQeYrh",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 544,
+          "name": "LI, Kin Yin",
+          "rating": 1
+        }
+      ],
+      "author": "ok",
+      "date": "Jan 05, 2017",
+      "title": "",
+      "comment_content": "1. Vector-Valued Functions:<br /><br />2. Uniform Convergence:<br /><br />3. Lebesgue Measure &amp; Integration:",
+      "comment_teaching": "Kin Li is a good professor. He is patient in answering your question.",
+      "comment_grading": "10% hw<br />10% present<br />30% midterm<br />50% final<br /><br />homework, presents and midterm are very important because most students score high. The questions in mid-term are similar to the past aper, which are provided by professor. The final is difficult so the overall marks of the course relies heavily on the former 50%. <br />mid-term: mean: 81 sd 18<br />final: mean:36.32 sd:13.57 highest:82 lowest:&lt;80",
+      "comment_workload": "the workload is small.<br />3hw (only count the best two homework)<br />2presentations in tutorial",
+      "rating_content": 3,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "A2KSWe4SHevTl2tVx7PNUfOabuzMclUo",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 544,
+          "name": "LI, Kin Yin",
+          "rating": 1
+        }
+      ],
+      "author": "iamhandsomeboy",
+      "date": "Dec 20, 2016",
+      "title": "其實我咩都唔識",
+      "comment_content": "1. Vector-Valued Functions:<br />大致都係prove 下differentiability同埋做下inverse/implicit function theorem, 只要肯背, 其實唔難<br /><br />2. Uniform Convergence:<br />小小tricky la, 首先要記左sin cos e^x 呢d ge form先有得做架, 我諗如果前面math1014你個底打得好可以自己砌<br />利申: 我係學渣 我背的<br /><br />3. Lebesgue Measure &amp; Integration:<br />到呢個topic開始其實我走左堂架啦, 大約係講Measurable set 同Measurable function ge野, 基本上就係final 第3題打後d concepts野（呢part基本上無點睇 因為真係唔明 同埋呢個sem final比較密無時間睇）<br />最後就係教MCT, LDCT去計個integral, 但其實有d似Uniform Convergence做法, 又係將個intergral sign調黎調去<br />係final第2題ge做法<br />利申： 我係學渣 我背的",
+      "comment_teaching": "上完MATH2033既你自己諗下啦:o) <br />呢part唔洗多講",
+      "comment_grading": "個grade幾好呀 靠mt搵食拎左個B<br /><br />但今年有d怪 個mt好似比以前難左架 mean得81 sd18<br />令到midterm 99分既我表示final below mean都有B :o)<br /><br />Final我得32/100 -.-&nbsp;&nbsp;mean係36.xx sd係13.xx <br />Check卷後見到 我頭2題full mark 但係後面3題亂寫得2分 :o)<br /><br />overall 66%到 咁就有B <br />我呢個case證明左mt高分係有幾重要!!!!!!!!<br />利申：真。學渣 &amp; 我係呢個course乜都唔識",
+      "comment_workload": "Workload輕鬆:<br /><br />HW: 有3份hw 但係計最高2份<br />基本上頭2份比較易 我滿分左<br />所以我第3份就無做<br /><br />Present: 肯去prep下就一定有full mark, 唔識就去搵kin li啦!!!!<br /><br />祝大家拎到靚grade :)",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 7,
+      "vote_count": 7,
+      "comment_count": 4,
+      "attachments": []
+    },
+    {
+      "hash": "map2xSUOoDz6Pv0BIhjiPBTAARfBFBxY",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 544,
+          "name": "LI, Kin Yin",
+          "rating": 1
+        }
+      ],
+      "author": "Aoi",
+      "date": "Dec 18, 2016",
+      "title": "",
+      "comment_content": "Before Midterm:<br />Vector-valued Functions<br />Limit Superior and Limit Inferior<br />Sequences and Series of Functions<br /><br />After Midterm:<br />Set Operations<br />Open, Closed and Compact Sets<br />Lebesgue Measure and Integration<br /><br />Midterm後難度幾何式增長，Lebesgue Integration完全唔知發生咩事，自求多福。",
+      "comment_teaching": "Kin Li教得唔算特別好又唔會好差，都係照讀transparencies。如果跟住聽佢講應該都會明，但係自己成日頂唔順瞓咗（笑）。<br />Homeworks或者Presentation Exercises有唔識都可以隨時揾佢，就算唔係office hour佢都會開住道門俾人入去問，咁既professor我淨係遇到Kin Li一個。",
+      "comment_grading": "10% Homework<br />10% Presentation<br />30% Midterm<br />50% Final Exam<br /><br />Kin LI既course一般都係midterm出淺啲俾大家攞定40%，跟住final分高下。不過final 5題數入面會有2題係送分，佢喺上堂嗰陣問大家想要咩題型然後就會係第1題，第2題都係操past paper就會識，後面3題就……（利申：淨係做咗頭2題30分然後走人。）<br />Midterm mean = 81/100, SD = 18.<br />Final mean = 36.42/100, SD = 13.57.<br />Overall mean = 63.89/100, SD = 8.42.<br />below mean 2分→B-",
+      "comment_workload": "3份功課揀2份最高既。<br />2次present，1至3人一組。<br />Midterm 11月頭Week 10左右先考完全唔會撞其他科，淨係做past paper已經可以應付到（某種意義上係背咗format然後默翻出嚟）。<br />除非話aim A range啦，final一開始就諗住入去做2題然後出翻嚟，所以用兩三日就溫完。",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "bKwUP6S7udk8d41LMUMEyZommddZwJ35",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 544,
+          "name": "LI, Kin Yin",
+          "rating": 1
+        }
+      ],
+      "author": "chrisppro",
+      "date": "Dec 18, 2016",
+      "title": "Hard Final Exam",
+      "comment_content": "1. Vector-Valued Functions:<br />It is relatively easy compared to other 2 parts. You just need to memorize 1) how to prove differentiability of vector-valued functions and 2) inverse / implicit function theorem<br /><br />2. Uniform Convergence:<br />The concept itself is quite hard to grasp at first, since it can be quite tricky to differentiate uniform and pointwise convergence at first. But, once you grasp the concept, you just have to memorize theorems such as M-Test and it won&#039;t be quite hard to deal with exam problems.<br /><br />3. Lebesgue Measure &amp; Integration (BOSS DIFFICULTY):<br />This is probably the most challenging concept I had to deal with in my entire academic history. There are many theorems and properties you have to memorize, and it&#039;s really hard to grasp the concept of &quot;measure&quot; (since it is really abstract) and Lebesgue integration. The finals are basically a test on this part, so... yeah. Good luck with this (you will need it).",
+      "comment_teaching": "Kin Li is really great at explaining the content, despite the fact that the concepts are really hard for the students to grasp. In that sense, his teaching skills are great. He understands the intellectual level of most students in the class, and tries to teach the course from that point of view.",
+      "comment_grading": "Grading, like most other math courses, is very strict and unforgiving. Don&#039;t expect a good grade on this course if you have even just a little doubt on your performance on the tests. Midterm and homeworks are quite easy while final is really really hard. In fact, since it&#039;s too hard, the score distribution is concentrated around the mean, so if you get just a little more score than the mean, you will get a much better score.",
+      "comment_workload": "There is not much work to do, except for 2 homeworks (and one more optional), and two presentations (which is just explaining the solution to just one problem in tutorial session). Midterm is easy to prepare for, but final is too hard to prepare.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 2,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "KP6iBszyvas49ZdfYJMa2O4LYY3zrvH7",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 544,
+          "name": "LI, Kin Yin",
+          "rating": 1
+        }
+      ],
+      "author": "John",
+      "date": "Dec 30, 2015",
+      "title": "Not Recommended",
+      "comment_content": "1. Vector-valued functions: limit, differentiation, inverse function theorem, implicit function theorem<br />The following is not related to vector-valued functions, i.e. only single variable functions are discussed.<br />2. Sequences and series of functions: limit superior/inferior, pointwise convergence, taylor series, uniform convergence (continuity/integration/differentiation theorem, L-Test, Weierstrass M-Test, Dini&#039;s Theorem, Abel&#039;s Limit Theorem)<br />Emphasis is put on uniform convergence.<br />3. Set operations, images and inverse images<br />Content of this part is short, but quite important for later studies.<br />4. Lebesgue measure and integration on the real line: 5 steps: study of sets; measurable sets; measurable functions; Lebesgue integral and its properties; convergence theorems<br />The hardest part of this course. I find measurable sets and measurable functions quite hard to deal with.<br />Note that in this course you are not required to understand the proofs of the theorems but to apply the theorems.",
+      "comment_teaching": "Kin Li is good at teaching and patient at answering questions.<br />I find it quite funny that he prepares a hard final exam and a strict grading scheme to kill us, while he tries out his way to save us by teaching as much as possible to handle the final exam.<br />Though the notes are clear and complete, it is better to go for class to catch up with the progress.<br />Henry is an excellent TA for his delivery and well-prepared notes.",
+      "comment_grading": "Homework: 10%<br />Tutorial Presentations: 10%<br />Midterm: 30%<br />Final: 50%<br /><br />Fail: 40% or less of overall grade (&quot;Midterm is for you to pass this course.&quot; said Kin Li.)<br /><br />A range: 15%<br />B range: 25%<br />C range: 45%<br />D, F range: 15%<br />This semester A, B, C ranges are all broader (don&#039;t know why).",
+      "comment_workload": "3 pieces of homework. Relatively easy as long as you understand the content.<br />2 or 3 presentations throughout the semester. Some problems are hard, but you can seek help from TA or the professor.<br />Midterm is just some homework/presentation type problems. Practise more and memorise the taylor series of sine, cosine, e^x, ln(1+x), arctan(x).<br />For final, do go to the review session (the last class) for some ideas on the problem types (the last 2 or 3 problems are usually difficult). Read past papers that Kin Li sends. And good luck.<br />Attached are corrections on the notes, one supplement, and midterm/final reviews.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 18,
+      "vote_count": 21,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "7Nzlj5nu80clBS7h4NVhzvuDGXQqPwzU",
+          "name": "Correction on p6",
+          "format": "pdf"
+        },
+        {
+          "key": "mGG0IZxV78t8DuigsifQoohHqZ29EcFl",
+          "name": "Correction on p48",
+          "format": "pdf"
+        },
+        {
+          "key": "lBbmti5xW1m3cWgwrQvTPUUq84GzHPiP",
+          "name": "p86A",
+          "format": "pdf"
+        },
+        {
+          "key": "EfKlwehizV8pv24Vxy577b5FA1mEgPJv",
+          "name": "MidtermReview",
+          "format": "pdf"
+        },
+        {
+          "key": "yhJdR1X0DG7osqAXUEf7Txct8TOJP5MD",
+          "name": "2014FinalReview1",
+          "format": "pdf"
+        },
+        {
+          "key": "F8cW9fTvjby37OHpNBZYXCD2VhhRhUiV",
+          "name": "2014FinalReview2",
+          "format": "pdf"
+        },
+        {
+          "key": "1N17THQPJd9DmdMogXp0z4NrR2PeSnSo",
+          "name": "2014FinalReview3",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "eEBYjfXxhqAVwjY3bY22mMdohAofR380",
+      "semester": "2014-15 Fall",
+      "instructors": [
+        {
+          "id": 544,
+          "name": "LI, Kin Yin",
+          "rating": 1
+        }
+      ],
+      "author": "Aloha",
+      "date": "Aug 22, 2015",
+      "title": "What a Wonderful world",
+      "comment_content": "Vector-valued Functions, Limit Superior and Limit Inferior, Sequences and Series of Functions, Set Operations, Lebesgue Measure and Integration.<br />最難嘅部份係lebesgue measure 比較抽象",
+      "comment_teaching": "教得有啲悶 上唔上堂冇乜關係 note啲野頗齊全<br />TA 印象中好似有啲痴脷筋 所以唔係太得閒嘅話唔建議上",
+      "comment_grading": "Homework 10%, presentation 10%, midterm 30%, final 50%<br />overall踩mean 拎C+",
+      "comment_workload": "Homework 一共三份 頭兩份唔太難 第三份有一定難度 (我認我廢)<br />有啲題目係出自passpaper&nbsp;&nbsp;通常呢啲會易少少<br />Presentation 1個sem兩次 純粹係比兩三條題目你去present個solution<br />題目難度則取決於閣下的運氣<br />Midterm 好淺 會講明出咩題目 記熟解法就得<br />Final 好難 祝君好運",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

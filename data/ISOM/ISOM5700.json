@@ -1,0 +1,88 @@
+{
+  "course": {
+    "id": 1764,
+    "subject": "ISOM",
+    "code": "5700",
+    "name": "Operations Management",
+    "description": "Introduction to management of business processes that produce goods or services: topics include operations strategy, process analysis, queuing systems, inventory management, quality management, process improvement and other important issues.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2330,
+      2310,
+      2230,
+      2210,
+      2130,
+      2110,
+      2030,
+      2010,
+      1930,
+      1910,
+      1830,
+      1810,
+      1730,
+      1710,
+      1630,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"IEDA\" data-code=\"5170\" href=\"/review/IEDA5170\" target=\"_blank\">IEDA 5170</a>, IMBA 5110",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 3,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 382,
+        "name": "GURUMURTHI, Suri",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "bLlOgeUTk1kypjqlbqp8UZczWUjdmFYd",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 382,
+          "name": "GURUMURTHI, Suri",
+          "rating": 1
+        }
+      ],
+      "author": "Kira0612",
+      "date": "Dec 17, 2021",
+      "title": "",
+      "comment_content": "Mainly about supply chain, revenue analysis, demand forecast, queue theory, capacity theory, quality control, etc.",
+      "comment_teaching": "Suri is good at teaching. This course may involve many spreadsheet analysis, and doesn&#039;t have text books. His Powerpoint and spreadsheets are important for you to pass the final exam.",
+      "comment_grading": "Group project on Littlefiled simulation (simulation cash balance ranking and report): 24.7/25<br />Homework: 15/15<br />Participation: not sure, but may be 7/10 or 8/10<br />Final: 45/50<br />Final grade is A.",
+      "comment_workload": "He has spreadsheet or case analysis homework every week, which may cost about 2-3 hours to finish. Also, the course contains a two-week simulation, so the workload is a bit heavy.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

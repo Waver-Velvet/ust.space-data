@@ -1,0 +1,402 @@
+{
+  "course": {
+    "id": 593,
+    "subject": "HUMA",
+    "code": "3030",
+    "name": "Language, Communication and Culture",
+    "description": "This course explores human language in relation to the communicative functions which it serves and the cultural context in which it is used. Issues such as how human language is distinct from other communication systems, how language is used to convey different meanings and how culture affects the use of language will be examined in order to highlight the uniqueness of human language.",
+    "categories": [
+      "Common Core (H)"
+    ],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2110,
+      2030,
+      1930,
+      1830,
+      1730,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1401\" href=\"/review/LANG1401\" target=\"_blank\">LANG 1401</a> OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1402\" href=\"/review/LANG1402\" target=\"_blank\">LANG 1402</a> OR LANG 1403 OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1404\" href=\"/review/LANG1404\" target=\"_blank\">LANG 1404</a> OR LANG 1002 (prior to 2022-23)",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"CORE\" data-code=\"3501\" href=\"/review/CORE3501\" target=\"_blank\">CORE 3501</a>",
+    "rating_content": 4.44,
+    "rating_teaching": 4.44,
+    "rating_grading": 4.67,
+    "rating_workload": 4.22,
+    "review_count": 9,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 309,
+        "name": "ZHANG, Min",
+        "count": 4
+      },
+      {
+        "id": 290,
+        "name": "YIU, Yuk Man Carine",
+        "count": 3
+      },
+      {
+        "id": 1194,
+        "name": "LI, Dechao",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "j3Ll0qfv8osYmrdOcEXa6f6RiwrlRrTl",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 1194,
+          "name": "LI, Dechao",
+          "rating": 1
+        }
+      ],
+      "author": "foreverA0",
+      "date": "Feb 04, 2021",
+      "title": "Good Grade Common Core",
+      "comment_content": "1.Phonetics<br />2.Phonology<br />3.Morphology<br />4.Morphological processes<br />5.Semantics,<br />i)Word class<br />ii)Syntactic category<br />iii)sentence analysis<br />6.Pragmatics:<br />i) Cooperative principle<br />ii) Speech act theory (Searle&#039;s and Austin&#039;s)<br />iii) Politeness principle<br />iv) Making sense<br />7.Deixis",
+      "comment_teaching": "Very good. Dr. Li explained the ppt well and it&#039;s comfortable to follow his pace. Probably you could watch back his lecture video with 2x speed XD.",
+      "comment_grading": "The grading is very good!!!<br /><br />2 assignments, 12.5% each<br />2 quizzes 12.5% each<br />1 final 45%<br />attendance 5%<br /><br />Final Grade: A+<br />P.S. non-SHSS student",
+      "comment_workload": "Fair. 2 assignments, 2 quizzes, and 1 final exam. It gave you sufficient time to finish the assignments, but the time given in quizzes and exams were a bit tight. Make sure you don&#039;t screw up in the long questions :)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "aWrpzEz6HoDoO2Dy4ZlQ69dCvkU3ApdL",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 1194,
+          "name": "LI, Dechao",
+          "rating": 1
+        }
+      ],
+      "author": "cabbi",
+      "date": "Jun 05, 2020",
+      "title": "introduction to linguistics: enjoyable course if you like languages",
+      "comment_content": "1.Phonetics<br />2.Phonology<br />3.Morphology<br />4.Morphological processes<br />5.Semantics, <br />i)Word class<br />ii)Syntactic category<br />iii)sentence analysis<br />6.Pragmatics:<br />i) Cooperative principle<br />ii) Speech act theory (Searle&#039;s and Austin&#039;s)<br />iii) Politeness principle<br />iv) Making sense<br />7.Deixis<br /><br />Pragmatics part focuses on contexts and has many intriguing examples (misunderstanding due to ambiguity, cultural interpretation of languages, implicatures&quot;the bottomline of speeches&quot; ). Phonetcis part covers places and manner of articulation and analysis of consonants and vowels.",
+      "comment_teaching": "The instructor teaches at a comfortable pace.<br />He explains the ideas clearly with adequate examples and case studies (sometimes also uses language phenomena in other languages).<br /><br />The teacher and the TA are very helpful and willing to answer questions both in class and after class.<br /><br />Some active students also raise interesting questions in class and such discussions promotes better understanding of the content.",
+      "comment_grading": "2 assignments, 12.5% each<br />2 quizzes 12.5% each<br />1 final 45%<br />attendance 5%<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mean/Full mark/High<br />Quiz1&nbsp;&nbsp;&nbsp;89.1/109/109<br />Quiz 2.&nbsp;&nbsp;86.5/107/104&nbsp;&nbsp;<br />HW2.&nbsp;&nbsp;&nbsp;86.6/100/100<br />Final&nbsp;&nbsp;&nbsp;116.6/150/145",
+      "comment_workload": "It is easy to catch up with Doctor Li during the lectures even without preview.<br /><br />Quizzes are similar to case studies and practice questions in class. Going over the slides is enough to help prepare for the quiz. No additional reading materials are required for the course.<br /><br />The two assignments are interesting. The first one is to choose a novel and find example of pragmatic strategies in the book. The second is to analye and create advertisment using pragmatics strategies.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "XpXTf0ezJQyQC4fvw0TmNAnFPF74RpWe",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 309,
+          "name": "ZHANG, Min",
+          "rating": 1
+        }
+      ],
+      "author": "燃燒中的GPA",
+      "date": "Jan 20, 2019",
+      "title": "Interesting course with nice professor, good grade and moderate workload",
+      "comment_content": "雖然係3000-level course, 但讀既野唔係真係咁難<br /><br />10 Modules:<br /><br />1. Introduction<br />2. The Meaning of Meaning<br />3. Cooperative Principle and Conversational Implicature<br />4. Advanced Topics on Entailment, Presupposition, and Implicature<br />5. Interim Topic 1: Language Tricks – Case Studies<br />6. Interim Topic 2: Language as a Complex Communication System: Its Design Features &amp; Uniqueness<br />7. Speech Acts: How to Do Things with Words<br />8. Speech Act: Advanced Topics<br />9. Indirect Speech Act<br />10. Linguistic Politeness<br /><br />呢個course主要研究human language既特點, 例如簡單一句 &quot;It&#039;s raining outside!&quot; 可以有幾多種意思?可以係佢字面意思(literal meaning): 出面落緊雨, 仲可以有無限多既隱含意思(implicit meanings), 例如有個主人同個客人咁樣講, 佢可以係暗示客人留多陣先走, 又或者叫客人快D返屋企<br /><br />上半部分 (Modules 2-4) 屬於語義學(Semantics), 主要講3種implicit meanings: entailment, presupposition同implicature (會涉及少量logic, 但無logic底都唔洗驚, 做下exercises就會明), 同埋cooperative principle (Grice&#039;s Maxims)<br /><br />中間有2個interim topics (Modules 5-6), 一個分析廣告同笑話既language use (assignment就係做類似既野), 另一個比較human language同animal language/machine language既特點<br /><br />下半部分 (Modules 7-10) 屬於語用學(Pragmatics), 主要講speech acts, 即係用說話黎做事, 例如promising, apologizing, 研究唔同speech acts有咩felicity conditions, 例如點解 &quot;I&#039;ll give you an A+&quot; 係有效既promise, 但 &quot;I&#039;ll give you an F&quot; 只可以係threat而唔可以作為一種promise, 又例如點解 &quot;I&#039;ll be back&quot; 唔可以作為一種apology, 最後會講politeness principles (Leech&#039;s Politeness Principles)<br /><br />總括黎講, 成個course內容幾有趣同生活化, 同埋都會學到唔少文化知識, 例如西方人去完人地屋企開party之後會多謝主人家既款待, 但日本人會道歉 (&quot;打攪晒&quot;), 又例如唔同國家既人受人讚賞既時候會有唔同既回應, 包括: thanking (&quot;多謝&quot;), questioning (&quot;係咩?&quot;), denial (&quot;邊度係呀&quot;), etc.<br /><br />P.S. 如果你讀HUMA3030之前讀過HUMA2010 (好似我咁), 有部分內容你應該學過 (entailment, metaphor, metonymy), 會輕鬆少少",
+      "comment_teaching": "Prof.英文易明, 專心上堂好易跟到, 而且prof. 好用心教, quiz/final exam之前會upload份mock quiz/mock final exam等你知道點考, quiz完之後會upload份好詳細既solution, 甚至連take attendance既題目都upload埋solution, 咁有心既prof.真係幾少見",
+      "comment_grading": "透明度雖然低, 但靚grade (唔似得某D LANG center開埋晒D垃圾course又無內容又唔出分又爛grade)<br /><br />Attendance (10%): add/drop period後prof. 上堂之前會擺低幾十張attendance slips, 每人攞一張, 寫名+答一條簡單問題(答啱答錯都無關係), 落堂交, 唔係堂堂有, random既, 一共10次, 每次1%<br /><br />Quiz (20%): 堂上做(Week 8), 30 mins, 34 points<br />Coverage: Modules 1-4<br />Format: MC, Filling in Blanks, Truth Table Construction (同mock quiz一樣)<br />Statistics: Max. 34, Mean 25, SD 6.83<br /><br />Assignment (20%): 搵廣告/笑話例子, 分析一下佢地點樣用堂上講既concept/theory達到游說/幽默效果, Week 12交<br /><br />Final Exam (50%): 3 hours, 108.5 points<br />Format: (同mock卷差唔多)<br />MC: 9 x 1.5 points = 13.5 points<br />True/False: 17 x 1 point = 17 points<br />Filling in Blanks, Short-answer Questions: 28 points<br />Short Analysis: 50 points<br /><br />我:<br />Attendance: full<br />Quiz: 28/34 (+0.44 SD)<br />Assignment, Final exam: 無出分<br /><br />Grade: A-<br /><br />利申: 非SHSS學生",
+      "comment_workload": "Workload唔算大<br /><br />Quiz同final exam前溫返PPT(都幾多, 成個sem加埋有10份PPT一共500幾頁, 如果平時有上堂既話其實就唔洗花太多時間), 同埋做下exercises同mock卷當溫書<br /><br />份assignment算輕鬆, 公佈左之後有3個星期時間做 (後尾仲extend左2日), 話就話要cite返個廣告/笑話既source, 其實直接貼返個網址就OK, 唔洗理咩citation style果D, 只係搵啱用既例子要D時間咁解, 真正做分析果part兩三日寫完<br /><br />Readings唔睇都無咩問題, 有專心上堂都可以唔洗點睇, 而且final exam講明唔考",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 6,
+      "vote_count": 6,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "31y8YQWLksH1ByTVl6LjCKL6FbbNKa4M",
+          "name": "HUMA3030 finalized syllabus",
+          "format": "pdf"
+        },
+        {
+          "key": "ELCNMwktOJRhiiihWj0oD3Zez7YjhhKs",
+          "name": "HUMA3030 Homework Assignment",
+          "format": "pdf"
+        },
+        {
+          "key": "dFhodj6jhMiFlx9j2Luw7r5LWKGOttOh",
+          "name": "Information about the Final Exam",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "teUCecOnJEmf7fI2DyF6HSMJiqxyawOo",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 309,
+          "name": "ZHANG, Min",
+          "rating": 1
+        }
+      ],
+      "author": "Cheron",
+      "date": "Jan 14, 2019",
+      "title": "",
+      "comment_content": "The lectures would define how different the consequences will be when you slightly change a word in your sentence. It involves a bit of the psychology.To me, the content is really interesting because the prof. would pick the daily dialogue as the examples. The theory is easy to understand.",
+      "comment_teaching": "The ppt is clear and useful. Also, the prof. is always free after class to answer students&#039; questions. He is very patent and nice.",
+      "comment_grading": "the prof. is lenient on the grading.<br />thus, attendance would be taken as part of the grade. The prof. ll distribute some papers with the summary of the last lesson and ask you some questions as the attendance sheet. <br /><br />I did not do any reading and did not a lot of effort in it, but I still got a B grade.",
+      "comment_workload": "A short Mid-term , final and an essay.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "zQV7vIQkEE6PyVudQr32YAbQQNUibclC",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 290,
+          "name": "YIU, Yuk Man Carine",
+          "rating": 1
+        }
+      ],
+      "author": "ABCD",
+      "date": "May 21, 2017",
+      "title": "",
+      "comment_content": "The content is same as previous year containing three parts: 1)Linguistic universal and diversity, 2) Language as communication system and 3) Language as social artefact (focusing on gender and age).<br /><br />The first part may be a bit boring for some people as it is mainly about plain linguistic knowledge (e.g. IPA system, vowels &amp; consonants, etc.). Regarding the second and third part, they may be better since they are quite related to our daily life.",
+      "comment_teaching": "Professor Yiu&#039;s english is very clear which probably won&#039;t have problems of following. Her teaching way is fair, which is not interesting at all. It also seems that she has improved her teaching style that she will do further explanations apart from reading the ppts. It is important to note that sometimes she will mention things which are not included or stated in the ppts but they will be also tested in the quizzes. Hence, it is quite important to attend the lectures if you want to get an &quot;A&quot;. Moreover, if you have any problem regarding the lectures or research paper, she is always willing to answer your questions after lessons or during her office hours. You can also make appointments for a thorough discussion of your research paper which is very useful and helpful in my opinion.",
+      "comment_grading": "(1) Two quizzes: 20% for each quiz = 40%<br />(2) Research paper: 40% <br />(3) Presentation of the research paper: 20% (15% presentation+5% Q&amp;A), there will be another 5% bonus points for asking questions in your peers&#039; Q&amp;A session.<br /><br />Curve grading is used which means your grade depends on others&#039; performance.<br /> <br />Got A in the end.",
+      "comment_workload": "(1) Quizzes: Just memorize the ppts. If you can memorize all the contents in the ppts then you will probably achieve a high score. Both of the quizzes have two parts: 25 MC questions and a few short questions, 50% for each part.<br />(2) Research paper: It can be an individual work or in a group of 3 at most. With reference to grading, consideration will be taken into account regarding whether the project is done by an individual or by a group. She actually didn&#039;t state how many pages or words are required for the research paper. However, I did ask her about that. She said for a group of two, she expects at least 3000 words. Moreover, she emphasizes on &quot;Creativity&quot; which means nobody/no scholars has done your paper topic will be the best. I think she also prefers quantitative research than qualitative. For more details, please kindly refer to the attached paper instruction. <br />(3) Presentation: 8mins for presentation + 2mins for Q&amp;A session. If you use more than 8 minutes for presentation, she won&#039;t stop you but you will have lesser time for Q&amp;A part which may probably affect your Q&amp;A score.<br /><br />Overall, I think the workload is fair but she maybe a bit demanding for the research paper as you may know if you decide to enroll this course.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "2MsjEFUYtjOEnCXd1eZ07N73HihrxXre",
+          "name": "HUMA3030 Research paper instruction",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "M4i1lBvq5mxewEOWfCG8EZtBBBEXYSp9",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 290,
+          "name": "YIU, Yuk Man Carine",
+          "rating": 1
+        }
+      ],
+      "author": "skone",
+      "date": "Jun 14, 2016",
+      "title": "",
+      "comment_content": "Three parts of the teaching<br />1)Linguistic universal and diversity, about the application of IPA, quite important for the quiz<br />2)Communication: Language as a communication system, about how people communicate<br />3) Culture: Language as a social artefact, which I think that&#039;s the most interesting part for me and it is quite essential for the later research paper",
+      "comment_teaching": "The teaching style of Prof. Yiu may not be accepted by everybody as she always just read aloud from the powerpoint. However, when you asked her after class, she was always willing to chat with you which always provided constructive opinions for you. She is a good mentor.",
+      "comment_grading": "I think it&#039;s very gooddddddd.<br />Actually I got failed from the mid-term quiz(20%) as I did not study well and was not familiar with the syllabus. But I did quite well in the assignment(20%), presentation(20%), and the research paper(40%) and finally I got A-.<br />Prof. Yiu told to me that she was a killer but I don&#039;t trust her now haha",
+      "comment_workload": "One Mid-term quiz about the IPA application--&gt;20%<br />One assignment about the reflection after reading one of the linguistics research---&gt;20%<br />One Presentation for the research paper--&gt;20% <br />Research paper--&gt;40%(no upper limit pages, maximum a group of 3 ppl, but I did by myself)<br />To conclude, the workload was not so heavy comparing with other HUMA RE",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "fxqSNnhV723bXfA0N1Z7aIV9cgHHWQqi",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 290,
+          "name": "YIU, Yuk Man Carine",
+          "rating": 1
+        }
+      ],
+      "author": "chimz",
+      "date": "May 19, 2016",
+      "title": "professor似mentor多過似lecturer",
+      "comment_content": "分三部分:<br />(1)language as symbolic system: 關於IPA, language universals<br />(2)language as communication system: speech act theory 唔同人對於唔同說話嘅反應，以communication&nbsp;&nbsp;cycle做藍本，講講者同授眾嘅關係<br />(3)language as social artifact: 用非語言學因素解釋語言現象，即社會語言學<br />每一個部分都會教對功課、考試、paper有關嘅野，內容唔會話無用，但功課、paper都唔會令到你即刻做到，教授開咗到門俾你，你要自己堅持行落去。",
+      "comment_teaching": "上堂唔好預期d咩精彩絕論，只係純讀ppt，但落堂之後係一個mentor，姚教授好想幫同學克服課程嘅困難，所以睇下你講嘅Teaching係咩。",
+      "comment_grading": "絕對公平<br />嚴格執行curve grading<br /><br />數據:<br />midterm exam: (full mark: 40 ;mean: 21.5)<br />assignment: (full mark: 20; highest: 16; lowest: 6)",
+      "comment_workload": "20% midterm exam (syllabus: week 1 to week 5)<br />20% assignment (week 8 交)<br />20% Presentation (week 12 或13)<br />40% final paper (可以單機、二人前、三人行做，reading week截數)<br />extra 10% : <br />4% attendance (week 12 &amp;13 一堂1%); <br />6% participation (問present完嘅同學一個問題)<br /><br />如果同RE一齊比，呢科唔算太多野做，但同FE比就有一定距離",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Dcedk8apNnvFvW1mR0m8fyHgXKds6Ziy",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 309,
+          "name": "ZHANG, Min",
+          "rating": 1
+        }
+      ],
+      "author": "FK",
+      "date": "Aug 22, 2015",
+      "title": "An acquired taste",
+      "comment_content": "This course provides an overview to linguistics, covering topics including logic (logical propositions in language), conversation (implications in language) and politeness (principles that are innate to modern day speech). A technical approach is adopted, thus in contrast to the usual humanities course, where there are no correct answers, you are often expected to rationalize and provide a concrete response in huma3030. For those who have a mathematical/science mindset, this course is perhaps more suitable than other, essay-based humanities courses.",
+      "comment_teaching": "Professor Zhang is an intriguing lecturer, with excellent command of multiple languages - which he will demonstrate in class. The professor delivers his classes extremely well, rarely straying away from relevant content. In-class questions are usually answered with examples; outside of class, the professor is also very approachable.",
+      "comment_grading": "Grading:<br />10% attendance (randomly taken in class)<br />40% quizzes (2 quizzes, 20% each, one could be opted out for a take-home assignment)<br /><br />The final exam is pivotal in your achieving of a good grade, so make sure you revise well. Personally, I achieved a really good final grade in spite of a mediocre first quiz score. I am however unclear as to the overall distribution - my guess would be okay-to-good.",
+      "comment_workload": "There is no homework, but reading through the slides will greatly help you come quiz and exam time - there will be a lot of information for you to recite. I think the material is not particularly hard, but the bottom line is that you need to thoroughly understand each concept, or else you will find it difficult answering longer questions in quizzes/exams. <br /><br />I opted out one of the midterms/quizzes for a written assignment and spent around 10 hours completing it - it requires you to sit down and think carefully.<br /><br />There will also be a lot of reading material (not compulsory). I did not complete all of it, but I can say that it will really help you",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "J4UdxQNZbcSVPaRdXb0mvnF8mAXqsgmZ",
+      "semester": "2013-14 Spring",
+      "instructors": [
+        {
+          "id": 309,
+          "name": "ZHANG, Min",
+          "rating": 1
+        }
+      ],
+      "author": "Toxick",
+      "date": "Aug 21, 2015",
+      "title": "",
+      "comment_content": "Exploring how we humans communicate with each other and the language difference in different cultures. You would have a brief understanding in linguistics after taking the course. Topics include speech acts, cooperative principles, politeness principles etc.",
+      "comment_teaching": "Not really engaging but sometimes Dr Zhang would have a few jokes to demonstrate some topics. The notes are packed with many words and terms, it takes time to really scan through all of them and have a basic understanding.",
+      "comment_grading": "To be honest, I didn&#039;t really put much effort in this course. I did my best in my assignment but didn&#039;t study much for the final. I remember some of the questions in the final were really straight-forward, it&#039;s just that I didn&#039;t memorize the terms. I got a C+, not a good one but I believe if you study a bit more harder than me, a B range grading should be easy.",
+      "comment_workload": "It depends on how interested you are in linguistics. There are a few required readings you need to read but they are mostly use as an extend of the topics we discussed in lectures to strengthen our understanding. I would say it wouldn&#039;t be harmful if you don&#039;t read much. There would be pop quizzes sometimes and they are also counted as 10% attendance. It&#039;s just one short question or even one MC. There&#039;s also one assignment that counts 40%, it&#039;s about finding different advertisement that contains the topics we&#039;ve learnt in lectures and explain their applications. Lastly the final count 50%.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "3qwrOhnEDwK7uMFKTvklo56Pkxm2QPph",
+          "name": "HUMA3030",
+          "format": "docx"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "course": {
+    "id": 580,
+    "subject": "HUMA",
+    "code": "2638",
+    "name": "Peoples and Cultures in Mainland Southeast Asia",
+    "description": "This course aims to study the cultural diversity in Myanmar, Thailand, Vietnam, Laos and Cambodia, and the complex historical development of majority/minority relations and the formulation of cultural identities among different peoples on this borderland. Various cultural influences from India, China and Europe on mainland Southeast Asia, and strategies of indigenous peoples maintaining their cultures will be examined. The dynamic relations among religion, ethnicity, tourism and modernity will also be explored.",
+    "categories": [
+      "Common Core (H)"
+    ],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2210,
+      2010,
+      1810
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 3,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 766,
+        "name": "MA, Jianxiong",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "GESbcuu0Lw8SlvhernOazerfWRm1jfbk",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 766,
+          "name": "MA, Jianxiong",
+          "rating": 1
+        }
+      ],
+      "author": "Teddy Bear",
+      "date": "Jan 29, 2023",
+      "title": "Nice professor !!!",
+      "comment_content": "The course mainly focuses on the cultural diversity in Myanmar, Thailand, Laos and Cambodia.<br /><br />Week 1: Introduction<br />Week 2: Ancient Civilizations<br />Week 3: Hinduism and Buddhism<br />Week 4: Colonialism and Western Powers<br />Week 5: Nation-State Building<br />Week 6: Vietnam War and the Golden Triangle<br />Week 7: Cultures in Highland Southeast Asia<br />Week 8: Cultures in Laos and Cambodia<br />Week 9: Overseas Chinese Communities<br />Week 10: Nation States and Identities<br />Week 11: Tourism, Politics and Identities <br />Week 12: Conclusion: Modernity, centres and peripheries &amp; final review",
+      "comment_teaching": "He is a friendly and kind professor! If you do not understand the concepts, feel free to ask him. He will explain them to you in a detailed way. <br />After he finishes the ppt slides, he will play documentaries in class. It helps you to have a thorough understanding. Most of the important notes are on the ppt slides so no worries if you miss them in class.",
+      "comment_grading": "Your hard work will pay off!!!<br />He will give you a final review and you need to prepare those questions before the final exam. If you do it, you definitely get a good grade!!!",
+      "comment_workload": "Quite heavy for year 1-2 students. You have to write 2 documentary review papers, a 10-page (double space) term paper and a final exam. So don&#039;t be a deadline fighter! Remember to jot down notes when watching the documentary in class!",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

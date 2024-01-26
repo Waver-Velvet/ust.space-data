@@ -1,0 +1,972 @@
+{
+  "course": {
+    "id": 681,
+    "subject": "ISOM",
+    "code": "3210",
+    "name": "Information Systems Analysis and Design",
+    "description": "The process by which large software systems are built by teams of developers. Techniques for modeling data and process requirements are surveyed and illustrated using computer-aided software engineering (CASE) tools. Topics include information systems development life cycle and object-oriented systems analysis and design using UML.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2310,
+      2230,
+      2210,
+      2130,
+      2110,
+      2030,
+      2010,
+      1930,
+      1910,
+      1830,
+      1810,
+      1730,
+      1710,
+      1630,
+      1610,
+      1530,
+      1510,
+      1430,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ISOM\" data-code=\"2010\" href=\"/review/ISOM2010\" target=\"_blank\">ISOM 2010</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.32,
+    "rating_teaching": 4.41,
+    "rating_grading": 4.18,
+    "rating_workload": 3.91,
+    "review_count": 22,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 372,
+        "name": "ZHANG, Xiaojun",
+        "count": 15
+      },
+      {
+        "id": 374,
+        "name": "TSE, Sheung Hei Chris",
+        "count": 11
+      },
+      {
+        "id": 373,
+        "name": "JIA, Jia",
+        "count": 6
+      },
+      {
+        "id": 949,
+        "name": "LAI, Sum Yu",
+        "count": 5
+      },
+      {
+        "id": 1195,
+        "name": "LEE, Adrienne Yuen Sum",
+        "count": 5
+      },
+      {
+        "id": 1108,
+        "name": "WONG, Ka Chau",
+        "count": 1
+      },
+      {
+        "id": 1777,
+        "name": "TSE, Chris",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "Qx1CBI5d8RaCUsr19B6adrhltGYnrGtw",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 372,
+          "name": "ZHANG, Xiaojun",
+          "rating": 1
+        },
+        {
+          "id": 1777,
+          "name": "TSE, Chris",
+          "rating": 1
+        }
+      ],
+      "author": "shining_days",
+      "date": "Dec 29, 2023",
+      "title": "Great and useful course",
+      "comment_content": "Week 1: Course Introduction and Project Initiation<br />Week 2: Requirement Analysis<br />Week 3: Intro to UML and Use Case Modeling <br />Week 4: Object-Oriented Modeling<br />Week 5: Midterm <br />Week 6: Class Diagram Overview<br />Week 7: Develop Class Diagram from Use Cases<br />Week 8: Sequence Diagram<br />Week 9: BSM<br />Week 10: Final review<br />&gt;&gt;&gt; Work on your project (Yes, this course ended so early)<br /><br />As this course is using blended learning mode, we have to watch online video every week, but only have to attend one lecture per week. Make sure to watch all those videos before attending the class as the classes are basically revisions and it might be hard to follow without watching those videos. In lecture, you have to sit in the same group every time, working on a group-based in-class assessment. In my opinion, getting good groupmates can inspire you and makes you more motivated to learn in this course.",
+      "comment_teaching": "Xiaojun is a kind professor and explain concepts clearly. You can ask him questions in Cantonese, Mandarin or English. It all works. When we are doing the group exercises in class, he will walk around the classroom, answer questions, give reminders and insights to us. <br />Chris (TA) is also kind and willing to answer questions. He knows what we will confuse about and guide us to the right direction in labs. Knowing what he thinks is important as he is the one who grades nearly everything.",
+      "comment_grading": "Grading Scheme:<br />Midterm (20%) (Mean 80 SD 13)<br />Final (30%)<br />In-class assessment (10%)<br />Online learning and exercises (10%)<br />Group Project (30%)<br />Yes you will only know the statistics of the midterm, and your own marks for the first half of the project. So I have no clue if the grading system is lenient or not. What I can only tell is make sure you understand EVERY SINGLE CONCEPT as they will all be tested, and prevent any careless mistake in the exams. Also, try to find good teammates in both lab and lecture session. <br />won&#039;t tell you my exact grade but in A range.",
+      "comment_workload": "The videos are short, you don&#039;t have to put a lot of time in it. For a 3 credit 3XXX course, I would say the workload is between light to average. The group project may take you some times, depending on how your group works. <br />If you always pay attention in lectures and lab, with all assessments and group project done seriously, you should have understand all concepts clearly, so you don&#039;t have to put a lot of time into revising mid-terms and finals. This lowers your workload in the final period.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "iUAxLMWD8X6xOlPHqbqbomPwrCZFDmX0",
+      "semester": "2022-23 Fall",
+      "instructors": [],
+      "author": "gggggg",
+      "date": "Jan 27, 2023",
+      "title": "",
+      "comment_content": "1. System request and feasibility analysis<br />2. Requirement analysis<br />3. Intro to UML and use case modeling<br />4. Object-oriented modeling<br />5. Class diagram overview<br />6. Develop class diagram from use cases<br />7. Sequence diagram<br />8. BSM<br />9. final review<br /><br />The content to be very interesting. Things can get confusing at times, but as long as you go through all the materials and get enough practice, the content should be relatively simple.",
+      "comment_teaching": "This course is a blended learning course which we need to finish watching the videos before having lessons. Xiaojun teaches a lot in class and have given a lot of useful examples to students. Chris, a very helpful ta, has given very good guidelines to us on the project and knew students&#039; needs on studying. They have provided a bunch of exercise for us to practice on each topic.",
+      "comment_grading": "It very depends on your group project, as the final exam is quite easy, the group project will be the main point. Find friends that will discuss and do together.",
+      "comment_workload": "Its pretty light comparing to other courses. As it is on blended learning mode, the tuesday classes are set to be a Q&amp;A session for students to ask questions about the difficulties on video contents and it is optional for students to attend. Before attending the thursday lesson, there will be a weekly online exercise which will count 7% of the total mark. After that, there is weekly inclass exercise for 6% of the total mark. Two group assignments for 20% and the difficulty is normal, pay attention in class and finish the assignment earlier so that you can have time to ask xiaojun or chris, then you&#039;ll be alright. At last, there is a group project which can have 5-6 groupmates. If you have finished the given practice, you can handle the group project well. There is no presentation for the project.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "UOl3RI83JFKubUizUhMNaL4ZKrBRTtf3",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 372,
+          "name": "ZHANG, Xiaojun",
+          "rating": 1
+        },
+        {
+          "id": 374,
+          "name": "TSE, Sheung Hei Chris",
+          "rating": 1
+        }
+      ],
+      "author": "hehehe6",
+      "date": "Jan 12, 2023",
+      "title": "Great course!",
+      "comment_content": "1. system request and feasibility analysis<br />2. requirement analysis<br />3. intro to UML and use case modeling<br />4. object-oriented modeling<br />5. class diagram overview<br />6. develop class diagram from use cases<br />7. sequence diagram<br />8. behavioral state machine (bsm)<br />9. final review<br /><br />I found the content to be very interesting. Things can get confusing at times, but as long as you go through all the materials and get enough practice, the content should be relatively simple.",
+      "comment_teaching": "Xiaojun is the best prof I have ever met at uni. He is super friendly and makes the class entertaining all the time. He&#039;ll answer your questions in a detailed and easy way. He also has a q&amp;a session that you can attend.<br />Chris was also a great ta. He will help a lot with the group project and will give you helpful feedback. <br /><br />The course itself is in a blended mode, meaning the prof only uses one class in a week for teaching and the other day is for you to watch videos and study before going to class. <br />There is a lab once a week that you should attend. You&#039;ll miss out on a lot if you don&#039;t go.<br /><br />Overall, I really appreciated their teachings! I recommend taking the class when you see their names.",
+      "comment_grading": "assignments: 20%<br />comprehensive assessment: 30%<br />in-lass participation: 8%<br />online learning and exercises: 7%<br />team project: 35%<br /><br />The grading seems to be fine as long as you show that you are putting some effort into the course.",
+      "comment_workload": "I think this depends on the groupmates. I had good groupmates, so I didn&#039;t suffer from too much work. But I would say most of the workload does come from the project itself, so make sure you team up with good groupmates!<br /><br />Throughout the semester, there&#039;re weekly videos and assignments that you need to watch and complete. The workload for this is fine since the prof gives a free block for you to work on that.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "GJP65zdVRhInyyS1wWsBhaI4pOqcRydg",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 372,
+          "name": "ZHANG, Xiaojun",
+          "rating": 1
+        },
+        {
+          "id": 374,
+          "name": "TSE, Sheung Hei Chris",
+          "rating": 1
+        }
+      ],
+      "author": "棉花糖",
+      "date": "Dec 31, 2022",
+      "title": "Useful course content and work hard if you want A range",
+      "comment_content": "I believe you&#039;ve all heard about IS majors being the &#039;bridge&#039; between programmers and management. This course is precisely doing this. What I am going to mention below is universal and learnt by CS majors too. So if you want to learn something out of your degree or just get a good grade, take this course seriously<br /><br />This course teaches UML, an object-oriented approach (no worries if you haven&#039;t heard about this, cuz me neither before taking this course). You will learn about the major components of UML i.e. use case, elaborated use case (EUC), included use case (IUC), class diagram, sequence diagram and behavioural state machine (BSM) (in chronological order they appear).<br /><br />Let me organize them in 2 parts:<br />Part 1: Use Case, EUC, IUC<br />Part 2: Class diagram, Sequence Diagram, BSM<br />The reason is we don&#039;t have midterm (woohoo) so Part 1 is not tested. The final exam only covers Part 2. HOWEVER, part 2 is based on part 1. Also the project focuses on both parts, so you still have to understand the content. It&#039;s just that you can better understand the correlation between the content.<br /><br />Personally, I think the first part is harder, in the sense that it is the foundation for the whole case (the pre-recorded lectures and lectures are based on different cases), for people who have brain fog like me, it is hard to remember every little detail about each case and even our project. You need to understand your project and the cases really well from the flow of events (like the steps in a lab manual) in order to understand how the system interacts. So, I think revising should help if you want to master part 1. Part 2 is difficult in terms of the concept. You learn best through trial and error e.g. completing the cases on your own.",
+      "comment_teaching": "Note this is in blended learning (BLD) mode, so only 1 f2f class/week, and you can watch pre-recorded lecture videos at home. Our classes are on Tue and Thu. Tue is optional Q&amp;A session for you to ask questions about the pre-recorded lectures while Thu is normal lectures with attendance (iprs).<br /><br />There is also lab which you must attend (bear in mind when composing your timetable) which covers the group project. Of course, it really depends on your group mates how important the lab is to you (no attendance), but please be a responsible one and attend labs ;)<br /><br />Xiaojun (everyone calls him like this) is a really friendly professor. An all-rounded professor lol. Very clear in his teaching (if you can&#039;t understand it right away, watch the recording again and you can probably understand it). Attends to students&#039; needs: some students requested lectures to be recorded, and he did (so part 2 of the lectures are recorded).<br /><br />Chris is a nice guy. He is very very helpful in the beginning of the semester as in he answers our emails really quickly and in details. But maybe he&#039;s burnt out towards the end of the semester, his replies are like any other &#039;poor&#039; TAs lol who doesn&#039;t really wanna help. Poor Chris :( Please treasure this good TA. Generally very helpful with your group project AND assignment as he grades all of them.<br /><br />For concept-related questions, approach Xiaojun, I think Xiaojun explains a tad clearer than Chris (though Chris is not bad either). Other questions related to project/assignments/admin, approach Chris. <br /><br />Big shoutout to them (dk if they would read the reviews) but I could really feel they want to help us learn and understand and tried their best to keep improving all aspects of the course. Feel supported by them throughout, instead of left alone floating on the sea like some other courses. So kudos to them!",
+      "comment_grading": "Average grading I would say? Maybe leaning towards relatively good grading but still, not that easy to get A range (but this is just UST).<br /><br />1. Team Project 35%<br />2. Final Exam 30%<br />3. 2 Assignment 20% (10% each)<br />________________________________<br />4-5 are all credited on submission<br />3. In-class assessment 8%<br />4. Online learning and Exercise 7% (for the blended learning pre-recorded lectures)<br /><br />I will try to provide insight based on 1-3<br />1. Team Project<br />Not sure about what I attained for all as the scores weren&#039;t released. But I believe our group is par average for the group project as we got 12.5/13 for the first 3 deliverables of this project, but unknown scores for the 22% of final report. You get to from your own group based on LAB sections NOT lecture. So if you have friends you want to be in a group with, better communicate before course registration. <br /><br />2. Final Exam <br />Easier than I thought. The difficulty of the course progresses as it proceeds. The trial and error I mentioned comes from getting some questions wrong and learning from them. However, not much of these were tested in the final exam. Plus there is ample time, so many people left early. One reminder is to study about the CHMS case carefully as it is congruent with the final exam. Also make sure you understand self trigger and how to send an SMS (you will understand this as you learn the materials), as these were tested in the final exam. Otherwise, I think it should be fine.<br /><br />3. Assignments<br />Are actually hard. You get to work in pairs of your choice again. I worked on both independently :(<br />Test if you understand the content thoroughly. Better start revising earlier if you want to get high scores for the assignment. Slightly below mean for both<br /><br />Final grade: B+<br /><br />Given the difficulty of the content and my fair performance, the grading is fair. Which means you have to perform better than average in order to secure A range.&nbsp;&nbsp;Good luck!",
+      "comment_workload": "Depends on your group mates I think. The project is hardcore given that it kickstarts in Sep and lasts until end of Nov. I think the project is important to secure a portion of your scores. No time limit like exam and you have peers to consult (and Chris!) so for peeps like me who probably am not an exam killer, project is a life saver in this course. <br /><br />As for the exam, plenty of materials you can go through. I&nbsp;&nbsp;counted and there are 5 cases in total (1. CHMS - commonly appeared in labs and lectures 2. Campus Housing System CHS - appeared in lectures 3. Clinic Appointment System CAS - also appeared in lecture 4. Dessert at Home DAH - case for both assignments 5. Dr. Chris - the ultimate mock exam provided towards the end of the semester and walkthrough in the last lecture). Although CHS and CAS are not covered in full as in no answers for all the components tested in the final exam, with the use case description provided, you can leverage them as a practice if you want. So I would say there is plenty of exercise you can do, if you wish ;)<br /><br />Pro tip: start earlier and make sure you understand everything (it&#039;s possible for this course and also paramount for good grade). Don&#039;t be afraid of the content, you can always approach Xiaojun and Chris if you&#039;ve got any questions if you are lucky enough to reg into their course. Really recommend their teaching.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "SGmr5ojJU3XkXSRCYPiq165uTAQ5Q2q7",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 373,
+          "name": "JIA, Jia",
+          "rating": 1
+        },
+        {
+          "id": 1195,
+          "name": "LEE, Adrienne Yuen Sum",
+          "rating": 0
+        }
+      ],
+      "author": "tungcc",
+      "date": "May 12, 2022",
+      "title": "TOUGHHHHH course",
+      "comment_content": "This course is mainly about dealing with the design of a system, from the initial stage to the final stage. It is not about making a prototype, but to learn the &quot;behind scene&quot; development, including:<br />1. identifying all actors in the system<br />2. identifying all events happened in the system as well as to describe them step by step<br />3. identifying the relationships between all actors<br />4. drawing class diagram, sequence diagram and behavioural state machine diagram (ps the class diagram is something like the ER diagram in dse ict SQL module)",
+      "comment_teaching": "I would not say Jia Jia is &quot;good&quot;, but he is not &quot;bad&quot;, I would rate hime normal. If you had taken his ISOM2020 class before, you should know that his accent is really really terrible. It is extremely hard to catch up with what he said in class, but he is really trying his best to explain all materials<br /><br />But for the TA, I think she is very &quot;hea&quot;<br />There are 13 weeks in a semester and we only got 7 labs. For each lab, she talks very slowly, and especially the first and last 0.5 lab, she mainly talks about project, so the actual labs we got to learn is 5.5 throughout whole semester. You basically have to read the ppt yourself if you want to learn.",
+      "comment_grading": "(to be updated after the grade is released)<br /><br />One thing, this course is really &quot;transparent&quot;, or &quot;hidden&quot; I should say<br />The grading criteria is unknown. We are only given some comments and will never know what we mistakes we got<br />AND!!! I HAVE NEVER SEEN PROFESSOR&#039;S OR TA&#039;S APPEARANCES!!!!! They never turn on the cameras in the zoom meetings and so do other students. That&#039;s why I would rate this course as &quot;transparent&quot; or &quot;hidden&quot;<br /><br />I got C+ at last for getting a hw below mean",
+      "comment_workload": "hmm harsh...<br />There are two assignments in total since we do not have the mid term exam. The twos are related, we got to investigate a hero/enemy system...yes something like the monster game...If you are not familiar with these you gotta struggle a lot in the assignment, as some terms are confusing and not related to daily life scenarios...<br /><br />For the final, we have a take home quiz. We are given a day to complete it, but it took me around 6 hours whole to finish the diagrams...very time consuming...<br /><br />For the project, we gotta design a system and do a presentation. This can be very demanding if your group (like mine) held around 10 meetings (or more) in 2-3 months.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ruwigWvmsAUVa2kFbTCd6JtGQ5vkyAEK",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 372,
+          "name": "ZHANG, Xiaojun",
+          "rating": 1
+        },
+        {
+          "id": 949,
+          "name": "LAI, Sum Yu",
+          "rating": 1
+        },
+        {
+          "id": 1195,
+          "name": "LEE, Adrienne Yuen Sum",
+          "rating": 1
+        }
+      ],
+      "author": "Seina",
+      "date": "Oct 28, 2020",
+      "title": "",
+      "comment_content": "- System Request and Feasibility Analysis<br />- Requirement Analysis <br />- intro to UML and Use Case Modeling<br />- Class Diagram <br />- Sequence Diagram",
+      "comment_teaching": "XiaoJun is one of the best professors I’ve met. He is really kind to his students and always willing to help with your studies. His lessons are very fun too.",
+      "comment_grading": "Exam and Assignment (50%)<br />Mid-term exam (20%)<br />Comprehensive Assignment (30%)",
+      "comment_workload": "Overall, the workload is fine. The project does not require too much work. But it is important to have responsible groupmates. For participation, there may be surveys in some of the lectures as a mean to take your attendance.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "HeYDM1QPcGjU8svelSclyRqQYmBlVXxO",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 372,
+          "name": "ZHANG, Xiaojun",
+          "rating": 1
+        },
+        {
+          "id": 949,
+          "name": "LAI, Sum Yu",
+          "rating": 1
+        }
+      ],
+      "author": "orsoii",
+      "date": "Aug 29, 2020",
+      "title": "",
+      "comment_content": "- System Request and Feasibility Analysis<br />- Requirement Analysis <br />- intro to UML and Use Case Modeling<br />- Class Diagram <br />- Sequence Diagram",
+      "comment_teaching": "Xiaojun is one of the professors I like in UST. He is willing to listen to students&#039; opinions and answer their questions patiently. He also tried to make the lecture interesting and interactive.<br />He recognises students who frequently answer questions.",
+      "comment_grading": "Exam and Assignment (50%)<br />Mid-term exam (20%)<br />Comprehensive Assignment (30%)<br />Team project (33%)<br />Lecture and Lab Participation (10%)<br />Online learning and exercises (7%)<br /><br />Grade depends on exam and the project<br />As long as you have normal teammates you should be fine.",
+      "comment_workload": "Workload is acceptable as there are labs to help and ensure the progress of the team project.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "F0s9Pe854Wd4lHaysWCRg9KW0pGDvQmf",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 372,
+          "name": "ZHANG, Xiaojun",
+          "rating": 1
+        }
+      ],
+      "author": "Emi",
+      "date": "Feb 20, 2020",
+      "title": "",
+      "comment_content": "Attending lectures is not a must coz it doesn&#039;t take attendance but it&#039;s quite fun to attend. However, it&#039;s required for tutorials.<br /><br />The content is quite easy and understandable. Even if you skip lectures, you can still learn by urself through all the online videos. Drawing graphs is a bit challenging if you are not clear with all the concepts.",
+      "comment_teaching": "Xiaojun is quite free and kind, he allowed us to eat during lessons. I like his way of teaching, the pace is good. He prepared some questions for us at the beginning of every lecture. It doesn&#039;t count any scores or attendance, just feel free to play and treat it as a game. It helps you to know whether you fully understand the concepts taught in the online videos that u watched before the lecture. So, don&#039;t be late for the lecture haha. Or else, you will miss the game.",
+      "comment_grading": "As it turned to online teaching for the last few weeks, the final exam changed to a comprehensive assignment<br /><br />Exam and Assignment (50%)<br />- Mid-term exam (20%)<br />- Comprehensive Assignment(30%)<br />Team project (33%)<br />Lecture and Lab Participation (10%)<br />Online learning and exercises (7%)<br /><br />I got B which is a bit lower than my expectation but still fair",
+      "comment_workload": "You have to watch online videos before every lecture. Some of the lectures would be used for asking questions so u can skip if u don&#039;t hv any.<br /><br />The tutorial will be used to check our progress for the project. I think it&#039;s quite good as it can prevent deadline fighters. The workload of the project isn&#039;t that heavy as we are working on it bit by bit throughout the whole semester.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "scOjOamWsi4EGy8ICwc9s9c7FEjCABHf",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 372,
+          "name": "ZHANG, Xiaojun",
+          "rating": 1
+        },
+        {
+          "id": 1195,
+          "name": "LEE, Adrienne Yuen Sum",
+          "rating": 1
+        },
+        {
+          "id": 949,
+          "name": "LAI, Sum Yu",
+          "rating": 1
+        }
+      ],
+      "author": "ryanyip",
+      "date": "Jan 03, 2020",
+      "title": "",
+      "comment_content": "Useful system design of database<br />Topics include information systems development life cycle and object-oriented systems analysis and design using UML.",
+      "comment_teaching": "Xiaojun is one of the best prof in UST. He spend a lot time to answer students&#039; question, and spare no effort to teach<br /><br />He will recognize you if you attend the course usually, and will check whether you attending the lesson",
+      "comment_grading": "It is quite good grade. <br />Depends on Final and Projects",
+      "comment_workload": "Quite heavy workload for having both project, final as well as presentation. Free Rider will make u very sad in this course",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "QhKyNpz6Ff3BfyGj8vrMu2vQ8uDcXZxj",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 372,
+          "name": "ZHANG, Xiaojun",
+          "rating": 1
+        },
+        {
+          "id": 1195,
+          "name": "LEE, Adrienne Yuen Sum",
+          "rating": 1
+        }
+      ],
+      "author": "yoyoyooo",
+      "date": "Aug 16, 2019",
+      "title": "Easy and good grade course",
+      "comment_content": "The content is easy to follow and catch-up even if you skipped the lessons. As it&#039;s kind of blended learning, you can always refer to the canvas online materials and skip the lessons.",
+      "comment_teaching": "Xiaojun&#039;s teaching is good. He is friendly and sometimes funny. He will allow time for us to discuss some topics every lesson. Sometimes he will provide exercise for us to do during lecture time, which is good for understanding the concepts.",
+      "comment_grading": "Good grading, above mean in midterm and final and got A. No idea about the project marks, but it should be fine.",
+      "comment_workload": "No attendance taking for lecture, but yes for lab.<br />The project can be quite complicating and time-consuming, but if you can find responsible group mates, it should be fine. The project consist of 6-7 people, you need to submit one summary draft and final report. One presentation at the end of the semester. The most confusing part will drawing the class diagram. So try to think of a easier topic and less complicated function. Then you will have less chance to write it wrong.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "OPx1A9s1XJwnRyua4Rc3cKEP61vvp4pf",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 372,
+          "name": "ZHANG, Xiaojun",
+          "rating": 1
+        },
+        {
+          "id": 1195,
+          "name": "LEE, Adrienne Yuen Sum",
+          "rating": 0
+        },
+        {
+          "id": 949,
+          "name": "LAI, Sum Yu",
+          "rating": 1
+        }
+      ],
+      "author": "lalalio",
+      "date": "Jan 02, 2019",
+      "title": "IS core 尼讲算系好好",
+      "comment_content": "主要教UML model <br />包括use case diagram, use case description, class diagram， sequence diagram 同埋 BSM <br />如果读过isom 3260 再读3210 会容易d 理解",
+      "comment_teaching": "junjun 应该系我遇过最好既professor <br />对学生超级好 经常address 学生既问题<br />上堂好多case analysis 同discussion 真系唔明讲到明<br />junjun 平常见你唔系好明又会特登尼你个位再解多一次<br />真系好好",
+      "comment_grading": "Mid-term exam (25%)<br />Final exam (30%)<br />Participation (15%)<br />Lecture (5%)<br />Online learning and quizzes ( 5%)<br />Lab (5%)<br />Team project (30%)<br /><br />Midterm 同final 都偏易，所以都系边个错的少就边个高分<br />team project 记好重 peer evaluation 所以尽量吾好freeride",
+      "comment_workload": "每一个星期都有video lecture 同 online quiz <br />group project 由use case description 开始做到BSM <br />workload 唔算太大 但系真系要好好分配时间做<br />如果唔系之后堆埋一齐做再加上要check 每一part d consistency 问题都几麻烦",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 4,
+      "comment_count": 2,
+      "attachments": []
+    },
+    {
+      "hash": "ledlt8WM1UowpAlHi6nHpEysSZ86SRhq",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 373,
+          "name": "JIA, Jia",
+          "rating": 1
+        },
+        {
+          "id": 1108,
+          "name": "WONG, Ka Chau",
+          "rating": 1
+        }
+      ],
+      "author": "lksiu",
+      "date": "Aug 09, 2018",
+      "title": "",
+      "comment_content": "Pretty useful content, can actually help with IS design and understanding.<br />However, if you are going to go into the IS field, you need to drill in, because the course content is only a brief introduction of IS design.",
+      "comment_teaching": "Both TA and prof are super nice, they basically answer all questions you ask, and are very patient. The delivery of message can be a bit confusing sometimes though, need to clearify with them from time to time, and they get back to you really soon. Very timely reply from TA and prof, feel free to make appointment with them.",
+      "comment_grading": "Super good grading. As long as you attend lectures and show up, prof remembers you, and sometimes he will ask students to answer questions, which is gonna be the attendance .<br />Everyone basically performs well in exams, so you need to get good scores in reports and presentation in order to get good grades.",
+      "comment_workload": "Workload is normal. Need to hand in mid-stage report progess, TA and prof will follow up with you. <br />Exams and reports are really about application and the understanding towards the course, there is not much copy and memorising.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "p21K0S7MaNF71ZNc09nHnlnLltDzE2fI",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 372,
+          "name": "ZHANG, Xiaojun",
+          "rating": 1
+        },
+        {
+          "id": 374,
+          "name": "TSE, Sheung Hei Chris",
+          "rating": 1
+        }
+      ],
+      "author": "Kristy",
+      "date": "May 04, 2018",
+      "title": "",
+      "comment_content": "The course content is about to build a structural information system, and how to organise and manage the linkage between different elements.",
+      "comment_teaching": "Xiaojun is very nice and helpful, always willing to help answer your questions. Lectures are more on definition, framework and theory. Yet tutorials will be more relevant to projects and exams. Chris always provides critical feedbacks that really help with our projects.",
+      "comment_grading": "Mid-term exam (20%)<br />Final exam (20%)<br />Participation (10%)<br />&nbsp;&nbsp;&nbsp;Lecture (5%) <br />&nbsp;&nbsp;&nbsp;Lab (5%)<br />Team project (50%)<br />&nbsp;&nbsp;&nbsp;Proposal (8%)<br />&nbsp;&nbsp;&nbsp;Report (30%)<br />&nbsp;&nbsp;&nbsp;Presentation (12%)",
+      "comment_workload": "It really depends on your group. Since the group project takes up a great percentage of the total grade, you might spend a lot of time to modify your project. The workload therefore could be HEAVY.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "KDDGRT2VwL2uL4cBSu7gyaYf7cHy6Tc1",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 372,
+          "name": "ZHANG, Xiaojun",
+          "rating": 1
+        },
+        {
+          "id": 949,
+          "name": "LAI, Sum Yu",
+          "rating": 1
+        }
+      ],
+      "author": "Morpig",
+      "date": "Jan 23, 2018",
+      "title": "",
+      "comment_content": "Learning stuff about how to design a good system, the course content is all about drawing different diagrams, like Use Case Diagram, Class Diagram, Sequence Diagram and Behavioral State Machine Diagram. There will be a project for you to apply all you learnt in the lecture.",
+      "comment_teaching": "Xiaojun is my lecturer and he teaches in an active way with a lot of daily examples and stories in the lecture, but you will have to watch the video first yourself before going to the lecture as it applies blended learning. That means you just have to attend the lecture once a week instead of two. For me the tutorial is kinda same as the lecture but with a more comprehensive case to demonstrate the things you learnt. Samuel is a very good TA with wide range of knowledge, and he is friendly and funny.",
+      "comment_grading": "Project: 32%<br />Exam: 53%<br />Participation: 15%<br /><br />Work hard on the project as it will affect your grade significantly. Exams are easy so the mean is high.",
+      "comment_workload": "Every week you just need to watch the video and do the online quiz which is quite simple. There is no assignment but just a project which is not really time-consuming as it is not a practical project at all. Exams are very easy, you just need to study a bit before exams as you don&#039;t need to memorise anything, just need to know how to draw diagrams. The workload is very few.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "7wRDezxBlC6fq3ezh0jN31IuguxtIQvN",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 373,
+          "name": "JIA, Jia",
+          "rating": 1
+        },
+        {
+          "id": 374,
+          "name": "TSE, Sheung Hei Chris",
+          "rating": 1
+        }
+      ],
+      "author": "Yaka",
+      "date": "Jan 25, 2017",
+      "title": "",
+      "comment_content": "By taking this course you will learn the Info System development process and know how to draw standard diagrams for the system design. Concepts and skills acquired in this are highly related to the other courses for IS major students. Having some programming related knowledge would be an advantage.",
+      "comment_teaching": "The content of this course is relatively easy so I personally not so focused during the lectures. As for the lab, ex about drawing diagrams are provided and make sure you can draw all of them instead of copying Chris&#039;s ans. Same for the diagrams shown in the lecture slides.<br /><br />Jia Jia and Chris are nice and willing to help. But sometimes they may give opposite opinions so please judge by yourself.<br /><br />For the project, my suggestion is to start ASAP soon after your group&#039;s idea is accepted by TA. In the second half of the progress, if you want to seek help from TA/Prof, it&#039;s better to do that ASAP. Otherwise you may not have chance to meet them in person except for the assigned time-slot during consultation period.",
+      "comment_grading": "The grading is fair enough. Personal effort counts 50% and group work is the other half.<br /><br />Midterm and final: @20%<br />Parti: 10%<br />Project: (1) Proposal: 8%<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) Report: 30%<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3) Present: 12%<br /><br />Means of the two exams are high. Project decide whether you can got an A or not as the deviation is large.<br /><br />In total scoring more than 90% should be A range.",
+      "comment_workload": "Project counts 50% so it really requires effort to make the idea concrete and ensure the consistency of the stuff. For midterm and final, the mean is high so prepare for the exam is important.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Q5KGULguXLjlccCgdA1DPSlvyoumkQLw",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 372,
+          "name": "ZHANG, Xiaojun",
+          "rating": 1
+        },
+        {
+          "id": 374,
+          "name": "TSE, Sheung Hei Chris",
+          "rating": 1
+        }
+      ],
+      "author": "Bernard5",
+      "date": "Jan 22, 2017",
+      "title": "",
+      "comment_content": "This course provide an overview of fundamental principles of IS development methodologies, mainly about Unified Modeling Language (UML).",
+      "comment_teaching": "Both of the Instructors are friendly. You are very&nbsp;&nbsp;welcome to ask question after class. <br /><br />There are many class discussion time during lecture for you to do exercise and ask questions.",
+      "comment_grading": "Mid-term exam (20%)<br />Final exam (20%)<br />Participation (10%)<br />Lecture (5%)<br />Lab (5%)&nbsp;&nbsp;<br />Team project (50%)<br /><br />Group Project is very important as it accounts for 50% of the grade",
+      "comment_workload": "The overall workload is average.<br />A Mid-term, final and group project about designing an app for a retail company.<br />Plus some worksheets which are needed to hand in for the tutorial.<br />The project is not too demanding since consultations are given and you will get enough help from the instructors.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "HqOEZYVlG1ishHWJTAgphFTCnL2WEKwK",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 372,
+          "name": "ZHANG, Xiaojun",
+          "rating": 1
+        },
+        {
+          "id": 374,
+          "name": "TSE, Sheung Hei Chris",
+          "rating": 1
+        }
+      ],
+      "author": "Flanker",
+      "date": "Jan 19, 2017",
+      "title": "Attention to the modified grading policy",
+      "comment_content": "A introduction course to the Unified Modeling Language (UML) , a general-purpose, developmental, modeling language in the field of software engineering, that is intended to provide a standard way to visualize the design of a system.<br /><br />Just for you to know more, my CS and CPEG friend told me that they kill this topic within 3 lectures in a particular course",
+      "comment_teaching": "Prof. ZHANG teaches very well and he is quite nice. As he came from Guangdong , you can simply interact with him in Catonese.<br /><br />For T.A. Chris, please be careful while asking his help because he doesn&#039;t like people to bother him, he actually announced all 3210 student that he would not accept for most of the special request (paper checking , further consultation for the group project&nbsp;&nbsp;etc.). The best way to approach him is Email, he will reply you within 2-hour at most of the time.",
+      "comment_grading": "As the grading policy has been change since this semester.<br /><br />Before this sem, You may got a B+ if you stay within the mean<br /><br />But for this time, you may only get C+, OR EVEN LOWER<br /><br />Remember to do your group project well if you want to survive in this class cause it counts 50% of the grade, and the mean usually stays towards 80%",
+      "comment_workload": "A midterm, and A final<br />No attendance or in-class exercise for lecture, but have attendance for the LABs<br /><br />AGAIN, Remember to do your group project well if you want to survive in this class cause it counts 50% of the grade, and the mean usually stays towards 80%",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ewF5pAPiGfl5kZDKVpQl0NLzt8Qic4Vy",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 372,
+          "name": "ZHANG, Xiaojun",
+          "rating": 1
+        },
+        {
+          "id": 374,
+          "name": "TSE, Sheung Hei Chris",
+          "rating": 1
+        }
+      ],
+      "author": "Sheryl",
+      "date": "Jan 07, 2017",
+      "title": "",
+      "comment_content": "Mainly teach about object oriented modelling and Unified Modelling Languages.<br /><br />There are quite a term to memorize, but the concept is simple. It is very important to have consistency throughout all the figures and graph you write or else you would be deducted a lot of marks.",
+      "comment_teaching": "Prof. Xiaojun comes from Guangdong, therefore you can ask him questions in Cantonese which I found very &#039;user-friendly&#039;. He listens to students opinion a lot and make improvement on learning experience.<br /><br />However, I don&#039;t quite like the teaching style of TA Chris, as he sometimes gives contradict opinions and confusing answers. He got a bad temper too which he sent an message to all 3210 students to ask us not to send him email for additional paper checking lol<br />He will not be ISOM dept TA start from 16-17 Spring, so I think this may not be a problem later.",
+      "comment_grading": "Mid-Term 20%<br />Final 20%<br />Participation (Lecture 5% Tutorial 5%)<br />Team Project proposal (8%)<br />Report (30%)<br />Presentation (12%)<br /><br />Beware of group project, which accounts for 50% of the total grade, if you screw it up, you may not able to a C+ on this course (since the mean of the quiz is very high, over 80% most of the time)",
+      "comment_workload": "I think workload is quite low compare with ISOM3230. Since no interim report is need for the group project, it is highly possible for you and your groupmates start doing all the work 4-5 days before deadline (PPT slides and report almost dead at the same time)<br /><br />No attendance and no grading in class assignment (except for lab)",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "9XOd99QLbz6u0WVmhlLfWHaoIMzO8oUH",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 373,
+          "name": "JIA, Jia",
+          "rating": 1
+        },
+        {
+          "id": 374,
+          "name": "TSE, Sheung Hei Chris",
+          "rating": 1
+        }
+      ],
+      "author": "khwongaz",
+      "date": "Dec 22, 2016",
+      "title": "",
+      "comment_content": "Topics: how to write use cases and its description, flow of event, actors...<br /><br />Diagram: Use case diagram, class diagram, sequence diagram, behavioral machine diagram. <br /><br />Actually, the content taught is not difficult to understand, you just need to clear the concepts behind different examples.<br /><br />There are suggested textbook but not needed. The lectures notes and lab worksheets are enough for understanding.",
+      "comment_teaching": "The way Jia Jia explained things are a little bit confused and may not be so organized. It is actually quite hard to understand. But he would provide many real-life example that you can take a look. <br /><br />On the contrary, Chris&#039;s teaching is much better. Maybe sometime he will explain things in Cantonese and will try to make sure everyone can understand the topic. <br /><br />Both of them are willing to help us. Btw, Chris said he will leave the IS department, so in the following semester, he may not be the TA anymore.",
+      "comment_grading": "Good Grade<br /><br />Individual efforts (50%)<br /> Mid-term exam (20%)<br />-Final exam (20%)<br />-Participation (10%)<br />-Lecture (5%)<br />-Lab (5%)<br />Team project (50%)<br />-Proposal (8%)<br />-Report (30%)<br />-Presentation (12%)<br /><br />Overall I got 94.9%, that&#039;s an A+",
+      "comment_workload": "Mainly focus on the group project.<br />Remember to find some nice person to be your project mate, or you will be suffered for the whole course.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "j28G5QJ5Sk7LOT0Nua6wAF9tmjf01koQ",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 373,
+          "name": "JIA, Jia",
+          "rating": 1
+        },
+        {
+          "id": 374,
+          "name": "TSE, Sheung Hei Chris",
+          "rating": 1
+        }
+      ],
+      "author": "jennnnnnnnn",
+      "date": "Jan 26, 2016",
+      "title": "",
+      "comment_content": "Leading students to design a software system by using different useful diagrams. All the courses materials are related to those diagrams. Interesting content, and have a lot of space for students to think and design their own apps.",
+      "comment_teaching": "It is hardly to understand what JiaJia is talking about. But he would mainly follow his ppt in lecture. He would provide printed ppt during lecture, most of the context is simple and easy to understand. By the way JiaJia could recognize most students in the class and find out if you miss a class.",
+      "comment_grading": "Good Grade. I get full marks in midterm(15%) and almost full mark in final(15%) . And the group project(70%) is above mean and finally get a A. Lost in few marks would lead to a lower sub-grade. A highlight is that the weighting of exams is relatively low, should mainly focus on the group project. A lot people get high marks in exams.",
+      "comment_workload": "Light. Include a midterm and final exam and a group project which has a progress report, a final report and presentation throughout the semester. During each week&#039;s tutorial there would have a worksheet to hand out, but it is easy and could quickly finish during the class.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "u6znnnH1jKllBZpzb3R1Dvl9o6rQnRkX",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 372,
+          "name": "ZHANG, Xiaojun",
+          "rating": 1
+        },
+        {
+          "id": 374,
+          "name": "TSE, Sheung Hei Chris",
+          "rating": 1
+        }
+      ],
+      "author": "cheer",
+      "date": "Jan 21, 2016",
+      "title": "",
+      "comment_content": "The course is basically about designing an information system, e.g. a system of a mobile app. The syllabus is quite simple as the course mainly targets on teaching some techniques and requirements of plotting necessary graphs for information system design.",
+      "comment_teaching": "Prof and TA are really willing to help and give useful guidelines. Prof gives quite a lot of time for practicing the techniques in class so students are quite easy to catch up the content.",
+      "comment_grading": "60% of the grade rely on the project. Though students may try hard on midterm and final, project mainly rules the grade.",
+      "comment_workload": "There is no homework except some 1 page worksheets from lab. Most of the workload of this course is from the project. Students may feel easy before the midterm because they only need to submit a proposal with brief ideas of the information system they are going to develop. However, it could be demanding to finish the final report and presentation, as most of the technical problems of the system appear here when you go deep to your ideas. Sadly, students are sort of being forced to be deadline fighters as the work follows the teaching schedule.<br /><br />Midterm and exam are not complicated, but students have to be very very careful and rational when doing the paper.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Q2dF0TFaH5vthkh4MhVEOiMfZCIfp45h",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 373,
+          "name": "JIA, Jia",
+          "rating": 1
+        },
+        {
+          "id": 374,
+          "name": "TSE, Sheung Hei Chris",
+          "rating": 1
+        }
+      ],
+      "author": "V.lylit",
+      "date": "Jan 02, 2016",
+      "title": "The keyword here is &quot;consistency&quot;.",
+      "comment_content": "Please read the syllabus as attached - thank you.<br /><br />The textbook isn&#039;t very useful despite the really good exercises after each chapter - uh... it doesn&#039;t come with solutions so you can&#039;t really see if you&#039;re right or not - UNLESS you go and ask your prof/ TA.&nbsp;&nbsp;(but rest assured your exam will definitely be easier than the minicases/ exercises).<br /><br />Otherwise, they&#039;re really useful if you&#039;re interested in becoming a business analyst - I hear they&#039;re in high demand now in the job market.&nbsp;&nbsp;Even better thing is that you get to learn all the industry standards here.",
+      "comment_teaching": "Both instructors are very nice people, and if you pay enough attention/ participated enough for them to remember you, your life would probably be easier in the course.<br />----------------------------------------------------------------------<br />This section is for Jiajia - <br />As I see it, he really wants to tell you everything, including the theoretical basis of some common practices in donig UML diagrams.&nbsp;&nbsp;If you already have a good foundation on how to deal with the diagrams, the theoretical background can do you good.<br />Otherwise you&#039;ll probably end up getting a bit (or very) confused.<br /><br />This section is for Chris -<br />He can present all that very clearly... and is very willing to answer questions you raise... except that you have to come prepared. Do not waste his time or he may end up &quot;west-facing&quot; you. <br />Otherwise, he&#039;s very nice and friendly but don&#039;t expect him to be in a good mood at all times - he&#039;s a human being alright... <br />(PS yes I do prefer Chris over Jiajia - I guess it&#039;s because I understand English a lot better than Mandarin, in which Jiajia would express much clearer)",
+      "comment_grading": "Definitely not lenient but you can see it here:<br /><br />Part 1: Individual efforts (40%) <br />Exams<br />Mid-term exam (15%) - requirement analyses, use case description, UC diagram<br />Final exam (15%) - class diagram (40% of exam), sequence diagram (also 40% of exam - 2 diagrams so each is 20%), BSM diagram (20% of the score)<br /><br />Participation (10%) - make sure the professor and TA remember you ^^ They are 5% each, for lab and lecture <br /><br /><br />Part 2: Team project (60%) &lt;-- Please do not screw this up!!<br />Proposal (10%)  <br />- there will be an interim meeting: make sure you <br />1. be prepared to be get grilled by Chris<br />2. be prepared to see how Chris grills you so you know where exactly to start improving.<br /><br />Report (35%)<br />- 2x to 3x pages (forgot how much our group wrote though), make sure you check for the relevance of each feature of your system, consistency of all the diagrams and descriptions, and then whether they&#039;re logically feasible.<br /><br />Presentation (15%)<br />- make it interesting and clear. Keyword here is &quot;effective&quot;.<br /><br /><br />My experience: (getting an A, ranks at 13 out of 205 &lt;-- YES we actually get to know our ranks in the end! *isn&#039;t it exciting* *groan*)<br />midterm: 98/100<br />final: 86/100 (losing so much on the class diagram *sob*)<br />project<br />&nbsp;&nbsp;&nbsp;- proposal: 6.5/10 (because we went for too many foci *min score is 6 so our score is definitely way below mean*<br />&nbsp;&nbsp;&nbsp;- project score after evaluation adjustment: 55.5/60 (above mean definitely, especially thanks to my 5 groupmates, and Chris, my 6th one)<br />&nbsp;&nbsp;&nbsp;- our group has gotten ~49/50 for the report + presentation (by calculation)<br /><br />Chris: if you got higher score on the finals, you would have gotten an A+.&nbsp;&nbsp;<br />//sigh<br /><br /><br />Important note:<br />1. &quot;we will asign grades strictly according to the School&#039;s policy&quot; <br />2. Peer evaluation is very important for the project grade (which accounts for most of the grades).<br />//This means - <br />a. choose good groupmates<br />b. make sure you work well with them - preferrably become friends with them too<br />3. Chris has lots of real-world experience (and knows about the industry standard VERY WELL) so you really will want to ask him frequently for advice.&nbsp;&nbsp;Make sure you go well-prepared, whether they are consultation sessions or just chances for you to ask questions.&nbsp;&nbsp;This doesn&#039;t only apply in projects.<br />4. Most importantly, please be careful whether you have made sure all the attributes/methods/anything is consistent with each other.&nbsp;&nbsp;Each point is at least 2 marks each and you&#039;ll be screwed if you miss out anything.",
+      "comment_workload": "Major workload sources:<br />- revision (not very heavy if you keep clearing your concepts throughout the semester)<br /><br />- lab homework (not difficult - and helps to revise - and helps to get points)<br /><br />- project <br />//it&#039;s all about discussing:<br />1. what system to make <br />2. whom is it for<br />3. how should it work (what processes it should have)<br />4. how should it work (how the users can operate on the app - oh and does the user drag the thing or click it?)<br />5. how to present it <br />6. how is it valuable for the people you decided to address in Q2.<br />//<br /><br />I&#039;d wish you all the best trying to not work only when deadline is almost there (I remember editting the proposal just 5 minutes before the interim meeting!!) or having to work with free-riders.<br /><br />Finally, I wish you all the best in not having too much conflicts, esp those regarding how the logical flow should go.<br />Usually this should not be a problem, but when you have a groupmate who decidedly is structured differently from you - good luck discussing/ arguing over whatsapp for a whole hour over just 1 point.<br />--&gt; remember to ask Chris, or else nothing can progress and your brain cells will all die &lt;--",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 10,
+      "vote_count": 10,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "eNYIP3HsVyIkagCYJjje3ljgauChz60n",
+          "name": "ISOM3210_Fall_2015_10012015-L3-4",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

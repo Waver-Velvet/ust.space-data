@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 3527,
+    "subject": "HUMA",
+    "code": "5842",
+    "name": "Buddhist Philosophy",
+    "description": "This course provides an introduction to selected canonical and non-canonical sources of Buddhist thought and practice. It offers a critical examination of the philosophical ideas and arguments of Buddhist traditions in South Asia and East Asia and an exploration of the history of Buddhism with an emphasis on its basic doctrines, interpretive strategies, and philosophies.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2110
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "MGCS 6000C",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 326,
+        "name": "NELSON, Eric S",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "uCgiWtT57LBt7aSqkf1oxaEkveIGARMQ",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 326,
+          "name": "NELSON, Eric S",
+          "rating": 1
+        }
+      ],
+      "author": "typer",
+      "date": "Feb 11, 2022",
+      "title": "Highly recommended",
+      "comment_content": "Very rich and engaging information through the lecture time. Detailed information on ppt shared on canvas. Readings are drawn from renown historical thinkers in the Buddhist tradition, rather than the actual sutras, since the focus is more on the philosophical debates rather than the religious aspect. You will gain a comprehensive and in-depth knowledge about Buddhist philosophy at the end of the course.",
+      "comment_teaching": "Very clear, engaging and organized. Also will answer your questions in detail. The classes are easily some of the most engaging lectures to attend at HKUST, especially if you enjoy humanities thinking.",
+      "comment_grading": "It is fair, but does require good reading and analytical writing skills. If you enjoy writing and thinking about philosophical issues it should be fine.",
+      "comment_workload": "Weekly readings, some required and some optional. But it is not really checked whether each students read them or not. You can simply focus on the ones you want to write about in depth. One midterm essay and one final essay, each with abstract. Humanities pg students will need to do presentations, but not for others.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "course": {
+    "id": 1620,
+    "subject": "CIVL",
+    "code": "5770",
+    "name": "Unsaturated Soil Mechanics and Engineering",
+    "description": "Fundamental principles, stress state variables, steady-state and transient flows, theory of shear strength and its measurements, soil stiffness, plastic and limit equilibrium analyses of earth pressures, slope stability and bearing capacity, critical state framework, instrumentation, engineering applications on slopes including static liquefaction of loose fill slopes, foundations, forensic studies such as slope failures.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"3740\" href=\"/review/CIVL3740\" target=\"_blank\">CIVL 3740</a> or equivalent",
+    "corequisites": "",
+    "exclusions": "CIEM 5770",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1634,
+        "name": "SO, Pui San",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "17HoGzk756ZINOFYjrWF2s6RJLd0j6EO",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1634,
+          "name": "SO, Pui San",
+          "rating": 1
+        }
+      ],
+      "author": "HKUST-1",
+      "date": "Feb 01, 2023",
+      "title": "Very Fundamental Course for research",
+      "comment_content": "Chapter 1: Intro<br />Chapter 2: Physics Phases<br />Chapter 3: Stress State Variables<br />Chapter 4: Suctions<br />Chapter 5: Flow Laws and SDSWCC<br />Chapter 6: Permeability<br />Chapter 7: Flows<br />Chapter 8: Strength and Stiffness<br />Chapter 9: Limit Analysis<br />Chapter 10: Bioengineering / Slope / Landfill Cover<br /><br />除咗chapter 10以外全部都係啲好basic嘅extended CIVL 3730嚟<br />多咗個叫做suction嘅term咁解<br /><br />而chapter 9就係CIVL3740多咗suction嘅版本<br /><br />成個course 基於Fredlund 本舊書去執出嚟<br />對我嚟講最有用嘅係學到唔同geolab入面嘅機嘅working principle同埋unsaturated soil 嘅behavior<br /><br />不過由於好食3730嘅basic所以讀呢個course之前建議真係明晒成個3730啲野或者將Craig&#039;s Soil Mechanics成本書食晒落肚先",
+      "comment_teaching": "新嚟嘅reserach assistant professor <br />香港人 幾好傾<br />不過唔俾lecture recording<br />走咗堂就pk",
+      "comment_grading": "PG grading 唔講太多",
+      "comment_workload": "冇workload咁濟<br /><br />得一份assignment同final exam<br /><br />assignment可以一日做完",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

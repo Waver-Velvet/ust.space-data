@@ -1,0 +1,111 @@
+{
+  "course": {
+    "id": 117,
+    "subject": "CHEM",
+    "code": "4340",
+    "name": "Bioanalytical Techniques",
+    "description": "Topics covered include fundamentals of optical microscopic techniques, protein analysis, enzymatic bioassays; DNA techniques and biomicrofluidic techniques.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"2310\" href=\"/review/CHEM2310\" target=\"_blank\">CHEM 2310</a> OR <a class=\"course-link\" data-subject=\"CHEM\" data-code=\"2311\" href=\"/review/CHEM2311\" target=\"_blank\">CHEM 2311</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 2.5,
+    "rating_teaching": 2,
+    "rating_grading": 3,
+    "rating_workload": 2,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 53,
+        "name": "WU, Hongkai",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "HhMQFMDXIyMB12yO9WgvFBLBjUGJFT5N",
+      "semester": "2020-21 Fall",
+      "instructors": [],
+      "author": "Jacko Wang",
+      "date": "Jul 18, 2022",
+      "title": "",
+      "comment_content": "The course is very very difficult to learn.",
+      "comment_teaching": "Prof WU is a smart prof but he overthinks the students to learn more about his lessons. Honestly he did not give enough explanation to us and we all learn by ourself.",
+      "comment_grading": "Grading is a mystery in this course. The exam is very hard. Be sure you can get more marks from the presentation. But the pre is useless actually.",
+      "comment_workload": "There is no homework and the pre is easy to make. But make sure you make everything clear in this lesson.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "qEXfpjwMMa3dsiWCRwPy6I3qJLbDKgsE",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 53,
+          "name": "WU, Hongkai",
+          "rating": 0
+        }
+      ],
+      "author": "gazelle",
+      "date": "Dec 31, 2020",
+      "title": "WARNING!!! Please drop this course if you could, it simply ruins your GPA!!!",
+      "comment_content": "Please consider dropping this course for the following reasons:<br /><br />This professor is as a nauseating hypocrisy as my ex. He keeps contradicting himself throughout the semester. In selection of presentation topic, he asks us to list up to 3 favoured topics without stating whether the topics are 1st-come-1st-served or not; and he believes there won’t be much conflict in topic selection. In preparation of presentation, he requires us to leave few minutes for Q&amp;A despite the presentation being videotaped. In writing peer evaluation, it is originally assumed that one group only needs to submit one review; but at the afternoon of deadline, they suddenly say the review is meant to be an individual work. These are already not nauseating.<br /><br />The most nauseating is once he says, “value of education is to ensure you know what is going on so that you would be able to solve problems, instead of remembering lots of facts”. For this reason, he originally plans not to include MCQs in the final. But 2 days before the final, in the midnight, we suddenly receive an email stating the final will be 40-mins long with 60 MCQs. Needless to say, the final is in stark contrast to his belief of “value of education” (refer to Teaching for details). You grade killer discuss with me value of education???!!! I believe I know better than you what is meant to be a high-quality education.<br /><br />In the final, just few minutes before start, the professor keeps rambling and rambling, explaining how COVD-19 affects students working in his lab. Who the heck cares about this right before the exam???!!! During the exam, it seems that the TA is unable to immediately resolve technical problems. Some classmates therefore turn on their microphones and talk directly to her. Their keep talking for few minutes is really distracting; this exam is originally a super intense, mind-blowing one already, okay? If the TA could double check prior to the exam and make sure things work properly, would those classmates need to speak up and distract others? Clearly both the professor and TA need to undergo formal logic training before they could continue teaching next time.<br /><br />Disastrous performance of the professor and TA aside, you should also consider dropping this course because of the presence of outliner students. Some students are literally experts in delivering presentations — they do a far better job than what the professor and TA are doing!!! How could you compete with those outstanding students and receive a reasonable grade in the course presentation (worth 50%)?<br /><br />There are also students who are experts in the discipline of bioanalysis. No matter how hard and demanding the exam is, they can still pass it with flying colours, pulling up the average score. And a score closes to or below average is meant to be a C range grade in UST. Given this is a reasonably small class, these outliner students would eventually lead you to a shit grade, despite your hard work throughout the semester.<br /><br />If you are taking this course to fulfil option of CHEM major, I would suggest you switch to CHEM 4320. Things are clearly less disastrous. You could also do Chemistry Internship (CHEM 3610B) to cover this tearing 3 credits. If you are taking this course to fulfil ENVR minor, I would suggest you switch to ENVS 3005. The course coordinator is more professional and helpful. If you are interested in disease-causing mechanisms (and therapies), you could take LIFS 4760.<br /><br />DO NOT take CHEM 4340 for any reasons!!!!!!",
+      "comment_teaching": "I have taken some other courses where professors are able to demonstrate tough, perplexing things to us students. They exhibit their strong knowledge foundation in the disciplines they are teaching and their eagerness to help us students. In the final, even if they set super tough questions, you know you could at least solve some of them using the things they teach you.<br /><br />This professor, however, tends to complicate things during lecture and leave you a big question mark in the end. In the final, he just bombards you with every single minor detail that is not explicitly covered in lectures nor slides. After all, you understand the course material because you already understand it, not because this course teaches you and you understand. Similarly, you know how to solve the exam questions because you already know how to solve, not because you attend the lecture and study hard to be able to solve. This is not the worst.<br /><br />The worst is he and the TA keep telling us not to cheat, which is why only 40s are allowed for each MCQ in the final. Do you think an exam like this is meaningful? Even if I am familiar with the course material, I still need time to read the questions and confirm my answers!!! Judging from the fact that the professor and TA often get stuck and are unsure of what themselves are talking about during their presentations, I don’t think they could do a better job than us students in the exam, if they are required to take so.<br /><br />If you don’t want us students to cheat, please deliver lectures of super high quality, and demonstrate your eagerness to help us (to be able to solve problems). Once we are inspired, we will spare no effort studying and forget about cheating. Keep saying “not to cheat” only makes you bothersome and hypocritical.<br /><br />If the professor and TA are among those being peer-evaluated, I would definitely give them an F. Even a D is overrated.",
+      "comment_grading": "What could you expect for this shitty professor???!!! The more you expect, the more you will be disappointed. Just work as hard as you can and sorrowfully forget about the grading.<br /><br />Luckily, I received a B+ in the end for my being no. 1 in the presentation (worth 50%). If the course is 100% MCQs examination, I would definitely receive a C grade, not even a C+. What a shame is it, given that I have burnt the midnight oil for nearly a week during the reading week, in exchange for such a “reasonable” grade (refer to Workload for more details).<br /><br />Don’t think that if you do well in CHEM 2310, you will also do good in this course. The prerequisite is literally irrelevant to the course content of CHEM 4340. Even if you have taken CHEM 3320, it is still far from enough. Supposedly, you should have taken LIFS 2210 (or even LIFS 2220), together with CHEM 2310 and CHEM 3320. If you don’t believe in me, consider the following. A friend of mine who got an A in CHEM 2310 and an A+ in CHEM 3320 ended up a B in this course.<br /><br />As a matter of fact, I failed to attain a 4.0 TGA because of this rubbish course. So once again, do THINK TWICE before taking this course!!!!!!",
+      "comment_workload": "Main workload arises from self-education. As mentioned earlier, lectures and tutorial are literally rubbish — you could learn nothing from that, let alone helping you prepare for the super tough final. What I do during the reading week is to, watch YouTube videos of relevant topics and somehow read through the lecture slides to guess what the heck is going on. But this is certainly far from enough.<br /><br />To good in the final, you will need to mull over and memorize every single detail that the slides have mentioned (although open book). I would say in thorough preparation of the exam, the workload is even greater than doing a capstone research project. Maybe some smart, talented students can manage to do this well, not for me though because of my limited intellectual ability.<br /><br />I have heard that in 19 Fall, everything (including the grading) is reasonable. I don’t know why problem worsens since 20 Fall. And I foresee that 21 Fall will not be way better. Do think twice before taking this course (refer to Content for alternatives).",
+      "rating_content": 2,
+      "rating_teaching": 1,
+      "rating_grading": 3,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 5,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

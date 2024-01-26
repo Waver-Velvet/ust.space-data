@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 3633,
+    "subject": "COMP",
+    "code": "6613E",
+    "name": "Theory of Types and Programming Languages",
+    "description": "This course studies types and programming languages from a type-theoretic perspective. Starting from lambda calculus, the foundation of functional programming languages, we see how to design gradually more advanced type systems following the motto “Well-typed programs do not go wrong”, meaning that types should guard us, at compilation time, from wide classes of runtime errors. Taking this principle to the extreme, we see how dependent type systems let us prove nontrivial properties of our programs, and how they relate to mathematical logic in a fundamental way. The knowledge acquired in this course has many practical applications in software engineering and computer science. It will sharpen the student’s understanding of static types in modern programming languages, as well as their ability to construct correct and reliable programs. Topics covered include lambda calculus, operational semantics, type systems, programming language theory and metatheory.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2130
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"2711\" href=\"/review/COMP2711\" target=\"_blank\">COMP 2711</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2711H\" href=\"/review/COMP2711H\" target=\"_blank\">COMP 2711H</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2343\" href=\"/review/MATH2343\" target=\"_blank\">MATH 2343</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1526,
+        "name": "PARREAUX, Lionel",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "CMT6rhCoNqSsbT7CajUe7Atwh4ufGYqV",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1526,
+          "name": "PARREAUX, Lionel",
+          "rating": 1
+        }
+      ],
+      "author": "Asagami Fujino",
+      "date": "Jan 21, 2023",
+      "title": "Great course if you are interested in PL",
+      "comment_content": "A rather &quot;deep&quot; introductory course into type theory.<br /><br />This is basically a port of CS-452 from EPFL.<br />https://edu.epfl.ch/coursebook/en/foundations-of-software-CS-452<br /><br />It covers the following topics:<br />- simple types, lambda-calculus<br />- normalization, references, exceptions<br />- subtyping<br />- recursive types<br />- polymorphism<br />- advanced features of the Scala type system",
+      "comment_teaching": "Lionel&#039;s teaching is quite good, and he is willing to answer your questions.",
+      "comment_grading": "Labs: 30%, Midterm: 30%, Final: 40%<br /><br />I think the grading is quite good (as it is a PG course). <br />Getting an overall of 85% is already A+ (The one with highest score would probably have got something like 95%)",
+      "comment_workload": "5 labs over the semester, all using Scala and completed individually. And you have a chance to resubmit after the lab is graded, the final grade of your lab will be of the resubmitted one.<br />All the labs are easy except the last one (related to the HM type system)<br />Besides, there is also midterm exam and final exam",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "course": {
+    "id": 3898,
+    "subject": "CORE",
+    "code": "1200",
+    "name": "Engineering Team Design Experience",
+    "description": "The Engineering Team Design Experience course allows students to explore various areas of engineering in order to design and build a remote controlled device or vehicle, culminating in the final competition before the end of the term. Students will use these specific project requirements as an opportunity to explore activities in which managers/engineers of various disciplines are involved. Specifically, they will build a device or vehicle that has motors and propellers for propulsion and control, and is controlled remotely using an Android device. Students in this course will be divided into design teams with a common goal: construct their project artifact. Each team will then undergo half-a-term training on construction, mobile phone programming and hardware communication. Team members work together to obtain the skills needed to design their project. Finally, the teams compile an project and contest other teams in a competition.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2240,
+      2230
+    ],
+    "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1401\" href=\"/review/CORE1401\" target=\"_blank\">CORE 1401</a> OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1402\" href=\"/review/CORE1402\" target=\"_blank\">CORE 1402</a> OR CORE 1403 OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1404\" href=\"/review/CORE1404\" target=\"_blank\">CORE 1404</a> OR LANG 1002 (prior to 2022-23)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4.75,
+    "rating_grading": 4.25,
+    "rating_workload": 4.25,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 86,
+        "name": "CHAN, Yui Bun",
+        "count": 4
+      },
+      {
+        "id": 1071,
+        "name": "LAVIGNE, Paul David",
+        "count": 4
+      },
+      {
+        "id": 1702,
+        "name": "CHONG, Nga Shun",
+        "count": 4
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "KUhccppj4tg9L8NfiMO1rlthGVLEAOAv",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 86,
+          "name": "CHAN, Yui Bun",
+          "rating": 1
+        },
+        {
+          "id": 1071,
+          "name": "LAVIGNE, Paul David",
+          "rating": 1
+        },
+        {
+          "id": 1702,
+          "name": "CHONG, Nga Shun",
+          "rating": 1
+        }
+      ],
+      "author": "MGF",
+      "date": "Jan 22, 2024",
+      "title": "Best Course Out There",
+      "comment_content": "Very fun course about creativity and 3D modeling.<br /><br />In the first half of the course the professor emphasizes on the topic of creativity by putting students into groups and doing creative tasks.<br /><br />If you’re someone very interested in 3D modeling, the second half of the course is for you. Here the TA will teach ths basics of Blender from making shapes and using most useful tools to lighting and rendering.",
+      "comment_teaching": "The teaching is very simple and straightforward. Professor CHAN will take about 30 minutes of the course talking about creativity and inspiring all students about it. The remaining of the time he will let students do creative tasks such as drawing and solving fun questions to inspire creativity.<br /><br />The TAs are very helpful during the task and blender turotials in class.",
+      "comment_grading": "Best Course Best Grading.<br /><br />Got A+",
+      "comment_workload": "The workload is very manageable as most of the marks counting towards the final grade will be in the second part of the course.<br /><br />We were required to design a room in the Atrium with blender objects and showcase it in a virtual reality website.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "j2PGgSKZClG4nqY31t689FbN2DwK9VZg",
+      "semester": "2022-23 Summer",
+      "instructors": [
+        {
+          "id": 86,
+          "name": "CHAN, Yui Bun",
+          "rating": 1
+        },
+        {
+          "id": 1071,
+          "name": "LAVIGNE, Paul David",
+          "rating": 1
+        },
+        {
+          "id": 1702,
+          "name": "CHONG, Nga Shun",
+          "rating": 1
+        }
+      ],
+      "author": "發夢都諗住爆4",
+      "date": "Sep 14, 2023",
+      "title": "Metaverse and 3D model",
+      "comment_content": "I took this course during the summer semester, and the subject matter was centered around the exciting concept of the metaverse. It&#039;s worth noting that the topics covered can change each semester; however, my review is based on the metaverse theme, not the previously taught Airship theme.<br /><br />The course was structured into three distinct parts, each offering valuable insights into different aspects of the metaverse:<br /><br />Design Thinking and Creativity (Prof. Chan&#039;s Lectures): Prof. Chan led engaging lectures on design thinking and creativity. One notable aspect was that lecture notes weren&#039;t provided, but this wasn&#039;t a concern as the material wasn&#039;t tested, making note-taking optional.<br /><br />Blender Skills and 3D Modeling (Mr. Ian&#039;s Sessions): Mr. Ian took us through the process of using Blender for creating 3D models. These skills proved essential for our assignments and the group project. The instructions were clear, and the assignments included both guided exercises completed outside of class and in-class exercises, ensuring a comprehensive understanding.",
+      "comment_teaching": "The teaching approach was quite relaxed. Prof. Chan had a laid-back and approachable demeanor, and the presence of three Teaching Assistants further facilitated a smooth learning experience, ensuring that no student felt left behind.<br /><br />This semester, the course employed a combination of in-person and online teaching methods. We met on the Spatial.io metaverse platform for lessons and occasionally had face-to-face classes. This unique blend of learning environments added a dynamic element to the course.<br /><br />Attendance wasn&#039;t mandatory due to the course being offered during the summer, allowing for flexibility in managing schedules.",
+      "comment_grading": "The grading system consisted of several components, reflecting the diverse skills we acquired:<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;Blender Assessments (Best 3 out of 5): 15%<br />&nbsp;&nbsp;&nbsp;&nbsp;Poster Design: 10%<br />&nbsp;&nbsp;&nbsp;&nbsp;Ideas Pitch: 10%<br />&nbsp;&nbsp;&nbsp;&nbsp;Team Custom Tram Station: 10%<br />&nbsp;&nbsp;&nbsp;&nbsp;Final Space Modelling: 25%<br />&nbsp;&nbsp;&nbsp;&nbsp;Final Roadshow: 30%",
+      "comment_workload": "Balancing the coursework was manageable, especially considering the condensed summer schedule.<br /><br />The Blender assessments were a blend of guided take-home exercises and in-class tasks. The instructions were straightforward, and completing the assignments took about two hours each. The group project was a highlight – constructing a metaverse space in Spatial that represented a chosen country. We had two weeks to complete and submit this project, fostering teamwork and creativity.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "pkm0O6Hms8gyEpKQcoJaOeTUVTae8rJW",
+      "semester": "2022-23 Summer",
+      "instructors": [
+        {
+          "id": 86,
+          "name": "CHAN, Yui Bun",
+          "rating": 1
+        },
+        {
+          "id": 1071,
+          "name": "LAVIGNE, Paul David",
+          "rating": 0
+        },
+        {
+          "id": 1702,
+          "name": "CHONG, Nga Shun",
+          "rating": 1
+        }
+      ],
+      "author": "IDIOTHAHAHA",
+      "date": "Sep 10, 2023",
+      "title": "pace is too fast",
+      "comment_content": "The first part is to learn how to be more creative.<br /><br />The second part is to learn blender:<br />Installation<br />UI and Navigation<br />Optional Settings<br />Object Mode and Edit Mode (most important)<br />Object Origin and Snapping<br />Introduction to Modifiers<br /><br />You have to spend a lot of time to practice using blender.<br /><br />We have to export models from blender and import it to spatial.io, which is a 3D multiverse and allow creating 3D space and interactions between users. You may need to use your google, microsoft or other account to login spatial.io.<br /><br />I found spatial.io really interesting ngl.<br /><br />Poster design, ideas Pitch, custom tram station, final space modelling, roadshow are all team work. Your team have to pick a country from the list given and do those stuff that are related to that country. For the poster, you can use ai image generator to create and it is to advertise your city space to others. Don&#039;t just simply add buildings that are already present in that country. Try to create new or special things that have same style as that country. And explain how do they represent that country&#039;s culture.<br /><br />The theme will probably be different so the paragraph right above is just for reference.",
+      "comment_teaching": "We can use either spatial.io or zoom to join online lectures and teacher recommend using spatial.io. However, spatial.io consumes battery quickly and makes my laptop very hot when it is running.<br /><br />In just my opinion, Ben Chan&#039;s lectures on creativity are boring. Mr. Chong&#039;s tutorials on blender are much more interesting and useful. Mr. Chong explained very well on blender and he would repeat the steps any times you want as long as you shout out and ask him.<br /><br />Attendance is not taken but if you don&#039;t attend face to face lessons, you won&#039;t even know what to do for the 2 class exercise.<br /><br />The bad thing is that they taught blender animation in the last lecture, which is after the final roadshow. However, I learned animation and exporting stuff by myself through youtube videos so I could handle them.",
+      "comment_grading": "Blender Assignments (3 guided modelling exercise +2 class exercise) (Best 3 out of 5) 15%<br />Poster design 10%<br />Ideas Pitch 10%<br />Team Custom Tram Station 10%<br />Final Space Modelling 25%<br />Final Roadshow 30%<br /><br />I suppose everyone gets at least B range unless they don&#039;t do any individual assignments. Isn&#039;t too bad if can&#039;t get A range.",
+      "comment_workload": "The workload is big and I am very stressful just because they gave us only 1 week to finish final space modelling and prepare presentation(roadshow). My group nearly messed up because of crashing in spatial.io. Remember to reduce file size of the 3d model if spatial.io faces overloading.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "PH8WrABJQuSYsmUuiuItUwWuetsugeB5",
+      "semester": "2022-23 Summer",
+      "instructors": [
+        {
+          "id": 86,
+          "name": "CHAN, Yui Bun",
+          "rating": 1
+        },
+        {
+          "id": 1071,
+          "name": "LAVIGNE, Paul David",
+          "rating": 1
+        },
+        {
+          "id": 1702,
+          "name": "CHONG, Nga Shun",
+          "rating": 1
+        }
+      ],
+      "author": "lmhayden",
+      "date": "Sep 03, 2023",
+      "title": "",
+      "comment_content": "整一個代表到自己group揀嘅國家嘅Space (用blender/可以少少網上download)<br />有高嘅creativity會有幫助，因為prof. 着重叫我地運用創作力去創造一啲世界冇嘅嘢，但係又可以代表到自己group揀嘅國家嘅building",
+      "comment_teaching": "佢每一堂lecturer都分左2 part。part 1: 教你點樣可以有多啲創造力, part 2: 教你點樣用blender. Part 1我冇認真聽過 因為佢講得真係太悶。part 2就係TA教，個TA講得幾好，起碼我真係有認真聽，唔覺得悶",
+      "comment_grading": "Grading一般，正如以上所講，A range要有高創造力<br />My grade: B",
+      "comment_workload": "Workload真係好細，成個course就係叫你做1個group project，而家個group有五個人，將啲嘢分咗5分嘅話都唔算太辛苦，前提你冇遇到free Rider先，本人好好彩咁個個都唔係free Rider",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

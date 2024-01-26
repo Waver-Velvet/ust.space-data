@@ -1,0 +1,78 @@
+{
+  "course": {
+    "id": 2519,
+    "subject": "SOSC",
+    "code": "3260",
+    "name": "Sustainability Science: Policy Problems and Perspectives",
+    "description": "Sustainability problems pose difficult challenges because of their complexity and uncertainty in both the technical and political realms. The goal of the course is to explore how students can make use of interdisciplinary approaches to be effective in the design and implementation of solutions that impact both society and environment. Students will work to understand complex issues and engage analytically with a range of materials. The course will introduce the core concepts of sustainability science, and apply them to real problems such as climate change, urbanization, air pollution, and food production.",
+    "categories": [
+      "Common Core (SA)",
+      "Common Core (S&T)"
+    ],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1930,
+      1830,
+      1730
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 2,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1027,
+        "name": "MATUS, Kira",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "bBj0EoCuKryLvlfrHc1PzH11TQOV5SSr",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 1027,
+          "name": "MATUS, Kira",
+          "rating": 1
+        }
+      ],
+      "author": "TF",
+      "date": "Jun 07, 2019",
+      "title": "One of the few public policy courses in HKUST (Particularly in UG)",
+      "comment_content": "The course introduces the fundamental structures, systems and policies of governance and applies them to a contemporary issue which is sustainability.<br /><br />The professor will give a brief introduction about policy cycles and tools, basic constituents of people&#039;s well-being as well as the objectives and goals of sustainable development. Then the students will study how the policy makers optimise the levels and manipulate the changes in each of the constituents (natural, human, manufactured, social, knowledge), namely how to coordinate the stakeholders&#039; effort, set the policy agenda, monitor the progress, etc. <br /><br />The last part of the course covers more complex concepts like power distribution, adaptability and resilience. These concepts will help students understand how and how should a system withstand and respond to internal external threats like inequality, natural disasters and resource depletion.",
+      "comment_teaching": "SMALL CLASS SIZE -- Only around 15-20 students which is ideal for in class discussion and participation, also for other activities (debate, simulation, etc)<br /><br />The content is indeed quite conceptual but the professor tends to go through them in a simple way and make them as easy as possible to comprehend. However she sometimes speaks a bit fast and soft which is hard for students to follow. <br /><br />The lecture notes are pithy but some of the explanations and elaborations are missing and it may take extra time and effort for students to find them from the textbooks and readings.<br /><br />There are a few rounds of in-class activities including some simulation games, debates, public policy formulation and wealth distribution exercises. The activities can stimulate students interest and understanding on policy makers&#039; decision making. Especially for the small class size, everyone gets the chance to express their opinions on each of the issues.",
+      "comment_grading": "Most students should be diligent and actively attend and participate if they choose to take this course. Because of the small class size, your scores should be alright if you pay attention in class and finish most of the assignments and projects. You may need to go through all materials in details but the marking should be lenient. The mean is supposed to be high but the grades should not be too bad if your score is close to the mean. <br /><br />Assignments: 35% <br />Participation (Attendance+Discussion questions+In-class activities) :15% <br />Project+Presentation: 15%+10% = 25%<br />Final: 25%",
+      "comment_workload": "Quite tedious workload. There are usually 3-5 readings every week (sometimes even more). The professor and TA expects you to read them in details and there will be quizzes in the earlier weeks and a few reading summary assignments throughout the semester. In addition, after each of the in-class simulation, there are exercises and write-ups for you to reflect on the strategies you played and the results. <br /><br />Each of the student will be assigned with one round of case analysis. You will be given a sustainability issue in one part of the world and you have to analyse the causes and effects, compare different solutions and make your own judgement.<br /><br />The project is about a sustainability initiative in HKUST. It has to be accomplished with more effort and group work. You have to address the problem, conduct field research, explain your solutions and analyse the value of the project. Overall it looks like a &#039;small&#039; FYP, particularly for the financial part. The professor expects you to carry out the cost-benefit analysis and elaborate your financial plan even though it is not a business course.<br /><br />Many of the concepts have to be recited during the final exam, including the examples. There will be a question about the case in the final as well. Most students use up all 3 hrs to answer the questions.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

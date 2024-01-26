@@ -1,0 +1,108 @@
+{
+  "course": {
+    "id": 3547,
+    "subject": "MECH",
+    "code": "4000O",
+    "name": "Introduction to Additive Manufacturing and Rapid Prototyping",
+    "description": "This course serves as a general introduction to the underlying concepts of state-of-the-art additive manufacturing (AM) technologies. A wide range of representative processes (including fused deposition modeling, material jetting, selective laser sintering, direct energy deposition, stereolithography, digital light processing) is discussed in the AM of different materials. The physical principle, theoretical modeling, and the effects of different process parameters are derived and analyzed. Building on the knowledge of AM process, the computer-aided design (CAD) and computer-aided manufacturing (CAM) are reviewed; specific design principles for AM are discussed. The students are also expected to have hands-on experience with the AM machines through the design, fabrication, and measurement of parts. Besides AM, other representative rapid prototyping techniques (e.g., incremental forming) are also briefly discussed.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2110
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MECH\" data-code=\"2410\" href=\"/review/MECH2410\" target=\"_blank\">MECH 2410</a> AND <a class=\"course-link\" data-subject=\"MECH\" data-code=\"2520\" href=\"/review/MECH2520\" target=\"_blank\">MECH 2520</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1616,
+        "name": "DUAN, Molong",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "DX8KttpbiBSgnvd6BUlBAd5Vxby9yo2K",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1616,
+          "name": "DUAN, Molong",
+          "rating": 1
+        }
+      ],
+      "author": "lamchunkwan",
+      "date": "Jul 26, 2023",
+      "title": "Good stuff",
+      "comment_content": "Additive manufacturing-3d printing. Overall an interesting course if you like 3d printing. The good thing is you can use the new-bought 3d printer with carbon fibre in lab to print sth you like. I printed a batman badge at the time :D",
+      "comment_teaching": "Duan is a brilliant professor and he knows many things. The sad thing is only 8-9 people were in that course.",
+      "comment_grading": "Duan is quite a nice professor as he gave me kinda good grade",
+      "comment_workload": "There is 1 3d printing project, where you can learn how to use apply your 3d modelling skills to draw something that you want to 3d print, analyze the load and deformation, and print the thing with carbon fibre reinforced structure. Overall I am pretty enjoyed during the project.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "3J4GXcnrL8BUuESNyxZy4k7dcxZfzwzV",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1616,
+          "name": "DUAN, Molong",
+          "rating": 1
+        }
+      ],
+      "author": "Garrick",
+      "date": "Feb 04, 2022",
+      "title": "The course was pretty good actually",
+      "comment_content": "This course serves as a general introduction to the underlying concepts<br />of state-of-the-art additive manufacturing (AM) technologies<br /><br />– A wide range of representative AM processes<br />▪ Fused deposition modelling<br />▪ Laser sintering<br />▪ Stereolithography<br /><br />– A wide range of materials<br />▪ Polymer<br />▪ Metal<br />▪ Ceramic<br />▪ Composite<br /><br />– Design for AM<br />– Other aspects of AM and rapid prototyping<br /><br />The course materials were pretty informative, and we had actual experience and tests with continuous fibre 3D printing.",
+      "comment_teaching": "Very passionate tutor. but the tone was a bit too bland.<br />If there are only a few students in class, then you will be awake at any moment.",
+      "comment_grading": "20% Homework <br />20% Midterm Exam<br />20% Final Exam <br />20% Lab <br />15% Project <br />5%&nbsp;&nbsp;&nbsp;Quiz <br /><br />The grade is actually very good. since we only have 8 students in this class, the course was graded in absolute grading. I got an A eventually. I was just above average a bit for every part of this course, except for a full mark for the project. Therefore, I suppose this should be easy for most of you.",
+      "comment_workload": "4 Assignments (actually 3, the last one was a survey)<br />– Focus on analysing and compare of AM processes<br />– Light derivation and mathematics<br /><br />1 Project (4 pages exclude references)<br />– Flexible topics, you can do anything you like as long as it is related to AM. I did a project about F1.<br /><br />5 minutes report about your report<br />1 Lab report with some prelab preparations<br />2 Quizzes (4MCs with a few chances)<br />1 Midterm<br />1 Final<br /><br />All the assignments were short and easy. The calculations were all mentioned in class. And formulas were all uploaded to Canvas. So you can just refer to the formulas to work on. should be easy full mark or close to full.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

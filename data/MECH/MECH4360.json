@@ -1,0 +1,152 @@
+{
+  "course": {
+    "id": 977,
+    "subject": "MECH",
+    "code": "4360",
+    "name": "Introduction to Intelligent Building Systems",
+    "description": "Introduction to intelligent building and building automation, communication, safety and security systems; modeling and control of noise, illumination, mechanical transportation, electrical, electronic, fire safety subsystems; system integration and optimization with the building envelope; code of practice in design, operational characteristics and performance specifications.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MECH\" data-code=\"2310\" href=\"/review/MECH2310\" target=\"_blank\">MECH 2310</a> and <a class=\"course-link\" data-subject=\"MECH\" data-code=\"3610\" href=\"/review/MECH3610\" target=\"_blank\">MECH 3610</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.33,
+    "rating_teaching": 4.67,
+    "rating_grading": 4,
+    "rating_workload": 4.33,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 571,
+        "name": "QIU, Huihe",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "mF5erVP6PLhDpe7WV0PyQuDPd1lkex2X",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 571,
+          "name": "QIU, Huihe",
+          "rating": 1
+        }
+      ],
+      "author": "kero星人",
+      "date": "Mar 06, 2020",
+      "title": "",
+      "comment_content": "BS stuff<br />introduction about 風火水電 <br />more practical things in reality than most other MECH courses",
+      "comment_teaching": "you know his teaching style if you have taken his MECH3830 class<br />but the topics are more organised than MECH3830<br />he talked about concepts clearly, and would briefly introduce examples mechanisms",
+      "comment_grading": "just understand all calculation problems from homework and examples, as the problems are super similar to exams<br />all hardcopies are allowed for midterm and final exams<br />super good grading :)",
+      "comment_workload": "good<br />no project<br />CADLink project would be full mark as long as handed in file<br />homework can have source",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Wt560f1goAsNnm3drBvxzIkCWmfBAiGP",
+      "semester": "2018-19 Fall",
+      "instructors": [],
+      "author": "Kero",
+      "date": "Jan 17, 2019",
+      "title": "Useful BS course with ordinary grade",
+      "comment_content": "Basic BS (building service) information like lift, fire alarm system, light, HVAC design. This course is quite different from the ME course taken in year 2-3, it is more simple and straight forward.",
+      "comment_teaching": "I quite like the teaching as i can really follow the calculations steps and what he is talking about, it doesn&#039;t involve a lot complex math stuff (except basic laplace transform).",
+      "comment_grading": "I have done all the homework and got above mean in midterm, I still dun know my final&#039;s marks but I won&#039;t get too shitty tho, but i just get a B, although it is the best grade I have even get in ME course haha",
+      "comment_workload": "Normal ME course workload, around 2 weeks per homework, which takes 1-3 hours to finish.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "D7R4ycxivnnkFCrDQuW9rKsp7s1Ult8z",
+          "name": "Screenshot 2019-01-17 at 12.28.53 PM",
+          "format": "png"
+        }
+      ]
+    },
+    {
+      "hash": "iYHzDhuF4xng0tF9O1kC0aLzh5va4n4i",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 571,
+          "name": "QIU, Huihe",
+          "rating": 1
+        }
+      ],
+      "author": "ceo",
+      "date": "Jan 04, 2019",
+      "title": "An intro course in general building services",
+      "comment_content": "This courses mainly focuses on the general features of intelligent buildings, but not all of them, like Plumbing and Drainage (water piping) is not included in this course. As a mechanical engineer, if we join the building services industry, we will either work on HVAC and Plumbing and Drainage, but it is important to know what other disciplines are doing in order to cooperate with them while working in the industry. However, in such a short period of time (~13 weeks), I think this course already did a good job in introducing what an intelligent building includes, at least we know some of the industry standards (like BS and CIBSE). Below is the course content:<br /><br />1. Introduction to Intelligent Building Systems: Introduction, definition of Intelligent Building, how to evaluate Intelligent Building, Intelligent Building Index<br /><br />2. Design of Building Lighting: Fundamentals of illumination, lighting sources, lighting calculations, daylight strategies, daylight calculation, design practices, CADLink Building Services Software<br /><br />3. Mechanical Transport and Safety: Elevator technology, basic structure of lifts and escalators. Safety devices and operating principles. Lift traffic analysis. Lift hoist and escalator drives. Local regulations on lifts and escalators. New development in elevator technology<br /><br />4. Thermal Comfort and Intelligent Control Systems: Human sensations and thermal comfort; Control components in heating and air-conditioning systems; Characteristics of sensors, controllers and actuators. Block diagram of typical systems, control schematics, elementary ladder diagrams, control stability and microprocessor applications<br /><br />5. Fire Detection and Protection: Fire process; fire properties of materials; Smoke, production, measurement, toxicity; active protection system and components; local fire safety regulations<br /><br />6. Safety and Security in Buildings: Intelligent sensors in life safety and security systems. &quot;Life safety&quot; includes fire alarm, gas alarm, extinguishing and evacuation systems. &quot;Security&quot; refers to intruder alarm, access control and CCTV systems.<br /><br />7. Energy Efficiency Labeling Scheme in Hong Kong: Description and Analysis of Energy Efficiency Labels for Air Conditioners, Refrigerators and Dehumidifiers in Buildings <br /><br />This course is a little bit special as compared to other MECH courses. While other MECH courses have a lot of formulas derived during lecture, this course mainly focuses on the design procedures, so a lot of lecture time is spent on doing examples. <br /><br />Midterm covers up to lift traffic analysis in Chapter 3, while the final exam covers Chapters 1 to 6. Chapter 7 was not examined, with only one lecture on this chapter held in the study break.<br /><br />Both lecture PPTs and notes are given, and the content are NOT identical. While more focus will be put on the PPTs, the out-of-syllabus content inside will be indicated by the instructor, telling us that this will be only mentioned in lecture, but not examined.<br /><br />For the chapter on HVAC, only the control part is covered. The HVAC design will be covered in MECH 4340.",
+      "comment_teaching": "You should know his style if you have taken MECH 3830. As Prof. Qiu has taught this course many times, he is very familiar with the content in this course. He can always explain the concepts and design examples clearly. He is patient to answer your questions face-to-face, but seldom replies emails.",
+      "comment_grading": "Final Examination 45%<br />Midterm 35%<br />Home Work 20%<br /><br />For the homework, remember to check it more carefully before you submit as the questions are very similar to the design examples demonstrated in the lecture. There is also one homework on using the CADLink software. Remember to go to the tutorial section to learn how to use it.<br /><br />Both the midterm and final are open book. Just print out all the lecture PPTs, notes and HW solutions and bring them to exams. <br /><br />My scores:<br />6 Homeworks: one HW screwed up, should be below mean, others are fine<br />Midterm: 95/100 (mean: ~87 or 88, just guess as Prof show the midterm scores of all of us in lectures. The score is on Canvas, but the mean is not shown)<br />Final exam: unknown, but should be doing fine<br />Grade: A<br /><br />Dunno why no A+",
+      "comment_workload": "6 HWs, one midterm, one final<br /><br />Attending lectures is important in this course as Prof may include content only mentioned in lectures in the exams. (e.g. in Chapter 6, there is no explanation on how to use one of the graphs in both lecture PPTs and notes, but he mentioned this in lecture, and this appears as one of the final exam question.)<br /><br />Quite light workload compared to other MECH courses in the same semester (like MECH 4450), and instead of putting too much time on courses, remember to spare some time to do your FYP (if you need to do).",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "course": {
+    "id": 1316,
+    "subject": "PHYS",
+    "code": "4055",
+    "name": "Particle Physics and the Universe",
+    "description": "In this course, a systematic introduction to particle physics will be provided, with the topics mainly covering: the tool of Feynman diagrams, the Standard Model in particle physics (the zoo of fundamental particles, electroweak unified theory, and Higgs mechanism), particle physics at colliders (particularly at the Large Hadron Collider), and the interplay between particle physics and cosmology. It aims at enabling students to catch up the progress in particle physics in a timely way, and appreciate the beauty of fundamental rules in nature.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"PHYS\" data-code=\"3036\" href=\"/review/PHYS3036\" target=\"_blank\">PHYS 3036</a> OR <a class=\"course-link\" data-subject=\"PHYS\" data-code=\"3037\" href=\"/review/PHYS3037\" target=\"_blank\">PHYS 3037</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.83,
+    "rating_teaching": 4.67,
+    "rating_grading": 5,
+    "rating_workload": 4.17,
+    "review_count": 6,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1485,
+        "name": "PROKOFIEV, Kirill",
+        "count": 4
+      },
+      {
+        "id": 625,
+        "name": "LIU, Tao",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "LFwuaYDYnqhXaoYTJCH4vYTRonj8e5f0",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1485,
+          "name": "PROKOFIEV, Kirill",
+          "rating": 1
+        }
+      ],
+      "author": "eilish",
+      "date": "Jan 15, 2024",
+      "title": "Interesting but complex",
+      "comment_content": "1. Introduction<br />2. Feynman Diagrams and Particle Dynamics<br />3. Useful Concepts (special relativity, four momentum etc)<br />4. Decay Rates and Cross Sections<br />5. Symmetries in Particle Physics<br />6. Accelerators and Detectors<br />7. QED<br />8. QCD<br />9. Weak Interactions<br />10. Gauge Theories and Higgs<br /><br />Content was interesting but difficult, and we covered a lot of content in a short amount of time. It&#039;s worth noting, though, that I am an exchange student and, despite thinking otherwise, thought I had the necessary prerequisites to take and fully understand this course, which wasn&#039;t true so I struggled a bit. This was obviously not the case for everyone though. Despite this, the content was interesting and useful physics to know, I learnt a lot and enjoyed it.",
+      "comment_teaching": "He seemed passionate and invested in the topics, explained things in a lot of detail, clearly had a good understanding and tried to pass that on to us. He also graded nicely.<br />Lectures consisted of PowerPoint presentations and him working through certain derivations from the notes in front of us.",
+      "comment_grading": "Midterm 50%, Final 50%<br />Both open book, even allowed digital devices/notes (but no internet), prof follows the idea of you&#039;re responsible for your own learning.<br />There were supposed to be weekly homework questions issued, but only three or so homeworks were actually issued, and these weren&#039;t marked or graded at all. I don&#039;t think most people did them. I think they would be a useful resource if they were consistent and if the workthroughs were a little more clear.<br />&nbsp;&nbsp;&nbsp;&nbsp;Midterm:<br />Class Average: 7/9<br />Class Lowest: 6/9<br />Class Highest: 8.5/9<br />Mine: 8/9<br />&nbsp;&nbsp;&nbsp;&nbsp;Final:<br />Class Average: 8.3/9<br />Class Lowest: 7.5/9<br />Class Highest: 9/9<br />Mine: 8/9<br /><br />My overall grade for the course: A (89%)<br /><br />I think the grade was fair, I was expecting worse considering how hard I found it. It&#039;s worth noting there were not many people on the course (or at least in lectures), so I don&#039;t know how the grading curve would have looked.",
+      "comment_workload": "Honestly not much. Depends how much you want to get out of the course. My workload was highest when I was studying for the final and did my own research to try understand the topics, but it still wasn&#039;t as much as other subjects as it was open book/ allowed physical AND digital notes. With this safety net to fall back on it eased exam stress. Could probably get away with doing no work for this course outside of the scheduled lectures.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "c5l7p5Zg5GjLci0ujrPNIktRMQcq7QYe",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1485,
+          "name": "PROKOFIEV, Kirill",
+          "rating": 1
+        }
+      ],
+      "author": "Lucien▪Evans",
+      "date": "Feb 01, 2023",
+      "title": "",
+      "comment_content": "The concepts he introduced is not easy if you never focus on that part before. Some complex calculation are covered in ppt but you are not required to mater them. <br /><br />I spend quite a lot time on reviewing all the details in ppt including calculation. However, he only tested the easiest concepts and problems in HW.",
+      "comment_teaching": "His presented every ideas in interesting and brief way, but they are not easy to understand if you never learn things in High Energy PHYS before.<br /><br />The accent made me feel difficult to follow him in lectures so i spend most of the time on listening to recording with half speed.",
+      "comment_grading": "Midterm and Final exams are both open book.<br /><br />Spend some efforts on reading PPT before the exam and you will find the exams easy. Kirill just wanted know if you really understand some basic concepts and almost no calculation.<br /><br />Midterm: 8/9 (mean:7, low:6, median: 7.5, high:9)<br />final: idk (probably full mark, but i think it is easy for everyone)<br />final grade: A+ (out of my expectation)<br /><br />Initially got 7 in midterm. After personal paper checking, he agreed to give me one more pts. Unbelievable !",
+      "comment_workload": "Almost no workload.<br /><br />The midterm and final is open book.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "BVdFXJgS59lQXvX7AySXKVu8qRnZB0mu",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1485,
+          "name": "PROKOFIEV, Kirill",
+          "rating": 1
+        }
+      ],
+      "author": "Philosophy_Cat",
+      "date": "Jan 04, 2023",
+      "title": "A rewarding experience",
+      "comment_content": "• PART I Introduction to elementary particles and to the history of the field<br />• PART II Feynman diagrams and elementary particle dynamics<br />• PART III A few useful principles and concepts<br />• PART IV Decay rates and cross sections<br />• PART V Symmetries in particle physics<br />• PART VI Accelerators, detectors and other experimental tools<br />• PART VII Electromagnetic interaction and Quantum Electrodynamics<br />• PART VIII Strong interaction and Quantum Chromodynamics <br />• PART IX Weak interaction<br />• PART X Gauge theories and the Higgs mechanism<br />• PART XI Neutrino physics<br /><br />The content covers the main parts of particle physics without going too deep into the mathematics. It is understandable since this is just a one-semester course. To learn more details an introductory course on quantum field theory (QFT) would be more suitable.",
+      "comment_teaching": "Prof. Prokofiev is passionate in teaching. He is also willing to answer students&#039; questions after lecture. <br /><br />Our TA Mr. Li, Sze Lok did well in providing solutions to the homework problems.",
+      "comment_grading": "Both the midterm and final exams are open-book, but an access to the internet is prohibited. You can (in fact, should) bring your electronic devices to view the lecture notes. No difficult mathematical calculation would be tested in exams, so don&#039;t worry when you encounter those fancy QFT calculations in lectures. The final exam emphasized more on explaining concepts, and there were some essay-type questions like &#039;explain in brief terms...&#039;. As long as you understand what&#039;s going on in lectures you will be fine.<br /><br />Midterm (40% of total grade)<br />Median: 7.5/9<br /><br />Final (60% of total grade)<br />The score and statistics of final were not released.<br /><br />I guess the grading is fair. I screwed up the midterm (7.5/9) and probably did well in final (?). End up with an A.",
+      "comment_workload": "The workload is very light. Prof. Prokofiev initially said there would be 1 homework for each PART, due 1 week after going through that PART. It turns out to be 4 homework sets only.<br /><br />The homework is compulsory but not graded. You can hand in some random shit if you like. Both the midterm and final exams recycled 1 problem from the homework, so finishing the homework indeed helps you excel at the exams.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "NxzZiz20cPduRvTsJC7S4ie6g3sRnKmg",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1485,
+          "name": "PROKOFIEV, Kirill",
+          "rating": 1
+        }
+      ],
+      "author": "_NattU_",
+      "date": "Dec 16, 2021",
+      "title": "",
+      "comment_content": "• PART I Introduction to elementary particles and to the history of the field<br />• PART II Feynman diagrams and elementary particle dynamics<br />• PART III A few useful principles and concepts<br />• PART IV Decay rates and cross-sections<br />• PART V Symmetries in particle physics<br />• PART VI Accelerators, detectors, and other experimental tools<br />• PART VII Quantum Electrodynamics<br />• PART VIII Quantum Chromodynamics<br />• PART IX Weak interaction<br />• PART X Neutrino physics<br />• PART XI Gauge theories and the Higgs mechanism<br /><br />The only reason I gave it a B is because of the sheer volume of the content. Even then, it only scratches the surface of what particle physics has to offer. This should really be a 2-semester course so we can deep-dive into all the essential details.",
+      "comment_teaching": "I like his style of teaching. He&#039;s pretty good at presenting and likes to go through the procedures together with the students in class.&nbsp;&nbsp;Super laid-back personality and easy to approach. He also set up a weekly help-desk for consultation.",
+      "comment_grading": "Exams are open-book. You can even bring your laptop/tablet with you to view lecture notes. Internet searches, however, are strictly forbidden. Finals placed a big emphasis on conceptual understanding. Questions like &#039;Explain in brief terms what ... means&#039; or the reasoning behind why we opt for building a certain model/theory. You answer in a couple of paragraphs so there isn&#039;t necessarily a clear-cut answer. He simply wants to see what we understood. As long as you can comprehend the core ideas, you should be good to go. <br /><br />Midterm: (covers 40% of the total grade)<br /><br />&nbsp;&nbsp;&nbsp;Mean: 7.9/12 <br />&nbsp;&nbsp;&nbsp;My score: 9.5/12<br />&nbsp;&nbsp;&nbsp;Highest: 10.5/12<br />&nbsp;&nbsp;&nbsp;Lowest: 1.5/12<br /><br />Finals: (covers 60% of the total grade)<br />&nbsp;&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;Mean: 17.7/20<br />&nbsp;&nbsp;&nbsp;&nbsp;My score: 20/20<br />&nbsp;&nbsp;&nbsp;&nbsp;Lowest: 10/20<br /><br />My grade: A+",
+      "comment_workload": "Prof gives out HW problems after each chapter. They are mandatory but do not count towards your grades. I believe they are a good way to check your understanding. (you could also just write some BS if you just want to fulfill the mandatory requirement)<br /><br />Studying through the lecture material might be a bit of an arduous task, however. Each chapter is lengthy and takes a lot of time to digest. The latter half incorporates QM so you might need to spend quite a bit of time doing calculations. (Fear not though, as Prof. prefers to test us on the conceptual part rather than these fancy QFT calculations. You should, however, have a basic understanding of the motivation behind the procedure and how it works )",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "aYN1slSlK0oVIcFPcVfjWN27YdbiMzkc",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 625,
+          "name": "LIU, Tao",
+          "rating": 1
+        }
+      ],
+      "author": "RickyPang",
+      "date": "Dec 29, 2019",
+      "title": "Good introductory to Theoretical Particle physics",
+      "comment_content": "1.Feynman Diagram and Feynman Rules<br />2.Correspondence Principles<br />3.Symmetry and Group Theory<br />4.Lorentz Symmetry, Abelian Gauge Symmetry, and EM Interaction<br />5.Symmetry and Conservation Law<br />6.Non-Abelian Gauge Theories: Strong Interaction and Weak Interaction<br />7.Collider Physics <br />8.Electroweak (EW) Unification<br />9. Spontaneous Symmetry Breaking <br />10. Higgs Mechanism<br />11.Mass Generation of the SM Fermions and Flavor Physics in the SM<br />12. Higgs Physics &amp; Physics Beyond the SM <br /><br />If you want to do research on Particle physics, you must need to take this course. PHYS4055 and PHYS6810D(QFT) are related. Professor Liu said that you have a general feeling of particle physics first. For instance, knowing the experiments and basic theory of particle physics first. Then, you can take QFT if you want know the in-depth theories of particle physics.",
+      "comment_teaching": "Prof. Liu is a passionate teacher. He explains the thing clearly if you talk to him individually. Besides, he also encourage students to response the questions during lectures. <br /><br />However, the course design of this course is not good. The teaching mode is &quot;Blending learning mode&quot; in the sense that we only have one face-to-face lecture each week. Besides, we need to watch the online lecture video at home. But the length of lecture videos are roughly 10-20 minutes, which may not explain everything in a clear way. Thus, you may need to find Professor if you do not understand the content.",
+      "comment_grading": "Good if you complete all the assignments (weekly hw and online quiz, and Final project)",
+      "comment_workload": "The work load of this course is light<br />Weekly online quiz, homework, and Final project <br /><br />The answer of online quiz can be found on the online lecture videos , lecture notes, or google. They are all mc questions. <br /><br />For the homework and Final project, they are very time consuming. For homework, basically are based on lecture materials. However, there are some questions are very hard(Drawing the Feynman diagram of some interactions). Professor only show us the most easiest type of Feynmann diagrams, but he did not teach us how draw Feynman diagram with square, triangle.... <br /><br />For the final project, you will form a group of two which is assigned by Professor and you may need to do lots of research on the assigned topics. For instance, my final project is &quot;heavy Higgs bosons&quot;. I need to search what is the theory of heavy Higgs bosons (MSSM) and how to probe it in the LHC. However, MSSM (Minimal Supersymmetric standard model) is not taught in class. Therefore, in order to understand it, you may need to put more effort.&nbsp;&nbsp;(Usually, you need to present it in front of class, but this year Professor cancelled it due to situation of society)",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "KgFnDXs7HW1ai9rHKdjSp2eHAkkbjs5k",
+      "semester": "2014-15 Fall",
+      "instructors": [
+        {
+          "id": 625,
+          "name": "LIU, Tao",
+          "rating": 1
+        }
+      ],
+      "author": "Ken Chung",
+      "date": "Aug 24, 2015",
+      "title": "",
+      "comment_content": "內容大致係咁<br />1. 介紹下d fundamental particles先<br />2. 講下feynman diagram<br />3. 講下lagrangian<br />4. 再入symmetry<br />5. 用u(1) 去講咩係 gauge symmetry 同 gauge theory<br />6. 係mid-term前, 再講下 collider 同 particle 既 experiments<br />7. 之後就開始講 eletroweak 同 higgs mechanism咁",
+      "comment_teaching": "我就覺得佢教得幾有趣既, 同埋都ok跟到佢d lecture material 既 flow。而且, 佢教起上黎, 唔似一d prof 好似比人迫住教咁, 而係教得好興奮。<br />當然, 亦都有d 人係覺得佢講完都唔知講咩既。",
+      "comment_grading": "",
+      "comment_workload": "每星期都會有份難到傻既功課, 會花好多時間。<br />上課既時候有時會有1~3min 既 quiz。因為完全冇得溫, 所以冇得計做workload。<br />有一個mid-term。因為前半既內容都未去到好深, 都係主要考下collider 呀, 畫下 feynman diagram 咁。所以溫起上黎, 以4字頭phy黎講, 都ok輕鬆。<br />而個course, 我果次就冇final既。唔知今次 LIU tao會點玩。<br />果時個final project 就係寫3頁左右(唔比多), 同要present, 仲要諗2條問題問其他組。<br />不過, 實際搵資料去做伊2樣野先係難點, 分分鐘係你寫份野既10 幾倍時間。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

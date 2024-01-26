@@ -1,0 +1,179 @@
+{
+  "course": {
+    "id": 3394,
+    "subject": "COMP",
+    "code": "4901Q",
+    "name": "High Performance Computing",
+    "description": "High performance computing (HPC) plays an important role in solving many science and engineering problems, e.g., understanding the universe through simulation, simulating the climate change, training large-scale artificial intelligence models, etc. The development of computing power (from our desktop computers to high performance supercomputers) is fast, so it is very useful for students to understand and master how to use or develop high performance systems to solve real-world challenging problems. This course will begin with an introduction to HPC, which targets at making students understand what HPC is. Next, students will learn the fundamental knowledge of hardware architecture (e.g., parallel processors, distributed memory clusters, etc.) that supports HPC. Then the parallel programming classes (e.g., OpenMP, CUDA, MPI, etc.) that make use of parallel computers to solve science and engineering problems will be offered. Finally, the students will be expected to use or develop high performance systems for practical applications.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2130,
+      2030
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"1022P\" href=\"/review/COMP1022P\" target=\"_blank\">COMP 1022P</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"1029C\" href=\"/review/COMP1029C\" target=\"_blank\">COMP 1029C</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"1029J\" href=\"/review/COMP1029J\" target=\"_blank\">COMP 1029J</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"1029P\" href=\"/review/COMP1029P\" target=\"_blank\">COMP 1029P</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2011\" href=\"/review/COMP2011\" target=\"_blank\">COMP 2011</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012\" href=\"/review/COMP2012\" target=\"_blank\">COMP 2012</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012H\" href=\"/review/COMP2012H\" target=\"_blank\">COMP 2012H</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"3021\" href=\"/review/COMP3021\" target=\"_blank\">COMP 3021</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.25,
+    "rating_teaching": 4,
+    "rating_grading": 3.5,
+    "rating_workload": 3.5,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1491,
+        "name": "SHI, Shaohuai",
+        "count": 4
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "kCp2xpOm1eKxtnz0Fu1AcuzwB8qCDrtC",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1491,
+          "name": "SHI, Shaohuai",
+          "rating": 1
+        }
+      ],
+      "author": "H.Y",
+      "date": "Jun 08, 2022",
+      "title": "Interesting course with hands-on experience",
+      "comment_content": "The content taught this semester is similar to the previous semester which is stated very well in the course description.<br /><br />For the prerequisite, I agree with other reviewers that familiarity with basic C/C++ (comp2011) is very important for understanding the example given in the lecture and for lab/PA/Project. Having a basic understanding of computer architecture is also very useful, but I will say is not a must since the professor will spend one lecture providing necessary concepts at the beginning of the semester and I found it actually sufficient (maybe plus some youtube videos like https://www.youtube.com/watch?v=FZGugFqdr60&amp;ab_channel=CrashCourse) for grasping the main idea. ( I have no knowledge about computer architecture before taking this course)",
+      "comment_teaching": "Professor Shi teaches quite well. He explains the concept clearly and is always willing to explain the concepts again when students are confused (usually with much more details). His drawing may sometimes be a bit messy but it doesn&#039;t affect the understanding much. He is also very responsive in answering questions about PA in the course WhatsApp group. In addition, he is very willing to have a personal meeting with students about the project topic and gives a lot of helpful advice!",
+      "comment_grading": "mean grade: <br /><br />Hw1: 8.08/10<br /><br />Hw2: 7.58/10<br /><br />PA1: 8.28/10<br /><br />PA2: 6.92/10<br /><br />PA3: 8.17/10<br /><br />PA4: 6.83/10<br /><br />Project: 28.43/40 (high 39.5)<br /><br />Overall: 74.29% (98.75% is an A+)",
+      "comment_workload": "Similar to the previous semester, I will say the workload is quite large if one want to do every task well (even if you have taken comp2011):<br /><br />Written homework *2 <br /><br />1. Describe a real-word usage of HPC <br />2. Parallelize an ML algorithm<br /><br />PA * 4 (Except PA1 which can be done by adding a few lines of code on the skeleton code provided, other PAs take me quite a lot of time, like 3-4 days, and some self study is needed to obtain better performance)<br /><br />1. OpenMP<br />2. CUDA<br />3. MPI<br />4. CUDA + MPI<br /><br />Project:<br /><br />1. Find a computation-intensive problem<br />2. Literature review<br />3. Propose your own method to address the problem<br />4. Code<br />5. Documentation<br />6. Presentation<br /><br />Professor recommends choosing a topic that is not well studied(maybe a topic that is not that useful?), which allows us to purpose a new parallel algorithm more easily. I choose a topic about speeding up a variant of a well-known problem (Like those will appear in Leetcode). It takes me a week for the project( 1 day for literature review and thinking about how to speed up, 1 day implementing a naive algorithm, 2 days implementing speed up versions, 1 day doing experiments, and 2 days writing the report) I also spent 1 day preparing for the presentation. As other reviewers mentioned, a less sophisticated problem with thorough experiment and documentation can give good results. Yet, during the presentation, my fellow classmates have present some interesting and quite engineering heavy projects, which is very impressive.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "HQPjmnwqV7qeitPvcHEyhOua30AygMqQ",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1491,
+          "name": "SHI, Shaohuai",
+          "rating": 1
+        }
+      ],
+      "author": "CS水泡",
+      "date": "Jun 03, 2022",
+      "title": "Good content. Still feels like a PG-oriented courses",
+      "comment_content": "In short, you will learn the following<br /><br />1. C/C++<br />2. OpenMP in C/C++<br />3. MPI in C/C++<br />4. CUDA in C/C++<br />5. How to quantify speedup (2711/3711), parallel architectures and models<br />6. Basic overview of Hadoop, Spark, etc (not tested)<br /><br />You better know C through and through before taking this course, and the following are nice to haves that will make your life easier:<br /><br />1. Computer architecture and memory locality (2611)<br />2. Non-sequential programming, such as data dependency or CUDA architecture (3511 &amp; 3031)<br />3. Pointers, pointers and pointers",
+      "comment_teaching": "Prof&#039;s teaching is detailed but very slow. Drawing is indeed messy. <br /><br />Despite only 2-4 students showing up in a 27-student course, he is a nice person and always teach with a positive attitude. One lecture he simply share with us what Nvidia announced and you can see he&#039;s genuinely excited to share with the class.<br /><br />However, lecture slides + google is totally enough and you only have to attend your final project presentation.",
+      "comment_grading": "2 Written assignment 10% each<br />4 PA 10% each<br />1 Project with presentation 40%<br /><br />The written assignment didn&#039;t change too much between S2021 and S2022 so you can just find it on coursehero and see for yourself.<br /><br />Following are the topics for the PAs:<br /><br />OpenMP<br />MPI<br />CUDA<br />MPI+CUDA<br /><br />You can feel the difference between the first two and latter two PAs, since the latter two is provided with more skeleton code and less to work on. <br /><br />The PAs are pretty easy to get 95%+, but impossible to get full marks because you will always be slower to some baseline implementation and the last bit of performance is just luck-based and dependent on server load.<br /><br />Mean is 74.3% overall, I got 91% and have an A-",
+      "comment_workload": "I took more time in this course writing latex than code. Just beware that the workload is not light<br /><br />Each PA requires a day or less<br />Each HW takes a day of reading and thinking about the question and less than a day of writing<br />The Project took me many days thinking about it before choosing a topic, just two days to implement and another two days to write the report.<br /><br />Besides testing the speedup for your PA, doing 3711-style written assignments, make sure your project report is detailed on target system specification, parallelization effort (theory and implementation), speedup achieved, scaling efficiency, etc. This course feels more adjacent to a PG or research-oriented than other UG courses.<br /><br />Don&#039;t worry if you don&#039;t know scp or vim, just open up Filezilla and use sftp:// to copy files, or use the &quot;SSH FS&quot; VS Code extension",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "4vFXgfsFZihJF8iOpiiCMqe5XYREIDn0",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1491,
+          "name": "SHI, Shaohuai",
+          "rating": 1
+        }
+      ],
+      "author": "rind",
+      "date": "Jun 02, 2022",
+      "title": "Do not believe in the prerequisites, approach this course with caution",
+      "comment_content": "Mr/Ms ptrknow gives a very detailed course structure, the content stays the same this year.<br /><br />What I want to emphasize is: never believe in the prerequisites.<br />This course teach you 3 parallel paradigms: OpenMP, Cuda, OpenMPI, and they are all implemented using C/C++ in this course.<br /><br />Please, do not take this course if you are not familiar with C/C++, especially pointers. In Cuda/OpenMPI, there are massive use of pointers for communication, and in all the PA/your project, you have to store the input using pointer. Prof will give one lesson for review but that will not help much if you do not have any C/C++ experience.<br /><br />The second prerequisite I think will be COMP3511.<br />This course called High Performance Computing, meaning besides the correctness of the answer, the speedup is the most important element. However, basically you have to understand all the hardware/system basics in order to exploit their performance. I take COMP3511 in this semester, I was super confuse when the prof is teaching OpenMP (Actually he is not teaching, he just tell us the effect of each omp directives and the parameters). Not until the chapter of process synchronization and the kernel thread mapping, I understand more about what is happening in OpenMP. Of course, not yet to mention about the data locality that you should exploit. Then you have to understand paging mechanism for main memory. Understanding the hardware/low level mechanism will be a prerequisite if you want to do well in this course.<br /><br />So, is this course useful? My answer is definitely yes.<br />In many CS course that I have taken, or just take the COMP2011/2012 as an example, they focus on correctness only. Meaning I could write clumsy dumb spaghetti code and still get full marks in PA.<br />However, this course focus on performance/efficiency, then you have to dive deep into every line of code, or measure the time taken for every step, try to observe any time where processors are not fully utilized and come up with a solution. You will also pay more attention to synchronization issues. These are all very important skills for a programmer to write good quality code. Also the skillset of parallel programming is very useful in this era, especially for AI/ML. The main point I would like to carry out is that: &quot;This is a very good course, but you need to be prepared for it&quot;. If you lack any of the above mentioned skills or you do not have deep knowledge about the hardware/low level implementation, then you have to spend extra time learning it, or being super confused, hopelessly trying different approach when doing assignments like me :)<br /><br />But, is this a must-take course?<br />No. There are many other fun courses out there. Make sure you are interested in the topic of parallel computing before enrolling in this course (Btw you can learn multi-threading in COMP3021, some basic Cuda in COMP3031). You can see the number of students in this course is not that much, around 2x for this offering. You may consider to audit this course if you are not very confident.",
+      "comment_teaching": "Prof&#039;s teaching is actually not bad.<br />English is OK, drawing is very messy, kind and nice person.<br />In the OpenMP session, he just illustrate how to use every preprocessor directives and their effect. I am super confused by then (I should have dropped this course...)<br />In the Cuda/MPI session, his teaching is much better. He gives more details in the GPU architecture and code examples.<br /><br />There are lab sessions for each PA that teaches you the command to compile and run each programming paradigm. One thing that makes me feel bad is that they teach us to use vi to edit code in the lab2 machines. The learning curve is very steep for beginner in vi like me. I recommend other students to use &quot;scp&quot; to send files to lab2 machines. I think there are also some example given in the lab session, but they are very simple.",
+      "comment_grading": "Grading Scheme:<br />HW1 (9.7/10, mean: 8.1, high:10)<br />HW2 (6.5/10, mean: 7.6, high:10)<br />PA1 (9/10, mean: 8.3, high:10)<br />PA2 (9.65/10, mean: 6.9, high:10)<br />PA3 (9.6/10, mean: 8.2, high:9.8)<br />PA4 (7.9/10, mean: 6.8, high:10)<br />Project (32.9/40, mean: 28.4, high: 39.5)<br />There is an audit student this year. Therefore the canvas statistics is not very accurate (0 points for every assignments).<br /><br />My score: 85.25<br />Grade: B",
+      "comment_workload": "HW1 focus on doing a research on a HPC problem. There are a set of questions suggested, answer them all should secure most of the points.<br /><br />HW2 is to parallelize a serial algorithm. Not very straight forward and approach with caution.<br /><br />It should takes 2-3 days for each HW to get good points.<br /><br />For the PAs, actually if you write something reasonable, you can already get a nice speed-up which secure some points. The main workload is to improve the current approach to achieve higher speed-ups, which in turns require thorough understanding to hardware and the paradigm we are using.<br /><br />The project is a long long story for me. I hope this gives some ideas to those who will take this course later.<br />It is released in early April, its deadline is in early May.<br />We have to find a computational-intensive problem and try to parallelize it. It will be better if the problem was not well studied (recent problems).<br />The professor once said: &quot;the difficulty of the problem does not matter much. What really matters is how you demonstrate you have learnt something from this course.&quot;<br />I struggles a lot in finding a good topic, because what I have learnt are all classical questions. Actually the professor ask us to find him if we cannot think of any topics. But I didn&#039;t because I start it 5-6 days before deadline. (Very busy April!)<br /><br />Eventually, I picked an algorithm on image processing. The problem is very simple to understand and not much research on parallel approach on it is done (That is actually a big problem, how come an old image processing algorithm wasn&#039;t well-studied???)<br /><br />Since I finish PA4 earlier, I can feel the power of MPI+Cuda. Also, I can have more dimension to fine-tune my code by using combination of them. After spending quite some time to code up the MPI+Cuda code (The code is more difficult to code if it utilize more resources). I run the program, and observe a ridiculous speed-up of 0.001x, I firstly thought there are some problem in my approach. But eventually, I find out that the problem that I picked is very NOT computational-intensive, a single CPU can finish the job during the transmission time across nodes. Then I try to give up MPI, and use Cuda alone. The situation is better but it can only achieve 1.3-1.4x speed up due to the communication overheads. Now I understand why there are not much research on this topic. It is too simple and easy...<br /><br />At that moment, I feel hopeless. It is already 24 hours before the deadline and I still make no progress. There are 2 choices for me then: 1) Implement the problem using OpenMP, but I may not have much things to write, also I am not very familiar with OpenMP; 2) pick a new topic.<br /><br />I recall the professor once said: &quot;Actually I don&#039;t want to see you achieve to optimal solution at first, instead you should start from the naive approach, then find out the problem/resource not utilized, and improve your solutions.&quot; Therefore, I admit my failure in the MPI+Cuda, Cuda approaches and document them into the final report, analysing the problem why I cannot achieve speed up and the theoretical communication time in lab2 machines.<br /><br />I finish my OpenMP implementations and since I understand there are not much things I can write, I do a lot of experiments and plot a lot of graphs to analyse the speed-ups and reasons why I cannot achieve the theoretical speed-up. With endless struggles and fighting, I finally managed to finish it in 2 days.<br /><br />The presentation drops a big bomb for me. Many other students give very difficult/interesting problems (N-queens problem, or FPGA? I am not sure because I feel like they are in another dimension). I worried a lot in my project. I have already thought I will get C-range.<br /><br />BUT!!!!! Turns out my score is much more higher than expectation! Prof writes comments: &quot;Though it is not a very challenging problem, extensive studies are provided in OpenMP, Cuda and MPI. Experimental studies are also conducted to understand under which cases the solutions can work better&quot;. Turns out the analysis (graphs and charts) save me a lot!! Thank you very much professor!!!<br /><br />For every assignment is this course, I speed run most of them and really appreciate I can get such scores given my investment of time in this course :D",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "rDAi5BzGb4yASvfpa06f95c0Xc0GrQVz",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 1491,
+          "name": "SHI, Shaohuai",
+          "rating": 1
+        }
+      ],
+      "author": "ptrknow",
+      "date": "Jun 07, 2021",
+      "title": "Undergraduate version of COMP5112",
+      "comment_content": "The official prerequisites are kind of strange... I would say if you want a better course experience, you better have some familiarity from<br />1. COMP2011 (C/C++ knowledge)<br />2. COMP2611/3511 (knowledge about memory and architecture)<br />3. MATH2111/2121/2131 (linear algebra)<br />4. COMP3711 (basic algorithm knowledge)<br />Working knowledge from 1 and 3 are the most important in my opinion.<br /><br />Here are the wrap-ups of the course content:<br />1. Basic knowledge of parallel model (time analysis, architecture, etc.)<br />2. Basic concepts of three parallel paradigms: OpenMP, CUDA and MPI (all taught in C language)<br />3. How to combine the parallel paradigms together<br />4. Conclude with a machine learning example<br />5. Basic things about Hadoop and Spark (not taught)<br /><br />Posix Thread is not taught in this course, unlike COMP5112.",
+      "comment_teaching": "Teaching is kind of slow and detailed. Drawing is kind of messy. His email reply is kind of helpful.<br /><br />The attendance rate is low (20-25% most of the time). Actually, if you know C well enough, self-learning could be more effective (referring to the slides + googling) and you don&#039;t need to attend the lecture or lab at all.",
+      "comment_grading": "Professor says the grading is absolute. If this is so, then his absolute grading is kind of strict because you might need an overall &gt;90% to get into A-range.<br /><br />Overall mean: 77%<br />Me: 88.5%<br />Grade: B+<br /><br />In other words, if you aim at A-range, then you could not afford to lose any score at all and you have to be very careful. Beware of any strange bugs when writing parallel programs.<br /><br />(Could anyone tell me what grade would you get when scoring mean? If it is C-range, then this course is actually quite a bad grade course.)",
+      "comment_workload": "2 Writing Assignments: 10% x2<br />Yes, it is &quot;writing&quot; assignment, not &quot;written&quot; assignment, meaning you have to write your answer in the form of mini-report. You might need 1 to 2 days to write each.<br /><br />4 Programming Assignments: 10% x4<br />One on OpenMP, one on CUDA, one on MPI, and one on CUDA+MPI.<br /><br />Project: 40%<br />Code + Report + Presentation<br /><br />No Midterm/Final/Attendance<br />This may be a good course to anyone already tired with exam?<br /><br />===========================================<br /><br />The actual workload depends on<br />1. your familiarity with C<br />2. your project topic<br />Because all the parallel paradigms are taught in C, your knowledge of C will affect your speed of grasping up a new paradigm.<br /><br />In particular,<br />the workload is &quot;B&quot; (fairly light) if<br />1. you are good at C<br />2. and your project is not ambitious<br /><br />the workload is &quot;C&quot; (fair) if<br />1. you don&#039;t know C well<br />2. and your project is not ambitious<br />OR<br />1. you are good at C<br />2. and you have an ambitious project<br /><br />the workload is &quot;D&quot; (heavy) if<br />1. you don&#039;t know C well<br />2. but you have an ambitious project<br /><br />For me, the workload is &quot;B&quot;.<br />1. Since I am familiar with C, each assignment cost me at most 2-3 days. I only learn the paradigm from scratch before starting an assignment, so I might use 1 day to learn and write a preliminary version, and use another day to finalize the code.<br /><br />2. For the project, I just choose a topic from COMP3711, and &quot;re-do&quot; PA2 and PA3 (CUDA and MPI). I only spend around a week before the deadline to finish the project: 3 days to write the code + 1 day for presentation + 2 days for writing report. Statistics tell you don&#039;t need an ambitious project to score high:<br />Mean: 28-29/40&nbsp;&nbsp;&nbsp;Me: 36/40&nbsp;&nbsp;&nbsp;High: 39/40<br />I think a detailed report is the most important. Try to include as many cases and analyses as possible, no matter you achieve speedup or not.<br /><br /><br />By the way, you need to use Linux in this course. But I guess it&#039;s not a big problem even when you didn&#039;t use Linux before, because you could just refer to the lab slides for all the necessary commands.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 9,
+      "vote_count": 9,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "course": {
+    "id": 653,
+    "subject": "IELM",
+    "code": "4110",
+    "name": "Engineers in Society",
+    "description": "For Engineering students only. This is a series of seminars presented by professionals from social and engineering sectors and faculty members on topics including the introduction to local industry, responsibility and accountability of a profession in engineering, professional ethics, the impact of information technology revolution on society and engineering, legal aspects of engineering, business fundamentals, project management, product engineering and quality assurance, and environmental and occupational risk management. Graded P or F.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      1430,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3,
+    "rating_teaching": 2,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": [
+    {
+      "hash": "9wAEI5sc8iLCVilGn51Uj5l6WFzP0iP9",
+      "semester": "2012-13 Spring",
+      "instructors": [],
+      "author": "ckngag",
+      "date": "Jan 12, 2016",
+      "title": "",
+      "comment_content": "所謂既lecture其實係每堂由唔同既嘉賓講talk, topic多數都係關於society, environment, business ethics...<br />assignment就interview一個engineer然後寫1篇1000字essay<br />另外要PRS, 答錯太多會肥...",
+      "comment_teaching": "d talk講既野多數阿媽係女人......",
+      "comment_grading": "唔好走堂同記得交essay就pass",
+      "comment_workload": "只係唔走得堂同要interview engineer寫1篇1000字essay<br />另外呢個course係9:30am上, 對某d人可能係workload XD",
+      "rating_content": 3,
+      "rating_teaching": 2,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

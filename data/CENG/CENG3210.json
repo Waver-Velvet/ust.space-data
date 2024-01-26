@@ -1,0 +1,233 @@
+{
+  "course": {
+    "id": 37,
+    "subject": "CENG",
+    "code": "3210",
+    "name": "Separation Processes",
+    "description": "Phase equilibria. Ideal and nonideal mixtures. Thermodynamic properties and VLE from equations of state. Liquid-liquid and liquid-solid systems. Stage process, short-cut and rigorous calculations in absorption, distillation or extraction. Continuous contacting processes. Separation sequences. Simulation and design.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CENG\" data-code=\"2110\" href=\"/review/CENG2110\" target=\"_blank\">CENG 2110</a> AND <a class=\"course-link\" data-subject=\"CENG\" data-code=\"2210\" href=\"/review/CENG2210\" target=\"_blank\">CENG 2210</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.6,
+    "rating_teaching": 4.6,
+    "rating_grading": 4.2,
+    "rating_workload": 4.6,
+    "review_count": 5,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 31,
+        "name": "LUO, Zhengtang",
+        "count": 4
+      },
+      {
+        "id": 1824,
+        "name": "LUO, Tom Zhengtang",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "MZfJCXEDDj5IDxWRW07PttLw7KVtymej",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1824,
+          "name": "LUO, Tom Zhengtang",
+          "rating": 1
+        }
+      ],
+      "author": "Nic14",
+      "date": "Dec 29, 2023",
+      "title": "Easy course with good grade",
+      "comment_content": "Content similar to past offerings.<br />As someone who does not have any of the prerequisites, I find it not too difficult to follow. I would say the contents were delivered in an &quot;elementary&quot; way in some sense.<br />The amount of content covered is less than a typical 3-credit course.",
+      "comment_teaching": "Teaching is generally good. He asks students to answer questions in lectures. Also, I find him quite approachable and easy to talk with.<br />The pace is rather slow.",
+      "comment_grading": "Good grade.<br />Here are my scores:<br />Participation (5%) \t&nbsp;&nbsp;&nbsp;5(?)/5<br />Homework (10%)\t&nbsp;&nbsp;&nbsp;&nbsp;5.5/6<br />In-class Quiz (25%)\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8/8<br />Midterm Exam (20%) 40/50; mean=30#, SD=6<br />Final Exam (40%)\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?/100\t<br />Letter Grade: A+<br /><br />#Remarks: Tom claimed the mean of the midterm to be 30, but I would think the real mean is closer to 36 from the sample I got.",
+      "comment_workload": "Light workload.<br />Homeworks are of reasonable length and difficulty, but there are only 3 homework in the semester.<br />In-class quizzes are designed to be easy and you do not have to be completely correct to get 2/2. No revision is required.<br />Midterm and Final exams are open book, with computers allowed. However, time is a bit tight.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "BU4W6tPfnudpw0mw2RxEnS6UsxFw8Tjc",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 31,
+          "name": "LUO, Zhengtang",
+          "rating": 1
+        }
+      ],
+      "author": "化工之鬼",
+      "date": "Dec 28, 2023",
+      "title": "Worse grade CENG course ever",
+      "comment_content": "extensions from 2110 and 2210, not super difficult. He did made it fast, so make sure you understand the concepts in class and re do the exercises in lecture notes for revision",
+      "comment_teaching": "Tom is a good lecturer, he tried to be as easy to approach as possible.",
+      "comment_grading": "ok here is why I wrote this comment. I am so disappointed by how the gradings are.<br />participation 5% (I believe I got full here, as I sit in the front and answer questions frequently. I did go to his office hours too.)<br />Homework 10% (2/2 1/2 1.5/2)<br />in class quiz 25% (2/2 1.5/2 1.5/2 1/2 1.5/2)<br />mid term 20% (40/50, mean is 30)<br />final 40% (didn&#039;t release)<br />overall grade B<br />I WAS LITERALLY LIKE WTF. I THINK I AT LEAST DESERVED A B+, AND ACCORDING TO MY STATS I AM DEFINITELY IN THE TOP 25% SO I ACTUALLY COULD GET AN A- WHILE HE JUST DIDNT GIVE A SHIT ABOUT IT. I AM REGRETTING WRITING HIM A 4/5 IN THE SFQS. I HEARD FROM SENIORS THAT THIS IS A BAD GRADE COURSE, WHILE I DIDNT KNOW IT WILL BE THIS BAD. <br />JUST<br />DONT<br />TAKE<br />THIS<br />COURSE <br />IF <br />YOU<br />HAVE <br />A <br />CHOICE.",
+      "comment_workload": "almost zero. homeworks are just short, quizzes don&#039;t require much revision, and exams are open book.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 1,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "NrNnbMv9kPqcCx8pp6vjDqxBZ3bNSeD9",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 31,
+          "name": "LUO, Zhengtang",
+          "rating": 1
+        }
+      ],
+      "author": "babycat",
+      "date": "Jan 22, 2021",
+      "title": "",
+      "comment_content": "Basically delving into the maths/ calculation behind separation processes as introduced in 2110<br />Not too obvious connection to 2210, except tie lines and fundamental problem-solving steps<br />Covered absorption/stripping, filtration, distillation, adsorption, evaporation, multistage extraction",
+      "comment_teaching": "!! Online Sem Alert !!<br />A little awkward but I can see that he tried to connect with us<br />Content is dry, which can&#039;t be helped, but it does feel like he tried his best<br />No recordings, had to attend to hear him teach<br />Lecture notes are uploaded with answers some time after class<br />Possibly difficult to understand him at times, but lecture notes are sufficient to understand what he is trying to teach",
+      "comment_grading": "5% participation<br />10% homework (a little difficult for 10% only, but as long as you wrote something, you could get 75%)<br />25% in-class quiz (backfired on him bc he counted best 2 and a few of the quizzes were easy so it was free 25%)<br />20% midterm (~40% MCQ, remaining short-answer questions. open book)<br />40% final (similar to midterm, but more questions so less time to answer all. open book)",
+      "comment_workload": "Average la<br />Homework is essential to practicing calculation problems, and it wasn&#039;t like he gave many questions<br />He spent tutorial classes guiding us on how to do the homework step-by-step<br />More than enough time given to finish homework<br />Optional practice questions provided (to be completed &amp; emailed to TA for grading, answers not directly given)",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "hIVTmFtWHISVDVWrJSHVL7FwMeZIEAys",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 31,
+          "name": "LUO, Zhengtang",
+          "rating": 1
+        }
+      ],
+      "author": "surgeon70",
+      "date": "Jun 03, 2020",
+      "title": "Good grade",
+      "comment_content": "Topic 1: Introduction to separation process<br />Topic 2: Evaporation<br />Topic 3: Single equilibrium stages and flash calculations<br />Topic 4: Distillation of binary mixtures<br />Topic 5: Absorption and stripping<br />Topic 6: Liquid-liquid extraction 1<br />Topic 7: Liquid-liquid extraction 2<br />Topic 8: Column sizing<br />Midterm examination (open book)<br />Topic 9: Rate-based method<br />Topic 10: Filtration<br />Topic 11: Membrane<br />Topic 12 Adsorption<br />Final examination (online)",
+      "comment_teaching": "Slides are very clear and easy to understand. You can learn everything without attending lectures. <br />Just ask Tom if you have any question, he will happily answer you.",
+      "comment_grading": "5% assignment<br />5% participation<br />15% in-class quizzes<br />20% mid term<br />5% project<br />50% final<br /><br />Midterm 39/50 Mean 30.9<br />Final score muted<br />HW 5.75/6<br />Project 5/5<br />Quiz 4.1/6<br />Participation: Did not go to lectures except for quizzes<br />A+",
+      "comment_workload": "3 short quizzes<br />3 HW<br />1 project (HW using aspen+, very easy)<br />Expect a lot of calculations and graphs",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "5OMVvehnWCeqzk60fnepXOHkWcywu4hD",
+          "name": "syllabus2",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "d28Ma9KHQqprRoiwXDJKC5UBC3c2q9IP",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 31,
+          "name": "LUO, Zhengtang",
+          "rating": 1
+        }
+      ],
+      "author": "LMM",
+      "date": "Jan 15, 2020",
+      "title": "Wonderful",
+      "comment_content": "Separation stuff about evaporation, flash, distillation column, adsorption, membrane, LLE, ......<br />總之好多好多，超級超級多野<br />內容豐富 資料詳盡 唯一係要上堂聽佢講書上堂內容畀notes多<br />大致上都唔使上堂因為notes都包含曬所有要考的內容",
+      "comment_teaching": "有video 睇， 務實形式上堂<br />彩色powerpoint<br />超有心指導係一個唔錯嘅professor<br />教得非常之好 <br />有求必答",
+      "comment_grading": "5% assignment<br />5% participation<br />15% quiz<br />20% mid term<br />5% project<br />50% final",
+      "comment_workload": "3~4份 assignment<br />A little project<br />Funny mid term and final<br />Easy quiz<br />好grade<br />好多人話依科爛grade，B range好闊，應該去exchange trans咗佢<br />實際又唔係真係咁差<br />Tom is a one of the best prof.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "course": {
+    "id": 230,
+    "subject": "COMP",
+    "code": "4111",
+    "name": "Software Engineering Practices",
+    "description": "This course provides students with the exposure of effective real-world software engineering practices and the underlying concepts via working around a realistic modern software system and applying popular tools and practices in industry. Students will gain experience in collaborative software development as well as the skills required to succeed as software professional. Topics of the course cover advanced software engineering concepts, project setup, code management, testing, defect analysis, quality metrics, and issue management. For students of the Department of Computer Science and Engineering only.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2030,
+      1930,
+      1830,
+      1730,
+      1610,
+      1530
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"3111\" href=\"/review/COMP3111\" target=\"_blank\">COMP 3111</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"3111H\" href=\"/review/COMP3111H\" target=\"_blank\">COMP 3111H</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 2,
+    "rating_teaching": 2,
+    "rating_grading": 1,
+    "rating_workload": 2,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 110,
+        "name": "ZHANG, Charles Chuan",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "dXKwkPmbNkepxu21qaMmIVcfeqwo47d6",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 110,
+          "name": "ZHANG, Charles Chuan",
+          "rating": 0
+        }
+      ],
+      "author": "Tommy Li",
+      "date": "Jun 15, 2020",
+      "title": "Cool ideas executed in the worst way",
+      "comment_content": "Basically, the prof. has many cool ideas that would have made the course very interesting. The implication is that the course would be disastrous if they are not executed properly.<br /><br />I quite like the idea of this project-based course where the lecture content would be adjusted based on the project. However, I cannot feel the connection between the lectures and the project. The lectures simply does not help with the project. Maybe the scale of the project is too small that we do not even need input from the lecture content.<br /><br />I enjoy finding bugs from the other teams but the bug bounty program in the project is a mess. Some of the opponents will say your bug report is invalid for some stupid reasons. Some of the opponents just file random bug reports for your correct behavior. Some of the opponents did not open the repo for their opponents until one or two days before the deadline. The problem is the project requirements and description are simply too vague and ambiguous. The TA did not do a great job in resolving the issues too. There is a case that the same bug marked as both valid and invalid in different teams.<br /><br />The performance competition is absolutely crazy. The course did not tell us the good ways to enhance performance (maybe i missed it?) in the context of this project. I won the competition just by using the fixed thread pool in java and bumping the number of threads to 120. I did not even do any special stuffs, no splitting up the actions, no priority, no caching, just FIFO for the whole request. I did not even spend any time tuning the parameters. I think most (if not all) groups did not have a good idea for how to optimize the performance. (Note: There is one group that wrote the project in a highly structured manner and they do have some attempts to improve the performance. Maybe they should win instead of me :C)<br /><br />There are much more but let&#039;s wait them till the teaching section of the review.<br /><br />Also, some of the content is quite out of date. Personally, I have no problem learning old stuffs but I would like to see some of the connection to today&#039;s practice. Not to mention there is zero demo in the lecture - all the materials are PowerPoint text.<br /><br />What is more crazy is over 1/3 of the lecture time is students&#039; presentations. Most of them are in quite high quality. If not, they are still better than those content from the professor.",
+      "comment_teaching": "Basically, the prof. has many cool ideas that would have made his teaching very effective and in high quality. The implication is that the course would be disastrous if they are not executed properly.<br /><br />In the end of each lecture, there will be a presentation section. I admit it is great to learn from other students. I also learnt quite a lot when I was doing the research for my presentation. That unfortunately shows a comparison between the presenting student and the professor. It is quite obvious who presented better. That makes me feel like the professor want to shorten his lecture time by asking students to present.<br /><br />The lectures switched to the flipped classroom style in the middle of the semester as the professor thinks there are minimal interactions. The actual lecture would be recorded and the lecture time would be Q&amp;A session. Prof would ask 4-5 questions and students would answer to get bonus points. It turned out the professor even did not announce where he had put the video before the first new-styled lecture. Some of the lectures he asked questions that was not in the recorded video of that week. Lastly, the bonus is counted 1/question by the TA instead of 0.5/question announced by the prof. It was just a fu*cking mess.<br /><br />The professor decided to make the exam &quot;jeopardy-style&quot;. That is, you can customize the difficulty of the questions. You would send the TAs your preference few days before the exam. However, the professor suddenly told us the exam is closed-book 50 MINUTES BEFORE the actual exam. wtf. I think we would be much more conservative in choosing the problem difficulty if we know the exam is closed-book.<br /><br />Apart from those &quot;cool ideas&quot;, there are stuffs that make this course even worse.<br /><br />The professor s p e a k s&nbsp;&nbsp;v e r y&nbsp;&nbsp;s l o w l y. After turning on 2x speed for the video, it still feels like the speed of a normal person speaking. You can imagine how bored it was before the course turned to flipped lecture mode.<br /><br />What is worst is the professor did not pay much attention to stuffs in the course. Sometime, he did not reply to emails or holding them for a long time. I think he also gave out vague instructions to the TAs so most of the stuffs turn out to be a mess.",
+      "comment_grading": "WARNING: You will REGRET registering this course no matter what grade you get.<br /><br />I don&#039;t know the grading curve but the grading scheme is not fair at all. Some of the grading components lack transparency. Some of the components are quite luck dependent.<br /><br />Let&#039;s take the final exam as example. The questions are randomly chosen for different person. It is okay if it is a long exam as it could reflect the student&#039;s ability after averaging. Anyway, I like the idea of customizing the exam, just not in a way that luck plays a large role.<br /><br />A more problematic one would be bug bounty phase 1. In that phase, we were paired with a random team. So, the result hugely depended on how strong your opponent team was. The worst thing was you can only get full points if the opponent team cannot find a bug from you. Getting a bad performed opponent would be a huge advantage against other teams.<br /><br />In the bug bounty phase II, the score is calculated as follows in the specification:<br />Rank \tGrade<br />1 \t10%<br />2 \t9%<br />3 \t8%<br />… \t<br />The last one \t0<br />From the final score statistics given, the 8 teams get&nbsp;&nbsp;[ 0. ,&nbsp;&nbsp;1.6,&nbsp;&nbsp;2.6,&nbsp;&nbsp;3.4,&nbsp;&nbsp;3.6,&nbsp;&nbsp;5.4,&nbsp;&nbsp;7. , 10. ] respectively. It is completely unclear how the TAs come up with such distribution.<br /><br />The bullsh*t one is the “Share of work” score adjustment. The score is adjusted with this formula: project scores * MIN(your ratio / teammate&#039;s ratio, 1). For example, if my contribution is 60% and my teammate contributes 40%, he/she will only get 40%/60%=2/3 of the project score. This scheme completely does not take account of how much a person did in an absolute scale. It is fu*king ridiculous for a teammate to get lower score than one in the other team who did poorly but fair contribution. I thought the ratio is only useful when there are cases of &quot;freeriding&quot;. Such small difference in contribution should not be taken into account. Even if I assume it is okay to do adjustments, the ratio is simply too large and it just penalize others without rewarding the one who put more efforts. It just doesn&#039;t make fu*king sense.<br /><br />The sh*ttest thing is this adjustment method is announced after the final grade is out (by ARR). It f*cking shocked me when I know my teammate get a B while being the 2nd in class for the overall score (before adjustment). The TA finally get to announce this bullsh*t adjustment method after we sent emails asking for justifications. I immediately send an email (politely, of course) asking for adjusting back the score for my teammate. (Although she did not contribute as much as me, I do think she is very responsible and she have completed the part she we assigned nicely.) We did not get a reply but only a mass email saying that they won&#039;t f*cking adjust the score unless one re-declares the contribution.<br /><br />Of course, I immediately signed a 50%/50% form for my teammate. But she don&#039;t want to be interviewed again as she feel so stressful about it and she is graduating anyway. Now I feel f*cking worst for getting a good grade....<br /><br />破例用中文打<br />我DLLM啦 爛我groupmate grade<br />我groupmate平時唔係啲攞開好grade嘅人<br />應承咗佢今次要一齊靚grade 一齊A-range<br />當係送畀佢做畢業禮物<br />而家就係因為你個on L 9調分系統<br />搞到本身全班第二都食咗B<br />佢畢業啦 我點L樣賠番個grade比人？<br />係咪想我內疚成世啊<br />未L試過自己攞靚grade都會唔開心<br /><br />Here are my score stats, but they probably mean nothing...<br />Project: 70/70<br />Project interview: 10/10<br />Presentation: 10/10<br />Final exam: 8/10<br />Bonus: 5.5<br />Total: 103.5% =&gt; A+<br />I really hope I could transfer some of the score to my groupmate....<br /><br />Attached is the score stats (before adjustment) for your reference.",
+      "comment_workload": "This is a project-based course and the workload is mostly based on the project.<br /><br />Before the start of the semester, I had already started to familiarize myself with the software and frameworks that would be used in the project. (The course website was released a while before the semester.) It did take quite some while to learn the new stuffs if you have not tried something similar before.<br /><br />I had built a prototype of the project before the start of the semester so my team worked through the project quite quickly. It did not take much work after knowing the basics of the framework as the project scale is not that large.<br /><br />Despite the small scale of the project, the vague requirements and weird deadlines made the project a mess. We have to send quite a number of emails constantly asking for clarifications. Not to mention the TAs released the test suite two days before the deadline of phase 2. I had to give up revising an exam for tuning the configs for the testing server. What is worst is that I only know the expected behavior after releasing the cases due to vague requirements given. I had to rewrite the whole transaction part in a single day (it is in the exam period)! Glad that the scale of the project is not that big and I can rewrite that quite quickly.<br /><br />For me, the presentation was quite a large load. It was a 15-20 mins presentation. It took me some time to prepare all the materials, including the code samples and the slides. There is a range of topics that could be chosen. Choose one that you like better so you don&#039;t need to suffer.<br /><br />The final exam is closed-book. Given his unique style of giving lectures, you just have to pray for getting questions that he already asked during the flipped lecture. I bet no one will try to go over the long boring content one by one and mark down the main points. But do spend some time revising the questions asked during the flipped lecture as there will be high chance to be in the exam.<br /><br />Here are my project and presentation for your reference.<br /><br />My presentation:<br />https://github.com/STommydx/comp4111-presentation<br /><br />My group project:<br />https://github.com/STommydx/2020S-COMP4111",
+      "rating_content": 2,
+      "rating_teaching": 2,
+      "rating_grading": 1,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 31,
+      "vote_count": 35,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "WBasHNFK9I277dfSlCPCOlGo6ArTLmHw",
+          "name": "4111scorestat_anoym",
+          "format": "png"
+        }
+      ]
+    }
+  ]
+}

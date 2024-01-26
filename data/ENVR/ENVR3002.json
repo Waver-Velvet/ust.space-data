@@ -1,0 +1,214 @@
+{
+  "course": {
+    "id": 396,
+    "subject": "ENVR",
+    "code": "3002",
+    "name": "Introduction to Atmospheric Science",
+    "description": "The course mainly consists of two parts: atmospheric physics and atmospheric chemistry. Atmospheric physics topics include evolution of the earth’s atmosphere, introduction to the atmospheric structure, composition, dynamics, thermodynamics, circulation, and weather patterns. Atmospheric chemistry topics include tropospheric chemistry, air pollution chemistry and toxicity, greenhouse gases and climate change, stratospheric chemistry and ozone depletion. For EVMT students and students with consent from the course instructor only.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1930,
+      1830
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"1140\" href=\"/review/CIVL1140\" target=\"_blank\">CIVL 1140</a> OR <a class=\"course-link\" data-subject=\"ENVR\" data-code=\"2010\" href=\"/review/ENVR2010\" target=\"_blank\">ENVR 2010</a> OR <a class=\"course-link\" data-subject=\"LIFS\" data-code=\"1030\" href=\"/review/LIFS1030\" target=\"_blank\">LIFS 1030</a> OR <a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1003\" href=\"/review/PHYS1003\" target=\"_blank\">PHYS 1003</a>) AND (<a class=\"course-link\" data-subject=\"MATH\" data-code=\"1003\" href=\"/review/MATH1003\" target=\"_blank\">MATH 1003</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1013\" href=\"/review/MATH1013\" target=\"_blank\">MATH 1013</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1018\" href=\"/review/MATH1018\" target=\"_blank\">MATH 1018</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1023\" href=\"/review/MATH1023\" target=\"_blank\">MATH 1023</a>)",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ENVS\" data-code=\"2003\" href=\"/review/ENVS2003\" target=\"_blank\">ENVS 2003</a>",
+    "rating_content": 4.6,
+    "rating_teaching": 4.4,
+    "rating_grading": 4.6,
+    "rating_workload": 4.4,
+    "review_count": 5,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1242,
+        "name": "SHI, Xiaoming",
+        "count": 5
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "6AVsvr7s6y3N6uCb0p1MjqJMRWJGYt4v",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 1242,
+          "name": "SHI, Xiaoming",
+          "rating": 1
+        }
+      ],
+      "author": "Elys",
+      "date": "Aug 29, 2020",
+      "title": "Very patient and nice professor",
+      "comment_content": "[For online Lesson]<br />Atmospheric ThermodynamicsI<br />Atmospheric Thermodynamics II<br />Radiative Transfer I<br />Radiative Transfer II<br />Cloud Physics I<br />Cloud Physics II<br />Atmospheric Dynamics I<br />Atmospheric Dynamics II<br />Extratropical Cyclones<br />Tropical Convection<br />Climate Modeling &amp;Global Warming",
+      "comment_teaching": "One week two lessons : one lesson for PPT teaching, second lesson MATLAB/Octave teaching<br /><br />His accent is bad, but he teach quite good, you can send simple email to ask questions, he will respond quick.",
+      "comment_grading": "10% participation, 40% data analysis project/assignment, 50% final.<br /><br />My homework have average of 4.5 out of 5.<br />Final score dont know<br /><br />Final grade : B",
+      "comment_workload": "Normal workload<br />One MATLAB homework every week.<br />No midtern <br />One Final, Final include easy MCs and some calculations short Q",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "B2R3DvDxQjg3fr7MmqiFdG5Xx8VrTkNH",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 1242,
+          "name": "SHI, Xiaoming",
+          "rating": 1
+        }
+      ],
+      "author": "rickywong",
+      "date": "Jun 22, 2020",
+      "title": "",
+      "comment_content": "i think the content is included in the course description. Require coding in the assignment and calculation is needed.",
+      "comment_teaching": "the instructor is willing to answer questions but the accent is hard for me to hear.",
+      "comment_grading": "I don&#039;t think I can give much information about this cause I get below mean in both mid term and final.<br /><br />outcome : C",
+      "comment_workload": "assignment every week. Some of them may be quite confusing and the question may mislead you. Though the question may not be very hard. The professor will provide time in class for us to finish our assignment.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "9bBsMBpUH7J9LL5eMhuhIxzx2K6CIHFJ",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 1242,
+          "name": "SHI, Xiaoming",
+          "rating": 1
+        }
+      ],
+      "author": "Nandi",
+      "date": "Jun 19, 2020",
+      "title": "Pretty Interesting course",
+      "comment_content": "Introduction <br />Atmospheric Thermodynamics I<br />Atmospheric Thermodynamics II<br />Radiative Transfer I <br />Radiative Transfer II<br />Cloud Physics I <br />Cloud Physics II <br />Atmospheric Dynamics I <br />Atmospheric Dynamics II <br />Extratropical Cyclones <br />Atmospheric Chemistry<br /><br />One class every week is theory and the other is about programming on octave",
+      "comment_teaching": "The lectures were quite interesting. He took the time to explain each of the concepts and went into their derivation. It was quite interesting, especially if you&#039;re interested in the physics behind the phenomena being discussed. <br /><br />The TAs and the professor respond quickly to any emails and that helped a lot, since some concepts can be a bit tricky to understand.",
+      "comment_grading": "10% participation: No discussions, I guess you just need to show up for class <br /><br />40% HW assignments: Project on octave. The HW is quite simple and most of the time the main concept is already in the PPT. <br /><br />50% Final Exam: Divided into MCQs (70 points) and long answers (30 points). <br /><br />The mean for HW assignment is normally around 4/5. You can get extra credit if you finish the HW during the lab time",
+      "comment_workload": "It&#039;s a decent amount of work for a 3000 level course. One HW assignment almost every week. But you can finish that in class. Otherwise, there is just 1 final, for which reading the lecture slides and notes is more than enough. <br /><br />Also, you might want to work on the sample paper he uploads as that helps a lot in the end.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "eb1gS0F9T9d1JFVwRMOOXnll6O5lBSBR",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 1242,
+          "name": "SHI, Xiaoming",
+          "rating": 1
+        }
+      ],
+      "author": "nicknamewhat",
+      "date": "Apr 08, 2020",
+      "title": "Nice introductory course",
+      "comment_content": "Introduction - <br />Atmospheric Thermodynamics I<br />Atmospheric Thermodynamics II<br />Radiative Transfer I <br />Radiative Transfer II<br />Cloud Physics I <br />Cloud Physics II <br />Atmospheric Dynamics I <br />Atmospheric Dynamics II <br />Extratropical Cyclones <br />Tropical Convection <br />Climate Modeling &amp; Global Warming<br /><br />There are two classes every week. One for theories and one for solving questions by octave/matlab.",
+      "comment_teaching": "Prof.Shi is very patient and sometimes humorous. He writes timely reply to student&#039;s emails. And welcome questions in class. He also explains things patiently and clearly.",
+      "comment_grading": "10% participation<br />40% homework assignment<br />50% final exam<br /><br />There are bonus if you hand in the homework assignment before the lab class ends. And final exam is about theory and calculation.",
+      "comment_workload": "Quite light.<br />Only one assignment which takes little time.<br />But you need to do revision timely to make sure you don&#039;t forget what you have learnt since there is only on final.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "mnav7hJNN5KABmTwpZiNaPYOdGjkdwZv",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 1242,
+          "name": "SHI, Xiaoming",
+          "rating": 1
+        }
+      ],
+      "author": "淺水健",
+      "date": "Jun 06, 2019",
+      "title": "interesting course",
+      "comment_content": "mainly about physic topic (atmosphere) . If you don&#039;t have physic background it is hard for you. After midterm will have some chemical topic but not hard as chem 1030.",
+      "comment_teaching": "professor will prepare many material like a conclusion note (not lecture note) before a new chapter. He will explain idea clearly to you in his office hour. Before midterm and final exam, he also prepare some note about content he taught before. A nice professor.",
+      "comment_grading": "good<br /><br />our mean is 87.2 in a 30 students lecture<br />0 -- 60.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F<br />60.1 -- 65.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D<br />65.1 -- 69.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C-<br />69.1 -- 73.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C<br />73.1 -- 77.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C+<br />77.1 -- 81.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B-<br />81.1 -- 85.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B<br />85.1 -- 89.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B+<br />89.1 -- 93.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A-<br />93.1 -- 97.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A<br />97.1 --100.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A+",
+      "comment_workload": "total 8 homework. You can finish it by looking at lecture carefully. Hand in in a week. but some question need to read textbook (don&#039;t worry it is free e-book and have download link in course syllabus page).",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

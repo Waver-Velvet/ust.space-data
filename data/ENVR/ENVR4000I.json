@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 1255,
+    "subject": "ENVR",
+    "code": "4000I",
+    "name": "A Systems Approach to Emerging Environmental Technologies I",
+    "description": "This course introduces to students a set of coherent analytical tools such as Technology Delivery System (TDS), Map of Science, Economic and Market Analysis, Risks and Impacts Assessment, Cost & Benefit Analysis, Epidemic Diffusion Model, Innovation Pathways etc. to help to develop a systems approach to manage the development and deployment of emerging environmental technologies.  Students form teams to integrate these and other frameworks and conduct a future-oriented policy analysis of an emerging technology which addresses environmental & climate change and sustainable development. This is the first part of a two-semester sequel project course. Instructor's approval is required for enrollment in the course.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 217,
+        "name": "SHUM, Kwok Leung",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "TPDv2VrP2IKk755jTTl3V1Xo09iVbyUm",
+      "semester": "2014-15 Fall",
+      "instructors": [
+        {
+          "id": 217,
+          "name": "SHUM, Kwok Leung",
+          "rating": 1
+        }
+      ],
+      "author": "Lawrenceiu",
+      "date": "Sep 02, 2015",
+      "title": "Course reviews",
+      "comment_content": "Student-led DIY course on low carbon project:<br />low carbon event: O camp, concert, exhibition etc. <br /><br />low carbon or meat less diet <br />Urban micro-climate? How to stay cool and be productive?<br />make retail low carbon, how? <br />many other potential topics students could propose<br /><br /><br />Meet every Wednesdays starting Sept. 9th <br /><br />7 - 9 pm (tentative)",
+      "comment_teaching": "Many great guest lectures and interactions to help you identify and approach a meaningful low carbon problem you care about! <br />Instructor have good interaction with student",
+      "comment_grading": "Good grade,",
+      "comment_workload": "Course teaches basic frameworks on carbon auditing and innovation theory;<br />Not too difficult,",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

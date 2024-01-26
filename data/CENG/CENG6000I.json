@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 1916,
+    "subject": "CENG",
+    "code": "6000I",
+    "name": "Advanced Chemical Product Design with Business Thinking",
+    "description": "This course covers the design, manufacture, and launch of consumer-centered chemical products. Molecular products (e.g., organic photovoltaic molecules and nanoparticles) are designed using advanced simulation tools. Devices (e.g., air purifiers, water filters, batteries, and fuel cells) and functional products (e.g., Disposable diapers and smart window) are designed based on fundamental chemical engineering principles. Formulated products (e.g., detergents and inkjet inks) are designed using material databases and rule-based methods. Business and project management concepts required in product development such as Quality Function Deployment, House of Quality, Stage-Gate, innovation map, and Business Model Canvas are introduced to aid in product conceptualization. Capital budgeting is used to assess the economic viability of a proposed product development project.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1630
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

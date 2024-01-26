@@ -1,0 +1,76 @@
+{
+  "course": {
+    "id": 2288,
+    "subject": "HUMA",
+    "code": "5695",
+    "name": "Fascism",
+    "description": "This course aims to provide students with an introduction to the comparative study of twentieth-century dictatorships. Course readings will focus on Italian Fascism and National Socialism, but the overarching theoretical perspectives will be relevant to students of non-European dictatorships as well.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2110,
+      1910,
+      1710
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 2,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 314,
+        "name": "DERMAN, Joshua",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "VdX9XRO0OUuX8mdZPSQ19iKLouXlVfwy",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 314,
+          "name": "DERMAN, Joshua",
+          "rating": 1
+        }
+      ],
+      "author": "kaokao",
+      "date": "Dec 29, 2021",
+      "title": "Great course to learn history",
+      "comment_content": "The course covers the history of Nazi Germany from different perspectives. But this course emphasizes more on the interpretation of history rather than narratives. The reading materials cover the period before Nazis came into power till the end of the Third Reigh and provide different interpretations of National Socialism in Nazi Germany. Some books require some knowledge of European history. The textbook of Epstein could be useful if you are not familiar with the historical background of Germany.",
+      "comment_teaching": "The class format is basically a seminar. The instructor would lead the discussion during the class. Adequate preparation before class is important. Professor is also accessible after class and could provide help with the understanding of materials and writing papers. Professor will also provide detailed feedback on the paper to help you improve.",
+      "comment_grading": "Participation (attendance is compulsory): 15%<br />Two short in-class presentations on the weekly readings: 20% <br />Midterm paper: 30% <br />Final paper: 35% <br />The overall grade distribution is unknown, but if you fully understand the reading materials and put effort in writing papers, it would be no problem to get a good grade.",
+      "comment_workload": "The reading materials per week are about 200-300 pages, basically, you need to read a book every week, and some books are difficult. Participating in course discussions, presentations, and writing papers are all required you to understand the reading materials. The workload is a little bit heavy if you are not very good at reading.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

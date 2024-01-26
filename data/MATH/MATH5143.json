@@ -1,0 +1,161 @@
+{
+  "course": {
+    "id": 2079,
+    "subject": "MATH",
+    "code": "5143",
+    "name": "Introduction to Lie Algebras",
+    "description": "Lie algebras. Nilpotent, solvable and semisimple Lie algebras. Universal enveloping algebras and PBW-theorem. Cartan subalgebras. Roots system, Weyl group, and Dynkin diagram. Classification of semisimple Lie algebras. Representations of semisimple algebras. Weyl character formula. Harish-Chandra isomorphism theorem.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2230,
+      2130,
+      2030,
+      1930,
+      1830,
+      1730,
+      1630
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2131\" href=\"/review/MATH2131\" target=\"_blank\">MATH 2131</a> and <a class=\"course-link\" data-subject=\"MATH\" data-code=\"3131\" href=\"/review/MATH3131\" target=\"_blank\">MATH 3131</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4.33,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1038,
+        "name": "MARBERG, Eric Paul",
+        "count": 2
+      },
+      {
+        "id": 540,
+        "name": "ZHU, Yongchang",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "Q8f9sPknd6Gyjo4KRLRpC7RihCaMCo1j",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 540,
+          "name": "ZHU, Yongchang",
+          "rating": 1
+        }
+      ],
+      "author": "gab",
+      "date": "Dec 22, 2023",
+      "title": "Difficult but very interesting and rewarding",
+      "comment_content": "The content is almost the entirety of Humphreys textbook, from parts I-VI.<br /><br />Although the prerequisites for this course are 2131 and 3131, only a solid understanding of linear algebra is necessary. A general understanding of structures such as groups, rings, modules is helpful though.",
+      "comment_teaching": "The pace is very fast, and the content is difficult.&nbsp;&nbsp;Despite this, Professor Zhu can explain things very well. He does everything on the whiteboard, and will sometimes leave the easier proofs as exercises, but otherwise he will prove everything in detail.<br /><br />He does not release lecture notes or anything from the lecture onto canvas (in fact he barely uses the canvas page at all), so make sure to take notes during class. However, he follows the textbook quite closely for the most part.<br /><br />After each homework, he will go through the homework solutions, talk about common mistakes, and show the class some exceptional or elegant solutions.<br /><br />All definitions are well motivated, and the proofs are usually very clear. I say usually here because sometimes, professor Zhu forgets the steps in some longer technical proofs (he does the proofs from memory), and then will progress the wrong way or stop for several minutes; this can make the proof messy at times. Otherwise, he is friendly and quite great at teaching.<br /><br />Do not hesitate to ask questions in lectures; professor Zhu loves to take questions, and he often invites participation in the lectures (However, if you sit in the front row, he might ask you questions frequently, or ask you to provide examples, so don&#039;t sit front row unless you like that sort of thing).",
+      "comment_grading": "According to professor Zhu, &quot;It is not very difficult to get A-, but A or A+ will be difficult to achieve&quot;. This is true; as long as you put in sufficient effort, you should get A range, so the grading is quite good.<br /><br />A quote from the course outline on canvas, &quot;The grade is determined by attendance, performance on homework, a take-home final exam and possibly one quiz&quot;. This was the only information given about the grading scheme, and in fact (luckily), there was no quiz :).<br /><br />Homework submission is hard-copy in class, and (I think?) professor Zhu uses that as attendance. No feedback was given on the final, but I remember him mentioning that you could email him for feedback.",
+      "comment_workload": "The homework+final workload was not very high, although professor Zhu recommends pre-reading the textbook for around 30 minutes before each lecture.<br /><br />4 homework, and 1 final exam. 4 problems in each homework (except homework 3, which had 3 problems). We are given a week for each of the homework. The final exam had 7 problems, and we were given 2 weeks to complete it.<br /><br />I quite enjoy Professor Zhu&#039;s homework and final problems for this course. Many of them provide some kind of insight on different algebraic structures not gone through during class, instead of proving some seemingly meaningless things. Some problems are also like guiding you through some important ideas(e.g. we proved the simplicity of the classical lie algebras in the homework). Generally, the homework problems are not difficult, although sometimes it can be easy to get stuck.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "OyY8opU3NobH386qWw4tukyuZEDQVjtK",
+          "name": "syl",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "8KcmRPRCrQuBDP20SbbCn7xt3vh9PGek",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1038,
+          "name": "MARBERG, Eric Paul",
+          "rating": 1
+        }
+      ],
+      "author": "gershwinkid",
+      "date": "Jun 02, 2023",
+      "title": "",
+      "comment_content": "Whole book of Humphreys, just the basics of Lie algebra:<br /><br />Course web https://www.math.hkust.edu.hk/~emarberg/teaching/2023/Math5143/index.html <br /><br />Schedule copied from website:<br />Week 1: Sections 1.1–3.1<br />Lecture 1: basic definitions, classical examples<br />Lecture 2: comparison with group theory<br />Week 2: Sections 3.1–4.1<br />Lecture 3: nilpotent Lie algebras, Engel&#039;s theorem<br />Lecture 4: solvable Lie algebras, Lie&#039;s theorem<br />Week 3: Sections 4.2–5.3<br />Lecture 5: Jordan decomposition, Cartan&#039;s criterion<br />Lecture 6: Killing form, semisimplicity<br />Week 4: Sections 6.1–6.4<br />Lecture 7: representation theory basics<br />Lecture 8: Casimir element, Weyl&#039;s theorem<br />Week 5: Sections 7.1–8.2<br />Lecture 9: abstract Jordan decomposition, special linear representations<br />Lecture 10: root space decompositions<br />Week 6: Sections 8.3–9.4<br />Lectures 11 and 12: properties of root spaces<br />Lecture 13: abstract root systems<br />Week 7: Sections 10.1–10.4<br />Lecture 14: rank two root systems and basic properties<br />Lecture 15: simple roots and positive roots<br />Week 8: Sections 11.1–16.5<br />Lecture 16: reducible root systems and Dynkin diagrams<br />Lecture 17: classification of irreducible root systems<br />Week 9: Sections 17.1–17.5<br />Lecture 18: universal enveloping algebras<br />Lecture 19: PBW basis and free Lie algebras<br />Week 10: Sections 18.1–20.2<br />Lecture 20: Serre&#039;s theorem, semisimplicity criteria<br />Lecture 21: standard cyclic modules<br />Week 11: Sections 20.3–22.5<br />Lecture 22: constructing standard cyclic modules<br />Lecture 23: finite-dimensional modules<br />Week 12: Sections 23.1–24.3<br />Lecture 24: Harish-Chandra&#039;s theorem, Kostant&#039;s formula<br />Lecture 25: Weyl character formula",
+      "comment_teaching": "Nice overall. Content is not easy but his teaching is clear, largely following his notes and the textbook. I have some prior experience in Lie algebra but still found lectures worth going to, to clear up concepts.<br /><br />Might be good to spend less time reviewing things sometimes (as mentioned by pp), especially because the lecture itself is not very long.<br /><br />Towards the end of the term he is rushing through a lot of content in order to finish all topics, so I often had to go home and read the textbook afterwards in order to do the homework.",
+      "comment_grading": "Don&#039;t know since grades are not out yet. But grades are 100% based on assignments. He can be pretty strict with grading homework (i.e. will catch all careless mistakes or occasional slips).",
+      "comment_workload": "Quite heavy, assignments were weekly in the beginning but became biweekly later. 7 homework assignments in total, typically 10 questions per assignment. Some are not straightforward so it takes time to think.<br /><br />Deadlines are very flexible, which is good and bad- useful when you are busy, but also led to many people (myself included) putting off homework until the last day humanly possible. Most people email him for a deadline extension. (I don&#039;t think anyone submitted the last assignment on time at the first due date, and not all submitted at the extended deadline.)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "5ZTLHeaRuWAr5hYdbQ4steJkBTn9t6Gt",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1038,
+          "name": "MARBERG, Eric Paul",
+          "rating": 1
+        }
+      ],
+      "author": "UnconMarketeers",
+      "date": "May 07, 2023",
+      "title": "Tough but interesting journey",
+      "comment_content": "[Update 16/10/2023: It is recommended to look at Eric&#039;s representation theory course on the internet for further study. Try to echo the content in that course with the Lie algebra course.]<br /><br />Official textbook: Introduction to Lie Algebra and Representation Theory, Humphreys. This is a short, concise but meanwhile old, unfriendly textbook for me (Perhaps this is due to my lack of experience in learning algebra). <br /><br />Some comments:<br /><br />-&gt; I am learning (instead of learnt) MATH3131 in the same semester, so I sometimes feel confused mainly in the first half of the course. Some basic terms like centralizer, ideal, module are core concepts. If you have similar background like me when taking this course, do review frequently when encountering unfamiliar concepts. <br />-&gt; Try to find some connection between Lie algebra theory and other fields, like geometry (tangent space of Lie group at identity) and quantum mechanics (Angular momentum/spin operator). For me, finding relation between various field is quite enjoyable. Some related textbook are as follows:<br /><br />1. An introduction to Manifolds, Loring Tu<br />2. Quantum theory for Mathematicians, B.C. Hall<br /><br />-&gt; I guess the main purposes of this course are as follows:<br /><br />1. Study semisimple Lie algebra by various kinds of decomposition (Jordan decomposition/root space decomposition/weight space decomposition). <br />2. Study the classical types of Lie algebras A_n, B_n, C_n, D_n",
+      "comment_teaching": "Some good points:<br /><br />1. The instructor always do review of previous material at the beginning of each lecture. This is good for getting on the right track.<br /><br />2. Fast teaching: The teaching pace is so fast that almost every topics in the main textbook are covered. <br /><br />Points for improvement:<br /><br />1. Too much time for reviewing: The instructor usually spends 15-30 minutes to review material, so the real teaching time for new material may be around an hour only. <br /><br />2. The cost of doing review and fast-paced teaching is to sacrifice the detail of important proofs. This happens frequently near the end of semester.",
+      "comment_grading": "Purely from homework. I guess for algebra topics, examination is not suitable as a part of grading.",
+      "comment_workload": "Seven homework in this semester, 2 homework sets fewer than the last year. Comparing with this semester&#039;s MATH3131 (same number of problem sets, slightly more questions), the homework difficulty for this course is much higher since they are much more complicated. <br /><br />One inhumane thing is the on-paper submission policy of homework - Even Yan Min does not do this in his topology course this semester.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

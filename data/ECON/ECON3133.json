@@ -1,0 +1,608 @@
+{
+  "course": {
+    "id": 284,
+    "subject": "ECON",
+    "code": "3133",
+    "name": "Microeconomic Theory II",
+    "description": "This is the second course in the microeconomics sequence. Topics include production theory, firms' behavior under different market structures (perfect competition, monopoly, oligopoly), factor demand, and game theory. Emphases are placed on a rigorous analytical and mathematical approach, and multivariate calculus will be used extensively.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2310,
+      2230,
+      2210,
+      2110,
+      2010,
+      1930,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ECON\" data-code=\"3113\" href=\"/review/ECON3113\" target=\"_blank\">ECON 3113</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ECON\" data-code=\"3014\" href=\"/review/ECON3014\" target=\"_blank\">ECON 3014</a>, <a class=\"course-link\" data-subject=\"SOSC\" data-code=\"1440\" href=\"/review/SOSC1440\" target=\"_blank\">SOSC 1440</a>",
+    "rating_content": 4.14,
+    "rating_teaching": 4.43,
+    "rating_grading": 3.29,
+    "rating_workload": 3.86,
+    "review_count": 14,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 913,
+        "name": "HUANG, Yangguang",
+        "count": 10
+      },
+      {
+        "id": 1285,
+        "name": "WU, Qinggong",
+        "count": 3
+      },
+      {
+        "id": 1828,
+        "name": "HUANG, Sunny",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "RU0YoASJ0Tz3L0HASZ0I4BWXCAIyc7Wa",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1828,
+          "name": "HUANG, Sunny",
+          "rating": 1
+        }
+      ],
+      "author": "Cindymok",
+      "date": "Sep 26, 2023",
+      "title": "Microeconomic Theory II",
+      "comment_content": "Sunny taught very well, explanations were clear enough. Appreciated that he showed us every steps of the calculation.",
+      "comment_teaching": "Sunny taught very well, explanations were clear enough. Appreciated that he showed us every steps of the calculation.",
+      "comment_grading": "Grading is also very generous, I got A in this course. I finished all assignments on time and got full mark for every assignment. I think I got more than 80% of the Total course score.",
+      "comment_workload": "This course has about 8 assignments, each assignments were graded on efforts not about correctness. Overall, the workload is not heavy.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "49BCrYk3VExR1zvcOs8hKPIaTCrjwuXT",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 913,
+          "name": "HUANG, Yangguang",
+          "rating": 1
+        }
+      ],
+      "author": "udontknowmyname",
+      "date": "Dec 08, 2022",
+      "title": "Another of UST&#039;s supposedly good, but poorly designed course",
+      "comment_content": "Please refer to other posts for specific content of this course. Here I just want to write some comment on the course syllabus. <br />If you have a Chinese cultural background, you&#039;ll understand when I say this course is chicken rib. (It refers to something that is a waste to dispose of, but of little value to keep.) I take this course just because it&#039;s my major requirement. The course does not focus on the understanding of economic concept. Most of the concepts introduced in this course are very shallow and I think even someone who don&#039;t understand a thing about economics can understand them rather quickly. Sometimes I can&#039;t help but feel this course should be called applied (high school) maths. Because at the end of the course, I honestly don&#039;t know what it is that I learned through this course. So even ECON3113 is this course&#039;s prerequisite, you&#039;ll feel that this course is a down-grade. (If you have taken Prof. Leung&#039;s ECON3113, you&#039;ll feel that you did learn something in that course. ) But if you are here just for the grade, this is a course where practice makes perfect and every bit of your effort is likely to pay off. (As opposed to some courses where you simply can&#039;t do well no matter how many efforts you make.)",
+      "comment_teaching": "Teaching is okay. The bad thing is that there&#039;s nothing too good about Prof. Huang&#039;s teaching, but the good thing is that there&#039;s nothing too bad about it either. However, considering this is UST where tons of professors have less than no idea how to teach properly, I&#039;d say he&#039;s pretty good. And he speaks good English. That&#039;s another thing not every professor in UST can do. He types lecture notes using latex, which are very clear for most parts, so you don&#039;t have to take notes yourself. (Now that I think about it, maybe I should give him an A, haha :b)",
+      "comment_grading": "I haven&#039;t taken final exam yet, so I&#039;ll update you on this later. <br /><br />But I can say something before I know my grade. The key to doing well in exams is to memorise all the formulae and to calculate fast. I have a bit of OCD so I have to check my results over and over again before moving on, which prevents me from doing well in midterm. I won&#039;t blame anyone for not having a high score, but a university level exam that only requires good memory and fast calculation to do well? I&#039;d say it&#039;s pretty debatable.<br /><br />Edit: (These words were written after the letter grade came out.) <br />It&#039;s hard to judge whether grading is good without knowing the distribution of the whole class, but bad grading would be a plausible deduction. But before talking about my deduction I just want to say the final exam is much more fair than midterm. On one hand sufficient time was allowed to finish all the questions. On the other hand, there&#039;s no weird calculations that could take a ridiculously long time. That is, this time your score only depends on whether you know the stuff, but not on how familiar you are with them or how fast you could calculate. I&#039;d call that an improvement. <br />Turning to the question of grading, so I scored approximately mean in my midterm and quite a bit higher than mean in final and I got B. So I think it&#039;d be reasonable to say that this is another of UST&#039;s &quot;you score mean you get C range&quot; nonsense. Please correct me in comment if I&#039;m wrong. I would welcome the information. <br />Some additional thoughts (you can skip if you only care about information concerning this course itself): ECON department really needs to reconsider the grading distribution of ECON3113/3123/3133/3143, and maybe even ECON3334. The four theory courses are only taken by ECOF and MAEC students. And there&#039;s extra requirement to get into these two majors compared with a regular ECON major. In some sense these courses should be considered ECON dept&#039;s &quot;Honour Course Series&quot; and they should offer better grading. But then again, this is UST where they have to make students uncomfortable, so I guess it is what it is. Please forgive my negativity.",
+      "comment_workload": "A lot of people say this course has a heavy workload. Well, in some sense, it&#039;s true. The homework is almost weekly, which can be suffocating at times. But for a 4-credit course, I&#039;d say it&#039;s fair. The problem with this course, though, is that it asks us to make inefficient efforts. A lot of questions in the homework are repetitive, and most of them are just about the calculation. Deep understanding of economic concept is almost never tested. So yes, it can be quite frustrating when you spend hours working on a 3000 level economics course, but what you do is merely doing endless, repetitive computation. Personally, I don&#039;t feel satisfied because as a university student, I don&#039;t feel like doing high school work.",
+      "rating_content": 2,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 6,
+      "vote_count": 7,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "8FnguDVrtDxV21Vmt9cUMNssWvpSWmkN",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1285,
+          "name": "WU, Qinggong",
+          "rating": 1
+        }
+      ],
+      "author": "Dc528",
+      "date": "Apr 24, 2022",
+      "title": "Not that bad",
+      "comment_content": "Basically 3113 but supply-side<br /><br />1. Introduction<br />2. Costs<br />3. Profits<br />4. Competitive Markets<br />5. Monopoly<br />6. Game Theory<br />7. Monopoly<br /><br />The content is similar to 3113(1-4), and the 5-7 is easy too.<br />The hardest math tool is just R^1 calculus, you don&#039;t need to be good at Maths<br />The content is too easy that I think any year-1 student can handle well, and the content is indeed not that inspiring and not that challenging<br />I&#039;ll give a &quot;B&quot; because the game theory is quite fun though I feel a bit useless(just some logic).<br /><br />**Beware that Prof. Wu researched Game Theory and so he taught and examined a lot about game theory.<br />The content should be greatly adjustable, so beware of that.",
+      "comment_teaching": "The content is not hard<br />Tho prof. Wu gave clear explanations of Mathematics and Intuition.",
+      "comment_grading": "Hard to say as we don&#039;t have the score of the finals<br />20% HW(can easily get full marks)<br />35% Mt(mean 75.5%, I got 93%<br />45% Final(DK)<br /><br />I got A so I will say fair<br /><br />**IMPORTANT<br />In MT, beware that many questions require you to list the assumptions!！ You can get all numbers right but still low marks, the listing down of assumptions (e.g. A&gt;0), and your method weigh a lot of marks.<br /><br />In the final, 60% of the marks go for the GAME THEORY, and some of the GAME THEORY questions are hard, it was like an IQ test, you got the logic you got the marks, do more GAME THEORY QUESTIONS(As hard as you can find) to ensure a good grade",
+      "comment_workload": "5 HW in a sem, every hw can be finished in 2hrs<br />The content is super easy to catch up, I will say it is like a 2.5cred courses<br />No attendance",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Z9dUZIBOpko1bmT6N03qGuIwujiAe3n3",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 913,
+          "name": "HUANG, Yangguang",
+          "rating": 1
+        }
+      ],
+      "author": "試伏大師",
+      "date": "Feb 09, 2022",
+      "title": "我會話我俾人scam",
+      "comment_content": "真心嘅 之前d review都講左學d咩 我係呢度就唔重複太多<br />我主要想講下同3113嘅分別<br />我上個sem上3113上的好開心，可能係因為Siu Fai教，又或者係個syllabus問題，上堂主要係講intuitive同聽故事，考試同marking好vague但係最後都係開心嘅<br />講到3133，主要係supply side嘅野，我一開始都預我會代入唔到，越讀落去就越relate唔到現實生活，考試最後都係用formula同埋少少explanation。讀落唔知學到d咩(都有可能係因為我廢)。<br />Sunny我覺得focus係firm多d，因為佢research都係呢個方向(?)，我聽隔離講Qinggong係game theory多，所以基本上content都好睇prof係邊個",
+      "comment_teaching": "Prof:<br />見到sunny傳說中嘅即場打LaTeX，係神奇頂級超卓嘅，但係真係唔係我嘅style。<br />我都係中意拿住份lecture notes上堂寫寫畫畫，所以上堂基本就係take attendance同埋做其他嘢。 我到最後都係等佢份LaTeX打完upload再返屋企睇recording。(btw sunny經常唔記得record zoom，上堂記得提佢!)<br />但係佢講嘢係有邏輯嘅，個人好friendly，同佢食過飯覺得人好nice，有咩問題都可以問，應該英文 普通話同粵語都okay。<br /><br />TA:<br />我想講Jeremy世一okay? <br />除左得意，上堂d notes基本上係神級，每份都有一兩題extra exercise練習，講得好清楚，如果你去f2f仲一定有hard copy。<br />題外話，佢隻貓好得意<br />我覺得TA呢家嘢係對比嘅，我上3113嘅TA係sunny(not this prof), 我會講sunny係我見過目前最差嘅ta，沒有之一。首先係唔知我地上堂教過咩，Siu Fai講明唔會考嘅野佢話會，有問題又講得唔清唔楚，改卷慢到癡線，final前先出mt卷。真係沒有對比沒有傷害",
+      "comment_grading": "呢個就係scam位<br />我睇space個個都A range先寫 我一開始都以為sunny grading好<br />我又睇Qinggong好似好差 我pre reg Qinggong就即刻swap啦<br />點知pk 中伏 （可以連埋wordload一起睇）<br />hw+attendance 基本全世界滿分 我就唔講<br />- Attendance and participation, 10% <br />- Homework assignments, 15% <br />- Midterm exam, 30% <br />- Final exam, 45% <br />我mt 85/100, mean 67<br />心諗今次冇A-都有b+掛，都高mean差唔多20分<br />final 100/120，mean94<br />出分一睇到就覺得少炒，今次可能冇A range，但係點都有B+掛？<br />最後B????????<br />我出grade個日啱同fd準備買送入camp過個開心聖誕<br />一開usthing即刻頹到pk<br />可能我expectation太高 但係我真係唔覺得我係B咯<br />我overall都有88%，B？又話business school靚grade？<br />頂 用左我勁多時間先平復心情，可能我都係唔夠努力。<br />我知拉curve嘅course我用absolute來睇好智障，但係真係好痛苦。我睇之前review，有個review係overall95%有A，心情真係好L差",
+      "comment_workload": "哇終於講到呢度 我真係要大大力diu落去<br />sorry我講粗口，但係真係diu出聲<br />sunny wordload多到智障，雖然每星期得一份assignment(可能呢個都算多，我其他course多數都兩星期一份），但係隔離都係差唔多一星期一份，我就覺得fine<br />我第一次收到assignment，第一下diu出聲，基本上5題mc加6-10題LQ<br />每題LQ都有分題，基本上一題用你10-30分鐘。每份assignment我都差唔多用6粒鐘做，基本上做完再同fd exchange來睇下就差唔多。<br />真正覺得scam係我某一日睇隔離Qinggong嘅assignment。哇，三題LQ，冇分題，一題3分鐘搞掂。我真係唔知講咩好。佢地mt範圍又少過我地，我睇過lecture notes又簡單過我地，wordload又細過我地，grading唔知但我覺得應該好過我地<br />總結就係scam 揀sunny前三思<br /><br />講到最後 diu左好耐，但係讀完都係開心嘅，對比起咩Real Analysis 之類嘅course，呢個course係俾我休息嘅，雖然wordload大，但係唔係特別難，可能我已經被ust塑造成m底 :(<br /><br />最後都係講聲大家加油 無論結果係點 都要開心 ;))))",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "yplaAfBOxbPOjBbcuBGExQpbrpg97fIV",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 913,
+          "name": "HUANG, Yangguang",
+          "rating": 1
+        }
+      ],
+      "author": "yam",
+      "date": "Jan 27, 2022",
+      "title": "Great material and professor but harsh grading",
+      "comment_content": "The course follows the textbook rather closely but the order is slightly modified. Please refer to the syllabus. <br /><br />I like the content very much. A lot of mathematical expressions but the logic is not hard to understand.",
+      "comment_teaching": "Sunny explains everything into great details and walked us through all the expressions. He is an amazing typer btw. He plays with PPT graph and Latex as if they are mini-games. I wish I had this ability. <br /><br />Fluent in three languages. Very nice!",
+      "comment_grading": "I guess it&#039;s because the class consists almost entirely of MAEC and ECOF students...<br /><br />Statistics: <br />MT: Mean: 66.96\tHigh: 96\tLow: 14<br />69/100<br />F: Mean: 94.63\tHigh: 120\tLow: 0<br />115/120<br />attendance &amp; hw: full<br /><br />Grading policy: <br /> Attendance and participation, 10%<br />- Homework assignments, 15%<br />- Midterm exam, 30%<br />- Final exam, 45%<br /><br />My total score: 88.6/100<br />My final grade: B<br /><br />Considering how badly I did in the midterm, I think it is fair but very competitive because of all the classmates that you got haha.",
+      "comment_workload": "8 homework in total. Each took 3-4 hours if you want to do them nice and neat. But the questions help with consolidate what is delivered in class and helps with preparing for exams.<br /><br />Workload is not light but reasonable for a 4 cre course.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "llxMZzVPd8wTdgNS7C1epLbpGSFvYK8E",
+          "name": "syllabus 3133",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "8vp17M3xsrj9LSMLqwA22MotXufedq0K",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 913,
+          "name": "HUANG, Yangguang",
+          "rating": 1
+        }
+      ],
+      "author": "rind",
+      "date": "Dec 26, 2021",
+      "title": "Firm Theory, stricter grading compared to ECON3113",
+      "comment_content": "This course continues from 3113, where 3113 derive demand function from individual consumer utility maximization problem, the first half this course will talk about firms and construct supply curves.<br /><br />1. Firm Production Function<br />How does the firm cost to produce a target amount of quantity of goods. Introduction to different production function and function types/jargons.<br /><br />2. Firm Cost Minimization on given quantity supplied<br />How should the firm choose between different inputs to produce a target amount of supply. Derive Cost as a function of quantity supplied.<br /><br />3. Firm Profit Maximization Problem<br />Facing different market structure, how should the firm choose how much to supply in order to maximize profit. Introducing shut-down point and LR exit point. Extension of content in ECON2103/2113.<br /><br />4. Partial Equilibrium Competitive Model<br />Comparative statics: How can we predict the changes of market outcome given particular changes. Very useful but a lot of formula included.<br />Welfare analysis: price ceiling, tax, international trade, DWL...<br /><br />5. Monopoly<br />Monopoly market equilibrium; Price discrimination<br /><br />---Part 1 finishes---<br />6. Game Theory<br />Introduction of static game, sequential game, repeated game, tacit collusion.<br /><br />7. Oligopoly<br />The best topic in this course, Bertrand Model; Cournot Model; Stackelberg Model; Hotelling Model; Firm entry deterrence.<br /><br />8. Public Good and Externality<br />How the overall welfare of a society can be improved?<br /><br />This course is designed in a bit mechanical way, meaning that you can still do a bunch of calculations and obtain the result with standard procedure, there is no genius tricks that you can do to solve the problems. <br />This lead to a question that is the understanding of the course material, very often you will be overwhelmed by the math in this course and ignore the rationale/intuition behind the problem. I personally didn&#039;t know why I have to set up the equation/optimization problem like that when learning in ch2. It was until ch4 that I know it was intended to obtain a cost function with quantity as input, because we want to derive the market equilibrium which is jointly determined by demand and supply.<br /><br />After this course you will learn a bunch of useful skills, like comparative statics, how to build up a model/write down the optimization problem. The greatest take away from this course will be the way to build up a model/solve individual agent&#039;s problem.<br /><br />Personally I like the second half of this course as it is more fun using game theory perspective to analyse problems.",
+      "comment_teaching": "Sunny&#039;s teaching is very good.<br />There will be a discussion session in each notes which talks about extra stuffs, quite fun.<br />He will type in latex and use ppt to draw all diagrams in class. If you are the kind of person who jot notes in class like me. Be careful cause his typing speed and drawing speed is insane. It is so difficult to jot down all the materials in class while listening to him. I give up after a few lessons and watch video instead afterwards.<br /><br />TA Jeremy should be good, but I didn&#039;t attend any tutorials.",
+      "comment_grading": "I think the grading is stricter than 3113. Or it is more competitive in this course.<br />HW 15%<br />Attendance 10%<br />Midterm 30%<br />Final 45%<br /><br />Me:<br />HW: 64/70 (There are 7 HWs in total)<br />Attendance: idk but I show up 90% of class<br />Midterm: 83/100 (mean: 67, high: 96, low: 14)<br />Final: 118/120 (mean: 94.6, high:120, low:0)<br />Final grade: A-",
+      "comment_workload": "The workload of this course is fine as long as you are familiar with partial derivatives and be careful (super important!).<br />Like what I said before, the exam questions can be solved by a very mechanical way, therefore you don&#039;t have to be a genius.<br />7 HWs in total. However the deadline of the homework are scheduled late, do remember to start doing your homework earlier. The deadline of the last homework is on the second day of exam period. For an unlucky person like me having all the exams in the first few days, I just have to give up the HW to study other course.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "sutk6dBveuCSktItQ29sFWuCmplFqLvn",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 913,
+          "name": "HUANG, Yangguang",
+          "rating": 1
+        }
+      ],
+      "author": "想當年",
+      "date": "Feb 06, 2021",
+      "title": "【special semester due to COVID-19】",
+      "comment_content": "This year there are 2 lecture sections:<br />L1: prof Huang, Yangguang<br />L2: prof Wu, Qinggong<br />__________________________________<br /><br />course content: (same as previous years)<br /><br />You may find it difficult at first (i.e. during lecture). But no worries, you&#039;ll find that the questions provided by prof. sunny (i.e. homework) are very standardized<br />(conclusion: NOT difficult)<br /><br />By the way, prof. sunny teaching speed is alright. However, he spends quite a lot of time in &quot;discussion&quot; part. I hope he can teach more advanced/difficult materials.<br />__________________________________<br /><br />exam:<br />Due to online exam, prof. sunny tends to make the paper longer, so that most/some of us won&#039;t have enough time to finish.<br />However, most (around 80%, or more) of the questions are standardized. (i.e. easy/not difficult)<br />So, what is the exam testing?<br />1) speed<br />2) carefulness",
+      "comment_teaching": "prof黃陽光 &#039;s teaching is fine.<br />He replies email quickly.",
+      "comment_grading": "****************************************<br />Sorry, prof. Huang.<br />My review may be biased because I&#039;m not very pleased with my grade.<br />****************************************<br />can&#039;t finish lots of questions + careless mistakes = GG<br />(I can&#039;t finish around 15% of the questions because of insufficient time for both midterm and final)<br />__________________________________<br />for me:<br />attendance/participation (20%) not released, I guess it&#039;s full<br />homework (20%) full<br />online midterm (25%) 82.75/100<br />online final exam (35%) 111.75/150<br />grade = B+<br />__________________________________<br />statistics (not officially released, it&#039;s from canvas) :<br />online midterm (out of 100)<br />Mean: 74.8 High: 100 Low: 15.8<br />online final (out of 150)\t<br />Mean: 98.7 High: 137.8 Low: 21<br />__________________________________<br />I think prof. sunny gives more than 20% A range (but I think less than 30%). This course is only for MAEC/ECOF, and also due to special semester, I think more A range can be given.<br />Nevertheless, after looking at reviews from L2 section, L1&#039;s grading may already be better, I don&#039;t know!",
+      "comment_workload": "8 homework in total, 2 students work on it together.<br />The homework before midterm (5th hw) is optional.<br /><br />prof sunny is considerate, the deadline is usually not the time that we are most busy <br />(e.g. the last 2 homework is submitted during study break, not last few weeks)",
+      "rating_content": 2,
+      "rating_teaching": 4,
+      "rating_grading": 2,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "wI1cvK2jDNigjqWWGCYVR0zySCEca7Mp",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 913,
+          "name": "HUANG, Yangguang",
+          "rating": 1
+        }
+      ],
+      "author": "gfhksdgm",
+      "date": "Jan 20, 2021",
+      "title": "",
+      "comment_content": "有人講過唔再講，詳細可以睇返syllabus",
+      "comment_teaching": "Sunny幾nice，有野唔識可以signal/email him，佢好快會覆<br /><br />佢每課會有份lecture slides一早upload左上canvas，而上堂個陣佢會開住latex講返啲equation 點derive/做啲計算上嘅example，之後再upload個latex file上canvas。所以上堂唔洗點抄notes, 專心聽佢講好過，因為佢有時都教得幾快下。",
+      "comment_grading": "派A range 都幾手緊下<br /><br />Grading scheme:<br />Attendance and participation, 20% (唔知點計，應該上齊堂就得）<br />Homework assignments, 20% (mean: almost full mark)<br />Midterm exam, 25% (Mean: 74.8 )<br />Final exam, 35% (Mean: 98.7 )<br /><br />My score:<br />Almost full in HW, don&#039;t know about the participation mark<br />MT 95.75<br />Final 111.75<br />Got an A-",
+      "comment_workload": "8 hw in total, can do it as a group of 2 ppl or do it individually<br />workload都算大，每份有around 6-8題long questions, 差唔多每2個禮拜就要交一份，極度建議你搵人一齊做。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "XToVOcL9cfSrdLYHcRNE489z9bZrTcWP",
+          "name": "syllabus 3133-2",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "vp37Zp32GKfRYueoPQqQ00qECA25vueq",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 913,
+          "name": "HUANG, Yangguang",
+          "rating": 1
+        }
+      ],
+      "author": "goschoolbybus",
+      "date": "Dec 26, 2020",
+      "title": "",
+      "comment_content": "Other students have already given enough knowledge about the contents. Basically this class is the extension of ECON3113.<br />Concepts in this course are not hard to understand.",
+      "comment_teaching": "Sunny will give out slides as well as latex notes which he typed during the classes so that students can pay attention to what he said instead of what he typed in the classes and reviewed back notes after the class. Also, he replied emails extremely fast, and is willing to chat with students not only in ECON3133 contents but also other issues. So I think he is nice.",
+      "comment_grading": "Since this semester is in online mode, the grading scheme is a little bit different. <br />20% hw<br />20% attendance<br />25% midterm<br />35% final<br />I think everyone got almost full marks in hw and Sunny said as long as we showed up in the zoom, we would get the attendance points. So I guess everyone got at least 40%.<br /><br />Understanding concepts helps for exams but what really matters is computational skill. If you are good at computation, you definitely won&#039;t get a bad grade. But if you are not confidence in fast computation, I suggest you to at least be really familiar with hw questions which can help you to get used to those math models (basically just differentiation). Also, since we took online exam, Sunny intentionally set exams extremely long. For example, he said there are only four questions in the midterm, but every question had at least 5 sub questions. I think I calculated every question really fast in the final exam, but I still can&#039;t finish the last sub-question.<br /><br />My scores:<br />attendance (Not released but I joined every zoom meetings)<br />hw 70/70 (mean 68/70)<br />midterm 99/100 (mean 74.8 highest 100)<br />final 137/150 (mean 98.7 highest 137.8)<br />grade A+<br />The score of final exam was out of my expectation because I made a really stupid mistake from which I guess I lost at least 7 points. I personally got a really good grade from this course. However, I do not think this is a good grade course because one of my friends got exactly mean in overall but only got B-, and another student got 2% above mean but got B. Compared to other MAEC/ECOF Econ courses, this is not a good grade course.",
+      "comment_workload": "I personally think the workload is not heavy. We only need to submit 7 assignments, each of which costed me 3 hours per week. We are allowed to have one hw partner but my hw partner did nothing. So if your hw partner works with you, the workload is not really heavy.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 4,
+      "vote_count": 6,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "dzSCsKdz4TbTIqXmC0hvby5Ez4bhymzP",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1285,
+          "name": "WU, Qinggong",
+          "rating": 0
+        }
+      ],
+      "author": "ReallyYum",
+      "date": "Dec 22, 2020",
+      "title": "Don&#039;t even bother with this guy",
+      "comment_content": "ECON3133 is basically ECON3113 reversed in the sense that you are now dealing with profit maximization rather than utility maximization, with the introduction of Game Theory to analyze oligopoly/market competition. In hindsight, the content is very much similar to what is going on in the later parts of ECON2103/2113.&nbsp;&nbsp;<br /><br />Provided that you have a good foundation from Micro Theory I, up until Game Theory should be a breeze.<br /><br />The D given does not represent what the course is meant to teach, but rather what the professor has decided to put into the course, much of the content is simplified, reduced down compared to the other lectures. To learn the contents, I would suggest going to Prof. Huang&#039;s class or go read Snyder&#039;s book.",
+      "comment_teaching": "The prof. English is definitely much clearer compared to other mainland professors in HKUST, however, attending the lectures is not necessary for you to perform well in this course, given that most of what he does in class is simply repeating what is in the slides, albeit much slower.",
+      "comment_grading": "The means and statistics could be referenced in Doug&#039;s review.<br /><br />For your reference:<br />Midterm: 98/100, Final: 52/100<br />Assignments: Full<br />Final Grade: B-<br /><br />What bothers me the most is not how hard the paper was, but rather how the mark was given and how it was handled.<br /><br />Going back to my point earlier, if the contents were not as trimmed as it is, then perhaps the paper could have been more indicative of what we have actually learnt in class.<br /><br />Given that the final was open-book (note that being open book or not had practically no difference, as there was no need to memorize anything), and how the solutions tend to be very &quot;minimalistic&quot;, this creates a lot of ambiguity in the marking, reflected in how one may not attain full credits in a question, even though his/her answers are nearly an exact match to the suggested solutions.",
+      "comment_workload": "The workload is pretty much non-existent for this course, given that you could cram it all before the night of the midterm/final and still perform to a decent level.<br /><br />The assignments are also judged based on completeness, which implies that you only need to write something down, just to indicate that you &quot;attempted&quot; the questions.<br /><br />Note: If you want to really learn the content, then the workload incurred by either sitting the other prof. class or reading Snyder&#039;s book, online materials may downgrade it from A to C.",
+      "rating_content": 2,
+      "rating_teaching": 3,
+      "rating_grading": 1,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 7,
+      "vote_count": 7,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "svbzxqeN93FVUr0aKn7gJ8p0gtDW1s7o",
+          "name": "Practice Final",
+          "format": "pdf"
+        },
+        {
+          "key": "gWf7IsarUlrjhxjt4OIOPUcQ7n1gyAx3",
+          "name": "Final",
+          "format": "pdf"
+        },
+        {
+          "key": "rRhEMkGRZt8xEhGcSR6vOQAM1T0M90HR",
+          "name": "Practice Midterm",
+          "format": "pdf"
+        },
+        {
+          "key": "fBIuYMFZTuuTtTfvRvza2DfI5zRFabc1",
+          "name": "Practice Midterm Answers",
+          "format": "pdf"
+        },
+        {
+          "key": "13KfhqNAOeSkuhDS2SaLadTBlogn8WkX",
+          "name": "Practice Final Answers",
+          "format": "pdf"
+        },
+        {
+          "key": "eoeKKQujcWmfHa0IF9ns964dzZVWF0h9",
+          "name": "Midterm",
+          "format": "pdf"
+        },
+        {
+          "key": "QrMZwgkmuw5BX0XQIAmDB9wMZC3XyQmu",
+          "name": "Midterm Answers",
+          "format": "pdf"
+        },
+        {
+          "key": "WQt5NsNCySxJEyBy7MmTwvAn1JahdiRI",
+          "name": "Final Answer",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "mFjfyJAxYkb5f58iJMKnItwXys5aaJWT",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1285,
+          "name": "WU, Qinggong",
+          "rating": 0
+        }
+      ],
+      "author": "Doug Stamper",
+      "date": "Dec 22, 2020",
+      "title": "bad grade",
+      "comment_content": "similar to 3113<br />just change all the jargons from production to supply side.<br />hence, there will be some game theory at the end in lectures.<br />and a lot of game theory in final exams.<br /><br />===things that i want to know before attending the course===<br />1. math formality is not important<br />yes<br />you will see them in lecture notes<br />but you are not required to do that much in assignments<br />you are not required to do that much in final<br />i don&#039;t even know why they need mul cal for this course<br />2. kuhn-tucker is trivial<br />it seems that you need to use it. but i have never used it in assignments and exams. so don&#039;t waste time on it.<br />3. non-negativity of demand function<br />yes, demand function is non-negative. so it would be in the form of max(f(x), 0), just plug in f(x) during maximization. don&#039;t be scared by the max function. if you find contradiction, apply boundary case. it&#039;s not a big deal after all.",
+      "comment_teaching": "good presenter.<br />first, he speaks fluent english<br />second he speaks simple english<br />how simple is it?<br />as simple as the dialogues in american tv series <br />so attending lecture is like watching house of cards (economics) (0.25x) <br />a man of cultures, he does know some popular references, for example, jedi, doug stamper.<br />this is extremely rare since judging from his name, he sounds like a mainlander.<br />but i guess in general it is fine because he was a professor in the state before.<br />one drawback of the lectures are the pace.<br />spent too much time in elaborating the elephant in the room",
+      "comment_grading": "ridiculous<br />mid-term: 78/100, mean: 80/100<br />6 assignments, not graded on correctness but completeness<br />on average 2.7/3 for the entire class<br />i missed 1 assignment and got one 2/3 assignment<br />the rest got 3/3<br />final: 95/100(max), mean: 71/100<br />Final grade: B+<br /><br />actual wtf, maxed in final and still B+.<br />what could i say.",
+      "comment_workload": "almost 0.<br />only workload are the hw<br />which are a piece of cake<br />that&#039;s it<br /><br />===Things that can reduce your workload===<br />1. you can skip tutorials<br />Exercises are irrelevant to final exams. the summary is concise, though. but professor&#039;s ppt is concise also.<br />The exercises are also useless. don&#039;t waste time on them. esp after midterm.<br />2. you can skip 70% lectures<br />yes, since 70% of the contents are a disguise of 3113. they just change the names. <br />3. don&#039;t skip assignments be4 exams<br />you can see some of their variants in the exams. so you can re-do them before midterm. <br />4. don&#039;t skip game theory examples in lecture notes be4 final<br />examples in lectures and assignments are extremely important. all game theory examples appear in lecture notes, assignments and finals in a form of either variant or steroid.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 1,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "9QERBhlFgqUVrJlWHW5Q7poUYy1z37qa",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 913,
+          "name": "HUANG, Yangguang",
+          "rating": 1
+        }
+      ],
+      "author": "USTAsiaNo1",
+      "date": "Aug 16, 2020",
+      "title": "just as an additional comment to others",
+      "comment_content": "NA",
+      "comment_teaching": "NA",
+      "comment_grading": "I want to particularly emphasize on grading <br />As other mentions, this course is hard, competitive, and the distribution is so narrow. It is just easy to fall into C range<br /><br />I personally have an overall score below mean 1% and get a C+, meanwhile, my friend above mean 1% get a B. The cutoff is just crazily close.<br /><br />So, please be reminded that it is not a good grade course for average people. The traditional UST grading &quot;mean = B-/C+&quot; still valid here, even though I agree with others&#039; review mentioned that this course provides excellent content and sunny is indeed a nice and perfect professor, but, for the grading part, I feel I really need to tell you guys, IT IS NOT GREAT!",
+      "comment_workload": "NA",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "k2BHisxULWVKGogD483Clb8EQzyIrh7l",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 913,
+          "name": "HUANG, Yangguang",
+          "rating": 1
+        }
+      ],
+      "author": "Yeung Lau",
+      "date": "Jun 03, 2020",
+      "title": "Nice methodology course that pave ways for ECON electives",
+      "comment_content": "The course emphasizes taking derivatives and solve equilibrium. It covers 8 chapters from the Nicholson textbook. However, the way to solve questions are almost the same: find first-order condition, find the optimal.",
+      "comment_teaching": "Professor provides slides and hand-written notes. The solution to homework is also clear. Once the core method is learnt, everything is about computation.",
+      "comment_grading": "Based on the weights, I got 85/100. And I receive B+. <br />Grading:<br />- Homework assignments, 10%<br />- Midterm exam, 30%<br />- Final exam, 60%<br /><br />The exams are fair and not very hard. But it requires fast computation. You will get practice in homework.",
+      "comment_workload": "The work load is quite high. One homework for each chapter. So total 8 homeworks (the homework before midterm is not graded).",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "iwr7Ce03KmIQRot3Pudv5zz7Yh6wnPTF",
+          "name": "syllabus 3133",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "NVf6o6sq9ZPZsr9PYt3BI3dTROgaEoWb",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 913,
+          "name": "HUANG, Yangguang",
+          "rating": 1
+        }
+      ],
+      "author": "wen moon ser",
+      "date": "Dec 20, 2019",
+      "title": "",
+      "comment_content": "第二個intermediate micro course。同3113比，個course個廣度係廣好多好多，但深度又好似無3113咁深，好多野都只係略略帶過，無咁多proofs。基本上係ECON2113嘅加深同重數版，頭1/4個course講firm theory，之後就擺埋demand同supply一齊，討論唔同嘅competition market同埋用game theory去推一啲market outcome。最後就補返3113無教嘅externalities同public goods。數學上嚟講會重數過3113，但唔使理解得好似3113咁透徹，好多時都係好公式化咁計。主要嚟講都係用first order condition同Lagrangian 去計數，solve equations set嘅時候小心啲就得。同埋最緊要知自己有啲咩variables郁得有咩唔郁得。其實最後呢個course最重要唔係學左幾多個唔同嘅models，而係學個思維方法(methodology)。<br /><br />Course Content:<br />1. Math review<br /><br />2. Firm Theory: （淨係呢part已經等於3113大半個sem)<br />&nbsp;&nbsp;2.1. Production function<br />&nbsp;&nbsp;2.2. Cost minimization problem (基本上同3113個utility maximization大同小異）<br />&nbsp;&nbsp;2.3. Properties of cost function<br />&nbsp;&nbsp;2.4. Profit maximization problem of a price taking firm<br />&nbsp;&nbsp;2.5. Profit maximization problem of a monopoly and its relation with elasticity of demand<br /><br />3. Partial Equilibrium:<br />&nbsp;&nbsp;3.1. Demand and supply<br />&nbsp;&nbsp;3.2. Short run and long run equilibrium<br />&nbsp;&nbsp;3.3. Comparative statics (全個course最重數嘅位，講緊點用elasticity去estimate啲changes，亦都好有用。）<br />&nbsp;&nbsp;3.4. Welfare analysis<br />-------------------midterm---------------------<br />4. Monopoly:<br />&nbsp;&nbsp;4.1. Monopolistic competition<br />&nbsp;&nbsp;4.2. Monopoly behavior<br />&nbsp;&nbsp;4.3. Regulating monopoly<br />&nbsp;&nbsp;4.4. Price discrimination<br /><br />5. Game Theory:<br />&nbsp;&nbsp;5.1. Simultaneous move game<br />&nbsp;&nbsp;5.2. Pure strategy Nash equilibrium and mixed strategy Nash equilibrium<br />&nbsp;&nbsp;5.3. Sequential move game<br />&nbsp;&nbsp;5.4. Subgame Perfect equilibrium (無考到）<br />&nbsp;&nbsp;5.5. Repeated game<br /><br />6. Imperfect Competition: (主要係講duopoly/oligopoly)<br />&nbsp;&nbsp;6.1. Bertrand price competition model<br />&nbsp;&nbsp;6.2. Cournot quantity competition model<br />&nbsp;&nbsp;6.3. Bertrand differentiated product competition model<br />&nbsp;&nbsp;6.4. Hotelling model（要solve嘅話要solve成個鐘）<br />&nbsp;&nbsp;6.5. Stackelberg leader-follower model<br />&nbsp;&nbsp;6.6. Merger and collusion<br /><br />7. Externalities and Public Goods: (會用返3113啲utility maximization)<br />&nbsp;&nbsp;7.1. Externalities<br />&nbsp;&nbsp;7.2. Public goods",
+      "comment_teaching": "Sunny教書好鬼正，個人都幾搞笑。但佢會講得幾急幾快下。佢個power point slide 會有唔同concept，之後會有啲example，sunny就會用visualizer 喺紙到由頭教我地solve一次，幾有耐心。佢啲英文極好聽，唔會一舊舊，而且佢識廣東話，問問題可以用廣東話問，溝通完全無問題。今個sem因為時代革命，11月後期要用zoom上堂。成件事好反智，不過sunny用zoom會share screen即時打latex，同佢用紙筆solve一樣，完全唔會有問題，佢仲要打得好快。每個chapter完咗佢都會有啲discussion，可能係一啲real life application/issues，但其實好多時同佢個chapter教嘅野唔係咁related同埋大家都知佢唔考都唔係好聽，但其實佢講嘅野好多都好有意思，例如佢有一次講點解程序公義咁重要。喺咁嘅時勢，大家作為大學生都唔應該淨喺掛住個grade，唔同嘅知識都要多啲吸收同了解。<br /><br />tutor係shi xiang，基本上係冇鬼用，啲tutorial notes離地到傻，佢啲字又核突睇唔明，講野又講到一舊舊，assignment又突登少少野都捉，唔會俾full你，有仲差過無。",
+      "comment_grading": "一個midterm一個final，七份assignment（suppose係八份但今個semester cut咗一份）。考試基本上主要考計數，無咩點考concept/ application。Final係cumulative，但考落其實無咩點考midterm前嘅野。Grade嚟講我覺得佢應該係A range好闊，但如果你aim A+就應該唔太易，原因一嚟啲人太勁，二嚟就係sunny都應該大部分會派A，就唔會係A+同A-。<br /><br />Grading scheme:<br />Assignment 10%<br />Midterm 30%<br />Final 60%<br /><br />General Performance:<br />Assignment: I guess most of the people get nearly full in this part<br />Midterm: 63.4/100<br />Final: 92.3/110<br /><br />My Performance:<br />Assignment: 67.3/70<br />Midterm: 88/100<br />Final: 108/110<br /><br />Final Grade: A<br /><br />你話好唔好grade呢，我會話差過3113囉，同埋啲同學真係好勁，想考A+基本上要95%先有機會。",
+      "comment_workload": "如果你認真對待呢個course，係算重workload。佢基本上每個星期一份assignment，但係佢每份assignment都長到七彩，每次都交十幾廿版A4紙，不停喺到計計計。每個星期都要俾幾個鐘佢係到鋤。另外因為個course太廣太多material，溫exam都會溫得幾痛苦下。不過啲assignment認真做真係對考試好有幫助。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 10,
+      "vote_count": 12,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "course": {
+    "id": 2422,
+    "subject": "ELEC",
+    "code": "4010M",
+    "name": "Robotic Manipulation and Mobility",
+    "description": "This course provides an overview of the techniques that enable robots to interact with the world, that is, robotic manipulation and locomotion. Fundamental theories and models regarding the two important problems will be introduced. The practice of robotic manipulation and mobility will be investigated through real robot systems including industrial robot arms and multifingered grippers. Hands-on experience with some of the topics in the class will also be provided through term projects and assignments. No formal prerequisites needed, but knowledge in control (for example, ELEC 3200 or MECH 3610) can help.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1830,
+      1730
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 946,
+        "name": "SEO, Jungwon",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "ycPzNIHHha3hoWqh3ZJ2yIYgFR54RMnE",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 946,
+          "name": "SEO, Jungwon",
+          "rating": 1
+        }
+      ],
+      "author": "skwat",
+      "date": "Jun 15, 2018",
+      "title": "A MECH course",
+      "comment_content": "This course is like story telling: giving brief into. to robotics. Do not expect it goes very deep and you will not be building a robot here. The role for ELEC students in this course is coding MATLAB... (palm-face)<br /><br />I have to say, not much content from previous ELEC courses are related to this course. There is an alternative code for this course: MECH4000J, which means MAE folks will be your classmates. (FYI: For this semester, 15 from MECH and 13 from ELEC/ CPEG)<br /><br />The course is divided mainly into 3 parts, there is a &quot;tentative teaching schedule&quot; but the actual teaching turns out to be:<br />(For the tentative one, you can refer to another review written by my friend)<br /><br />I. Foundations<br />- Configuration; Degrees of freedom<br />- Configuration space topology/ <br />&nbsp;&nbsp;representation<br />- Planar rigid body motion<br />- 3D rotational matrix/<br />&nbsp;&nbsp;Euler angles/ quaternions<br />- Homogeneous transformation<br />- Forward/ Inverse/ Velocity kinematics;<br />&nbsp;&nbsp;Jacobians<br />- Actuators; DC motors/ <br />&nbsp;&nbsp;gearing/ power electronics&nbsp;&nbsp;&nbsp;[*]<br /><br />II. Manipulation<br />- Robot control; Error dynamics<br />- Motion control w/ velocity/<br />&nbsp;&nbsp;torque/ force input<br />- Feed forward + feedback actions<br />- Force, Torque, and Wrench;<br />&nbsp;&nbsp;Linear combination<br />- Coulomb friction model<br />- Force-Closure (FC)<br />- Mathematical optimization<br />- Linear Programming;<br />&nbsp;&nbsp;Linear feasibility problem<br />- FC w/ 2/3-contacts<br /><br />III. Mobility<br />- Simple pendulum: 1D/2D graphical analysis<br />- Stability<br />&nbsp;&nbsp;(Lyapunov, Asymptotic, Exponential)<br />- Cart-pole systems, Acrobot&nbsp;&nbsp;&nbsp;[*]<br />- Control for balancing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*]<br />- Control for swing up&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*]<br />- Passive dynamic walking: Rimless Wheel<br />- Limit cycle; Running<br /><br />I took this course and ELEC3200 together and ELEC3200 (lab) is somewhat useful and as indicated [*] above. However, for other topics, basically they are mainly MECH.<br /><br />Here are some course I strongly suggest you to take as if you are interested in taking this course:<br /><br />- MATH2111 (matrix; you need a lot in doing HWs/ projects, I mean...look at the content and you should find &quot;3D rotational matrix&quot; and &quot;wrench&quot;)<br />- MATH2351 (diff. eq.; Jacobian)<br />- ELEC2100 (signals and systems (the last part))<br />- ELEC3200 (control; fixed pt. analysis and the labs: (DC motors/ i-Pendulum))<br /><br />You also need MATLAB coding, I repeat MATLAB, MATLAB, MATLAB!!! (better get a licence)",
+      "comment_teaching": "Prof. Seo does not provide notes, he writes everything on the board and you have to jot notes during lectures. You better know friends if you are missing lectures. He is friendly and willing to answer your questions (I have to admit sometimes his answers and teaching are not effective and I still don&#039;t really get some topics, maybe they are too MECH for me.)<br />Anyway, he often got mistakes in his writings/ calculations (even in the first steps, +/- sign...) and that&#039;s why I give &quot;C&quot; here.<br /><br />Also there is no textbook and references for this course. Well, I still recommend you to find and read &quot;modern robotics: mechanics, planning and control&quot; (2017 version)...you will know what I mean by the time you attend the lectures...",
+      "comment_grading": "HW [30%] (5 in total, 1 for MATLAB coding and 4 for max of 5 questions on MECH......well, yea I know what you think, 6% each!!)<br /><br />Project 1 [35%] (Group project)<br />Project 2 [35%] (Indivudial project)<br /><br />The marks for the projects are not released.<br />HWs and projs are all about MECH/ MATLAB programming and tbh, me from ELEC did feel the tension...<br /><br />If you can score well in all HWs and complete majority aspects for the software and write the report neatly, you should have good grade.<br /><br /><br /> (P.S. Something I would also like to mention: from what I know and being told, another robotic course ELEC4220 from Prof. Li will not be offered in near years. As Prof. Seo said, this course is different from ELEC4220 as 4220 goes deeper into the kinematics and motions.....so, see if you are lucky enough for 4220 being offered again to take both.) Good luck!",
+      "comment_workload": "Depends on your background, if you know MATLAB, you should be fine as you can find a MECH guy to teach you.<br /><br />Proj.1: &quot;Real-time 3D orientation mapping&quot; is a group work requires 3D rotation/ IMU data manipulation. You have to visualize Solidworks file on MATLAB in sync. with Arduino/ IMU actual rotations. It&#039;s best work in group of 1 from MECH and 1 from ELEC/ CPEG.<br /><br />Proj.2: &quot;Robotic grasping&quot; again is a MATLAB program, work individually. This is hard...<br /><br />For me, both projects took slightly more than 1 week for coding and reviewing the materials. And you also have to write a report following the IEEE IROS paper style within 2 pages exclude references and codes!<br /><br />Besides, there should be presentations, you better demo the results during the interview. I don&#039;t know why at the end no presentation required for proj.2... so better write your report with full effort!",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "P8HoCpcbcELnKaS3fwN4i5vjrqGp5OVy",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 946,
+          "name": "SEO, Jungwon",
+          "rating": 1
+        }
+      ],
+      "author": "mhchanak",
+      "date": "Jun 14, 2018",
+      "title": "Introduction to Robotic Manipulation and Mobility",
+      "comment_content": "The prerequisites: There is no prerequisite required, but some of the topics were already covered in other MECH courses. But it would be totally fine if you do not have these background, because it would be taught in class, so do not worry.<br />In addition, the projects were dedicated to MATLAB, so it is better to have at least some experience on MATLAB before. Learning MATLAB along with this course is also possible, it just takes you some more time, I think the projects are not difficult even for new MATLAB users. <br /><br />The course contents:<br />Part I Foundations: “how to describe robotic motion” and “how to generate robotic motion”<br />- Week 1: Configuration space<br />- Week 2-3: Rigid body motions<br />- Week 4: Actuators and drive systems<br />Part II Robotic Manipulation: ”how to handle objects with robots”<br />- Week 5-6: Rigid body statics<br />- Week 7-8: Robotic grasping and fixturing<br />- Week 9: Other quasi-static manipulation<br />Part III Robotic Mobility: “how to make robots move around”<br />- Week 10-11: Control and dynamics<br />- Week 12-13: Robotic walking and running<br /><br />In short, an introductory and comprehensive course on robotics. The topics were quite broad and relatively shallow, therefore you could have a touch of everything about to robotics.<br /><br />Reminder: This course had an alternative course code “MECH 4000J”, which means you will be learning together with the mechanical engineering students. But I guessed this course was graded separately for the ELEC and MECH students.",
+      "comment_teaching": "Prof. SEO has quite an unique teaching style: lecture notes were written on the whiteboard but not uploaded to Canvas, which meant you have to attend the lessons and copy the notes in order to learn. Nevertheless, he knows how to teach and I could feel his passion in teaching. Lessons were began with short review of the teaching in last lesson, and new topics were introduced in sequence, therefore it was very easy to follow and you would not get lost easily. Things were explained clearly in a concise manner, which makes learning new concepts much easier. During the classes, questions were raised and answered at the same time, which make the overall learning environment was quite nice.",
+      "comment_grading": "5x Homework: 30%<br />1x Project #1 (report + presentation): 35%<br />1x Project #2 (report + presentation): 35%<br /><br />You only know your marks for the homework, but not any of the projects. Therefore nothing much to say on the grading. I got slightly above mean for homeworks, and finally got an A-. What happened? Who knows?",
+      "comment_workload": "The workload was similar to what a 3-credit course should have.<br />The homework and projects were quite straightforward, they required thinking but they were not challenging if you have attended the classes and understood the concept. <br />The first project involved object manipulation with Arduino and MATLAB, whereas the second one also involved object manipulation, but with MATLAB only. Note that the first project was a two-people group project, the second one was an individual project. If you have played with Arduino before and had some experience with MATLAB, you should be able to finish the projects within a few days. The presentation was just a short demonstration of your MATLAB to professor and T.A.. Officially, there was presentation for each project (as you can see in the grading section), but it turned out I only got one presentation for the first project but not the second.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

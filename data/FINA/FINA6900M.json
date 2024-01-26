@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 2015,
+    "subject": "FINA",
+    "code": "6900M",
+    "name": "Wealth Management",
+    "description": "This course aims to provide a solid foundation which is essential for creating and managing an investment portfolio for individual clients. It focuses on the practical application of portfolio management and asset allocation processes in the context of wealth management for individual investors. With an introduction to the fundamental principles and the financial planning process, this course emphasizes on the provision of investment advisory services. It discusses client expectations and concerns including risk and other cognitive issues before applying the concepts and techniques to construct and manage investment portfolios for the client. In addition, this course incorporates other wealth management issues including consumption planning, asset acquisition and retirement planning in designing a financial plan. In this course students will also learn to use the database Morningstar and work with the data in Excel spreadsheet programs. Thus this course prepares students to be investment professionals in the areas of private banking and asset management.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      1630
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"5120\" href=\"/review/FINA5120\" target=\"_blank\">FINA 5120</a> AND <a class=\"course-link\" data-subject=\"FINA\" data-code=\"5210\" href=\"/review/FINA5210\" target=\"_blank\">FINA 5210</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

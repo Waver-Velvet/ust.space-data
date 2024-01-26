@@ -1,0 +1,300 @@
+{
+  "course": {
+    "id": 287,
+    "subject": "ECON",
+    "code": "4114",
+    "name": "Industrial Organization and Competitive Strategy",
+    "description": "Market structures and their implications for industry performance and strategic decision-making by firms; entry deterrence, advertising, R&D investments; horizontal and vertical integration, strategic alliances, joint ventures and multi-market interaction.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2330,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1730,
+      1630
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ECON\" data-code=\"3014\" href=\"/review/ECON3014\" target=\"_blank\">ECON 3014</a> OR (<a class=\"course-link\" data-subject=\"ECON\" data-code=\"3113\" href=\"/review/ECON3113\" target=\"_blank\">ECON 3113</a> AND <a class=\"course-link\" data-subject=\"ECON\" data-code=\"3133\" href=\"/review/ECON3133\" target=\"_blank\">ECON 3133</a>)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.17,
+    "rating_teaching": 5,
+    "rating_grading": 4.83,
+    "rating_workload": 4.17,
+    "review_count": 6,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1399,
+        "name": "AU, Pak Hung",
+        "count": 4
+      },
+      {
+        "id": 1115,
+        "name": "KAWAGUCHI, Kohei",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "kloNxWfjHiKU9dKsytIM6VGiFYWnc3dD",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1399,
+          "name": "AU, Pak Hung",
+          "rating": 1
+        }
+      ],
+      "author": "ustres",
+      "date": "Dec 21, 2022",
+      "title": "Good grade",
+      "comment_content": "So difficult, especially if you are not good at maths. As the ppt doesn&#039;t calculate steps. <br /> many many many many many many many many many many many many manygame theory",
+      "comment_teaching": "Prof is nice and patient, but the TA never reply emails.",
+      "comment_grading": "Good grade, don&#039;t know anything and get 1 s.d. lower than the mean in both exam and MT still get a pass. Good for student who are not looking for a high GAP, and just wanna grad.",
+      "comment_workload": "Not hard, just some effort-based problem sets 1 MT and 1 Exam.",
+      "rating_content": 1,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "cLvK0WvR87mkq5AFQAZJKXxiBrkbXWPl",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1399,
+          "name": "AU, Pak Hung",
+          "rating": 1
+        }
+      ],
+      "author": "rind",
+      "date": "Dec 16, 2022",
+      "title": "Excellent Teaching",
+      "comment_content": "I will put an asterisk for the content which is covered by Econ3133. (I attended Prof. Huang&#039;s session)<br />1. Basic (*)<br />Demand and Supply revisit, firm&#039;s cost function and maximization problem.<br /><br />2. Static Game (*)<br />Basic Game Theory: Prisoner dilemma; Nash Equilibrium, Profitable Deviation, Best Response function, Random Strategies.<br /><br />3. Static Oligopoly Models (*)<br />Homogenous and differentiated Bertrand; Cournot<br /><br />4. Dynamic Games (*)<br />Backward Induction. Very straight forward.<br /><br />5. Dynamic Oligopoly (*)<br />Stackelberg model; Apply the dynamic game framework into solving firm&#039;s profit maximization problem.<br /><br />6. Business Strategies<br />Dynamic Oligopoly but with different kind of investment. How to perform entry deterrence by committing to an investment. Direct effect and Strategic effect.<br /><br />---midterm---<br /><br />7. Repeated Games (* partly)<br />Finitely and infinitely repeated games; Profitable one-shot deviation; Grim Trigger and Less Grim Trigger strategy.<br /><br />8. Tacit Collusion and Antitrust<br />How firms can collude by setting up a punishment mechanism. How could different Antitrust measures reduce the possibility of collusion: leniency policy, whistleblower.<br /><br />9. Product Differentiation (* partly)<br />Hotelling Model where firms can: 1) select location freely, 2) select price freely, 3) select both price and location freely.<br /><br />10. Uninformed Consumer<br />Why there are price dispersion? To study a market with incomplete information and show that in long run, some firms set a price higher than other firms at equilibrium.<br /><br />11. Experienced Good<br />The value of a brand name.<br /><br />12. Price Discrimination (* partly)<br />Study more on 3rd and 2nd degree of price discrimination. 2nd degree: how to design an optimal menu for consumers in order to let them self select the product they value the most. The most difficult part in this course I think.<br /><br />13. Vertical Markets<br />Model of a manufacturer and a supplier. Double Marginalization; Franchise fee.<br /><br />Although many of the contents are covered by Econ3133, Prof. Au will give deeper explanation and study harder topics in general. So I think it is still good to have the lessons.<br /><br />For the Math of this course, you have to know how to solve FOC (computing partial derivatives). You don&#039;t need to know Lagrange Multiplier as Prof. Au use another way to tackle constrained maximization.<br /><br />You will do all these things repeatedly in this course:<br />1. Write a maximization problem<br />2. find the best response function by FOC<br />3. Solving simultaneous equations (I strongly suggest you program it into your calculator for the midterm exam).",
+      "comment_teaching": "If you have had Prof. Au&#039;s Econ3113, you know his teaching is excellent. Even some of the contents are covered in Econ3133, I think he gives better insight.<br /><br />For the new content, every time after he solves all the complex computation and results, he will give a moral of the story which is very helpful in understanding the problem. (Especially for 2nd degree price discrimination, without those economic intuition, you will be lost in all the inequalities and constraints.)<br /><br />The the notes part, this time most of the content are in the notes. Therefore, you don&#039;t have to write many notes during class.<br /><br />The only problem is sometimes he speak too fast and being inaudible.<br /><br />TA: Clio<br />A very fun guy :D",
+      "comment_grading": "Grading Scheme:<br />Participation (3%): <br />You will get this 3% if you don&#039;t misbehaved during the class.<br /><br />Problem Set (15%): <br />Best 5 out of 6, graded by effort<br /><br />Midterm Test (26%): <br />mean: 49.2/80, sd: 12.9, me: 65/80<br /><br />Final (56%): <br />mean: 107/180, sd: 35, me: 169/180 (high)<br /><br />Grade: Pending<br /><br />Tips for exam:<br />1) Get yourself a program to solve for the simultaneous equation in 2 unknowns. That saves you many time in exam.<br />2) Check whether you equilibrium answer is really the maximum. (say your answer is price = 10, you can do this by plugging in price = 9, 10, 11 in the profit function and see if it is maximized at p=10). If you get a wrong answer in computation, you lose a lot of marks in the following concept questions.<br />3) Turns out Q1 for both midterm and final this year requires some kind of clever way to solve it (or it is not as straight forward as other computational problems), skip them first.",
+      "comment_workload": "No attendance of lecture and tutorial.<br />Biweekly assignment, the format is very similar to what is presented in the real exam, so do it yourself.<br /><br />Past papers and practice problems are given, they are very useful.<br /><br />Midterm is stressful, because of the limited time (only 80 minutes).<br />Final is much better because you are given 3 hours.<br /><br />I think this course teaches you how to solve problem. All the problems demonstrated in class actually follows the same framework. <br />For dynamic games, it is always to draw the game tree, then to identify each player&#039;s maximization problem, proceed by generalized backward induction.<br />For SPNE for strategies in infinite game, it is always to find the one-shot profitable deviation.<br />The interesting/difficult part of this course is how could you understand every player&#039;s payoff under different measures/action/strategies.<br /><br />So to master this course, you have to be very good at computation (to follow the framework), but also be clever to deduce player&#039;s payoff under different scenarios. (A slight change in policy can already gives completely different result!)<br /><br />Usually these 2 attributes can be trained throughout the examples given in the lecture and doing practice (basically all the resources he give)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "y7vGWva6CbiI83iNLd2Bk7AdpYK6mJNq",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1399,
+          "name": "AU, Pak Hung",
+          "rating": 1
+        }
+      ],
+      "author": "Cooper XIAO",
+      "date": "Jan 20, 2021",
+      "title": "A great elective in ECON 4000 level",
+      "comment_content": "Rich content with massive use of game theory. In the first few weeks contents are about basic game theory and models already introduced in ECON 3133. After that new stuff came up, like tacit collusion, product differentiation, consumer inertia and price discrimination. Various models are used to describe different kinds of market structures and situations in the real life, and explain each company&#039;s&nbsp;&nbsp;strategies in those cases. Contents are interesting if you like to learn about behaviors between firms and customers using game theory models. Only basic calculus and probability are required.<br /><br />According to the outline, the chapters are:<br /><br />1. Introduction and basic concepts (1 lecture)<br />\u000f Review of perfect competition and monopoly pricing<br />\u000f Measures of market power and welfare<br /><br />2. Classical oligopoly models (3 lectures)<br />\u000f Theory of static games<br />\u000f Static oligopoly models<br /><br />3. Dynamics in oligopoly (4 lectures)<br />\u000f Theory of dynamic games<br />\u000f Dynamic oligopoly models<br />\u000f Business strategies<br /><br />4. Tacit collusion (4 lectures)<br />\u000f Repeated games<br />\u000f Cartels and tacit collusion<br />\u000f Antitrust<br /><br />5. Sources of market power (3 lectures)<br />\u000f Product differentiation<br />\u000f Consumer search<br /><br />6. Product pricing and quality offer (4 lectures)<br />\u000f Price discrimination<br />\u000f Menu pricing<br />\u000f Dynamic pricing<br />\u000f Branding and reputation<br /><br />7. Vertically related markets (2 lectures)<br />\u000f Double-marginalization<br />\u000f Resale price maintenance<br />\u000f Exclusive dealings<br /><br />8. Advanced topic: Market intermediation (2 lectures)<br />\u000f Two-sided platform<br />\u000f Information gatekeeper",
+      "comment_teaching": "Prof. AU is nice and well-prepared for the lectures. The notes are concise, but he can explain the complicated details in the lecture very well. Instead of only teaching the mathematical models, he also uses many business cases as examples to show how these models are useful in analyzing the problems and flaws of the simple models. Also, the problems in the problem sets are very well-designed for us to use knowledge learned in the lectures, so by doing homework we can review and extend the contents. He is also open to any questions regarding the materials.<br /><br />The teaching assistant HAO, Yuzhi also did a great job in reviewing the problem sets. He emphasized on the tricky parts of the problems that most of us could make mistakes on and explained it well.",
+      "comment_grading": "Assessment is quite simple, consisting of only five problem sets as assignment, a mid-term exam and a final. The grading of problem sets is based on effort instead of accuracy, so you can easily get full marks given you finish all of them. I got full marks on the problem sets, mid-term 99/100 and the final score is not released. My final grade is A+.",
+      "comment_workload": "Not heavy at all. By understanding the problem sets you can already master the course. Not many extra efforts are needed if you have a solid understanding of microeconomics, especially ECON 3133.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "BNHc5JHywmms4JIcWKzGWgYDO8FFyJ7Y",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1399,
+          "name": "AU, Pak Hung",
+          "rating": 1
+        }
+      ],
+      "author": "Anonymashit",
+      "date": "Jan 07, 2021",
+      "title": "Quite a lot of calculations",
+      "comment_content": "A not very difficult Econ 4000 level elective. Contents before the midterm exam are very similar to ECON 3133 such as Bertrend and Cournot Model. After the midterm, the course will go through hotelling model and indefinite games nash equilibrium. After that the course will explore some deeper economic chapters such as second price discrimination and product differentiation with pretty much calculations.<br /><br />Below are the chapters:<br /><br /><br /><br />1. Introduction and basic concepts<br />2. Classical oligopoly models <br />3. Dynamics in oligopoly <br />4. Tacit collusion <br />5. Sources of market power<br />6. Product pricing and quality o§er <br />7. Vertically related markets <br /><br />The topics are interesting and understandable. Good for people who like microeconomics as the topics are trying to explain what happened in reality, e.g. how the existence of search cost affect product pricing / how a menu should be designed to allow customers to pick the goods they want according to their own price sensitivity.",
+      "comment_teaching": "The professor is very nice and excellent. The pace is a little bit slow but he can explain the complicated concepts very well. He is also very willing to answer questions from students. You can always follow his pace in the lecture, unlike some other econ prof. who she always like talking to her own. It is pleasant to attend prof. Au&#039;s lecture.",
+      "comment_grading": "Normal. I got B+<br />Midterm: 89/100 (mean 82.7)<br />Hw: 39/40 <br />Final score is not released.<br />I think I performed pretty good in final, at least I have confidence for the 5 questions I completed out of 6<br /><br />He said he gives grade based on effort, and he really did. I made a very careless mistake in my midterm (made a fix cost as a variable cost in the calculation), which made the whole calculation wrong completely. Yet he still provided a high score to me (nearly full marks) for the question because I did nothing wrong beyond that.<br /><br />One point to note for the exams. The professor blended different topics in each question in the final exams. In homework and lectures we were trained to solve a question with that specific type of question, in final exam you use the solving method from another chapter to solve the question that is not related to that chapter. Anyway, the main point is that you have to understand the concept very well&nbsp;&nbsp;and the reason of each step very well to prepare the exam.",
+      "comment_workload": "Just 5 homework and only the best 4 hw is counted towards grading. No attendance, enjoyable lesson. The workload is low.<br /><br />(The topics are related to ECON 3133, you may have a hard time if you forget everything about ECON 3133)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 6,
+      "vote_count": 7,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "Hwk2eV7OQdEGwU9Xb6onTv0cTtlDaQTS",
+          "name": "Final Part 1 Solution",
+          "format": "pdf"
+        },
+        {
+          "key": "jFC3U6t7fFH8Ml8l0Im14AUrB3KnGOzI",
+          "name": "Final Part 1",
+          "format": "pdf"
+        },
+        {
+          "key": "Xp3apajkWtk77204xGihybOogCDc8iyL",
+          "name": "Final Part 2 Solution",
+          "format": "pdf"
+        },
+        {
+          "key": "Ux2F8zIuMFNpqL8nxBwtnLJsPIfgznpu",
+          "name": "Final Part 2",
+          "format": "pdf"
+        },
+        {
+          "key": "dNWysIlOa7oLMuq1YvzgyC6phfU3DVZK",
+          "name": "Final Part 3 Solution",
+          "format": "pdf"
+        },
+        {
+          "key": "sNh3aqOvyRFY99q3RFFIBLWYtCCbCIQP",
+          "name": "Final Part 3",
+          "format": "pdf"
+        },
+        {
+          "key": "0EJ5huZ6kxJo9ttRkvbW6vq6RymS3afV",
+          "name": "Midterm Test Part 1 (1)",
+          "format": "pdf"
+        },
+        {
+          "key": "Tl8lbmqtpHSh4MNwyJM8qoh5Mp6R8clr",
+          "name": "Midterm Test Part 2",
+          "format": "pdf"
+        },
+        {
+          "key": "L6bvEz8OTn7cVhMtS1V1KBqasVXZH8Wn",
+          "name": "Midterm Test Solution",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "ikvJWH9Z5wL4x0sOpL2Lp0HWJ9bzFa5m",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 1115,
+          "name": "KAWAGUCHI, Kohei",
+          "rating": 1
+        }
+      ],
+      "author": "zzGZac",
+      "date": "Jan 21, 2020",
+      "title": "",
+      "comment_content": "Could be tricky at the beginning of course, but gets more useful and interesting after break-in period. Have to say not so much, but only some mathmetics is really hard to solve so rate B instead of A.",
+      "comment_teaching": "Prof. Kawaguchi teaches in a very detailed and patient style. He&#039;s always open for problems and attaches much importance to interacive classes. The only issue was that Kohei&#039;s accent was a bit hard to understand at the beginning but everything went ok after some days (sorry about that haha)",
+      "comment_grading": "Umm I got an A and I think it&#039;s very kind of Kohei himself so I would rate grading as A. However as the class size is not too big so it would be a bit harder to get higher grade compared to other large-sized courses.",
+      "comment_workload": "Workload is just average. Like I mentioned you are supposed to so some maths, and the material is somehow time-consuming to digest. However it depends lah... I think the content is at least worthy to invest time on.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "5TDTbW62nDXG88BD9GLvyDdjnofPR8cP",
+      "semester": "2018-19 Fall",
+      "instructors": [],
+      "author": "ZHAO",
+      "date": "Jan 23, 2019",
+      "title": "",
+      "comment_content": "Market Power and Imperfect Competition<br />Sources of Market Power<br />Pricing Strategies and Market Segmentation<br />Product Quality and Information<br />Theory of Competition Policy<br />R&amp;D and Intellectual Property<br />Network Economics",
+      "comment_teaching": "very good, sometimes time was limited. Professor is great! Wise and hardworking.",
+      "comment_grading": "Pretty good, I suppose since professor said he would do his best to help us get good grade. If you fail to do well in the midterm exam, he would even email you and make appointment with you to help to &quot;get better&quot;. <br />Midterm Exam (20%): In-class, closed-book, closed-note exam.<br />Final Exam (40%): Final exam is cumulative.<br />Class Participation (5%): Every time a student asks or answers a<br />question during the lecture, the student gets 1 point, regardless of its quality, and each student can earn up to 5 points in total. Questions asked/answered right after the class counts as half a point.<br />Problem Sets (15%): There will be at least seven problem sets. Each problem set counts as 3 points. Each students can earn up to 15 points. Problem sets are graded based on effort instead of accuracy.<br />I get 2nd in midterm and 1st in final so I get A+.",
+      "comment_workload": "Project is somehow tired and Cheat sheet is useless",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,467 @@
+{
+  "course": {
+    "id": 1032,
+    "subject": "PHYS",
+    "code": "3037",
+    "name": "Honors Quantum Mechanics I",
+    "description": "This course is a more in-depth version of PHYS 3036 Elementary Quantum Mechanics I. Topics include: classical mechanics, Schrodinger equation and simple examples in one-dimension, formulation of quantum mechanics in terms of Hilbert space and Dirac bracket notation, real and momentum space representations, Heisenberg and Schrodinger pictures, Schrodinger equation in three-dimensions, angular momentum, hydrogen atom wavefunction, systems of identical particles, the periodic table.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030,
+      1930,
+      1830,
+      1730,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "Grade B- or above in <a class=\"course-link\" data-subject=\"PHYS\" data-code=\"2022\" href=\"/review/PHYS2022\" target=\"_blank\">PHYS 2022</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"PHYS\" data-code=\"3036\" href=\"/review/PHYS3036\" target=\"_blank\">PHYS 3036</a>",
+    "rating_content": 5,
+    "rating_teaching": 4.64,
+    "rating_grading": 4.82,
+    "rating_workload": 4.27,
+    "review_count": 11,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 611,
+        "name": "CHAN, Ho Bun",
+        "count": 7
+      },
+      {
+        "id": 608,
+        "name": "LEUNG, Pak Wo",
+        "count": 5
+      },
+      {
+        "id": 1517,
+        "name": "CHEN, Peng",
+        "count": 2
+      },
+      {
+        "id": 1801,
+        "name": "LIU, Wenzhe",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "trc6jGr52koze9QWCyXwPaH3XTTykLX9",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 611,
+          "name": "CHAN, Ho Bun",
+          "rating": 1
+        }
+      ],
+      "author": "perrymok",
+      "date": "Jun 06, 2023",
+      "title": "Fun course eh grade",
+      "comment_content": "The regular lectures are shared with the normal class, and teach the exact same thing. For the details, see the first 5 chapters of Griffiths Introduction to Quantum Mechanics.<br /><br />For the honors class&#039; extra lecture which replaces the normal class&#039; tutorial, we had a guest lecturer talking about more abstract stuff. For me it is actually easier since I am a pure maths student :P The stuff revolve around poisson brackets, change of variables, and some linear algebra topics, so if you have taken MATH2131 it is immensely easy.<br /><br />Honors and normal class share the same midterm and final exam, and even the same grading curve.",
+      "comment_teaching": "Prof. Chan is very knowledgeable in what he teaches, and he is very willing to answer students&#039; question (usually staying behind for 20 mins answer questions). However, the lectures are mainly derivation of equations and stuff, which is not very appealing to me. Of course, the prof does try to make things as intuitive as possible.",
+      "comment_grading": "Homework (Regular) - 20%<br />Homework (Honors) - 5%<br />Midterm - 25% [mean 58.6, sd 27.3] (mean 76.7, sd 13.3)<br />Final - 50% [mean 54.2, sd 32.7] (mean 77.4, sd 17.9)<br /><br />[normal + honors class] (honors class)<br /><br />fair grading.",
+      "comment_workload": "Since I am just a minor in Physics, and did not quite understand what was going on in PHYS2022, I spent quite some time at the beginning to catch things up. It eventually becomes quite lite.<br /><br />Each regular homework takes around 2 hours to complete for me, and each honors class homework takes around 30 mins (since afterall I am better at pure maths).<br /><br />TOP TIP: Go to 3036 tutorials instead of 3037 extra lecture lol, they have weekly questions and teaches how to do the computations, for me I can self study the pure maths stuff in 3037. Also having taken MATH2131 is basically cheating in this course since you will be so mature with all the abstractions and concepts.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Bsg6kX3diF9saVb2E64fyBV0RHTHSMY3",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 611,
+          "name": "CHAN, Ho Bun",
+          "rating": 1
+        },
+        {
+          "id": 1801,
+          "name": "LIU, Wenzhe",
+          "rating": 1
+        }
+      ],
+      "author": "UnconMarketeers",
+      "date": "May 26, 2023",
+      "title": "An elegant theory in physics",
+      "comment_content": "The main textbook is Griffiths (Chapters 1-5). It should be the most common textbook for beginner of quantum mechanics. Some other recommended textbook are:<br /><br />-&gt; J.J. Sakurai&#039;s quantum mechanics (More advanced; Suitable for second learning)<br />-&gt; Quantum theory for mathematicians, B.C. Hall. It strikes a balance between mathematics (Fourier transform, functional analysis, Lie algebra and Lie group, manifold) and physics (background of quantum mechanics, review on classical mechanics, different potential wells in 1D case, hydrogen atoms...)<br /><br />-&gt; Essential prerequisites:<br /><br />1. Linear algebra (Finding eigenvalues and eigenvectors for operators)<br />2. Classical mechanics (For experiences of solving ODEs, and be able to compare classical and quantum concepts) <br />3. Knowledge on solving PDEs using separation of variables<br /><br />-&gt; Some nonessential prerequisites:<br /><br />1. Experience on PHYS2022 (PHYS2022 is basically a brief, conceptual preview on this course)<br />2. Functional analysis (In fact many linear operators in quantum physics are unbounded, so it seems useless for what it taught in functional analysis to quantum theory... But you will have a different viewpoint if taking functional analysis)<br />3. Lie algebra theory (Say, recognizing angular momentum operator as representation of so_3(F) structure; Also the BCH formula in 3037 homework is actually a theorem is Lie algebra theory)<br />4. Distribution theory (Treat Dirac delta functinoal more rigorously)<br />Course content:<br /><br />1. 1D Schrodinger equation<br /><br />-&gt; Time independent and dependent SE <br />-&gt; Separation of variables<br />-&gt; Discussion on various potentials, like infinite potential well, harmonic oscillator, free particle, delta function well<br /><br />2. Formalism <br /><br />-&gt; Different postulates on the observables<br />-&gt; Physicists&#039; bra-ket notation (recommended to make comparison if you have learnt Hilbert space theory)<br />-&gt; Uncertainty principle and commutation (noncommutative observables experience uncertainty principle)<br />-&gt; Finite dimensional case (finding eigenvalues/eigenstates using methods in linear algebra)<br /><br />3. Quantum mechanics in 3D <br /><br />-&gt; 3D Schrodinger equation (The solution is split into radial and angular parts)<br />-&gt; Visualization of spherical harmonics<br />-&gt; Hydrogen atoms<br />-&gt; Quantization of angular momentum operator, and topics like commutation, simultaneous eigenstates/eigenvectors...<br />-&gt; Spin operator, and similar discussion to the angular momentum operator. Recognize spin as an intrinsic physical quantity. <br />-&gt; Bosons and Fermions in terms of spin<br />-&gt; Singlet and triplet<br /><br />4. Multi-particle systems<br /><br />-&gt; Identical particles<br />-&gt; Pauli exclusion principle<br />-&gt; Hydrogen-like atoms (Here and afterward everything is those from first-year chemistry course, but with more rigorous, quantitative treatment)",
+      "comment_teaching": "The instructor&#039;s teaching is moderate but a bit dull and slow. Professor Pakwo Leung taught one lecture, and afterwards I missed prof. Leung&#039;s teaching so much because he did make the class lively.",
+      "comment_grading": "25% homework, 25% midterm, 50% final. The mean in 3037 class is very high, but eventually the mixed statistics (3036 + 3037) is considered. If you can get the mean score in 3037 class, then your graded is safe.",
+      "comment_workload": "Weekly homework (both 3036 and 3037), questions are from textbook so everyone gets high score. In overall, the questions are less tricky and less complicated than Dr. Cheung&#039;s classical mechanics course.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "mOdEv9FsDxZ1O2psUWNMKvgwFHzBwab8",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 611,
+          "name": "CHAN, Ho Bun",
+          "rating": 1
+        },
+        {
+          "id": 1517,
+          "name": "CHEN, Peng",
+          "rating": 1
+        }
+      ],
+      "author": "Zechidlin",
+      "date": "Jun 14, 2021",
+      "title": "",
+      "comment_content": "Griffith’s first 5 chapters. Basic classical quantum mechanics involving Schrödinger equation, several special potentials and their solutions to SE, linear algebra involved theoretical part of quantum mechanics, multiple particle system and periodic table. 3037 lecture gives more theoretical knowledge regarding the formalism and the evolution from classical mechanics to qm. If you have learnt some stuffs before this course will be quite casual. Mt and final only tested 3036 contents, so 3037 lectures were placed at a very embarrassing situation….with their more-in-depth contents, only 5% of the total grade was allocated to 3037.",
+      "comment_teaching": "Prof. Chan’s style is typical. He explains things detailedly with clear logic when demonstrating new techniques. Dr. Chen provided very good lecture notes, yet his spoken English was very unclear, making him hard to be understood.",
+      "comment_grading": "For 3037, 3036 hw 20%, 3037 hw 5%, mt 25%, final 50%.<br />mt: mean=72.9, sd= 17 for 3037; mean=49.5, sd=28 for 3036+3037.<br />final: mean=77.7,sd=16 for 3037; mean=57.9, sd=27 for 3036+3037. <br />I got around 95% for 3036 and 3037 hw, mt 81.5/100, final 94/100, ended up with an A.&nbsp;&nbsp;I once expected for a better grade… yeah though I did make some mistakes in midterm lol.",
+      "comment_workload": "Quite light. 2-3 problems for 3036 each week, 1-2 problems for 3037 weekly. Easy to medium difficulty.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "R0S20RLcftsQAiWxOyJLVEGe4gnq08CZ",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 611,
+          "name": "CHAN, Ho Bun",
+          "rating": 1
+        },
+        {
+          "id": 1517,
+          "name": "CHEN, Peng",
+          "rating": 0
+        }
+      ],
+      "author": "alalal",
+      "date": "Jun 05, 2021",
+      "title": "When an unhonourable student takes honour class",
+      "comment_content": "Textbook: David J. Griffiths, Introduction to Quantum Mechanics, 2nd Edition, Prentice Hall (2005). You must obtain a copy of this textbook since the weekly homework is to complete some selected questions from the textbook.&nbsp;&nbsp;<br />This course covers Ch. 2 to 4, and a little bit of Ch. 5.<br />Ch. 2 Time-independent Schrödinger Equation<br />Ch. 3 Formalism<br />Ch. 4 Quantum Mechanics in Three Dimensions<br />Ch. 5 Identical Particles<br />This course is basically a more in-depth discussion of the quantum mechanics that PHYS2022 has introduced. Thus it may be advantageous to take this course right after you have taken PHYS2022 when you have a fresher memory. However, since this course require some mathematics concepts (eigenvalues, eigenvectors, basis, multivariable calculus, differential equation etc), better complete MATH2023 and MATH2121 before taking this course. <br />PHYS3037 has extra lectures which teach deeper and more complicated concepts complementary to the topics taught in PHYS3036. If you are interested to take QM II or pursue further studies in physics, 3037 may be quite suitable for you.",
+      "comment_teaching": "PHYS3036 and PHYS3037 students share the same 3036 lecture taught by Prof. Chan. The 3037 extra lecture is conducted by Dr. Chen, when 3036 students have tutorials. I did not attend any lecture live since the lecture time doesn&#039;t fit well with my personal schedule.<br />Prof. Chan seems to be really passionate. He explains concepts really detailedly, by both mathematical means and conceptual approach. You can learn a lot from his lectures, especially if you are interested in exploring more about quantum mechanics. Only downsides of his teaching are his slightly flat intonation and his sometimes-hard-to-read handwriting. Great instructor overall.<br />Dr. Chen has a really strong mainland Chinese accent in his English, which I personally find really difficult to understand, and it distracts me from listening to the content he&#039;s explaining since I need some time to comprehend his words. Sorry Dr. Chen.",
+      "comment_grading": "50% final exam<br />25% midterm exam<br />20% 3036 homework<br />5% 3037 homework for 3037 students, or weekly tutorial quizzes for 3036 students<br />3036 and 3037 students share the same curve, so I&#039;ll just write down the general statistics for all students from both classes. Both classes had the same midterm and final exam papers.<br />Midterm: mean = 49.5, SD = 28<br />Final: mean = 57.9, SD = 27<br />I got a close-to-mean score for midterm exam, above 0.5 SD for finals, around 90% for 3036 homework and around 100% for 3037 homework. My final grade is B, but pretty sure I&#039;m next to the B/B+ boundary. Assuming the mean is B, the grading scheme is similar to other PHYS course and is quite good in my opinion.",
+      "comment_workload": "3 hours 3036 lecture, 1 hour 3037 lecture, one 3036 homework and one 3037 homework per week. I spent around 4 hours in total every week on homework + catching up on course materials by reading the textbook or watching the lecture videos. Although the quantity of homework is quite a lot in comparison to other UST courses, I think the 3036 homework is essential to learn the computation and application of equations and concepts. I prefer doing extra assignments than revising for quizzes every week, so I won&#039;t complain about the 3037 homework.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "yVRUxRXrjtftcmIsZzHIbLOMPlZE9Ojr",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 611,
+          "name": "CHAN, Ho Bun",
+          "rating": 1
+        }
+      ],
+      "author": "JUNN",
+      "date": "Jun 09, 2020",
+      "title": "",
+      "comment_content": "This course is a more in-depth version of PHYS 3036 Elementary Quantum Mechanics I. Topics include: classical mechanics, Schrodinger equation and simple examples in one-dimension, formulation of quantum mechanics in terms of Hilbert space and Dirac bracket notation, real and momentum space representations, Heisenberg and Schrodinger pictures, Schrodinger equation in three-dimensions, angular momentum, hydrogen atom wavefunction, systems of identical particles, the periodic table.",
+      "comment_teaching": "The professor is a good instructor. He makes quantum mechanics interesting and that&#039;s what makes him a good instructor.",
+      "comment_grading": "The good thing about this course is it is curved with the non honors course so mean in honors course means B or B+.",
+      "comment_workload": "The workload is immense because the honors course have 2 homeworks every week and even though honors homework accounts for only 5%, it takes more time than non honors homework.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "CZeiri3hCrSvo5MHjzkhhZZbXaU2k8Uo",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 611,
+          "name": "CHAN, Ho Bun",
+          "rating": 1
+        }
+      ],
+      "author": "Alan chen",
+      "date": "Jun 05, 2019",
+      "title": "",
+      "comment_content": "The first 5 chapters of Griffith. But for the 5th chapter, because of&nbsp;&nbsp;the time limit, we only covered first 2 sections.<br />As for the honor extra class, basically covered some materials like concepts from classical mechanics, transformation symmetry, quantum dynamics etc, the difficulty level of extra class is slightly higher than the regular class. But luckily, the midterm and final didn&#039;t covered the extra material. So the difference from the honor class is just 5% weekly extra hw which usually consists of 2 problems.",
+      "comment_teaching": "Professor Chan organises course materials extremely well. However, most of the students found his delivery boring. Also, the lecture notes is a extremely simplified version of what he taught in class, and he usually skip calculations or details in his notes, so taking notes during class or looking up the textbook is suggested. But if you could overcome the boringness, you will find that Professor Chan teaches pretty well.",
+      "comment_grading": "Standard grading, I got A for both midterm and final above mean one SD or so. Not sure about the details of the grading but honor version is probably better than the regular version.",
+      "comment_workload": "Workload is ok for a honor course. For the regular weekly hw, it takes less than 1 hour and for the extra hw, it takes around 1 hour. So the workload is really that much. Apart from hw, going through the textbook and do some extra exercise would definitely lead to a good grade.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "SiI5yJuwGyaBaEzeC0skblxT7YXdyLzI",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 608,
+          "name": "LEUNG, Pak Wo",
+          "rating": 1
+        },
+        {
+          "id": 611,
+          "name": "CHAN, Ho Bun",
+          "rating": 1
+        }
+      ],
+      "author": "HakuSHL",
+      "date": "Aug 25, 2017",
+      "title": "",
+      "comment_content": "Basic quantum mechanics concept, review of classical mechanics",
+      "comment_teaching": "The course is split into two part. The 3036 part is taught by Prof. Chan. His teaching is quite clear, but not so interesting. Prof. Leung teaches the 3037 part. He is a humorous professor while he can also explain the concept clearly.",
+      "comment_grading": "HW&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25%<br />Midterm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25%<br />Final&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;50%<br /><br />The grading is quite good. I got a A+ even I only got 8X in both midterm and final. The difficulty of the exams&nbsp;&nbsp;also seems to be easier than last year which is taught by Prof. Leung.",
+      "comment_workload": "There are 2 HWs each week. One is for 3036 and one is for 3037. The 3036 homework is from the textbook. You can check the answer from it. The 3037 homework is a little bit difficult. You may have to spend time to search for information before doing it.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "9v4z0XYkTGhoyDxcmdTZb2OxII4ruj96",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 608,
+          "name": "LEUNG, Pak Wo",
+          "rating": 1
+        }
+      ],
+      "author": "Knar",
+      "date": "Aug 10, 2016",
+      "title": "",
+      "comment_content": "honor班和普通班都是上同樣的堂 只是由quiz改為additional lecture，由Prof Leung教。內容全跟griffiths，所以就算聽不明堂和看不明notes也可以看書。",
+      "comment_teaching": "教書不錯。果然寫白板的教法才是最容易吸收。有video，聽不明白或者走堂可以看回去。",
+      "comment_grading": "不計attendence。有和普通班一樣的功課，griffiths題目來的，可以抄;另外有honor班additional的功課，很難找到答案，我曾經因為找答案而電腦中病毒= =...<br />估計和普通班一起拉curve，所以只需要高普通班的mean 1個sd左右就能夠A range，非常輕鬆。",
+      "comment_workload": "作為傳說中最難的科目，的確要花費不少的時間。但因為內容比其他physic科目更加有趣，所以還是可以接受的。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "L4WAETsbXHAczFYjj1JzSdngqAFo9VBP",
+      "semester": "2014-15 Summer",
+      "instructors": [
+        {
+          "id": 608,
+          "name": "LEUNG, Pak Wo",
+          "rating": 1
+        }
+      ],
+      "author": "Kit Chu",
+      "date": "Aug 11, 2015",
+      "title": "",
+      "comment_content": "The content is just the same as PHYS 3036, but the tutorial class becomes an extra lecture given by Prof. Leung. The topics are including analytical mechanics, symmetries, canonical quantization, Heisenberg and Schrodinger pictures, and angular momentum.",
+      "comment_teaching": "Prof. Leung is a very good teacher. You will not want to skip his class since presentation is very clear and he has sense of humor. <br />You better go to learn some Buddhism(but not related to quantum Buddhism) before you take this course because there is a lot of metaphor from Buddhism! <br /><br />!!!CAUTION!!!<br />Don&#039;t use electronic in the class!",
+      "comment_grading": "Know not much about it....Go to read other reviews!",
+      "comment_workload": "Not much. Two hw per week (hw from 3036 + an extra hw from 3037), they costs you at most 2 hrs.<br />But it&#039;s useful that you will learn problem solving techniques and makes the concepts clearer.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "iA5AGAv0sRYsNJLxFi974VXvJK7stGsQ",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 608,
+          "name": "LEUNG, Pak Wo",
+          "rating": 1
+        }
+      ],
+      "author": "Harry",
+      "date": "Aug 08, 2015",
+      "title": "Honor QM",
+      "comment_content": "In the normal classes, it basically teaches the first 5 chapters of Griffiths Introduction to Quantum Mechanics(except quantum statistics and Bloch&#039;s theorem)<br /><br />In the honor lectures, advanced topics like the concepts of symmetries and transformations, CG coefficients are taught. These may not be the things that would appear in QM II but something fundamental in the rigorous development of Quantum Mechanics. For those who want to pursuit their PhD in Physics, I strongly recommend them to take this honor course.",
+      "comment_teaching": "Prof. Leung is a great teacher. QM becomes understandable and makes sense under his teacher. But beware! You cannot use any electronic devices during lectures.",
+      "comment_grading": "The grade is pretty good. Especially for honor course students. The problems in normal lectures are typical problems that can be found in Griffiths. So the difficulty is medium The 3036 exam is of similar difficulty but 3037 is harder. However, if you can show that your logic is correct, i.e. you are working in the right direction, and you have shown your persistence on doing the 3037 exam(just one question usually), then you can probably obtain a good result.",
+      "comment_workload": "Medium. The number of problems in each homework(normal class) is small. In order to obtain a good grade, try to do as many problems in the textbook as possible (I worked out all the problems). As for the honor class hw, sometime the questions are rather easy, but most of the time, the questions are hard and time consuming. There are about 2 questions each week(or maybe a big questions with 2-3 parts).",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "nXAYm7FLS9NByQ7u6xFskzxqsGtwO8NI",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 608,
+          "name": "LEUNG, Pak Wo",
+          "rating": 1
+        }
+      ],
+      "author": "Wen Han",
+      "date": "Aug 01, 2015",
+      "title": "",
+      "comment_content": "The course covers the content taught in PHYS 3036 (First half of Introduction to Quantum Mechanics by David J Griffiths) as well as some additional content specifically for the Honors course.<br /><br />The additional content includes Neother&#039;s theorem, canonical quantization, the Heisenberg picture of quantum mechanics and addition of angular momentum.",
+      "comment_teaching": "Professor Leung is an incredible instructor. Unlike a certain classical mechanics instructor, Professor Leung clearly puts effort into teaching his students. He always takes the time to answer students&#039; questions mid-lecture to ensure that everyone follows what he is teaching. He also tries to guide students through lengthy mathematics to aid students who are lacking in that particular aspect. <br /><br />His exams and quizzes focuses more on understanding rather than calculations. If a student performs poorly (&lt;20%) on the midterm, Professor Leung will personally talk to the student to see if he can help the student in any way.",
+      "comment_grading": "The grade is evaluated using one of the following schemes (whichever is highest):<br />Homework: 10%+5% (3036+3037)<br />Midterm: 25%<br />Final Exam: 50%+10% (3036+3037)<br />OR<br />Homework: 10%+5% (3036+3037)<br />Midterm: 0%<br />Final Exam: 75%+10% (3036+3037)<br /><br />The additional 3037 homework covers the content taught in the honors lecture. The additional 3037 final was set in a way such that it is impossible for a student to reach the correct answer. Instead, students are assessed based on their intuition and ability to reason.<br /><br />The course grading is curved alongside with 3036. As a result, the average grade for students taking 3037 is around A-/A.",
+      "comment_workload": "The workload for this course is relatively light. The 3036 homework consists of various easy questions from the textbook related to the content taught that week. You should be able to complete it within 30 minutes if you are extremely familiar with the content.<br /><br />The 3037 homework is slightly harder and more time consuming. The questions are set up to complement the lectures and fill in any gaps which may be present.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 3,
+      "attachments": []
+    }
+  ]
+}

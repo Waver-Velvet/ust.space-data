@@ -1,0 +1,61 @@
+{
+  "course": {
+    "id": 563,
+    "subject": "HUMA",
+    "code": "2421",
+    "name": "Pre-modern China: The Song and Yuan Dynasties, 960-1368",
+    "description": "This survey course is to study the continuity and change from the Song to Yuan Dynasties, 960-1368, from both global and China-centered perspectives. Topics include political institutions, Eurasian empire building, ecology and diseases, economy, culture and education, etc.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1540
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": [
+    {
+      "hash": "mXJkRBNfMGNkV2DXfmhNXTEQRYRDmqct",
+      "semester": "2015-16 Summer",
+      "instructors": [],
+      "author": "Eggtart",
+      "date": "Aug 09, 2016",
+      "title": "Good course, good instructor.",
+      "comment_content": "宋元史",
+      "comment_teaching": "Instructor: Li, Chunyuan（上面打唔到）<br />上堂好似聽故事，老師講得很生動有趣，如果中學中史都係咁教我可能唔洗炒足三年lol，希望有機會再上佢堂，好正&lt;3",
+      "comment_grading": "Good grade. Essay(present) 同exam都可以預先準備，冇中史底都唔會比人屈機。",
+      "comment_workload": "一次3000字present（兩人一組），<br />一次2000字final exam（一星期前俾題目準備，可帶參考資料及大綱）<br />可能因為用中文所以冇想像中咁花時間，只係唔熟中史所以揾資料同理解題目要耐d",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

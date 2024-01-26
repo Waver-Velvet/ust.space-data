@@ -1,0 +1,262 @@
+{
+  "course": {
+    "id": 38,
+    "subject": "CENG",
+    "code": "3220",
+    "name": "Transport Phenomena II",
+    "description": "Application of transport phenomena in chemical processes. Fluid flow in pipes and channels. Conductive, forced and free convective, and radiative heat transfer. Diffusive and convective mass transport. Coupling of transport and chemical reactions. Analysis and design of heat exchangers and contacting processes for separation and reaction. Numerical solutions and simulations of complex systems.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1730,
+      1630,
+      1530,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CENG\" data-code=\"2220\" href=\"/review/CENG2220\" target=\"_blank\">CENG 2220</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"MECH\" data-code=\"3310\" href=\"/review/MECH3310\" target=\"_blank\">MECH 3310</a>",
+    "rating_content": 4.17,
+    "rating_teaching": 4,
+    "rating_grading": 4.67,
+    "rating_workload": 3.83,
+    "review_count": 6,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1392,
+        "name": "KIM, Yoonseob",
+        "count": 4
+      },
+      {
+        "id": 26,
+        "name": "GAO, Ping",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "NbQSH9YNj9CdkbFcWFscTLfhHTdLNfky",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1392,
+          "name": "KIM, Yoonseob",
+          "rating": 1
+        }
+      ],
+      "author": "化工之鬼",
+      "date": "Dec 28, 2023",
+      "title": "easier version of 2220",
+      "comment_content": "more or less the same than previous years. he is using the same lecture notes 2 years ago written himself.<br />I say easier version than 2220, I mean it&#039;s less vague to understand, while 2220 built me a strong foundation.",
+      "comment_teaching": "reading aloud powerpoint, doesn&#039;t help much.",
+      "comment_grading": "pretty nice. Kim said he guaranteed a 10% A+ in class and I think he really did. <br />10% class participation (10/10, I can&#039;t understand why no one is asking and answering question in class, I heard TA said the mean is 3.7, while half the class scored 0 in this part)<br />20% quizzes<br />20% homework (16.8/20, mean 16.1)<br />15% mid term (10.8/15, mean 8.1)<br />35% final (29.1/35, mean 23.6)<br />final grade A+",
+      "comment_workload": "in class quizzes require some revision, at least read through the lecture slides before class. other than that there is little to none workload.<br />exams are open notes but not internet, still it helps a lot if you print all the notes out to the exam. one question of my final is exactly a question from homework.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ylZ5e7Y5vw99JHwxsDaIKJgwBtyHZ14f",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1392,
+          "name": "KIM, Yoonseob",
+          "rating": 1
+        }
+      ],
+      "author": "gr",
+      "date": "Jan 25, 2022",
+      "title": "",
+      "comment_content": "Fundamentals of Heat transfer<br />Differential Equations of heat transfer<br />1D steady-state heat transfer<br />Unsteady-state heat transfer<br />Fundamentals of mass transfer and non-stationary media<br />Fundamentals of mass transfer and stationary media<br />Homogeneous chemical reaction and unsteady-state",
+      "comment_teaching": "He explains and teaches well but sometimes he seems he is not sure about the answer when we ask some question.",
+      "comment_grading": "10% participation (ask questions in class/ find typos)<br />20% quizzes, excluding lowest 3 (Every class starts with 10min, 7mc quiz)<br />20% homework (4 is total, each have 4 questions)<br />15% midterm<br />35% final<br /><br />10% participation that can be earned just by asking questions.<br />Although, you didn&#039;t achieved high score on mid and final exam.<br />Participation can cover your grade as there are not many students achieving full score on participation.",
+      "comment_workload": "Beside you have to revise before the class due to the everyday quiz,<br />there is not much assignments to do. 4 Assignments only.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "xuuFoNnixEGwle0qlfcXbZKFaj9ZPlaX",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1392,
+          "name": "KIM, Yoonseob",
+          "rating": 1
+        }
+      ],
+      "author": "babycat",
+      "date": "Jan 22, 2021",
+      "title": "all I can say is that the bell curve saved me",
+      "comment_content": "!! Online Sem Alert !!<br />A bulk of the semester is spent on heat transfer: radiation (least focus, often negligible), conduction, and convection<br />Steady state conduction, SS with heat generation, SS on extended surfaces<br />Unsteady-state conduction<br />Heat transfer equipment (Q = UAT, log-mean average)<br />Mass transfer phenomena (similar to heat transfer, but more difficult)<br />Stationary medium in mass transfer, unsteady-state mass transfer, mass transfer with chemical reactions",
+      "comment_teaching": "His first time teaching so 體諒少少, he probably tried his best but...<br />Felt like he thought we were way smarter than we actually were<br />Responds to emails quickly<br />Will not entertain questions about how to go about doing homework, will only direct you to the topic and advise you to revise it/understand it better<br />Tutorials conducted by TA, treat as practice. Tutorial covers content at a more relaxed pace than lecture teachings",
+      "comment_grading": "Either he thought we were really smart, or he gave us a lot of difficult questions so he could flatten the bell curve more/ ensure we won&#039;t cheat<br />5% participation (ask questions in class/ find typos)<br />20% quizzes, excluding lowest 4<br />20% homework (grading was ok)<br />25% midterm (the average was 10.5/25 and only after relaxing grading... very strict grading or maybe we were just stupid)<br />30% final (grading relaxed more since midterm, but again maybe we were just stupid)",
+      "comment_workload": "Quizzes: 10 min MCQ conducted at the beginning of each lecture, for content from last lecture. it was very stressful <br />Homework: first 2 homeworks involved 5 easy/moderate questions, the next 2 homeworks had 9 difficult questions +1 matlab and we were given a week<br />Final: split into 3 parts of 40 mins each, with 3 difficult questions in each part. open book but only hardcopy notes. some exam questions were similar to previous homework questions",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "OXf2uQOgmkh6cnSIcmnU6AQO3AjUBVx6",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1392,
+          "name": "KIM, Yoonseob",
+          "rating": 1
+        }
+      ],
+      "author": "LMM",
+      "date": "Dec 23, 2020",
+      "title": "So Chur",
+      "comment_content": "Heat transfer part:<br />~&gt;Fundamentals of heat transfer <br />(cond, conv , rad)<br />~&gt;Differential equations of heat<br />transfer<br />~&gt;1D steady-state<br /> – Plane wall and composite walls<br />– Hollow cylinder &amp; sphere<br />– Energy generation<br />– Energy generation &amp; extended surface<br /> – Extended surface<br />~&gt;Unsteady state <br />– lumped parameter<br />– Bi modulus<br />– Semi-infinite wall<br />~&gt; Heat-transfer equipment (heat exchanger)<br />~&gt; Fundamentals of Mass Transfer &amp; Nonstationary Media<br />~&gt; Stationary Medium<br />~&gt; Homogeneous Chemical Reaction and Unsteady-State",
+      "comment_teaching": "Want to teach better but seem so hard <br />Hope remind teaching session(like reviews) will be add in the future",
+      "comment_grading": "5% Class participation<br />20% Quizzes (7-10Qs)<br />(quiz works for attendance check the lowest four scores will be excluded :(( too less ) <br />20% HWs 4HWs 5pt per each<br />25% Mid-term <br />30% Final",
+      "comment_workload": "Chur",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "FSbipbjqbWXY7Wvmhrpzi0RyNpymod3z",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 26,
+          "name": "GAO, Ping",
+          "rating": 1
+        }
+      ],
+      "author": "Binny",
+      "date": "Jan 29, 2018",
+      "title": "2016-17 Spring Semester Heat &amp; Mass Transfer [Recommended!]",
+      "comment_content": "1. Basic concepts of heat transfer modes including conduction, Convection, Radiation<br /><br />2. Steady state heat transfer with different conditions: a. Contact resistance b. Heat generation<br />c. Extended surface area<br /><br />3. Unsteady state heat transfer with a few conditions<br /><br />4. Mass transfer with a few conditions<br /><br />5. Dimensional analysis<br /><br />This course involves mathematics but professor values students&#039; attempts and understanding on the mathematical concepts more than the correct math calculation. Therefore, it is important to understand the mathematics.",
+      "comment_teaching": "Professor Gao does not have electronic lecture notes that she publish before the classes. Therefore, it is recommended to bring notebook to the class to take notes. Nonetheless, her PG TAs upload scanned copy of her notes in case anyone misses her lecture. <br />Unlike any other professors reading out their slides in HKUST, professor Gao does teach from the scratch and that may make you feel you are in university. <br />If you find the professor personally, she will help you with questions and guide you through the topics and the way she makes midterm/final questions. <br />Prof Gao was extremely considerate that she asked us which date my batch prefers to take mid-term exam. Based on the democratic mass voting, one date was chosen. <br />Professor also gives reviews (Thermodynamics, Fluid mechanics as well as the subject itself) for the student who did not learn these courses yet or who forget to revise after/ before classes.",
+      "comment_grading": "Good &amp; fair grading.<br />Exams are relatively easy if one goes to classes all the time and does his/her assignment by him/herself (without copying). <br /><br />Better to follow honour code (No cheating, no copying).<br /><br />When one takes exams, it is recommended to write thought processes or even the name of the laws (e.g. 1st law of thermodynamics) and assumptions (e.g. steady state). Professor values the students&#039; effort and attitude on learning a lot.<br /><br />Assignment: 10%<br />Mid-Term: 35% <br />Final: 55%",
+      "comment_workload": "There are a few assignments (Around 5).&nbsp;&nbsp;Each assignment has enough time for the students to work on. The weight of the assignments is relatively low. This makes the whole course help students understand the concept and practise. It is extremely useful to study the assignments for exams. Therefore, the workload is very low.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "UFFcf5emGTviyqkOyCsQPEVv4gtYg8L2",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 26,
+          "name": "GAO, Ping",
+          "rating": 1
+        }
+      ],
+      "author": "Bohr",
+      "date": "Jun 07, 2016",
+      "title": "Tranport Phenomena II: MATH course?",
+      "comment_content": "1. Basic concepts of heat transfer<br />Three modes:<br />Conduction, Convection, Radiation<br />Rate equations<br /><br />2. Steady state heat transfer<br />Heat Transfer through plate (Several plates)<br />Heat Transfer through cylinder (with and without heat generation)<br />Extended surfaces for heat transfer (好maths 要知道下solve second order ode既技巧)<br /><br />3. Unsteady state heat transfer<br />Biot number and its significance<br />Lamped system analysis (BI &lt;0.1)<br />Graphical solution <br /><br />4. Mass transfer<br />Fick&#039;s law of molecular diffusion<br />Generalized Fick&#039;s law (molecular diffusion + mass convection)<br /><br />5. Dimension analysis<br />講D dimensionless group 既physical significance <br /><br />6. Heat Exchanger<br />log mean temperature (proof)",
+      "comment_teaching": "上堂佢會detail咁講D notes<br />講得好清楚<br />有時Professor 會幫我地remind下以前thermo fluid (CENG 2210, CENG 2220) d野<br /><br />Tutorial 會講番堂上講過既野 (可以當溫書用)<br /><br />E個course, professor 係用first law of thermodynamics, mole/ energy balance 黎proof d公式既 所以相對上會好多maths野(partial derivative, 有d differential equations野) <br /><br />自己d數學最好備一備身 la (partial derivative, basic differentiation and integration)",
+      "comment_grading": "Assignment: 10%<br />Mid-Term: 35% <br />Final: 55% (dimensionless group 會比埋你 5洗驚5記得)<br /><br />Mid term:<br />出番HW d題目, 不過煩左D <br />Final:<br />有D出番HW 題目, 其餘果D全新 有挑戰性 <br />有題出得幾好 (印象中好似係proof thickness of hydrodynamics boundary layer =thickness of thermal boundary layer = thickness of mass transfer boundary layer)<br /><br />mid-term final盡做la 因為未必做得完<br />Mid term final 時間好趕 盡量自己事前睇下d proof 自己最好手寫一次先",
+      "comment_workload": "5 assignments <br />assignment 3 係prepare mid-term 用既<br />(assignment 幫你溫番D concept)",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "course": {
+    "id": 2614,
+    "subject": "ECON",
+    "code": "4999M",
+    "name": "Housing Economics",
+    "description": "Housing, unlike other goods, has its unique characteristics in terms of heterogeneity, durability, spatial fixity, and high purchase price relative to income. These suggest that conventional economic concepts need to be readdressed in order to analyze the microeconomic issues of housing. Besides, a significant number of households own residential properties by borrowing mortgages. A substantial collapse in housing prices might lead to negative equity for those households, and reduce their consumption and investment thereafter. Therefore, the macroeconomic implication of housing market dynamics cannot be overstated. The US subprime mortgage crisis during 2007-09 suggests that a sharp downturn in the housing market can cause negative spillovers to the aggregate economy. The first part of this course focuses on microeconomic issues like housing demand and supply analysis, models of housing market, rationales and effects of government’s housing policies. The second part emphasizes the macroeconomic issues such as the stylized facts on housing market dynamics, causes of housing market fluctuations, and housing market spillovers. Applications to the subprime mortgage crisis of 2007-2009 and housing markets in Hong Kong and China will also be addressed. The objective of this course is to develop analytical frameworks by which students can address both the microeconomic and macroeconomic issues of housing.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2010,
+      1910,
+      1810
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"ECON\" data-code=\"2103\" href=\"/review/ECON2103\" target=\"_blank\">ECON 2103</a> OR <a class=\"course-link\" data-subject=\"ECON\" data-code=\"2113\" href=\"/review/ECON2113\" target=\"_blank\">ECON 2113</a>) AND (<a class=\"course-link\" data-subject=\"ECON\" data-code=\"2123\" href=\"/review/ECON2123\" target=\"_blank\">ECON 2123</a> OR <a class=\"course-link\" data-subject=\"ECON\" data-code=\"3123\" href=\"/review/ECON3123\" target=\"_blank\">ECON 3123</a>) AND <a class=\"course-link\" data-subject=\"ECON\" data-code=\"3334\" href=\"/review/ECON3334\" target=\"_blank\">ECON 3334</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 3,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1227,
+        "name": "NG, Chi Yung",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "02yjbFA82REtlmwpbT8WkPJTB4EsAlPP",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1227,
+          "name": "NG, Chi Yung",
+          "rating": 1
+        }
+      ],
+      "author": "swaggerjaggerry",
+      "date": "Dec 18, 2020",
+      "title": "",
+      "comment_content": "Basically using your prior micro and macro knowledge / tools / working frameworks to try to analyse the housing market.<br /><br />1.\tHousing Demand, Supply, and Equilibrium Analysis (Weeks 1-2)<br />•\tHousing as a standard commodity<br />•\tHousing as a heterogeneous commodity<br />\tApplication: Modeling Hong Kong residential property prices<br />•\tHousing in a spatial context<br />2.\tRole of Government in the Housing Market (Weeks 3-4)<br />•\tRationales for housing policies<br />•\tPolicies for equity and efficiency<br />•\tEffects of housing policies<br />3.\tHousing and the Macroeconomy (Weeks 5-6)<br />•\tNational models of housing and mortgage markets<br />•\tStylized facts on housing market dynamics<br />4.\tHousing Market Fluctuations and Spillovers (Weeks 7-9)<br />•\tDeterminants of housing market booms and busts<br />•\tSources and consequences of housing market fluctuations<br />•\tBusiness cycle models with housing market<br />5.\tSubprime Mortgage Crisis and Financial Crisis of 2007-2009 (Week 10)<br />•\tCauses and consequences<br />6.\tHong Kong and China Housing Markets (Week 11) <br />•\tCurrent issues in Hong Kong housing market<br />•\tCurrent issues in China housing market",
+      "comment_teaching": "He&#039;s definitely a nice and approachable professor, willing and quick to answer your questions about the project, and guide you to the correct way. He&#039;s also very lenient on grading and not too critical / petty about things.<br /><br />His lectures are pretty dry and slightly boring, but you’re gonna do fine with just going over his slides.",
+      "comment_grading": "Quiz - Mean: 29.1/40\tHigh: 37\tLow: 21",
+      "comment_workload": "•\tProposal of term paper (Group): \t10%<br />•\tTerm paper (Group): \t\t\t40%<br />•\tPresentation of term paper (Group):\t10%<br />•\tIn-class case study analysis (Group):\t10%<br />•\tOnline Exam/Quiz (Individual):\t\t30%<br /><br />I&#039;d say workload is relatively low for a 4 credit course, all you gotta do is complete a group project with your teammates and study for online quiz.. that’s it! The online quiz wasnt too difficult since it is open book and the questions are quite straight-forward. <br /><br />In-class case study is basically just watching the movie &#039;Inside Job&#039;, jotting down some notes from the questions he sent us about the US 2008 housing bubble, and then answer questions as a group. No need to prepare ppt.<br /><br />Most people taking this course are definitely using it for the ECON paper requirement, and if you’re looking for an easy course this is it!",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

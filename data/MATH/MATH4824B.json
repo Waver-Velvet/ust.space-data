@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 2659,
+    "subject": "MATH",
+    "code": "4824B",
+    "name": "Machine Learning for Natural Language Processing",
+    "description": "This course provides an introduction to statistical machine learning algorithms for natural language processing and using programming tools such as Python (including packages such as NLTK and Tensorflow) to implement them for real problems. It will use some of the following practical problems such as text classification, information extraction, sequence modeling, text inference, QA system, etc. as illustrations to demonstrate the power of the statistical learning algorithms.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2010,
+      1810
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"COMP\" data-code=\"2011\" href=\"/review/COMP2011\" target=\"_blank\">COMP 2011</a>/2012/2012H) AND (<a class=\"course-link\" data-subject=\"COMP\" data-code=\"2711\" href=\"/review/COMP2711\" target=\"_blank\">COMP 2711</a>/2711H OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2343\" href=\"/review/MATH2343\" target=\"_blank\">MATH 2343</a>) AND (<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2111\" href=\"/review/MATH2111\" target=\"_blank\">MATH 2111</a>/2121/2131)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 909,
+        "name": "SONG, Yangqiu",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "C7bnSCgyjm8wBf3XgmxvC5kMUsq4b8Gg",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 909,
+          "name": "SONG, Yangqiu",
+          "rating": 1
+        }
+      ],
+      "author": "grateful grade",
+      "date": "Dec 29, 2020",
+      "title": "",
+      "comment_content": "Introduction to statistical machine learning algorithms for natural language processing and using programming tools such as Python to implement them for real problems. It will use some of the following practical problems such as text classification, information extraction, sequence modeling, text inference, QA system, etc. as illustrations to demonstrate the power of the statistical learning algorithms.<br /><br />Lecture content:<br />1: Intro<br />2: Intro - NLP<br />3: NLTK<br />4: Vector Space Model<br />5&amp;6: Classification<br />7: Naive Bayes<br />8: Perceptron<br />9: Logistic Regression<br />10: Neural Networks<br />11: CNN<br />12: Language Models<br />13: Neural Language Models<br />14: Word Embeddings<br />15: Sequence to Sequence Model<br />16: Attention Model<br />17: Knowledge Graph<br />18: Machine Learning for NLP (Past, Present and Future)",
+      "comment_teaching": "Prof Song is very passionate in teaching. He explains the concepts in very details, especially the mathematical derivation of different models, though they&#039;re not that important.",
+      "comment_grading": "Assignments 30%<br /><br />Final project 20%<br /><br />Presentation 10%<br /><br />Final exam 40%<br /><br />Total 100%<br /><br />(Bonus of 3% comes from answering questions in the lecture 3 times)<br /><br />Very good grading",
+      "comment_workload": "1 assignment per week, 1 group project + presentation (this year&#039;s topic is Named entity recognition of COVID-19 data), 1 Final Exam.<br /><br />The assignments are quite simple, just copy the codes from the tutorial notes to fill in to &quot;TODO&quot; part and change some variables&#039; name.<br /><br />Project is not complicated. Need to fine tune the parameters to get a relatively high validation accuracy in order to get a high mark in the model part<br /><br />Final Exam, 2 hours and 40 minutes online exam. Format is similar to the sample final question he gave us. Should get high marks if you have done the sample final and understand the concepts well.<br /><br />Overall workload is not too high",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "course": {
+    "id": 1661,
+    "subject": "ELEC",
+    "code": "5010",
+    "name": "Introduction to the Design & Implementation of Micro-Systems",
+    "description": "Introduction to the concept of micro-systems.  Dimensional scaling and its implications.  Multi-physics modeling.  Micro-fabrication techniques.  Introduction to Coventor, a numerical simulation package for micro-systems.  The design, implementation and testing of a micro-device.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"MECH\" data-code=\"5950\" href=\"/review/MECH5950\" target=\"_blank\">MECH 5950</a>",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

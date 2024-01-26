@@ -1,0 +1,243 @@
+{
+  "course": {
+    "id": 923,
+    "subject": "MATH",
+    "code": "4427",
+    "name": "Loss Models and their Applications",
+    "description": "This course covers the construction of casualty loss models and their applications to insurance. Topics include severity models, frequency models, aggregate loss models, coverage modifications, effect of inflation on losses, risk measures, parameter and variance estimation in loss models, and construction of empirical models.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1630,
+      1410
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2600\" href=\"/review/ELEC2600\" target=\"_blank\">ELEC 2600</a> OR <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3540\" href=\"/review/ISOM3540\" target=\"_blank\">ISOM 3540</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2421\" href=\"/review/MATH2421\" target=\"_blank\">MATH 2421</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2431\" href=\"/review/MATH2431\" target=\"_blank\">MATH 2431</a>) AND (<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2011\" href=\"/review/MATH2011\" target=\"_blank\">MATH 2011</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2023\" href=\"/review/MATH2023\" target=\"_blank\">MATH 2023</a>) AND <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2511\" href=\"/review/MATH2511\" target=\"_blank\">MATH 2511</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4.8,
+    "review_count": 5,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 912,
+        "name": "LEUNG, Chi Man",
+        "count": 5
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "3n0BTY6GjMZYCUgfhstwgtTFi535rr4r",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 912,
+          "name": "LEUNG, Chi Man",
+          "rating": 1
+        }
+      ],
+      "author": "Say",
+      "date": "Jan 08, 2021",
+      "title": "Loss Model and Application Review",
+      "comment_content": "The key objective in this course is to explore how to construct a mathematical model to study the risk management problem faced by an insurance company.During the process, you are going to learn how do probability theory and statistical theory that you learnt from earlier courses be applied in practice.<br /><br />Chapter 1: A quick review on basic probability theory-Basic review on random variables-Percentiles, moments, central moments-Moment generating function and probability generating function-Mixed distribution<br /><br />Chapter 2: Severity Model, Frequency Modeland coverage modification-Probability distributions for claim severity and claim frequency.-Criterions in selecting models for claim severity and claim frequency-Coverage modifications: Deductible, policy limit, maximum covered loss and coinsurance. Effect of coverage modification on claim payment.<br /><br />Chapter 3: Aggregate Loss models-Compound model for aggregate claims-Computing the aggregate claims distribution-Effect of individual policy modifications on aggregate payments-Risk measures: VaR (Value-at-risk) and TVaR-Reinsurance and stop-loss premium<br /><br />Chapter 4: Premium calculation and risk management in non-life insurance.-Basic principle of premium calculation and ratemaking-Basic idea of loss reserving-Methods of loss reserving: Expected Loss Ratio (ELR) method, Chain Ladder (CL) Method, Bornhuetter-Fergusin (BF) Method<br /><br />Chapter 5: Parameter estimation in parametric model-Basics in parameter estimation-Method of moment and percentile matching-Maximum likelihood method: Complete data, Grouped data and truncated/censored data.-Variance and interval estimation of maximum likelihood estimator (Harder)-Bayesian Analysis: An introduction.<br /><br />Chapter 6: Construction of Empirical modelsand model selection.-Data-dependent distribution: Empirical distribution -Determination of empirical distribution for complete data, grouped data.-Determination of empirical distribution for truncated/modified data: Kaplan-Meier estimator, Nelson-Aalen estimator.-Model selection and evaluation: p-p plot, Kolmogorov-Smirnov test, Chi-square goodness-of-fit test, likelihood ratio test",
+      "comment_teaching": "Professor LCM is my favorite teacher throughout my 4 years of study life in UST. He got the best teaching skills and he&#039;s really friendly and careful about his students. <br />I still cannot forget the time when he remembered my name (and it was the first time that a professor actually remembered my midterm score together lol) and motivated me with kind words. <br />I can tell you that most of my friends with similar majors all know about him and we all respect him very much. He&#039;s a very professional, smart and hardworking person. <br />TBH, this is my first (and probably the last) time that I write a course review. I really thank him in terms that he taught me &quot;the most&quot; things at the university and personally motivated me a lot. <br />I sincerely hope more and more students can have a chance to learn from him too! :)",
+      "comment_grading": "[25%] Assignment (3 required, 1 optional) <br />[75%] Final Examination<br />[+a%] Bonus marks from the assignments",
+      "comment_workload": "Quite difficult homework level (as always).<br />Although there are not many questions in total, the level of difficulty cannot be underestimated. They are normally more difficult than the questions from the lecture notes, and sometimes require our own ways to solve. <br />The best part of the homework is the bonus question. <br />Although they don&#039;t turn into large portion of final marks, this still motivate people and give more sense about midterm and final exams.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "DBjlSIZhJXfm1MUdrBeVixmA7tzxvRQ5",
+          "name": "MATH4427_2020Fall_Outline",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "H8ZuRtMzf6J5eYO5kabYVz1WD8UWpdck",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 912,
+          "name": "LEUNG, Chi Man",
+          "rating": 1
+        }
+      ],
+      "author": "數學研究生",
+      "date": "Jan 13, 2020",
+      "title": "Modeling on insurance issues",
+      "comment_content": "Chapter 1: A quick review on basic probability theory<br />- Reviews on random variables<br />- Percentiles, survival function and hazard rate function<br />- Moments, central moments, conditional expectations<br />- Moment generating function and probability generating function<br />Chapter 2: Severity Model and Frequency Model<br />- Probability distributions for claim severity and claim frequency.<br />- Criterions in selecting models for claim severity and claim frequency<br />- Coverage modifications: Deductible, policy limit, maximum covered loss and<br />coinsurance. Effect of coverage modification on claim payment.<br /><br />Chapter 3: Aggregate Loss models<br />- Compound model for aggregate loss<br />- Computing the aggregate loss distribution<br />- Effect of individual policy modifications on aggregate payments<br />- Risk measures: VaR (Value-at-risk) and TVaR<br />Chapter 4: Parameter estimation in parametric model<br />- Basic theory in parameter estimation: Point estimation, Interval estimation and<br />hypothesis testing<br />- Method of moment and Maximum likelihood estimation: Complete data,<br />Grouped data and truncated/censored data.<br />- Variance and interval estimation of maximum likelihood estimator (Harder)<br />- Bayesian Analysis<br /><br />You can check them from the outline pdf, actually there are totally five chapters but since the time is limited, only the first four chapters were taught.",
+      "comment_teaching": "Dr. Leung Chi Man, we all call him LCM (short form) is a professional financial math lecturer in any aspects, insurance, bond, or stock markets.<br />He tries to explain everything in detail as my classmates come from different majors, some may have no knowledge background on the financial markets.<br />He would print out all the hardcopy notes for those come to the lectures, in order to reduce the print budget for the students.",
+      "comment_grading": "For this special semester, there are totally four homework assignments (3 compulsories, 1 bonus), one midterm exam and one online final exam.<br /><br />For the homework assignments, there are usually four compulsory questions, total score 100 and two to three bonus questions, where the total scores are random. There are additional scores for those assignments are well written or provide innovative solutions.<br /><br />Midterm exam was taken in class, no need to worry on time conflict with other courses. Basically, the coverage is up to what Dr. Leung stopped two lectures before the exam. He would tell you which kind of questions would likely be tested, as well as there is always a question asking for a proof.<br /><br />Online final exam is taken in the canvas system, students have to write all the answers on pieces of A4 sheets, combine the solutions into a single pdf file and upload it on canvas. Since this semester was in special situation, normally it should be an on-campus closed-book exam with 3 hours.<br /><br />The Bonus scores earned in assignments would be first used to top up your compulsory assignment scores with ratio 1:1. If there is surplus, the total excess bonus score / 40 and add them to the overall percentage.<br /><br />Here are the statistics for your reference:<br />HW1: Compulsory (Mean: 97.92/100), Bonus (Mean: 70.36/80)<br />HW2: Compulsory (Mean: 98.33/100), Bonus (Mean: 63.23/75)<br />HW3: Compulsory (Mean: 98.97/100), Bonus (Mean: 51.67/60)<br />HW4: Bonus (Mean: 91.05/100)<br /><br />Midterm Exam: Mean: 61.44/100<br />Online Exam: Mean: 52.74/100<br /><br />Overall percentage = Compulsory assignments*0.2 + (Midterm Exam + Final Exam)*0.4 + Total Excess Bonus Score/40<br /><br />This grading scheme is so called absolute grading, your grade is only based on your own performance.<br /><br />Overall percentage &lt; 40% : It&#039;s most likely to be F, with some chance to get a D or C-<br />Overall percentage &gt;= 40%: Get at least a C-<br />Overall percentage &gt;= 58%: Get at least a B-<br />Overall percentage &gt;= 78%: Get at least an A-<br />Overall percentage &gt;= 90%: Surely to receive an A+<br /><br />But actually, the real situation is more relax, Dr. Leung would use Absolute Grading first, if he finds that the whole class does not perform so well. He would reduce the grading ranges and tries to give a better grade to the students. Normally after the final exam, exclude the range to receive an A+, others would drop a little bit.",
+      "comment_workload": "Actually the workload is not that heavy as the assignment is given when Dr. Leung is going to end a chapter and there are around 10 days for you to finish it. <br />As a MATH course, practice is important, there are extra problem sets for students to familiar with the questions, to encourage you to do the questions,&nbsp;&nbsp;there are assignments questions copied/ modified from the questions in problem sets.<br /><br />The contents are easily handled if you have learnt basic probability courses such as MATH 2411, 2421 or an advanced one MATH 3423.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "JlimjzWBAw1MEtTUYtpoFOJao2uh0clz",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 912,
+          "name": "LEUNG, Chi Man",
+          "rating": 1
+        }
+      ],
+      "author": "calcguy",
+      "date": "Dec 16, 2019",
+      "title": "Loss Models",
+      "comment_content": "Chapter 1: A Quick Review on Basic Probability Theory<br />- Review on Random Variables<br />- Percentiles, survival and hazard rate functions<br />- Moments, central moments, conditional expectations<br />- MGF and PGF<br /><br />Chapter 2: Severity Model and Frequency Model<br />- Probability distributions for claim severity and claim frequency<br />- Criteria in selecting models for claim severity and claim frequency<br />- Coverage modifications: deductible, policy limit, maximum covered loss and coinsurance<br />- Effect of coverage modifications on claim payment<br /><br />Chapter 3: Aggregate Loss Models<br />- Compound model for aggregate loss<br />- Computing the aggregate loss distribution<br />- Effect of individual policy modifications on aggregate payments<br />- Risk measures: VaR (Value-at-risk) and TVaR (Tail Value-at-risk)<br /><br />Chapter 4: Parameter Estimation in Parametric Model<br />- Basic theory in parameter estimation: Point estimation, Interval estimation and hypothesis testing<br />- Method of moment and Maximum likelihood estimation: Complete data, Grouped data and truncated/censored data<br />- Variance and interval estimation of maximum likelihood estimator (Harder)<br />- Bayesian Analysis<br /><br />Chapter 5: Construction of Empirical Models and Model Selection (SKIPPED)<br />- Data-dependent distribution: Empirical distribution <br />- Determination of empirical distribution for complete data, grouped data<br />- Model selection and evaluation: p-p plot, Kolmogorov-Smirnov test, Chi-square goodness-of-fit test, likelihood ratio test",
+      "comment_teaching": "Before the classes were cancelled, the teaching was fine; you can read my other review about him on other courses (like MATH2511 or MATH4511).<br /><br />After the classes were cancelled, everything went online, including the lectures. The online lectures can be watched via YouTube (just click &quot;math4427&quot; on search button). I personally think the quality of the lectures is the same as the ones during regular lectures, but just the videos are too long, which makes things become more tiring (I prefer watching the whole video on one go).",
+      "comment_grading": "Grading Scheme:<br />- BEFORE adjustment:<br />* 4 assignments (15% of total)<br />* 1 midterm exam (25% of total)<br />* 1 final exam (60% of total)<br />- AFTER adjustment:<br />* 3 assignments (20% of total)<br />* 1 midterm exam (40% of total)<br />* 1 final exam (40% of total)<br />Remarks:<br />1. In each assignment, there are 4 required problems and 2~4 bonus problems. In particular:<br />Assignment 1 : 4 required + 2 bonus (= 80 + 3 + 3 marks)<br />Assignment 2 : 4 required + 3 bonus (= 75 + 3 marks)<br />Assignment 3 : 4 required + 2 bonus (= 60 marks)<br />Assignment 4 : 0 required + 4 bonus (= 100 + 10 marks)<br />So the total bonus marks obtainable is 334 marks.<br />2. Midterm exam consists of 5 problems, all standard ones (similar to lecture notes and assignments), so it&#039;s not so hard. <br />Mean = 60.58<br />3. Final exam consists of 6 problems, with 150 + 30 minutes allowed (30 minutes is for uploading solution to canvas). Since it is take-home exam, so it is not easy. Moreover, all problems are new ones, so you need to have strong concept in all topics if you want to finish all of the problems in time.<br />Mean = 53.5<br />4. As usual, the grading scheme adopted by LCM is absolute grading (with cutoffs: 40%, 58%, 78%). Also, if you can score a total of 90%, you are guaranteed to get A+.<br />5. The bonus scores obtained from assignments can be used to top up your total mark, with the conversion rate as follows: (Total unused bonus marks) / 40",
+      "comment_workload": "Not much to say. Again, refer to other comments on how bad/good the workload is for LCM&#039;s courses.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "rooBIBvuesIVBSq7x02B9qL1V7vik46A",
+          "name": "MATH4427_2019Fall_Final",
+          "format": "pdf"
+        },
+        {
+          "key": "hiyMINKUwiRNpawZuSc8oYy4FDK897YP",
+          "name": "MATH4427_Midterm_2019Fall_Solution",
+          "format": "pdf"
+        },
+        {
+          "key": "fX7ou2AZU0dri2EI7P4Ay8d9gsyUEpTg",
+          "name": "MATH4427_2019Fall_Outline",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "4I6sM4HbRmIlF0dysa20UxCKhq7Ypr81",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 912,
+          "name": "LEUNG, Chi Man",
+          "rating": 1
+        }
+      ],
+      "author": "Kingsman",
+      "date": "Jan 13, 2018",
+      "title": "Good lecturer, good course",
+      "comment_content": "This course covers the construction of casualty loss models and credibility theory. The topics discussed in this course include severity models, frequency models, aggregate models, coverage modifications, loss elimination ratios, effect of inflation on losses, risk measures, limit fluctuation credibility, Bayesian credibility models for discrete and continuous models, Buhlman and Buhlman-Straub credibility models, conjugate priors in Bayesian analysis, and empirical Bayesian methods in non-parametric and semi-parametric models.",
+      "comment_teaching": "He is a very good lecturer who teaches wholeheartedly. He tries to explain the concept in detail and prepared a well-written lecture notes.",
+      "comment_grading": "Absolute grading. Also, bonus marks will be awarded if you finish the bonus questions in the assignment. The means in two exams are around 62/100. I heard one of the classmates got B+ while his overall score was just above mean. i got full marks overall and got A+.",
+      "comment_workload": "5 Assignments in the whole semester. If you attend the class, you can finish most of the questions easily. There will be some interesting questions in the bonus questions part. If you answer all of them correctly, the bonus marks will count for the overall score.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 7,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "HpTrLhwpYYrr36I43PBCws7H42K4RSLN",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 912,
+          "name": "LEUNG, Chi Man",
+          "rating": 1
+        }
+      ],
+      "author": "onur",
+      "date": "Aug 17, 2017",
+      "title": "Prof. Leung teach wholeheartedly",
+      "comment_content": "The course is designed to provide a basic understanding of various casualty loss models and its applications in area of insurance. <br /><br />Topics include severity model, frequency model, aggregate models, construction of empirical model and parametric model and Credibility theory.<br /><br />The course also prepares students to take the Exam C(Construction and Evaluation of Actuarial Models)",
+      "comment_teaching": "Every typical question and complicated skill will be mentioned and discussed in lecture, major concepts is developed in a very clear way.<br /><br />Lecture notes helps your revision, with clear explanations, examples and applications. Different skills or question type help solving higher level question.",
+      "comment_grading": "Assignment (10% of the total grade)<br />-there are bonus marks in the assignment, finish all bonus question for your own good.<br /><br />Midterm Examination (25% of the total grade)<br />- short midterm, hold for 50 min. , typical question type, easy to score 90% or above if you follow the example within the notes. <br /><br />Final Examination (65% of the total grade)<br />- speed challenge, all typical question, <br />As a man sows, so shall he reap.",
+      "comment_workload": "Only 4 assignment for the whole sem.<br /><br />Discuss the bonus question in the assignment with friends, it helps a lot.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

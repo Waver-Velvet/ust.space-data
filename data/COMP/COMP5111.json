@@ -1,0 +1,185 @@
+{
+  "course": {
+    "id": 1630,
+    "subject": "COMP",
+    "code": "5111",
+    "name": "Fundamentals of Software Testing and Analysis",
+    "description": "The goal of this course is to introduce how various analysis techniques can be used to manage the quality of a software application.  Students will acquire fundamental knowledge of program abstraction, features, verification, testing, refactoring, concurrency, reliability, aspect orientation, and fault analysis.  The course will also discuss how to carry out the empirical experimentation for program analysis.  Wherever applicable, concepts will be complemented by tools developed in academia and industry.  This enables students to understand the maturity and limitations of various analysis techniques.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030,
+      1930,
+      1830,
+      1730,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.75,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4.25,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 118,
+        "name": "CHEUNG, Shing Chi",
+        "count": 4
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "ixxUI7liDy5ZByqwOFJ2gdYxHzEM0wCT",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 118,
+          "name": "CHEUNG, Shing Chi",
+          "rating": 1
+        }
+      ],
+      "author": "destrat18",
+      "date": "Jun 17, 2022",
+      "title": "knowledgeable class",
+      "comment_content": "The slides were well-informed and up-to-date.",
+      "comment_teaching": "Teaching was always patient and interacted with students. Usually, the professor asks questions to improve the understanding of students.",
+      "comment_grading": "It may have been too strict to grade the assignments. you need to provide very specific results in order to get your grade and sometimes it makes the learning process boring.",
+      "comment_workload": "I think things are enough for a PG student.<br />two assignments each 20%. you need to spend a lot of time on them.<br />I presentations plus a report for the end of the semester from a paper",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "jrDEL1u9SDbQjWJTNun7BuG0tgLulZjK",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 118,
+          "name": "CHEUNG, Shing Chi",
+          "rating": 1
+        }
+      ],
+      "author": "Dou",
+      "date": "Jun 02, 2022",
+      "title": "Good course",
+      "comment_content": "The course is well-structured for software engineering. You can learn the fundamental information about how software&#039;s quality are controlled. How to improve it.",
+      "comment_teaching": "Professor is passion for teaching the course and very patient to answer your questions. It gives a strong motivation for you to continue study.",
+      "comment_grading": "The garde is fair enough. The final exam dominate the final score. Therefore, do not get panic during the semester.",
+      "comment_workload": "The workload is sufficeint. The assignment is more complex than the final exam. You need to learn the fundamental tools in JAVA for instrumentation.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "SqHbyZEXrLteyzyVopY2gdYPY10Emhat",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 118,
+          "name": "CHEUNG, Shing Chi",
+          "rating": 1
+        }
+      ],
+      "author": "kwangbn",
+      "date": "Aug 24, 2021",
+      "title": "An intreresting course if you are a good Java user",
+      "comment_content": "The first part is taught in lectures. The slides are updated according to the latest research progress in software analysis.<br /><br />The second part consists of presentations by students. The discussion session in Canvas is quite interesting and helps you inspire new ideas.",
+      "comment_teaching": "The professor is rather enthusiastic about software analysis. You will definitely be touched by his passion. Hopefully, you will love this course as well.",
+      "comment_grading": "The grading for the two hands-on assignments is a little bit strict. Simply finishing the basic requirements may just give you a moderate score. You need to try to make more progress in the two hands-on assignments. Therefore, it is better for you to have good Java experiences.<br /><br />It would not be too hard to pass the final exam if you can follow the topics in class. Most of the questions come from the slides.",
+      "comment_workload": "The two hands-on assignments may take you a long time. It is better to start earlier if you do not have solid Java experience.<br /><br />The reading project is quite interesting, which may not cost you so much time.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "UXceVeBJz6FtVBBFCl46zlBuyqFEeWBC",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 118,
+          "name": "CHEUNG, Shing Chi",
+          "rating": 1
+        }
+      ],
+      "author": "Carbonara",
+      "date": "Jan 09, 2020",
+      "title": "Easy B+",
+      "comment_content": "I do not find it useful in my research, but it was quite fun to learn.",
+      "comment_teaching": "He speaks very good English, he is very friendly to the students.",
+      "comment_grading": "Should not be a problem to obtain a B+ as long as you do fine on the assignments.",
+      "comment_workload": "2 Assignments. 1 Final. <br />The final was open book, which made it pretty easy.<br />The assignments were quite confusing, they were both coding related assignments, the first one requires more coding, the second one was to use tools to find out bugs in a given program.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 3,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

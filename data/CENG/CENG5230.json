@@ -1,0 +1,75 @@
+{
+  "course": {
+    "id": 3499,
+    "subject": "CENG",
+    "code": "5230",
+    "name": "Advanced Control and Data Science",
+    "description": "The course will cover digital and advanced control methods such as adaptive, model predictive, and learning controls and methods of process monitoring and optimization in the context of big data environment.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 29,
+        "name": "GAO, Furong",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "8DV69iuWutayLuBnejOWOimbbOGKrGAG",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 29,
+          "name": "GAO, Furong",
+          "rating": 1
+        }
+      ],
+      "author": "Barry608",
+      "date": "Dec 21, 2023",
+      "title": "Short summary",
+      "comment_content": "Focus on process control .Some advanced control algorithms will be taught, but if you don&#039;t have a previous foundation in control theory, you may need to draw some extra effort to catch up on the relevant basic classes.",
+      "comment_teaching": "Teachers and TAs are very responsible and you can always go and ask the experienced TAs to ask questions!",
+      "comment_grading": "The marks given were fair and the difficulty of the exam was very appropriate as long as you had revised well. The overall score will not be too low",
+      "comment_workload": "There are a total of 4 assignments, a half-term exam and a final presentation.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

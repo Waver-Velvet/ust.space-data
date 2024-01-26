@@ -1,0 +1,1219 @@
+{
+  "course": {
+    "id": 146,
+    "subject": "CIVL",
+    "code": "2510",
+    "name": "Fluid Mechanics",
+    "description": "An introduction to the mechanics of fluids, including fluid statics, kinematics and fundamental equations of fluid flow, laminar and turbulent flow, boundary layers and applications in the design of hydraulic structures.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030,
+      1930,
+      1830,
+      1730,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2011\" href=\"/review/MATH2011\" target=\"_blank\">MATH 2011</a>",
+    "corequisites": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"2110\" href=\"/review/CIVL2110\" target=\"_blank\">CIVL 2110</a>",
+    "exclusions": "<a class=\"course-link\" data-subject=\"MECH\" data-code=\"2210\" href=\"/review/MECH2210\" target=\"_blank\">MECH 2210</a>",
+    "rating_content": 3.53,
+    "rating_teaching": 3.53,
+    "rating_grading": 3.23,
+    "rating_workload": 3.1,
+    "review_count": 30,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 840,
+        "name": "GHIDAOUI, Mohamed Salah Ben Habib",
+        "count": 14
+      },
+      {
+        "id": 1236,
+        "name": "LOUATI, Moez",
+        "count": 10
+      },
+      {
+        "id": 1238,
+        "name": "YANG, Jiachuan",
+        "count": 8
+      },
+      {
+        "id": 1029,
+        "name": "LAM, Kit Ming",
+        "count": 5
+      },
+      {
+        "id": 89,
+        "name": "KIKKERT, Gustaaf Adriaan",
+        "count": 1
+      },
+      {
+        "id": 841,
+        "name": "WANG, Zhaoyin",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "VnFyfNeEHD0g9lxMEw15zb4C1JlCdJoV",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1238,
+          "name": "YANG, Jiachuan",
+          "rating": 1
+        }
+      ],
+      "author": "nicknameee",
+      "date": "Jun 08, 2022",
+      "title": "",
+      "comment_content": "1. Introduction<br />2. Fluid Properties<br />3. Fluid Statics<br />4. Fluid in Motion<br />5. Continuity Equation<br />------------Final Exam start from here--------<br />6. Momentum Equation<br />------------Midterm Exam up to here----------<br />7. Flow Measurement<br />8. Energy Equation<br />9. Dimensional Analysis<br />10. Pipe Flow<br />11. Introduction to turbulence<br />------------Final Exam up to here-----------",
+      "comment_teaching": "Prof. YANG explained the content clearly, and a lot of examples were provided.",
+      "comment_grading": "Attendance: 5% (either all or nothing)<br />Assignments (x6): 20%<br />Midterm: 35%<br />Final: 40%<br />Poll question: bump-up grade with over 70% of the full poll credits<br /><br />[My Scores]<br />Attendance: 5% (mean: 4.01)<br />Assignments: 94/100 (mean: 85.97) <br />Midterm: 68/100 (mean: 55.88)<br />Final: 61/100 (mean: 53.71)<br />Overall: 72, B+",
+      "comment_workload": "A bit heavy. <br />6 assignments, midterm, and final exam. You still have to spend a lot of time reviewing content after each lecture.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "vYzqCCXb8INeCbv6ITIZQ5RzCdz5zwhZ",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1238,
+          "name": "YANG, Jiachuan",
+          "rating": 1
+        }
+      ],
+      "author": "Watermelon",
+      "date": "Jun 06, 2022",
+      "title": "好難嘅一科",
+      "comment_content": "- Fluid Property<br />- Fluid Statics<br />- Fluid in Motion<br />- Continuity Equation<br />- Momentum Equation<br />- Flow Measurement<br />- Energy Equation<br />- Pipe Flow <br />- Dimensional Analysis<br />- Introduction to Turbulence",
+      "comment_teaching": "教得唔算差，上堂都有幾條example示範可以知道題目點做。<br /><br />Midterm同Final考試前有派sample set俾大家溫書。<br /><br />有啲tutorial上完都好似冇上過咁，睇下個TA好唔好，有啲TA可能只係會自己同自己講嘢咁。",
+      "comment_grading": "Attendance: 5%<br />- at least 17 lectures (70%) and 6 tutorials (50%)<br />- either getting 0% or full mark 5%<br />Assignment: 20%<br />Midterm: 35%<br />Final: 40%<br />Poll question: bump-up grade with over 70% of the full poll credits<br /><br />/ <br /><br />Attendance: 5 / 5<br />Assignment: 92 / 100 (mean: 86)<br />Midterm: 65 / 100 (mean: 55.2 , sd:14.7)<br />Final: 61 / 100 (mean: 53)<br /><br />Overall: 70.6 (B+)<br />(如果poll question有70%，就有A-)",
+      "comment_workload": "total 6 份功課，題目幾麻煩，但係都可以上網搵答案。",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "gga5038wIwJbIqT96rOuaqtVuPAPazt3",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 1238,
+          "name": "YANG, Jiachuan",
+          "rating": 1
+        }
+      ],
+      "author": "CVL",
+      "date": "Sep 05, 2021",
+      "title": "Quite Good",
+      "comment_content": "The contents are mainly, fluid properties, Fluid statics, Fluid in motion, Continuity Equation, Momentum Equation, and Energy Equation.",
+      "comment_teaching": "Professor Yang explained the content quite clearly, and he encourages students to raise any questions if they do not understand a certain part.",
+      "comment_grading": "The Grading is surprisingly good. For homework questions, they can be quite easily solved if you pay attention in class or reference the ppt. And I would say the difficulty of the Midterm exam and Final exam are both quite moderate. I managed to be above mean in both exams and getting an A- as a result.",
+      "comment_workload": "The workload is moderate. The assignments are published about every other week and there are exams in the exam periods. Yet, this course takes into account your attendance in class.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "NKOxxGlndc7sqKXEJx9foEI9q172F2nL",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 1238,
+          "name": "YANG, Jiachuan",
+          "rating": 1
+        }
+      ],
+      "author": "HKUST civl",
+      "date": "Sep 03, 2021",
+      "title": "地獄科 變 靚grade科",
+      "comment_content": "睇其他人嘅review",
+      "comment_teaching": "可能系Mohamed教得太難，轉咗個大陸後生professor教，流利英文，講得清晰，上堂會講完concept再demo一兩個example，基本上同hw exam好似，所以一定要上堂聽書，最重要系溫多兩次佢啲example。大陸professor黎講算好好，冇口音，教得幾好，feel到好有熱誠教書，人又nice，之前midterm我返campus考，佢考完會用廣東話同我哋傾幾，會問我哋考成點，又會討論下邊條好tricky，唯一挑剔就系 會好似其他大陸professor咁逼你讀書，例如take attendance take得好嚴，連tutorial都take。",
+      "comment_grading": "靚grade，我midterm大炒 52/100，below一個sd，final 88/100，hw差唔多滿分，上網chegg有答案，turn out A-🤣🤣🤣",
+      "comment_workload": "6份Hw，有聽書嘅話應該每份一個鐘可以搞掂，冇lab，得midterm and final，workload算少",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "aspCatPzVYa6mwBcKyLnXbYD4jr7H6dE",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 1238,
+          "name": "YANG, Jiachuan",
+          "rating": 1
+        }
+      ],
+      "author": "KelvinLi",
+      "date": "Aug 26, 2021",
+      "title": "",
+      "comment_content": "Good ppt, clear and detail<br /><br />He also gives detail explanations of the question and the example, just need to copy it by yourself.<br /><br />Doesn&#039;t provide enough exercise, highly recommend buying the book ***with the detailed solution***",
+      "comment_teaching": "Good English, fluent and clear<br /><br />Good material, always explant a question with detailed steps.",
+      "comment_grading": "The exam format is the same as the assigment, but just more questions. <br /><br />For the final exam, some question type is the same as the assignment just 5 mins can finish.<br /><br />Finish the whole book, you must have B+",
+      "comment_workload": "An assignment with 3-4 questions for each subject, can finish within a day.<br /><br />Attendance is taken, about 5%",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "IDABFt7ZUqWlqC0dwoEBSLFZagiWvWt1",
+      "semester": "2020-21 Spring",
+      "instructors": [],
+      "author": "55",
+      "date": "Aug 24, 2021",
+      "title": "",
+      "comment_content": "The difficulty gradually gets easier when time pass. Starting from the first chapter that most of the content is super hard, then become easy when you reach the last chapter (pipe flow). So just be positive for this subject as you may get good grades if you study enough hard.",
+      "comment_teaching": "the teaching is quite good though. The professor provides office hours for students to ask questions, even for assignments. So the concept can be understood easily.",
+      "comment_grading": "attendance 5% (include tutorial)<br />in-class quiz to bump up one subgrade <br />assignments, midterm, final<br />I forgot the weighting and my result coz the whole course is deleted from canvas",
+      "comment_workload": "workload not less, but not much.<br />only assignments and those quizzes.<br />4 assignments in total and each took me around half a day, not that easy though.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "U4fVy6UYY5uArrdIv2RauvQWgzTeFdo6",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 1238,
+          "name": "YANG, Jiachuan",
+          "rating": 1
+        }
+      ],
+      "author": "準雷",
+      "date": "Jun 08, 2021",
+      "title": "改善左唔少而真係fit Year2程度既CIVL course",
+      "comment_content": "可能係上個sem Mohamed教得太難<br />比人投訴得太多 所以換左個新Professor教<br />Content同教法都改善左唔少<br />1. Introduction<br />2. Fluid Properties<br />3. Fluid Statics<br />4. Fluid in Motion<br />5. Continuity Equation<br />------------Final Exam start from here--------<br />6. Momentum Equation (Only this chapter will be examined in BOTH midterm and final exam)<br />------------Midterm Exam up to here----------<br />7. Flow Measurement<br />8. Energy Equation<br />9. Dimensional Analysis<br />10. Pipe Flow<br />11. Introduction to turbulence<br />------------Final Exam up to here-----------",
+      "comment_teaching": "(今個sem online teaching所以取消lab堂)<br />睇得出Prof. YANG好有心教<br />上堂要開cam計attendance<br />間唔中有poll(詳見grading)<br />雖然係大陸professor但識廣東話同埋英文幾好<br />堂上會慢慢解concept同做example<br />唔似Mohamed咁做到好似Mathematical Analysis<br />唯一無咁好就係有時用太多時間derive equations<br />每個星期有兩次office hour<br />去到tutorial佢有時都會係尾段join<br />比學生問問題",
+      "comment_grading": "Attendance&nbsp;&nbsp;5% (Full Mark)<br />要開cam, TA會不定期cap圖<br />最少要上17堂lecture同8堂tutorial先有full mark<br />每堂要最少60%時間(48分鐘lecture, 30分鐘tutorial)<br /><br />Assignment 25% (572/600, 每份既mean大約80-90)<br />開頭2份都會問少少concept野 之後就無<br />大部分都係書既題目 會同考試似<br />真係唔識可以上網搵答案<br /><br />Midterm exam (Closed book) 30%<br />75分鐘 4題concept + 5題application<br />[Prof加每人7分, 以下既分都係加左之後]<br />Mean: 59.75&nbsp;&nbsp;SD: 17.7<br />My Score: 81/100 (Above mean 1.2 SD)<br /><br />Final exam (Closed book) 40%<br />75分鐘 4題concept + 5題application<br />[Prof加每人7分, 以下既分都係加左之後]<br />Mean: 60.03&nbsp;&nbsp;SD: 15<br />My Score: 97/100 (Above mean 2.46 SD)<br /><br />今個sem既poll總共有15題<br />10題正確或以上<br />而且係某個subgrading入面排頭4<br />就可以升一個subgrade(但無得升A+)<br />My Score: 7/15 (Mean大約6)<br /><br />Grading既透明度好足<br />有哂solution, 每題既分同埋marking痕跡<br /><br />Overall: 91.93%<br />Grade: A<br />都算唔錯, 要A+真係難<br /><br />附上其他statistics:<br />A Range (22%, cut off 77/100)<br />B Range (37%, cut off 66/100)<br />C Range (30%, cut off 57/100)<br />D (8%)<br />F (3%)",
+      "comment_workload": "Total 六份assignment 每份4-5題<br />開頭唔熟可能會有D難<br />但如果有心睇書清concept就唔會難<br />考試既話aim B range溫熟example<br />識正確用equation就夠應付<br />但如果想A range就最好做埋書既題目<br />因為考試既題目都係抽書",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "pOjY1FkieSwk62yBq192AT157zXmuWZs",
+          "name": "CIVL2510 2021 Mt Statistic",
+          "format": "png"
+        }
+      ]
+    },
+    {
+      "hash": "tB8jNEKYa6syF01qYTZN3DeO9dKnn0iv",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 1238,
+          "name": "YANG, Jiachuan",
+          "rating": 1
+        }
+      ],
+      "author": "你點影的",
+      "date": "Jun 01, 2021",
+      "title": "",
+      "comment_content": "Lecture1_introduction.pdf<br />Lecture2_Fluid property(1).pdf<br />Lecture3_Fluid property(2).pdf<br />Lecture4_Fluid statics(1).pdf<br />Lecture5_Fluid statics(2).pdf<br />Lecture6_Fluids in motion(1).pdf<br />Lecture7_Fluids in motion(2).pdf<br />Continuity equation.pdf<br />Momentum equation.pdf<br />Review lecture.pdf<br />Flow Measurement.pdf<br />Energy equation.pdf<br />Dimensional Analysis.pdf<br />Pipe Flow.pdf<br />Introduction_to_turbulence.pdf",
+      "comment_teaching": "Good. TAs are good too.",
+      "comment_grading": ".&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my score<br />Attendance&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;97.16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100/100<br />6 Assignments&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;576/600<br />Midterm&nbsp;&nbsp;(SD&nbsp;&nbsp;~1?)&nbsp;&nbsp;&nbsp;&nbsp;30%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;59.75&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;78/100&nbsp;&nbsp;&nbsp;&nbsp;<br />Final&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(SD&nbsp;&nbsp;~15)&nbsp;&nbsp;&nbsp;&nbsp;40%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;60.03&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;73/100&nbsp;&nbsp;<br /><br />*poll result&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4/15<br /><br />Grade: A-",
+      "comment_workload": "I only watched all lecture and tutorial recordings<br />I only did the examples in class<br /><br />The coverage of midterm: <br />from fluid property(1) to momentum equation<br /><br />The coverage of final: <br />from momentum equation to introduction of turbulence",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "P5rroTO7X9FD4IRWp3jWzivXPECrmjAO",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 1238,
+          "name": "YANG, Jiachuan",
+          "rating": 1
+        }
+      ],
+      "author": "unknownsss",
+      "date": "May 31, 2021",
+      "title": "",
+      "comment_content": "Lecture1_introduction<br />Lecture2_Fluid property(1)<br />Lecture3_Fluid property(2)<br />Lecture4_Fluid statics(1)<br />Lecture5_Fluid statics(2)<br />Lecture6_Fluids in motion(1)<br />Lecture7_Fluids in motion(2)<br />Continuity equation<br />Momentum equation<br />Review lecture<br />Flow Measurement<br />Energy equation<br />Dimensional Analysis<br />Pipe Flow<br />Introduction_to_turbulence",
+      "comment_teaching": "Good teaching, Attend lessons will have hints for exams.",
+      "comment_grading": "Good grade<br />Will add marks until the mean reaches 60 <br />Below mean a little bit final grade: B",
+      "comment_workload": "Light workload,6assignment in total but cannot find the source, some questions are designed by him which are also useful in the exam.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "o7TRq2cS4uvnWs4ZvAU4jlAmoU6FmZri",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 840,
+          "name": "GHIDAOUI, Mohamed Salah Ben Habib",
+          "rating": 1
+        }
+      ],
+      "author": "強尼仔",
+      "date": "Nov 05, 2020",
+      "title": "Incomprehensive materials",
+      "comment_content": "His book chapter 1-9",
+      "comment_teaching": "We&nbsp;&nbsp;have lesson via zoom. That is not the problem. The problem is that we are simply reading a book instead of notes. Prof mainly focus on the principle and math steps. He has almost not explained how to do the assignment problems to us. If you really want a A, I assume you better study yourself. Dont count on Prof.",
+      "comment_grading": "5 assignments<br />The results are the following:<br />73/100, 55.5/100, 71/100,69/100,49/100<br />My results are around average.<br />Independent Learning is a kind of reflective journal writing what you have learnt. The prof will first give a chapter but not going to teach you. You need to read it alone and summarize the content. 12/20 below&nbsp;&nbsp;about 1sd<br />Final exam includes 3 sessions<br />4/16,4/25,6.7/17 also aroung mean.",
+      "comment_workload": "Not too much work but very difficult to do. I need to soogle a lot to&nbsp;&nbsp;finish part of them. It does not really help to apply the lecture content onto the homework.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ffsBFC5PRtvHNM3emvU89HgJHuD9LKBc",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 840,
+          "name": "GHIDAOUI, Mohamed Salah Ben Habib",
+          "rating": 0
+        }
+      ],
+      "author": "horacelam",
+      "date": "Oct 19, 2020",
+      "title": "",
+      "comment_content": "都唔知教咗乜 係canvas 都搵唔到個syllabus",
+      "comment_teaching": "上堂手寫notes又唔upload 上canvas 跟本好難跟到佢教乜 你feel到佢好有心教 佢真係教得差 除咗頭幾堂明明地之外 其餘時間完成唔知做緊乜",
+      "comment_grading": "我p/f咗 最後p <br />份份assignment 差唔多都below mean <br /> <br />Ass1 48.5/100 mean 66.1<br />Ass2 38.7/100 mean 50<br />Ass3 71/100 mean 75.2<br />Ass4 47/100 mean 64.2<br />Ass5 我miss 咗 <br />Ass6 (optional) 48/100 mean 51.8<br />Independent learning 14/20 mean 16.5<br />Final <br />Part 1 <br />3.5/17 mean 5.7<br />Part 2 <br />9/16 mean 7.5<br />Part 3<br />3/25 mean 5.5",
+      "comment_workload": "因為疫情 <br />同之前唔同<br />變咗6份assignment (1份係optional) 30%<br />冇midterm <br />Independent learning 20%<br />Final 50%<br /><br />講下份independent learning <br />主要係俾個chapter 你自學 然後打返份report 講返你學咗乜 叫做係可以俾你執下分 <br />依個course 有得p/f最好揀",
+      "rating_content": 3,
+      "rating_teaching": 1,
+      "rating_grading": 2,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "SrKNz0v3SP7ag8bdoO58e8FQB3XmyFXo",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 840,
+          "name": "GHIDAOUI, Mohamed Salah Ben Habib",
+          "rating": 0
+        }
+      ],
+      "author": "drew.ng",
+      "date": "Jul 27, 2020",
+      "title": "I never wore a seatbelt while driving to school because I wanted to die before making it to his class.",
+      "comment_content": "Please read below. The content is useless, dont even bother. Hardest course in CIVL.",
+      "comment_teaching": "Ghidaoui has the biggest ego (probably the same as JS Kuang with all this titles) in CIVL department. He assumes that the class understands but absolutely CANNOT explain what he means if you ask a question his process. He makes an absolute mockery out of the whole cohort and I assume he secretely gets off to the thought of teens struggling at night. His notes are absolutely useless - so useless in fact that you are even allowed to bring it in to the openbook final.",
+      "comment_grading": "When asked what kind of grading system he uses by my cohort, his only response (which I believe he practiced in front of a mirror because it was the same everytime) was &#039;as long as you show your working and your understanding, it will be ok&#039;. Bro tf u mean. This isnt a arts or humanities, just give us the straightforward equations to use and stop making us derive shit. If I wanted you to be subjective I wouldve just straight up written an essay but nOOOoo, your dumbass needed me to include some numbers and symbols in my essay.",
+      "comment_workload": "Absolutely fucked my life, my life expectancy is now at 30 years old - which isnt too bad when you consider Hong Kong&#039;s housing prices and retirement age. You can go home and try and understand his notes, discuss with your friends but ultimately I can assure you that no one will know what is happening. All the hokba&#039;s are just guessing his explanations as well.",
+      "rating_content": 2,
+      "rating_teaching": 1,
+      "rating_grading": 2,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "GMDmGzNM5p2S9mlPudqPpGaNNEc7l2YL",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 840,
+          "name": "GHIDAOUI, Mohamed Salah Ben Habib",
+          "rating": 1
+        }
+      ],
+      "author": "NCTROLL",
+      "date": "Jun 10, 2020",
+      "title": "Introduction to fluid mechanics",
+      "comment_content": "The contents are interesting but the arrangement of chapters is a bit chaotic.<br />Topics:<br />1. Fluid Properties, dimensional analysis<br />2. Fluid Statics<br />3. Kinematics of Control Volume<br />4. Conservation Law<br />5. Mass Conservation<br />6. Linear Momentum Conservation (Navier-Stokes equation is covered in this semester)<br />7. Bernoulli Equation<br />8. Boundary Layer<br />9. Turbulent Flow",
+      "comment_teaching": "His teaching is good in my points of view as his explanation is quite clear.<br />Professor usually proves the equations in lesson. If you follow his logic, you will understand how to build up the theorems in fluid mechanics, especially the Navier-Stokes equation. However, it is not really helpful for you to deal with assignment or exam problems.<br /><br />The past papers are barely useful for preparation of the final as the professor intends to change the problem sets every year. As a result, drilling the pp will not help you get a good result in final. The attached documents are the past papers provided by the professor this year (you will see how &quot;useful&quot; it is for drilling the pp)",
+      "comment_grading": "Grading scheme:<br />Assignment: 30% (5 assignments are counted in total)<br />Independent learning: 20%<br />Final: 50%<br />Statistic:<br />Assignment (added up 5 highest mean scores): mean = 320.8/500<br />Independent learning: mean = 16/20<br />Final is divided into 3 sessions.<br />Session 1: mean = 5.7/17<br />Session 2: mean = 7.3/16<br />Session 3: mean = 5.5/25<br />I guess the mean score of final is calculated as<br />mean score of final = (50)(5.7+7.3+5.5)/(17+16+25) = 15.9<br />mean total score = 15.9+16+(320.8/500)(30) = 51.2<br />my score of final = 30.5<br />my total score = 74.7<br />Grade: A+<br />The grading should be very lenient as mean is B. As you can see, my score is very low but still result in A+.",
+      "comment_workload": "Only 6 assignments in this semester and one of them is optional. Many questions in the assignments are similar to the problems in the notes so not much time is needed to complete the assignments. In addition, a report on the self-study of fluid statics is required. Thus, the workload is medium.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 19,
+      "comment_count": 26,
+      "attachments": [
+        {
+          "key": "XtRgFk6pq8orZwZiwnlD3YA9VMfFdO8U",
+          "name": "CIVL2510 2017 Final",
+          "format": "pdf"
+        },
+        {
+          "key": "0tR8guabBOTP4M1oEjyB91WFsxjpHEHl",
+          "name": "CIVL2510 2017 Mt",
+          "format": "pdf"
+        },
+        {
+          "key": "5pfA6tZXAUvAjHxXGStpmEhPhwZcUaA0",
+          "name": "CIVL2510 2018 Final",
+          "format": "pdf"
+        },
+        {
+          "key": "Lpf83tmqGwrmXUiTjM50urZRNmgOsQS0",
+          "name": "CIVL2510 2019 Mt Sol",
+          "format": "pdf"
+        },
+        {
+          "key": "zOtA8oQZnHXpV9Rr8Y6SBnkWm7PTazPY",
+          "name": "CIVL2510 2020 Final 1",
+          "format": "pdf"
+        },
+        {
+          "key": "wIJ8ZGX8RN43ROnkV4oDTgIKgiKkPYnU",
+          "name": "CIVL2510 2020 Final 2",
+          "format": "pdf"
+        },
+        {
+          "key": "5RiNnwsbDTolx5K7Gp4UwfWc962rYInI",
+          "name": "CIVL2510 2020 Final 3",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "mUIjUB3D5K6T2ib2CTUIk0YIPB7sz7eE",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 1236,
+          "name": "LOUATI, Moez",
+          "rating": 1
+        },
+        {
+          "id": 840,
+          "name": "GHIDAOUI, Mohamed Salah Ben Habib",
+          "rating": 0
+        }
+      ],
+      "author": "whoooami",
+      "date": "Jun 10, 2020",
+      "title": "夢魘",
+      "comment_content": "Prof LOUATI:<br />Chapter 1 Introduction and Fluid Properties<br />主要係關於簡介各種流體嘅特性同基本equations等等<br /><br />Chapter 2 Dimensional Analysis<br />介紹Buckingham Pi Theorem，跟住做就可以<br /><br />之後開始睇路<br />Prof GHIDAOUI:<br />Chapter 3: Control Volume and its Kinematics<br />介紹三種唔同嘅CV (General, Material, Fixed)<br />唔同Flux 計法<br />del operator 嘅運算 (grad, div, curl)<br />Transport Theorem<br />三種唔同time derivative<br />Streamline, Pathline, Streakline<br />嗯，總之就係不斷咁prove 式同做埋啲唔知jm9 嘅數<br /><br />Chapter 4: Conservation Laws for a General Control Volume<br />對於Ch5, 6, 10 嘅小簡介咁，無乜特別<br /><br />Chapter 5: Mass Conservation<br />介紹CV 內嘅mass conservation 同point mass 嘅mass conservation<br />Compressibility 嘅唔同conditions (大伏：同出面好多textbook 嘅教法都非常唔同)<br /><br />Chapter 6: Linear Momentum Conservation<br />介紹CV 內嘅momentum conservation <br />Prove Euler Equations<br />Prove Navier-Stokes Equations<br /><br />Chapter 7: Pointwise Momentum and the Bernoulli Equation<br />簡單Prove 下Bernoulli Equation (同出面教法都有少少唔同)<br /><br />Chapter 8: Boundary Layer<br />介紹同估算boundary layer 嘅velocity profile<br /><br />Chapter 9: Introduction to Turbulent Flows<br />我都唔知佢up 緊乜<br /><br />Chapter 10 (?): Energy Conservation (Not included in final)<br />佢用左最後半堂略講過<br /><br />Self Learning:<br />Fluid Statics<br />建議搵下有無以往年份嘅notes，會易入手好多",
+      "comment_teaching": "Prof LOUATI:<br />其實佢教得算唔錯，又肯比唔同resources 我地佢follow，上堂又有唔同實驗 幾nice<br />(題外話：佢應該PhD本身係ghidaoui啲學生，所以而家對個course無乜say)<br /><br />Prof GHIDAOUI:<br />哈 罄竹難書<br />1. 佢成個syllabus 嘅design本身就beyond UG 嘅scope 同埋同出面坊間嘅教法唔同到一個點，令到學生無可能從其他source嘗試了解lecture唔明嘅地方，只能硬食lecture recording<br />2. 佢呢個sem同佢個frd Prof Gray 一起出書，但係本書多字得嚟，soft copy又無得ctrl+f search keywords。而且書入面嘅formula error 多到一個點，就算你有咁嘅智慧佢自學，要debug都係一大挑戰。<br />3. 佢好似好encourage你問問題，但係<br />第一，你根本唔明佢教緊啲乜，咁問乜9？<br />第二，你問佢問題，佢又chur9 你，咁都係唔問好過啦<br /><br />TAs:<br />辛苦了",
+      "comment_grading": "20% Independent Learning Report<br />30% Assignment (5 best out of 6)<br />50% Final <br /><br />Independent learning: 20/20<br />Assignment: 25.89/30<br />Final: 36.5/50<br />Total: 82.39%<br />Final Grade: A+<br /><br />個E係比佢呢個sem 帶比我地嘅無盡痛苦",
+      "comment_workload": "極重<br />由Hw2 開始幾乎係每隔一兩個禮拜就要做一份功課，而且deadline 唔長。搞到我地一係亂做，一係就抄。而且，功課內容同lecture 內容完全無可比性，有啲功課必須嘅數學知識根本以前/lecture入邊完全無提過，所以可以自己完成功課根本已經係mission impossible。",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 6,
+      "vote_count": 10,
+      "comment_count": 2,
+      "attachments": [
+        {
+          "key": "i7JrSU1W85jjMrJ7kxuLmizconKp6m7P",
+          "name": "PS5_Solution_Canvas_Updated_21May2020",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "R2kIHmCLv11oMI2Z7c9K5F07MzkByqP3",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 840,
+          "name": "GHIDAOUI, Mohamed Salah Ben Habib",
+          "rating": 1
+        },
+        {
+          "id": 1236,
+          "name": "LOUATI, Moez",
+          "rating": 1
+        }
+      ],
+      "author": "Juicers",
+      "date": "Jun 10, 2020",
+      "title": "0 透明度course",
+      "comment_content": "必修垃圾科.一<br />唔駛睇有無得drop啦,唔讀就無得升班<br />0 透明度,完全唔知錯咩啱咩<br />主要教fluid既野,講下mass,momentum咁,你未讀是唔會明的,讀左都唔會明",
+      "comment_teaching": "咁首先今年係online teaching,咁就自然食得屎啦.<br />然後就係mohamed教既方法好有問題<br />教proof唔係問題,問題係無時間講example<br />次次做assignment都唔知做緊咩",
+      "comment_grading": "assignment 同答案一樣可以有分可以無分,完全係睇TA/prof心情<br />final唔知點佢點俾分.識人final做晒全部step最後B range.亦都識人咩都無寫最後A range.完全係睇TA/prof心情",
+      "comment_workload": "大到爆炸唔講了<br />一堆assignment+一個independent learning<br />最後唔知做左咩",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 8,
+      "vote_count": 10,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "KBPEsWgD4mnlHl9jt23pudEdKQICV7D5",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 1236,
+          "name": "LOUATI, Moez",
+          "rating": 0
+        },
+        {
+          "id": 840,
+          "name": "GHIDAOUI, Mohamed Salah Ben Habib",
+          "rating": 0
+        }
+      ],
+      "author": "**unknown**",
+      "date": "Jun 10, 2020",
+      "title": "A demanding course with terrible teaching",
+      "comment_content": "Fluid properties<br />Dimensional analysis<br />Kinematics<br />Conservation Laws<br />Mass conservation<br />Momentum Conservation<br />Bernoulli equation<br />Boundary layer<br />Introduction to turbulent flows<br />Independent learning Chapter on Fluid Statics",
+      "comment_teaching": "The content seems to be common which apparently has no difference with other typical fluid mechanics courses. However, that is not the case. I cannot think of other adjectives except &quot;disastrous&quot; to describe this so-called &quot;civil course&quot;.<br /><br />Why I use the word &quot;so-called&quot; above? Because it is not an ordinary civil course in nature. I would say it is a maths course which is about the derivation of equations rather than a civil course which is about the application of equations. Prof spent most of the lecture time deriving lots of equations with bulks of assumptions (but we never know how they are from). However, he seldom/ never teaches us how to apply the equations in the engineering field. As a consequence, we learn nothing from the course: neither the derivation of equations nor the application of equations. We will possibly become engineers instead of mathematicians in the future. Could you please stop deriving equations all the time?<br /><br />They always ask us to raise questions, but we have no idea what is going on. When you read the solutions to examples in the textbooks or the answers to the assignments, you may wonder whether you are an idiot.",
+      "comment_grading": "30% Assignments<br />20% Independent learning<br />50% Final exam<br /><br />The most trashy course ever.",
+      "comment_workload": "No labs this semester due to online teaching.<br />There are five mandatory assignments and one optional assignment that are take-home.<br />However, most of the problems appearing in the assignments are extremely difficult and irrelevant to what prof has taught in class and the content in the textbook. Many of the students just searched the relevant content on the Internet in order to finish the assignments.<br /><br />Many of us learnt nothing from this course, but we are required to finish an independent learning report by the end of the semester.",
+      "rating_content": 2,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 7,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "qsLnkXQ9a3EQmPavOQraNB0uUx8nnV2w",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 1236,
+          "name": "LOUATI, Moez",
+          "rating": 1
+        },
+        {
+          "id": 840,
+          "name": "GHIDAOUI, Mohamed Salah Ben Habib",
+          "rating": 0
+        }
+      ],
+      "author": "UncleT",
+      "date": "Jun 09, 2020",
+      "title": "歡迎蒞臨Mohamed的瘋狂宇宙!",
+      "comment_content": "(This review is very long, 慎入!) 如果都係Prof Ghidaoui (aka Mohamed)繼續教或者見到一位叫Gray嘅美國人, 請你自求多福, content的難度必然係煉獄級。Lecture包含大量rigorous嘅proof, 再推算啲equations出嚟, 然後做一啲極為複雜嘅例子。你到後期聽唔明應該係一件正常嘅事。Part 1教一堆基礎知識, 而Part 2先係成個course嘅重點。雖然我堂堂上足, 去到Ch 6後期已經理解唔到Mohamed喺到做咩嘢。<br />Chapters and Topics:<br />Part 1: Ch 1 Fluid properties, Ch 2 Dimensional analysis<br /><br />Part 2: <br />Ch 3 Control Volume and its kinematics (三種不同的CV, flux, divergence theorem, time derivatives, transport theorem, streamline, pathline, streakline)<br />Ch 4 (不贅, 只係conservation的generalization)<br />Ch 5 Conservation of mass (三種不同CV中的form, point form of conservation of mass, compressibility)<br />Ch 6 Conservation of linear momentum (三種不同CV中的form, external forces, point form of conservation of linear momentum, Navier-Stokes equations)<br />Ch 7 Bernoulli equation<br />Ch 8 Boundary layer<br />Ch 9 Turbulent flows (Reynolds number, turbulent velocity profile)<br />除此之外, 你仲要讀一篇關於fluid statics嘅book chapter(Final會考), 內容同lecture難度相若。",
+      "comment_teaching": "我對Prof Louati (負責Part 1) 的教學無乜太大意見, 佢有時會做吓啲小型experiment, 你有問題佢就會答。<br />至於Mohamed (負責Part 2) 就相對「有趣」, 佢係我見過對教學最有熱誠嘅人。 佢會親自指揮、親自部署tutorial, 亦非常願意解答學生嘅疑問, 但我認為唔少人到後期因為content的一塌糊塗與複雜程度而連問咩問題都諗唔到。我覺得佢今個sem嘅表現絕對係災難性。首先, 今個sem因為肺炎變咗做online class, 但個cameraman經常跟唔切Mohamed, 令到我地成日都miss咗啲內容, 更難清楚Mohamed喺到做緊乜。第二, Mohamed教啲內容極度困難, lecture會用嚟prove equations, 一般人未必可以知佢嘅intuition, 淨係知有呢條equation, 但唔識點用。後期啲example嘅難度同proof相若, 加上你唔會明lecture啲concept同被迫用Mohamed嘅獨門方法解題, 就算你想理解都幾艱辛。第三, Mohamed嘅教學速度令人無所適從, 喺啲容易嘅topic如Ch 3就用咗唔少時間, 搞到後面啲困難topics講得好匆忙, 學生根本跟唔上。<br />最後學Winnie the pooh話齋: 沒有風狂雨驟, 那就不是Fluid Mechanics了!",
+      "comment_grading": "Grading scheme喺Online class之下應該同平時唔一樣: 30% Assignments, 20% Independent learning report, 50% Final<br />我懷疑assignment喺亂咁改, 有一份求其做, 同答案完全唔同都有86。<br />同平時一樣嘅係Final會超級難, 做到你懷疑自己有冇上堂都冇分別。<br />各位, 別看今天鬧得歡啊, 小心今後拉清單!<br /><br />Update: 我喺Final大部份都淨係做到答案嘅頭幾步, 但最後攞到31.6/58 (mean: 18.5/58), 有A。<br />不過, 我完全唔知班TA點畀分, 所以Grading真係一個謎, 祝各位好運。",
+      "comment_workload": "呢個course要做嘅嘢比2120, 2170同2410加埋仲多, 有5份compulsory assignments, 1份optional。<br />啲assignment單靠自己冇可能做哂, 雖然Mohamed會喺tutorial畀instruction你話點做, 你亦可以問佢問題, 但啲指示喺你做到後幾份已經無咩作用, 因為你根本冇可能諗到點做。Google/Chegg都唔會幫到你手, 因為你一定要用Mohamed個特殊方法做。<br />你亦可以睇吓assignment啲solution同past paper, 縱使你唔會完全明白, 亦對你準備Final近乎冇幫助。<br /><br />另外, 今個sem仲有一份極離奇嘅independent learning report, 要自己睇一篇關於fluid statics嘅book chapter, 然後寫一個report出嚟, 內容要包含book chapter嘅summary同與lecture中教的concept的關係。Guidelines係一堆 &#039;Comment...&#039;, 我都唔知佢想要乜, 唯有草草了事。<br />總而言之, 呢個course physically要做嘅嘢係C, 但做一堆唔知自己做緊乜嘅嘢嘅心理負擔係好沉重同好辛苦。",
+      "rating_content": 2,
+      "rating_teaching": 2,
+      "rating_grading": 3,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 14,
+      "vote_count": 15,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "N8f1enr2GDP9WkVHexbVms81L8pC6XdM",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 840,
+          "name": "GHIDAOUI, Mohamed Salah Ben Habib",
+          "rating": 0
+        },
+        {
+          "id": 1236,
+          "name": "LOUATI, Moez",
+          "rating": 0
+        }
+      ],
+      "author": "ggleos",
+      "date": "Jun 09, 2020",
+      "title": "A disaster course with garbage prof.",
+      "comment_content": "1. dimensional analysis<br />2. fluid properties<br />3. control volume and kinematics<br />4. conservation laws for general control volume<br />5. mass conservation<br />6. linear momentum conservation<br />7. Bernoulli equation<br />8. boundary layer<br />9. turbulent flow<br />10. independent study - fluid statics<br />11. mastering jump mushroom.",
+      "comment_teaching": "They are merely showing off their excellent skills and knowledge in this domain. They are not teaching. No lecture notes but books are given. <br /><br />Profs never understand students&#039; difficulties and naively believe their teaching was crystal clear. Most of the students totally don&#039;t understand the content and even don&#039;t know what question should they ask. <br /><br />Examples showed in lectures help nothing but make you more confused. <br /><br />Equally ridiculous is the so-called &quot; independent learning&quot;. Profs require us to self-study a fluid statics book and make a max. 8 pages presentation. And the self-study content will appear in the final exam. Student almost jumps mushroom when digesting the content in lectures, how come they have time and ability to study those extra content?",
+      "comment_grading": "The most rubbish course ever.<br />Do you think there will be a good grading?",
+      "comment_workload": "Online teaching this semester.&nbsp;&nbsp;<br />Only homework and no labs<br />5 homework and 1 optional homework.<br /><br />However, those Homeworks were extremely difficult and irrelevant to what prof has taught in class. Many students have no clue to do them.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 7,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "kn5TeGf2CHExA5pHzJCP0d8apMeRNza5",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 1029,
+          "name": "LAM, Kit Ming",
+          "rating": 1
+        },
+        {
+          "id": 1236,
+          "name": "LOUATI, Moez",
+          "rating": 1
+        }
+      ],
+      "author": "mhcm138",
+      "date": "Dec 28, 2019",
+      "title": "Difficult Year 2 CIVL course",
+      "comment_content": "📚 Course content:<br />1️⃣ Fundamental Concepts of Fluid<br />2️⃣ Fluid Statics<br />3️⃣ Dynamics of Fluid Motion<br />4️⃣ Dimensional Analysis<br />5️⃣ Some More Fluid Concepts <br />6️⃣ Elementary Pipe Flow<br />7️⃣ Potential Flows<br />*Navier-Stokes Equation was not covered<br /><br />❗❗❗❗ WARNING ❗❗❗❗ The course content has improved and adjusted so the academic level is more suitable for us. The content in the previous years taught by Prof. GHIDAOUI was a catastrophe for CIVL students🤮☠️💀",
+      "comment_teaching": "✅ For the first part of the course, Prof. LOUATI covered Topic 1,2. His teaching was quite interactive and he loved to use experiments (balloon, water tank) to demonstrate the behavior of fluid. Your lecture experience would be better if you sit in the front row. <br /><br />✅ LOUATI gave us extra exercises in each topics that may be helpful for preparing the quiz and midterm. <br /><br />❌ LOUATI finalized his lecture notes very late. It may be inconvenience for self-learners which heavily rely on reading lecture notes on their own.<br /><br />✅ For the second part, Prof. LAM is a visiting professor from HKU. He also taught Fluid Mechanics in HKU for many years. Therefore, his lecture notes and power point were well-established and very clear. <br /><br />✅ His teaching style was so easy going and understandable, what he said in lecture may not be difficult for you to understand, and he liked to relate the topics to engineering application by showing the engineering works around the world. <br /><br />✅ LAM&#039;s problem sets and solutions are well sat.<br /><br />❌ His pace and intonation was quite flat and slow, so i usually felt asleep in his 9am lecture. <br /><br />✅ Both instructors conducted the tutorials by themselves. When Prof. LOUATI handover the class to Prof. LAM, a special tutorial conducted by a TA demonstrated some multivariate calculus from MATH2011, which were some rigorous approach for control volume and continuity.",
+      "comment_grading": "💯Course Grading:<br />1️⃣ Laboratory - 15%<br />2️⃣ Closed book tests - 20%<br />3️⃣ Mid-term examination - 25%<br />4️⃣ Final examination - 40%<br /><br />👨‍🎓 My performance for your reference:<br />LAB1: 68/100 (mean: 73.2)<br />LAB2: 85/100 (mean: 87.4)<br />LAB3: 70/100 (mean: 80.4)<br />Test 1: 64/100 (mean: 53.2)<br />Test 2: 44/90 (mean: 39.4)<br />Midterm: Ranked 38th out of 169<br />Final Exam: Ranked 12th out of 169<br /><br />Final Grade: A-<br />(According to professor, only 6 A+ and 6 A were given)<br /><br />I would say the grading is not particularly good but B range seems wide.",
+      "comment_workload": "You may skip all the lectures and tutorials as they are video recorded. The workload is extremely high if you want to get a good grade and understand the concepts in a rigorous approach by reading the textbooks and proof. <br /><br />This course is designed with (3 hrs lecture/week+2 hrs tutorials/week+ 3 labs) which is too much for a 3-credit course. For labs, only hand-written submission is allowed. No matter you have source or not, you need substantial amount of time to write...",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 7,
+      "vote_count": 7,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "5hN0MWmopUysAJhYlUo83xOfrP39p0ek",
+          "name": "CIVL2510-Contents-timetable-2019",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "f9ijGJPHCYdjspTSb89Gk2FcPPUBY9EQ",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 1029,
+          "name": "LAM, Kit Ming",
+          "rating": 1
+        },
+        {
+          "id": 1236,
+          "name": "LOUATI, Moez",
+          "rating": 1
+        }
+      ],
+      "author": "shirayuki653",
+      "date": "Nov 15, 2019",
+      "title": "One of the craziest course in HKUST",
+      "comment_content": "Part 1 (By Moez): Fluid Properties, Fluid Statics<br />Part 2 (By Prof. Lam): Fluid Kinematics, Fluid Dynamics, Flow Properties: Dimensional Analysis, Pipe Flow, Flow of an Ideal Fluid<br /><br />The midterm covers up to the momentum equation and the final is cumulative. Be careful! Many concepts are brand new, so high school physics will never save you.<br /><br />Besides, many maths techniques are required for derivating the equation. For example, divergence theorem and partial differentiation of MATH2011, and ODE(separable ones) of MATH2350.",
+      "comment_teaching": "The first professor is&nbsp;&nbsp;nice&nbsp;&nbsp;and explains everything in detail, but his pace is too slow and it is confusing to get what is the main focus.<br /><br />The second professor is a local visiting professor, his teaching is a bit boring but you can easily catch-up what is going on by his notes uploaded on canvas",
+      "comment_grading": "3 Labs(5% each): All are slightly below mean<br />Test 1(5%:48.5/100 (mean:53)<br />Test 2(5%):45/90 (mean:39)<br />Midterm:52/100(mean 48.5)<br />Final:? <br />Final grade: B<br /><br />Both midterm and final are open book, but this doesn&#039;t make the exam easier at all.<br /><br />Student at mean probably get C+/B-, it is not too bad for a 2000-level CIVL course.",
+      "comment_workload": "It is absolutely a joke to assign a 3 credit course with 3 hours of lectures,3 hours of lab and a 2-hour tutorial per week. The only thing good is there are NO assignments this semester, so the workload can be a bit lighter.<br /><br />The labs itself are every easy to do but completing the follow-up questions is simply a nightmare. You need to be very familiar with the content so that you can make the correct calculation.<br /><br />For the exam, I have spent about 3 whole days to revise all the content.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 2,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "gHUJS6PhNI6w0DgnjcHUlPZ6H0PKrRJe",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 1029,
+          "name": "LAM, Kit Ming",
+          "rating": 1
+        },
+        {
+          "id": 1236,
+          "name": "LOUATI, Moez",
+          "rating": 1
+        }
+      ],
+      "author": "Lugia",
+      "date": "Jun 15, 2019",
+      "title": "Stop bullying me with tests and exams :(",
+      "comment_content": "1. Fluid Properties and Statics<br />2. Fluid Kinematics<br />3. Fluid Dynamics<br />4.Dimensional Analysis<br />5. Pipe Flow<br />6. Flow of an Ideal Fluid<br /><br />* Streamlines equations and Ch.6 are introduced in this semester",
+      "comment_teaching": "Revisit MATH2011 and MATH2350 before attending class.<br />Revisit MATH2011 and MATH2350 before attending class.<br />Revisit MATH2011 and MATH2350 before attending class.<br />It is very important, so I repeated it 3 times.<br /><br />Otherwise, you&#039;ll be like me!<br />Spending all your time crawling back to UST, attending a 9 am lecture, and the only sentence you can fully comprehend is &#039;Let&#039;s take a 5mins break.&#039;<br /><br />Since I couldn&#039;t understand what the Dr. and Prof. were teaching, so I&nbsp;&nbsp;will be writing by guessing what they are trying to achieve through their teaching.<br /><br />Dr.Louati: He focuses on the concepts of things, shows and explains the derivation of equations. Sometimes he does some mini experiments, for showcasing the fluid phenomenon to the class, which is quite enjoyable. He uploads the lecture notes after he finishes teaching.<br /><br />Prof.Lam: He usually lists out surrounding examples by providing videos to make fluid mechanics seems related to our daily lives.<br /><br />Lecture videos are provided in this course. :)",
+      "comment_grading": "15% Lab reports<br />10% x2 Close-book test<br />25% Mid-term exam<br />40% Final exam<br /><br />Taking Fluid tests are like playing old NES games, you can somehow struggle your way through on easy mode, but when it is on normal....( ͡° ͜ʖ ͡°) <br /><br />During lectures, multi cal is flying all over the place, but DON&#039;T GIVE UP! The tests and exams are adjusted to a level where a normal human being like me is still able to write something down.<br />The level of difficulty ranges like this: <br />Lecture &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; example questions &gt;&gt;&gt;&gt;&gt;&gt; Tests and exams<br /><br />The grading should be fair. However, I think the exams have an M-curve rather than a normal distribution, but what do I know.",
+      "comment_workload": "The tutorial is 2hrs long and time by time it was used as a lecture, so it should be around a 4 credit course rather than a 3 credit?<br /><br />I thought the content was too much but in hindsight, it wasn&#039;t that bad.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "bxf94ZjGs0YQoXuwho7pFrGrUVQ8ExlM",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 1029,
+          "name": "LAM, Kit Ming",
+          "rating": 1
+        },
+        {
+          "id": 1236,
+          "name": "LOUATI, Moez",
+          "rating": 1
+        }
+      ],
+      "author": "chpoonag",
+      "date": "Jun 12, 2019",
+      "title": "",
+      "comment_content": "This course can be divided into 2 parts: one before the midterm exam, and one after.<br /><br />1st part (Prof LOUATI): <br />Fluid statics was introduced, as well as some basic technical terms. Prof LOUATI put appreciable weights on the concepts, assumptions or required conditions for some formulae. There were some &quot;exercises&quot; in the lecture notes and these would be tested in the 1st closed-book test. <br /><br />2nd part (Prof LAM):<br />Fluid dynamics was introduced, including Bernoulli&#039;s equation and integral momentum equation. Some may think fluid mechanics is a difficult topic and personally I agree with that. I would say the major difficulty is understanding the maths (integrations and differentiations) behind. Yet, in this course, these did not appear much, only in lectures. Basically, you can avoid all integrations / differentiations in exams and tests to get a satisfying performance except the 1st test (10 out of 100 marks for a proof of a formula). But if you really want to learn more to ensure those knowledge introduced in the lectures can be used to deal with real-life problems, in my point of view, you had better work outside classroom to understand more (the assumptions, conditions, maths behind, etc) and practice the maths. Those tested in the course seems just elementary.",
+      "comment_teaching": "Prof LOUATI:<br /><br />He was a passionate and patient professor. He tried his best to explain the concepts in each topic. He often performed some experiments in class and one of them was chosen to be the midterm exam question. Those experiments induced students to think more about the reason for the occurrence of some interesting phenomena. He was willing to answer all questions (I sent him questions via email).<br /><br />Prof LAM:<br /><br />Prof LAM always gave videos about some interesting phenomena. However, one minor thing should be his accent. Also, he was a &quot;responsible&quot; teacher. He just taught in the lectures and students&#039; questions raised just after lectures were not answered in details.",
+      "comment_grading": "Weighting:<br />2 x Closed book test: 10% each<br />3 x Lab: 5% each<br />Midterm exam: 25%<br />Final exam: 40%<br /><br />Scores: (score , mean , sd , high , low)<br />Test 1: 71/100 , 53.2 , 14 , 100 , 24.5<br />Test 2: 67/90 , 39.4 , _ , 86 , 0<br />Lab 1: 79/100 , 73.2 , _ , 90 , 60<br />Lab 2: 96/100 , 87.4 , _ , 99 , 75<br />Lab 3: 100/100 , 80.4 , _ , 100 , 0<br />Midterm exam: 78/100 , 47.9 , 19 , 94 , 9<br />Final exam: ? (TA replied that I &quot;got more than 70% which is quite higher than the mean&quot;)<br />Grade: A+<br /><br />Analyzing the data, I was not one of the top students in each task (5-10 marks below the highest score obtained) but I got an A+ in the end. So maintaining a satisfying performance in all tasks is crucial.",
+      "comment_workload": "No assignments.<br /><br />There was one problem set for each chapter and some suggested questions/examples in the textbook. It was promised that some of these questions would form the major part of closed-book tests so everyone was supposed to have been working hard on all of the questions included in the problem sets before each test. <br /><br />The workload for the 1st test is actually dependent on what grade you aim since prof LOUATI emphasized concepts but most of the problems in the problem sets were basically calculations. Therefore, if you want to ensure you can get some marks, make sure you work on all problems and those &quot;exercises&quot; in the lecture notes. If you want to ensure an excellent performance, try to apply the knowledge learnt in the lectures on some special fluid phenomena. <br /><br />The 2nd test was easy in calculation problems. The majority was identical to the problems in the problem sets except 1 calculation problem, which was from the textbook and I think most of us cannot complete that. <br /><br />Also, there was one section about some basic concepts and we just needed to answer in short sentences and it might just contribute 20% of the total score (5-10 questions only).<br /><br />As mentioned, any printed documents were allowed to be brought into the exam venue. Basically, you don&#039;t have to recite anything before exams.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "zdbLEh5HaUtyIaRpukAEl5TOvyGf17Yk",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 1029,
+          "name": "LAM, Kit Ming",
+          "rating": 1
+        },
+        {
+          "id": 1236,
+          "name": "LOUATI, Moez",
+          "rating": 1
+        }
+      ],
+      "author": "Gibson",
+      "date": "Jun 12, 2019",
+      "title": "[貼地review] 4 cred workload，3 cred收入",
+      "comment_content": "Part 1 (Louati Moez)<br /><br />Ch 1: Fluid Properties<br />- Ideal Gas Law, Real Gas Law<br />- Fluid compressibility<br />- Viscosity<br />Ch 2: Fluid Statics<br />- Pressure at a point, around a point<br />- Hydrostatic force<br />- Pressure prism<br /><br />Part 2 (K.M. Lam)<br /><br />Ch 3: Fluid Kinematics<br />- Streaklines, pathlines, streamlines<br />- Continuity, flux, fluid acceleration<br />- Reynolds Transport Theorem<br />Ch 4: Fluid Dynamics<br />- Momentum Equation<br />- Bernoulli’s Equation<br />- Application: hydraulic jump, venturi meter, etc.<br />Ch 5: More Concepts<br />- Flow types<br />- Reynold’s Number<br />- Wake, boundary layer<br />Ch 6: Dimensional Analysis<br />- Buckingham Pi Theorem<br />- Physical models and similarity<br />- Non-dimensional form of equations<br />Ch 7: Pipe Flow<br />- Energy loss equation<br />- Moody Diagram<br />- Minor losses due to equipment<br />Ch 8: Flow of an Ideal Fluid<br />- Rotational and irrotational flow<br />- Potential flow and hydrodynamics<br />- Some simple flow fields",
+      "comment_teaching": "Louati Moez:<br />(+) <br />- 每次上堂都有實驗demonstration，有啲器材例如hydraulic jack、dam model都係班TA整出嚟，非常用心<br />- 用白板寫算式，會循序漸進感解釋<br />- 上堂跟notes教，ppt只係輔助<br />- Notes圖文並茂，解釋詳盡<br />(-)<br />- 教學速度比較慢，搞到要上tutorial補課 (注意: tutorial係兩個鐘)<br />- Notes比較多bug，通常錯算式、數字，難自行del bug<br />(?)<br />- 成日吹氣球，每講幾分鐘就攞個氣球出嚟吹<br /><br />K.M. Lam:<br />(+)<br />- 港大visiting professor，教學經驗豐富<br />- Tutorial果時會講好多examples<br />- Notes非常清晰，多圖少bug<br />(-)<br />- 雖然有notes ，但係好多時候照著ppt讀<br />- 用mouse ink mark寫嘢幾乎睇唔到<br />- 因為內容實在太多，每個topic教得好表面，蜻蜓點水<br /><br />總結: Moez第一次教 2510，上堂生動有趣算唔錯，加上同班TA一齊整教材，performance有A/A-。KM Lam上堂比較悶但總算用資深教學內容補救，performance有B-。總括而言teaching above mean，故得B。",
+      "comment_grading": "- Lab 1: hydraulic jump<br />- Lab 2: flow rate measurements (weir)<br />- Lab 3: venturi meter<br />- Test 1: Ch1-2<br />- Test 2: Ch3-7<br />- Mid-term: Ch1-3<br />- Final: Ch1-Ch8 (all)<br /><br />應該係normal grading，mean=C+<br /><br />Test會有concept 短答同出返problem set相似題目，基本上背notes及記得點樣solve就得。<br /><br />Mid-term個半鐘三題，比較上要計多啲嘢同埋用separable ode揾streamline (係難嘅)<br /><br />Final三個鐘超多題，有comparsion嘅題目，i.e. measure flow rate, dam design。唔似其他，2510唔係「考之前兩三日睇下lecture notes」就得。",
+      "comment_workload": "極大，要做lab之外仲要兩個鐘tutorial，都係得3 cred。內容方面，好多concepts都係全新，尤其是fluid kinematics嘅continuity, control volume，仲有ideal flow唔同嘅flow field and their interactions。技術方面，數學技術要用MATH 2011嘅gradient (partial derivative), divergence，MATH 2350嘅matrix (少少)同solve ode。相比其他CIVL course，要求極高。",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "3gaOUyxoV9aFIJ9LZKpYA4CQnW25pVYu",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 840,
+          "name": "GHIDAOUI, Mohamed Salah Ben Habib",
+          "rating": 1
+        }
+      ],
+      "author": "vera",
+      "date": "Sep 05, 2017",
+      "title": "玄學",
+      "comment_content": "谜一样的notes，谜一样的内容，谜一样的prof，给谜一样的grade，组成了谜一样的一节课。",
+      "comment_teaching": "神一样的prof。第一节课就领了一个奇怪的美国教授，说他朋友要来教前一个月哈哈哈哈哈，很神奇",
+      "comment_grading": "给grade好，但是你永远不知道你能拿多少分，明明空了大题还能上80哈哈哈哈哈哈神奇的一比",
+      "comment_workload": "巨大， moha每周都要把2小时的tuto上成lec。有的时候他觉得大家没事还会把2小时的tuto上成3小时。作业不用着急做，他会在tuto讲而且可以问ta。study break也不要想出去玩，他会加课哈哈哈哈，4小时起的课哈哈哈哈。总之就是civil必修课也不能不上，但是真的是玄学。",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 12,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "bbujVSOXKeYRQtS2N9KaQLkexgVfkeak",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 840,
+          "name": "GHIDAOUI, Mohamed Salah Ben Habib",
+          "rating": 1
+        }
+      ],
+      "author": "我是學霸ak",
+      "date": "Aug 29, 2017",
+      "title": "The hardest course ever",
+      "comment_content": "The first few weeks are relatively easy, which are about hydrostatic pressure, defining control volume. However, after mid-term, the most horrible parts come with a lot of integrals and theorems. I don&#039;t understand most of them but mass, momentum, and energy conservation are the 3 most utterly important that you should know how to use it. Just use them in your exam.",
+      "comment_teaching": "There is not much problem with the professor teaching. But there was once when Mohamed asked if anyone could follow, it seems no one can understand as the teaching pace was too fast.He then repeated those again.",
+      "comment_grading": "The Grade is quite lenient.<br />Homework: 88.6% (0.15)<br />Lab: 88% (0.15)<br />Mid term: 62% (0.25)<br />Final: 95% (0.45)<br />Overall: 84.74%<br />Final Grade: A+",
+      "comment_workload": "One homework per week. The tutorial is the key to your homework as Professor will teach you about it. Just copy what he has written on the board and get full marks of it.<br />The mid-term is hard but the final is easy.<br />All exams are open book. Bring all your notes for the equations.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "07zCzxfzlyWt9QGINtLmDkXbRMr1dpXx",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 840,
+          "name": "GHIDAOUI, Mohamed Salah Ben Habib",
+          "rating": 1
+        }
+      ],
+      "author": "kin00",
+      "date": "Aug 05, 2017",
+      "title": "",
+      "comment_content": "Material quite difficult<br />need a lot of effort to understand<br />related to dynamic<br />need calculation",
+      "comment_teaching": "Mohamed show effort to teach but prof gray is using his own &quot;language&quot; to teach, which I don&#039;t get it. As a matter of fact, the material is hard so I&#039;m not 100% understand before exam.",
+      "comment_grading": "The worst I have even seen.<br />mean = C<br />Paid most of the time to study for it but return the least<br />maybe the civil students in ust are too crazy...... = =",
+      "comment_workload": "mid-term + final + assignment per 2 lectures/ after each topic + lab(attendance)",
+      "rating_content": 2,
+      "rating_teaching": 3,
+      "rating_grading": 2,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "qrZe3tFXMmU0dY2WKAuOgGUc1uEkkpew",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 840,
+          "name": "GHIDAOUI, Mohamed Salah Ben Habib",
+          "rating": 1
+        }
+      ],
+      "author": "CIVIL傻子",
+      "date": "May 25, 2017",
+      "title": "",
+      "comment_content": "關於fluid mechanics <br />前半主要係hydrostatic pressure&nbsp;&nbsp;derivative等等<br />後半就 包括mass energy momentum conservation<br />turbulence laminar vorticity等概念",
+      "comment_teaching": "前半 mohamed請左遠道而來的professor Gray<br />相當有心教書的人 但冇人知教緊d咩 <br />仲一堂抽20人黎問書<br />在name list中的人好難避過一劫<br />10個得2個答到d問題<br /><br />後半由mohamed教返<br />一個用心教嘅好老師 同前半差得遠<br />十分nice <br />睇得出mohamed有心教學生<br />亦盡量安排makeup lesson同埋video<br />幫助同學掌握要點<br />令同學知道自己學緊d咩",
+      "comment_grading": "Grading&nbsp;&nbsp;‐ 2017<br /><br />1. Assignments (~10 in the semester):&nbsp;&nbsp;15%<br />2. Labs (3): 15%&nbsp;&nbsp;<br />3. Midterm: 25%<br /> 4. Final: 45%",
+      "comment_workload": "基本上所有lab同hw<br />全部有source workload唔大<br />而lab同hw 的mean約85-90%",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Z9xWlE5GKQw8uux3mefxrTQYHPjd7Kzj",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 840,
+          "name": "GHIDAOUI, Mohamed Salah Ben Habib",
+          "rating": 1
+        },
+        {
+          "id": 841,
+          "name": "WANG, Zhaoyin",
+          "rating": 1
+        }
+      ],
+      "author": "龍井",
+      "date": "Nov 18, 2016",
+      "title": "Fluid Mechanics",
+      "comment_content": "關於基本fluid mechanics 但因進度上所以只教到1,2,3,7,8,10課， 4,5個d之後soil mechanics有用 建議summer有time自讀一下",
+      "comment_teaching": "mohamed係難得一見識好多嘢又好用心教嘅好老師<br />超nice超好人 但會話下d嘈ge人 所以唔好傾太大聲阻住人<br />可能佢教幾堂only 如果fyp有得搵佢就好lu<br />之後個位 都教得好ge 如果你對比下之後個sem....",
+      "comment_grading": "一般啦 不過始終是open book都唔會太差",
+      "comment_workload": "功課唔係大問題 有source嘅話會識做 mohamed會話下囉 但應該無事ge",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 7,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "LYIACnE34q1GDwPl67BPkfK4huGFGBnT",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 89,
+          "name": "KIKKERT, Gustaaf Adriaan",
+          "rating": 1
+        }
+      ],
+      "author": "CIVIL小薯 ._.",
+      "date": "Aug 24, 2015",
+      "title": "",
+      "comment_content": "十分難的一科，主要係關於水，空氣ge friction， energy lost etc。",
+      "comment_teaching": "Prof係荷蘭人，英文標準，不必怕聽唔明白。prof十分用心教書，但是速度較快，一不留心就會錯過好多內容。tutorial section是由prof上堂，都係教同學做部分homework的題目。<br /><br />TA負責LAB section，大多HEA。只有一位係十分認真。仲記得有位TA如果阻礙佢玩手機會被他罵。",
+      "comment_grading": "Course grading:<br /><br />Homework: 15%<br />Lab: 15% @5% each<br />Midterm: 25%<br />Final: 45%<br /><br />好爛grade。這個course不但教的內容難，考試卷也十分難。就算明白教學的內容有時都會係做題目時錯得好厲害。另外冇得check卷，冇得check grade，做final嗰時要list d 野list得好清楚。<br /><br />筆者：<br />Homework: 100%<br />Lab: ~80%<br />Midterm: 36/50 (above 1sd)<br />Final: ?<br />Grade: B",
+      "comment_workload": "好多assignment， lab report一日要完成，十分chur，要讀的同學要有心理準備。",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 2,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "Q0zZe6ILt9YJjZGL2tld8hmFBJYc3NQJ",
+      "semester": "2013-14 Spring",
+      "instructors": [],
+      "author": "BAM",
+      "date": "Aug 07, 2015",
+      "title": "civil year 2中最難既course",
+      "comment_content": "作為一科研究fluid 既入門course,但係難度就好高。基本好多野都會係新接觸，你會見到新equation 同theory(Bernoulli&#039;s principle)，由於太多所以教得好快，一堂prove 6-7條式係常見既事。NOTES幾乎都要手抄，係lmes果份少好多野，完整要上堂自己抄佢個份。tutorial 都係prof教，而且教得好少題，通同理解比較靠上堂。",
+      "comment_teaching": "佢教書係幾好,幾吸引，平易近人。鬼佬黎 講野好正好清晰,只係有時教得幾快。pdf 既字可能會細 坐太後難睇清d細字",
+      "comment_grading": "一般mechanic course 都唔好grade<br />mean c+ 或低少少",
+      "comment_workload": "7份assignment 難度都高<br />3個LAB玩水 就易做不過report第日就要即刻交<br />MIDTERM易 FINAL好難<br />我記得midterm mean 26-29(?)/50<br />final無得睇",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

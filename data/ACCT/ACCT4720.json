@@ -1,0 +1,227 @@
+{
+  "course": {
+    "id": 3377,
+    "subject": "ACCT",
+    "code": "4720",
+    "name": "Equity Investment with Machine Learning",
+    "description": "This course is designed for students interesting in the investment management business, especially for those who aspire to learn the application of quantitative and machine learning technology in equity investing. The course will cover a wide range of topics in equity investing, including quantitative investment process, multi-factor stock-selection models, portfolio construction methods, performance evaluation, and an introduction of applications of AI/machine learning technology in equity investing. This is a very hands-on course. Students will be required to conduct quantitative and machine learning analyses using Python. Prior knowledge in capital markets and python programing is required. For students in their third year of study and above.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230,
+      2130,
+      2030
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ACCT\" data-code=\"2010\" href=\"/review/ACCT2010\" target=\"_blank\">ACCT 2010</a> AND <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3400\" href=\"/review/ISOM3400\" target=\"_blank\">ISOM 3400</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 1.8,
+    "rating_teaching": 1,
+    "rating_grading": 1.8,
+    "rating_workload": 1,
+    "review_count": 5,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 13,
+        "name": "YOU, Haifeng",
+        "count": 5
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "bSzA6oQGqPZ8bOH6dfcjyKypWTVnvQYC",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 13,
+          "name": "YOU, Haifeng",
+          "rating": 1
+        }
+      ],
+      "author": "清香檸檬",
+      "date": "May 31, 2022",
+      "title": "A Course That Should NOT Have Existed. Just Stay Away From This Course.",
+      "comment_content": "The content is mainly about Equity Investment and Machine Learning. However, I believe that you can learn nearly nothing about machine learning from this course. Professor only throw some academic papers and codes he wrote to you with almost no explanation.",
+      "comment_teaching": "I can&#039;t find anything good about his teaching. A student without any background in machine learning will simply learn nothing. prepare your google search engine beforehand. Anyway, just speak up and bullshit in class. Understanding of course materials and efforts paid in assignments/project mean almost nothing to your grade. Machine learning learned in this class will not gain you a good grade. See GRADING section.",
+      "comment_grading": "The grading is unfair.<br /><br />The stated grading scheme is as follows:<br />15% class participation and presentations<br />40% homework assignments<br />40% project (he added 5% bonus for codes submission later)<br />5% peer evaluation<br /><br />Basically, everyone will get full mark for homework given that you submit them on time. For projects, there is insufficient guidance and everyone group is just doing something random. <br /><br />For the class participation,<br />*** IT IS EXTREMELY IMPORTANT ***<br />*** IT IS EXTREMELY IMPORTANT ***<br />*** IT IS EXTREMELY IMPORTANT ***<br /><br />Almost the whole grading is based on class participation, i.e. in-class discussions. You have to active and always bullshit with the professor in order to get an A. Don&#039;t think that it is just 15%. The variation can be as much as 3 mark and 15 mark. The variation of this part almost contribute to the total variance, meaning that you will receive a shit grade even you do good in the project if you don&#039;t participate in class.<br /><br />Also, don&#039;t be faked by the high score contribution of assignments which everyone gets full mark. A total score of ~85% is still C-range. Professor will only give at most 60% students B- or above. Given that this is a small class (e.g., 15). It is very easy to fall in C range.",
+      "comment_workload": "17 assignments<br />final project with no upper limit on pages<br />class participation that is EXTREMELY important for grading<br /><br />I guess I don&#039;t have to say anything more.",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 7,
+      "vote_count": 7,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "NMPmn1cK8CMkuuOOe0TMV3L0pt7718NK",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 13,
+          "name": "YOU, Haifeng",
+          "rating": 0
+        }
+      ],
+      "author": "Luweegee",
+      "date": "May 30, 2022",
+      "title": "ACCT4720? More like SHIT4720 🤬🤬",
+      "comment_content": "“My disappointment is immeasurable, and my semester is ruined.”<br /> <br />This sentence perfectly sums up my experience with this course. The course description sounds good on paper, but the execution is so god-awful terrible that it gives me crippling depression. <br /><br /><br />📃 Syllabus<br />The 1st half is about “equity investment” while 2nd half is about “machine learning”:<br />• Fama &amp; French model, Factor investing, Multifactor models, Smart beta, Factor evaluation, Value &amp; Profitability, Momentum, Investor recognition, Portfolio construction methods<br />• Linear ML models, Overfitting, Logistic regression &amp; ANN, Decision tree, Random Forest &amp; Boosting, Support Vector Machine<br /><br /><br />💹 1st Half – Equity Investment<br />This part is like a FINA 3000-level course but only 10x worse. Most of the stuff are impractical, and you still don’t know how to properly invest in real-life. You’ll learn a lot of theories (e.g., Fama &amp; French model, Smart Beta) but they don’t teach you how to apply those theories with machine learning 😒<br /><br />Also, the professor did NOT teach the majority of the financial knowledge with his own words during lecture! Instead, we need to read academic journals during assignments to learn the new abstract concepts (more in the “Teaching” section). Thus, I don’t know what the fuck is happening most of time.<br /><br /><br />🤖 2nd Half – Machine Learning <br />Professor mainly teaches the mathematics behind the ML models, and it often involves multivariable calculus. The level of technicality is similar to what you find from a COMP/MATH course, which I doubt is suitable for business school students.<br /><br />While he was teaching different ML models, he did NOT show how those models can be used to apply the financial knowledge we learned from the 1st half. The two halves are so segregated that it feels like I was studying two different courses.",
+      "comment_teaching": "This course’s teaching quality is undoubtedly the WORST that I’ve experienced in 4 years of my university life. The teaching team shows minimum effort, passion, and care.<br /><br />👎 Counter-intuitive Teaching Style<br />Instead of teaching new financial concepts during lectures with his own words, the professor released assignments where we need to self-learn completely new concepts from reading extremely technical academic papers. Then in lesson time, he very briefly went through the academic paper without explaining the difficult concept in simpler terms nor adding any insights. This is such a pathetic attempt to save his effort of explaining abstract financial concepts to students.<br /><br /><br />👎 Indifference Towards Students<br />Professor simply does not give a FLYING FUCK about the students. Some students complained that the academic paper readings are too technical. His responses were “just skip the technical parts of the paper” and “you can ask my questions via email if you have any”. Somehow he thinks it’s perfectly OK for us to devote extra time to ask him questions privately, which could have been easily answered if he had explained the new concepts during lectures.<br /><br />Some also complained that the sample code in the coding assignments were confusing. He also indifferently replied “YOu CAn sKIp THE PARTs tHAT YOu DON’T UndeRSTanD”. Aren’t we supposed to learn from the sample code so that we can know how to apply ML on equity investment wtf?????<br /><br />His attitude was like it was our students’ fault if we’re struggling with the course materials since he thinks it’s our responsibility to find him if we have questions. In fact, he’s not fulfilling his responsibility of properly teaching and accommodating students with different backgrounds.<br /><br /><br />👎 Fake Prerequisites<br />The official prerequisites of ACCT2010 and ISOM3400 is FAKE!!!! The course materials require knowledge in 3000-level FINA courses, statistics, linear algebra, and basic partial differentiation. The professor also didn’t bother to do a revision on these hidden prerequisites to make sure that everyone is on the same page. That’s why everyone is struggling when trying to understand the academic papers when doing the assignments.<br /><br /><br />👎 No Feedback Whatsoever<br />The entire teaching team provides ZERO feedback to our coursework. For the assignments, the TAs give you full mark whenever you submit something. They never look at your work and never provide any feedback on whether your solutions are correct. For the final group project, they never released any marks or any comments regarding your work.",
+      "comment_grading": "• Participation &amp; Presentation – 15%<br />• Assignments – 40%<br />• Final Group Project – 40%<br />• Peer Evaluation – 5%<br /><br />⬛ Black Box Grading<br />The grading is even more black box than the deep learning models that was “taught” in class. Except for assignments (graded by effort so everyone gets full mark), the teaching team has NEVER released any scores, nor released any grading criteria regarding the final project whatsoever. All I get is a big fat “B” grade on my transcript.<br /><br /><br />📈 Statistics<br />Professor claimed that they are allowed to give &lt;25% A range and &lt;40% B range. However, there&#039;s only 15 students in my semester. That means ≤3 students got A range and ≤6 students got B range.<br /><br /><br />💀Hard Work Doesn’t Pay Off<br />This course perfectly exemplifies “hard work doesn’t always pay off”. For the assignments, literally everyone gets full mark if they submit something since the total mean is 254.9/255. It doesn’t matter if you wrote triple number of words than average in case study HWs nor you experimented new ML models in the coding HWs. You will get full marks at the end with ZERO feedback from the teaching team. Why bother work so hard in assignments when I can already get full marks by submitting half-assed work?<br /><br />Also, our group coded an entire stock prediction model using deep learning model in the final project, even though coding is not a requirement. Yes, it’s NOT required to submit code (though you earn bonus points) in the final project in this self-claimed mAchInE LeARnInG course. The teaching team provided no feedback on our performance other than the professor’s generic remark of “very good”. I don’t feel our group’s hard work is justified in any means, and I genuinely believe this course discourages students from working hard.",
+      "comment_workload": "TD; DR: Hellish workload that’s not “hands-on” at all.<br /><br />📝Assignments<br />There are 17 HWs in total. However, 13 of them are case reading assignments where each of them requires reading 20~30+ pages of academic journal papers. Those papers are very technical, and they are certainly NOT targeted to undergraduate students. Most of the time I don’t know what the fuck I am reading, and sometimes I even struggled to understand the introduction of the paper. These reading assignments purely exist to cause confusion, not for enlightenment.<br /><br />There are 5 HWs involving coding. However, most of the problems require you to copy and paste from code template and doing minor modification. Some parts of the sample code were poorly documented spaghetti code that throws runtime errors at your face when you try to run them.<br /><br />As you can see, the HWs are badly designed, time-wasting, and provides little value. Saying that “tHiS Is a vErY HaNdS-On cOuRsE” in the course description is a BLATANT LIE because in reality 75% of HWs requires you to read academic journals. Maybe I can sue HKUST for false advertising 😎<br /><br /><br />📝Final Project<br />We need to deliver a 15-minute presentation and a final report with no upper word/page limit. Since the teaching team didn’t make the requirements clear, finalizing your topic would definitely cost you some time. Since we have the freedom to do any topic, it’s much better than those brain-dead assignments.<br /><br /><br />📝No Exams<br />This course has no exams (thank God for that). Unfortunately, this is an illusion since it comes with the price of doing 17 shitty assignments instead. This fact alone crushed my any glimpse of hope for this course. This course is for you if you want to ditch exams, but I highly doubt whether HKUST will offer this course again given how poorly we rated the SFQ surveys lol",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 7,
+      "vote_count": 7,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "8mjXr8gQHPyU9Wa3NOmD5JTYPZ61H7lt",
+          "name": "ACCT4720 Syllabus 2022",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "4Z6S4p8x9GpHXR65axgnaSDFNdqoB09u",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 13,
+          "name": "YOU, Haifeng",
+          "rating": 0
+        }
+      ],
+      "author": "『　　　』",
+      "date": "May 30, 2022",
+      "title": "You will never find any other course worse than this one",
+      "comment_content": "This course deserves an F in all aspects, it is totally a failure and a fxxking mess. I aware that this course is an elective for the newly established extended major in Artificial Intelligence, do not take this course for your own sake.<br /><br />Don&#039;t expect to learn anything in this course. <br />If you want to learn Machine Learning, take COMP 4211/MATH 4432 (or even IEDA course) instead, what is the meaning of running through all the common models without really going into the details? I understand not everyone has learnt those basic math needed for Machine learning so I don&#039;t expect to learn anything new in machine learning from this course, but I never thought that the second half of this course is similar to telling us to learn how to call libraries in Python by ourselves.<br />If you want to learn Investment stuff, FINA 3103 is far more detailed.<br /><br />If you want to get some insights in the research area on fundamental analysis/ application of machine learning in investment or whatever you expect from this course, you can save your time. It&#039;s like finding gold in shits in public toilets if you try to learn from this course.",
+      "comment_teaching": "His teaching skills show that he is an outlier in UST, in terms of shitty-ness. To be honest, I think the way he teaches insulted the term &quot;Machine Learning&quot;.<br /><br />He is definitely not prepared for lectures. TAs are not helpful. <br /><br />His sample code for &quot;Portfolio analysis&quot; has a bug that he didn&#039;t even try to change for the whole semester, and we have to use it again, again and again in all coding assignments.",
+      "comment_grading": "The grade should be mainly based on the final report and presentation. Be aware that &quot;Machine Learning&quot; and other quantitative skills are useless in this course, students who didn&#039;t train any ML models in their final report and bullshit more during lectures gain higher grades than those who really focus on ML stuffs.<br /><br />***If you have already taken FINA 3103 or any equivalent investment course + ML course provided by COMP/MATH, stay away from this course. Not only will you learn nothing, but you will have a shitty grade***<br /><br />A range performance in FINA courses and **BASICALLY ALL** Stat courses offered by MATH = C range in this course, nice<br /><br />What is the meaning of giving similar grades to those who really trained a sophisticated model for the project and those who don&#039;t even bother to understand the model they are using (e.g. those who think getting 40% of the variance explained in PCA is good enough as it saves CPU power etc) and just use it in the report?",
+      "comment_workload": "Almost one assignment for each lecture, reading tons of paper and &quot;fill in the blank&quot;-ish coding assignments. The workload is high af, but definitely, it&#039;s a waste of time.",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 7,
+      "vote_count": 7,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "KIqKSMXsmtl2XXkJ5tkxBUG6RWquCBqr",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 13,
+          "name": "YOU, Haifeng",
+          "rating": 0
+        }
+      ],
+      "author": "#001/BULBASAUR",
+      "date": "May 30, 2022",
+      "title": "This course simply should not exist.",
+      "comment_content": "ACCT4720 is the only course that I have taken in HKUST which I genuinely believe deserves a rating of &quot;E&quot; in all departments on USTSpace.<br /><br />For your reference, only 15 persons enrolled into ACCT4720 for 2021-22 Spring. Judging from the sheer number of negative USTSpace reviews you should have a general idea on how bad this course really is.<br /><br />The course in overall, is extremely poorly designed and executed. In fact, I should not even call this a &quot;course&quot;, but an incoherent pile of junk instead. It simply should not exist.<br /><br />Forget everything the course description said. There is no &quot;quantitative and machine learning technology&quot;. There is no &quot;portfolio construction methods&quot;. There is no &quot;performance evaluation&quot;. There is no &quot;hands-on experience&quot;. The entire course is simply a bunch of academic papers incoherently strapped together with duct tape.<br /><br />The course structure also serves to undermine, not facilitate, students&#039; understanding of machine learning approaches to investment. The first half of this course is about &quot;equity investment&quot;, where you can find what the professor &quot;teaches&quot; on Investopedia with significantly higher clarity. The second half of this course is about &quot;machine learning&quot;, which only teaches you objectively bad and unsuitable machine learnine algorithms to use for stock price prediction. Some examples being decision tree and linear regression, the really, really rudimentary stuff. Honestly if you want to learn about machine learning, you should go take COMP2211 instead of this literal crap.",
+      "comment_teaching": "Rather than &quot;teaching&quot;, the professor simply asked students to read academic papers on their own. These academic papers often expect their audience to have vast domain-specific knowledge that I seriously do not think an undergraduate student is well-equiped to understand. Yet, the professor provided no guidance before each assigned reading but, rather, required us to analyze the paper with no prior knowledge. The professor and the teaching team also provided little to no elaboration on each of our research paper analysis. Oftentimes, the professor simply went through the abstract and some topic sentences in the selected paper while avoiding the sections that truly confused students (like the statistical analyses of different stock return forecast models). When asked about these parts, the professor usually &quot;brushed it off&quot; by saying &quot;you only need to know the general idea behind the analysis&quot;, which demonstrates the professor&#039;s lack of passion and preparation for teaching this course.<br /><br />Apart from the research paper analysis assignments, there were also coding assignments in this course. However, rather than actually &quot;coding&quot; and encouraging students to experiment with different techniques in applying maching learning in equity investment, these assignments mostly just consisted of copying and pasting some code templates and making inconsequential changes. If a student attempted innovation in their coding assignment, their effort would be ignored as neither the professor nor the teaching team would provide any feedback what-so-ever. Furthermore, even if a student asked about the technicality of maching learning applications in equity investment during the lecture, the professor was simply unable to effectively clarify their confusion as what his response was simply either &quot;you can Google it&quot; or scrolling through some other code templates quickly while allowing very limited time for students to actaully interpret the code. Again, this illustrates the professor&#039;s lack of enthusiasm and effort in teaching this course.<br /><br />Some students, in fact, had already reflected the above concerns to the professor and asked if the professor could fine-tune the course structure. Yet, the professor turned down all these constructive criticism and made no adjustment to his teaching. He continued to, for example, refuse to release lecture notes before class (preventing students from preparing for the challenging lecture content even if they wanted to), assign unreasonably heavy workload to students (as in the 17 paper analysis / coding assignments throughout the semester), provided no feedback for students&#039; work (assignments were graded almost isntantly after they were due, whether the teaching team had actually read through the students&#039; work was questionable), etc. These, once again, shows the professor&#039;s lack of passion and prepraration for this course.",
+      "comment_grading": "I am afraid I cannot provide a comprehensive review on this course&#039;s grading given how opaque it is. However, the professor promised to give everyone good grades before the SFQ deadline. I wholeheartedly believe I deserve a grade higher than B+ given the unrivaled amount of effort I invested in this course.<br /><br />By &quot;unrivaled&quot; I really mean it. I consistently wrote at least double the amount of content than most other students in each reading assignment. For the final project, our group actually coded the entire stock performance prediction model (whereas it is not a requirement). I gave an objectively impressive presentation on a reading assignment which, in addition to repeating what the assigned reading had said, I also provided additional insights by even including my other machine learning projects in the presentation.<br /><br />If you are OK with writing at least 40,000 words in content for a &quot;course&quot; (which is more like a self-help MOOC in my honest opinion) in exchange for a mere B+, then by all means enroll in this course. Otherwise, please do not even bother.",
+      "comment_workload": "There were 17 assignments in total. It was not uncommon to have 2 reading assignments weekly, sometimes only allowing for 1 day to finish analyzing some 30+ pages of academic papers. While you are supposed to summarize each paper under some guiding questions (for your reference, I wrote 1,500 ~ 2,500 words for each assignment), I suspect the teaching team would not even bother checking if you have actually submitted your assignment or just a blank .docx file given their staggering lack of teaching effort.<br /><br />The coding assignments, on the other hand, were actually quite easy considering their poor design. Most of the time they only required you to copy and paste some codes from a given code template.<br /><br />For the final project (written report + presentation), there was no guideline nor scope whatsoever. You can literally do whatever you want though I doubt that would make any differences. The professor released the final grade without announcing the scores for the projects nor feedback for it.<br /><br />There were also &quot;voluntary presentation opportunities&quot; for students to participate in. Students would deliver a presentation on a reading assignment which is arguably better than the professor&#039;s &quot;explanation&quot; on the assigned readings.",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 11,
+      "vote_count": 11,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "zblUec204C7jy7mQPRzQ0s1VON2Fu0zs",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 13,
+          "name": "YOU, Haifeng",
+          "rating": 1
+        }
+      ],
+      "author": "NOOB_IN_UST",
+      "date": "Apr 27, 2022",
+      "title": "Outstanding course! Must apply exemption to enroll this course! (if you want to test your mental limit and commit seppuku)",
+      "comment_content": "As first, we have 25 students, after the add drop period, we have 15 students left, and I strongly suspect that I am the only student from accounting major who study it for the HKICPA exemption &quot;HKICPA QP Path plus Accounting Analytics (&quot;AA&quot;) Option&quot; (You need both ACCT4610 and ACCT4720). Many accounting students just give up very soon and drop the course.<br /><br />I only have one major ACCT, which is SBM force me to study because I don&#039;t cheat and purchase past papers thus have terrible GPA (2.13 when appying Major selection exercise) when almost everyone else is cheating and practice past papers. Based on my observation, my classmates are all extremely intelligent from QFIN GBUS FINA CS ECOF MATH(SF)... And they already have some skills knowledge and experience in Machine learning, NLP, Time series Analysis, Data base management,&nbsp;&nbsp;Date mining, Econometrics ,Multivariable Calculus, Matrix, Actuarial, C, R, Java...<br /><br />But it is okay, everyone is equal before professor You. No matter how good your background is, you still need to work extremely hard to read his essay and the code. I only have a B in ISOM3400, turns out that is okay (if you are willing to spend at least 20 hours for this course to read essay and complete coding exercise per week).<br /><br />****Applying SEN accommodation for this course will not help you anyway as professor You is unwilling to make any compromise*****<br /><br />Enough bullshit let&#039;s talk about the content, you can learn many things from this course, such as&nbsp;&nbsp;Fama and French X -factor model (You will find it in almost every essay), M-score model, OLS, LASSO, Ridge Regression, Decision Tree, ANN, SVC ...<br />You will have many coding assignments to practice them.<br /><br />Each week we have 2 lecture and no tutorial.<br /><br />Contents are great for noob in machine learning but very boring for others.<br />Details can be seen in the syllabus.<br /><br />Overall, I will say this is a good course. If you are willing to work extremely hard and spend many hours per week on this course, you can learn a lot.<br /><br />His motto: <br />Everyone including me and you will create trash models (in the view of statistics), but the key is to make it useful in investment.",
+      "comment_teaching": "Very Very Very... great!!!!!<br />His English proficiency is similar to mine.<br />I strongly recommend he apply for PGDE to improve his teaching skills. <br />Outstanding explanation skills.<br />When I told him that we don&#039;t fucking understand his maths workings, he said:<br />1. I believe that my explanation is clear, if you don&#039;t understand, please ask me immediately.<br />2. Even if you still don&#039;t understand, it is okay because there is no exam so I won&#039;t require you to understand.<br /><br />When I told him that I don&#039;t fucking understand the essay, he said:<br />1. Why the fuck you don&#039;t know about Econometrics, Multivariable Calculus, Matrix, Time-series Analysis...<br />2. I don&#039;t expect you can understand the essay (but if you don&#039;t understand how can you finish the assignment?)<br />3. My code is very simple and easy to understand, even though I add comments to every line you can still don&#039;t understand.<br /><br />When I told him to purchase more teaching materials which are easy to read and still able to learn a lot, he rejected.<br /><br />In the PGDE, students (or potential teachers) are required to learn how to write teaching plans and how to prepare to teach. If that happened, he can explain knowledge to students in a better method. Such as in the assignment &quot;The Case of the Unidentified Equity Managers&quot;, he should read the material and try to explain how he would analyse different investment styles in data like turnover rate and AUM. Instead, he made up a quick explanation in class which did not make any sense.",
+      "comment_grading": "Class participation &amp; presentations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15% <br />You just need to read the essay and present it<br />(#Update: I thought that was easy to get, but turns out that is not. I got high marks here just because I was a noob in everything, thus I kept asking the professor in the class, which lead to a good impression. This participation mark is extremely biased.)<br /><br />Assignments *17 (each one is 5 marks)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40% <br />If you submit it on time, you will get full marks without any checking. I don&#039;t think he has opened the pdf /HTML files to check our works.<br /><br />Final Group Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40% <br />Even though you don&#039;t do any coding, you can still get a good mark, back-testing is just an extra 5% bonus.<br /><br />Peer Evaluation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5%<br /><br /><br />Update on 31052022:<br />My final grade was A.<br />Professor You were using a curve in a 15 students course.<br />He said, &quot;I can only give at most 25% A and 40% B&quot;.<br />Based on what I heard, most of my classmates got a B or C.<br />Here is one crazy example:<br />One of my friends got 83 out of 105, which ranked 14th out of 15 students in the class. He got C+ simply because of little interactions with professor You in the lecture.<br /><br />Turns out the cookbook to get an A is to keep asking questions in the class.",
+      "comment_workload": "Very Very Very ...low!!!!!<br />Just one assignment for each lesson.<br />We have to read essays and answer questions.<br />For the coding exercise, just copy his sample code and data set and use his functions to analyse.<br /><br />The final project is up to everyone.<br /><br />I started my work in late March. I spent one month including my whole easter holiday deciding what data I need and how to mine it. After that, I spent another week on data manipulation and preprocessing. The final presentation and machine learning backtesting cost me one more week.<br /><br />Overall, on average I spend 20 hours per week on this course. Definitely worth your time for your personal growth. HAHA<br /><br />Anyone who wants to try ACCT4720, feel free to buy my source for $1,500. HAHAHA",
+      "rating_content": 5,
+      "rating_teaching": 1,
+      "rating_grading": 5,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 7,
+      "vote_count": 10,
+      "comment_count": 4,
+      "attachments": [
+        {
+          "key": "xM66QdIoTZUCazA9d7KeW8cV666SLRt2",
+          "name": "ACCT4720 Syllabus 2022 updated 20220228",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

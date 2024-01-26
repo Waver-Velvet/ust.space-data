@@ -1,0 +1,111 @@
+{
+  "course": {
+    "id": 1544,
+    "subject": "HART",
+    "code": "1042",
+    "name": "Ink and Color - Experiencing Chinese Painting",
+    "description": "This Chinese Painting course is intended for non-Chinese speaking students who have limited experience in Chinese painting, language and culture. In this introductory course, students will start with an understanding of ink, pigments, paper and brushes, and also the proper gesture for painting. Important Chinese artists and their masterpieces will then be introduced so that the students can learn to appreciate Chinese paintings and the history and culture behind. Students will learn how to draw flowers and animals and compose different objects into a painting in this studio art course.",
+    "categories": [
+      "Common Core (Arts)"
+    ],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      1730,
+      1630
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"HART\" data-code=\"1013\" href=\"/review/HART1013\" target=\"_blank\">HART 1013</a>, <a class=\"course-link\" data-subject=\"HART\" data-code=\"1030\" href=\"/review/HART1030\" target=\"_blank\">HART 1030</a>, Level 2 or above in HKDSE Chinese, Score 100 or above in JEE Chinese",
+    "rating_content": 3.5,
+    "rating_teaching": 4,
+    "rating_grading": 3.5,
+    "rating_workload": 3.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 282,
+        "name": "CHAN, Yung",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "Bj49ZMtaI6ORbUDpJzjhpNO9ZIIKykIN",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 282,
+          "name": "CHAN, Yung",
+          "rating": 1
+        }
+      ],
+      "author": "ZOEwry",
+      "date": "Sep 03, 2018",
+      "title": "GOOD TEACHING",
+      "comment_content": "Basically covers all subjects in Chinese painting. Like panda, flower, bird, duck, crab...",
+      "comment_teaching": "Mr. CHAN is great. He taught really patiently. I literally found my own way to draw, though. He&#039;s experienced. His father is a painter, too.",
+      "comment_grading": "Grading is fair. I got high score in essay, but as I mentioned, I didn&#039;t really follow what he taught, so...",
+      "comment_workload": "Workload is OK for me. There&#039;s plenty much weighing on the in-class paintings and they are easy to be finished. The final assessment is like drawing what you have been taught in class.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "G2uUv6hU9r5bAbQiPLZQhpVIKj7UIqCC",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 282,
+          "name": "CHAN, Yung",
+          "rating": 0
+        }
+      ],
+      "author": "仁和",
+      "date": "May 30, 2018",
+      "title": "super bad grade",
+      "comment_content": "Teach you how to draw plants and animals",
+      "comment_teaching": "I don&#039;t think you can learn Chinese painting well by this course <br />and you need a lot practice (which you don&#039;t have time )",
+      "comment_grading": "40% final (draw an animal and an plant)<br />15% exhibition review <br />5% attendance<br />30% 5 homework<br />I&#039;m good at painting(though not Chinese traditional painting)<br />I think my works are good, at least ok from my aesthetics aspect <br />But I can&#039;t understand why I got a B ???<br />Maybe the foreigners are more passionate so the professor like them more?",
+      "comment_workload": "Have to practice every week after class <br />And you have to hand in homework of a specific size <br />You may need to draw again for homework<br />really heavy work load if you want to get a good grade and don&#039;t have experience in this area",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

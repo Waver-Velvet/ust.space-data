@@ -1,0 +1,157 @@
+{
+  "course": {
+    "id": 1536,
+    "subject": "FINA",
+    "code": "4103",
+    "name": "Financial Markets Trading and Structure",
+    "description": "This course examines liquidity, market structure and trading. The focus is on examining the efficiency of trading systems and markets, the impact of new algorithmic trading on markets, the role of intermediaries and regulatory actions on market structure issues. Students learn about a number of alternative market structures in terms of their economic and operational effectiveness.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      1830,
+      1730,
+      1630
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"3103\" href=\"/review/FINA3103\" target=\"_blank\">FINA 3103</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3.67,
+    "rating_teaching": 3.33,
+    "rating_grading": 4.67,
+    "rating_workload": 4.67,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1025,
+        "name": "LIU, Binying",
+        "count": 2
+      },
+      {
+        "id": 1586,
+        "name": "AOYAGI, Jun",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "DblccBV5Lh8160TeKac7bRMOu5YKVlE7",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1586,
+          "name": "AOYAGI, Jun",
+          "rating": 1
+        }
+      ],
+      "author": "ckf05",
+      "date": "Dec 23, 2023",
+      "title": "",
+      "comment_content": "I think the content of the course has been adjusted over the years - NO CODING. <br /><br />This course covers topics that would be useful for traders to understand the structure of a market (but mostly theoratical discussion with many assumptions):<br /><br />1. Trading Mechanism and Market Structure<br />2. Information Theory<br />3. Model of Price Dynamics <br />&nbsp;&nbsp;&nbsp;&nbsp;- The Roll Model of Prices<br />4. Information in Financial Market <br />&nbsp;&nbsp;&nbsp;&nbsp;- Glosten-Milgrom Model<br />&nbsp;&nbsp;&nbsp;&nbsp;- Stoll Model of inventory cost<br />5. Measuring and Estimating Liquidity<br />&nbsp;&nbsp;&nbsp;&nbsp;- Kyle Model <br />6. Regulation and Policy Issues<br />7. High-Frequency Trading<br /><br />I think the most diffcult part about this course is that the content is niche. It&#039;s very hard for me to find learning resources online even if i want to self-study (e.g. you can easily find CAPM online, but not the glosten-milgrom model). So this course relies heavily on your understanding during the class. I don&#039;t find this course easy to be honest.",
+      "comment_teaching": "I think Prof. Jun is very knowledgable in the field of finance, but he&#039;s not the best when it comes to teaching. His delivery is kinda monotone, and I always fall asleep in class, even though I don&#039;t mean to.<br /><br />In addition, sometimes i find it hard to listen to him due to his pronounciation/ accent (especially when i sit at the back of the classroom)",
+      "comment_grading": "The grading is not bad. <br /><br />I got C even though I score among the lowest in final exam and all my assignments got below mean (midterm above mean though)",
+      "comment_workload": "Very light workload. Only 3 assignments (all MCQ). But I guess it would be very diffcult for those who skip class/ don&#039;t understand the lecture content.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "amDjbxKI5bFz0KpzrjxV4miMUdkBftGa",
+          "name": "FINA 4103 Syllabus Fall 2023 Aoyagi",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "5Q6Ffi1zO0WvRJlbQy6i5w1K5JhfcaZ1",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 1025,
+          "name": "LIU, Binying",
+          "rating": 1
+        }
+      ],
+      "author": "nowonder",
+      "date": "Jun 10, 2019",
+      "title": "",
+      "comment_content": "The content is extremely easy. The course covers almost everything you need to know to become a trader! However, the content itself is not deep enough. So if you are planning to become a trader, further self-study is a must!",
+      "comment_teaching": "Teaching is acceptable. However, the lecture notes are just disaster. <br />There are many typos within the lecture slides and the professor only corrects those mistakes during lecture time. P.S There are even wrong solutions for both the mock midterm exam and final exam! My advice to the warriors that are planning to take this course is &quot;Don&#039;t believe what you see and hear whether it is on the lecture slides or directly coming out from professor&#039;s mouth&quot;. Professor himself is a typo.",
+      "comment_grading": "The grading is the only satisfactory part of this course! <br />22% A <br />60% B<br />18% C <br />In the end, he gave me A-! So Professor typo is still recommended if you are looking for gpa boost.",
+      "comment_workload": "Extremely light! only 3 assignments throughout the semester!",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "V4heM867fEDwnKliBMjbsKL41lZ9nxVG",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 1025,
+          "name": "LIU, Binying",
+          "rating": 1
+        }
+      ],
+      "author": "Roddie",
+      "date": "Jun 11, 2018",
+      "title": "",
+      "comment_content": "Briefly about some basic mathematical introduction such as linear regression, some basic elucidation of the mathematical formula. Then talk about the actual trading, some trading strategies, transaction cost so on and so forth.",
+      "comment_teaching": "Prof.Liu comes to class seemingly unprepared but able to illustrate the rationale behind the formula and also the deeper interpretation of the formula. Quite difficult to follow up since he talks mathematically and statistically.",
+      "comment_grading": "VERY GOOD.<br />(30%) Three assignments: Mean is 90-ish<br />(35%) Group Project: Mean is around 85<br />(30%) Midterm: Mean is around 88<br />(5%) Participation: everyone gets full mark as long as you chat with others during classes<br /><br />For me, full mark in three assignment, 94 in midterm and 93 in group project gives me an A+.",
+      "comment_workload": "To some extent, the workload is quite heavy. IF NO ONE IN YOUR GROUP KNOW HOW TO CODE. Our group spent quite a lot of time pre-processing the data and post-processing the result since our coding skill is so-so.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

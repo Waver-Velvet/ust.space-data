@@ -1,0 +1,542 @@
+{
+  "course": {
+    "id": 144,
+    "subject": "CIVL",
+    "code": "2170",
+    "name": "Infrastructure Systems Engineering and Management",
+    "description": "This course will cover basic principles and techniques for analyzing engineering systems. It will entail an introduction to linear programs, network analysis, critical path method, benefit-cost and present value analyses of engineering projects.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030,
+      1930,
+      1830,
+      1730,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2350\" href=\"/review/MATH2350\" target=\"_blank\">MATH 2350</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"IEDA\" data-code=\"3010\" href=\"/review/IEDA3010\" target=\"_blank\">IEDA 3010</a>",
+    "rating_content": 3.92,
+    "rating_teaching": 2.92,
+    "rating_grading": 4.83,
+    "rating_workload": 4.17,
+    "review_count": 12,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 73,
+        "name": "ZHANG, Xueqing",
+        "count": 8
+      },
+      {
+        "id": 88,
+        "name": "YANG, Hai",
+        "count": 8
+      },
+      {
+        "id": 1273,
+        "name": "JIAN, Sisi",
+        "count": 3
+      },
+      {
+        "id": 90,
+        "name": "CHENG, Jack Chin Pang",
+        "count": 2
+      },
+      {
+        "id": 1573,
+        "name": "YU, Yantao",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "KlkLH4dRXJsM2lhK3n9DJSEgx6ksLEvq",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1273,
+          "name": "JIAN, Sisi",
+          "rating": 1
+        },
+        {
+          "id": 1573,
+          "name": "YU, Yantao",
+          "rating": 1
+        }
+      ],
+      "author": "Watermelon",
+      "date": "Jun 06, 2022",
+      "title": "",
+      "comment_content": "Chapter 1: Introduction to Systems Engineering and Management<br />Chapter 2: Introduction to Linear Programs<br />Chapter 3: Properties of Linear Programs<br />Chapter 4: Solving Linear Programs: <br />- Part 1: Simplex Method<br />- Part 2: Simplex Method with Tableau Form<br />Chapter 5: Simplex-Based Sensitivity Analysis<br />Chapter 6: Introduction to Network and Transportation Problem<br />Chapter 7: Formulating and Solving Network Flow Problems<br />Chapter 8: Civil Engineering Applications<br />///<br />Chapter 9: Project Planning, Work Breakdown Structure, and Work Sequence<br />Chapter 10: Project Scheduling Using Critical Path Method (CPM)<br />Chapter 11: PERT Networks<br />Chapter 12: Linear Construction Operations and Line of Balance<br />Chapter 13: Time Value of Money<br />Chapter 14: Financial Comparison and Economic Analysis of Engineering Systems Using Present Worth Analysis<br />Chapter 15: Payback Period<br />Chapter 16: Financial Comparison and Economic Analysis of Engineering Systems Using Rate of Return Analysis<br />Chapter 17: Risk and Uncertainty Analysis",
+      "comment_teaching": "上唔上堂都應該冇咩大分別，不過都教得唔差<br /><br />有PPT已經夠溫書，tutorial上完等於冇上，可以唔使晒時間",
+      "comment_grading": "Part 1 (50%):<br />- Assignments: 15%<br />- Midterm: 35%<br /><br />Part 2 (50%):<br />- Assignments: 15%<br />- Final: 35%<br /><br />/<br /><br />Part 1:<br />- Assignments: 14.3 / 15 (mean:12.84)<br />- Midterm: 35 / 35 (mean: 22.3)<br /><br />Part 2:<br />- Assignments: 14.1 / 15 (mean: 12.87)<br />- Final: (unknown)<br /><br />Overall: A",
+      "comment_workload": "Assignment (15%) 分3-4份功課，唔係好多題目，亦唔係太難，大家都應該可以應付得到<br /><br />個人認為 Midterm exam 內容比較容易，如果有需要，可以放多少少溫好佢，攞多啲分。Final exam 會有多啲嘢要記。",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Sla5Sk2730H6Sg72vtZrs3sff5z9s3BO",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 88,
+          "name": "YANG, Hai",
+          "rating": 1
+        },
+        {
+          "id": 73,
+          "name": "ZHANG, Xueqing",
+          "rating": 0
+        }
+      ],
+      "author": "準雷",
+      "date": "Jun 08, 2021",
+      "title": "好grade又唔難既non-mechanical CIVL course",
+      "comment_content": "此course分為2部分<br /><br />Part I 係同Linear Programming有關<br />由Prof. YANG教<br />1. Introduction to systems engineering and management<br />2. Introduction to linear programs<br />3. Properties of linear programs<br />4. Solving linear programs<br />5. Sensitivity analysis<br />6. Introduction to networks<br />7. Formulating and solving network problems<br />8. Engineering applications &amp; course review<br />----------------Midterm Exam------------------<br /><br />Part II 係同Business有關<br />由Prof. ZHANG教<br />1. Engineering, Business and Society<br />2. Business Manager’s Skill Set<br />3. Introduction to Financial Management<br />4. Business Profitability Analysis<br />5. Time Value of Money<br />6. Discounted Cash Flow Method<br />7. Project Funding<br />8. Project Cash Flow Analysis<br />------------Final Exam (Part II only)--------------",
+      "comment_teaching": "就Part I而言<br />Prof. YANG既英文有D難聽得入耳<br />上堂會抽人答問題<br />話會記低(但唔知影唔影響分數)<br />解說一般 自己Review可能仲易明<br />始終只係數學野<br /><br />就Part II而言<br />Prof. ZHANG既英文都係難聽得入耳<br />上堂會用iPRS(計分,唔好miss!!)<br />解說一般 自己Review可能仲好<br />始終只係concept+數學野",
+      "comment_grading": "Part I (50%):<br />Assignment x3&nbsp;&nbsp;5% (Full Mark)<br />Quizzes x5&nbsp;&nbsp;5% (Full Mark)<br />Midterm Exam (Open Book)&nbsp;&nbsp;40%<br />75分鐘4題&nbsp;&nbsp;主要計數<br />Mean: 75.7, SD: 15<br />My Score: 85/100 (Above mean 0.62 SD)<br /><br />Part II (50%):<br />Assignment x2&nbsp;&nbsp;5% ((100+99)/(100+100))<br />iPRS x5&nbsp;&nbsp;5% (唔知點計,有D答錯,當3.5/5)<br />Final Exam (Open Book)&nbsp;&nbsp;40%<br />Part 1&nbsp;&nbsp;48 MCQs (40 marks)<br />全部都係同iPRS EXACTLY 一樣<br />所以應該個個滿分<br />Part 2&nbsp;&nbsp;4題Structural Questions (60 marks)<br />主要計利息/還款額/透支/填入息表<br />My Score: (40+54)/(40+60) (要問TA先知)<br /><br />Overall: 90.075%<br />Grade: A+<br />無諗過咁好grade",
+      "comment_workload": "算輕<br />不過Part I可能大D<br />因為差唔多每個星期都有take home quiz要做<br />但唔難, 而且只係1-2大題<br />當然仲有assignment 會多少少題目<br />考試前有份exercise 一定要試下做<br />因為考試題型同exercise都算幾似<br /><br />Part II應該細D<br />無quiz, 得2份assignment<br />不過題目量會多少少<br />考試前溫下tutorial同埋assignment<br />熟習用公式就ok<br />無BAFS/econ底都無問題",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "2kDdhnGLbvqXLScdDdSpxl3UST7N0W4Y",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 88,
+          "name": "YANG, Hai",
+          "rating": 1
+        },
+        {
+          "id": 73,
+          "name": "ZHANG, Xueqing",
+          "rating": 1
+        }
+      ],
+      "author": "Frankie:)",
+      "date": "May 31, 2021",
+      "title": "Grading scheme is way better than CIVL2160",
+      "comment_content": "The first part of the course covers linear programming where the simplex-method with the use of Gaussian Elimination learnt back in MATH2350 will be used again here in this course. It seems that the general contents for this course have been detailly disclosed by others, so I wouldn&#039;t repeat it once again here.<br />The content is a bit light for a 3-credit course",
+      "comment_teaching": "From my perspective, both professors were not native-English speakers, local students may have difficulties in understanding their English accent.",
+      "comment_grading": "For the grading,it is very very lenient and good.Don&#039;t worry if you only got above mean by a few scores<br /> I would like to talk about what types of questions appear in the Midterm and Final exam.<br /> For Part 1:<br />There are a total of 4 questions in the midterm exam with 1hr15mins time limits given.<br />Regarding the first question, the questions ask to use the graphing method to solve linear inequality equations and converts the equation to general form<br />Regarding the second question, that was a Simplex method with tableau form question where u were asked to fill in the missing blanks in the tableau.<br />Regarding the third question, that was the shortest path problem which was rather straightforward and easy.<br />Regarding the last question, question 4, it tested your understanding of the simplex method with tableau form. The questions will ask u the concept of shadow price, the range of feasibility for the coefficient and the solution. (Sorry for forgetting the technical terminology used in this part)<br /><br />Part2:<br /> The Final exam for this part consists of 2 sessions.<br />Session 1: (45 mins)<br />MCQ and True/False Question, these questions were directly copied from the IPRS questions done in lecture time with being allowed to open-book, the mean is close to full marks. This part contained absolutely no brainer questions that u only need to DIRECT copy from the answer since the questions appeared in the exact same order as the answer given by the professor.<br />Sessions 2: (1 hr)<br />It consisted of 4 long questions, 2 of which were the calculation of monthly deposit and instalment. The third question was the graphing of the overdraft diagram and the last question is the income statement type question.<br />Conclusion:<br />As long as u don&#039;t give up and work hard before the will be rewarded a good grade.<br /><br />My Scores:<br />Part 1 Exam: 78/100 Mean 75.7/100<br />Part 2 Exam: unknown score not given<br />Letter grade: A",
+      "comment_workload": "Very light,all the assignement were just direct copy from source given by the CIVIL society<br />U just need to revise a few days before the exam to get a good grade😍<br />The workload is light compared to other CIVL 3-credit bearing course",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "XaT6it2e0RyMBwb5xb7PyBqZuFOqpnsY",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 1273,
+          "name": "JIAN, Sisi",
+          "rating": 1
+        },
+        {
+          "id": 90,
+          "name": "CHENG, Jack Chin Pang",
+          "rating": 0
+        }
+      ],
+      "author": "drew.ng",
+      "date": "Jul 27, 2020",
+      "title": "Sisi &gt; Jack",
+      "comment_content": "I forgot what the contents were but theyre all calculation based. I&#039;m sure the other reviews help.",
+      "comment_teaching": "Sisi is one of the better professors in terms of teaching. Her english is alright but the fact that shes willing to answer any/all questions even when someone types some dumb shit makes it very enjoyable. She can understand your question very quickly and is able to answer it and explain it, she&#039;ll make sure you know whats going on before moving on.<br /><br />Jack graduated from UST and as a UST student, his strict, no-nonsense and irresponsive teaching style is expected but boy, are my expectations low. He loves to make you draw your own diagrams even when we&#039;re online (????? why ?????). His presentations are poor and he just annotates over them - if you miss a lecture, get ready to be bent over and f*cked.",
+      "comment_grading": "Good grading but very competitive since it is mostly mathematics. SD was tight but the average was B.",
+      "comment_workload": "Assignments once per week (I never wore a seatbelt when I drive because it would be easier to end it like this). Sisi&#039;s lecture slides were hella clear so missing the first half of the semester was ok. But boy, Jack set the bar so low an ant couldnt limbo under it. His lecture slides are basically empty and copied and pasted diagrams dont help. He writes on them so youre gonna have to be very quick to follow.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Nl8ef088qh3icS8tgyuwmmynWFW2onjX",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 1273,
+          "name": "JIAN, Sisi",
+          "rating": 1
+        },
+        {
+          "id": 90,
+          "name": "CHENG, Jack Chin Pang",
+          "rating": 1
+        }
+      ],
+      "author": "SQ Flyer",
+      "date": "May 30, 2020",
+      "title": "Mathematical Modeling, Network Problem, Scheduling,TVM 非常合理Grading",
+      "comment_content": "The course is divided into two parts, Modelling and Management. <br />Non-cumulative. <br /><br />Part I<br />Linear Programming and Mathematical Modelling<br />(Problem Statement and Graphical Method) <br />Simplex Method <br />Duality Problem-Sensitivity Analysis<br />Networking Problems <br /><br />Part II <br />Work breakdown structure<br />Critical Path Method, Scheduling Problems<br />PERT Project Evaluation and Review Technique, Line of Balance <br />Time Value of Money <br />Present Worth Analysis",
+      "comment_teaching": "For Part I, Prof Jian is teaching this course for the first time. Initially, some may find the content hard to follow due to the clumsy iterative process for most of the problem set-up. However, she is able to demonstrate the concepts with clear step illustration in the notes and even work on some problems during classes. The assignments are properly designed which provide chances for us to do proper practices, though students need to revise the notes in detail for the repetitive iteration process in Simplex Method problem, Dijhastra Algorithm, duality problem etc. Overall, the topics I would say they are not difficult but need more attention on the problem statement and iteration process, one careless mistake may lead to heavy score loss in midterm exam. <br /><br />For Part II, Prof Jack Cheng has a relatively slower teaching progress, he explains the concepts clearly with the aid of some in-class problems, the notes are presented to-the-point, illustrative and clear. The only bad thing is, his Konglish which maybe annoying sometimes. <br /><br />For the tutorial part, I think they are not really important because they directly copy the content from the lecture notes and explain the completed assignments again during tutorials. Just look for some of the additional examples in the tutorial notes then that&#039;s fine. I remember one of the TAs prepared a script to read aloud in front of the camera, such a joke.",
+      "comment_grading": "50% for each part, 15% Assignment+ 35% Exam respectively, non-cumulative. <br /><br />Due to the pandemic, the difficulty of the exams are relatively higher than that of the usual semester. Exam time are heavily restricted to 70 mins and 90 mins respectively, while the questions are designed to be very clumsy with very long steps, although they are indeed not difficult in terms of the content. You need to work really fast and precise to get most of the score even you really know the techniques. <br /><br />For Part I, all long questions with problem statement set-up, simplex method,&nbsp;&nbsp;graphical method, duality problem, shortest path problem etc. <br /><br />Mean: 23.9/35 <br />Max: 35/35 crazy <br /><br />For Part II,&nbsp;&nbsp;5 MCQs, short questions (explaining the definitions etc), 3 huge LQs. The professor has designed three versions of paper to avoid cheating. The questions are clumsy though manageable if you work fast and precise. <br /><br />LQs: <br />1. CPM with AOA transformation, EST/EFT, PERT analysis --&gt; an advantage for students who took IEDA 2200 before, you should have mastered the skills already. <br /><br />2. Time Value of Money <br />3. Present Worth Analysis <br /><br />Mean:21.9/35 (pretty low due to time constraint)<br />Max 30.8/35<br /><br /><br />Personal Result:&nbsp;&nbsp;<br />PART I: Assignment 13.5/15, Exam 29/35<br />PART II: Assignment 15/15, Exam 26/35<br />Overall 83.5%<br />Grade: A (nice grading)<br /><br />Just work fast and precise during exams if you want good grade.",
+      "comment_workload": "For Part I, the workload is relatively higher, we have a total of 4 weekly assignments covering the topics for the last week. Some of them may need more time to be completed due to the heavy iterative process. <br />We got a mock exam and a self-practice before the midterm as aids for preparation. <br />Part I requires more revision time due to the many different types of problem statement and solving techniques. They are not difficult but just clumsy. <br /><br />For Part II, only two simple assignments. Revise the note examples and concepts with clear understanding then it should be fine for the exam.<br /><br />Reference textbook:<br />Civil &amp; Environmental Systems Engineering from Prentice Hill<br />Basics of Engineering Economy from McGraw Hill <br />Operation Research from McGraw Hill",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "KzpHM7DdaqKB8CfBbW5Yjd5Cf5AYuhSx",
+          "name": "Syllabus_CIVL2170",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "WRXA0euMTNCfbwUpA5u46ILBQDEwMdJz",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 88,
+          "name": "YANG, Hai",
+          "rating": 1
+        },
+        {
+          "id": 73,
+          "name": "ZHANG, Xueqing",
+          "rating": 1
+        }
+      ],
+      "author": "smile slime",
+      "date": "Jul 23, 2019",
+      "title": "",
+      "comment_content": "The whole course is separated into 2 parts<br />First half is taught by Prof Yang and second half is taught by Prof Zhang.<br />In the first half course, linear programming is the main topic.<br />In the second half, knowledge about accounting are taught like overdraft, montage and income statement.",
+      "comment_teaching": "Someone may find both prof&#039;s English is not fluent and prefer self-study.&nbsp;&nbsp;Therefore, only few people will attend lectures by both prof even if Prof Yang will randomly take attendance at the end of some lectures.",
+      "comment_grading": "Both midterm and final allow two-sided A4 cheatsheet. <br />Midterm<br />Average 71.37<br />SD 13.13<br />Final is not announced<br />I got 87/100 in MT, 95,100,100 in Assignment respectively<br />and finally get A+",
+      "comment_workload": "Workload is not heavy at all.<br />Someone only focus on writing the cheat sheet and get quite a good result.<br />Also, there are lecture videos and Prof Yang emphasized that the attendance taken at the end of the lecture will not have great influence, so many people skip the classes.<br />But tutorial will take attendance by giving a quiz.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "VZbWhOXW0B1AtQRE8KRo1n3THoMp0NMn",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 88,
+          "name": "YANG, Hai",
+          "rating": 1
+        },
+        {
+          "id": 73,
+          "name": "ZHANG, Xueqing",
+          "rating": 1
+        }
+      ],
+      "author": "ChristopherWong",
+      "date": "Jun 11, 2019",
+      "title": "good grade course",
+      "comment_content": "Part 1:<br />1:Introduction to systems engineering and management<br />2:Properties of linear programs<br />3:Solving linear programs<br />4:Sensitivity analysis<br />5:Introduction to networks<br />6:Formulating and solving network problems<br />7:Engineering applications <br /><br />Part 2:<br />1:Engineering, Business and Society<br />2:Introduction to Financial Management<br />3:Business Profitability Analysis<br />4:Time Value of Money<br />5:Discounted Cash Flow Method<br />6:Project Funding<br />7:Project Cash Flow Analysis<br /><br />Both midterm and final test students with questions very similar to those in assignments so it is suggested to do revision on your assignments.<br />Content are actually kind of related more to business than engineering.<br />Totally speaking it is a good-grade course.",
+      "comment_teaching": "9am lecture so not many people have attended.Both lecturer have serious chinese accents which you may not be able to understand what they are saying(Zhang xue qing slightly better than yang hai).<br />Although both of them are willing and ambitious in teaching,their accents are the main reasons that very few student take the lectures,for only around 30 people over 140 in the whole class.<br />Not necessary to take the class,better to do self study .",
+      "comment_grading": "Part 1:50%<br />-Assignment/Quiz:10%<br />-Mid term:40%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2-hour open Book exam) one a4 sized cheatsheet<br />Part 2:50%<br />-Assignment/Quiz:10%<br />-Final Exam:40%&nbsp;&nbsp;&nbsp;(2-hour open Book exam) one a4 sized cheatsheet<br /><br />Midterm:70/100<br />Final:Unknown<br />Grade:B+",
+      "comment_workload": "Workload actually very low, just 3 assignments before midterm(part one) . 2 assignments after midterm(part2) and it is done by a group of 3people which means the workload is further lower.<br />Coverage of test contents are not that much,just need to do revision 2-3 day before the exams.<br />Assignments are given one week to finish for those before midterm and 2-3 weeks for those after the midterm.<br />No sources for assignments so discuss with your classmates and make sure you get the highest mark you can because the mean for both midterm and final are quite high.",
+      "rating_content": 5,
+      "rating_teaching": 2,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "o8efwcUKM5TlA78qu1t18xdRHHcB0v45",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 73,
+          "name": "ZHANG, Xueqing",
+          "rating": 1
+        },
+        {
+          "id": 88,
+          "name": "YANG, Hai",
+          "rating": 1
+        }
+      ],
+      "author": "Lugia",
+      "date": "Jun 09, 2019",
+      "title": "",
+      "comment_content": "Consider this course as an introductory for transportation engineering and construction management. It is divided into 2 parts, which everything before the mid-term will focus on the transportation part, and everything after will focus on the management part.<br /><br />For the Transportation part,<br />1. Simplex method<br />2. Shortest path<br /><br />For the Management part,<br />1. Reasons for studying Bussiness as an Engineering<br />2. Accounting<br />3. Time Value of Money<br />4. Discounted Cash Flow Method<br />5. Project Funding<br />6. Project Cash Flow. <br /><br />* The syllabus may change year by year.",
+      "comment_teaching": "Who goes to school at 9 am...........<br />Luckily both profs upload lecture videos. <br /><br />But, I can&#039;t understand Prof. Yang&#039;s accent, even in the lecture video........... <br /><br />I don&#039;t understand why people are giving so much sheet for Prof. Zhang&#039;s accent, personally, I can understand him completely fine.<br /><br />To me, any course that provides lecture videos deserves a B.",
+      "comment_grading": "20% Assignments and Quizzes (10% each for part 1 and 2)<br />40% Mid-term<br />40% Final<br /><br />Got an A.<br />All I can say is, it is definitely because I worked really hard in this course. Surely isn&#039;t because of the prof&#039;s lenient grading, which somehow magically caused me to end up with this grade, despite having a mediocre mid-term score. Yup! It is all on me.",
+      "comment_workload": "Near to none.<br />Assignments in part 1 are easy.<br />You can do it in groups for assignments in part 2.<br />Check your answers with other classmates/ groups before handing in.<br />Remember to attend the tutorial for the quizzes.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "rgPbbiAQzyT0iGsYTMscvlCdfPmnX6so",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 73,
+          "name": "ZHANG, Xueqing",
+          "rating": 1
+        },
+        {
+          "id": 88,
+          "name": "YANG, Hai",
+          "rating": 1
+        }
+      ],
+      "author": "USTheagod",
+      "date": "Jun 08, 2019",
+      "title": "?",
+      "comment_content": "-have no idea why we are learning all these craps but at least it&#039;s better than CIVL2160 lol<br />-homeworks in the second half of the course are very poorly designed...",
+      "comment_teaching": "it&#039;s a 9am lecture plus the profs&#039; accents are too difficult to understand so I almost skipped all the lectures :((((((((",
+      "comment_grading": "A+ wtf",
+      "comment_workload": "-no workload at all...<br />-you just need to attend tutorials for the quiz<br />-you can work with your friends for the assignments in the second half of the course so make sure you find a hokba to help you lmao<br />-exams are all about cheatsheets.",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 7,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "yHbU0s1mtXznyKnMXihZexSP14qyI5Ll",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 73,
+          "name": "ZHANG, Xueqing",
+          "rating": 1
+        },
+        {
+          "id": 88,
+          "name": "YANG, Hai",
+          "rating": 1
+        }
+      ],
+      "author": "chpoonag",
+      "date": "Jun 05, 2019",
+      "title": "One careless move losses the whole game.",
+      "comment_content": "The course is divided into 2 parts.<br /><br />1. Simplex method<br />You will learn simplex method which solves an objective function (maximizing or minimizing) with several constraints (some inequalities). Dijkstra&#039;s algorithm will also be taught to solve shortest path problems.<br /><br />2. Business in Engineering<br />In this part, you will first learn some facts/backgrounds on why studying business in the first chapter, which will only be a minor component in this part of the course. Then, income statement, IRR, ERR, overdraft calculations and so on will be taught. These are the main topics. Note that the format of the income statement to be tested is simple. No categorization of expenses is needed in the exam but it may be required in assignments. <br /><br />Some lecture videos of the second part of the course were provided since some students request for them (the professor thought the videos had been recorded automatically so only half of the lectures were recorded).<br /><br />Note that the last lecture of the 2nd part of the course was very important as some questions discussed during that lecture were actually identical to those in the exam paper. There were few students attending the class, and at the same time, a number of them did not watch the lecture video of the last lecture. It significantly affected the grades of this course.<br /><br />Exams for the 2 parts are separate, which means those tested in the 1st exam will not be tested again.",
+      "comment_teaching": "One fact is that there were few students attending the lectures (about 10 to 15 for the 2nd part lectures).<br />For Prof YANG’s, there may be more students attending. Personally, it is just because of the difficulty of the topic (simplex method). However, most of the voices I heard said even attending the course cannot ensure you understand that. Firstly, his accent. Secondly, his explanation way. All in all, attending lectures may function as warning you that you should also learn yourself outside classroom instead. Personally, the only thing I hate most is his voice, which can be too loud suddenly. <br /><br />For Prof ZHANG’s, since they are morning lessons, his voice and his pace can make you fall asleep easily. In my opinion, the accent of both professors may be equally difficult for local (or even international students) to understand. Yet, after 1 to 2 weeks should you be able to get used to that.<br /><br />There could be many aspects to complain about their teaching. Nevertheless, their passion in teaching and patience in explaining some questions to students should be appreciated.",
+      "comment_grading": "10% assignments<br />10% quizzes (just for attendance in the 1st part of the course but not sure about the 2nd part)<br />40% exam (1st part): 1 A4 printed/hand-written cheat sheet allowed<br />40% exam (2nd part): 1 A4 printed/hand-written cheat sheet allowed<br /><br />Questions in the paper for the 1st part were similar to those in the assignments. One of the differences is that you did not need to write the entire iteration table (simplex method). We were just asked to fill in some blanks. However, the last question was really challenging. most of us just got 1-3 marks and only 1 or 2 students got over 10 marks out of 30 marks. <br /><br />As most of the questions are “easy”, the mean was quite high. Initially, the S.D. was large because there was one question about the shortest path that any wrong steps can preclude you from getting any more marks for subsequent steps for using the correct method. In the end, as there were a number of complaints, the marking scheme was revised, and most of us had our midterm grade improved.<br /><br />In the 2nd part of the course, there T/F questions (10 marks, 2 points each), filling in the blanks (20 marks, 2 marks each), as well as typical calculation questions. As mentioned, one of the calculation questions were actually nearly identical to those discussed during the last lecture, so I guess some who had watched that lecture video / attended that lecture should have got a good result (30 marks for that “identical” question). Another one of the questions was similar to one assignment questions (income statement) but the exam one was a simplified one with more hints. Also, some more different aspects were included in this question in attempt to include most of the contents in the examination scope (40 marks). The last calculation question was just the same as the one in the assignment (30 marks). It is about project cash flow/overdraft calculation. <br /><br />Notice that there should be sources for the assignments in the 1st part of the course but none for the 2nd part. For those in the 2nd part, it was allowed to work in groups of a maximum of 3 to submit one single assignment. So, you may work with the others. Also, some questions were actually chosen from the reference books (similar to worked examples / from the exercise questions). If you want to ensure a good grade, homework of the 2nd part of the course should be paid more attention since the mean should be lower than those of the 1st part of the course. <br /><br />To sum up, the exam in the 2nd part of the course should be also easy for most of us although there are one to two challenging questions. So, carefulness is the key to success in this course. One careless move losses the entire game.<br /><br />Some data:<br />1st part <br />- Overall 37.9167/50 , mean 38.0700, sd 5.6918, median 39.0833<br />(Midterm 70/100, mean 71.374, sd 13.13)<br /><br /><br />2nd part<br />- Assignment 1: ?<br />- Assignment 2: 96/100, mean 86.1, high 98 low 10<br /><br />I think I did much better in the last exam so it made me achieve an A- in the end.",
+      "comment_workload": "Manageable workload in my point of view.<br />1st part:<br />3 assignments<br />1 quiz for each tutorial class (once a week; taking attendance only)<br />2nd part:<br />2 assignments. You can work with 2 more students (optional) and hand in 1 copy.<br />2 quizzes (an email was sent prior to each quiz to remind students to attend the tutorial class)",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "5t1AB3xmMgpTqf3GkVLAjZOYYtNtDSUZ",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 73,
+          "name": "ZHANG, Xueqing",
+          "rating": 1
+        },
+        {
+          "id": 88,
+          "name": "YANG, Hai",
+          "rating": 1
+        }
+      ],
+      "author": "CIVIL小薯 ._.",
+      "date": "Aug 24, 2015",
+      "title": "",
+      "comment_content": "個course可分為兩部分，第一部分是關於simplex method（搵最短路程ge方法），第二部分係教LOB同compund interest。兩個部分都較容易，加上midterm final有cheatsheet，考試前一晚睇兩眼就已經ok。",
+      "comment_teaching": "第一部分Content非常容易，但因 海洋 ge口音問題，令content變得難幾倍。可以自己上youtube自學。Tutorial因為有quiz，所以唔可以走，TA多數repeat lecture，tutorial notes 70% 都係copy and paste lecture notes，但仔細聽都可以明白教d咩。<br /><br />第二個部分是由 張學青 教。筆者本以為會換一個口音較正常ge prof，點知沒有最差，只有更差，呢位prof所講ge野我只有basically一字係聽得明白。除了quiz，根本沒有上堂的價值，每次上完堂都唔知道用1.5小時係LT有咩收穫。該部分沒有tutorial",
+      "comment_grading": "COURSE GRADE 計算方法：<br /><br />Pt 1 quiz+homework - 10%<br />Midterm (Pt1 final) - 40%<br />Pt2 inclass quiz - 10%<br />Final (Pt2 final) - 40%<br /><br />Midterm只同Pt 1 有關係<br />Final只同Pt2 有關係，不必溫Pt1<br />Midterm， Final 都有cheatsheet，可用both pages. <br />考試內容係civil&nbsp;&nbsp;course入面最容易，prof會直接講考試卷裏ge內容派grade嗰日見到不少人below mean 都有 B or above，grade應該十分不錯。<br /><br />*Final&nbsp;&nbsp;prof會講到好似好難，但不必擔心，只要將所有ppt寫係cheatsheet上便可保course grade平安。<br /><br />筆者分數:<br />Midterm: 99% <br />Final: 93%<br />Overall: 95.86%<br />Grade: A+",
+      "comment_workload": "好少 workload 但assignment 有時容易就會有careless mistake, 都要花少少時間慢慢做/check",
+      "rating_content": 5,
+      "rating_teaching": 2,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 8,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "SOcDvysv1peNh9WTS1tdRNU5WB3q2Snu",
+      "semester": "2014-15 Summer",
+      "instructors": [],
+      "author": "BAM",
+      "date": "Aug 07, 2015",
+      "title": "簡單又好grade",
+      "comment_content": "分2位prof教,前半教你set equation 同 constraint,去推點分配資源可以得益最多，又或者plan路線既時候點最行會用最少時間。後半偏記野，睇下一個project點run,又或者maintain 既錢 又或者個principle 隨時間既變化，p轉a/f咁樣。",
+      "comment_teaching": "前者重口音，講野都幾大聲。上堂唔明唔緊要，tutorial會重教再做exercise好清晰，跟到midterm滿分唔難。<br />後者無tutorial, hea up 出題有伏 問人上堂佢用過咩example。果時就落堂，唔少人無聽 包括我。。。",
+      "comment_grading": "好grade 到飛起<br />好多人都最少B+以上",
+      "comment_workload": "前半有assignment 後半上堂有quiz<br />midterm*1 final *1 都同樣佔4成",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

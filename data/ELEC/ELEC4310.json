@@ -1,0 +1,119 @@
+{
+  "course": {
+    "id": 339,
+    "subject": "ELEC",
+    "code": "4310",
+    "name": "Embedded System Design",
+    "description": "In this course, students will learn the important concepts and modern design practices of embedded computing systems. They will see how a complex embedded system can be systematically developed as a union of software and hardware. The course will cover several fundamental topics, such as design targets, hardware/software co-design methodology, common design techniques, processors, architectures, and physical implementations. It will also cover several advanced topics, such as behavioral modeling, low-power techniques, and systems-on-chip.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2030,
+      1930,
+      1830,
+      1730,
+      1630,
+      1530,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2300\" href=\"/review/ELEC2300\" target=\"_blank\">ELEC 2300</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.5,
+    "rating_teaching": 4.5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 189,
+        "name": "XU, Jiang",
+        "count": 1
+      },
+      {
+        "id": 197,
+        "name": "KURSUN, Volkan",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "eiAPfDulJOgaRMaWhcxyU2jddEs2sexj",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 197,
+          "name": "KURSUN, Volkan",
+          "rating": 1
+        }
+      ],
+      "author": "HokJa",
+      "date": "Jun 01, 2021",
+      "title": "Strongly recommend for CPEG student (Best option for required elective)",
+      "comment_content": "The lectures are about hardware part and the labs are about software part. <br />Lecture content include:<br />1. Design Technology<br />2. Single Purpose Processor<br />3. Concurrent Process Models &lt;- very similar to comp3511<br />4. State Machine Models<br />5. Standard SPP Peripherals like timers, counters.. (Professor says its extra content in this semester)<br /><br />Labs:<br />Android application including tic tac toe, GPS implementation, OpenCV implementation and more - very practical and useful <br /><br />I actually think the content is quite good, and it&#039;s not very difficult but interesting.",
+      "comment_teaching": "Professor Volkan is a very nice professor, his lecture is interesting although sometimes will have some technical issue on zoom. <br />He will also reply your email promptly and answer any of your question.<br />Sadly it was a 9am lecture so I cannot really focus and sometimes I skipped class lol<br /><br />The TAs are very friendly and helpful. TA also respond to your email quickly and always offer to help.",
+      "comment_grading": "35% 5 HWs<br />30% 7 Labs<br />35% Exam<br /><br />I score hw nearly full &amp; labs full mark, <br />around 80/100 in exam. Still waiting for the grade release and will come back to update my grade =)<br /><br />[Update]<br />I got an A+",
+      "comment_workload": "It is a 4 cred course, so the workload is justifiable.<br /><br />Unlike Professor Xu Jiang&#039;s class, our hws are purely extended assignments from the labs. If you are good at programming, you will probably have no problem in labs &amp; hw.<br /><br />Exam is purely about lecture, the only problem is we don&#039;t have any exercise from lecture. Professor says we can look for those in textbook but I didn&#039;t buy the textbook lol <br /><br />Anyway, its pretty good workload, imagine you have 1 lecture + 1 lab &amp; 1 hw per week. <br />The programming part is not difficult, I can finish my lab during lab session and hw in a night.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 4,
+      "attachments": []
+    },
+    {
+      "hash": "D3743lUefijFLdpwI0yqIZPRUqK1mdRz",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 189,
+          "name": "XU, Jiang",
+          "rating": 0
+        }
+      ],
+      "author": "Tommy Li",
+      "date": "Jul 17, 2020",
+      "title": "Well, if you are good in programming, you can take this course",
+      "comment_content": "[Re-post from my friend, Barry]<br /><br />Basically, this course is more on design process and idea thinking and presentation than some extremely technical material. Here is the content :<br /><br />Course Description<br /><br />In this course, students will learn the important concepts and modern design practices of embedded computing systems. They will see how a complex embedded system can be systematically developed as a union of software and hardware. The course will cover several fundamental topics, such as design targets, hardware/software co-design methodology, common design techniques, processors, architectures, and physical implementations. It will also cover several advanced topics, such as behavioral modeling, low-power techniques, and systems-on-chip. Prerequisite(s): ELEC 2300<br /><br /><br />List of Topics<br /><br />Lecture Topics<br />Week 1\tIntroduction to Embedded Systems (I)<br />ES History, Social Impacts, Applications, Definition, ES Industry, Characteristics, Design Metrics, Performance (Peak, Average, Worst-case, Response Time, Throughput), Energy Efficiency, Size in ASIC/FPGA/GPP/ASIP, NRE, Unit Cost<br />Week 2\tIntroduction to Embedded Systems (II)<br />Design Categories, Processor Architectures and Comparison (GPP, ASIP, SPP), Physical Implementation (Multichip, Single Chip, Full-custom, Gate Array, Standard Cell, FPGA, Chip Cost), Design Automation, Example (Google Phone)<br />Week 3\tSoC and ES Development Platform<br />SoC Definition, SoCs in iPhone 1 to 4Gen, SoC Subsystems, SoC Example (TI OMAP3530), ES Hardware Development Platform, ES Software Development Environment (IDE), Debugging and Testing (ISS, ICE, JTAG)<br />Week 4\tHW/SW Codesign Methodologies (I)<br />Methodology Overview, TTM, Man-month Dilemma, Application Specifications, Behavioral Modeling, Computational Models, Modeling Languages (Textual, Graphical, Software-oriented, Hardware-oriented), Models vs. Languages<br />Week 5\tHW/SW Codesign Methodologies (II)<br />Sequential Program Model, Formal FSM, FSMD, HCFSM, PSM, Concurrent Process Model, Dataflow Model, SDF<br />Week 6\tHW/SW Codesign Methodologies (III)<br />HW/SW Partitioning and Mapping, Formal Verification (Rule of 10X, Correctness, Completeness), Testing (JTAG, BIST), Performance and Power Evaluations, Simulation Levels and Comparisons<br />Week 7\tEmbedded GPP and ASIP (I)<br />Processor and Memory Architectures (Harvard, Princeton), Examples (ARM Cortex, Intel Atom), RISC, CISC, VLIW, ES and Desktop GPP Comparisons<br />Week 8\tEmbedded GPP and ASIP (II)<br />ASIP, Microcontroller (8051, 68HC11), DSP (StarCore, TriMedia), Customizable ASIP (Xtensa), IP (classification, licensing models, protection), GPP/ASIP Selection, GPP/ASIP Market<br />Week 9\tEmbedded GPP and ASIP (III)<br />ES and Desktop Programming Comparisons, Concurrent Processes, Inter-process Communications (Message Passing, Shared Memory), Critical Section, Mutex, Deadlock, Process Synchronization, Condition Variable, Monitor<br />Week 10\tEmbedded GPP and ASIP (IV)<br />Embedded OS, Multitasking, Execution Time, Deadline, Process Period, Thread, Process Scheduling, Priority Queue (Rate Monotonic, Deadline Monotonic), POSIX, RTOS and Examples (WinCE, QNX), Android<br />Week 11\tSingle-Purpose Processor (I)<br />SPP and GPP Similarities, SPP Applications, Behavior Model, SPM to FSMD Conversion, Data Path Design, Control Path Synthesis, RTL, Standard Cell-based Backend Design, Computational Model Optimizations, Datapath Optimizations<br />Week 12\tSingle-Purpose Processor (II)<br />Power Consumption Models and Trends, Dynamic Power, Activity Factor, Short-circuit Power, Leakage Power, Low-power Technique Classification and Effectiveness, Technology Mapping, State Encoding, Path Balancing, Retiming, Clock Gating, DFS, DVS, DVFS<br />Week 13\tSingle-Purpose Processor (III)<br />Voltage-based Leakage Reduction Techniques, Power Gating (Coarse-grain, Fine-grain), Standby, Gate Sizing, Multi-threshold Logic, VTCMOS, Isolation and Voltage Shifter, Voltage Drop, Rush Current, ES Power Management<br />Week 14\tIndustrial Talks<br />Talks about ES Design Cases by Engineers and Managers<br /><br /><br />Lab Topics<br />1.\tES Development Platform<br />2.\tOMAP Development Platform<br />3.\tQt Applications<br />4.\tQt Components<br />5.\tOpenCV<br />6.\tSmart Camera<br />7.\tGoogle Android<br /><br /><br />Statement of Objectives/Outcomes:<br />On successful completion of this course, students will be able to:<br />CO1 - understand the definition and importance of embedded systems, and its relationships with other systems<br />CO2 - understand typical embedded system design methodologies, especially hardware/software codesign flow<br />CO3 - partition embedded applications into hardware and software, and develop architectures for common embedded systems<br />CO4 - systematically design individual hardware components, such as application-specific processors, for embedded systems, and reuse hardware intellectual properties<br />CO5 - systematically develop software components for embedded systems, and reuse software intellectual properties<br />CO6 - use typical embedded system platforms, especially ARM-based system, to design, implement, and test embedded systems",
+      "comment_teaching": "Basically Xu Jiang has talked everything he should talk about, but his tone is too flat. You will find you are sleepy when having the classes. So please don&#039;t think it will be funny.<br /><br />But consider the TAs, they are very responsible for their job. I have once had trouble (More programming environment problem) with my lab, around 3-4 TAs has helped me from that. <br /><br />So the lecturer can D and TAs got A. Turns out it should B right?",
+      "comment_grading": "Due to COVID-19, the grading has been changed. <br />15% for 2 Assignments<br />30% for 7 Labs<br />18% for Attendance (Yes you have not broken your eyes. The attendance in counted in unit of minute)<br />37% is the exam<br /><br />Considering this semester is a special case, there should be a project by what Xu Jiang said.<br /><br />My Grading:<br />Full mark for lab and attendance<br />Almost full for HW<br />73% for the final exam (Top 5% of the class)<br />Final grade: A",
+      "comment_workload": "As I have studied comp2012h, the programming assignment and labs are easy for me. <br /><br />For the assignment, I have finished most of the assignment in like 8 hours sth. The only part that slows me down is the last part of the last assignment as it has to draw some pretty complex graph, but it is not difficult.<br /><br />For the labs, it just some copy and paste lab. No worry. Only one lab is a bit difficult, most likely it will be easy. If you don&#039;t know how to do, ask TAs.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

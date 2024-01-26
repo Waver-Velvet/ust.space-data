@@ -1,0 +1,588 @@
+{
+  "course": {
+    "id": 1235,
+    "subject": "ELEC",
+    "code": "2300",
+    "name": "Computer Organization",
+    "description": "This is an introductory course to computer organization. The topics covered include instruction-set-design, digital design and computer arithmetic, controller and datapath design, memory systems, input-output systems, interrupts, pipelining, performance analysis, assembly language programming, and survey of advanced architectures.",
+    "categories": [],
+    "website": "http://course.ee.ust.hk/elec2300",
+    "credits": 4,
+    "semesters": [
+      1910,
+      1830,
+      1810,
+      1730,
+      1710,
+      1630,
+      1610,
+      1530,
+      1510,
+      1430,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2200\" href=\"/review/ELEC2200\" target=\"_blank\">ELEC 2200</a>",
+    "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"2611\" href=\"/review/COMP2611\" target=\"_blank\">COMP 2611</a>",
+    "rating_content": 4.29,
+    "rating_teaching": 3.71,
+    "rating_grading": 4,
+    "rating_workload": 4.57,
+    "review_count": 14,
+    "single_review": false,
+    "enrollment_status": 4,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 171,
+        "name": "LEUNG, Tsung Hsien Johnny",
+        "count": 8
+      },
+      {
+        "id": 189,
+        "name": "XU, Jiang",
+        "count": 8
+      },
+      {
+        "id": 197,
+        "name": "KURSUN, Volkan",
+        "count": 6
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "xuK36UU5S3Glp4qbb2ZzQXivtA98PcHD",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 171,
+          "name": "LEUNG, Tsung Hsien Johnny",
+          "rating": 1
+        },
+        {
+          "id": 197,
+          "name": "KURSUN, Volkan",
+          "rating": 1
+        }
+      ],
+      "author": "app_Sci",
+      "date": "Jun 06, 2019",
+      "title": "A Relatively Hard Course",
+      "comment_content": "Contents before midterm: <br />1. MIPS instructions<br />2. Integer arithmetic (for PC)<br />3. Floating point number algebra (for PC)<br />4. Performance calculation (i.e. cycle per instruction, CPU speed, etc.)<br />Contents after midterm: <br />5. Single-cycle processor architecture<br />6. Multi-cycle pipelined processor architecture<br />7. Hazard detection within the pipelined processor.<br />In my opinion, 2 and 4 are easy. 3 is relatively a bit harder. 1 is again a little bit harder than 3. 5 is more difficult, 6 and 7 are the most difficult ones.<br />For contents before midterm, only assembly code is difficult. But after midterm, all contents are difficult. Suggested to have a good understanding.",
+      "comment_teaching": "I personally like the fact that Kursun emphasized what he think is important and might be confusing to us. However, he often clapped hands in class to wake people up. While that isn&#039;t bad per se, I just always feels kinda annoyed from his claps. Not a fan of it.<br />Johnny is very knowledgeable about the course, but he can be pretty impatient towards those who are a bit behind the course.<br />I did pretty crappy in midterm, and when i personally went to check papers, he is kinda impatient and annoyed towards my questions.<br />However, after my above-average performance in finals, I went to check paper again and his attitude improved siginficantly.",
+      "comment_grading": "I think the grading is satisfactory, not bad, not good. A score close to mean should grant you c+ or b-.<br />HW 10%<br />Lab 20%<br />Midterm 30%<br />Final 40%<br />HW1: Mean: 81.4/100 (Canvas) Me: 79.5/100<br />HW2: Mean: 72.7/100 (Canvas) Me: 75/100<br />Lab total mark: Mean: 480/500 (Canvas) Me: 447.5/500<br />(Somehow I got 83.5/100 in lab 4 and got a 64/100 in lab 5, didnt know how I did it but doesnt feel good.)<br />Midterm: Mean: 65/100 (Announcement) SD: 20-25~ish<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Me: 60.5/100<br />(30 marks of T&amp;F)<br />Final: Mean 58.4/100 (Canvas) Me: 69/100 SD: &gt;25 (Exact SD Unknown)<br />(Johnny said that the marks are pretty extreme. Some got single digit marks. Its kinda like if you knew what you are doing, you will get satisfactory performance.)<br />Expected a B or a B-.<br />Final Grade: B-",
+      "comment_workload": "Almost no workload for the labs. Must attend one of the two prelabs. Homework needs a bit of workload. The heaviest workload comes from the exams.<br />Overall not heavy but not light.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "QuG69e6mTDSPeA4i8iOdu7As4IquagvO",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 189,
+          "name": "XU, Jiang",
+          "rating": 0
+        },
+        {
+          "id": 171,
+          "name": "LEUNG, Tsung Hsien Johnny",
+          "rating": 1
+        }
+      ],
+      "author": "Excalibur",
+      "date": "Jan 24, 2019",
+      "title": "Very light workload course among four ELEC 2000 level courses",
+      "comment_content": "Since this is just an introductory course, you will not learn much from it. First, we were introduced about the type of computers and some key points in the course. <br /><br />The second part, which is quite interesting, was about the assembly language. This gave you some ideas on how variables are allocated in memory, how instructions are executed using registers and much more in slightly more detail. The slide provided by the professor was filled with many blank spaces and little explanation so you might find this chapter is the most difficult one among others. I asked my friend and found that the slide prepared by prof Kursun Volkan was more comprehensive and understandable. <br /><br />The third part was about arithmetic operation. I don&#039;t think this part is useful since I already knew this from ELEC 2200 except the floating points. This chapter is not a big deal.<br /><br />The fourth part was about simple performance analysis. You learnt about how the CPU performance compared by using suitable variables like CPI and MIPS. With some ideal assumptions, you were asked to do some simple numerical calculation. The math is simple trust me :), no calculus whatsoever.<br /><br />The fifth part is about MIPS processor. We have learnt about different type of MIPS processors such as single cycle processor, multi-cycle processor, and pipelined processor. They have different techniques on how it manages each part of the processor in a given clock cycle. Now, you are encouraged to understand the seeming complicated diagram about how each part of the processor works. I heard that this course requires memorization but it turns out it was not as long as you understand what is going on.<br /><br />Last but not least, is about memory organization. This part actually requires a little 暗記. You will know types of memory, the architecture, and the principle about caching. The caching procedure was also included.<br /><br />The professor omitted many technical parts like floating point operations which were quite disappointing.",
+      "comment_teaching": "The lecture is not useful at all. The professor taught very slowly and sometimes digressed from the slides. In the end, I did not attend his lecture after the third chapter.<br /><br />Instead, I somehow enjoy Johnny tutorial. He explained clearly and gave some insight. He also discussed exams homework.",
+      "comment_grading": "The grading, to my surprise, is generous. Full mark in lab, 9x in homework and midterm and 7x in final. As the professor said the grading is absolute, I will not give the statistics parameters. Luckily, I got A<br /><br />Some of the midterm questions are similar to the sample. No sample for final.",
+      "comment_workload": "Too light.<br /><br />Just follow the instruction in the lab, copy and paste.<br /><br />No need to worry about the exam as they just asked some simple questions. I didnt take this course seriously.<br /><br />But you need to worry about how you answer. I am an open-minded person and I got a bad score in the final because I rather preferred analytical question instead of answering question taken directly from the slides. Moreover, there are some vague word in the question like &quot;best solution&quot; etc. Worst scenario, I did the same thing as Johnny had in the tutorial about drawing dependency and suprisingly they marked my answer wrong with some strange reasons.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "79rgfpHfBX7JLt9BAGAyRBSsfGwEHkgW",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 189,
+          "name": "XU, Jiang",
+          "rating": 1
+        }
+      ],
+      "author": "HokJa",
+      "date": "Dec 21, 2018",
+      "title": "Best Grade Best TA Lightest Workload among ELEC COURSES",
+      "comment_content": "Arithmetic calculation, single cycle multi cycle and pipeline architecture, memory and MIPS<br />Not a lot actually just 7 chapter of lecture notes",
+      "comment_teaching": "I have only gone to lectures for first few lessons, basically he just read the lecture notes out so I don’t know<br /><br />Johnny and other TAs are very nice. Johnny is very willing to help and we can easily approach him if we have any questions.<br /><br />My A is for Johnny and TA, no comment for the lecturer lol",
+      "comment_grading": "Homework 10%<br />Lab 20%<br />Midterm 30% mean: 69<br />Final 40% mean: 59 <br /><br />I got 90% in hw 100% in lab 90% in midterm and just 65% in final (screwed up in final:() <br />And I got an A- <br />Super good grade...",
+      "comment_workload": "It’s the easiest course I have studied for ELEC <br />Homework, one before mt and after mt, and they are nearly the same every year, and if you don’t know how to do you can easily approach TA and ask<br />Lab work is easy and short, not really necessary to prepare but make sure you get everything correct cuz it’s 20% and most students got more than 18% I think<br />just memorise everything in lecture notes, hw and sample paper and you will be fine",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "QmBfKKi9XEvBxenGSCsW5X9KjLfmjBYp",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 197,
+          "name": "KURSUN, Volkan",
+          "rating": 0
+        }
+      ],
+      "author": "smallpotato tom",
+      "date": "Aug 23, 2018",
+      "title": "Fair Grading but Less Resources compared to COMP2611",
+      "comment_content": "MIPS, Performance, Single Cycle and Multi Cycle are the most important topics in 2300. No Memory lecture in this semester. In the beginning, I thought those content were quite difficult, unless I got old lecture resources (not powered by Kursun) and found that those things were easy and simple.<br /><br />Sometimes &quot;Source&quot; is really important in EE world.",
+      "comment_teaching": "Bad.<br /><br />Or I would say I hate Kursun&#039;s teaching style. He always requires us to stay absolute focus in the lessons. He is always angry. On the other hand, he can&#039;t control his rhythm in the lesson - sometimes too fast sometimes too slow.<br /><br />His lecture notes are complex and orderless. Black and White. No key point.",
+      "comment_grading": "I got above mean around 6 to 10 marks in MT and Final.<br /><br />3 labs of 5 got full marks.<br /><br />Finally got a B. Not good not bad.",
+      "comment_workload": "5 Compulsory Labs, 1 Midterm, 1 Final.<br /><br />No homework which can be good or bad. Less workload but less practices as well.<br /><br />Note that no PP and PP are provided for 2 exams.<br />(Practice Paper and Past Paper :&gt;)<br /><br />For CPEG students, I highly recommend choosing COMP2611.",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "NUWTls7RZ1UfGmVcbCwoOxFthbog7Jb0",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 189,
+          "name": "XU, Jiang",
+          "rating": 1
+        },
+        {
+          "id": 171,
+          "name": "LEUNG, Tsung Hsien Johnny",
+          "rating": 1
+        }
+      ],
+      "author": "sam.yeunggg",
+      "date": "Jan 31, 2018",
+      "title": "",
+      "comment_content": "This course mainly talks about MIPS processors. The difference between COMP2611 and ELEC2300 is the former focus more on software level and the latter focus more on hardware level.<br /><br />Basic computer knowledge (e.g. what is an &#039;Embedded Computer&#039; and examples), MIPS assembly code, computer arithmetic are the focus of Midterm Exam. <br /><br />Single-cycle/Multi-cycle Architecture, Pipelining, Pipeline Hazards and memory (mainly about cache in processor) are in the scope of Final Exam.<br /><br />C programming background is recommended, as Homework and Exam might see questions involving translating C to MIPS code.",
+      "comment_teaching": "Prof. Xu is very strict on people talking in lecture, other than that, he is quite nice and good at teaching the course.<br /><br />Johnny is responsible for tutorials and labs. He is very nice, willing to help students out. Tutorials also guide us how to do the homeworks.",
+      "comment_grading": "10% Homework (2 Total)<br />20% Laboratory (5 Total)<br />30% Midterm<br />40% Final<br /><br />~80% in Homework<br />All lab scored full mark except one (94/100)<br />~above 0.5sd in both Midterm/Final<br />Got B",
+      "comment_workload": "2 Homeworks with moderate number of questions. Some of the questions TYPES might appear in the exam. They are not too difficult and Johnny will help you through if you really don&#039;t understand the questions.<br /><br />2 Pre-lab sessions and 5 actual lab sessions. Pre-lab sessions are compulsory and not attending actual lab will just lose marks. Labs are quite easy, you just need to copy the data on the screen to the lab report sheet most of the time. Again, Johnny and other TAs will help you in the lab.<br /><br />The workload is light considered it is a 4-credit course. You can skip lectures and read the notes on your own, but I recommend taking tutorials as it is more relevant to what exam will ask you.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "7NcbMTiOu03I7Xa2cLTCqgd0TXoCTyDC",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 189,
+          "name": "XU, Jiang",
+          "rating": 1
+        }
+      ],
+      "author": "black",
+      "date": "Jan 28, 2018",
+      "title": "好grade",
+      "comment_content": "教下processor, MIPS , 仲有d ICT野",
+      "comment_teaching": "唔多上堂唔太清楚 ， 上堂會放break , 會有d實物睇下 ， 開sem果陣個professor 唔俾人上堂講野 ， 但教書都ok既",
+      "comment_grading": "今個sem大家考得差 ， final mean 得 7，8字頭 ，所以好grade左 。 MT 高半個 final 高半個多d 就有B+ (HW LAB有9成分）",
+      "comment_workload": "要背lecture 考試前花多d心機 背哂所有lecture 同tutorial 尤其 tutorial 唔好覺得我講廢話 因為你唔上堂剩係背都夠",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "J16PxpUd33hWcj4zshD4ILgx7YZ7QQxO",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 189,
+          "name": "XU, Jiang",
+          "rating": 1
+        },
+        {
+          "id": 171,
+          "name": "LEUNG, Tsung Hsien Johnny",
+          "rating": 1
+        }
+      ],
+      "author": "butter New fly",
+      "date": "Jan 21, 2018",
+      "title": "",
+      "comment_content": "This course is about the most basic concepts of computer organization. It covers instructions of the computer, computer arithmetic, computer performance, single-cycle processor architecture, pipelined multi-cycle processor architecture and memory. The contents are relatively interesting and practical as well as essential for deeper electronic studies. As an introductory course, it could give me a basic understanding and raise my interest.",
+      "comment_teaching": "Professor gives very good and detailed explanation about most of the concepts. His tone of speaking makes it difficult to fall asleep, but this controversally as some friends are likely to sleep. He sometimes brings some manufactured sample ICs for us to get understanding. It is easy to find him to answer questions and it can really clear thoughts.",
+      "comment_grading": "The grading is generally considered not so satisfactory as it is absolute grading. However, the limit for each grade can be adjusted according to mean. The exams proved to be a bit difficult in total.<br /><br />Homework- 10% (two in total)<br />Lab- 20% almost everyone can get full point without preparing for it<br />Midterm- 30% mean:71/100, sd:18<br />final- 40% mean:59/100, sd:18<br /><br />Final has questions concerning memory that are difficult for beginners, and I believe reading the textbook could enhance understanding (but it&#039;s difficult to find time doing this).<br /><br />Overall, I got more than 90% and A+, my friends with around mean+sd got A-.",
+      "comment_workload": "Relatively light as no need to prepare for labs.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "PQC7ZfLQtMQCRkCWYduZNleY7tNOwW0U",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 189,
+          "name": "XU, Jiang",
+          "rating": 1
+        },
+        {
+          "id": 171,
+          "name": "LEUNG, Tsung Hsien Johnny",
+          "rating": 1
+        }
+      ],
+      "author": "Roy",
+      "date": "Dec 22, 2017",
+      "title": "輕鬆入門電腦course",
+      "comment_content": "上半部分主要教下MIPS Instruction Set<br />都係啲assembly language<br />即係學啲for機器睇既code<br />下半部分主力學CPU結構<br />分左single / multi / pipeline 3款<br />年年final都會叫你畫番個圖出黎<br /><br />Syllabus好短，考前兩日睇都睇得哂<br /><br />1.Introduction<br />2.MIPS Instruction set<br />3.Arithmetics<br />4.Performance<br />5.Single-cycle architecture<br />6.Pipelined multi-cycle architecture<br />7.Memory<br /><br />基本上都係睇完明左就去考得<br />唔明就背左佢，背哂佢入去考就ok",
+      "comment_teaching": "Prof.XU 講野好慢同好悶<br />但有心聽係學到野的，因為佢都幾有料<br />Lecture基本上可以由頭走到落尾<br />自己睇都會識 唔識Google一下就ok<br />因為啲野都係幾簡單<br /><br />Tutor最好上一上，Johnny教得好好<br />佢雖然講野有少少慢，但好有耐性同好nice<br />真係會教到你識為止，有咩唔明問佢就ok",
+      "comment_grading": "10% Homework<br />(成個sem得2份，考試會跟住黎出)<br />20% Lab<br />(total 5個lab，終極on9，完全唔知做緊乜，又或者你唔洗知佢做緊乜，全部都係照抄啲simulation result就ok)<br />30% Midterm<br />(輕鬆，明哂tutor/hw/sample paper就ok)<br />40% Final<br />(都係輕鬆，預兩日溫就ok，唔明記得問Johnny)<br /><br />依個course係Absolute grading<br />Midterm: 73.5/100 (mean 71)<br />Final: 68/100 (mean 59)<br />最後B左",
+      "comment_workload": "成個sem得2份功課<br />同5次lab<br />midterm final<br />超輕鬆workload<br /><br />Prof.一開頭話依個course好tough<br />因為要deal with好多machine code/language<br />但我讀完唔覺，反而比正常course輕鬆<br />3cred黎計算少野，考前一兩日先學都無問題<br />明到最好明 唔明就背 好輕鬆",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "4io15DC8xlty5okya3EVuwv7KyCLRlSZ",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 197,
+          "name": "KURSUN, Volkan",
+          "rating": 1
+        },
+        {
+          "id": 171,
+          "name": "LEUNG, Tsung Hsien Johnny",
+          "rating": 1
+        }
+      ],
+      "author": "Ludwig",
+      "date": "Jun 09, 2017",
+      "title": "",
+      "comment_content": "Material 都係果D, 唔再重覆.<br />但個Lab是極度濕9的. 做完都唔知做左D咩. 個Lab學唔到野, 又唔係真係好知佢做緊咩, 又唔太關Lect事.<br /> <br />想講下同COMP2611既分別<br />Comp係學MIPS, 但係就係主要係Programming 果邊. 一開始要學返D elec 野, 如gate. 有Programming assignment做, workload大<br />Elec focus 係個Hardware點整. MUX, Gate,&nbsp;&nbsp;ALU 點駁.",
+      "comment_teaching": "Kursun 講野好慢, 明明唔重要既野都會講半堂. D野重碌&amp;又重覆. <br />仲有Lecture video. <br />上左半個月堂就冇動力再上. <br />Johnny 係Lab,tut教得幾好",
+      "comment_grading": "Grading:<br />Lab: 5*4%=20%<br />HW: 2*5% = 10%<br />MT: 30%<br />Final 40%<br /><br />Lab基本上係送分, 因為D lab好易, 係叫Program run , run 完抄寫, 連Program 都係俾埋你. 錯一兩題先扣1-2分, 個Lab report係100分full, 所以大部分人每次Lab都係95-100分<br /><br />HW基本上每年差唔多, 同埋你係MT Final 前都要溫書架啦, 冇難度<br /><br />MT Final就我覺得唔難, 有樣野值得一提係Kursun會俾足夠時間你做. 佢份野1個鍾做得晒會俾2個鍾你做, 過左2個鍾仲會話驚大家做唔晒, 加時15分鐘.<br /><br />Grade: <br />MT 93 (mean=69) <br />Final 94 (佢冇出分And我係Email問佢分)<br />= A+",
+      "comment_workload": "Total 2 份HW,<br />Midterm前(前一個星期)一份, Final前(完Sem)一份<br />Lab就有2個Prelab (must attend) 之後有5次Lab.<br />果5次Lab其實好易, 淨係跟Instruction去做, 小學畢業既都識做. 半粒鍾做得完.<br />IA 話過罦5次Lab既Report可以係最後果次先交. 即係理論上你走左堂, 下次補返就OK. and 你其實可以最後一堂一次做5個Lab.<br /> Lab係2個人一組, 試過Lab partner 黎都冇黎. 照寫佢名交左都OK. 理論上冇Attendance. <br />基本上係0 Workload",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 1,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "F2YU9XxMPZt3AtlvsQqBQ0YV1ui6oWpn",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 189,
+          "name": "XU, Jiang",
+          "rating": 1
+        }
+      ],
+      "author": "seeseesky",
+      "date": "Jan 23, 2017",
+      "title": "",
+      "comment_content": "Not many mathematics-related content, easy for students who like recite and weak at calculus. The courses is all about MIPS and how the hardwares inside a computer system work collaboratively.",
+      "comment_teaching": "Lecturer is good. He is funny and his explanation is quite detail. Maybe it is because the course is easy to understand. Tutors are good and willing to answer students&#039; questions via email.",
+      "comment_grading": "Absolute grading, around 88% for A-range. Not difficult to get high mark but difficult to get A-range.",
+      "comment_workload": "Typical workload. Having 2 assignments, labs every week. They are quite easy to handle.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "1nVsSuWhSchkszI72avWLFVWDrEy3NX4",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 197,
+          "name": "KURSUN, Volkan",
+          "rating": 1
+        }
+      ],
+      "author": "fungsiu",
+      "date": "Aug 21, 2016",
+      "title": "",
+      "comment_content": "this course talk about assembly lang. Which is a low level language that can be easily understand by machine but harder for human to read. but still you can understand most of them. It talk about how would a command run in the computer in detail, and talk about calculating the efficiency of the machine.",
+      "comment_teaching": "Prof Kursun is a good prof, he talk with clear english and his own powerpoint is incredible. You really dont need much revision for the exams or mid-term IF you attended all lesson and listened carefully and jot some notes.",
+      "comment_grading": "The grading is similar to all ELEC courses, which is generally good, you will probably got B- if u get mean.",
+      "comment_workload": "Theres not much HW to do, about one per 2*-3 week. and the lab is not difficult, just follow the instrustions and the tutor will teach step by step",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "1vJDN27UWcWx7QmNv5PU4uojtSJ9mt5N",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 197,
+          "name": "KURSUN, Volkan",
+          "rating": 1
+        }
+      ],
+      "author": "Aye",
+      "date": "May 30, 2016",
+      "title": "",
+      "comment_content": "1.introduction<br />2.instruction<br />3.arithmetic for computers<br />4.performance<br />5.single cycle architecture<br />6.pipelined multi-cycle architecture<br /><br />I think the relatively difficult part go to chapter 2 and 6.",
+      "comment_teaching": "He modified the lecture notes a lot while teaching the second chapter &quot;instruction&quot;. This is kind of inconvenient for me to print notes. So I used the notes from the former semester.<br />In my opinion, he seems to have involved a lot of contents yet made it messy. The structure is not clear enough.<br /><br />Maybe read the book yourself and ask questions about what you are unclear is just enough.",
+      "comment_grading": "Good grade. Seems that A range is wide.<br /><br />10%Homework+20%Lab+30%Midterm+40%Final<br /><br />The format of the midterm is different from the pastpapers&#039;. There are true/false questions at the beginning.<br /><br />I can&#039;t find past final papers. There are no true/false in this final.",
+      "comment_workload": "Not high because you are not required to build a CPU.<br />Actually for homeworks, there are few changes compared with the past ones. You can refer to them.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "1AniECs6bb3Siv2O8HICGEoBsFNqyCXQ",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 197,
+          "name": "KURSUN, Volkan",
+          "rating": 1
+        },
+        {
+          "id": 171,
+          "name": "LEUNG, Tsung Hsien Johnny",
+          "rating": 1
+        }
+      ],
+      "author": "Duke of N.T.",
+      "date": "May 21, 2016",
+      "title": "",
+      "comment_content": "全世界教Computer Organization都係用同一本書，所以冇咩好講，亦都係因為咁，上網攞料好方便。成個course分三部份：MIPS, Performance, Architecture。MIPS呢就programming啦，呢部份係最有趣嘅，對於你programming嘅手勢大有好處。而Performance就最容易嘅，背好幾條公式即可。Architecture明左Concept就OK，同MIPS有關係，所以務必要處理好MIPS嘅部份。",
+      "comment_teaching": "Prof串串地，而且好有自己意見，唔多係一個好相處嘅人。例如同學九點堂恰眼訓，佢就會話：「返黎上堂就唔好訓，一係你返屋企訓之後睇返片。」又有次係臨落堂(佢堂堂都超時)，佢話：「我睇到有同學嘅眼神好不滿，咁不滿咪走先囉，我講緊重要嘅內容。」<br /><br />教學方面，佢以自製嘅密密麻麻密集恐懼症powerpoint教書。同一樣野會講好多次，講到你唔想聽，不過勝在一定會明。<br /><br />Johnny係好人，亦都好熟內容，不過佢教tutorial係好慢速唔多好聽的。",
+      "comment_grading": "LAB次次滿分應該冇咩問題。",
+      "comment_workload": "不用預備的LAB，次次滿分。功課得兩份。",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "p2NVSVFj0aOFZNf9bqddgIAJvZ5zgvoB",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 189,
+          "name": "XU, Jiang",
+          "rating": 1
+        },
+        {
+          "id": 171,
+          "name": "LEUNG, Tsung Hsien Johnny",
+          "rating": 1
+        }
+      ],
+      "author": "Ken",
+      "date": "Aug 09, 2015",
+      "title": "",
+      "comment_content": "This course talks about assembly language, hardware of a processor, performance ,memory and how computer do arithmetric. It covers basic,advanced and pipeline processor. Professor XU focus more on concept things while another professor that teach this course focus more on writing assembly language.",
+      "comment_teaching": "Professor XU teach quite good and interesting. TA johnny is very helpful and he explained our question quite detailed.",
+      "comment_grading": "Professor said this course is absolute grade.",
+      "comment_workload": "This course has little workload, 2 assignments, lab exercise, 1 midterm and final. There are only 6-7 lab in this course. You can need to record the waveform and do a little analysis. Many students get above 90% in lab exercise.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "course": {
+    "id": 2609,
+    "subject": "COMP",
+    "code": "4901K",
+    "name": "Machine Learning for Natural Language Processing",
+    "description": "This course provides an introduction to statistical machine learning algorithms for natural language processing and using programming tools such as Python (including packages such as NLTK and Tensorflow) to implement them for real problems. It will use some of the following practical problems such as text classification, information extraction, sequence modeling, text inference, QA system, etc. as illustrations to demonstrate the power of the statistical learning algorithms.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2010,
+      1810
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"COMP\" data-code=\"2011\" href=\"/review/COMP2011\" target=\"_blank\">COMP 2011</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012\" href=\"/review/COMP2012\" target=\"_blank\">COMP 2012</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012H\" href=\"/review/COMP2012H\" target=\"_blank\">COMP 2012H</a>) AND (<a class=\"course-link\" data-subject=\"COMP\" data-code=\"2711\" href=\"/review/COMP2711\" target=\"_blank\">COMP 2711</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2711H\" href=\"/review/COMP2711H\" target=\"_blank\">COMP 2711H</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2343\" href=\"/review/MATH2343\" target=\"_blank\">MATH 2343</a>) AND (<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2111\" href=\"/review/MATH2111\" target=\"_blank\">MATH 2111</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2121\" href=\"/review/MATH2121\" target=\"_blank\">MATH 2121</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2131\" href=\"/review/MATH2131\" target=\"_blank\">MATH 2131</a>)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.5,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 909,
+        "name": "SONG, Yangqiu",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "VlykWsEZeidQUjjUb1HisQM32W8CZ170",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 909,
+          "name": "SONG, Yangqiu",
+          "rating": 1
+        }
+      ],
+      "author": "Tommy Li",
+      "date": "Jan 11, 2021",
+      "title": "My Favourite 4000-level COMP course (if grades are not considered)",
+      "comment_content": "The course guides you through a journey from old statistical models to the latest neural transformer models for various NLP tasks. The course put more focus on the machine learning part instead of NLP. The topics are introduced in a chronological order which would make the intuitions clear and logical. The most interesting thing is some of the newer models actually incorporate classic techniques or their variants. For example, in few shot learning, we can borrow the concept of distance/similarity from KNN to determine which is the most similar.<br /><br />Some other things that I liked:<br />- Introductory topics are discussed in depth while advanced topics are discussed in brief. A good balance between depth and breadth.<br />- Handful of tools introduced in tutorials. (but the code quality is not that good)<br />- Supplementary PG materials are provided for reference. (I didn&#039;t read any of them tho)<br /><br />Syllabus is approximately the same as the past offering.<br />Lecture 1: Introduction<br />Lecture 2: Introduction to NLP<br />Lecture 3: Introduction to NLTK<br />Lecture 4: Vector Space Model<br />Lecture 5 and 6: Introduction to Classification<br />Lecture 7: Naïve Bayes<br />Lecture 8: Perceptron, Error-Driven Classification<br />Lecture 9: Logistic Regression<br />Lecture 10: Neural Networks<br />Lecture 11: CNN<br />Lecture 12: Language Models<br />Lecture 13: Neural Language Models<br />Lecture 14: Word Embeddings<br />Lecture 15: Sequence to Sequence Learning<br />Lecture 16: Attention Models<br />Lecture 17: Knowledge Graphs and Its Applications in Healthcare<br />Lecture 18: Machine Learning For NLP: Past, Present, and Future<br /><br />It seems that the prof. has responded to the previous review by:<br />- Cutting 1 intro lecture (if the 3 lectures intro from previous review is true)<br />- Emphasizing the connection between different parts, especially between logistic regression, perceptron and naive bayes (which I found interesting)<br /><br />In any case, it would be much better than COMP 4211 by James Kwok which you will literally learn nothing. :)<br />(Feel free to refer to my COMP 4211 review)",
+      "comment_teaching": "Prof. Song is a nice and passionate instructor. He also knows the field well so he is able to give a good introduction to the current trend or some of the state-of-the-art techniques in the NLP field.<br /><br />Sometimes, he would ask us for opinions on the course. It seems that he is willing to improve. For the last lecture, there is not enough time to accommodate all students to answer questions for the bonus. He is kind enough to open up extra sections for us to discuss with him.<br /><br />[Review WIP, currently short and messy, will update soon]<br /><br />Disclaimer: I attended every lecture in real-time, and face-to-face (while mixed mode was adapted).<br /><br />(P.S. One fun fact: I have written 20+ reviews in USTSPACE. If you have read those reviews too, you will find my English is bad. The only two vocab that I used for describing good instructors are &quot;nice&quot; and &quot;passionate&quot;. lol)",
+      "comment_grading": "The prof. said he could give a larger A range due to relatively low enrollment in the course. However, I don&#039;t have any data to support this. And, consider my personal score and the statistics, the grading is not particularly good. I would say take this course for content but not for grades.<br /><br />Score breakdown and statistics:<br />Lab Assignments (30%): 24/24<br />Final Project (20%): 99/100 (Mean: 90.4)<br />Project Presentation (10%): 9.2/10 (Mean: 8.2)<br />Final Exam Part 1: 50/55 (Mean: 36, High: 53)<br />Final Exam Part 2: 36/45 (Mean: 23.9, High: 43)<br />Final Exam Overall (40%): 86/100 (Mean: 59.9)<br />Bonus: +2%<br />Overall: 95.4% =&gt; A<br />(All statistics are from Canvas)<br /><br />9 point were deducted in exam part 2 purely due to missing steps in the answer sheet. However, it is not explicitly mentioned steps are required. It feels so bad to lost points because of that. That might be the reason that I lost the subgrade.<br /><br />Another thing is my group got the highest test accuracy among 20+ group in class. Sadly, there is no bonus for that. From the presentation, most (if not all) groups pass the baseline model by TA for full points in the model part. The top model (from our group) is having 3.7% higher accuracy than the full points baseline.<br /><br />&quot;The test acc of 80%, 90%, and 100% baselines are 83.4%, 88.2%, and 89.9% respectively.<br />The top 5 test acc are as follows: 93.6%, 92.72%, 92.68%, 92.61%, and 92.23%.&quot;<br /><br />Few points that I considered to give &quot;B&quot; for the grading:<br />- Not easy final exam with mean ~60 while there are quite a number of student that hold up the top grades<br />- Bonus is given. However, it seems to me that it did not pull up my grades.<br />- The project grading scheme fails to award students that performed very well.<br /><br />I will try to ask some of my friends for more statistics.",
+      "comment_workload": "Prof. has reduced the workload for the current semester by cutting down the number of project and cancel the midterm. The workload is light compared to most COMP electives.<br /><br />Lab Assignments:<br />Although lab attendance is not compulsory, there is one lab assignment after each lab. Each one will take you 10~15 minutes only as you only need to copy and paste the code from the lab materials.<br /><br />Project:<br />The project is easy. It is a named entity recognition task on a covid-19 dataset. To get a full score on the model component (which weight 80% of the project), you only need to build a model to pass a weak baseline provided (see Grading section). The first model that I built already passed the full score baseline. I was quite shocked to be honest. It was basically a 2-layer bidirectional 64-units LSTM with Adam (default hyperparameters by Tensorflow). <br />Our final model is a scaled up version of the first model described above with the addition of convolutional layers. Although the architecture is mostly the same, my groupmate and I spent some time trying a lot of things to make the model work well. It was quite fun to mess around actually. (Remember the times when we first learn programming?) You can refer to our presentation slides (section below) for details if you are interested.<br /><br />Project Presentation:<br />Basically we copied everything in the report to the slides. We prepared too much slides in fact.... It was a 6 minutes presentation and the TA will stop you if time is up. So, we don&#039;t have time to present all of the slides. I think it is a good idea to post the slides here so the slides remaining won&#039;t be wasted lol.<br />https://drive.google.com/file/d/1JyzasK0mh_85pF07rLOr-sL4Vw6aJd6e/view?usp=sharing<br /><br />Final Exam:<br />Only a single year of past paper is given (due to the course has been offered only once before). Despite of that, I spent quite some time revising the exam. My strategy was to practice COMP 4471 papers (practicing derivatives is a must) then fine tune on Standford cs224n papers. Then, I coded up simple programs for all the standard computation questions given in the past paper to be used in the exam.<br />The exam is relatively long. Due to my poor multi-variable calculus background, I did not manage to finish my derivation properly in the derivative question. (The notations are not well defined, and there are wrongly transposed matrices everywhere.) Do try to write something tho coz I still got full points on the question despite of that.<br />I would say my strategy worked quite well. The simple programs that I wrote speeded up my calculations by a lot. I also feel more comfortable when answering other questions. There is no way to finish the paper on time without practice and tools. My advice would be do try to find some problems from other courses (in terms of ML, to do transfer learning!) and prepare some tools before the exam. And, remember to write steps so you won&#039;t get tons of points deducted like me. :(",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "cFXbVixoq6vLA9E6H2RMwneGmzdqFzvZ",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 909,
+          "name": "SONG, Yangqiu",
+          "rating": 1
+        }
+      ],
+      "author": "csisgood",
+      "date": "Jan 18, 2019",
+      "title": "Machine Learning + Natural Language Processing",
+      "comment_content": "Five points to conclude this course (TLDR):<br />1. Grading is OK<br />2&nbsp;&nbsp;Easy Midterm and Final <br />3. Middle to Heavy Workloads <br />4. Rich Contents but not organized well <br />5. Poor Teaching and Poor Lecture Notes<br /><br />-----------------------------------------------------------------------<br />Unlike the course COMP4221 taught by Dekai. This course focus on solving the NLP problem via Machine Learning / Deep Learning. But, it is good to take COMP4221 before taking this course in order to have some basic ideas of NLP. This course will skip some fundamental NLP and directly go to NLP in ML.<br /><br />Rich Contents<br />The following topics are covered:<br />1,2,3 The first 3 lectures are all wasting time introduction....<br /><br />Before Midterm (NLP + Traditional Machine Learning)<br />4. NLTK (Tokenization)<br /><br />5. Vector Space Model (WordNet, Word Similarity, Vector Space Model, Bag-of-words, Zipf’s Law, Stemming, Stop words, TF-IDF)<br /><br />6. Classification (Classification, Feature Selection, Loss Function, Evaluation Methods , Training Size, Paired t-test, Bayes risk, type of classification methods)<br /><br />7. NaiveBayes (NaiveBayes Classifier, Laplace Smmothing,&nbsp;&nbsp;K-Fold Validation)<br /><br />8. Perceptron (Preceptron Algorithum, Perceptron Learnability, Convergence, Perceptron-Mistake Bound, Averaged Preceptron)<br /><br />9. Logistic Regression (Logistic Regression, Newton Method, Stochastic/Batch/Mini-Batch Gradient Decent, Adam, Learning Rate, Decaying learning rate)<br /><br />After Midterm (NLP + Deep Learning)<br /><br />10. Neural Network (Feed Forward Network, Dropout, L1/2 Regularization, Activation Function, Back Propagation, Batch Normalization, Learning Rule, Over fitting, Gradient Checking, Convolutional Layer, Pooling Layer, CNN for NLP)<br /><br />11. Language Model (N-Gram Model, Maximum Likelihood estimation, Smoothing, Perplexity)<br /><br />12. Neural language models (Probabilistic Language Models, Log-Linear Model, Recurrent Neural Network, Back Propagation in RNN, Vanishing/Exploding Gradients, Bi-directional RNN, LSTM, GRU)<br /><br />13. Word Embedding (Cross Entropy Loss, Count Based Approach, Word2vec(CBOW), Glove)<br /><br />14. Seq to Seq Model (Machine Translation Model, Encoder-Decoder, BLBU)<br /><br />15. Attention Mechanism (Different Attentions, Self-Attention, Transformer Network)<br /><br />16. Information Retrieval and Knowledge Graph<br /><br />17. Future of NLP",
+      "comment_teaching": "Poor Teaching and Poor Lecture Notes<br /><br />1. His sound was too little and the tone was too soft. <br /><br />2. Teaching was not in a systematic way. He couldn&#039;t connect the idea of each parts, both in his lecture note or in his teaching in the lesson. The entire lecture notes seems a groups of irrelevant things mixing together.<br /><br />3. Waste too much time in introduction. 1 Lecture for Intro . course, 1 Lecture for Intro. NLP, 1 Lecture for Intro. Python, 1 Lecture for Intro. NLTK .....<br /><br />4. Difficult to catch the important point from his teaching.",
+      "comment_grading": "50% Project and Tutorial<br />10% Midterm<br />40% Exam<br /><br />Easy Midterm and Final <br />Exam and Midterm are all heavy computational Tasks. <br /><br />Grading is Fair.<br />Midterm higher than mean 0.5 sd<br />Exam higher than mean 1sd<br />Project and Assigment nearly full marks<br />=B",
+      "comment_workload": "Middle to Heavy Workloads <br />10 Tutorials<br />4 Projects<br />Projects 1 - Naive Bayes Classifier <br />Projects 2 - Classification using Logistic Regression<br />Projects 3 - Word Generation using RNN<br />Since there was not enough time, he cancelled project 4<br />All Projects contain reports and codes",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

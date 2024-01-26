@@ -1,0 +1,32 @@
+{
+  "course": {
+    "id": 2813,
+    "subject": "FINA",
+    "code": "6910D",
+    "name": "Advanced Venture Capital Investing",
+    "description": "The Advanced Venture Capital (VC) Investing course is a follow-up of the FINA 5390 VCPE course, with a particular focus on early-stage venture companies. Participants will be able to experience and practice all the learned materials, particularly those related to the VC endeavors, in real-world VC settings. Participants will “invest” alongside VC practitioners as well as being guided by investing, accounting, and legal professionals on various topics such as screening prospective investee companies in a live pitch session and drafting and compiling due diligence lists, term sheets, the required closing documentations, and valuation assessments with respective professionals, in addition to presenting early-read memos to industry professionals (e.g., members of the investment committee (IC)) for deal approvals, among other topics.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      1930,
+      1830
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"5210\" href=\"/review/FINA5210\" target=\"_blank\">FINA 5210</a> AND <a class=\"course-link\" data-subject=\"FINA\" data-code=\"5290\" href=\"/review/FINA5290\" target=\"_blank\">FINA 5290</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

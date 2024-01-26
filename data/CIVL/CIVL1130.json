@@ -1,0 +1,160 @@
+{
+  "course": {
+    "id": 134,
+    "subject": "CIVL",
+    "code": "1130",
+    "name": "Monumental Structures from Ancient to Modern Times",
+    "description": "Introduction to fundamental structural concepts; development and evolution of structural materials and structural forms; creative expression in the Built Environment; various kinds of monumental structures: temples and cathedrals, bridges, towers, stadiums, skyscrapers and other special buildings; outlook for the future.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1540,
+      1440,
+      1430
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.33,
+    "rating_teaching": 3.67,
+    "rating_grading": 4.33,
+    "rating_workload": 3.67,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 65,
+        "name": "HU, Wei Chung",
+        "count": 2
+      },
+      {
+        "id": 84,
+        "name": "PANG, Paul Tat Choi",
+        "count": 1
+      },
+      {
+        "id": 93,
+        "name": "MICKLEBOROUGH, Neil Colin",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "LjB5Y9WyKUwn4ywAsCXwGgWQA3mPxVYH",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 65,
+          "name": "HU, Wei Chung",
+          "rating": 1
+        },
+        {
+          "id": 84,
+          "name": "PANG, Paul Tat Choi",
+          "rating": 1
+        }
+      ],
+      "author": "Kitty Leung",
+      "date": "Jul 07, 2016",
+      "title": "",
+      "comment_content": "Content covers basic manufacturing and physics knowledge, such as loading, building materials, bridges and tall buildings. The most interesting part is watching a video about the Pyramid, that discusses answers to some famous mysteries.",
+      "comment_teaching": "Quite boring in the way that the professor mostly teaches from the lecture note, with some graphical explanations occasionally.",
+      "comment_grading": "Quite good grade given that I have never learnt any physics knowledge including graphics and calculation after junior secondary school.",
+      "comment_workload": "1 midterm and 1 final examination in the format of both straight-forward MC, True or False questions, and long questions (including essay and graphics drawing), 2 lab reports (one about HKUST sundial requiring the use of computer software to manipulate the calculation, and one about comparison between concrete and glass) with guidelines, 1 group report and presentation on an internationally well-known structure.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "AYzuAJxA8dYhGyBbTD1czz7xIKN5jqIz",
+      "semester": "2014-15 Summer",
+      "instructors": [
+        {
+          "id": 93,
+          "name": "MICKLEBOROUGH, Neil Colin",
+          "rating": 1
+        }
+      ],
+      "author": "Didi",
+      "date": "Jan 26, 2016",
+      "title": "",
+      "comment_content": "古代的西方建築, 橋, 建築物料...",
+      "comment_teaching": "教授好nice, 可以make-up exam(可能因為summer所以時間表free d, 不過唔好太遲因為佢好快改完卷之後派番), 佢講野細聲又快會飛ppt",
+      "comment_grading": "佢冇正式講mean同sd,midterm我80/100, final同project唔知幾分, 最後A左<br />你想知考成點應該可以問佢, 因為我email問佢MEAN同SD, 佢順便講埋我midterm係top 20%(唔知堅唔堅)",
+      "comment_workload": "其實係死記為主, midterm同final都係question not MC, 有一兩條(total十條)係比D資料你問番果個建築物叫咩名lol, 不過佢比分應該幾鬆(佢叫我地唔好寫咁多野)<br />個project係一人project, 任你揀1個建築物之後寫寫寫, 我寫左1600字, 個人建議寫中國建築, 因為資料易睇d(中文ma)同埋轉番英文交turnitin都check唔到你",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "MhdZhliEtffOdoelBMOjzgOyopUlycJc",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 65,
+          "name": "HU, Wei Chung",
+          "rating": 1
+        }
+      ],
+      "author": "younowho",
+      "date": "Aug 25, 2015",
+      "title": "",
+      "comment_content": "Content is easily understandable, mostly about load, structures and materials. All the points are covered in the Powerpoint Slides. The prof showed some video clips, which made class interesting.",
+      "comment_teaching": "The Prof is quite flexible in terms of grading and exams. Originally, there were supposed to be three quizzes, but then the prof reduced to two quizzes due to insufficient time.",
+      "comment_grading": "Grading is good. As long as you study for the quizzes and exams, you will easily get A range. Attend all the labs (as attendance counts) and complete group reports. <br /><br />In my group, one got B+, another got A- and one got A.",
+      "comment_workload": "Workload is light. Apart from two quizzes and one final exam, there are occasional lab sessions. There are two labs. One about measuring the angle of the Sundial. The other one about the strength of ductile and elastic materials. After attending the labs, the group was required to submit lab reports. At the end of the semester, each group was required to do a 10 min presentation on a self-decided topic in front of the class. Personally, I think the workload is light.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

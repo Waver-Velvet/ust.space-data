@@ -1,0 +1,108 @@
+{
+  "course": {
+    "id": 3751,
+    "subject": "COMP",
+    "code": "4222",
+    "name": "Machine Learning with Structured Data",
+    "description": "This course provides an introduction to statistical machine learning algorithms for structured data such as text sequences, taxonomy trees, relational databases (such as knowledge bases), and graphs (including graph databases such as biomedical graphs and large heterogeneous information networks such as knowledge graphs), and using programming tools such as Python to implement them for real problems. It will use some of the following practical problems such as text and graph classification, statistical relational learning, information extraction, sequence modeling, graph modeling, protein 3D structure prediction, QA system, etc. as illustrations to demonstrate the power of the statistical learning algorithms.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2210
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"COMP\" data-code=\"2011\" href=\"/review/COMP2011\" target=\"_blank\">COMP 2011</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012\" href=\"/review/COMP2012\" target=\"_blank\">COMP 2012</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012H\" href=\"/review/COMP2012H\" target=\"_blank\">COMP 2012H</a>) AND (<a class=\"course-link\" data-subject=\"COMP\" data-code=\"2711\" href=\"/review/COMP2711\" target=\"_blank\">COMP 2711</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2711H\" href=\"/review/COMP2711H\" target=\"_blank\">COMP 2711H</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2343\" href=\"/review/MATH2343\" target=\"_blank\">MATH 2343</a>) AND (<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2111\" href=\"/review/MATH2111\" target=\"_blank\">MATH 2111</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2121\" href=\"/review/MATH2121\" target=\"_blank\">MATH 2121</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2131\" href=\"/review/MATH2131\" target=\"_blank\">MATH 2131</a>)",
+    "corequisites": "",
+    "exclusions": "MATH 4632",
+    "rating_content": 4.5,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 909,
+        "name": "SONG, Yangqiu",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "pplEHnzljx7a2nM5zIEpM0wgQG8gRTZn",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 909,
+          "name": "SONG, Yangqiu",
+          "rating": 1
+        }
+      ],
+      "author": "B.T.",
+      "date": "Dec 28, 2022",
+      "title": "Qifeng’s style. Machine Learning in Graphs (COMP4641+COMP4211)",
+      "comment_content": "Machine Learning in graphs.<br /><br />It covers graphs from basics like graph representations, nodes/edges, bipartite graphs, directed/undirected, strongly connected components. This part is similar to COMP3711.<br /><br />After that, it will move on to more about graph features, such as node centrality, degree and closeness. This part is similar to COMP4641. It also covers graph isomorphism (like what you learnt in high school chemistry).<br /><br />Then, it goes deeper into the unique contents of this course. It covers graphs embeddings, using shallow encoding, random walks, etc.<br /><br />After that, Graph Neural Networks. CNN, RNN and LSTM are briefly covered and more focus are on GNNs, including message propagation and aggregation. Graph Convolutional Layers are also introduced. This part is similar to COMP5214 or equivalent.<br /><br />Then, more on analysing GNN, including powerfulness of different aggregation methods, how to encode relations, etc.<br /><br />After that, homogenous graphs and knowledge graphs, which are just extension of the previous topics having different labels at nodes.<br /><br />Finally, Recommender Systems using statistical and graphs representation. This part is similar to COMP4332.<br /><br />At the end of the course, it is wrapped up with self-supervised learning in graphs and Generative Adversarial Networks. This lecture just briefly covered the topics and this part is similar to COMP5214.<br /><br /><br />Comments:<br />Allow me to make an analogy here. You entered a Nike, and it sells you apples, but the apples are quite delicious.<br /><br />The topic of this course is called Machine Learning with Structured Data. I was quite excited when enrolling into this course coz I was thinking I will learn the representations of different data, probably on some smart databases or whatever, then further use Machine Learning to analyse the “structured data”. While it is true that graphs is undeniably one of the most important data structures, and graphs can generalise many things, I still think it will be too ridiculous to cover only graphs neural networks but not others in this course.<br /><br />Probably that’s because the professor shifted his research focus to graphs. Formerly he loves NLP and I doubt whether this course would be all texts and RNN and Bi-LSTM if it was offered before, lol.<br /><br />However, having that said. I still like the course contents. Just because a Nike shop sells apples, that does not mean the apples are bad. Indeed, there is no any other course in HKUST covers graphs machine learning in such depth and it is pretty interesting yet potentially useful. The most mimic course maybe COMP4641 but not much deep GNNs are covered there. COMP5214 just covers graphs in only 1-2 lectures only.<br /><br />Therefore, if you are here to learn general ML, don’t take this course, as images, texts, numerical and statistical data are all omitted in this course. However, if you already had prior MLs in CV or NLP, and is eager to learn more on the social and graphs aspects, you are recommended to take this course.",
+      "comment_teaching": "Chen Qifeng’s style of teaching I would say. I have taken Qifeng’s 5214 before and I find their teaching styles very similar. Mainland students may think them enjoyable due to many mathematical formulas on slides and a thick chinese accent.<br /><br />I personally lose concentration quite easily due to the professor’s monotone reading aloud and complex formula in the slides that probably take me much more time to digest compared with his time used to explain the maths behind.<br /><br />He is willing to answer questions, same as Qifeng, and loves to chat with students (usually in Putonghua) after classes on the concepts that he has covered.<br /><br />I can tell he is intelligent and enthusiastic, but that does not necessarily make him a good instructor. Indeed, his logistics announcements are a bit vague and it is hard to guess what being required for each task. Also, the slides are pretty unorganised that probably he copied some from website A and others from website B. It is quite difficult to follow during revision.<br /><br />But if you love going deep into researches, you may like him.",
+      "comment_grading": "Good grading indeed. I am not sure about the exact grading distribution but he said he will give max A-range allowed.<br /><br />However, the grading scheme is a bit nonsense and that’s why I give a “B” here.<br /><br />15% reading notes x 3 (5% each)<br />35% project code and report<br />10% project presentation<br />40% final exam<br /><br />Reading notes and project codes are due the same day in mid-Nov where almost everyone got full in reading notes. It seems the TAs do not really mark them but give full credits for efforts. I would have put more time on project if having known that.<br /><br />Project report is also a case where many groups fall in similar range of scores. The highest was 98, upper quartile was 97, my group got 96 and the mean was 94.8.<br /><br />Project presentation is probably one thing that differentiate students, where I got 93/100 with no statistics released. However, this is not a LANG course so I am not sure why it should be the case.<br /><br />Nonetheless, the final exam is the major differentiator. I scored 83 where the UQ was 78 and the mean was 62.2<br />**Note: the final exam is pretty tough indeed. I wrote 3-hours non-stop and my brain hurts after it.<br /><br />From what you can see, my final score should be at around the top 20 percentile of the class. And having such score maps to a straight “A” but not “A-“. Very good grade indeed.<br /><br />Yet, there is no assignments, no other quizzes to differentiate students’ ability. If one plays luck and does well in the final, he may get A+. Therefore, I do not like about the grading in terms of the scheme, even though I got the second best possible letter grade.",
+      "comment_workload": "It can be light or high, depending on you. And most ridiculously, it does not affect your final grade!<br /><br />Since you can get full in reading notes even you wrote 3 sentences (but I wrote 5+ pages with proper citations for each note). Ofc, I got full, just everyone does too.<br /><br />For the project, I spent three overnights for coding and two more overnights for documenting my report. I made my report pretty with proper formatting and citations. Yet, seemingly you get 9x score whatsoever.<br /><br />So, the actual workloads really depends on how much you want to learn and efforts you like to pay. Grading is not a concern of your workload.<br /><br />Oh, and in terms of learning, it is more about “research in this field”. If you like doing research and reading others’ papers, then this course is for you. But if you want more applications, maybe through programming assignments, then I am sorry to tell you that there is no any PA throughout the semester. I would say this part is even worse than Chen Qifeng’s class because you can still learn a lot from its PAs regardless of his poor lecture delivery. Of course, the PAs in Qifeng’s are designed by Stanford or MIT (that may be even better tho).<br /><br />If this course is to be offered again, I would really suggest changing the reading notes to PAs for students to do some practical work to make sure they can catch up the lectures, and grading the projects more seriously to better differentiate students’ ability other than solely the final exam.<br /><br />Talking about the final exam, it asks more than half of the problems on “how many parameters”, which is basically English reading comprehension over a passage and making careful conclusions. For the remaining half, they are more related to the lecture concepts, graph theories or a few points the the professor highlighted in class. So you can still make some revisions for the final.<br /><br />The final exam is at least fair at the end of the day.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 6,
+      "vote_count": 8,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "H00KALDEpObjDab8BatFF7zGSKydUkoO",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 909,
+          "name": "SONG, Yangqiu",
+          "rating": 1
+        }
+      ],
+      "author": "落車請早揚聲",
+      "date": "Dec 23, 2022",
+      "title": "In depth and practical content, normal grading",
+      "comment_content": "Despite that the &#039;official&#039; previous course code is COMP4901K, which is &#039;DL for NLP&#039;, the content of this course is totally different from 4901K. <br /><br />Below are the list of contents:<br />1. Course Intro and Graph Representation (Stuff from COMP2711H/3711)<br />2. Node level and edge level feature design (what happens before DL, feature engineering)<br />3. PageRank (just make sure you understand eigen-vectors and power iteration)<br />4. Graph Laplacian (This shit is pretty hard and requires decent Linear Algebra knowledge)<br />5. Network Representation Learning (Shallow embedding stuff, basically a bridge lecture before diving into GNNs)<br />6. GNN (mainly GCN + GraphSAGE)<br />7. Spectral domain understanding of GCN (relies heavily on Graph Laplacian and Graph Fourier Transform, I personally think this is the hardest lecture)<br />8. General GNN framework<br />9. GIN (most expressive msg passing GNN)<br />10. Heterogenous graph and Knowledge graph (RGCN, TransE, TransR, DistMult, etc.)<br />11-12. Recommender Systems<br />13. Advanced topic (Adversarial attacks + SSL)<br /><br />Most of the content is copied from CS224W from Stanford (just like COMP4471 copies from CS231N), and mainly focuses on ML on graphs (GNN, etc.). Since it&#039;s mostly from Stanford, the content is really decent, in depth, and practical. The professor did add something that was not covered in CS224w, and that is the spectral domain part. And it turns out to be the hardest part.<br /><br />I don&#039;t think the official prerequisite is really helpful, just make sure you know the followings then you&#039;ll be fine:<br />* Graph Representation (COMP2711H/3711)<br />* Basic ML concepts (COMP4211/4471 or any ML course; I think COMP2211 might even be enough)<br />* Linear Algebra (MATH2111/2121/2131)",
+      "comment_teaching": "Yangqiu is really a rare young assistant/associate professor who is mainly engaged in scientific research but can still give lectures seriously and clearly. Many young and bright assistant/associate professors just really can&#039;t teach (and I have taken several of those kind of courses, it&#039;s completly self-learning), they just focus on their resarch and does a terrible job in delivering lectures. <br /><br />Yangqiu can explain concepts clearly and logically. And his English is pretty good. After each lecture, as long as you stay focused, it&#039;s not hard to get the takeaway. If there are questions, yangqiu is willing to answer all of them after class as well. In fact, this semester, after every lecture, there is always a heated discussion and Q&amp;A session between yangqiu and a huge bunch of students. (I personally quite enjoy this atomsphere, it&#039;s really been a long time since I last experienced this in a university course)<br /><br />The TAs also did a great job in preparing the tutorials. And their English is decently good as well. Man it feels great to attend lectures/tutorials where the presenter knows how to speak English",
+      "comment_grading": "I think the grading is just normal.<br /><br />Scheme:<br />Reading notes 15%<br />Project code and report 35%<br />Final project presentation 10%<br />Final exam 40%<br />(That&#039;s right, no HW or PA. Reading Notes refer to reading notes after reading papers.)<br /><br />Probably most students get full in reading notes.<br />As for the project and presentation, not everyone gets full, but the standard deviation is very small in a way that the difference between the upper quartile and lower quartile is rougly just 5 points out of 100. (However my group got slightly below mean for the project which I really don&#039;t understand. I think we had chosen a meaningful project topic with a dencent amount of coding and experiments and analysis, I don&#039;t quite understand why we would fall in the &#039;below-mean&#039; region. But since the std is very small and not differentiating among students, we didn&#039;t regard it as a big deal. Confused though....)<br /><br />As usuall, what determine the grades is mainly the final exam. The professor said that he will give nearly 25% A range, and most students will get B, only a few will get C or below. <br /><br />(============= correction ==============)<br />Ok it seems that what determine the grades is not just the final exam. <br />One of my group mates, who got 80 in the final exam, got a B+, but another student (not in the same group with me), who also got 80 in the final exam but received &#039;high&#039; in the project report got an A. So the bins are extremely tight and even just a few more points in any of the components can boost your subgrade.<br /><br />It turns out that the cutoff for A range was 89.5. And the A range given was almost 25%. My poor group mate got a B+ with an overall of 89.45 :( <br /><br />I personally know more than 10 students in this class, all of whom are top students. Considering there are in total only 58 students yet the A range is strictly controlled under 25%, it&#039;s exceedingly competitive. (In Chinese: SO 卷)",
+      "comment_workload": "The workload is pretty small except for the project. Basicaly all the workload lies in Final Revision + Project Completion. And if you chose a simple project topic, then basically the only workload is to revise for the final.<br /><br />I do think that the workload should be slightly intensified by adding some homework or PA. I mean, CS224W actually has both written assignments and PA. Without these, sometimes I really don&#039;t know if I understood the materials decently or not. There lacks a way for self evaluation. And this was particularly frustrating when preparing for the final exam since we had no pastpaper considering this is the first offering. The homework or PA could have served as a reference for us to self-evaluate our understanding and do some excercise for preparing for the exam.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 2,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

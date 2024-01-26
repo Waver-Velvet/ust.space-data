@@ -1,0 +1,119 @@
+{
+  "course": {
+    "id": 3534,
+    "subject": "ISOM",
+    "code": "3000G",
+    "name": "Mobile Applications Development for Business",
+    "description": "This course introduces the programming concepts, techniques, and tools for mobile applications development. Students will be exposed to the business models of mobile applications. They will learn the design concepts and acquire the knowledge and skills for implementing mobile applications for business.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2210,
+      2110
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3230\" href=\"/review/ISOM3230\" target=\"_blank\">ISOM 3230</a> OR <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3320\" href=\"/review/ISOM3320\" target=\"_blank\">ISOM 3320</a> OR <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3400\" href=\"/review/ISOM3400\" target=\"_blank\">ISOM 3400</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"1029A\" href=\"/review/COMP1029A\" target=\"_blank\">COMP 1029A</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2521\" href=\"/review/COMP2521\" target=\"_blank\">COMP 2521</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"4521\" href=\"/review/COMP4521\" target=\"_blank\">COMP 4521</a>, <a class=\"course-link\" data-subject=\"ELEC\" data-code=\"4330\" href=\"/review/ELEC4330\" target=\"_blank\">ELEC 4330</a>",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 1.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 377,
+        "name": "CHEUNG, Yat Ming",
+        "count": 1
+      },
+      {
+        "id": 949,
+        "name": "LAI, Sum Yu",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "gdZDVSiX1Yfb8WJQ728QPwjkbAvNvkmS",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 377,
+          "name": "CHEUNG, Yat Ming",
+          "rating": 1
+        },
+        {
+          "id": 949,
+          "name": "LAI, Sum Yu",
+          "rating": 1
+        }
+      ],
+      "author": "asdfghjkl",
+      "date": "Jan 26, 2022",
+      "title": "Chur but suddenly good grade",
+      "comment_content": "Previous comment say so good, so detailed!<br /><br />Make sure you have some frds who know java/programming.",
+      "comment_teaching": "TBH no listen at all, I think the course materials are not that relevant to the assignments.<br />I watch YT videos/google to finish all assignments...course material not very useful...",
+      "comment_grading": "A range. Thank you! I love Samuel and his 5 dogs!<br />Inclass submission - everyone should be full mark<br />Individual assignments(20%*2)<br />group proj - dk the exact score but didn&#039;t do so well, have some bugs ahahaahahahh<br />Dk why so good grade but so thankful, that&#039;s why I am 9writing this cm.",
+      "comment_workload": "Very very chur when need to hand in assignments, esp the group assignment. Better start doing it asap, look at YT videos and build sth first.<br />Prof and Samuel already help us and postpone the deadline, but still chur die. So many errors and cant solve, really really tiring, and lose many hair.<br /><br />For individual assignments, not that hard (as long as you spend more time to google, you will be able to finish it ;P) <br />P.S. Use L jor 2 full days to do one assignment. I am programming rubbish ;)",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "NuG5x5A8yo60GtzZxb1ycIKtQYRr6GGy",
+          "name": "ISOM3000G Syalbus 2021Fall-updated",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "RGZFMgwCufGP8s7h24qY4qNAxr47O0W3",
+      "semester": "2021-22 Fall",
+      "instructors": [],
+      "author": "hopexmoon",
+      "date": "Jan 05, 2022",
+      "title": "Hope it will be more organised in the future",
+      "comment_content": "1 Introduction<br />2 Development and Business Models<br />3 Kotlin: Syntax 1<br />4 Kotlin: Syntax 2<br />5 Object-Oriented Design<br />6 Object-Oriented Programming<br />7 Android - Activities and Intents<br />8 UI Design in Android<br />9 UI Development in Android<br />10 Data Persistence<br />11 Networking<br />12 Wrap Up<br />13 Project Demonstration<br /><br />This is a new course which teaches the use of Kotlin in Android studio to create an app (not IOS). You must have learnt a programming language (VBA, Python or Java) before taking this course. As Kotlin is said to be an easier version of Java, you will certainly have an advantage if you have Java background.",
+      "comment_teaching": "Muller teaches well as always, though you may find his talking boring sometimes. But as long as you follow his steps in class, you will understand. Even if not, he always welcome students to ask him questions. <br /><br />TA Samuel is nice and have much programming knowledge, but not organised. He claims that he is not sure how he should set the difficulty of the assignment so he delays the release until end of Nov...Android studio sometimes got bug and errors that Samuel cannot solve as well.",
+      "comment_grading": "Class submissions 20% <br />Individual assignments 40% <br />Group project 40%<br /><br />Got full marks for class submissions. No idea how I did for the other 2 components. But got A range! Although its super chur, it is good grade!",
+      "comment_workload": "UGH. It may seem that the workload is just a normal 3-cred course, but they are just not organised... <br /><br />Need to attend class for in-class ex, but as long as you submit some work you will get the point.<br /><br />Project and assignments were shit. Since both require all the knowledge taught in the course in order to be able to finish, the assignments were released towards the end of the semester. We only got less than a week to finish, and it is NOT simple, not to say we have to do the project and revise for finals.<br /><br />I have to admit our group started the project not the earliest which made us a little rush. It is also harder than we thought and even all the knowledge taught in class is not enough. <br /><br />So in the end during the revision break before finals, I spent like 12 hours+ each day for the whole week on 3000G...",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,1414 @@
+{
+  "course": {
+    "id": 879,
+    "subject": "MATH",
+    "code": "2131",
+    "name": "Honors in Linear and Abstract Algebra I",
+    "description": "The MATH 2131 and 3131  is a sequence of rigorous introduction to linear algebra and abstract algebra. Vector spaces over the fields of real numbers and complex numbers, linear transformations, geometry, groups, bases, abstract fields, rings, change of bases, spectral theorems.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "Grade A in AL Pure Mathematics; or grade A- or above in <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1014\" href=\"/review/MATH1014\" target=\"_blank\">MATH 1014</a>/<a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a>/<a class=\"course-link\" data-subject=\"MATH\" data-code=\"1024\" href=\"/review/MATH1024\" target=\"_blank\">MATH 1024</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2111\" href=\"/review/MATH2111\" target=\"_blank\">MATH 2111</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2121\" href=\"/review/MATH2121\" target=\"_blank\">MATH 2121</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2350\" href=\"/review/MATH2350\" target=\"_blank\">MATH 2350</a>",
+    "rating_content": 4.26,
+    "rating_teaching": 3.69,
+    "rating_grading": 3.57,
+    "rating_workload": 2.77,
+    "review_count": 35,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 534,
+        "name": "YAN, Min",
+        "count": 21
+      },
+      {
+        "id": 1203,
+        "name": "IP, Ivan Chi Ho",
+        "count": 11
+      },
+      {
+        "id": 1131,
+        "name": "ZHANG, Yupei",
+        "count": 6
+      },
+      {
+        "id": 530,
+        "name": "MOY, Allen",
+        "count": 3
+      },
+      {
+        "id": 1347,
+        "name": "HE, Hongren",
+        "count": 2
+      },
+      {
+        "id": 702,
+        "name": "HU, Mingan",
+        "count": 1
+      },
+      {
+        "id": 704,
+        "name": "CHAN, Oiloom Vernon",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "tJkKoNrg82apkZNVbxUpK4GCeLDFcwTs",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1203,
+          "name": "IP, Ivan Chi Ho",
+          "rating": 1
+        }
+      ],
+      "author": "TAN 90",
+      "date": "Jan 25, 2024",
+      "title": "Come to join if the instructor is Ivan!",
+      "comment_content": "Basically a more in depth version of MATH2121.<br />Topic discussed includes:<br />Ch1. Abstract Vector Space (basically the only &quot;abstract&quot; part of this course and the later parts focuses more on vector spaces over R or C)<br />Ch2. Linear Transformation and Matrices<br />Ch3. Determinants<br />Ch4. Inner Product Spaces<br />Ch5. Spectral Theory (i.e. diagonalisation)<br />Ch6. Positive Definite Matrices and SVD<br />Ch7. Complex Matrices<br />Ch8. Invariant Subspaces<br />Ch9. Canonical Forms (the most difficult chapter, talks about Jordan Canonical Form and Rational Canonical Form)<br />Ch10. Quotient and Dual Spaces (not covered in exams)<br /><br />Since this is Ivan&#039;s course, expect the midterm and the final to be really difficult. (Just for reference, the mean for T/F Questions in the final is 11.73/20.)",
+      "comment_teaching": "Ivan is probably one of the best math professors.<br />He would guide you through understanding the material from ground up by presenting them in a logical order, and is also willing to answer students&#039; questions. The lessons are also quite fun sometimes. For what exactly I meant, check the attachment.",
+      "comment_grading": "The grading is pretty good. (as expected since it&#039;s an honour maths course)<br />The weighing of the total score is as follow:<br />Homework 30%<br />Midterm Examination 30%<br />Final Examination 40%<br />Bonus (Finding Typos) +3%<br /><br />Obtaining a total point of 90% or above, or top 10%, will guarantee an A+.<br />Obtaining a total point of 70% or above, or top 40%, will guarantee an A-range.<br />Obtaining a total point of 30% or above will guarantee a passing grade.<br /><br />Basically, it&#039;s easy to get A-range.",
+      "comment_workload": "The workload is quite big if you don&#039;t manage it properly.<br /><br />There is 1 assignment per 2 weeks.<br /><br />LATEX REQUIRED FOR ASSIGNMENTS AND ACCOUNTS FOR 20% OF THE SCORE.<br /><br />Each assignment consists of 4 parts, each accounting for 20% of the score:<br />10 True or False Questions (can be tricky at times)<br />2-4 Computational Problems (usually not that difficult)<br />4 Short Questions (usually very difficult)<br />4 Long Question (usually focuses on 1 major theorem, usually very difficult)<br /><br />It usually takes me a whole day (so about 8 hours of work) to complete the assignment, even after having thought about the questions before because of the latex requirements.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "iPSt1Z18TyUoqcvFbH6o9t17lNYcpiSa",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1203,
+          "name": "IP, Ivan Chi Ho",
+          "rating": 1
+        }
+      ],
+      "author": "清水灣叉雞飯",
+      "date": "Dec 18, 2023",
+      "title": "Trival to Ivan but not to me",
+      "comment_content": "Basically a more in depth version of MATH2121.<br />Topic discussed includes:<br />Ch1. Abstract Vector Space (basically the only &quot;abstract&quot; part of this course and the later parts focuses more on vector spaces over R or C)<br />Ch2. Linear Transformation and Matrices<br />Ch3. Determinants<br />Ch4. Inner Product Spaces<br />Ch5. Spectral Theory (i.e. diagonalisation)<br />Ch6. Positive Definite Matrices and SVD<br />Ch7. Complex Matrices<br />Ch8. Invariant Subspaces<br />Ch9. Canonical Forms (the most difficult chapter, talks about Jordan Canonical Form and Rational Canonical Form)<br />Ch10. Quotient and Dual Spaces (not covered in exams)<br /><br />Since this is Ivan&#039;s course, expect the midterm and the final to be really difficult. (Just for reference, the mean for T/F Questions in the final is 11.73/20.)",
+      "comment_teaching": "Ivan is probably one of the better math professors. <br />He would guide you through understanding the material from ground up by presenting them in a logical order, and is also willing to answer students&#039; questions. The lessons are also quite fun sometimes. For what exactly I meant, check the attachment.<br />The TA, Jiayi, is also very nice. He usually presents difficult topics in simpler ways during tutorial sessions so we can have a better understanding of the implications of linear algebra while helping us build a solid foundation in advanced algebra.",
+      "comment_grading": "The grading is pretty good. (as expected since it&#039;s an honour maths course)<br />The weighing of the total score is as follow:<br />Homework\t\t\t30%<br />Midterm Examination\t30%<br />Final Examination\t\t40%<br />Bonus (Finding Typos)\t+3%<br /><br />Obtaining a total point of 90% or above, or top 10%, will guarantee an A+.<br />Obtaining a total point of 70% or above, or top 40%, will guarantee an A-range.<br />Obtaining a total point of 30% or above will guarantee a passing grade.<br /><br />Basically, getting about UQ =&gt; A-~A, getting mean =&gt; B+ and basically everyone gets at least B-range.",
+      "comment_workload": "The workload is quite big if you don&#039;t manage it properly. <br /><br />There is 1 assignment per 2 weeks.<br /><br />LATEX REQUIRED FOR ASSIGNMENTS AND ACCOUNTS FOR 20% OF THE SCORE.<br /><br />Each assignment consists of 4 parts, each accounting for 20% of the score:<br />10 True or False Questions (can be tricky at times)<br />2-4 Computational Problems (usually not that difficult)<br />4 Short Questions (usually very difficult)<br />4 Long Question (usually focuses on 1 major theorem, usually very difficult)<br /><br />It usually takes me a whole day (so about 8 hours of work) to complete the assignment, even after having thought about the questions before because of the latex requirements.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "HbNXdg8tSOjvi8bRhFt0Lfxev4GrpTvC",
+          "name": "Last_Lecture",
+          "format": "jpg"
+        }
+      ]
+    },
+    {
+      "hash": "UXtVVwOjBdT9cbDFkzThZ5fPKJ0tn7sR",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1203,
+          "name": "IP, Ivan Chi Ho",
+          "rating": 1
+        }
+      ],
+      "author": "cats",
+      "date": "Dec 15, 2023",
+      "title": "Sell your soul to Ivan, enjoy the results :D",
+      "comment_content": "The content is quite packed and is focused 100% on the concepts. That is to say that we barely do computation in this class, even when Ivan is doing worksheets he skips the computation or when there&#039;s computation in tutorials, no one really does it. So if you are not looking to go towards maths/science, I think you should instead take 2121 to get the necessary practice. <br />Also to note that while the title includes &quot;abstract algebra&quot;, we really only touch some definitions like fields and rings in the first chapter and never again. While the general feel of &quot;vectors can be anything&quot; is always there, abstract algebra starts from 3131. <br />----------------------------------------------<br />Chapter 1: Abstract vector spaces<br />Chapter 2: Linear Transformation and Matrices<br />Chapter 3: Determinants <br />Chapter 4: Inner product spaces (mid term)<br />Chapter 5: Spectral theory (I LOVE THIS)<br />Chapter 6: PSD and SVD<br />Chapter 7: Complex matrices (I HATE THIS)<br />Chapter 8: Invariant subspaces<br />Chapter 9: Canonical forms (JCF and RCF)<br />Chapter 10: Quotient spaces and Dual spaces (not tested in final)",
+      "comment_teaching": "I love Ivan :))))))<br />His teaching is very clear: he goes step by step when he is explaining and never makes a mess of it, which is surprising because the proofs can get sophisticated in ch9 and 10 (although according to him everything is 1 liner :p ). He teaches for about 40 minutes, then gives 10 minutes break, then teaching for 40 minutes again. So you can always go to him in that break to clear something up. Although I will say, towards the end of the course when I sometimes got lost, I couldnt understand Ivan&#039;s reply to my questions (everything is too trivial to him orz). But I do think that is because I became too disconnected with the content that I needed to go through it properly on my own. <br />His lectures notes are a good summary of his lectures. Although if you want more practice or explainantion you really should look at other sources.<br />Tutorials for me fluctuated. Some times they were nice, some times they weren&#039;t. Tutorials are usually about some nice consequences of something taught in class or just revision (Lord Jiayi if you&#039;re reading this, you did an awsome job please do not reduce my grade).",
+      "comment_grading": "I&#039;ve attached the gradebook, you can be the judge. I&#039;ll say the grading is pretty nice, Ivan tries to give as many nice grades as he can. The grading criteria is:<br />30% mt 30%hw 40% finals (+ some bonuses)<br />atleast 90% absolute or top 10% of class guarantees A+<br />atleast 70% absolute or top 40% of class guarantees A- range <br />There are many dialo people taking this course, so take that into account :P<br />If you want to learn and be challenged, I&#039;d say don&#039;t care about the grades and take the course. It will be very rewarding + you will (probably) not fail.",
+      "comment_workload": "In the words of ivan, &quot;it&#039;s a 2xxx level honors course, what do you expect :p&quot;. <br />Workload is just straight out humongous. Fortunately for me, I didn&#039;t have any other heavy workload courses so I was able to manage. <br />There are 6 homeworks (due on alternating sundays). The homeworks are really good in the sense that you really have to think and if your concepts are unclear, you wont be able to do them. There is 20% marks for latex which I see some people complaining about but honestly for me I get latex done quicker than written assignments. (ALSO: how tf does everyone get so good in assignments like median is dancing around 95 &gt;.&lt;) <br />The homework structure is <br />(20 points) 10 True\\False (love this)<br />(20 points) Short (?) questions (love this)<br />(20 points) Computation questions ( :/ )<br />(20 points) Long (?) Questions ( @_@)<br />The pace of this course is quite fast and you can&#039;t afford falling behind (unless you are dailo jimmy choy or something). For me, I read through the lecture notes after the lectures of that chapter was done (the first week). Then in the second week I did the homeworks and repeat.<br />Definitely deserves to be 5 credit",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "jzAqjdP99ggH1XYwUC2fEfi7CWxpOWP6",
+          "name": "GradeBook",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "yV5IDb2HMvklDIsZ1KiCoBhmqZS5HrFv",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1203,
+          "name": "IP, Ivan Chi Ho",
+          "rating": 1
+        }
+      ],
+      "author": "WDQM",
+      "date": "Dec 14, 2023",
+      "title": "Pick Ivan, work hard, learn things, good grade",
+      "comment_content": "The content is about everything in linear algebra and a taste of abstract algebra.<br />Also, Ivan will include some other theories concerning invariant subspace, cyclic subspace,&nbsp;&nbsp;canonical form, and dual quotient space which is kind of unique only in Ivan&#039;s course.",
+      "comment_teaching": "Very amazing, enlighted, and fast-paced but full of useful content for you to digest.<br />Ivan&#039;s course management is definitely the best in UST. He teaches humor rigorously in lectures and will respond to you after class on time. His worksheets notes and tutorials will make sure you can understand everything, but you need to concentrate and spend time.",
+      "comment_grading": "The grade is the best. <br />HW 30%. MT 30%. FINAL 40%. Also, there is a 0.4 bonus for each lecture note typo and 1 bonus for a treasure hunt.<br />My scores: MT: 55/100<br />HW: 568/600<br />FINAL: 56/100<br />Overall, I got 68.3/100 in total grade and obtained an A-.<br />And the grade is arguable.<br />Thank you, Ivan!!!",
+      "comment_workload": "The workload is apparently very high, you have to finish a LATEX-typed homework every two weeks, although the HW is not as difficult as his MATH1024, it is still quite tricky with some problems. Developing an abstract thought of algebra is really important, reviewing is also essential because the content is really huge and different. Deserve a 5 credit.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "AmsPCPTNdCrE4St00BulTFBFdBfiofBH",
+          "name": "FinalGrade",
+          "format": "pdf"
+        },
+        {
+          "key": "DDvR5Tp5jlJwNs51rHiMBZiQRAbbXzvn",
+          "name": "GradeBook",
+          "format": "pdf"
+        },
+        {
+          "key": "M9aYeWF6BujWXiJb7VE6mPKIsdpGFQly",
+          "name": "MidtermGrade",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "wwJJ3f176qk6cI8QZ46wJ8LXjCEzWbYi",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1203,
+          "name": "IP, Ivan Chi Ho",
+          "rating": 1
+        }
+      ],
+      "author": "_chatiii",
+      "date": "Dec 13, 2023",
+      "title": "_!☆ &lt;&lt; 甘い糸状の夢み～リニアライズ",
+      "comment_content": "*implodes*<br /><br />Ivan teaches in this course:<br />- Vector spaces and inner products, the only abstract thing in this course. go to MATH 3131 if you want more. :)<br />- Matrices. Predominantly real or complex.<br />- Singular-value decomposition* and least-square approximation.<br />- Spectral theory (i.e. eigenxxxxx), diagonalization and Cayley-Hamilton theorem.<br />- Jordan canonical form* and rational canonical form*.<br />- Quotient spaces* and dual spaces*.<br />*: These content were not in Yan Min&#039;s MATH 2131.<br /><br />---------------------------------------------------------------------------<br /><br />Or, for a less intimidating description:<br />&nbsp;&nbsp;&nbsp;&nbsp;Once upon a time, there were sets. Elements of those sets, called vectors, can be added together or scaled, and the result is another element of the set.<br />&nbsp;&nbsp;&nbsp;&nbsp;Now, there were special functions between two of those sets (possibly the same). Ivan said &quot;the plusses and scalars shall be taken out of the arguments of these special functions&quot;, and the plusses and scalars were taken out of the arguments f(cu+v) = cf(u)+f(v), and Ivan said it was good.<br />&nbsp;&nbsp;&nbsp;&nbsp;And apparently for each (finite dimensional) set there existed a very small subset of vectors that forms something completely describing the whole set, and then there were matrices (grid of numbers) which can represent any of those special functions (between finite dimensions). And MATH 2131 thus came to be.<br /><br />---------------------------------------------------------------------------<br /><br />Real life problems are hard.<br />Problems with linearity are easy.<br />~ Professor Ivan Ip",
+      "comment_teaching": "In the, uh, four or five lectures that I attended out of all 24, I believe:<br />- Ivan is cool.<br />- Ivan is chill.<br />- ...u-uh... Ivan i-is a great professor.<br />...Sorry, Ivan! QWQ⁻¹",
+      "comment_grading": "Ivan&#039;s grading scheme this year is:<br />[ 30% ] Homework (See workload section)<br />[ 30% ] Mid-term Examination<br />[ 40% ] Final Examination<br />[ +2% ] Typo bonus (+0.4% for each typo spotted in his materials)<br />[ +1% ] This treasure hunt thingy :/ You&#039;ll see.<br /><br />Letter grades will be assigned depending on overall performance:<br />- 90% or above, or top 10%(?), guarantees an A+.<br />- 70% or above, or top 40%, guarantees an A-range.<br />- 30% or above guarantees a pass.<br /><br />---------------------------------------------------------------------------<br /><br />Statistics:<br />77 people took the course.<br />Lo\\{0} | LQ | MD | UQ | Hi&nbsp;&nbsp;(Mn | SD) in %<br />Homework: 11 | 77 | 91 | 96 | 99&nbsp;&nbsp;(81 | 23)<br />Midterm: 14 | 44 | 53 | 65 | 93&nbsp;&nbsp;(55 | 19)<br />Final*: 8 | 43 | 55 | 64.5 | 91&nbsp;&nbsp;(54 | 19)<br />Overall*: 4 | 55 | 64 | 73 | 92&nbsp;&nbsp;(62 | 17)<br />*: May be a bit inaccurate; expect a little higher.<br /><br />The cutoffs for this year is<br />{ [A+:85] [A:75] [A-:68] [B+:62] [B:55] [B-:50] [C+:40] [C:30] [F] }.",
+      "comment_workload": "SIx pieces of homework, one mid-term examination and one final examination.<br /><br />---------------------------------------------------------------------------<br /><br />Homework structure:<br />[ 20% ] 1. True / false questions<br />&nbsp;&nbsp;&nbsp;&nbsp;- 20 T/F questions. Some are designed to trick you so be careful.<br />[ 20% ] 2. Computational questions<br />&nbsp;&nbsp;&nbsp;&nbsp;- 2 to 4 computations. You can guess what they will be.<br />[ 20% ] 3. Short(?) questions<br />&nbsp;&nbsp;&nbsp;&nbsp;- 4 standalone short(?) questions. One of the stars of the show.<br />[ 20% ] 4. Long questions<br />&nbsp;&nbsp;&nbsp;&nbsp;- 1 question with four subquestions. The other star of the show.<br />[ 20% ] Bonus for LaTeX submission<br />along with some optional questions for infinite-dimensional vector spaces at the end.<br /><br />---------------------------------------------------------------------------<br /><br />Midterm and final examination structure:<br />10 true / false questions, 5 short questions and 3 standalone questions. Star of the show.<br /><br />What is &quot;star of the show&quot; you ask? What about workload? See other reviews.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 3,
+      "attachments": []
+    },
+    {
+      "hash": "DkKELKpWWKdl65ZzbRxmcibEaij3OMLl",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1203,
+          "name": "IP, Ivan Chi Ho",
+          "rating": 1
+        }
+      ],
+      "author": "XDD01668",
+      "date": "Dec 13, 2023",
+      "title": "",
+      "comment_content": "Topics include: abstract vector space, linear transformation and matrix, determinant, inner product space, spectral theory, positive definiteness, complex matrix, invariant subspace, canonical forms, quotient and dual spaces. Even though it was called &quot;and Abstract Algebra&quot;, that topic was just covered in the first chapter in order to introduce the concept of vector space.<br /><br />PS: if you want to take this course, you are suggested to read the notes from CUHK MATH1038: Honours Linear Algebra I. Also, our course will cover both 1038 and 2048 from CU in one course, so you know how compact it is...",
+      "comment_teaching": "Ivan is a good teacher. It is worth to attend the lecture to enhance your efficiency. However, I suggest that you should cover the content of the chapter being covered before the course and go through the proof of the theorems. Otherwise, you might easily get lost because most of the concepts are not very easy to comprehend.<br /><br />PS: Read all proof carefully, those techniques are much worthier than the theorem.",
+      "comment_grading": "Homework 30%<br />Midterm Examination 30%<br />Final Examination 40%<br />Letter grades will be assigned depending on overall performance.<br />Obtaining a total point of 90% or above, or top 10%, will guarantee an A+.<br />Obtaining a total point of 70% or above, or top 40%, will guarantee an A-range.<br />Obtaining a total point of 30% or above will guarantee a passing grade.<br />However, because the content of this course is relatively difficult (especially when Ivan is teaching this course). You are not guaranteed a good grade if you do&#039;t spend time studying it.",
+      "comment_workload": "There are 5 homework in one semester. They are required to be typed in Latex (worthing 20%). The homework is not easy to solve and it will take you long hours of thinking (maybe doing some research on the internet). Beside that, if you want to thoroughly comprehend the content. You should spend an amount of time revising with the leture notes.<br /><br />PS: Please do all HW carefully, they may save you as they weigh 30% of the total score.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "AAKgimdycnEJ19MEDHLMVrHosKHCcBiZ",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1203,
+          "name": "IP, Ivan Chi Ho",
+          "rating": 1
+        }
+      ],
+      "author": "begender",
+      "date": "Oct 27, 2023",
+      "title": "",
+      "comment_content": "Topics include: abstract vector space, linear transformation and matrix, determinant, inner product space, spectral theory, positive definiteness, complex matrix, invariant subspace, canonical forms, quotient and dual spaces. Even though it was called &quot;and Abstract Algebra&quot;, that topic was just covered in the first chapter in order to introduce the concept of vector space.",
+      "comment_teaching": "Ivan is obviously a good teacher. It is worthy to attend the lecture in order to enhance your efficiency. However, I suggest that you should cover the content of the chapter being covered before the course and go through the proof of the theorems. Otherwise, you might easily get lost because most of the concepts are not very easy to comprehend.",
+      "comment_grading": "Homework\t30%<br />Midterm Examination \t30%<br />Final Examination\t40%<br />Letter grades will be assigned depending on overall performance. <br />Obtaining a total point of 90% or above, or top 10%, will guarantee an A+.<br />Obtaining a total point of 70% or above, or top 40%, will guarantee an A-range.<br />Obtaining a total point of 30% or above will guarantee a passing grade.<br />However, because the content of this course is relatively difficult (especially when Ivan is teaching this course). You are not guaranteed a good grade if you do&#039;t spend time studying it/",
+      "comment_workload": "There are 5 homework in one semester. They are required to be typed in Latex (worthing 20%). The homework is not easy to solve and it will take you long hours of thinking (maybe doing some research on the internet). Beside that, if you want to thoroughly comprehend the content. You should spend an amount of time revising with the leture notes.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "TDcNkWc41Sk6z91rabJQUbGzYR2TN9Z6",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        }
+      ],
+      "author": "Saadman Sommow",
+      "date": "Dec 02, 2022",
+      "title": "",
+      "comment_content": "Content is easy and full of abstract trivial stuff. The whole thing in the lecture is trivial so I don’t want to listen. <br /><br />His lecture notes are well-structured in terms of content(not format design!). Many useful methods of solving equations are mentioned. But this is finding gold inside trash… The rigor is too much when swapping between different views such as matrices and linear transformations. Many proofs should be listed in a todo list as homework.<br /><br />While tutorials are a lot harder. In this semester, he put the dual vectors in tutorial, and he also talked about category theory. I like the tutorial part maybe I just like the more advanced content instead of linear algebra.",
+      "comment_teaching": "The teaching style is cozy, full of breaks when you can think more and ask questions. Not so fast by midterm, the rest not I have experienced.<br /><br />Format in lecture notes is too bad. Hard to find the homework when it is released with only numerical labels.",
+      "comment_grading": "Everyone can get a near full mark for assignments. This means no differentiation. Same difficulty with exams. So if you fail one problem in exams, you are doomed.",
+      "comment_workload": "Not so much if you hand in handwritten version. Immense workload if use LaTeX.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 2,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 9,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "73VI4jovuD7q3AIncwEjP4D1KdXiskrk",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 0
+        }
+      ],
+      "author": "Philoism",
+      "date": "Oct 24, 2022",
+      "title": "DON&#039;T TAKE THIS COURSE!!!!!!!!!",
+      "comment_content": "Content is easy and full of trivial abstract stuff. The whole thing in the lecture is trivial so I don’t want to listen. <br /><br />His lecture notes are well-structured in terms of content(not format design!). Many useful methods of solving equations are mentioned. But this is finding gold in trash… The rigour is too much when swapping between different views such as matrices and linear transformations. Many proofs should be listed in a to-do list as homework.<br /><br />While tutorials are a lot harder: this semester, he put the dual vectors in the tutorial, and he also talked about category theory. I like the tutorial part maybe I just like the more advanced content instead of linear algebra.",
+      "comment_teaching": "Update:<br />In the second half of the semester, he taught nothing...<br /><br />-----<br /><br />The teaching style is cosy, and full of breaks when you can think more and ask questions. Not so fast by midterm, the rest not I have experienced.<br /><br />The format of lecture notes is too bad. Hard to find the homework when it is released with only numerical labels.",
+      "comment_grading": "Update:<br />I spent many hours on understanding the tutorial sections and none of it is tested in exams!!!! WHY DON&#039;T I JUST TAKE ABSTRACT ALGEBRA IF I WANT FROM THE VERY BEGINNING?!<br /><br />Grading is nonsense and completely incomparable with the other courses of math. The A-range is even smaller than some non-honor courses! It seemed that MATH2001&#039;s grading was even worse! Do not take these courses, I am sincerely recommending so.<br /><br />-----<br /><br />Everyone can get a near full mark for assignments. This means no differentiation. Same difficulty with exams. So if you fail one problem in exams, you are doomed.",
+      "comment_workload": "Not so much if you hand in a handwritten version. Immense workload if using LaTeX.",
+      "rating_content": 3,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 6,
+      "vote_count": 8,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "XWfs2mPYvAsbLnzQSdu6JlTD3ULjlRQY",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        }
+      ],
+      "author": "Chandler",
+      "date": "Jan 25, 2022",
+      "title": "",
+      "comment_content": "Supposedly, there are 8 chapters according to his lecture notes<br />However, the actual curriculum is based on the decision of Min Yan. Some chapters might be excluded from examination. In this semester, somehow the chapters covered in this course this semester were less than that of MATH2121.<br /><br />This is a Mathematic Honors course which mainly computation that can be done by computer is tested in the exam.",
+      "comment_teaching": "Do NOT even bother to attend the lecture, badly written lecture notes with confusing ordering. It is notable that most of the content his lecture notes can be found in Linear Algebra Done Right and Linear Algebra Done Wrong, along with the usage of words and notations that will lead to ambiguity and confusion. His lecture teaching is basically reading from his lecture notes.",
+      "comment_grading": "0.2 HW + 0.3 MT + 0.5 Final <br />7 Hw were given this semester.",
+      "comment_workload": "Immense workload. A lot of questions from each assignment. <br /><br />The thing is, the notes is badly written, and the problems of the assignments came from his lecture notes. It was a frustrating experience that you have to spend a lot more time in understanding what is the meaning of his choice of wordings comparing to that you probably used in actually doing the assignment.",
+      "rating_content": 2,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "sYZp3Kmdx7v61KftDFHqQRUfMnesCYzD",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 0
+        }
+      ],
+      "author": "Re",
+      "date": "Jan 04, 2022",
+      "title": "Avoid Yan Min at all cost",
+      "comment_content": "Supposedly, there are 8 chapters according to his lecture notes, which are the following:<br /><br />I: Vector Space<br />II: Linear Transform<br />III: Subspace<br />IV: Inner Product Space<br />V: Determinant <br />VI: General Vector Space<br />VII: Spectral&nbsp;&nbsp;Theory<br />VIII: Tensor<br /><br />However, the actual curriculum is based on the decision of Min Yan. Some chapters might be excluded from examination. In this semester, somehow the chapters covered in this course this semester were less than that of MATH2121.",
+      "comment_teaching": "Do NOT even bother to attend the lecture, badly written lecture notes with confusing ordering. It is notable that most of the content his lecture notes can be found in Linear Algebra Done Right and Linear Algebra Done Wrong, along with the usage of words and notations that will lead to ambiguity and confusion. His lecture teaching is basically reading from his lecture notes.<br /><br />The answer of each assignment does not really help you to understand what is going on in the course. And the thing is, the answers of his Midterm and final might NOT be correct as he himself said that.<br /><br />Please note that this course has no medium of announcements other than Yan Min’s 2131 WeChat group and his own course webpage. Yes, not even Canvas and email.",
+      "comment_grading": "The grading was the following:<br /><br />0.2 HW + 0.3 MT + 0.5 Final <br />7 Hw were given this semester.<br /><br />This is a Mathematic Honors course which mainly computation that can be done by computer is tested in the exam. <br /><br />I am so bad in doing computation by hands that I screwed up so bad that I do not even know whether I am retarded overall , but I am clear that I am not that good in mathematics.",
+      "comment_workload": "Immense workload. A lot of questions from each assignment. <br /><br />The thing is, the notes is badly written, and the problems of the assignments came from his lecture notes. It was a frustrating experience that you have to spend a lot more time in understanding what is the meaning of his choice of wordings comparing to that you probably used in actually doing the assignment.<br /><br />Plus, as I mentioned above, his lecture teaching is basically reading the lecture notes, which does not sound good anyways. The time you spent on finding and understanding alternative materials, and then going back to Yan’s notes to see whether you understand Yan Min would be main reason why you spend a lot of time in this course.<br /><br />If you cannot understand his notations, you will most likely be screwed in the exams, which the notations will be used in the exactly way he used in his lecture notes, chaotic. <br /><br />If you cannot manage your mentality during your study in this course, you will probably ended up like me, being tilted and toxic and maybe some other negative emotions that will certainly affect academic performances negatively in other courses. I screwed myself over in other courses, as well as this course, in this semester.",
+      "rating_content": 3,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "RbKTbC6tMlTDPEElJkyk6yA74hyK4BHJ",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        }
+      ],
+      "author": "haha1234",
+      "date": "Jan 03, 2022",
+      "title": "Think twice before enrolling in this course",
+      "comment_content": "1. Vector space<br />2. Linear transformation<br />3. Subspace<br />4. Inner product<br />5. Determinant<br />6. General linear algebra(taught in the tutorial)<br />7. Spectral theory<br />8. Tensor (not included this semester)",
+      "comment_teaching": "Yan Min-style teaching and it is not suitable for me. His teaching is more like doing a review session and he will assume we know much about linear algebra, which is terrible for linear algebra beginners like me. Therefore I spend a lot of time learning on my own. His lecture note is a disaster too. He is fond of the symbol * and it has many typos. The most important - the lecture note is in a way that confuses normal people like me. And I think it is written for intelligent students or students with the same mindset as Yan Min.",
+      "comment_grading": "20% assignment 30% mid-term 50% final<br />The overall mean is 69 and I get 80 with an A-<br />The mean is the cut-off of B and B-<br />To be honest the exam is not difficult and is 2121-style.<br />The grading is bad. It is said that Yan Min gives 25% A range in his 2111 but only ~35% in 2131. Keep in mind that the pre-requisite of the course is getting A-range in Math 1014/1024 and Most of the students are from 1024 actually. Is it fair to give so many B- and C-range to students who get A-range in 1024?",
+      "comment_workload": "Moderate for an honor course.<br />7 Assignments with ~20 questions each. But the questions are tedious asking you to prove trivial things or calculate like a machine.",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 2,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "IdGdpEKg5tqvjSPpDFC2WETQsqGeCMDt",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 0
+        }
+      ],
+      "author": "vert178",
+      "date": "Dec 27, 2021",
+      "title": "(One of) The worst professor in math department",
+      "comment_content": "Chapter 1: Vector spaces<br />Chapter 2: Linear Transformations<br />Chapter 3: Subspace<br /><br />Chapter 4: Inner Product<br />Chapter 5: Determinant<br />Chapter 7: Spectral theory (Eigenvalue and Eigenvectors, Canonical form etc)<br /><br />(Ch. 1,2,3 before midterm, Ch.4,5,7 after midterm)<br />(Yes, there is no abstract algebra other than maybe a few mentions about fields)<br /><br />Given this is one of the courses in the Math honors series, you would expect the instructor to teach more advanced materials like in 1023 and 1024 where they teach you epsilon-delta and basic Fourier analysis; instead, Yan Min spent 4 WHOLE weeks talking about linear transformations, a really basic topic in Linear Algebra. Compare that to Professor Ip&#039;s 2131, who spent like 4 minutes talking about them because they are that simple.<br /><br />Yan Min uses his own lecture notes, which is very hard to understand. The homework problems often have typos and incomprehensible sentences. For anyone unfortunate enough to take the Yan Min version of this course, I recommend Linear Algebra Done Right by S. Axler or Linear Algebra Done Wrong by S. Treil (Don&#039;t worry they are not contradictory materials)<br /><br />The contents are, as far as I know, basically no different from MATH2121. Take MATH2121 and avoid Yan Min if it is not a curriculum requirement.<br /><br />Actually avoid Yan Min’s courses at all costs (i.e take them next year/sem whatever when it’s not yanmin) I’m sure Prof. Fong and Prof. Ip will gladly assist you if you’re sincere (and good) enough for most issues",
+      "comment_teaching": "Yan Min&#039;s teaching were very poor. His inability to control the atmosphere of the whole class makes what he says basically incomprehensible.<br /><br />On top of this, I would like to say a few words about the administration of this course. <br /><br />Yan Min provides NO Canvas page (and uses his own webpage instead, nothing bad about that, just quite inconvenient. Oh yea did I mention you hand in his homework by putting a hard copy into the labelled mailbox outside of math department office, except sometimes there isn&#039;t the label), <br /><br />NO zoom recordings (he cut zoom recordings right after add-drop),<br /><br />NO emails about class arrangement whatsoever (there was black rainstorm signal one day and all classes are supposed to be cancelled, but he held the class as usual and freakin talked about the midterm schedule in that class, WITHOUT any email announcements or announcements in his own webpage)(He did mentioned it in his wechat group, but the readers can decide whether that counts),<br /><br />NO damns given to rules whatsoever (His exams were open notes, and when someone said they forgot to bring the notes, he just suddenly allowed the whole class to test with computers turned on &quot;to let students reference to lecture notes&quot;)<br /><br />but you know what he has?<br /><br />Confusing notations, unintelligible written and spoken English, oh and the worst grades in the honor course series if you are otherwise good at maths.",
+      "comment_grading": "Horrible. Given it is a honors series course, you would expect intellectually challenging exams that helps you understand the subject better. However, the course uses absolute grading on top of having very simple exams. This means every mistake is very costly. There were 4 questions in the exam and getting the difference between a perfect exam and getting 3/4 questions correct is A+ and B. Harsh and hideous grades.<br /><br />To people who got unsatisfactory grades in this course, I think I am in the position to say that Yan Min&#039;s grade does not reflect anything, given that I got a B in this course, but got an A in 3043, 3131, 4141 and 5111 in the same semester, which all required materials from 2131 to some extent.",
+      "comment_workload": "Fair. 7 homework sets, each taking about 3 hours to complete (which is quite untypical of honor courses like 1023 and 2043, which would take about 1 to 2 days to complete)",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 19,
+      "vote_count": 21,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "8Oc7386pq2EMEf11hFKF9RKOrEdBlmwz",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        }
+      ],
+      "author": "hr8259",
+      "date": "Dec 25, 2021",
+      "title": "Since Yan Min loves stars, let&#039;s denote &quot;e&quot; as &quot;*&quot; in this review",
+      "comment_content": "I&#039;m not d*tailing h*r* as it is cov*r*d in most oth*r r*vi*ws",
+      "comment_teaching": "Prof*ssor Yan Min was a v*ry passionat* and kind instructor. H* is pati*nt in *xplaining the conc*pts. But the way h* *xplain conc*pts may b* hard to follow for n*wcom*rs lik* m*.<br /><br />How*v*r h* obviously abus*d the star notation in th* l*ctur* not*s. For each &#039;*&#039; th*r*&#039;s many diff*r*nt m*anings, which confus*d m* at l*ast. A lot of tim* is n**d*d to figur* out what the star actually denot*s<br /><br />*dit: fix*d a typo",
+      "comment_grading": "20% HW<br />30% midt*rm<br />50% final<br /><br />Cutoffs for A+ and A were 92 and 82, which w*r* fin*. But I&#039;d say th* rang* for B+ and A- was too narrow.",
+      "comment_workload": "7 hom*work with around 15 qu*stions *ach<br />Not v*ry difficult if you und*rstand the conc*pts thoroughly<br /><br />Most tim* was sp*nt on und*rstanding th* cont*nt from th* l*ctur* not*s, *sp*cially th* m*aning of th* stars<br /><br />Now, see how life is easier without those stars?",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 22,
+      "vote_count": 22,
+      "comment_count": 2,
+      "attachments": []
+    },
+    {
+      "hash": "iAfxDlnMNR3pGZnkvpEDpRTBFbLiIHXL",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        }
+      ],
+      "author": "Lucien▪Evans",
+      "date": "Dec 24, 2021",
+      "title": "a course with fair grading scheme but poor teaching quality",
+      "comment_content": "It covers most essential part in linear algebra and really helps if you want to construct a deeper map in linear algebra.",
+      "comment_teaching": "I have to say Prof. YAN is a passionate professor but his courses are not recommended to enroll in if you didn&#039;t learn the essential part before. <br /><br />If you once learn the linear algebra and already understand how to apply it into other fields, you might find prof.YAN &#039;s teaching is not that bad. And it will give you a more general map about linear algebra. <br /><br />Nevertheless, if you are new in linear algebra and really need some time to understand the basic concept, you will probably feel difficult to follow his mind in the lecture, especially when you took an excellent math honor course taught by FF or Ivan.",
+      "comment_grading": "Fair grading scheme but not that good in this semester. I guess in FF and Ivan&#039;s honor class, they will guarantee at least 50% A range. But in this course, prof YAN only guarantee 30% A range, although he normally gives 35% to 40% A range. However, the absolute grading scheme is rather strange. I will show you the cut off score of each letter grade.<br /><br />A+: 92<br />A: 82<br />A-: 80<br />B+: 78 or 77<br />B: 70<br /><br />overall mean: 71 SD: 16.5<br /><br />The cut off of A-, B+ are narrow compared to the range of A to A+, B to B+. These two significant ranges only cover 4 scores and 3-4 people in it. And i delete some description about my letter grade and paper-check since i don&#039;t want to be recognized.<br /><br />Initially i gave this course a C for its grading scheme. But considering the satisfying letter grade after the paper checking, i will give it a B.<br /><br />Thank you so much, prof.YAN ! The final letter grade is even better than my highest expectation and really alleviate my bad mood after receiving another worse grade.",
+      "comment_workload": "A little bit heavy but really helps you to understand what he taught in the lectures if you can&#039;t follow prof&#039;s speaking. Around 20 problems each assignment and in total 7 assignments.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 8,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "sIfYCg8ex6aG5aic3Qu0RZsUJdTEXNYV",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1203,
+          "name": "IP, Ivan Chi Ho",
+          "rating": 1
+        }
+      ],
+      "author": "美要眇兮",
+      "date": "Jan 23, 2021",
+      "title": "Great for talented students, excellent teaching, but tiresome",
+      "comment_content": "The design of course is great. Since others have already posted the content of Ivan&#039;s course I will not repeat.<br />The order of demonstration is well designed. After learning the definition of vector space at the very beginning, <br />Understanding of previous content is extremely vital, especially for the definition of linear transformation and concepts related there. My grade was mainly affected by midterm due to failure to understand these really basic concepts.<br />Also, although this is a honors course and the major focus is rigorous proofs, the calculation work (Ex. matrices, SVD, definition of a new inner product space) is also nonnegligible. Please do some practice to make sure you are familiar or you may spend too much time in HWs and exams.<br />Ivan had all the stuff he taught in his lecture notes, and reading the proofs on the notes helps. No need to copy down his notes when listening (like me) as most content he wrote in lecture is in the notes. And, the note is also well-organized and with high readability.<br />Reference book is LADR.",
+      "comment_teaching": "Ivan is great at demonstrating complicated ideas and concepts!<br />He has clear (though a bit fast) English and he could always manage his speech in a logic way so that we could easily comprehend.<br />He is also really patient when facing all kinds of questions and the answers could always help deal with your problems. Nice professor!<br />If you really want to learn more, to learn the abstract part of LA, go grab this course!",
+      "comment_grading": "Calculation: mid30%, hw30%, final 40%.<br /><br />The grade distribution itself was great with 50% A-range guaranteed.<br /><br />However, you need to understand beforehand that the students in this course are mainly smart students from math-IRE or pure math tracks (if you are also from these then ignore this part), so for other students willing to study Linear Algebra may consider twice. Also, the students auditing may pull down the course grade mean so above mean != getting an A-.<br /><br />I got overall grade above mean a bit and got a B+. Have to admit I am not that talented in abstract contents...",
+      "comment_workload": "Somehow disastrous.<br />6 HWs in one term seems not a great deal, but the work you need to spend when &quot;writing&quot; them is really time-consuming. Merely writing it out is not enough and LaTeX is required if you don&#039;t want to lose 20% of the HW grade. Usually when finished the number of pages of HW PDF is over 10 (even 15).",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 5,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "4gOzxiJsZ4fjfP77hSwtytPtykHEjump",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1203,
+          "name": "IP, Ivan Chi Ho",
+          "rating": 1
+        }
+      ],
+      "author": "PeterLin",
+      "date": "Dec 25, 2020",
+      "title": "&quot;Real life problems are hard. Problems with Linearity is easy.&quot; by Ivan",
+      "comment_content": "1 Abstract Vector Space<br />2 Linear Transformation and Matrix<br />3 Determinant<br />4 Inner Product Space<br />-------------Midterm-------------<br />5 Spectral Theory<br />6 Positive Definite Matrix and SVD<br />7 Complex Matrix<br />8 Invariant Subspace<br />9 Canonical Forms<br />-------------Final-------------<br />10 Quotient and Dual Spaces (appeared in HW but wasn&#039;t tested in final)<br /><br />Materials before midterm (mainly &quot;2121 stuff&quot; as described by Ivan :p) are relatively easier to handle. However, the teaching speed takes off after the midterm (it seems that on average one chapter is finished in one week (two lectures) after mt!!) In my opinion, the latter half of the course mainly focuses on &quot;how to find a good matrix (basis) for a linear transformation&quot;, but piles of terminologies, theorems, proofs also came along orz",
+      "comment_teaching": "Ivan mainly follows his lecture notes during the class. Although he likes to say &quot;trivial&quot; when proving or giving examples, he is open to all kinds of questions raised by students.<br /><br />He used the example of oousagi(大兎) in Re0 when talking about the isomorphism and hair colors of different characters in Nichijou when talking about equivalent class, which was quite interesting~<br /><br />His lecture note served as good reference material when I was doing revision (everything is pithy and easy to follow)<br />The worksheet and tutorial problems were carefully designed (although it seems that the # of ppl attending the tutorial is monotone decreasing lol)",
+      "comment_grading": "Final Examination \t40%<br />Assignments * 6 \t30%<br />Midterm Examination \t30%<br /><br />Exams are not surprisingly Ivan-style and the hint system is again used in the final. You need to be prepared intellectually and mentally before enrolling in Ivan&#039;s course :p",
+      "comment_workload": "Because I have a bad memory, I spent a lot of time understanding/summarizing/memorizing properties of each kind of matrices (operators) and proofs/concepts during the weekend. I&#039;d like to say the workload for homework is smaller than 1023/1024, because each assignment is due ~25 days after it has been released and problems become less tricky when comparing with analysis. Nevertheless, a lot of effort needs to be paid after the class. So &quot;C&quot; is given for the workload considering this is a 4-credit honor course.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "T5yKEneCzflHIRE4YBvxJgZN1OgcbPpY",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1203,
+          "name": "IP, Ivan Chi Ho",
+          "rating": 1
+        }
+      ],
+      "author": "Squidgy",
+      "date": "Dec 23, 2020",
+      "title": "Ivan da best",
+      "comment_content": "Linear Algebra 1+2, little abstract algebra.<br />Comparing to 2121, which just teach half of linear algebra, 2131 gives a perfect and stable view of linear algebra.<br />If you are good at math but regard GPA as a more important thing, 2121 is suitable since it is just a calculation course. But just think different, why I need to learn sth that can be done by so many online matrix calculators? Learn something more theoretic and have a good background of LA are what I concern most, so I come to 2131.<br />====================================<br />Before Midterm:<br />Vector Spaces, Linear Transformation, Determinant, Inner Product Spaces.<br />After Midterm:<br />Spectral Theory, positive definite matrix and SVD, Complex matrix, invariant subspaces, Canonical Forms, quotient and dual spaces(not examined)<br />=====================================<br />After midterm the pace of teaching just raised to another level, so be aware of it:P<br />The reference textbook is Linear Algebra Done Right.",
+      "comment_teaching": "Comparing to other MATH professors with poor accent, Ivan is really very good. I have met four math professors so far, he is the only one that can deliver properly. Furthermore, his 2131 lecture notes are dope, but you need to attend the lecture to understand the steps of the proof in the lecture notes lol.",
+      "comment_grading": "Someone has attached grade book so I will just give the grade distribution of midterm and final.<br />I would say that Ivan is lenient at giving good grades.<br />In the syllabus he claimed that top 50% or absolute grade above 70% will be guaranteed an A range. However, this class is competitive and full of talented math ppl. I got doomed in midterm so even I performed well in final still get an B+ :(((<br />Comparing to 1023/24, linear algebra is less tricky and emphasize more on definition. So if you are really clear about &quot;all&quot; the concepts and are good at observing and analyzing the main key part of the questions, then even it&#039;s Ivan style test, the exam wouldn&#039;t be too frustrating. <br />Using some Ivan&#039;s words: &quot;This question is trivial :P&quot;",
+      "comment_workload": "It&#039;s an honor course, then what should you expect more about that? Well at least the assignments are biweekly, so the preparing time should be sufficient.<br />I spent whole summer studying Linear Algebra Done RIght, so if this counts toward the workload then the workload should be E.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "GV0nSlu9tPWOgvbOCyd5CKFmFROJla7l",
+          "name": "GradeBook",
+          "format": "pdf"
+        },
+        {
+          "key": "6kPEEtI5ceoHu2UwVMqeo8nJ2NVcYJPz",
+          "name": "MidtermGrade",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "azVIv0e3hYi60RQ36I9TbmdTSoZBGSTr",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1203,
+          "name": "IP, Ivan Chi Ho",
+          "rating": 1
+        }
+      ],
+      "author": "RogerNadal",
+      "date": "Dec 22, 2020",
+      "title": "Horror and Torture in Linear algebra. but learnt a lot.",
+      "comment_content": "Here is what i have learnt in this course:<br />We used Ivan&#039;s colourful lecture note. It was quite nice and concise. But no exercises in it. We did worksheet problems every lecture. <br /><br />Plus additional reference books are:<br /><br />Linear Algebra done right<br />Linear Algebra done wrong<br />Yan MIn note<br /><br />1 Abstract Vector Space <br />1.1 Group, Ring, Field <br />1.2 Vector Space <br />1.3 Subspace <br />1.4 Linearly Independent Set <br />1.5 Basis <br />1.6 Dimension <br />1.7 Direct Sum <br /><br />2 Linear Transformation and Matrix <br />2.1 Linear Transformation <br />2.2 Injection, Surjection and Isomorphism<br />2.3 Matrix <br />2.4 Fundamental Theorems of Linear Algebra<br />2.5 Invertible Matrix <br />2.6 Change of Basis <br />2.7 Similar Matrix <br />2.8 Vandermonde Matrix<br /><br />3 Determinant <br />3.1 Definition of determinant<br />3.2 Existence and Uniqueness <br />3.3 Elementary Matrices <br />3.4 Volume<br />3.5 Laplace Expansion <br />3.6 Cramer&#039;s Rule<br /><br />4 Inner Product Space <br />4.1 Inner Product <br />4.2 Orthogonal Basis<br />4.3 Orthogonal Projection <br />4.4 Orthogonal Matrix<br />4.5 QR Decomposition <br />4.6 Least Square Approximation <br />4.7 Gram Determinant <br /><br />5 Spectral Theory <br />5.1 Eigenvector and Eigenvalue <br />5.2 Characteristic Polynomial <br />5.3 Diagonalization <br />5.4 Symmetric Matrix<br /><br />6 Positive Definite Matrix and SVD <br />6.1 Positive Definite Matrix<br />6.2 Singular Value Decomposition <br /><br />7 Complex Matrix <br />7.1 Adjoint <br />7.2 Unitary Matrix<br />7.3 Hermitian Matrix<br />7.4 Normal matrix<br /><br />8 Invariant Subspace <br />8.1 Invariant Subspace <br />8.2 Cayley-Hamilton Theorem <br />8.3 Minimal Polynomial <br />8.4 Spectral Theorem of Commuting Operators <br /><br />9 Canonical Forms <br />9.1 Nilpotent Operator <br />9.2 Jordan Canonical Form <br />9.3 Rational Canonical Form <br /><br />10 Quotient and Dual Spaces (Not included in final exam, but in HW-06)<br />10.1 Quotient Space <br />10.2 Dual Space",
+      "comment_teaching": "Ivan is really nice and humorous. He is very knowledgeable in algebraic field. I really enjoyed his lecture, though i performed pretty bad in the class. You wouldn&#039;t get boring in his class. Instead, i want to continue my suffering in real mathematics next semester. Ivan will also teach Math2043 next semester. <br />In addition, Ivan held a final review session which lasted 2 hours and 30 minutes. It was very helpful! <br />HKUST should have more math professors like Ivan so that students can get better performance in math.<br /><br />To conclude my view, I learnt a lot in this course. I highly recommend those who study Math2111/2121/2350 sit in Math2131, so that you can taste what linear algebra is. <br />I am an engineering student, but i chose 2131 instead of 2111.<br />I don&#039;t regret my choice even though i got a low grade. It was within my expectation.<br />It provides deeper and more complete picture of Linear Algebra.<br /><br />For the tutorial, it was really difficult to understand what TA said.<br />As a result, less than 10 people attended the tutorial sessions.<br />You could just download the tutorial worksheets and solutions<br />and work them by yourself.",
+      "comment_grading": "Since this is a honour course, the grading is better than normal version. Even you are the bottom in the class like me, you can still get away with a C grade. <br /><br />As i said, this is a honour course, a lot of math experts in the course. And i am just a 學渣. Very few local students (Including me) enrolled in the class. Many of them were NDS and some were Vietnamese. I know that some local students are afraid of honour math courses. But don&#039;t worry. You can still get by them if you study hard. <br /><br />For those who love math, please join honour courses.<br /><br />HW(6 assignments): 30%<br />Mid term: 30%<br />FInal: 40%<br /><br />Mid term:<br />Mean: 52\t High: 90\tLow: 12<br />Final:<br />Mean: 56.3 High: 86 Low: 18",
+      "comment_workload": "As you guess, the workload in honour course wouldn&#039;t be low. <br />Reading reference books is essential, they contain a lot of exercises you can work with. (To be honest, I didn&#039;t do them,<br />doing assignments took me a lot of time.)<br />One assignment biweekly. Totally, there were six assignments.<br />They were quite hard, honestly. But the mean was very high. <br />Each assignment had the mean score around 85.<br />Each assignment had the format like this:<br /><br />1. True or False with explanation or counterexample&nbsp;&nbsp;20%<br />2. Computational problem&nbsp;&nbsp;20%<br />3. Short proofs&nbsp;&nbsp;&nbsp;20%<br />4. Long question 20%<br />5. Optional problem for infinite vector space<br /><br />Another 20% is earned by using Latex.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "WXQTvYDqqm5HOVVnlPVSDWGxpWR8Ao1S",
+          "name": "GradeBook",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "m4M4avzUsLMhuc9Cj882xDjzDdIoj2yG",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        }
+      ],
+      "author": "JohnNick",
+      "date": "Aug 25, 2020",
+      "title": "严民教授觉得在2020年1月，看见港灿带口罩特蠢！请看图",
+      "comment_content": "严民教授觉得在2020年1月，看见港灿带口罩特蠢！请看图严民教授觉得在2020年1月，看见港灿带口罩特蠢！请看图",
+      "comment_teaching": "严民教授觉得在2020年1月，看见港灿带口罩特蠢！请看图严民教授觉得在2020年1月，看见港灿带口罩特蠢！请看图",
+      "comment_grading": "严民教授觉得在2020年1月，看见港灿带口罩特蠢！请看图严民教授觉得在2020年1月，看见港灿带口罩特蠢！请看图",
+      "comment_workload": "严民教授觉得在2020年1月，看见港灿带口罩特蠢！请看图严民教授觉得在2020年1月，看见港灿带口罩特蠢！请看图",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 70,
+      "vote_count": 107,
+      "comment_count": 1,
+      "attachments": [
+        {
+          "key": "RSRsmT8wSX8RF9uBFjFopcWPjNxUcFdq",
+          "name": "煙民精彩对话",
+          "format": "jpg"
+        },
+        {
+          "key": "Tey3OjpDOFPMkguZul6SN5iekoZw8z3y",
+          "name": "煙民精彩对话2",
+          "format": "jpg"
+        }
+      ]
+    },
+    {
+      "hash": "wjcJneI653QBV88VM3NJnImXK0lTA9e0",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        },
+        {
+          "id": 1347,
+          "name": "HE, Hongren",
+          "rating": 1
+        }
+      ],
+      "author": "Zechidlin",
+      "date": "Aug 14, 2020",
+      "title": "",
+      "comment_content": "Linear algebra&#039;s axioms, vector space, subspace, spectrum theorem, main topics of this course. A large amount of abstract concepts but really interesting when you tried to imagine them in your mind.",
+      "comment_teaching": "Prof Yan is a passionate teacher. Excelled in math, he explains everything with great effort but seems like repeated explanations from different angles only confused listeners more, which is a fun thing. TA helps you with some hw problems weekly, very few new things were taught.",
+      "comment_grading": "I suck. I am a loser in this course as I just screwed up the midterm and took a free ride in the latter part of course... but grading was good, to be honest. I was below mean overall and obtained a B. Miracle wasn&#039;t it? But the good grade attainers were so many and I think the overall mean was ~85%. My grades were 80/100 in mt and 88/100 in final. Only 4~5 problems in exam so any mistake can be costly.",
+      "comment_workload": "Hw is very time consuming (for me). Problems were not hard at all but you just need to write a lot to articulate your ideas. Each hw may occupy hours to complete, with around 13 questions each and will be assigned weekly. Completing hw is not enough! Be reminded that if you want to achieve a good grade in this course, extra effort needs to be paid. I learned this lesson after I obtained my poor grade.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "sCXxYmrXtXCPQjNhTL560iQFu900zzG6",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        }
+      ],
+      "author": "kotakbas",
+      "date": "Dec 28, 2019",
+      "title": "Easy course if you&#039;re good in math, but quite time-consuming",
+      "comment_content": "Basically, content of the course was about basics of linear algebra, but compared to usual 2111 linear algebra course, it delves into concepts and ideas rather than just facts and their applications. If you like math, you&#039;ll especially find proofs of some theorems rather interesting. Here&#039;s all chapter that we&#039;ve learnt (all are in lecture note written by the prof.):<br />1. Chapters before midterms<br />1)Vector space:<br />Just the basics and definitions of an abstract concept: takes some time to understand, though easy.<br />2)Linear transformation:<br />Just a bunch of definitions to understand, but one might like concept where linear transformations and matrices are quite related: by that idea it is very easy to deduce some algebraic facts with matrices (associativity,etc.). But part with dual spaces was kind of confusing because of professor&#039;s poor notations (I mean, really, he used &quot;star&quot; notation twice for two different things the book without clearly mentioning that they&#039;re,in fact different).<br />3)Subspace: 3.1 - Definition and 3.2 - Range and Kernel<br />Nice and easy chapter.<br />2. Chapter after midterms:<br />1)Subspace: 3.3 - Sum and Direct Sum and 3.4 - Quotient Space<br />3.3 is not that hard and 3.4 even wasn&#039;t include in final exam content.<br />2)Inner product<br />By far one of the most interesting chapter where I didn&#039;t force myself to read lecture notes.<br />3)Determinant<br />Here we covered concept of determinants in geometry and algebra.<br />4)General linear algebra - fields, complex vector space<br />Even though this chapter wasn&#039;t tested in final exam, this was the most interesting chapter to read and to work through. <br />SPOILER: you&#039;re going to prove that one cannot trisect angle with <br />a compass and a ruler.<br />5)Spectral Theory - eigenspaces/values<br />This chapter basically covers the idea of how to express linear transformation in a &quot;good&quot; and &quot;convenient&quot; form for some particular cases.<br />Yeah, it is the hardest and the most important theme in the final exam, so I suggest you to pay more attention to this chapter.<br /><br />As a person who likes math, I&#039;d say that in terms of coolness the content is bad. It&#039;s basically memorisation and understanding easy ideas (mostly).",
+      "comment_teaching": "Professor Yan Min is a very clever man, but I&#039;d say his teaching skills are poor.&nbsp;&nbsp;He likes to emphasise on unnecessary and usually obvious things and ignore important ones. Mostly even after his lecture you&#039;ll spend some time rereading previous chapters because you simply didn&#039;t understand him. Also, both his lectures and lectures note&#039;s structure is very loosely related to each other which makes it impossible to &quot;absorb&quot; the content. That is, you might get , say lecture 13, but after lecture 14 you&#039;ll just forget it. Fortunately, he&#039;s a very pleasant person to talk to and his english is decent.<br />Hopefully, his TAs (at least mine) were very nice and helpful. They always replied to your e-mails in 5-10 minutes at most and made pdf (in LATEX) solutions to problems by themselves. Combining TAs and professor, overall score would be C.",
+      "comment_grading": "Grading consists of:<br />20% - HW, 30% - midterms, 50% - finals<br /><br />I used to hear by others that &quot;grading is fair&quot; and stuff, but it is not quite like that. I&#039;ve got 93.74% and my final grade was A-<br />It is OK, but cut for A was 94% and for A+ was 98%. So you might see that classes are very competitive because all students have some background and most importantly &quot;love&quot; for math. I mean, most students are ready to spend 20-25 hours of their time to this course doing all HWs, so take this course if you really want this kind of pain.<br />Homework is totally another story. By the end of one chapter cycle (not necesserally end of one chapter), he gives 15-20 simple tasks. They&#039;re easy, but OMG it is so time consuming. I would love if there was 5-6 problems that are hard and time consuming, but it is so boring to solve lots of basic problems. <br />Midterms and finals are just 4-5 problems with themes covered (see content). He&#039;ll later send you sample papers, so don&#039;t worry about practicing. If you understand everything, it is not that hard to get high score.<br />I&#039;ve got only final exam&#039;s electronic version, so sorry about that.",
+      "comment_workload": "Workload of this course is insane. Even if you don&#039;t have problems with planning and don&#039;t procrastinate, you&#039;ll spend 20-30 hours solely on this course (with some exceptions)!<br />I thought that the course is hard and interesting (im ok if i have to spend lots of time on it), but it turned out to be easy and boring, so regardless of if you like math or not, I wouldn&#039;t recommend to take it.<br />The only rational reason I can think of is nice suit for your transcript (some people will be &quot;impressed&quot; that you took &quot;honors&quot; course) or opportunity for scholarships (there are some scholarships with honors courses in math).",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "B0hADvKIsBDXULJlblCNZgs841mTXR2e",
+          "name": "2019final_exam",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "TYXnJrSHhuQcKupuUDYdT5WVamh7wYSP",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        },
+        {
+          "id": 1347,
+          "name": "HE, Hongren",
+          "rating": 1
+        }
+      ],
+      "author": "Jeff Sun",
+      "date": "Dec 17, 2019",
+      "title": "Linear Algebra Done Minyanly",
+      "comment_content": "Contents about linear algebra and some abstract algebra: vector space, linear transformation, subspace, inner product, determinant, general linear algebra, spectral theory, and tensor. The instructor failed to cover the tensor due to the tight schedule and interruption of the teaching. I think 4-credit courses, including this one, can extend their lectures to 2*2 hours a week because there are more to be covered. Field and Polynomial, which was scheduled to be covered by Prof. Maosheng Xiong was also interrupted halfway and he only finished one lecture.",
+      "comment_teaching": "Prof. Yan has his style that differs from probably anyone else in this world. He covers many things in a quite abstract way. To make things worse, you may find it hard to follow his leaping thoughts during the lectures.<br />However, if you successfully follow him, you will find that that&#039;s quite a lot of things in his lectures. Moreover, he is responsible and loves teaching this course for sure.<br />Even his lecture videos are nice and if there has not been the interruption of the courses, it would have been a better one.<br />The tutorials are also good and the TA may shed light on some questions in the lecture notes and problem sets.",
+      "comment_grading": "This year it suddenly changed to curve grading and seemed harsher than before.<br />98/94/92 for A+/A/A-, 90/80/76 for B+/B/B-. It seems harsh but considering that the final is super easy it&#039;s is fair. Moreover, the A range is 50%. However, you should be aware that the number of IMO guys is strictly larger than 5, the number of A+ guys, so think twice before you come.",
+      "comment_workload": "It takes time for you to understand what he is talking about though, which means that it takes time to digest what he said in the lectures.<br />Moreover, you need to do the homework sets, which are ~20 questions a week and the convention last for 7 times until his homepage was 404-ed.<br />However, to fully understand the contents, you need to do all the problems in the lecture notes.<br />Generally, it took me 13 hours a week to study the course.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "pQdchrPHAsbEOVwUyk6GwzhfSRAMvRyz",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        }
+      ],
+      "author": "USTAsiaNo1",
+      "date": "Aug 20, 2019",
+      "title": "Don&#039;t take unless you are the chosen one",
+      "comment_content": "excellent<br />-<br />The content is really wide and deep. Just check others, I am lazy to copy hehe<br />-<br />WARNING: Super abstract, not for those look for the &gt;&gt;application&lt;&lt; in linear algebra!!!",
+      "comment_teaching": "excellent <br />-<br />The ultra-thick note is written himself and keep updating during class lol<br />Every important concept and common examples are clearly explained<br />You can understand most of his explanation, he sometimes thinks with you in class. <br />He is definitely a knowledgable and kind teacher you look for in linear algebra",
+      "comment_grading": "There is a set of questions after each section<br />He will pick some and give us about a week to submit it<br />TA will only pick some and mark it, and he will usually pick some easy to normal questions.<br />TA is also kind and mark your assignment as high as possible.<br />Easy to get full / above mean <br />-<br />YET, when it comes to the mid-term and final<br />O<br />M<br />G<br />!!!<br />1. It is open-book, you can bring past paper + ans, his note + chapter exercise ans, your homework + ans, and your own note!<br />2. 3 hours for (about) 5 problem<br />3. It is not something too hard, but it is hard enough for you to forget how to apply all the skills you learnt<br />4. Some problems seem to be what you did before, but there is some weird trick that you have to figure out yourself. So, open-book won&#039;t save you anyway<br />-<br />Conclusion:<br />Some, included me, is like: I understood all concept, but I can&#039;t think those weird thick to finish even one question...<br /><br />To achieve a good grade here is not about being hard-working or not, It is really about your maths intuition and intelligence, not knowledge.<br /><br />Of cause, it also means, if you are clever, really clever, the top of the top (since everyone picks this course must be soooo confident to their maths ), it will be an easy A+ for you<br />-<br />Lastly, go MATH2121 and sit 2131 if you want an easy (relative) A range with good understand in linear algebra",
+      "comment_workload": "HEAVY<br />-<br />You know, maths is something heavily count on your insight and intelligence<br />Be ready for using a few days to tackle only one ultra-hard problem<br />It might be rewarding and happy for some, but... it is still undeniably high workload<br />-<br />However, still, if you are the chosen one and clever enough, it is easy",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Wp2saT1ZloUKwZIB1GBODDIyTEFjUGqc",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        }
+      ],
+      "author": "Alan chen",
+      "date": "Jan 07, 2019",
+      "title": "",
+      "comment_content": "The content of the course basically covers all the important concepts of linear algebra and it is organised in a clear structure. However, compared to other linear algebra textbooks, prof. Yan min&#039;s lecture notes are not easy to understand if you don&#039;t have much prior linear algebra knowledge. A large portion of time is expected to spend on understanding the material. So, a reference textbook is suggested to better understand the concept.",
+      "comment_teaching": "Professor Yan min is a very passionate teacher, and his teaching organisation is very clear. However, the pace would be a bit fast if you are not a fast learner so you need to tightly follow his pace by spending a lot of time after the lecture.",
+      "comment_grading": "Home work: 20%; Midterm: 30%; final: 50%<br />The 2 exams are not hard but all based on the material that taught in class. If you had a good understanding of most of the concepts, the exams are not hard at all. <br />Grading is very reasonable but also strict, a grading form is provided after the term and you can see grades of all the students with the marks in all aspects.",
+      "comment_workload": "The workload is mainly the time spent on lecture notes and weekly homework. And in order to follow his pace in class, a heavy workload is expected.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "WvhQpR6dhgWgv61YKNQAFXHF63QqtBrc",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 0
+        }
+      ],
+      "author": "您好",
+      "date": "Dec 20, 2018",
+      "title": "",
+      "comment_content": "Vector Space:<br />linear combination, span, linear independence, system of linear equations, row echelon form, basis, coordinate, dimension<br /><br />Linear Transformation:<br />linear transformation, composition, matrix operation, one-to-one, onto, isomorphism, matrix of linear transformation, change of basis<br /><br />Subspace:<br />span, range, rank, kernel, sum, direct sum, projection, blocks of linear transformation, quotient space, direct summand<br /><br />Inner Product:<br />dot product, inner product, adjoint, orthogonality, orthonormal basis, isometry, orthogonal matrix, Gram-Schmidt, orthogonal complement, orthogonal projection, complementarity principal<br /><br />Determinant:<br />determinant of square matrix, permutation, row and column operation on determinant, cofactor expansion, determinant of linear operator, orientation, volume<br /><br />Advanced Vector Space:(will not be tested)<br />complex number, complex inner product, complex vs real structure, module over ring, abelian group, polynomial<br /><br />Eigenvalue and Eigenvector:<br />eigenspace, characteristic polynomial, diagonalization, normal operator, hermitian operator, unitary operator<br /><br />Spectral Theory:<br />invariants of linear operator, Cayley-Hamilton Theorem, algebraic and geometric multiplicity, invariant subspace, Jordan canonical form, minimal polynomial, other canonical forms",
+      "comment_teaching": "No logic teaching, only copy words from his lecture note to the whiteboard.<br />Sometimes he even doesn&#039;t know what he is doing.<br />And his lecture note is nearly unreadable.<br />I recommend you not to take this course if Yanmin is the instructor.",
+      "comment_grading": "HW(20%)<br />Midterm(30%)<br />Final(50%)<br />Both midterm and final involve very few calculations, he asks conceptual questions most of the time.<br />For the homework, everyone can get high marks.",
+      "comment_workload": "You need to finish one assignment every week, around 10 - 20 problems. Most of the questions are easy, just calculation. <br />However, if you want to really understand the materials, you need to put a lot of efforts.",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "FiZbVKMFnGoyxeVdp3w57BORl6yS3Ozq",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        },
+        {
+          "id": 1131,
+          "name": "ZHANG, Yupei",
+          "rating": 1
+        }
+      ],
+      "author": "ted_mosbie",
+      "date": "Oct 26, 2018",
+      "title": "",
+      "comment_content": "Vector Space<br /><br />linear combination, span, linear independence, system of linear equations, row echelon form, basis, coordinate, dimension<br /><br />Linear Transformation<br /><br />linear transformation, composition, matrix operation, one-to-one, onto, isomorphism, matrix of linear transformation, change of basis<br /><br />Subspace<br /><br />span, range, rank, kernel, sum, direct sum, projection, blocks of linear transformation, quotient space, direct summand<br /><br />Inner Product<br /><br />dot product, inner product, adjoint, orthogonality, orthonormal basis, isometry, orthogonal matrix, Gram-Schmidt, orthogonal complement, orthogonal projection, complementarity principal<br /><br />Determinant<br /><br />determinant of square matrix, permutation, row and column operation on determinant, cofactor expansion, determinant of linear operator, orientation, volume<br /><br />Advanced Vector Space<br /><br />complex number, complex inner product, complex vs real structure, module over ring, abelian group, polynomial<br /><br />Eigenvalue and Eigenvector<br /><br />eigenspace, characteristic polynomial, diagonalization, normal operator, hermitian operator, unitary operator<br /><br />Spectral Theory<br /><br />invariants of linear operator, Cayley-Hamilton Theorem, algebraic and geometric multiplicity, invariant subspace, Jordan canonical form, minimal polynomial, other canonical forms<br /><br />Tensor<br /><br />bilinear function, quadratic form, signature, positive definite, multilinear function, tensor of vector space, exterior algebra",
+      "comment_teaching": "Professor Yan teaching is good and passionating, despite of his a little bit clumsy note. Think it is because of the fact that he just started teaching this course recently, but definitely he is improving his note everyday. He makes everything clear during the lecture and I never in need of a rehearsal at home.",
+      "comment_grading": "Grading is good, you will get good grade as long as you understand all of the materials",
+      "comment_workload": "Not too much. Since the homework propotion is 20% which is pretty high, the number of homework is acceptable. <br />Midterm 30%<br />Final: 50%",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "vW8QmGFZ3JxfwsnpgbJIehE4yBIuVBXr",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        },
+        {
+          "id": 1131,
+          "name": "ZHANG, Yupei",
+          "rating": 1
+        }
+      ],
+      "author": "數學研究生",
+      "date": "Jan 27, 2018",
+      "title": "",
+      "comment_content": "You can learn more deeper in the topic of Matrices, Vectors and Linear Transformation which are very new to candidates who did not have self-learning. If you are an M2 student, please don’t think that those things are not important, since it is an Honor course which asks for definition very rigorously.<br /><br />Yan Min’s notes are not well-written. A lot of mistakes and unclear concepts in his notes.",
+      "comment_teaching": "Yan Min’s teaching method is well-known. No need to talk much. Only focus on simple questions and copy and paste things from his notes, no logic teaching.",
+      "comment_grading": "Poor grading, I expect I can get at least a B, but finally hurts me so much. It highly reduces my TGA since I did quite good for other subjects.",
+      "comment_workload": "Very Heavy, as well as each question spends you one to two hours to think of, although the TA will give you very high marks but you cannot learn anything from the HW, since the midterm exam and final exam are very difficult.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Q5X9FdZLgGgcF9Q6wEmkQRqa9JF2Ehvh",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        },
+        {
+          "id": 1131,
+          "name": "ZHANG, Yupei",
+          "rating": 1
+        }
+      ],
+      "author": "Trevis@MATH",
+      "date": "Jan 17, 2018",
+      "title": "You may try if there are good instructors and you think you are good at mathematics.",
+      "comment_content": "Vector Space:<br />linear combination, span, linear independence, system of linear equations, row echelon form, basis, coordinate, dimension<br /><br />Linear Transformation:<br />linear transformation, composition, matrix operation, one-to-one, onto, isomorphism, matrix of linear transformation, change of basis<br /><br />Subspace:<br />span, range, rank, kernel, sum, direct sum, projection, blocks of linear transformation, quotient space, direct summand<br /><br />Inner Product:<br />dot product, inner product, adjoint, orthogonality, orthonormal basis, isometry, orthogonal matrix, Gram-Schmidt, orthogonal complement, orthogonal projection, complementarity principal<br /><br />Determinant:<br />determinant of square matrix, permutation, row and column operation on determinant, cofactor expansion, determinant of linear operator, orientation, volume<br /><br />Advanced Vector Space:<br />complex number, complex inner product, complex vs real structure, module over ring, abelian group, polynomial<br /><br />Eigenvalue and Eigenvector:<br />eigenspace, characteristic polynomial, diagonalization, normal operator, hermitian operator, unitary operator<br /><br />Spectral Theory:<br />invariants of linear operator, Cayley-Hamilton Theorem, algebraic and geometric multiplicity, invariant subspace, Jordan canonical form, minimal polynomial, other canonical forms<br /><br />Tensor:<br />bilinear function, quadratic form, signature, positive definite, multilinear function, tensor of vector space, exterior algebra",
+      "comment_teaching": "Prof. Yan is a good lecturer and spends more time on elaborating the examples in the lecture notes.<br /><br />And the TA is also good and most likely teaches us how to finish some of the most difficult questions of the assignments in tutorial. He also tries his best to mark the assignments higher so you need not worry about the grading of the assignments.",
+      "comment_grading": "The topics are very complicated and difficult at all but the instructors are good. Therefore, once you try your best and finish all the work by yourself, you will get a satisfied grade in return.",
+      "comment_workload": "There are 11 assignments in total and you need to hand in once a week. Sometimes there are a few questions but most likely there are a lot of questions. You can check in Prof. Yan&#039;s webpage.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "bdpcbG8tnTEg7VFtCeLBzvdyjGIXbWuW",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 1131,
+          "name": "ZHANG, Yupei",
+          "rating": 1
+        },
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        }
+      ],
+      "author": "Aluminium",
+      "date": "Jan 11, 2018",
+      "title": "Great but difficult",
+      "comment_content": "Linear algebra is absolutely useful for most student and Prof. Yan&#039;s lecture note is clear though there may be some mistakes.However it&#039;s hard to follow Prof.Yan &#039;s leaping thinking sometimes. So it may take you some time to understand his lecture notes and it&#039;s necessary to digest his course after each class.",
+      "comment_teaching": "Prof.Yan always suggest us use geometrical view to solve questions and he did explain some concepts geometrically. Prof.Yan speaks fast but there are many five-minute breaks in one course to digest what he said. However ,his course is still abstract so that you should pay much attention on what he said.<br />To sum, his teaching is not perfect but not bad.<br />TA will explain last week&#039;s lecture more precisely in tutorial so you should not miss any tutorial if you have difficulty in learning.The only fly in the ointment is that tutorial will no more keep up with the schedule after midterm when Prof. Yan begin to speed up the course.",
+      "comment_grading": "I have to admit that I didn&#039;t work hard so I get a bad grade. TA is nice and gives high marks in our homework as much as possible while Prof.Yan is strict in exams. Fortunately, the exam is easy if you study hard in this course.<br />It&#039;s said that Prof.Yan use absolute grading instead of relative grading so few people can get an A range, but one of my friends who works hard actually get an A+. So, no pain no gain.",
+      "comment_workload": "In fact homework is not so much but the workload is still very large because when you choose this course and want to get a satisfying grade, most of your time will be spent on it unless you&#039;re a genius. Some of the contents are quite abstract so it deserves a lot of time to digest. So I recommend that if you decides to choose this course you&#039;d better learn something about linear algebra and abstract algebra in advance so that you can be less laborious in learning process.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "M6aNKCZ8YmDFY95dNGbOFcsN7Ts0Rkvf",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        },
+        {
+          "id": 1131,
+          "name": "ZHANG, Yupei",
+          "rating": 1
+        }
+      ],
+      "author": "Bohr",
+      "date": "Dec 17, 2017",
+      "title": "Good maths course",
+      "comment_content": "Teaching topics:<br />1. Vector space<br />2. Linear Transformation<br />3. Subspace<br />4. Inner product space<br />5. Determinant <br />6. General Linear Algebra [complex vector space and complex inner product]<br />7. Spectral Theory",
+      "comment_teaching": "He teaching is ok and encourages student to think deeply in linear algebra as it is fundamental subject in maths which is useful for understanding abstract algebra or other advanced maths topics.",
+      "comment_grading": "20% HW<br />30% mid-term<br />50% final&nbsp;&nbsp;[Mean: 82.52]<br /><br />Mid-term and Final is normal.",
+      "comment_workload": "Total 11 homework [1 hw per week]<br />The workload is heavy. <br />If you want to register this course, please make sure that you have enough time to do the homework.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "vw3EGNFQxVi4elgYeZPd0IClPrwfheBd",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        },
+        {
+          "id": 1131,
+          "name": "ZHANG, Yupei",
+          "rating": 1
+        }
+      ],
+      "author": "MrBlueWhale",
+      "date": "Nov 14, 2017",
+      "title": "very (not) ok",
+      "comment_content": "i am year 1 IB graduate with only a sorry 6 in HL math, i am not doing too bad right now, so i mean its not that tough. and after take this course u feel like u have actually learned shit, so its very satisfying. i recommend.",
+      "comment_teaching": "in the first lesson he said &quot;you should approach mathematics rigorously, but learning mathematics should be casual&quot; tbh i think he meant &quot;teaching mathematics should be casual&quot; cuz his teaching is kinda random. i mean he understands it but like, I DON&#039;T! <br /><br />teaching: not ok lor!!!<br />at first i thought i was stupid thats y i didn&#039;t understand, but even the mainlanders complain!!!! though i mean teaching is not cancer level. but i heard yan min teaches 2043, 3043 and topolgy very well.<br />Let me give you an example. At the start for a new a section of a chapter (6.1.4), he proved something about a special case that only applies when the Dim(Re(V))&nbsp;&nbsp;is even - V is complex vector space. BUT HE DIDN&#039;T SAY ITS A SPECIAL CASE. AND KEEP IN MIND THIS IS THE BEGINNING OF A SECTION SO U WOULD EXPECT HIM TO DO THE GENERAL CASE! So i though i didn&#039;t understand complex vector space, but really it was just that I DIDN&#039;T UNDERSTAND THIS MAGICAL BEAST CALLED YAN MIN!!!!! I asked the math support center, they didn&#039;t know, i asked the TA, TA didn&#039;t know. finally i went can go to his office and ask him, and he gave a pretty nice explanation about the special case and what it is used for BUT WHY U NO WRITE THIS IN THE NOTE!!!?!! <br /><br />u should watch 3Blue1Brown youtuber&#039;s videos: Essence of Linear Algebra it will help u learn shit faster. its like visual and introductory so very friendly to n00bs like me",
+      "comment_grading": "homework: great<br />homework grade is very ok. 20% and TA is so nice u get 19% no matter how u do ur hw. <br />mid term: should be ok <br />but i got fucked over cuz his teaching is very not ok. oh yea according to his previous students he doesn&#039;t mark mid terms until he has marked finals. kill me. FUCK ME I GOT 68% mean was 78<br />final: i have no idea right now still taking course. i will update once i get sterilised by this course. ok for me 80% and mean was 82%<br />Overall: I FUCKED UP, i got B. IF u get something like 82-5% u get B+ and above that is A. I think. Absolute grading.<br /><br />I changed grading from B to A, because looking back I really sucked dick and its not the course giving out bad grades. Its kinda nice grading actually.",
+      "comment_workload": "cancer. homework is due every friday midnight. so every friday i spend a whole night to start and finish 20-30 something cancerous questions. I FINISH IN THE MORNING!!! so i run over to 3rd floor of science building before the ta comes to check in the morning. its so sad. and once it was by birthday, i cri evertim. but i mean i am lazy. if u spread out ur work load throughout the whole week its should be ok. sometimes i want to jump off the mushroom. idk man, now i am just writing shit to get satisfactory word count. oh yea work load might be increased cuz u need to revise for stuff cuz teaching is not very ok, but maybe u smarter than me soo......",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 6,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "VRxlhkI2albLuHUbII29950hYbT4PEcm",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 530,
+          "name": "MOY, Allen",
+          "rating": 0
+        }
+      ],
+      "author": "Jon-1",
+      "date": "Jan 11, 2017",
+      "title": "The course content is very good but teaching is not that good",
+      "comment_content": "The course content is quite good and covers most important topics of linear algebra. The topics covered are:<br />a)Functions<br />b)Groups and Rings<br />c)Dimension<br />d)Matrices<br />e)Change of coordinates<br />f)Linear Systems<br />g)Dot Products<br />h)Inner Products<br />i)Multi-linear Functions and Determinants<br />j)Eigenvectors and eigenvalues<br />k)Self Adjoint transformations<br />l)Cayley Hamilton Theorem<br /><br />The only negative thing being the notes contain a lot of notations that make very simple things look complicated.&nbsp;&nbsp;Also it defines a lot of objects at the start many of which are not studied in the course which is bit weird.",
+      "comment_teaching": "He does not give much intuition behind the definitions or the results. He just gives a definition followed by a couple of examples and then a result and its proof without emphasizing on where it came from or on its importance. While giving the proofs he just mechanically goes through it without explaining the main idea too well.",
+      "comment_grading": "3 Homeworks- everyone was given full marks and the answers were discussed in the tutorial before the due date.<br />4 Online Homeworks- Extremely easy, largely computational<br />Mid Term- Not very hard and was quite high scoring<br />Final Exam- Somewhat harder than mid term. <br />Both Mid-Term and Final exam contained some computations and some proofs that were discussed in the class. He tells(prior to the exam) a few theorems whose proofs will be asked in the exam.",
+      "comment_workload": "The course covers a lot of material in a short time. It is somewhat slow at the start but moves quite quickly towards the end.",
+      "rating_content": 5,
+      "rating_teaching": 2,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "4If2TqxlRny949OCfPDbA5Ydt3cXLoTd",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 530,
+          "name": "MOY, Allen",
+          "rating": 1
+        },
+        {
+          "id": 702,
+          "name": "HU, Mingan",
+          "rating": 0
+        }
+      ],
+      "author": "當科",
+      "date": "Dec 21, 2016",
+      "title": "Excellent content, OK lectures, average grading, poor tutorials",
+      "comment_content": "We mainly focused on studying properties and proofs. There was little focus on actual calculations. Overall I found the content very interesting and rewarding because we were able to rigorously define everything.<br /><br />I found the lectures before midterm very challenging, partly due to me having studied very little linear algebra before and partly due to Prof. Moy&#039;s teaching style (more on that in the teaching session). However, the lectures after the midterm, although still difficult, were a bit more manageable as i got used to the mathematical terms.<br /><br />Overview of the content this semester:<br />Week 1: Set and functions; Groups and homomorphisms <br />Week 2: Groups, homomorphisms, fields, rings<br />Week 3: Vector spaces, subspaces, and linear transformations<br />Week 4: Direct Sums, Span, Linear independence, Basis, Dimension<br />Week 5: Dimension<br />Week 6: Linear Mappings and matrix algebra<br />Week 7. Computational algorithms<br />--Midterm--<br />Week 8. Dot products in R^n<br />Week 9. Inner product spaces<br />Week 10. Determinants<br />Week 11. Eigenvalues and eigenvectors<br />(Week 12 and 13&#039;s content were not covered due to the lack of time)<br />Week 12. Spectral Theory<br />Week 13. Cayley-Hamilton",
+      "comment_teaching": "Prof. Moy talks fast. He doesn&#039;t explain the concepts too well. And he kind of laughs awkwardly whenever someone asks a question as if the question is stupid. Having said that, I still think he&#039;s a nice and friendly person and I respect him as a mathematician, but maybe not so much as a teacher.<br /><br />The TA is pretty bad. He speaks softly and unclearly. His handwriting on the whiteboard is very difficult to see. He doesn&#039;t correct the handwritten HW and simply gives everyone full marks. This is because the TA gives the solutions to the HW before the duedate everytime.",
+      "comment_grading": "Median = A-<br />This was the first honors course I took in UST. I am &quot;pretty good&quot; at maths, but not super good. But since this is an honors class, I was competing with mostly super good students. Getting median was harder than I expected, so... for me the grading was a bit harsh. I fell below the median and got a B+, though I am confident that if I studied in the normal version of this course I would have gotten an A.",
+      "comment_workload": "-3 monthly handwritten HW<br /><br />-4 webwork<br /><br />-1 quiz (one additional quiz for those who don&#039;t meet the prerequisite but still wants to enroll in MATH2131)<br /><br />-Midterm and Final<br />Midterm exam was alright but final exam was very tough.<br /><br />Plus, you HAVE TO review the content after every lesson or else you won&#039;t catch up. <br /><br />Summing up everything, I would recommend the course if you&#039;re super good at maths, but if you&#039;re &quot;kind of good&quot; at maths like me and have to rely on good teaching to learn well, or you need to get good GPA, this might not be the course for you.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "MPkTHG7byYJdPITV2qLWKw1CpKrAuvLY",
+      "semester": "2014-15 Fall",
+      "instructors": [
+        {
+          "id": 530,
+          "name": "MOY, Allen",
+          "rating": 1
+        },
+        {
+          "id": 704,
+          "name": "CHAN, Oiloom Vernon",
+          "rating": 1
+        }
+      ],
+      "author": "Songhao ZHU",
+      "date": "Aug 20, 2015",
+      "title": "Inspiring and Rigorous",
+      "comment_content": "Overall: Well-organized, concise, with examples explaining the main points. The notes are written and used by Prof. MOY. Maybe subjected to copyright.<br /><br />Content:<br />1. Functions<br />2. Groups and Rings<br />3. Vector Spaces<br />4. Dimensions<br />5. Matrices<br />6. Change of Coordinates<br />7. Linear Systems and Elimination<br />8. Dot Products<br />9. Inner Products<br />10. Multi-linear Functions and Determinants<br />11. Eigenvalues and Eigenvectors<br />12. Self Adjoint Transformations<br />13. Cayley-Hamilton Theorem<br /><br />Usually takes 13 weeks (or more) to accomplish the lectures on all the topics. It is possible that the Prof will omit certain parts for due courses.",
+      "comment_teaching": "Clear and step-by-step.<br /><br />It might not be that comfortable to accept so much brand new concepts at the very beginning. But Allen Moy always tries his best to make everything clear and rigorous if students have any question. Should you have any confusion, please just raise your hands during the lectures, and he is quite nice and always be ready to help students. <br /><br />He laughs a lot (where you wouldn&#039;t get the points XD). One of the top instructors in Dept. of MATH.",
+      "comment_grading": "Appropriate.<br /><br />30% Midterm <br />45% Final <br />25% Homework (both web-based and monthly homework) and Quizzes<br /><br />The exams are not painful. Remember to check everything you have learnt and that will be sufficient. Review the monthly homework please. <br /><br />Personally the grade is not satisfactory for I missed some naive things in the final.",
+      "comment_workload": "Light. (Well it depends on YOUR attitudes~ If you enjoy this course, it shall be rather joyful instead of arduous :/ )<br /><br />Web-based homework are just trivial. Nothing but calculation and basic knowledge review. The monthly homework is not that difficult but please do it carefully. Usually 6-7 problems per month. <br /><br />Tips: <br />1. Review the lecture timely. Re-prove or re-derive the theorems if possible;<br />2. Do the monthly homework devotedly and explore the problems as much as you can.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 5,
+      "comment_count": 5,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "course": {
+    "id": 496,
+    "subject": "HART",
+    "code": "1039",
+    "name": "The Art of Narrative in Drama",
+    "description": "Narrative is found in all forms of expressive arts. In drama, making a narrative is sometimes simply called story-telling, which is one of the earliest forms of performance. Understanding the art of narrative is fundamental to understanding and appreciating drama and other performing arts. Narrative forms, or stories, are building blocks of our cultural identity. The artistic skills of story-telling are therefore crucial in life events wherever communication of ideas and meaning-making of life experience is necessary. In this highly practical course, students will learn about how to structure a narrative by applying various drama and aesthetic elements. Through individual, paired and small group exercises, students will learn to narrate stories from various perspectives, investigate the use of dramatic language, acquire vocal and physical skills to make the story-telling more vivid and meaningful. By the end of the course, each student will create and perform a piece of original story-telling.",
+    "categories": [
+      "Common Core (Arts)"
+    ],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      1830,
+      1610,
+      1510,
+      1430
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 278,
+        "name": "LAM, Yin",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "W7LXbeJMXtsIcAx1Qo2DEdTSuYk0BKHk",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 278,
+          "name": "LAM, Yin",
+          "rating": 1
+        }
+      ],
+      "author": "NightShade",
+      "date": "Aug 26, 2015",
+      "title": "",
+      "comment_content": "A few notes in the LMES that helped give a structure to the practical learning.To quote, &quot;the stories should follow a clearly defined structure from (inception and cause) to the (climax and underlying message)&quot; <br />Every class covered a new theme and was more hands-on and interactive than theoretical. It focused on creativity, body language, facial expressions and on-the-feet thinking.",
+      "comment_teaching": "Was a wonderful experience. She was expressive and elaborate in explanations. Two extra lessons were organised for further practice. Everyone was given personal attention and feedback which went a long way in self improvement.",
+      "comment_grading": "Was based on attendance, participation, final presentation and critical commentary.<br /><br />Final presentation is of a 5-7 minute original story.<br />(https://www.youtube.com/watch?v=kTMbDen_zlM)<br /><br />Mean etc wasn&#039;t released but a satisfactory grade-sheet with feedback and reasoning for score was mailed. <br />(A- at 90 percent)",
+      "comment_workload": "Negligible throughout the term except when you need to compose and rehearse your own story and then write the commentary.<br /><br />Critical commentary (1000 words) is a written critique of your own experience, your strengths , how the course helped you overcome your weaknesses, your group member&#039;s progress (peer review-y) and your final presentation, selected 2 final presentations.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

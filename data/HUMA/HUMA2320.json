@@ -1,0 +1,228 @@
+{
+  "course": {
+    "id": 560,
+    "subject": "HUMA",
+    "code": "2320",
+    "name": "Chinese Drama",
+    "description": "An introduction to the fundamentals of Chinese drama in both modern and pre-modern periods, with the emphasis on how to appreciate Chinese drama tradition.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2010,
+      1910,
+      1710,
+      1510,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.8,
+    "rating_teaching": 4.4,
+    "rating_grading": 4.8,
+    "rating_workload": 3,
+    "review_count": 5,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 311,
+        "name": "LIU, Jianmei",
+        "count": 2
+      },
+      {
+        "id": 898,
+        "name": "LI, Siya",
+        "count": 2
+      },
+      {
+        "id": 1472,
+        "name": "JIN, Huan",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "cMQTzwj1sKwwkMM9BY8Dg8oUsoFEXieQ",
+      "semester": "2021-22 Summer",
+      "instructors": [
+        {
+          "id": 898,
+          "name": "LI, Siya",
+          "rating": 1
+        }
+      ],
+      "author": "Winter",
+      "date": "Aug 17, 2022",
+      "title": "牡丹亭",
+      "comment_content": "整個course就是講解《牡丹亭》，講杜麗娘的情，柳夢梅的情。并沒有注重或是李教授反對那些用現代思想去解釋《牡丹亭》是反封建反禮教。課堂氣氛輕鬆，對於出席沒有要求（因爲出席得分取決於你final寫的東西跟他講的有多大關係），講的東西挺有意思，你可以不喜歡不同意，但讀了不虧。",
+      "comment_teaching": "準備很充分，會有課外的延申，國語教學，你可以加教授微信，很容易聯係上他，反而Email可能會久一點。",
+      "comment_grading": "拿了一個A-，屬於是意外之喜了。",
+      "comment_workload": "很低，因爲這個sem是online，所以少了背書，final exam也變成final essay。大概2000+，和中文lang類似。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "QuykWdNmT2FLkL0koA1QEl98II7wxUjZ",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1472,
+          "name": "JIN, Huan",
+          "rating": 0
+        }
+      ],
+      "author": "letmegohome",
+      "date": "Jan 24, 2022",
+      "title": "快跑",
+      "comment_content": "Sep 7 Week 1 概論 <br />&nbsp;&nbsp;<br />Sep 14 Week 2 中國早期戲劇的起源、元雜劇的體制 <br />元稹《鶯鶯傳》、李公佐《南柯太守傳》、《目連救母》 <br /> <br />Sep 21 Week 3&nbsp;&nbsp;多重媒介：從舞台到文本。評點、插圖、電影、電視 <br /> 王實甫《西廂記》楔子、第一本第二、三折。 <br /> <br />Sep 28&nbsp;&nbsp;Week 4 戲曲的繁榮與晚明社會背景、“文人戲”，體制與結構 <br />湯顯祖《牡丹亭》序，第一齣《標目》第七齣《閨塾》第十齣《驚夢》第十二齣《尋夢》 <br /> <br />Oct 4 11: 59 p.m. Tutorial Presentation Topic due <br /> <br />Oct 5 Week 5 情：文本與劇場 <br />《牡丹亭》 第十四齣《寫真》第二十六齣《玩真》第三十二齣《冥誓》第五十三齣《硬<br />拷》第五十五齣《圓駕》 <br /> <br />Oct 11 11:59 p.m. Final Paper Topic due <br /> <br />Oct 12 Week 6&nbsp;&nbsp;“遊戲之作”、另一種“杜麗娘”？ <br />李漁《風箏誤》第一齣《顛末》、第三齣《閨哄》、第八齣《和鷂》、第十一齣《鷂<br />誤》、第十二齣《冒美》第十三齣《驚醜》 <br /> <br />Oct 18 11:59 p.m. Tutorial Presentation Proposal due <br /> <br />Oct 19 Week 7 歷史與女性 <br />孔尚任《桃花扇》第一齣《聽稗》、第二齣《傳歌》、第二十四齣《罵筵》、第三十五齣<br />《誓師》、第三十七齣《劫寶》 <br />&nbsp;&nbsp;<br />Oct 26 Week 8 No class (the day following the Chung Yeung Festival)&nbsp;&nbsp;<br /> <br />Nov. 1 11:59 p.m. Final Paper Proposal due <br /> <br />Nov 2 Week 9 地方戏、京劇與話劇 <br />觀影：京劇選段。閱讀：老舍《茶館》第一幕。高行健《車站》 <br /> <br />Nov 9 Week 10 戲劇與電影 <br />觀影《霸王別姬》 <br /> <br />Nov 16 Week 11 學生報告 <br /> <br />Nov 23 Week 12 學生報告 <br /> <br />Nov 30 Week 13 學生報吿 <br /> <br />Dec 6 11:59 p.m. Final Paper due <br /> <br />Reading list <br /> <br />邵海清校，王實甫：《西廂記》，杭州：浙江古籍出版社，1998 年。 <br />伏滌修：《『西廂記』接受史研究》，合肥：黃山書社，2008 年。 <br />王季思：《從『鶯鶯傳』到『西廂記』》，上海“上海古典文學出版社，1955 年。 <br />金聖嘆：《第六才子書『西廂記』》，鄭州：中州古籍出版社，1987 年。 <br />伏涤修, 伏蒙蒙校：《『西廂記』資料彙編》，合肥：黃山書社，2012 年。 <br />湯顯祖：《牡丹亭》，北京：人民文學出版社，1978 年。 <br />華瑋主編：《湯顯祖與『牡丹亭』》，臺北： 中央硏究院中國文哲硏究所, 2005 年。 <br />徐扶明：《『牡丹亭』研究資料考釋》，上海：上海古籍出版社，2016 年。 <br />周錫山：《『牡丹亭』註釋匯評》，上海：上海人民出版社，2017 年。 <br />孔尚任：《桃花扇》，北京：人民文學出版社，1959 年。 <br />陳仕國：《『桃花扇』接受史研究》，北京：中國戲劇出版社，2016 年。 <br />李孝悌，〈桃花扇底送南朝──斷裂的逸樂〉，《新史學》2006 年第3 期，頁1-59。 <br />李惠儀，《『桃花扇』中歷史的再現與第二代記憶 》，翻譯自“The Representation of <br />History in The Peach Blossom Fan” in Journal of the American Oriental Society,115, no. 3 <br />(1995): 421– 33. <br />陳白塵、董建主編：《中國現代戲劇史稿》，北京：中國戲劇出版社，1989",
+      "comment_teaching": "老师讲课就是念ppt<br />而且一节课很长很长很长，lecture和tutorial是连在一起的<br />如果不是文院的会觉得非常费解非常非常无聊<br />我听过李思涯教授讲牡丹亭，然后我意识到不是内容无聊，是讲课的人无聊",
+      "comment_grading": "公平的讲，不错，因为我从头到尾都是昏昏欲睡，什么也没学到，最后胡编乱造，充分发挥拿来主义，居然还没有C",
+      "comment_workload": "非常大",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "iH09jQdYOm9Ify3ItitfDhynIGU7CbPz",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 898,
+          "name": "LI, Siya",
+          "rating": 1
+        }
+      ],
+      "author": "REMIco",
+      "date": "Sep 07, 2020",
+      "title": "",
+      "comment_content": "整节课都在讲《牡丹亭》，前面讲的很慢很细致，后面略微有一些仓促。",
+      "comment_teaching": "老师讲的很细致，氛围比较轻松，上课的时候会放《牡丹亭》的戏曲视频。 老师在讲课同时会重点强调考试会考的题。",
+      "comment_grading": "笔试（全是大体，论述题，上课的时候会将很多重点）+小说（特殊情况，平时是戏剧）+课堂表现（不出意外应该是满分）+reading阅读presentation（选一篇reading结合所学内容进行讲述，可以在考试之前帮你快速了解reading大概内容）<br />一定要看reading！！！<br />很多最后考题的答案都是在reading基础上的，单纯凭自己的理解很难拿高分。<br />A range好像还蛮容易 但是A+很难",
+      "comment_workload": "主要的workload都在看的reading上，reading超多，考的东西涉及的reading很多，想拿高分最好都看一遍。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "2JveWLhq3oWI1dmYolY9Zhh7vdOqMwb4",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 311,
+          "name": "LIU, Jianmei",
+          "rating": 1
+        }
+      ],
+      "author": "Mikazuki",
+      "date": "Apr 24, 2018",
+      "title": "玄學課，但是有意思",
+      "comment_content": "一般上課有兩個部分：<br />第一個部分是方老師講解西方戲劇史，還是很淺顯易懂的。從古希臘戲劇講到當代的各個流派。基本上可以對戲劇有一個初步認識。<br />第二部分就是劉教授講高行健的劇本（這些都是內地看不到的啦）。這個內容就非常玄學了，畢竟高行健的劇作風格就是如此，但是，只要完成了閱讀任務，還是能夠略知一二的啦。",
+      "comment_teaching": "instructor都平易近人，和同學們的關係很好。上課時instructor會和大家吹水，氛圍很輕鬆。",
+      "comment_grading": "個人的grade是A，是真的好龜課！！！<br />最低最低據說是B還是B+。<br />attendance，quiz，final exam，final paper都是要算龜的。<br />quiz是不定時的，但一個sem只有兩三個，而且都是考閱讀的內容，看過就知。<br />exam有考閱讀的內容，還有方老師上課講的內容，所以要背一下notes。<br />final paper非常重要，雖然在開sem就會把paper寫什麼告訴同學，但是結sem是真的忙（我寫了3天）。",
+      "comment_workload": "爆炸！！！！！！！！！！！！！！！<br />每週都要讀書，而且要仔細（不是讀漫畫那樣子的）。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ZMxfhP9KQ72riaQTxrDqZzr0wlJfkNNE",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 311,
+          "name": "LIU, Jianmei",
+          "rating": 1
+        }
+      ],
+      "author": "chimz",
+      "date": "Nov 23, 2017",
+      "title": "為續命而續命 (呢個係制度問題，而唔係先生、課程問題)",
+      "comment_content": "分两大部分:<br />方老師: 西方戲劇史<br />歷史、代表人物 (作家生平、風格)、代表作品 (手法、舞台效果)<br />教授: 高行健劇作<br />針對內容意象分析，禪劇特點討論<br />劇作: 車站、野人、逃亡、山海經、對話與反詰、叩問死亡、生死界、彼岸、冥城",
+      "comment_teaching": "方老師準備充足，資料非常豐富，但課後係唔會upload PPT上canvas, 所以大家要準備部電話去影slide或者抄，因為考試題目都係喺份PPT個度出; 教授嘅內容比較難掌握，始終高行健劇目係難分析。不過教授已經特登抽一堂嚟講term paper 點做。",
+      "comment_grading": "你懂的。<br />最主力係term paper，如果term paper題目開得好，已經成功咗一半，另外一半係paper嘅邏輯，當然，如果paper係寫劇本，咁教授會分開評分，即係話劇評同劇本寫作係分两個pool比較。<br /><br />溫提: 呢一科唔係Common Core, 人會比較少",
+      "comment_workload": "對比同一學期嘅HUMA2240, 呢一科workload係多，多係在於劇目演出，因為組組都係原創，而且要排戲<br /><br />10% Pop up quiz (以下週數，只供參考，恕不負責任何錯失): Week 6, 7, 仲有一次唔計分<br />20% Attendance<br />30% term paper (可以係劇評或劇本寫作，最少3000字)<br />20% 劇目演出 (最後一堂做)<br />20% final exam (短答題, 20條內容題，10條MC, 4條析述題)",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

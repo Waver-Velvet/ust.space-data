@@ -1,0 +1,130 @@
+{
+  "course": {
+    "id": 1786,
+    "subject": "LIFS",
+    "code": "6170",
+    "name": "Special Topics in Molecular, Cell and Developmental Biology",
+    "description": "Recent advances in molecular, cell and developmental biology will be presented and discussed in lectures and tutorials.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 494,
+        "name": "WONG, Yung Hou",
+        "count": 1
+      },
+      {
+        "id": 498,
+        "name": "LIU, Kai",
+        "count": 1
+      },
+      {
+        "id": 500,
+        "name": "WEN, Zilong",
+        "count": 1
+      },
+      {
+        "id": 501,
+        "name": "YAN, Yan",
+        "count": 1
+      },
+      {
+        "id": 820,
+        "name": "GUO, Yusong",
+        "count": 1
+      },
+      {
+        "id": 890,
+        "name": "WU, Angela Ruohao",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "7Fs8r9XfT6VrWr3erLQ0fbWevBzAb7Rb",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 494,
+          "name": "WONG, Yung Hou",
+          "rating": 1
+        },
+        {
+          "id": 498,
+          "name": "LIU, Kai",
+          "rating": 1
+        },
+        {
+          "id": 500,
+          "name": "WEN, Zilong",
+          "rating": 1
+        },
+        {
+          "id": 501,
+          "name": "YAN, Yan",
+          "rating": 1
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        },
+        {
+          "id": 890,
+          "name": "WU, Angela Ruohao",
+          "rating": 1
+        }
+      ],
+      "author": "DanielChan326",
+      "date": "Jan 04, 2022",
+      "title": "The BEST course ever &lt;3",
+      "comment_content": "Prof. Yan<br />Given 5 papers to read before the lecture begin &lt;3<br />Lecture 1: <br />- Introduction to Development Biology <br />- ***Selected Topic this year: Morphogenesis - Force generation and sensing machinery in embryos<br />- Reviewed related research article/ paper x 1 <br />Lecture 2:<br />- Reviewed related research article/ paper x 2<br />Lecture 3:<br />- Reviewed related research article/ paper x 2<br /><br />Prof. Liu<br />Lecture 1 - 3: Research in the field of &quot;Axon regeneration&quot; - many key footsteps and papers have been included in the slides.&lt;3<br />Lecture 1:<br />- Introduction to spinal cord injury and CNS axon regeneration<br />- Molecular determinants of axon regeneration: Growth inhibitors<br />Lecture 2:<br />- Molecular determinants of axon regeneration: Intrinsic growth regulators<br />Lecture 3:<br />- Insights from other model organisms<br />- Other strategies: rehabilitation, neuromodulation&nbsp;&nbsp;<br /><br />Prof. Wu<br />Given 5 - 6 papers to read before the lecture begin &lt;3<br />Lecture 1: <br />- Sequencing techniques well explained, Sanger / NGS&nbsp;&nbsp;/ N.NGS<br />- Major applications around NGS, e.g. Cancer research. pre-natal diagnostics, predicting organ transplant rejection...<br />- Advanced uses in research: RNA-seq, CHIP-seq, ATAC-seq, and Hi-C<br />Lecture 2:<br />- Why Single cell &lt;3 and How <br />- Cell isolation techniques<br />- Single cell Atlas projects worldwide<br />Lecture 3:<br />- What is Synthetic biology <br />- Research articles related to synthetic biology <br />- What is Genome editing <br />- CRISPR/Cas9 and its applications<br /><br />Prof. Wong<br />Lecture 1 - 3: Everything important about GPCRs &lt;3<br />e.g.<br />- GPCR&#039;s families and classifications <br />- GPCR&#039;s structure and functional domains<br />- GPCR&#039;s splice variants<br />- GPCR&#039;s post-translational modifications<br />- GPCR&#039;s ligands<br />- Drug discovery around GPCRs<br />- Mechanism of activation of GPCR and G-protein<br />- GPCR dimerization, e.g. homodimer, heterodimer<br />- FRET/ BRET/ BiFc<br />- GPCR signaling / downstream regulation e.g. GRKs, b-arrestin<br />- more......<br /><br />Prof. Guo<br />Lecture 1:<br />- Roadmap of secretory transport pathway<br />- Anterograde transport from the ER to the Golgi<br />- Retrograde transport from the Golgi to the ER<br />Lecture 2:<br />- Intra-Golgi transport<br />- Export of proteins out of the Golgi<br />- Protein degradation mediated by autophagy <br />Lecture 3:<br />- Endocytic transport pathway <br /><br />Prof. Wen<br />Lecture 1: Hematopoietic Stem cells<br />Lecture 2: Tissue resident Macrophages<br />Lecture 3: Cytokine Signaling JAK STAT pathway",
+      "comment_teaching": "It feels like the six legends in LIFS department feeding life science into your mouth.",
+      "comment_grading": "Good, because it is a PG course.",
+      "comment_workload": "Presentation (40%) <br />- Present an assigned paper in 20 minutes + 10 minutes Q&amp;A<br /><br />Final Exam (60%)<br />- There are 6 long questions given by each professors, you can choose and answer 4 out of 6 questions.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "course": {
+    "id": 1969,
+    "subject": "ELEC",
+    "code": "5120",
+    "name": "Semiconductor Power and Energy Conversion Technologies",
+    "description": "Analysis of power semiconductor device technologies in the context of electric power conversion and transmission; emphasis on the understanding of the critical roles of semiconductor device technologies in power and energy conversion. The mainstream silicon and emerging semiconductor power devices technologies; material properties, device structure design, advanced fabrication techniques, and device characteristics. Critical device-circuit interaction issues and basic power electronics circuits will be covered focusing on the role of these circuits in electric power conversion and transmission.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2210,
+      1830,
+      1630
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "ENEG 5250",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

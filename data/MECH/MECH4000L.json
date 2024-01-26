@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 2869,
+    "subject": "MECH",
+    "code": "4000L",
+    "name": "Non-Destructive Evaluation in Aerospace Structures",
+    "description": "Through non-destructive evaluation (NDE), engineers can detect and characterize defects, cracks, or any possible internal damages inside engineering components (e.g. turbine blades of aircraft engine, aircraft body made of composite laminates and petrochemical pipelines). High profile incidents such as the A380 engine explosion in Singapore in 2010, and Deepwater Horizon accident were caused by undetected cracks in either turbine blades or pressure vessels. The importance of NDE is clear as it can avoid these risks by finding a crack in time. NDE is one of the key elements to ensure the quality of manufacturing and evaluate whether it is still safe to use an aircraft engine after many years. This course will introduce the basic ingredients of NDE techniques. We will cover different NDE approaches, including visual, penetrant, eddy current, x-ray and ultrasound. We focus on ultrasonic NDE because it is the most widely used, and it is very popular in the aviation industry (e.g. HASEL, HAECO in HK and Rolls Royce in UK). For ultrasonic NDE, we will start from very basic acoustic/ultrasonic knowledge to practical inspection methods and more advanced techniques. The lectures will be associated with real industrial application examples from my personal consulting experiences in the aerospace and nuclear industry. In addition, a lab session will be organized to demonstrate the ultrasonic NDE technology to the students.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1930
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2111\" href=\"/review/MATH2111\" target=\"_blank\">MATH 2111</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2350\" href=\"/review/MATH2350\" target=\"_blank\">MATH 2350</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2351\" href=\"/review/MATH2351\" target=\"_blank\">MATH 2351</a>) AND (<a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1112\" href=\"/review/PHYS1112\" target=\"_blank\">PHYS 1112</a> OR <a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1312\" href=\"/review/PHYS1312\" target=\"_blank\">PHYS 1312</a>)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1267,
+        "name": "SHI, Fan",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "X4hMxW34BzsqbXMPllYoJc9WSklmnbhj",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 1267,
+          "name": "SHI, Fan",
+          "rating": 1
+        }
+      ],
+      "author": "Spring Ho",
+      "date": "Aug 31, 2020",
+      "title": "good course with exceptional teaching",
+      "comment_content": "Everything related to non destructive evaluation in general, from ultrasound to wave mechanism, wave generation, 1D and 2D wave equations and solutions, frequency and time domain(Laplace transform and Fourier transform) etc. contentwise it is very broad, but for year 3 aerospace student there should not be any problem.<br />my grades sucks and I was able to get an A, although tbh I did work quite hard in this.",
+      "comment_teaching": "Professor Fan Shi is very patient with the teaching, he explains the tiniest details in every lecture slides, willing and capable for providing an explaining to every question raised by the students.<br /><br />You can just feel his passion in teaching and solving student&#039;s problems, great professor.<br /> <br />Besides, the TA of the course was also very helpful, I forgot his name but he was just like the professor, very patient and capable.",
+      "comment_grading": "almost full mark on 3 assignments, one with around 80 percent. For the project I did not pour a lot of effort in, but I did follow the syllabus quite well and was able to generate a piece of report that covers most of the elements taught (evaluation method, mechanism, cost, effectiveness, trade offs, etc.) Do pay attention and work hard on the tasks, you don&#039;t need to overthink and overdo anything, follow the syllabus, stay simple and practical with your ideas and you will do fine, at least that was what I did (got an A). 100 percent recommend for MAE students, if you get the email saying it will be offered, do not hesitate.",
+      "comment_workload": "4 assignments across the semester, spanned evenly which is nice, assignments in general are not difficult, if you pay attention in class everything is derived and mentioned. <br />Towards the end of the course there will be more materials to remember instead of calculate so that became a little bit boring but still, manageable.<br /><br />There will be a final project, you will pick a case out of 6 topics and develop your own solution to a industrial scenario that requires NDE, just follow the flow of the course and come up with a holistic system of evaluation method that makes sense and you will be fine, be careful to factor in the costs and effectiveness to justify your selection.<br /><br />For exams, there will be mid term but due to the pandemic it was cancelled, but if you follow the assignments fairly well, there would not be any problems for exams.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

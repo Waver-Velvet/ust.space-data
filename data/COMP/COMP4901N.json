@@ -1,0 +1,231 @@
+{
+  "course": {
+    "id": 3285,
+    "subject": "COMP",
+    "code": "4901N",
+    "name": "Competitive Programming in Cybersecurity I",
+    "description": "Cyber-attacks mounted by malicious attackers have been creating significant damage to various companies and individuals around the globe in the recent years; cybersecurity is now a high priority consideration for the major businesses worldwide. To deepen the practical knowledge in fighting against the cybersecurity threats, cybersecurity competitions are being organized every year by various institutions and organizations. This course prepares interested students with the practical knowledge for taking part in cybersecurity contests. The course will be offered as a 0-credit course in the Fall semester. Enrolled students will learn the common topics in the first 5 weeks of the Fall, getting trained in fundamental knowledge of cybersecurity.  Then they will divide into two tracks in the remainder of the Fall. One track will be concentrating on topics like binary analysis, reverse engineering, the other track will be concentrating on topics like web exploitation, cryptography, computer forensics, and other miscellaneous topics. Graded P or F.",
+    "categories": [],
+    "website": null,
+    "credits": 0,
+    "semesters": [
+      2110,
+      2010
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4.6,
+    "rating_grading": 4.8,
+    "rating_workload": 3.6,
+    "review_count": 5,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 799,
+        "name": "LAM, Ngok",
+        "count": 5
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "NUyJ53N4DM0xGaAuUEZ9lHNdSRabkHDC",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 799,
+          "name": "LAM, Ngok",
+          "rating": 1
+        }
+      ],
+      "author": "TrebledJ",
+      "date": "Jun 16, 2022",
+      "title": "Escape from the horrors of UST",
+      "comment_content": "(Note: This course is being rebranded as COMP2633.)<br /><br />If you&#039;re an escapist and loathe some of the more annoying classes of UST (looking at you math3033), then this course is just right for you... maybe. If you, like me previously, have never touched the field of cybersecurity before and you&#039;re even the tiniest bit interested, this course is for you.<br /><br />This is the first in a series of three courses (COMP4901N/O/P, now rebranded as COMP2633/3633/4633). So if you do well in this course, you&#039;ll get to advance and learn/experience potentially more. Since this course is introductory, content goes for more breadth and less depth.<br /><br />After the first couple weeks, you&#039;ll be asked to select either Track A (pwn/binary/reverse) or Track B (web/crypto/misc)–more on these below. Just keep in mind that the tracks are merely a formality. You can cherry pick whatever challenge and topic you want: e.g. maybe you like playing reverse and crypto but hate pwn and web.<br /><br />Everything in this course (CTFs in general, actually) is rather hands-on. So if you rather hack something than learn whatever a second derivative telescoping triplosive Bodeman-Weiestrass clopen set is... then just clicky click the enrol button.<br /><br />To give you an idea what topics are available:<br /><br /> - pwn/binary: study assembly, compiler/processor nuances<br /> - reverse: discover what an app is doing under the hood<br /> - web: study web browsers, php, frameworks<br /> - crypto: break ciphers, do meth, get high<br /> - misc: image/audio/disk/packet nuances and other fun little things",
+      "comment_teaching": "Taught by students, for students.<br /><br />Similar structure to Robotics Team. You enter as a trainee. You get filtered (selected). You get filtered some more. Finally you ascend into the upper echelons and gain the opportunity to preach your wisdom to the next generation of lost sheep.<br /><br />I&#039;d say the teaching was mostly good? Some were quite good, while some were ungood. But overall, I&#039;d say at the same level, or even better than a lot of professors.<br /><br />The best teacher, however, is experience. Get your hands dirty, run the scripts, and hack away as you escape from the reality of UST.",
+      "comment_grading": "Reasonable grading. Submit attendance flags. Do your homework. Profit.<br /><br />Assuming people don&#039;t cheat and share flags (which you shouldn&#039;t), then there is a strong correlation between your effort and your grade.<br /><br />I won&#039;t talk too much about stats here. Not much has changed so you can just check the older reviews for details.",
+      "comment_workload": "This is quite variable as it depends on experience, knowledge, which track(s) you choose, the support you receive from the seniors, and most of all... endurance. How much are you willing to suffer to find the flags?<br /><br />If you have experience with the web and networking, you may find the web challenges easier to comprehend.<br /><br />If you have experience with assembly, you may find the pwn/binary/reverse challenges easier to crack. Having taken COMP2611, I found these challenges were generally easier to navigate.<br /><br />Regardless, you&#039;re here to learn. If you want to rank high and advance to COMP4901O (now COMP3633), you&#039;ll need to sacrifice quite a bit of time. If all you want is to pass, you just need to submit attendance flags (which are basically free); but IMHO you would just be wasting your time.<br /><br />But eh, just have fun.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Mo6JO5XF9Zlp4afIbeIbDBMg4OdukcFD",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 799,
+          "name": "LAM, Ngok",
+          "rating": 1
+        }
+      ],
+      "author": "hoifanrd",
+      "date": "Feb 03, 2021",
+      "title": "Learning practical hacking skills : )",
+      "comment_content": "A course about how to play CTF.<br />Capture the Flag(CTF), &quot;flags&quot; are secrets hidden in purposefully-vulnerable programs or websites. Competitors steal flags from the organizers (jeopardy-style challenges). (Copy from Wiki)<br /><br />So simply speaking, this course is about practical hacking skills! It will be a great course if you are interested in treasure hunting and hacking.<br /><br />It includes almost every &quot;basic&quot; technique in CTF competition. Although those are basic skills in CTF, the techniques are not basic at all in the aspect of computer science. You&#039;ll have to learn as simple as SQL injection, or as difficult as how to buffer overflow to get a remote shell. Just many aspects of computer science. For details, you can refer to Kenny128&#039;s review.<br /><br />There will be also different local or internal CTF competitions that you can play with your classmates. This would be the time where you show the CTF skills that you have learned in the class!",
+      "comment_teaching": "All the senpais are really yasashii (except Sam, because he made so many ribble challenges that require guessing xD). Although the pace of teaching would be pretty fast due to the limited time that you may not be able to understand some of the contents. You could always watch the Zoom recording to watch the class again, again, and again.<br /><br />The most important point is that there is an official Discord group where you can chat with the senpais and your classmates. You can ask them about the contents of the class if you don&#039;t understand. They will be very willing to answer and explain to you. You can even ask your homework if you really can&#039;t solve it, they will give you hints too. ;)<br /><br />While actually, you can chat anything in the Discord group. (Then will you find that all of us are talking about anime, VTubers, memes www) Just treat all of us are friends and the atmosphere are very good. OuO",
+      "comment_grading": "Good grading, just P/F.<br /><br />50% - Attendance<br />50% - Track A in-class exercises and homework<br />50% - Track B in-class exercises and homework<br /><br />So technically, the maximum score that you could get is 150%, where 60% would be a pass. By getting a full score in attendance and doing some in-class exercises (In-class exercise will be demonstrated in-class so you could get the flag by copying it), you must get a P grade so it&#039;s very difficult to get an F.<br /><br />However, if you aim for a more advanced course - COMP4901O, you will have to get a better performance in order to be invited to join the more advanced course.",
+      "comment_workload": "To be honest, the only workload would be doing the homework. The homework is not difficult if you could understand the contents taught in the class. It just requires a lot of time to think/guess (and Google. Yes, trust me, Google is your BEST friend) the correct approach to hack the machine and get the flag.<br /><br />For me, I usually start to do the homework immediately after the class. Sometimes I finish the homework by doing it few hours continuously, while sometimes I need to take more time so that I will have to spend time doing it half of a day in the next day. Great to spend time if you feel boring (like if you feel all the courses in UST are easy for you) or if your parents ask you why you seem to be having lots of free time in UST.<br /><br />To conclude, try harder, Try Harder, TRY HARDER, then you&#039;ll find the flag : D",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 7,
+      "vote_count": 7,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "7XgxzjcVXZKUyAYwFUcg6WOSw1upvh37",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 799,
+          "name": "LAM, Ngok",
+          "rating": 1
+        }
+      ],
+      "author": "amyriad",
+      "date": "Jan 20, 2021",
+      "title": "P/F, 消磨時間神器 (Adjustable Time Killer)",
+      "comment_content": "(<br />New course codes:<br />COMP2633 = COMP 4901N: Competitive Programming in Cybersecurity I<br />COMP3633 = COMP 4901O: Competitive Programming in Cybersecurity II<br />COMP4633 = COMP 4901P: Competitive Programming in Cybersecurity III<br />)<br /><br /><br />* In short: Online Treasure Hunt *<br />(or &quot;the real CTF (Capture The Flag) course&quot; if you know what this term means)<br /><br />Please refer to Kenny128&#039;s review for details. (2020-21 Fall)<br />Course Website: https://course.cse.ust.hk/comp4901n/<br />^ Lecture Notes and Videos Uploaded There<br /><br />* Notice that this is not a so-called compulsory schedule, you need not be interested in all of the topics below, and feel free to learn beyond this for real applications *<br /><br />Basic:<br />- Course introduction<br />- Basic training (Linux 101)<br />- Basic training continued (Network, Python, and PWN)<br />- Guest talk<br /><br />Track A Branch (Pwn &amp; Reverse Engineering):<br />- Reverse 101 (World of binaries)<br />- PWN 101 (Linux Binary Exploitation)<br />- Reverse 102 (Ghidra with IDA)<br />- PWN 102 (Shellcode and Lazy binding)<br />- PWN Tutorial (Linux Binary Exploitation)<br />- Reverse 103 (Symbolic Execution)<br />- PWN 103 (Stack Migration)<br />- PWN 104 (Format String)<br /><br />Track B Branch (Web Exploitation &amp; Cryptography):<br />- Web Security 101<br />- Crypto 101 (Introduction to Cryptography and Cryptanalysis)<br />- Web (SQL Injection&#039; or 1=1 --)<br />- Crypto 102 (Cryptanalysis: Symmetric ciphers and their attacks)<br />- Web (Server-side Attacks)<br />- Crypto 103 (Fantastic RSA and How to Attack Them)<br />- Web (Client Side Attacks)<br />- Forensic and Stego 101<br /><br />Course Intended Learning Outcomes<br />- Be able to apply and understand ethical hacking.<br />- Be able to master the basic knowledge required for dealing with cybersecurity threats.<br />- Be able to learn the more advanced knowledge for dealing with cybersecurity threats.<br />- Be familiar with real-world issues related to cybersecurity in various organizations.<br />- Be familiar with the practical skills in fighting against cybersecurity threats.",
+      "comment_teaching": "Mainly by lovely senpais and top-class CTF team (probably &quot;Idols&quot; in the CTF field).<br /><br />We have an official Discord server, and senpais are very happy to chat with you about course stuffs, anime stuffs, vtuber stuffs, rhythm games stuffs, memes reviews, etc.<br /><br />You can hope to see different kinds of live streaming like lecture, game streaming like CGSS, ガルパ (BGD), IDOLiSH7, or anime discussion, except that you cannot send a superchat but senpais still read out your comments",
+      "comment_grading": "If you want to learn something, you are still welcome to participate in the course even if you cannot officially register into the course due to time clash. Everyone is treated equally.<br />(Should be on Friday at night, but there may still be collision with lectures until 6, or labs from 6-8?)<br /><br />P/F, 0 Credits (← Don&#039;t affect your grade in any way)<br /><br />Attendance (50%) + Exercises &amp; Homework (50% * Total no. / No. from single track)<br />This semester consists of 11 weeks and 10 (Exercise + Homework) sets with 2 track-shared sets, so Exercises &amp; Homework constitute a total of 50% * 18 / 10 = 90%<br />And thus the maximum possible score is 140%.<br /><br />For the non-track-shared part, half of the exercise / homework are from Track A, while the other half are from Track B. You are supposed to focus on one track, but better if you manage to do it all.<br />* Exercises are those demonstrated in class *<br /><br />Passing Score: 60% ← Just submitting every attandance flag and in-class exercise flags is already giving you far more than just pass.<br /><br />To enroll into COMP4901O (and COMP4901P), you may need a higher score and perform satisfactorily in internal CTF (← No exam, Yay!)",
+      "comment_workload": "Very interesting for topics selection and themes.<br />Very light workload if you just want to get a pass.<br />Very heavy workload if you want to get a &quot;full combo&quot;.<br /><br />Since the course is P/F, I should rate it as an A.<br />(Reasons are mentioned in the GRADING part.)<br /><br />* Warning: CTF can be highly addictive that cause you to end up spending more time than expected in finding flags (← but it makes you learn more, 寓學習於娛樂 (Edutainment), good enough, isn&#039;t it?) *<br />* Warning: you may end up staying up late at night (← is this really a change?) *<br /><br />If you are worried about having too light workload causing your parents questioning about whether you are studying, then this is the perfect choice to have flexible adjustment to your workloads.<br />(0 credit, free to learn / spend time as much as you wish)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 8,
+      "vote_count": 8,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "JSNzNvz2scLR44tPnhy9Y8NWjiZm6LIJ",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 799,
+          "name": "LAM, Ngok",
+          "rating": 1
+        }
+      ],
+      "author": "Starry Miracle",
+      "date": "Jan 19, 2021",
+      "title": "P/F, 唔會跌GPA,神course",
+      "comment_content": "Basically everything about CTF.<br />Unlike COMP3632, which is mostly theory, you will learn how to &quot;competitively&quot; capture flags!<br /><br />- Content for 202021Fall please find the review by Kenny128. He has covered basically everything.<br />- You may also be invited by the admin team to join CTF competitions",
+      "comment_teaching": "Very technical and in-depth explanations in-class.<br /><br />They are(were) also students. Please expect Hong-Kong-style English accent.<br /><br />You can receive help from Hong Kong&#039;s top CTF team if you have question about course material.<br /><br />Basically there will be people in the Discord server 24/7 who can answer your question/ give hints.<br /><br />(The teaching team are basically bunch of SIMPS on VTuber, CGSS, LL, etc.)",
+      "comment_grading": "P/F (99.9% pass unless you do not even bother to find the attendance flag), what do you expect more?",
+      "comment_workload": "Easy to pass.<br /><br />Need to put some effort if you want to learn more about cybersecurity.<br /><br />May cause health problem if you are addicted to CTF.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 9,
+      "vote_count": 9,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "NdkVUnf1pArb9jmVyXizhcORRrKcqs4j",
+          "name": "firebird-icon_v0.0",
+          "format": "png"
+        }
+      ]
+    },
+    {
+      "hash": "Chod3MFPcUKkwtsjrqcK2Ux9on5sJm16",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 799,
+          "name": "LAM, Ngok",
+          "rating": 1
+        }
+      ],
+      "author": "Kenny128",
+      "date": "Dec 05, 2020",
+      "title": "1n720duc710n 70 C7F W17h F123b12d-ch4n5",
+      "comment_content": "&quot;You will love the content if you really love CTF games.&quot;<br />&quot;You will feel PAIN if you just come here for the name.&quot;<br />--Firebird Team<br /><br />=== Prerequisites ===<br />NONE (but you need to have a genuine interest in the practical aspects of the cybersecurityfield, <br />otherwise it will be EXTREMELY painful when you reach the middle of the semester)<br /><br />=== Course Sturcture ===<br />This is the first course out of a series of 3 contest oriented courses, namely:<br />COMP4901N (offer in Fall) &lt;= You are here<br />COMP4901O (offer in Spring)<br />COMP4901P (offer in Fall)<br /><br />=== Table of Contents ===<br />Common topics in the first 2 weeks<br />Then divide into two tracks, pick one<br />Track A : Binary Exploitation &amp; Reverse Engineering<br />Track B : Web Exploitation &amp; Cryptography<br /><br />Basic Training<br />├─101: Kali Linux &amp; Basic Commands &amp; LFI attack<br />└─102: Common Encoding &amp; Python &amp; Pwntools<br /><br />Track A<br />├─Reverse<br />│&nbsp;&nbsp;├─101: Assembly language &amp; Basic Reverse Skills<br />│&nbsp;&nbsp;├─102: Reverse with Ghidra &amp; IDA<br />│&nbsp;&nbsp;└─103: Symbolic Execution &amp; Z3<br />└─Pwn<br />&nbsp;&nbsp;&nbsp;&nbsp;├─101: Assembly(x86) &amp; GDB &amp; Buffer Overflow<br />&nbsp;&nbsp;&nbsp;&nbsp;├─102: Shellcode &amp; GOT Hijacking &amp; Ret2libc(x86)<br />&nbsp;&nbsp;&nbsp;&nbsp;├─Tutorial: ROPchain &amp; Ret2libc(x64)<br />&nbsp;&nbsp;&nbsp;&nbsp;├─103: Stack Migration<br />&nbsp;&nbsp;&nbsp;&nbsp;└─104: Format String Attack<br /><br />Track B<br />├─Web<br />│&nbsp;&nbsp;├─101: What is Web &amp; Common Tools<br />│&nbsp;&nbsp;├─102: SQL Injection<br />│&nbsp;&nbsp;├─103: Server-side Attacks<br />│&nbsp;&nbsp;└─104: Client-side Attacks<br />├─Crypto<br />│&nbsp;&nbsp;├─101: Introduction to Cryptography &amp; Cryptanalysis<br />│&nbsp;&nbsp;├─102: Symmetric Ciphers &amp; their Attacks<br />│&nbsp;&nbsp;└─103: Fantastic RSA &amp; How to Attack Them<br />└─Forensic<br />&nbsp;&nbsp;&nbsp;&nbsp;└─101: Forensic &amp; Stego Tools",
+      "comment_teaching": "&quot;The &#039;teaching&#039; is kind of loose, we only talk about basics in different topics, <br />but you will need to TRY HARDER and combine multiple skills in homework.&quot;<br /><br />This course is offered in a brand new teaching model:<br />- Senior students instead of instructors will conduct the training<br />- Vtuber firebird-chans<br /><br />=== Big Bigs ===<br />Alex\t\t\t: very cute<br />Cousin\t\t: nice senpai who kicked me once<br />Eric &amp; Viky\t: newbie savior of pwn &amp; reverse<br />Harrier\t\t: newbie savior of crypto &amp; python<br />Ringo\t\t: newbie savior of web, I love Ringo<br />Sam\t\t\t: newbie killer of tuning &amp; ribble, I hate Sam<br />...basically a list of people I pm for hints XD<br />...also a big thx to other members for the lectures, slides and challenges!<br /><br />=== Lectures ===<br />- 26 to 141 pages of ppt<br />- Content highly concentrated<br />- With some online demo &amp; reading materials<br />- You are NOT expected to follow (at least I can&#039;t)<br />- Watch the recordings again<br />- Watch the recordings again again<br />- Watch the recordings again again again<br />- Gugulu<br /><br />=== Challenges ===<br />Most of them are well designed,<br />require you to make some observation,<br />then solve it with skills in notes.<br />Two of them require 通靈, namely:<br />Super Encryption 2 (By Sam)<br />Shaaark🦈 (By Sam)",
+      "comment_grading": "Gives 0 credit<br />ONLY Pass/Fail Grades<br />&quot;If you failed to prepare, prepare to fail.&quot;<br /><br />=== Grading Scheme ===<br />Class Attendance\t\t: 50%<br />Exercise &amp; Homework\t: 50%<br />How to Pass: At Least 60% of the total scores.<br />Getting a pass is not enough to be invited to join COMP4901O,<br />you need to do much better than that! <br /><br />Examples:<br />Attended all the 12 classes,<br />get 75% for works in track A, <br />= 1*50% + 0.75*50%<br />= 87.5%<br />Attended all the 12 classes,<br />get 40% for works in track A,<br />get 50% for works in track B, <br />= 1*50% + 0.4*50% + 0.5*50%<br />= 95%<br />Theoretically, if you done all works in track A &amp; track B,<br />You can get upto 150%<br />=&gt; Profit!<br /><br />=== My Flags ===<br />Attendance Flag\t: 11/11<br />Basic Flag\t\t: 9/9<br />Track A Flag\t\t: 16/16<br />Track B Flag\t\t: 16/16<br />Overall Score\t\t: 150%<br />Grade\t\t\t: N/A (didn&#039;t reg)<br />If you only want the fun part, <br />you can take the training without taking the course!",
+      "comment_workload": "&quot;We expect a 3-credit, COMP 4000-level workload in this 0-credit course.&quot;<br /><br />The workload in first 2 weeks is higher:<br />More exercise &amp; more homework &amp; more stuff to learn<br /><br />After that, for each track every week:<br />=== 2 Hours of Lecture ===<br />- Learn python in 2 hours<br />- Learn assembly language in 2 hours<br />- Learn RSA in 2 hours<br />- Learn ... in 2 hours<br />- Learn how to give up in 2 hours<br /><br />=== 1 Attendance Flag ===<br />- Normally hidden in ppt as plaintext or image<br /><br />=== 1 Scored Excercise ===<br />- Solution usually demonstrated during class<br />- &quot;Anyone finish the exercise?&quot;<br />- &quot;No one? Ok let me demo...&quot;<br /><br />=== 1 Scored Homework ===<br />- Difficulty of Homework &gt;&gt; Difficulty of Excercise<br />- 2 week deadline<br />- Solve it YOURSELF<br />- Stuck?<br />- try harder<br />- Try Harder<br />- TRY HARDER :)",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 18,
+      "vote_count": 18,
+      "comment_count": 1,
+      "attachments": [
+        {
+          "key": "EFZgzEM8n0ghhi28xoFqeuRJ49DfC0PZ",
+          "name": "fall2020_enroll_graph",
+          "format": "png"
+        },
+        {
+          "key": "IP2FcSlimC3tnXiEKBXJhFXTshBWxsTC",
+          "name": "me",
+          "format": "png"
+        }
+      ]
+    }
+  ]
+}

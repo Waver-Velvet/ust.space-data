@@ -1,0 +1,132 @@
+{
+  "course": {
+    "id": 701,
+    "subject": "ISOM",
+    "code": "4400",
+    "name": "Information Systems Project",
+    "description": "Development of an information system with substantial complexity through the use of methodologies and technologies. May be graded PP. Student enrollment in this course requires the approval of the course instructor. Credit load will be spread over the year.",
+    "categories": [],
+    "website": null,
+    "credits": 6,
+    "semesters": [
+      2330,
+      2310,
+      2230,
+      2210,
+      2130,
+      2110,
+      2030,
+      2010,
+      1930,
+      1910,
+      1830,
+      1810,
+      1740,
+      1730,
+      1720,
+      1710,
+      1640,
+      1630,
+      1610,
+      1540,
+      1530,
+      1510,
+      1440,
+      1430,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ISOM\" data-code=\"4380\" href=\"/review/ISOM4380\" target=\"_blank\">ISOM 4380</a>",
+    "rating_content": 3,
+    "rating_teaching": 2.5,
+    "rating_grading": 3,
+    "rating_workload": 1,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 375,
+        "name": "KWOK, James Sai Ho",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "ju8OxhZF0KHDppttR4NT1yW6uOvyWNnZ",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 375,
+          "name": "KWOK, James Sai Ho",
+          "rating": 0
+        }
+      ],
+      "author": "shrught",
+      "date": "May 03, 2022",
+      "title": "Easily the shittiest piece of trash course I&#039;ve ever taken in UST",
+      "comment_content": "I worked on a company project with PwC. And it is a fucking disaster. The instructor provides zero guidance and PwC supervisors are passive at their most. We tried to contact PwC supervisors a LOT of times but they almost never replied. It was almost impossible to communicate and discuss our work with them. So we brought the difficulties to the professor and try to seek advice, all we got from him was &quot;you should figure it out yourself&quot;. <br /><br />And we DID have to figure it out ourselves. So basically we brainstorm the whole project without really communicating with PwC. But we still kept updating work progress to them via texts and videos, and as expected, not a single FUCKING reply.<br /><br />Here comes the most interesting part, when doing the final presentation, we got ROASTED by the professor by asking &quot;why do you brainstorm this/that part? you should communicate with supervisors&quot; &quot;Why don&#039;t you evaluate your product with the real PwC clients?&quot; &quot;Your meeting minutes are very low&quot;<br />I mean, it is the professor that told us to figure our shit out when we need suggestions or help to communicate with PwC supervisors. And also, it is the professor that questions us about why we came up with some features without communication with the supervisors.<br />I mean WHAT THE FUCK? What should I do then??? <br />And at the end of the day, I am very likely to get shit grades because our supervisors obviously treat this project as a burden and don&#039;t give two shits about us. On the other hand, the professor blames every fucking things on us. This is just a joke.<br /><br />For any living animal who wants to take this course, STAY THE FUCK OUT OF THIS SHIT. You don&#039;t want this course to leave a stain in your life.<br /><br />If there&#039;s anything I learned from this project, it&#039;s probably how society works. The upper level can do whatever the fuck they want and if something bad happens, it&#039;s always you peasants&#039; fault.",
+      "comment_teaching": "0<br />nil<br />nothingness<br />Honestly, if I were a professor, I&#039;m gonna conduct this course every year until I retire. This is just easy money.",
+      "comment_grading": "Haven&#039;t been released yet.<br />Pretty sure it&#039;s gonna be shit.<br />But if I get a good grade, it still doesn&#039;t change the fact that this is a shit course.",
+      "comment_workload": "Physically: light as fuck since no one gives a shit about you, you just gotta figure out yourself and probably spend your time learning and building something that will get ZERO appreciation from the professor.<br />Mentally: heavy enough for you to get mental illness.",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 11,
+      "vote_count": 11,
+      "comment_count": 4,
+      "attachments": []
+    },
+    {
+      "hash": "Q8KHnC3q97g6PO1ubgNl3H2wAqI80c3k",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 375,
+          "name": "KWOK, James Sai Ho",
+          "rating": 1
+        }
+      ],
+      "author": "就黎升仙",
+      "date": "Jun 07, 2021",
+      "title": "6 cred, 3 cred in Fall + 3 cred in Spring",
+      "comment_content": "You can choose to work on any one of the followings<br />1) Company Project<br />2) App Development (Your idea)<br />3) Research (need to be approved by Professor)<br /><br />You can apply most knowledge you have learnt from IS major like ISOM3210, ISOM3260, coding and so on. <br /><br />P.S. The coding knowledge you learnt from IS courses are not enough, so you need to learn yourself for this course.",
+      "comment_teaching": "No teaching<br />You need to learn new stuff yourself.<br /><br />You can have meetings with professor to seek suggestions on project management and presentation slides.",
+      "comment_grading": "50% System Development (if work on company project, this part will be graded by Company)<br />50% Project Management Skills (Presentation + Report)<br /><br />Grade: A+",
+      "comment_workload": "I work on a company project in this year. <br /><br />Deadlines<br />Oct: Project Timeline (Company)<br />Oct: Project Plan (HKUST)<br />Oct: Presentation 1 (Company)<br />Dec: Midterm Presentation (HKUST)<br />Jan: Presentation 2 + Prototype (Company)<br />Apr: Final Report &amp; Final Product (HKUST)<br />1st week of May: Presentation 3 + Final Product (Company)<br />1st week of May: Final Presentation (HKUST)<br /><br />The workload is very heavy. It is good to have more teammates (max. 4 people) to ensure you have sufficient teammates to divide jobs like coding, testing, presentation and report.<br /><br />Midterm and Final Presentations are tough. You should well prepare for it.<br />P.S. It is better to find your teammates before enrolment in this course.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "course": {
+    "id": 504,
+    "subject": "HUMA",
+    "code": "1020",
+    "name": "Chinese Writing and Culture",
+    "description": "This introductory course to the ancient Chinese writing system covers its origin, nature, classification and development. Students will learn a newly-developed framework, i.e., the three-principle theory of Chinese scripts, by which thousands of characters coming from archeological materials such as jiaguwen (oracle bone inscriptions), jinwen (bronze inscriptions) and jianbowenzi (bamboo and silk scripts) can be appropriately analyzed and classified. Other important components include general theories about language and script, and the historical and cultural aspects of Chinese characters.",
+    "categories": [
+      "Common Core (H)"
+    ],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2030,
+      1910,
+      1730,
+      1510
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "HUMA 099H",
+    "rating_content": 4.4,
+    "rating_teaching": 4.2,
+    "rating_grading": 4.6,
+    "rating_workload": 4.4,
+    "review_count": 5,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 323,
+        "name": "SUN, Jingtao",
+        "count": 5
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "Ngu10omaEEdzJP2WQKygKg1kqERN2p1C",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 323,
+          "name": "SUN, Jingtao",
+          "rating": 1
+        }
+      ],
+      "author": "hoiman",
+      "date": "Jun 11, 2021",
+      "title": "Very Nice Professor",
+      "comment_content": "Interesting content <br />- Nature of Chinese Script<br />- The classification of Chinese Characters<br />- Semantographs<br />- Loangraph<br />- Phonogram<br />- Classification of Cantonese characters and other types of semantographs, and creation of character<br />- Oracle Bone Inscription<br />- Chinese characters tell stories<br />- Chinese character tell stories<br />- Simplification of Chinese characters<br />- Phonetization and Romanization of Chinese characters",
+      "comment_teaching": "Professor SUN is a very nice professor,<br />講嘢少少慢，易明嘅，有時會用普通話講少少<br />好願意回答同學問題，同好welcome同學課後問問題<br />就係一個慈祥爺爺feel",
+      "comment_grading": "GOOD Grading <br />Assignment 5%<br />Midterm 30%<br />Final Exam 65%<br />High mean, large SD<br />will get B range easily, But need to work harder if you want a A range, coz mean quite high since his MT, final question not very difficult",
+      "comment_workload": "Light workload<br />only midterm, final exam and assignment (create graph symbol)<br />No attendance, but strongly recommend taking his lecture will have a better understanding of the topic.<br />It will be a bit confusing if only read on the lecture notes",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "baSrJC9jwidKGMYamYxDzGmJjpbOKXjM",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 323,
+          "name": "SUN, Jingtao",
+          "rating": 1
+        }
+      ],
+      "author": "comment1234",
+      "date": "May 31, 2018",
+      "title": "",
+      "comment_content": "文字的發展<br />漢字的性質、形成、發展<br />漢字基本類型的劃分<br />三書說<br />甲骨文<br />金文<br />漢字故事",
+      "comment_teaching": "雖然係英文course 但prof其實成日夾雜好多中文 (真心好難想像唔識中文可以讀得掂呢個course 不如索性中文教算 唔洗prof咁辛苦)<br /><br />prof教得其實悶悶地 講嘢又細聲 同埋成日轉channel (e.g.中轉英 英轉中) 搞到好亂 好難專心到<br /><br />但佢好好人 成日提我地交assignment exam前講得好清楚會考咩 有時見上堂冇咩人理佢 覺得佢好慘",
+      "comment_grading": "Participation 5%<br />Assignment 10%<br />Midterm 30%<br />Final exam 55%<br /><br />Participation my score: full marks<br /><br />Assignment有兩個 1份individual 1份group 根據syllabus應該仲有個quiz 但從來冇做個 唔知個2%去咗邊<br />冇出statistic my score: 1份4.5/6 1份6/6<br /><br />Midterm mean 82.7/111 sd 15.1 my score: 95.5<br />Final冇出分 最後A",
+      "comment_workload": "Participation其實即係attendance 每日上堂簽到 (成日見D人簽完到就即走 真心覺得佢地好唔尊重)<br /><br />個兩份assignment都勁hea 1份要你根據三書說造字 另1份要你搵廣東話用假借字既例子(即係食字) 搵20個 係group work<br /><br />Exams題形都幾多 有mc有short questions 仲要你根據三書說分類漢字 辨認古文字 同埋自己造字 (可以用中文或者英文作答)<br />最難應該係辨認古文字 但prof只會出係ppt出現過既字 建議大家整理1份notes 集合咁多個字 再慢慢背會比較好",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "RbTVFEoVrWEqCVs27ZANZwpRO9XZIeSS",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 323,
+          "name": "SUN, Jingtao",
+          "rating": 1
+        }
+      ],
+      "author": "chimz",
+      "date": "Mar 28, 2018",
+      "title": "老師，我們長大了。",
+      "comment_content": "跟裘錫圭 《文字學概要》教<br />文字起源<br />三書vs六書說<br />表意 形聲 假借字",
+      "comment_teaching": "老師好似湊仔咁，reading驚死大家唔睇，scan晒3個中文(繁簡)同英文版上canvas, assignment 1 仲印埋俾同學，驚死佢地唔交。<br />考試前，老師又印埋sample question俾同學，驚死好似唔識考，但實情midterm嘅範圍只係得4課書。<br />老師，我會prefer叫你做爺爺，但我地已經大個啦，唔需要對我地太好。",
+      "comment_grading": "midterm exam, full mark:111<br />mean: 82.7, s.d. 15.1 , (我地全班100人，啱啱15個人above 1 sd, 又啱啱15個人below 1 sd，最高嗰個係+1.37sd)<br /><br />final考試滿分270，有得揀題目做<br />最高261，平均211，標準差44.85 (最高都係+1.11sd,啲人集中，無midterm競爭咁大)",
+      "comment_workload": "我覺得assignment部分分數拆得太細，好折磨人。<br />4% Assignment 1 (造字)<br />4% 小組功課<br />2% pop up quiz (無出現過，唔知佢點分配過)<br />5% 出勤 (由第三次缺席開始，一次扣0.5%)<br />30% midterm exam<br />55% final exam<br />考試無essay題",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "VubZgjeWsyIhyZZHW7Q1UqsKo8YK6ZwZ",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 323,
+          "name": "SUN, Jingtao",
+          "rating": 1
+        }
+      ],
+      "author": "Hermione",
+      "date": "Feb 14, 2016",
+      "title": "Good course",
+      "comment_content": "只要對HUMA不反感的話會覺得內容很有趣，主要講古代漢字的形成過程，還會提及一些與漢字有關的故事和傳說。",
+      "comment_teaching": "老師非常敬業，下課之後會有很多人去找他問問題。不過上課節奏有些慢。",
+      "comment_grading": "只要上課認真聽，考前花一天時間複習，應該都有好grade。",
+      "comment_workload": "workload較小，沒有presentation沒有essay，只有midterm和final還有兩個assignment。Assignment比較容易做。總之這門課不需要太多時間。",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "BeSgddu67NBBjNIucAB1KStt74xaP2TW",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 323,
+          "name": "SUN, Jingtao",
+          "rating": 1
+        }
+      ],
+      "author": "Holo",
+      "date": "Jan 28, 2016",
+      "title": "",
+      "comment_content": "課程圍繞中國文字以及少少外國文字，<br />不過要記嘅古文字都幾多，<br />無興趣就咁去讀會有啲辛苦。<br />同埋lecture notes有時都只係抄返佢嘅reading，<br />有少少混亂，不過都可以接受啦。",
+      "comment_teaching": "prof.係個中年mainland男人，<br />講野有啲細聲，催眠功力一般啦，<br />有心上堂可以坐前啲，<br />專心上堂，到考個陣會輕鬆啲。",
+      "comment_grading": "不過不失啦，幾好嘅，<br />final無出成績，midterm高一個，<br />assignment同個個hea project都mean，<br />最後都A到。",
+      "comment_workload": "輕鬆嘅，<br />homework同project都好簡單，<br />project只係4人合作搵啲假借字，<br />做啲分析就完，簡單唔難。<br />係midterm同final前要背多啲古字同文字分類。<br />reading睇下明多啲midterm final會易好多。<br />不過唔睇都唔差得多。",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

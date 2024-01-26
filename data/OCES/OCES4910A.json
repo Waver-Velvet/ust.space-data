@@ -1,0 +1,34 @@
+{
+  "course": {
+    "id": 3863,
+    "subject": "OCES",
+    "code": "4910A",
+    "name": "Independent Study",
+    "description": "Independent studies or projects under the directed guidance of a faculty member. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. Students may repeat the course up to two times if different topics are taken. Graded P or F.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2320,
+      2240,
+      2230,
+      2220
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

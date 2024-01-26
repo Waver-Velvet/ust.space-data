@@ -1,0 +1,188 @@
+{
+  "course": {
+    "id": 2708,
+    "subject": "IEDA",
+    "code": "3330",
+    "name": "Introduction to Financial Engineering",
+    "description": "For DA students. This course is intended to provide an introduction to important aspects of financial engineering. Specifically, this course will primarily cover fundamentals of the financial system, interest rate and term structure, various financial markets, financial derivatives, option pricing and hedging, risk management, and financial modeling.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"2160\" href=\"/review/CIVL2160\" target=\"_blank\">CIVL 2160</a> OR <a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2600\" href=\"/review/ELEC2600\" target=\"_blank\">ELEC 2600</a> OR (<a class=\"course-link\" data-subject=\"IEDA\" data-code=\"2520\" href=\"/review/IEDA2520\" target=\"_blank\">IEDA 2520</a> AND <a class=\"course-link\" data-subject=\"IEDA\" data-code=\"2540\" href=\"/review/IEDA2540\" target=\"_blank\">IEDA 2540</a>) OR <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"2500\" href=\"/review/ISOM2500\" target=\"_blank\">ISOM 2500</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2411\" href=\"/review/MATH2411\" target=\"_blank\">MATH 2411</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2421\" href=\"/review/MATH2421\" target=\"_blank\">MATH 2421</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2431\" href=\"/review/MATH2431\" target=\"_blank\">MATH 2431</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"3203\" href=\"/review/FINA3203\" target=\"_blank\">FINA 3203</a>, <a class=\"course-link\" data-subject=\"FINA\" data-code=\"4303\" href=\"/review/FINA4303\" target=\"_blank\">FINA 4303</a>",
+    "rating_content": 4.5,
+    "rating_teaching": 4.75,
+    "rating_grading": 4.5,
+    "rating_workload": 4.75,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 351,
+        "name": "CAI, Ning",
+        "count": 2
+      },
+      {
+        "id": 1309,
+        "name": "JIANG, Wei",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "DXFwNhelSR53Dd09pwCmliZqw4SmKNRx",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1309,
+          "name": "JIANG, Wei",
+          "rating": 1
+        }
+      ],
+      "author": "Trainer",
+      "date": "Dec 12, 2023",
+      "title": "Good introduction towards Financial engineering",
+      "comment_content": "I am not a IEDA student and the content is not too challenging except the proof <br />-<br />The syllabus has changed previously. <br /><br />Course Schedule<br />The schedule is tentative and subject to change<br />Week 1: Introduction<br />Week 2: Financial Markets, institutions, and instruments<br />Week 3 to 4: *Fixed Income Securities: theory of interest, bond price and term structure<br />Week 5 to 6: **Mean-variance analysis<br />Week 7 to 8: Capital asset pricing model, factor model, and arbitrage pricing theory<br />--------------------- Midterm ------------------------------------<br />Week 9: Risk aversion, expected utility, and portfolio decisions<br />Week 10 to 11: Basic derivative theory and risk management<br />Week 12 to 13: Basic FinTech theory: AI in finance, robo-advising, cryptocurrencies and blockchain, green finance, etc.<br /><br /> <br /><br />References<br />Investment Science by Luenberger, D. G.<br />Options, Futures, and Other Derivatives by John Hull<br />Financial Markets and Institutions by Frederic S. Mishkin and Stanley G. Eakins",
+      "comment_teaching": "Extremely nice tbh<br /><br />He will introduce several quantitative knowledge but will not be posted in final exam. Just for reference!",
+      "comment_grading": "I got 78/100 midterm(Median: 77 High: 98 Upper Quartile: 84)<br />You should pay more attention to mean variance part as it is relatively challenging. (I just blank a 20 marks question) <br /><br />hw1:100/100<br />hw2:82/100<br />hw3:94/100<br />hw4:98/100<br /><br />As I heard IEDA ppl have source, so be frd with them. (But I don&#039;t get the source :( )<br /><br />Unknown final score but I pretty sure I am nearly full.<br /><br />Final Grade: A <br /><br />But Prof. claim 30% A range",
+      "comment_workload": "Very light workload<br /><br />You may have to find several partners to ace the hw as everyone are getting full marks (with source) <br /><br />Cheat sheet is allowed for examination and a little bit tricky tbh<br /><br />For Non-IEDA student: It is super easy course for getting a first touch in finance (similar to FINA 3103 and more good grade)",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "qVDcpiz49eVPoO5VyX08PkXGpP0rViJN",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1309,
+          "name": "JIANG, Wei",
+          "rating": 1
+        }
+      ],
+      "author": "wait whale",
+      "date": "Jan 11, 2023",
+      "title": "",
+      "comment_content": "Course Schedule<br />The schedule is tentative and subject to change<br />• Week 1: Introduction<br />• Week 2: Financial Markets, institutions, and instruments<br />• Week 3 to 4: Fixed Income Securities: theory of interest, bond price and term structure<br />• Week 5 to 6: Mean-variance analysis<br />• Week 7 to 8: Capital asset pricing model, factor model, and arbitrage pricing theory<br />• Week 9: Risk aversion, expected utility, and portfolio decisions<br />• Week 10 to 11: Basic derivative theory and risk management<br />• Week 12 to 13: Basic FinTech theory: AI in finance, robo-advising, cryptocurrencies and blockchain, green finance, etc.",
+      "comment_teaching": "very good teaching. Mr.Jiang taught many complex math skills. He will not only talk about the conclusion, but also teach a lot how to prove it and use the conclusion.",
+      "comment_grading": "Mr.Jiang said he will 30% A range<br />30%-40% B range <br />Excellent granding.<br />Tentative: Homework (30%), midterm exam (30%), final (40%).<br /><br />I got 97/100 midterm(Mean: 75.04 Median: 82 High: 99 Upper Quartile: 91.5)<br />hw1:100/100<br />hw2:96/100<br />hw3:100/100<br />hw4:100/100<br />hw5:94/100<br />I don&#039;t konw my final grade, and the final has 10 mark bonus. I guess my mark is nearly full.<br /><br />Got A+ finally",
+      "comment_workload": "there will be 5 homework. The questions are very close to the tutorial questions. If you want to get a good grade. go to every tutorial and finish the homework very seriously. I&#039;m sure the exam questions is more than 95% similar to the homework and tutorial questions.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "lPYYJs2w1WMqTuxMsu1MY7grajf5WoLb",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 351,
+          "name": "CAI, Ning",
+          "rating": 1
+        }
+      ],
+      "author": "jacko",
+      "date": "Sep 14, 2020",
+      "title": "",
+      "comment_content": "Basically an intro to derivatives, the content is all pulled from John C. Hull&#039;s book Options, Futures, and Other Derivatives. This course roughly follows the first 8 or so chapters of the book and then chapter 15 for the Black-Scholes-Merton model (some of the other chapters are probably referenced as well). This course mostly focuses on introducing the notion of derivatives and financial markets so there may be some math but it&#039;s mostly quite basic.",
+      "comment_teaching": "Prof Cai speaks quite clearly and he&#039;s very happy to answer any questions. Some people might find the teaching to be boring but I quite liked it. If you don&#039;t like attending lectures, you can just read the book and you&#039;ll be fine.",
+      "comment_grading": "Grading is good. Score above mean and you can probably get an A.",
+      "comment_workload": "Light workload, there were only 3 short homework assignments which consisted of easy questions pulled from the book. The midterm and final were quite similar. If you can do questions from the book and have some decent understanding of the content then it should be a cakewalk.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ewKhPn68XEi5a7iKtPL4OEyp3nkqS2B8",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 351,
+          "name": "CAI, Ning",
+          "rating": 1
+        }
+      ],
+      "author": "Aarya",
+      "date": "Feb 24, 2020",
+      "title": "",
+      "comment_content": "The content seemed very applicable to real life situations. Topics included:<br />1. Financial Derivatives<br />2. Futures Markets and Hedging<br />3. Forwards and Futures Pricing<br />4. Swaps<br />5. Binomial Model for Option Pricing<br />6. Interest Rates<br />7. BSM Model for Option Pricing<br />8. Financial Crisis of 2007-2009",
+      "comment_teaching": "He had notes that contain pretty much everything you need to do well in this course. He pretty much reads off his notes and explained the methods to answer the sample questions.",
+      "comment_grading": "It is a relatively easy course so everyone gets good grades. Try to do well in the homework segment because the mean is usually high. I missed one homework assignment and got 1 SD above mean in both exams; got a B+",
+      "comment_workload": "A few homeworks and two exams, easily manageable. Double-sided&nbsp;&nbsp;A4 size Cheat Sheet allowed in both exams.x",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

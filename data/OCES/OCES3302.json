@@ -1,0 +1,75 @@
+{
+  "course": {
+    "id": 3553,
+    "subject": "OCES",
+    "code": "3302",
+    "name": "Marine Pollution Tracking",
+    "description": "The marine environment is susceptible to a range wide of land-based pollution such as sewage, industrial effluent and terrestrial runoff. Very often the pollution source is either concealed or diffuse without an apparent point of discharge. The tracking of pollution source is essential to accurate assessment of the ecosystem and health consequences as well as effective mitigation and remedial actions. Pollution source tracking is a cross-disciplinary challenge, involving knowledge and skills in microbiology, molecular biology, chemistry, hydrodynamics, etc. This course serves to provide an in-depth understanding of the principle of pollution source tracking, the cutting-edge technology in the field and also case studies from Hong Kong and other parts of the world.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 235,
+        "name": "LAU, Stanley Chun Kwan",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "IDQcgHGTD8stAeD462ofFfMVd4m8lURV",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 235,
+          "name": "LAU, Stanley Chun Kwan",
+          "rating": 1
+        }
+      ],
+      "author": "Kaichu",
+      "date": "Jan 27, 2023",
+      "title": "Nice teaching nice grade",
+      "comment_content": "Course content: <br />1 - 2 Course Introduction <br />- Defining pollution <br />- Water pollution control in HK <br />3 - 4&nbsp;&nbsp;Sources of land-based pollution in the marine environment <br />- Point source vs. non-point source <br />- Anthropogenic vs. natural <br />5 - 7&nbsp;&nbsp;Routine / long-term pollution monitoring programs of beach <br />water quality conducted by government agencies in HK and <br />elsewhere in the world <br />- Purpose of the monitoring <br />- Strategy, methods, reference standards <br />- Deficiencies in the tracking of pollution source&nbsp;&nbsp;<br />8 - 9&nbsp;&nbsp;Overcoming biases and limitations in routine monitoring <br />program <br />- Issues associated with the loss of cultivability in <br />bacteria <br />- Genomic and proteomics approaches <br />- Whole microbial community approach&nbsp;&nbsp;<br />10 - 11&nbsp;&nbsp;Emerging biological tracers of pollution sources <br />- Pepper mild mottle virus <br />- Detection methods <br />- Quality control and assurance <br />- Interpretation of results <br />Limitations <br />12 - 13&nbsp;&nbsp;Tracking of SARS-CoV-2 in sewage <br />Case studies in North America, Europe and Hong Kong",
+      "comment_teaching": "Prof Stanley is nice and his teaching is always the best. He teaches slowly so everyone can catch up. And he makes well organised notes and ppt.",
+      "comment_grading": "Good grade, just get mean for every quiz but still get B+.",
+      "comment_workload": "Every week has one quiz and sometimes can be hard. Just study the principle of each chapter. Can open book during quiz time. And he will talk about the answers after the quiz. And no final and no mt, so workload is fine",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "course": {
+    "id": 154,
+    "subject": "CIVL",
+    "code": "3420",
+    "name": "Water and Wastewater Engineering",
+    "description": "Introduction to basic concepts of water quality, fundamentals of water and wastewater treatment processes, analysis of treatment process flowsheets, analysis of water quality management alternatives.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030,
+      1930,
+      1830,
+      1730,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"1140\" href=\"/review/CIVL1140\" target=\"_blank\">CIVL 1140</a> OR <a class=\"course-link\" data-subject=\"CIVL\" data-code=\"2410\" href=\"/review/CIVL2410\" target=\"_blank\">CIVL 2410</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 2.5,
+    "rating_grading": 3.25,
+    "rating_workload": 3,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 77,
+        "name": "CHEN, Guanghao",
+        "count": 2
+      },
+      {
+        "id": 945,
+        "name": "WU, Di",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "aXTWiV4m92LWeFKGbUWWZz5F2Hbxh7D4",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 77,
+          "name": "CHEN, Guanghao",
+          "rating": 0
+        }
+      ],
+      "author": "latersindesign",
+      "date": "Jun 14, 2022",
+      "title": "Water and Wastewater Engineering",
+      "comment_content": "This is an introduction to water and wastewater treatment processes.<br /><br />The contents include:<br /><br />Lecture 1 Sources for water supply and Typical water treatment processes<br /><br />Lecture 2 Municipal sewage characteristics and discharge regulations<br /><br />Lecture 3 Typical sewage treatment processes<br /><br />Lecture 4 Basic of water and wastewater engineering<br /><br />Lecture 5 Coagulation<br /><br />Lecture 6 Flocculation<br /><br />Lecture 7 Sedimentation theory<br /><br />Lecture 8 Sedimentation design<br /><br />Lecture 9 Disinfection<br /><br />Lecture 10 Terms and Basic Steps of Wastewater Treatment<br /><br />Lecture 11 Factors of Biological Wastewater Treatment<br /><br />Lecture 12 Suspended and Attached Growth Systems<br /><br />Lecture 13 Basic design considerations of activated sludge processes 1<br /><br />Lecture 14 Basic design considerations of activated sludge processes 2",
+      "comment_teaching": "CHEN, Guanghao<br /><br />CHAN, Richard C.<br /><br />Same as above",
+      "comment_grading": "Assignments = 5% x 4 = 20%<br />Lab Reports = 10% x 3 = 30%<br />Final Examination = 50%<br />Bonus Extra = 10%<br /><br />Assignments = 18.7% (Mean = 16.393%)<br />Lab = 26.9% (Mean = 27.022%)<br />Final Examination = 47.75% (Mean = Unknown)<br />Bonus Extra = Unknown (Mean = Unknown)<br />Overall = 93.35% + Unknown&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br /><br />Final grade = A- (14 people class)<br /><br />爛 grade course",
+      "comment_workload": "Assignment (20%):<br />Easy Assignment 5% x 4<br />Cleaner Concept <br />Notes are insufficient; a Google search is required.<br /><br />Lab (30%):<br />The lab has Pre-lab and Lab. <br />Pre-lab teaches you to use the equipment.<br />The lab does the experiment.<br />One week for Lab Report which has the format to follow. (15-20 pages) 10% x 3<br /><br />Presentation:<br />14 people were divided into 2 groups (Group A and Group B)<br />Each group has 45 mins for 1 lab session.<br /><br />Final (3 hrs.) (100 marks) (50%):<br />Part I Short Question (30 marks) <br />(a) Mandatory questions --- 3 marks x 5 Questions<br />(b) Optional questions (Choose 5 from the following 10 questions) --- 3 marks x 5 Questions<br /><br />Bonus Question (10 marks)<br /><br />Part II Long Questions (70 marks)<br />1. Total alkalinity (10 marks)<br />2. Flocculation (15 marks)<br />3. CT value (15 marks)<br />4. Design (30 marks)<br /><br />Overall: <br />The assignment and lab results were nearly the same for everyone. The final is particularly important. But the most important is bonus points (10%) which are given to students who actively participated in the lecture (i.e., attendance, asking and answering questions).",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "8ojNyIZNy0CfSw39QDchJL81Bl57WIMF",
+      "semester": "2020-21 Spring",
+      "instructors": [],
+      "author": "Gabic",
+      "date": "Jan 21, 2022",
+      "title": "Water and Wastewater Engineering",
+      "comment_content": "This is an introduction to water treatment processes, including concepts of water quality, conventional drinking water treatment processes, such as coagulation, flocculation, sedimentation, filtration and disinfection, conventional wastewater treatment processes ( basically biological systems) and a little bit of sludge disposal.",
+      "comment_teaching": "The teaching style is traditional. There are also lab sessions delivered by the TAs and laboratory technicians.",
+      "comment_grading": "Granding policy:<br />Assignments: 20%<br />Lab reports: 30%<br />Exam (open book): 50%",
+      "comment_workload": "There are at least 4 easy assignments, 3 lab reports and 1 presentation. The lab reports demand more time (8-10 pages). The presentation is about one of the lab sessions. <br />This is a course with a moderate workload.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "6hZasivNmAwGWqeAxSe09TPplOQEvx5X",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 945,
+          "name": "WU, Di",
+          "rating": 1
+        }
+      ],
+      "author": "shirayuki653",
+      "date": "Jun 18, 2020",
+      "title": "A engine core with little calculation",
+      "comment_content": "This is an introduction to water treatment processes.The contents include:<br /><br />1.Basic concepts of water quality, <br />2.Drinking water treatment(coagulation, flocculation, sedimentation,filtration and disinfection)<br />3. Wastewater treatment (biological process)<br />4. Sludge disposal<br /><br />The topics are very standard materials which covers the basics of water treatment processes.Compared to other civil courses, this course need more chemistry rather than maths. All the calculations are just plugging in numbers based on the equation derived. The hardest part is the mass balance using CFSTR model. There will be many equations coming out which may be confusing.Besides, this is not a broad base course like 2410 so this will be easier to follow up.<br /><br />This is a required course for CIEV students and there are also some CEEV students taking taking this course, but overall the number of students taking this course is less than 20.",
+      "comment_teaching": "This a lab-based course,but due to the pandemic the lab session is conducted in Zoom tutorial which makes things troublesome.Imagine how frustrating it is on watching the color change of the indicator using a 144p&nbsp;&nbsp;recording&nbsp;&nbsp;This is simply a must but also a non sense to google what is the lab doing after the session. Why I need to waste f**king 10 hours on watching this stuff?<br /><br />On top of that , the lab technician is the actual course coordinator ans he is in charge for the labs , assignments and also the final. He is also in charge for teaching nearly half of the course. To be honest, his teaching is a bit boring but at least he is responsive to the emails and his explanations are quite good.<br /><br />For professor Wu, I think his teaching is just fine.",
+      "comment_grading": "Assignment: 79.25 % ( 5% each, 4 in total) ,I don&#039;t know why I screw up 2 of them<br />Lab: 91.67% ( 10% each, 3 reports in total) There are also one simple presentation which to screen out who are the free riders.<br />Final: The TA refused to respond me on the mark of final, I guess maybe slightly above mean.Note that this year the exam is open-book.<br /><br />Turns out I got B+, the grade is quite lenient I guess. Perhaps this is because of the small class size.",
+      "comment_workload": "Quite low compared to other 3000-level CIVL courses ( but still substantial)<br /><br />The homework is just an exercise on how to plugging in numbers<br /><br />However,the all lab reports need 2-3 days to finish them, since students are asked to do the 8-10 page report IN PERSON.",
+      "rating_content": 5,
+      "rating_teaching": 2,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "rrn5gkYSevmp7mWOBQEee8b06yUbgHSW",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 77,
+          "name": "CHEN, Guanghao",
+          "rating": 1
+        },
+        {
+          "id": 945,
+          "name": "WU, Di",
+          "rating": 1
+        }
+      ],
+      "author": "siuka104",
+      "date": "Jun 01, 2018",
+      "title": "",
+      "comment_content": "簡單黎講就係CIVL2410入面講既Water Treatment Process(Coagulation, Flocculation, Sedimentation, Filtration, Disinfection)詳細地教一次. 當中包含唔少計數 同埋都幾重concept<br />計數都係普通sub數,不過前題就要concept好清<br /><br />Chapter 0.&nbsp;&nbsp;Course Introduction (wk 1)<br /><br />Chapter 1.&nbsp;&nbsp;Overview of Water and Wastewater (W/W) Treatments (Wk 1 –3)<br />1.1Sources for water supply and drinking water standards 1.2Typical water treatment processes and supply systems<br />1.3Municipal sewage characteristics and discharge regulations<br />1.4Typical sewage treatment processes<br />1.5Basic of water and wastewater engineering <br /><br />Chapter 2.&nbsp;&nbsp;Key Process/Unit Operation in Water Treatment Systems(Wk 4 –8)<br />2.1Coagulation and flocculation<br />2.2Sedimentation<br />2.3Filtration<br />2.4Disinfection<br /><br />Chapter 3.&nbsp;&nbsp;Key Process in Wastewater Treatment System(Wk 8–13)<br />3.1Basic concepts of the 2nd treatment<br />3.2Mass transfer and aeration<br />3.3Suspended growth processes<br />3.4Attached growth processes<br /><br />Chapter 4.&nbsp;&nbsp;Sludge treatmentand disposal (optional depending on time)",
+      "comment_teaching": "呢個course 最fun既係教書既Professor竟然唔係Course Coordinator,反而係個Lab Technician Richard負責出asm, lab 同final exam<br /><br />Professor就好似個subcon(外判商?)咁純教書only<br /><br />講起教書, 第1堂Richard就講明可以唔上堂自己睇Lecture Notes. 講Disinfection之前都係GH Chen 教, 佢係京都大學PhD, 可能學識太廣, 變左上堂個陣成日off topic, 再加埋我地呢年有個韓仔讀, 上堂個陣就會問佢某樣野韓文, 之後成堂就會變左Lang堂有齊廣東話國語韓文日文. 學到既野真係無乜<br /><br />之後到Wu Di, 1個新Professor, 好想教好多野, 思路來得太快就像龍捲風, 之後成個board就會比佢畫到好花, 完全抄同跟唔切... 不過佢derive Chap3 d eqn 都清楚既",
+      "comment_grading": "Assignments= 20%<br />Lab Reports= 30%<br />Final Examination= 50%<br />Bonus&nbsp;&nbsp;Extra 10 pts<br /><br />4個ASM+1個計Bonus既ASM<br />3份Lab Report+1個Group Present<br />Final Exam就今年第一次比2Page 手寫cheatsheet, 考完仲要收cheatsheet...寫左我8個鐘x3日...<br />Bonus 就會係Tutorial Attendance 佢會影相邊個上tutor cls...<br /><br />ASM 91.26%<br />Lab 92.67%<br />Final 無出分 <br />Overall B+<br /><br />A range 派左4個 要Final 82above",
+      "comment_workload": "ASM輕鬆簡單,清Concept一流 肯花少少時間睇Notes拎Full Mark真係唔難.<br /><br />Lab會有Pre-lab同正Lab, Pre-lab教你用下器材咁樣 正lab就做Experiment. 之後會有一星期比你做Lab Report. 佢有Format比你跟,check得好嚴. 全班分3組,1組1個lab1個45mins present, 輕鬆的.<br /><br />Final:<br />20條MC<br />Short Question 12條揀6條黎做<br />Long Question 3條 (講Design of Flocculation Tank, Chlorine Residual, Chapter3既Boss: Mass Balance)<br />Bonus Question (10%) 又係2揀1<br /><br />Remarks: 完全唔知佢會考Lab, 但係Final MC考左Lab1用左咩pH indicator, SQ考Lab3既COD BOD ThOD concept<br /><br />Overall: ASM Lab 個個都差唔多, Final 付出左幾多時間寫Cheatsheet 你既收獲就有幾多. Lecture Notes 一字不漏咁抄就OK",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

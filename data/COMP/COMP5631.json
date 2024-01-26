@@ -1,0 +1,115 @@
+{
+  "course": {
+    "id": 1636,
+    "subject": "COMP",
+    "code": "5631",
+    "name": "Cryptography and Security",
+    "description": "Classical encryption techniques, block and stream ciphers, public-key cryptography, authentication, nonrepudiation, key management, digital signatures, public key infrastructure, cryptographic protocol, secret sharing, electronic mail security, IP security, Web security, Firewalls, Intrusion detection.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "CSIT 5710",
+    "rating_content": 4,
+    "rating_teaching": 4.5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 129,
+        "name": "DING, Cunsheng",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "aN9kqhQ5YankV9gMMRpXXiBl5xLkGVTg",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 129,
+          "name": "DING, Cunsheng",
+          "rating": 1
+        }
+      ],
+      "author": "ptrknow",
+      "date": "Dec 23, 2020",
+      "title": "First half is interesting and insightful, second half is kind of dull",
+      "comment_content": "First half: Cryptography<br /><br />1. One key (symmetric) cipher<br />1.1 One-key block cipher<br />1.2 Design Idea<br />1.3 AES<br />1.4 Stream Cipher<br />1.5 Key Management<br /><br />2. Public key cipher<br />2.1 Introduction<br />2.2 RSA and ElGamal<br />2.3 PKI<br />2.4 Homomorphic Encryption<br /><br />3. Hashing<br />3.1 Keyed hash function<br />3.2 SHA<br /><br />4. Security Protocols<br />5. DSS<br />6. Secret Sharing<br /><br />Second half: Network Security<br /><br />7. Application layer<br />7.1 PGP<br />7.2 Kerberos<br /><br />8. Transport layer<br />8.1 SSL<br />8.2 SSH<br /><br />9. Network Layer<br />9.1 IPSec, AH, ESP<br />9.2 IKEv2<br /><br />10. Other<br />10.1 VPN<br />10.2 Firewall<br />10.3 Anonymity (Onion routing, etc.)<br /><br />I like the first half. The design of lecture notes is very clean and easy to follow. Some contents are insightful, especially the lecture about homomorphic encryption. To understand the content of this part, it suffices to know about the number theory part in COMP2711 (plus a little bit of quadratic residue and discrete indices) and some basic concepts in abstract algebra, such as the Galois field (which is kind of an abstraction of modular arithmetic).<br /><br />I don&#039;t quite like the second part, however. The lecture slides contain many subtle details about each protocol, but explanation is not so detailed, and sometimes even lacking. You need to hear the professor&#039;s words carefully in order to understand. The contents did not provide much insight, but just some plain details, unfortunately. If there is more focus on attacking these protocols, like COMP3632, then it might be better.",
+      "comment_teaching": "Although very detailed, the teaching pace is very slow, and the tone makes the lecture so boring. After attending 10 lectures, I cannot bear anymore and skip all other lectures.",
+      "comment_grading": "3 Assignments: 45%<br />Project: 20%<br />Final Exam: 35%<br /><br />The three assignments basically ask you some simple proofs (or attack) and some concepts which can be subtle or tricky. The proofs and attacks are similar to proofs in number theory, so if you are comfortable with number theory, then they are kind of trivial. However, you might need sources and Google to answer the conceptual questions. Assignment 3 did not have source and IMO is the trickiest one.<br /><br />Project basically asks you to compare public key cryptography with identity-based encryption. You don&#039;t really need to understand the technical details to write a good report, although it is interesting to dive deeper. Technical details might involve some number theory which is a liitle bit more advanced than those in the lecture (e.g. Jacobi and Legendre symbol), and also ellpitic curve cryptography.<br /><br />Final Exam consists of only 9 MCs in 4 hours, but they are quite tricky. Some MC actually requires you to do proof, but it is still all-or-nothing because if you got the proof wrong in the halfway, then you got the wrong choice anyway. Other conceptual/factual questions are tricky in the way that you have to read the statement and comprehend the concept very carefully. Even though there is sufficient time for you to think carefully and repeatedly, it is still difficult to get a correct choice.<br /><br />The grading scheme is really good. Basically everyone could obtain at least 90% in assignments and project, so the final mainly determines your grade. Even if you got only 1 answer correct, you could still get a B. Yes, B seems to be the lowest grade you can get other than F. Roughly speaking, the median grade is A-, and it can be obtained by answering 5 questions correctly. However, gettting A and A+ are difficult, and you need to answer at least 7-8 questions correctly in order to obtain it.",
+      "comment_workload": "3 Assignments<br />Don&#039;t know how to do? Google or find source<br /><br />1 Project<br />May need 1 to 2 days to finish<br /><br />1 Final<br />Not much to prepare. You can even prepare the exam during the exam time, if you want :)&nbsp;&nbsp;&nbsp;I actually only watch the relevant part of lecture video not until the 4-hour exam.<br /><br />Btw. Professor always emphasizes that this course is tough and many maths are involved. Don&#039;t be scared by this statement. Even an undergraduate student like me can handle this course quite handily.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "a6WvxOg6vmPmYfMNblSbctUje4YKo2wT",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 129,
+          "name": "DING, Cunsheng",
+          "rating": 1
+        }
+      ],
+      "author": "ABCDEFD",
+      "date": "Aug 27, 2020",
+      "title": "Good enough",
+      "comment_content": "This is an application course rather than theoretical course.<br />Basic idea of Cryptography, including<br />RSA<br />Block&amp;Stream Cipher<br />DH, DSS, threshold sharing<br />SHA-1 <br />IPSec, SSH, and others<br /><br />In all, Cryptography is more like an art instead of a science.",
+      "comment_teaching": "Professor is nice and professional. strong recommended！！",
+      "comment_grading": "the grading is okay since it is a Postgraduate Courses. You may give a high score without so much effort.",
+      "comment_workload": "Workload is okay. But you are required to read paper regarding IBE and the document for SSL. But it is not very hard.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

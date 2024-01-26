@@ -1,0 +1,32 @@
+{
+  "course": {
+    "id": 3347,
+    "subject": "RMBI",
+    "code": "3010",
+    "name": "Data Analytics with R",
+    "description": "This course provides a hands-on introduction to R as a programming language and environment for data analytics and visualization. It will cover the basic syntax including functions and flow control, some commonly used data structures such as vectors, lists, matrices and data frames, as well as data importing and visualization in R. The course will also introduce a few primary data cleaning techniques in dealing with missing values, duplicates and inconsistency, and means to implement simple data transformation and normalization with R. Classic data mining models and the corresponding packages in R will also be presented, with the focus on model fine tuning and parameter calibration for practical applications. For RMBI students only.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2210,
+      2010
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"RMBI\" data-code=\"3110\" href=\"/review/RMBI3110\" target=\"_blank\">RMBI 3110</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"RMBI\" data-code=\"4000E\" href=\"/review/RMBI4000E\" target=\"_blank\">RMBI 4000E</a>, <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3390\" href=\"/review/ISOM3390\" target=\"_blank\">ISOM 3390</a>",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

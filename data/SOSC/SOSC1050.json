@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 3851,
+    "subject": "SOSC",
+    "code": "1050",
+    "name": "Introduction to Social Science Research",
+    "description": "This course is designed to assist students in developing a basic understanding of qualitative and quantitative data analysis and interpretation in the social sciences. Background knowledge of statistics is not required for taking this course. This course offers a broad overview of principles in research design and introduces some fundamental research methods. The course covers the logic of research  question, framing of research story, and selection of research techniques such as  survey, experimentation, and quantitative analysis. The course serves as an  introduction to research, helping translate general research interests into a well-defined research question, design a study to investigate it and interpret the results  to give research/political inferences. Enrolment is restricted to students admitted to BSc in Quantitative Social Analysis from 2022-23 and onwards.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1627,
+        "name": "HENDRY, David James",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "ZZzKRDZk5dCGQ6AGjZlYL2SSXAAey0bf",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1627,
+          "name": "HENDRY, David James",
+          "rating": 1
+        }
+      ],
+      "author": "CLARA-SSS",
+      "date": "Feb 10, 2023",
+      "title": "friendly course",
+      "comment_content": "basic ideas and approaches to social science research and all related business research and so.<br /><br />Overview provided by professor:<br /><br />This course presents a broad introduction to standard practice in social analysis by introducing a<br />series of concepts that will serve as the basis for greater understanding in later courses. The course<br />also showcases how such techniques are applied in modern social analysis. Throughout the lecture<br />material, important classic and modern examples of published research will be used to illustrate<br />applications of the topics. Where appropriate, differences in norms and practices between the<br />major social science disciplines will be highlighted and discussed. Strengths and limitations of<br />quantitative approaches to social analysis will be highlighted throughout the course. Students will<br />demonstrate their facility with the concepts introduced in the course through class participation<br />and original writing assignments.",
+      "comment_teaching": "a bit boring but he explained concepts in detail and elaborate them well with intriguing real life examples<br />Prof Hendry welcome all kinds of questions and he is patient to answer them, his reviews are useful for your writing ,especially the way to address develop on the topic you want to talk about.",
+      "comment_grading": "15% Development of a Research Question <br />20% Annotated Bibliography <br />10% Critical Questions for Research Spotlights <br />10% Attendance (you can get 3 free absence thanks to David)<br />10% Class Participation<br /><br /><br /><br />he is mercy on grading comparing to other profs in hkust , even with a relatively mediocre score ,you can still get a B/B- or so.",
+      "comment_workload": "1 introduction to your topic<br />1 annotated bibliography (1000 words)<br />1 research design (4000 words)<br />several questions you have to make about readings assigned to you<br />no exams thanks to god<br />the workload is quite low and friendly to freshmen<br />if you have not systematically learned about the structure and ways to start with a standard academic research, this course will provide you with adequate learning opportunities to practice on it.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

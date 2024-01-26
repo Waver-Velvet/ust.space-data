@@ -1,0 +1,76 @@
+{
+  "course": {
+    "id": 916,
+    "subject": "MATH",
+    "code": "4336",
+    "name": "Introduction to Mathematics of Image Processing",
+    "description": "This course introduces digital image processing principles and concepts, tools, and techniques with emphasis on their mathematical foundations. Key topics include image representation, image geometry, image transforms, image enhancement, restoration and segmentation, descriptors, and morphology. The course also discusses the implementation of these algorithms using image processing software.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2030,
+      1830,
+      1530
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2011\" href=\"/review/MATH2011\" target=\"_blank\">MATH 2011</a>/<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2023\" href=\"/review/MATH2023\" target=\"_blank\">MATH 2023</a> and [<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2350\" href=\"/review/MATH2350\" target=\"_blank\">MATH 2350</a> or (<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2111\" href=\"/review/MATH2111\" target=\"_blank\">MATH 2111</a>/<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2121\" href=\"/review/MATH2121\" target=\"_blank\">MATH 2121</a>/<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2131\" href=\"/review/MATH2131\" target=\"_blank\">MATH 2131</a> and <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2351\" href=\"/review/MATH2351\" target=\"_blank\">MATH 2351</a>/<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2352\" href=\"/review/MATH2352\" target=\"_blank\">MATH 2352</a>)]",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"4421\" href=\"/review/COMP4421\" target=\"_blank\">COMP 4421</a>, <a class=\"course-link\" data-subject=\"ELEC\" data-code=\"4130\" href=\"/review/ELEC4130\" target=\"_blank\">ELEC 4130</a>",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 535,
+        "name": "LEUNG, Shing Yu",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "60iD2hNr7bZC40hBlIXiO3m8CLRSP5Ya",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 535,
+          "name": "LEUNG, Shing Yu",
+          "rating": 1
+        }
+      ],
+      "author": "Dinu",
+      "date": "Dec 27, 2023",
+      "title": "Need to have a strong knowledge about Applied Mathematics",
+      "comment_content": "Part 1:Image as a Matrix<br />-Image Interpolation and Image Inpainting<br />- Image Intensity Transformation<br />- Local filters<br />- Singular Value Decomposition<br /><br />Part 2:Frequency reprsentation of Image<br />- Fourier Transform<br />-Convolution<br />-Frequency domain filter for image denoising<br />-Frequency domain filter for image sharpening<br />- Frequency domain filter for image deblurring<br /><br />Part 3:Function representation<br />-Euler Lagrange equation<br />Constrained problems<br />-Image denoising",
+      "comment_teaching": "There was less than 10 students registered for this course so the professor didnt upload any recordings but he would upload the slides at the end of every lecture.<br />Prof Tim might cover content bit fast and might omit some basic details.However he is willing to answer all your questions at the end of lecture or via email.<br />The TA,Chad will discuss some homework questions in every tutorial session.He is also willing to help the students",
+      "comment_grading": "Scheme A:30% HW+30% Midterm+ 40% Final<br />Scheme B:30% HW+0% Midterm +70% Final<br />Maximum of two schemes will be chosen",
+      "comment_workload": "6 biweekly homework,<br />Since the TA is providing some hints for the homework it is not very difficult.<br />However if your aiming for a high score,I suggest to revise the Linear Algebra and multivariable course materials.<br />It is important you have understood the concepts well since all the questions in the exam will be new questions",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

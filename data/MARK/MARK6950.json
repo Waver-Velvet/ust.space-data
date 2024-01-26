@@ -1,0 +1,33 @@
+{
+  "course": {
+    "id": 3695,
+    "subject": "MARK",
+    "code": "6950",
+    "name": "Marketing Action Learning Project",
+    "description": "A team project that focuses on analyzing and solving a real-world marketing challenge within an organization (e.g., company, NGO). Students will develop marketing consulting experience, collaborate to produce a marketing report, and present their in-depth insights and recommended solutions to the sponsor.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2330,
+      2230,
+      2130
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

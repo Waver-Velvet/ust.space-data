@@ -1,0 +1,147 @@
+{
+  "course": {
+    "id": 2979,
+    "subject": "IEDA",
+    "code": "3460",
+    "name": "Demand and Supply Analytics",
+    "description": "This course will introduce students to an array of tools to efficiently manage supply and demand networks. Topics include service and inventory trade offs, stock allocation, pricing, markdown management and contracts, timely product distribution to market while avoiding excess inventory, allocating adequate resources to the most profitable products and selling the right product to the right customer at the right price and at the right time.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2210,
+      2110,
+      2010,
+      1910
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"IEDA\" data-code=\"2540\" href=\"/review/IEDA2540\" target=\"_blank\">IEDA 2540</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.33,
+    "rating_teaching": 3.67,
+    "rating_grading": 5,
+    "rating_workload": 4.67,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1219,
+        "name": "WU, Chenguang",
+        "count": 3
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "WcxrI2SPdxDc8mheoZQcjcHKwfIob0IV",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1219,
+          "name": "WU, Chenguang",
+          "rating": 1
+        }
+      ],
+      "author": "Noknok",
+      "date": "Jan 03, 2023",
+      "title": "Not bad",
+      "comment_content": "1. Supply Chain Design, Planning &amp; Operation (Week 1)<br />2. Facility Location (Week 2)<br />3. Supply Chain Planning (Week 3)<br />4. Inventory (Weeks 4, 5 and 6)<br />5. Transportation (Week 7)<br />6. Supply Chain Risks (Week 8)<br />7. Supply Chain Coordination (Week 9)<br />8. Sourcing (Week 10)<br />9. E-commerce (Week 11)",
+      "comment_teaching": "Fine teaching. Concepts are delivered quite well (at least I can understand most of them). The prof tends to elaborate the concepts in more mathematical ways, so concepts related to statistics are quite essential to understand what he is talking about.<br /><br />The prof writes a lot during class, which is important and will appear in exams. So, better attend the classes. Also the tutorial, I found that super useful and help to understand everything better, and in a more practical way. Some sample questions and tips for the homework will be covered in tutorials.&nbsp;&nbsp;<br /><br />Allen Wu is friendly and willing to solve any question you have.",
+      "comment_grading": "15% Homework<br />35% Presentation<br />50% Final<br /><br />Homework full mark<br />Presentation almost full mark<br />Final exactly at Mean<br />--&gt; B+<br /><br />Not bad in UST. But the prof and TA mentioned the final exam marks are based on relative performance in class. And the project has a large room for flexibility.",
+      "comment_workload": "Appropriate.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "tTrCD2SULJIwodiEMmYSKuFhi3dVyeuA",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1219,
+          "name": "WU, Chenguang",
+          "rating": 1
+        }
+      ],
+      "author": "Wittgenstein",
+      "date": "Jan 02, 2023",
+      "title": "",
+      "comment_content": "1. Supply Chain Design, Planning &amp; Operation (Week 1)<br />2. Facility Location (Week 2)<br />3. Supply Chain Planning (Week 3)<br />4. Inventory (Weeks 4, 5 and 6)<br />5. Transportation (Week 7)<br />6. Supply Chain Risks (Week 8)<br />7. Supply Chain Coordination (Week 9)<br />8. Sourcing (Week 10)<br />9. E-commerce (Week 11) -cancelled",
+      "comment_teaching": "一時跟ppt講一時又自己寫notes, 跳嚟跳去,<br />就算你好認真咁聽都係唔知佢講緊乜.<br /><br />notes入面啲數佢係無講過條式係點,更加唔會逐步逐步教你點計,好多時都係要自學,自己推理返出嚟,好晒時間 =_=<br /><br />真心上tutorial好過上lecture",
+      "comment_grading": "15%: Homework<br />35%: Presentation<br />50%: Final<br /><br />homework好多都係由之前唧mid-term同final搵出嚟,有source就得<br /><br />presentation無乜direction,好大自由度. <br />都幾輕鬆,個個都好高分<br /><br />final就真係大癲...<br />我做唧時候我都唔知自己寫咗啲乜,啲題目又難(利申:溫晒書去考),預咗拎d 但係最尾個grade又幾靚<br /><br />總結:lecture唔知做緊咩,但係有心去學唧都會靚grade",
+      "comment_workload": "6 homeworks, 1 group project, 1 final exam",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "RLeVRyAa9sABZKGJSET4jKJWjVmx1Xs9",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1219,
+          "name": "WU, Chenguang",
+          "rating": 1
+        }
+      ],
+      "author": "Mason Mount",
+      "date": "Jan 01, 2023",
+      "title": "",
+      "comment_content": "1. Supply Chain Design, Planning &amp; Operation (Week 1)<br />2. Facility Location (Week 2)<br />3. Supply Chain Planning (Week 3)<br />4. Inventory (Weeks 4, 5 and 6)<br />5. Transportation (Week 7)<br />6. Supply Chain Risks (Week 8)<br />7. Supply Chain Coordination (Week 9)<br />8. Sourcing (Week 10)<br />9. E-commerce (Week 11) -- Cancelled due to not enough time",
+      "comment_teaching": "Young prof tried to make the class funnier even though not much response (some jokes are not that funny)<br /><br />The concepts are delivered clearly. Attending the class is recommended because prof will write a lot of notes in class. Those are useful and will be tested.",
+      "comment_grading": "15%: Homework, 35%: Presentations, 50%: Final<br /><br />Presentation is about comparison between two companies.<br />The difficulty of homeworks and final are similar.<br /><br />The final grade for this course is given based on relative performance, but prof seems willing to maximize the A range under the school policy (20%)",
+      "comment_workload": "6 homeworks, 1 group project, 1 final exam<br />You can&#039;t ask for more",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

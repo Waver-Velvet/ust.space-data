@@ -1,0 +1,108 @@
+{
+  "course": {
+    "id": 3893,
+    "subject": "CORE",
+    "code": "1110",
+    "name": "Physics and the Modern Society",
+    "description": "This course is for students with no physics background. Course content: Principle of scientific theories and methods, Aristotle's law, Newtonian mechanics. Thermal physics, heat engine, energy crisis and global warming. Nature of waves and the physics of hearing and vision. Electricity and magnetism, electromagnetic waves and telecommunication. Relativity, quantum physics, nuclear energy and semiconductor. Developments and outlook of contemporary physics.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230
+    ],
+    "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1401\" href=\"/review/CORE1401\" target=\"_blank\">CORE 1401</a> OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1402\" href=\"/review/CORE1402\" target=\"_blank\">CORE 1402</a> OR CORE 1403 OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1404\" href=\"/review/CORE1404\" target=\"_blank\">CORE 1404</a> OR LANG 1002 (prior to 2022-23)",
+    "corequisites": "",
+    "exclusions": "Level 3 or above in HKDSE 1/2x Physics or HKDSE 1x Physics; any PHYS courses at 1100-level or above",
+    "rating_content": 4.5,
+    "rating_teaching": 4.5,
+    "rating_grading": 4.5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 605,
+        "name": "LIN, Nian",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "MsjUmj6ZqfYoswnkjajh5VWxnrKHMlS2",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 605,
+          "name": "LIN, Nian",
+          "rating": 1
+        }
+      ],
+      "author": "Jess14_",
+      "date": "Aug 21, 2023",
+      "title": "",
+      "comment_content": "Quite easy to understand even you didn&#039;t study physics before. <br /><br />Topics covered in this course: Principle of scientific theories and methods, Aristotle&#039;s law, Newtonian mechanics, thermal physics, heat engine, energy crisis, global warming, nature of waves, the physics of hearing and vision, electricity and magnetism, electromagnetic waves, telecommunication, relativity, quantum physics, nuclear energy, semiconductor, developments and outlook of contemporary physics.",
+      "comment_teaching": "The explanations are clear and easy to understand.",
+      "comment_grading": "There are iPRS in EVERY lecture.<br />MC in Lectures 10%<br />Ø Multiple-choice questions via iPRS. Students may discuss with each other.<br /><br /><br />Tutorials 25%<br />Ø Individual mode(10%) : Answer multiple-choice questions given by TA. Students may discuss with each other.<br />Ø Group mode(3-5 people) : Each group set a MC question each time (10%). Other groups answer these question (5%).<br />Most of the tutorial questions are quite easy<br /><br />Video Presentations 25% <br />Students may opt individual mode or group mode (up to 3 people). Choose an article given by instructor. Present a 5-10 min video (upload online): summarizing the content of the article and commenting the article based on the knowledge learned in lectures (10%) Raise questions/comments to others’ videos. (10%) Answer questions (5%)<br /><br />Final Exam 40% ( Multiple-choice questions (close book))<br />no calculations",
+      "comment_workload": "Low workload. <br />There was no mid-term or assignment except the video presentation.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Q69GYwhCrjfMeEbPV8AVAd7v248ruVrg",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 605,
+          "name": "LIN, Nian",
+          "rating": 1
+        }
+      ],
+      "author": "Hollyfok",
+      "date": "Jul 07, 2023",
+      "title": "",
+      "comment_content": "Simple physic theories (a bit boring but professor might play 1 to 2 videos during lesson and do experiments)<br />No need to do calculations",
+      "comment_teaching": "There are different in-class experiments, very interesting. <br />The professor is willing to answer any questions (you can even ask for IPRS answers XDXD)<br />Have tutorial every week (MUST ATTEND cuz you have to answer around 10 IPRS questions to earn marks but one of the TA speaks really really soft if you don&#039;t sit in the first row, you can&#039;t even hear him)<br />There are two modes for the tutorials, one is held by TA (TA will prepare questions for you) and one is organized by students (Students have to create questions by themselves based on the knowledge learned in lessons)",
+      "comment_grading": "Can&#039;t check the final exam paper but I got an A overall<br />Each IPRS question is 2 marks and there will be 5 choices (0.4 mark for each)",
+      "comment_workload": "In-class IPRS (about 3-4 questions per lesson)<br />No assignment at all but need to hand in a 5-to-10-minute video before the final exam (can do it individually or in a group of max. 3 people) <br />After handing in the video, students have to raise questions under others&#039; videos and answer to the questions (deadline is the date of the final exam)",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

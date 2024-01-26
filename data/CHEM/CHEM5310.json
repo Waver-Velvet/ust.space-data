@@ -1,0 +1,112 @@
+{
+  "course": {
+    "id": 2243,
+    "subject": "CHEM",
+    "code": "5310",
+    "name": "Advanced Inorganic Chemistry I",
+    "description": "Symmetry, group theory; molecular orbitals, electronic states; ligand field theory; electronic structure of metal complexes; theory of bonding and structure of inorganic compounds; chemistry of the elements; major physical methods used in the determination of molecular structure and bonding.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      1910,
+      1710
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 45,
+        "name": "LIN, Zhenyang",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "rNeOxjAJpJWinsiz5F9FjYMh4WXc5A4A",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 45,
+          "name": "LIN, Zhenyang",
+          "rating": 1
+        }
+      ],
+      "author": "Gordon28",
+      "date": "Dec 18, 2021",
+      "title": "Underrated Professor",
+      "comment_content": "Chapter 1: Introduction<br />Chapter 2: Symmetry<br />Chapter 3: Transition Metal<br />Chapter 4: Isolobal Relationship<br />Chapter 5: Ligand Field Theory<br />Chapter 6: Metal Cluster<br /> 60 mins lecture + 20 mins literature analysis",
+      "comment_teaching": "Best Professor Ever. <br /><br />Unlike traditional professors who just explain course materials and use those materials for exam, Prof. Lin tries to explain the structure and bonding of inorganic compounds by walking all of us through his thought process. His literature analysis is extremely inspiring that you will gain a whole new perspective on bonding. He also loves molecular orbitals, and tries to use orbital diagrams to explain a lot of things, which is also inspiring.<br />He is also very considerate. Although he loves orbital diagram, he doesn&#039;t put many MO related questions in exam because he understands that students do not like MO. He also go through all the questions of last year&#039;s final exam in the last lecture, and allows you to take pictures of the question paper (but would not upload the question paper on Canvas).<br />The only one drawback is that sometimes he skips some explanation which he finds easy, but I find it difficult. But his overall presentation and logic flow are very clear.",
+      "comment_grading": "20% presentation<br />80% exam (2 h)<br />Extremely good. It is absolute grading. This semester 6 out of 20 people got A+, which means a 30% A+. The grading is very lenient. For long questions, you could get some marks as long as you have written something (kind of like credit for trying). However, the exam is quite hard this year, maybe that&#039;s why the grading is lenient.",
+      "comment_workload": "Very light. No assignment. In the presentation assessment, almost all people get the same marks, unless you do really well.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "GLPrRiNBFxc1Jwl70TEuBmHvzu2f39RC",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 45,
+          "name": "LIN, Zhenyang",
+          "rating": 1
+        }
+      ],
+      "author": "Lucien11",
+      "date": "Dec 14, 2021",
+      "title": "",
+      "comment_content": "Chapter 1: Molecular structures, group theory, symmetry principles, and orbital interactions<br /><br />Chapter 2: Structure and bonding in main group compounds<br /><br />Chapter 3: Bonding in transition metal complexes<br /><br />Chapter 4: Fragment orbital approaches --- isolobal relationship<br /><br />Chapter 5: Ligand field theory<br /><br />Chapter 6: Structure and bonding models in clusters<br /><br />------------------------------------------------------------------<br /><br />基本上涵盖了inorganic的理论要点内容，可以巩固一下无机的理论（毕竟比如LFT的光谱这些学了不用估计马上就忘差不多了）<br /><br />Prof. Lin尤其强调orbital interaction和“see the electrons”。<br />时常会有种这门课叫“apply MO to everything”的感觉：）",
+      "comment_teaching": "先放结论：目前上过最好的课<br />（我甚至愿意给个A+）<br />总的来说这门课很符合我对“university level course”的预期<br /><br />--------------------------------------------------------------<br /><br />首先，Prof. Lin绝对不是那种照着PPT念的上课方式，而且也不会只想着把该讲的知识点讲清楚就完事。Lecture notes以图为主，而对图的解释大多需要上课的时候自己做笔记。这就需要能跟上Prof的进度，有什么问题一定要及时解决，否则一下子掉线再想重连可能比较困难。<br />Prof Lin上课节奏不快但也不算慢，有些地方的推导（他觉得）比较简单的就不会展开细讲。但Prof Lin讲的很清楚，这些省略不影响上课的逻辑性。我觉得这门课lecture的内容是很容易就能跟上和挺明白的，哪怕有一些不易懂的课下自己想想找点资料也是很方便的。<br /><br />其次，80min的lecture=60min讲知识点+20min分析文献。知识的讲法可以体现Prof Lin自己的逻辑（比如cluster那部分Prof Lin按自己的理解归类来讲很容易学明白）。<br />上课务必认真注意他说的话，可能不是直接在讲知识点但是会是一些他从课堂内容引申开去，谈及的一些他自己的认识和想法，这才是我认为上课最重要的东西——给学生体会揣摩Prof的思想和思路的机会。<br />（只为了学点知识何必上课呢）<br />分析文献部分更加直接让你看到Prof Lin是怎么思考问题的，他的final中间题目的形式和课上文献题会比较类似。<br /><br />最后谈些个人的看法（夹带私货，不喜勿喷）<br />这学期有机会同时上了Prof Lin的5310和Prof Leung的2210。<br />诚然，和许多同学所说的那样，Prof Leung认真负责是个好老师。但我个人认为不至于像许多课评吹的那么神。<br />他的好仅限于把课本上的东西讲讲清楚，和Prof Lin相比可能少了些“灵性”和启发性。<br />或许对2210来说可以把课本讲明白相比于启发思考更加重要，但如果把所有注意力仅仅聚焦于学会课本应付考试，是不是也是一种“格局不够打开”呢？<br />（后面可能有些虚无缥缈）<br />我所期待的“university level course”，是要能在讲知识之外，完善所谓“学科思维”。只听讲解课本根本无必要attend lectures。优秀的Prof对学生的意义在于把自己优秀的思维方式和独特的学科思想传递给学生，能不能把知识讲的通俗易懂反而还在其次吧。<br /><br />总而言之Prof Lin的5310我认为很值得一上。课评可能夹带了我个人的偏好，但这应该也符合这个社群存在的目的——让大家分享自己的体验和看法。",
+      "comment_grading": "（刚考完final，很有Prof Lin个人特色的一张卷子，并不好做）<br /><br />等出分了随缘更新Grade<br /><br />BUT WHO CARES THE GRADE ？<br /><br />这么好的课还不冲？<br /><br />--------------------------------------------------------------<br /><br />（2021.12.15 Updated）<br /><br />考完两天就出Grade：）<br /><br />Final Grade：A+ （Grade超好）",
+      "comment_workload": "无assignment和midterm exam。<br /><br />Workload可能就是课前把lecture notes过一遍，完全不明白的先预习一下。课后再自己跟着走一遍Prof的思路，把一些“脑血栓”消化清理掉。确保跟上教学进度就OK。<br /><br />最后有个Presentation（用本学期学到的知识任选一个topic谈谈自己的理解），选题自由度比较高，联系课堂的内容比较要紧。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 5,
+      "vote_count": 10,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

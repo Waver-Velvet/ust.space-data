@@ -1,0 +1,1184 @@
+{
+  "course": {
+    "id": 799,
+    "subject": "LIFS",
+    "code": "3140",
+    "name": "General Genetics",
+    "description": "Principles and mechanisms of heredity and variation; genetic analysis in pro-and eukaryotic organisms.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"LIFS\" data-code=\"2040\" href=\"/review/LIFS2040\" target=\"_blank\">LIFS 2040</a> OR <a class=\"course-link\" data-subject=\"LIFS\" data-code=\"2210\" href=\"/review/LIFS2210\" target=\"_blank\">LIFS 2210</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3.65,
+    "rating_teaching": 3.46,
+    "rating_grading": 3.58,
+    "rating_workload": 3.35,
+    "review_count": 26,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 474,
+        "name": "HUNG, Siu Chun",
+        "count": 22
+      },
+      {
+        "id": 771,
+        "name": "LEUNG, Danny Chi Yeu",
+        "count": 21
+      },
+      {
+        "id": 484,
+        "name": "CHOW, King Lau",
+        "count": 14
+      },
+      {
+        "id": 485,
+        "name": "XUE, Hong",
+        "count": 11
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "0f8aKYdVrYkn4Cz62ZUA6HLYJZ9pRs5O",
+      "semester": "2023-24 Fall",
+      "instructors": [],
+      "author": "0504wingho",
+      "date": "Jan 22, 2024",
+      "title": "",
+      "comment_content": "The first half semester is all about maths mix with some genetics . <br />• Basic Mendelian genetics<br />• Extension of Mendelian genetics<br />• Pedigree analysis<br />• Population genetics<br />• Quantitative genetics<br /><br />The second half is easier than the first half. But there is still 20% for final exam is about calculations which the first half did not test. The rest is memorization of the lecture content.<br /><br />• Gene mapping and identification<br />• Application of recombinant DNA<br />technology in forward &amp; reverse genetics<br />• Genomics<br />• Epigenetics/epigenomics",
+      "comment_teaching": "I am not a math guy so the first half is very boring for me<br />second half is a lot more interesting as less math involved<br />tutorials are very important<br />helps understand how to apply the equations and concepts to the actual questions <br />kinda regret skipping some of the tutorial",
+      "comment_grading": "50% MID-TERM<br />50% FINAL<br /><br />Mid-term is all calculation with blank sheets to answer.<br />Final is a mix of mc, short question and long question. <br />All exams are close book exam with past paper and exercises will be provided.",
+      "comment_workload": "low only midterm and final<br />but need to do a lot of past paper if you want to get a good grade",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "AbPRWakbejsulykSfJAhoaaiDa5W2sR8",
+      "semester": "2022-23 Fall",
+      "instructors": [],
+      "author": "chchowaa",
+      "date": "May 01, 2023",
+      "title": "Very difficult course! Need serious mental preparation!",
+      "comment_content": "The first half semester is all about PROBABILITY or I&#039;ll say is all about maths mix with some genetics things. You really have to follow the tutorial and do exercises if you do not want to get lost.<br />• Basic Mendelian genetics<br />• Extension of Mendelian genetics<br />• Pedigree analysis<br />• Population genetics<br />• Quantitative genetics<br />• Gene mapping and identification<br /><br />The second half is easier than the first half. You just need to recite the lecture material to pass the exam. <br /><br />• Application of recombinant DNA<br />technology in forward &amp; reverse genetics<br />• Genomics<br />• Epigenetics/epigenomics",
+      "comment_teaching": "You DONNOT want to skip the TUTORIAL!! I skip all which make me feel lost.<br />The First half of the lecture can be attend as the concept is hard. But I think the instructor explanation is not good. Sometimes, he will invite student to explain the concept. I think the student is better than him. <br /><br />You can just skip the second half lecture but not the tutorial of the entire semester!",
+      "comment_grading": "50% MID-TERM<br />50% FINAL<br /><br />Both mid-term and final is not MC. IT IS ALL LONG QUESTION!! <br />Especially the mid-term is a maths exam literally. It is CLOSE BOOK exam. But luckily, past paper and exercises will be provided. You really need to do exercise!<br /><br />MY personal MID TERM: 17.5/ 50 (really difficult!! GET prepared!)<br />Don&#039;t actually know the mean.<br /><br />FINAL: 23.25/ 50 (Relatively easier but still difficult! )<br />Grade: C-",
+      "comment_workload": "There are only Two examination. You have NO homework on tutorial so the workload is low. (You can do exercise prepared by the instructor but it is optional)",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "gybIwRkBLbOXAKrP1yBHBMke0FK7Ra0f",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 1
+        },
+        {
+          "id": 771,
+          "name": "LEUNG, Danny Chi Yeu",
+          "rating": 1
+        }
+      ],
+      "author": "lalalim",
+      "date": "Jan 30, 2023",
+      "title": "Do exercise and put more time",
+      "comment_content": "the first half is mainly about calculation.<br />the second half is mainly concept.",
+      "comment_teaching": "HUNG didnt speak English well, but he was very kind and always rely my email patiently and in detail.&nbsp;&nbsp;<br />Danny speaks good English but sometimes speaks too fast.",
+      "comment_grading": "I don&#039;t think it is a good course. <br />I get 1SD above mean in the midterm (40%)<br />mean in Final (60%)<br />I didn&#039;t put enough time for the final&nbsp;&nbsp;<br />get B",
+      "comment_workload": "Only midterm and final exam. <br />But if you want to get a good grade, please do the exercise prof tells to do (esp for the first half). You will get a good grade. If you dont know how to do, just ask. prof will be always there and patient.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "LJpNehOs6A6cXYaxJllYWJrhQmMIoDqh",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 1
+        },
+        {
+          "id": 771,
+          "name": "LEUNG, Danny Chi Yeu",
+          "rating": 1
+        }
+      ],
+      "author": "TimothyGrass",
+      "date": "Jan 11, 2023",
+      "title": "Practice makes perfect",
+      "comment_content": "Hung&#039;s part is mainly calculation<br />Including:<br />1. Law of Segragation &amp; Pedigree Analysis<br />2. Sex Linkage<br />3. Law of Independent Assortment<br />4. Extensions of Mendelian Genetics<br />5. Quantitative Traits<br />6. Population Genetics<br />7. Genetic Linkage, Crossing Over &amp; Genetic Mapping<br />8. Genetic Mapping in Humans<br /><br />Danny&#039;s part is mainly experiment methods and tools, including:<br />1. Application of Recombinant DNA Technology &amp; Forward Genetics<br />2. Reverse Genetics<br />3. Genomics: Genetics from a Whole-Genome Perspective<br />4. Epigenetics, Practical Definition of Genes, and epigenomics",
+      "comment_teaching": "Hung&#039;s part is comparatively boring and tedious. He likes to repeat steps with a very detail way which some may think it overdetailed. But overall it is straight forward and clear. A lot of questions are provided for practices and examination questions are pretty much based on the format.<br /><br />Danny has a very intersting teaching but the contents are comparatively harder. Less questions are provided for practice.",
+      "comment_grading": "Both very straight forward rating system. <br />Hung&#039;s part has a examination is very similar to mathametics, all of them are long questions and some require explaination. <br />Danny&#039;s part includes MC and long questions. MC in appropriate difficulty and long questions are mainly laboratory situation and experiment based. Hard, but very interesting questions.",
+      "comment_workload": "No work load basically.<br />Questions behind each chapter are provided in Hung&#039;s part so we can do practice with it. Checking once a week in the tutorial.<br />Danny provides questions for each chapter. Also checking each week in the tutorial.<br />Both of them provides zoom tutorial. No attendence will be marked so you can skip if you want, although I suggest attending them via zoom, it helps a lot.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "uuN8KjKgVmvv7wNlf4dYOr0JDxgUBhGU",
+      "semester": "2022-23 Fall",
+      "instructors": [],
+      "author": "ohnoohyesohhh",
+      "date": "Jan 05, 2023",
+      "title": "",
+      "comment_content": "This is a biot major requirement so you cant get rid of this course if you are majoring in biot. It is extremely hard for students without a strong quant background. 4-cred course and is divided into two parts, one is delivered by Hung and another part is delivered by Danny.",
+      "comment_teaching": "It is so hard to catch up what hung says, somehow too boring. Danny is much more better as he has good accent which is easy to follow. Content was clearly distributed by Danny.",
+      "comment_grading": "Really quite hard for me to catch up and I am bad at quant related topics. Two papers: Hung&#039;s and Danny&#039;s coverage. There was no MC que for Hung&#039;s part which was quite torturing. Both MCs and Short-q were included in Danny&#039;s part.",
+      "comment_workload": "50-50 graded: 50% for MT and another 50% went to final. You have to study really hard for the exams and especially for students without strong quant background, IT IS GONNA BE A DISASTER. I spent almost 3 weeks on this course but then I still failed.",
+      "rating_content": 2,
+      "rating_teaching": 2,
+      "rating_grading": 1,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "7swDGmGdzgSlLC5vGWepkhlKBAbEQg2T",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 1
+        },
+        {
+          "id": 771,
+          "name": "LEUNG, Danny Chi Yeu",
+          "rating": 1
+        }
+      ],
+      "author": "randomhuman",
+      "date": "Jan 02, 2023",
+      "title": "Intimidating at first, interesting at last",
+      "comment_content": "The range of content covered is quite large to be honest and it looks (feels) intimidating at first. But as soon as you get used to it, it isn&#039;t as bad as it looks...? At least it&#039;s how I felt. <br /><br />Eugene&#039;s part<br />Law of segregation<br />Pedigree analysis<br />Sex-linked inheritance<br />Law of independent assortment<br />Extension of Mendelian genetics<br />Quantitative genetics<br />Population genetics<br />Genetic linkage<br />Gene mapping using large pedigrees, small pedigrees<br /><br />- Mid term - <br /><br />Gene mapping using population data<br />Gene mapping in model organisms<br /><br />Danny&#039;s part<br />Application of recombinant DNA technology and reverse genetics<br />Forward genetics and recombinant DNA technology <br />Genomics: genetics from a whole-genome perspective<br />Epigenetics and practical definition of genes<br />Epigenomics<br /><br />- Final -",
+      "comment_teaching": "Eugene speaks very slowly. He tries his best to explain concepts and answer questions. I&#039;d say try to understand what he says the first time he says it because after his first explanation it&#039;ll only get more complicated and messy. If you really don&#039;t understand the first time, try asking him after the lecture, he explains it better at that time. Try also your best to attend his tutorials, the questions he uses and methods he shows are very useful in the exams. <br /><br />Danny speaks wayyy too fluently. It&#039;s almost an enjoyment to attend his class. However, he&#039;s really good at what he teaches so he may go a bit too fast while explaining some critical concepts. Try asking him questions during the lecture because students often as the same questions and he would low key get annoyed by it. His tutorials are very useful as well because similar questions appear in the exam.",
+      "comment_grading": "Kinda harsh but not unrealistic. If you volunteered in Eugene&#039;s tutorials you will get extra points, so make sure you do so if you wanna have a better grade. <br /><br />No one scored higher than 90% in Danny&#039;s part this semester so you don&#039;t have to score as high to get in A range (I only got B+ though). The means for three parts (Eugene&#039;s mid term, Eugene&#039;s final and Danny&#039;s final) are 27.11/50, 6.63/10 and 22.22/40 respectively. <br /><br />A+: &gt;=86, A: 80-85.75, A-: 74-79.75<br />B+: 68-73.75, B: 62-67.75, B-: 56-61.75<br />C+: 50-55.75. C: 44-49.75, C-: 38-43.75<br />D: 26-37.75",
+      "comment_workload": "I wouldn&#039;t say the workload is bad because it&#039;s just a standard LIFS course: 50% mid term 50% final. And to be honest there isn&#039;t particularly much to memorise. As long as you do enough exercises (provided by Eugene), you will do well in his part. <br /><br />As for Danny&#039;s part, do memorise the way he wants you to formulate answers. I regret not spending enough time studying his questions before the finals and that&#039;s why I couldn&#039;t score better.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "NSOlDhpqTl07u7Yy72xB4VPffwNIVFq5",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 1
+        },
+        {
+          "id": 771,
+          "name": "LEUNG, Danny Chi Yeu",
+          "rating": 1
+        }
+      ],
+      "author": "ggg_",
+      "date": "Dec 30, 2022",
+      "title": "",
+      "comment_content": "A standard genetics course.<br />1. Law of segregation and pedigree analysis<br />2. Sex Linkage<br />3. Law of Independent Assortment<br />4. Extensions of Mendelian Genetics<br />5. Quantitative traits<br />6. Population genetics<br />7. Genetic linkage, crossing over and genetic mapping<br />8. Genetic mapping in humans<br />----------------midterm (Eugene HUNG)-----------<br />9. Recombinant DNA technology<br />10. Forward genetics<br />11. Reverse genetics<br />12. Genomics<br />13. Epigenetics<br />----------------final (Danny LEUNG)----------------<br /><br />It seems that the part covered by Eugene are barely useful in research nowadays. However, it is still required to give you a basic and good understanding of classic genetics. Some statistics and calculations are involved. The calculations are not difficult, but you need to understand the reason and principle behind that. Danny&#039;s parts are research hotspots and I think epigenetics is really interesting.",
+      "comment_teaching": "Eugene: <br />I can tell he is a kind teacher, but he talks reaaaally slowly and make me hard to concentrate and wanna sleep. There are no rises and falls in his tone and the words are interrupted by &quot;emm&quot; from time to time. His classes are not very efficient for me. But his slides are organized. He replies to discussions and emails patiently and in detail. However, if you ask him questions in person, sometimes he cannot answer you immediately. He make notes on the answers of tutorial exercises as some answers on the original textbook may be wrong. (Make sure you are using the annotated version)<br />Danny:<br />His English is good and sound like native speaker. He teaches passionately and you can tell he has expertise in this field. His tones and pace keep me awake much better than Eugene&#039;s. He stop from time to time to ask if we have any questions. He encourages students to raise their questions in class so that other students with similar doubts may listen as well, which is efficient. He don&#039;t give answers of tutorial questions and won&#039;t say it out if no one interact with him and propose their solutions, which is a bit awkward.",
+      "comment_grading": "I think the grading is fair. It seems to be neither absolute grading or curve grading but a combination. The professors will decide the cutoff for each subgrade based on the performance of the students.<br /><br />Midterm: 50% Final: 50%<br />Eugene&#039;s part: 60% Danny&#039;s part: 40%<br />(It is because Eugene taught too slow and part of the contents that should be tested in the midterm were moved to the final)<br /><br />Midterm:<br />Mean: 27.11&nbsp;&nbsp;Median: 26.88\tHigh: 49.5&nbsp;&nbsp;&nbsp;Low: 3<br />Upper Quartile: 35.13 Lower Quartile: 18.31<br /><br />Final:<br />EH&#039;s part: <br />Mean: 6.63&nbsp;&nbsp;Median: 8\tHigh: 10&nbsp;&nbsp;Low: 0<br />Upper Quartile: 9&nbsp;&nbsp;&nbsp;&nbsp;Lower Quartile: 4<br />Danny&#039;s part: <br />Mean: 22.22&nbsp;&nbsp;&nbsp;&nbsp;Median: 22.63&nbsp;&nbsp;&nbsp;High: 36&nbsp;&nbsp;Low: 5<br />Upper Quartile: 27.44\tLower Quartile: 17.5<br /><br />For this year, A+: &gt;=86, A: 80-85.75, A-: 74-79.75, B+: 68-73.75, B: 62-67.75, B-: 56-61.75, C+: 50-55.75, C: 44-49.75, C-:38-43.75, D: 26-37.75, F: &lt;26 <br /><br />Me: 47.5/50, 9.5/10, 32.75/40<br />Letter grade: A+ <br /><br />There are bonus for students that presented their solutions at tutorial sessions of Eugene&#039;s part. He will send the questions to be discussed in tutorial by email and students who want to present can register in a first-come-first-served manner and share and explain their solution during the tutorial. &quot;Students having contributed to discussions in tutorials or on Canvas are considered for subgrade promotion in the following way. In general, if a student has contributed once and his/her total exam score is lower than the minimum score for a subgrade by 3 or less marks, he/she will get that subgrade.&quot;",
+      "comment_workload": "The workload is ok for a 4 credit course. If you attend lectures and jot down notes, do the tutorial exercise and make sure you understand them, you are likely to get good grades in the exam. However, I did spend much time understanding Danny&#039;s part. It is more interesting than the previous parts and at the same time more difficult.(in my opinion)<br />The midterm exam is more comprehensive than the exercises provided (only 7 questions for 3 hrs), so you need to have a good understanding of the concepts and apply them under different settings. The final exam composed of around 30 MCs, 10 or so short questions and a few long questions. The questions really resembles the tutoral exercises provided by Danny, so make good use of them if you want to get good grades.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "89Rh4w6pqG9odPiLzWhBe1iDjQxwHlF5",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 1
+        },
+        {
+          "id": 771,
+          "name": "LEUNG, Danny Chi Yeu",
+          "rating": 1
+        }
+      ],
+      "author": "RIbtSU",
+      "date": "Dec 29, 2022",
+      "title": "Not that horrible as others said",
+      "comment_content": "- Course introduction, Monohybrid intercross (EH)<br />- Pedigree analysis (EH)<br />- Sex-linked inheritance (EH)<br />- Dihybrid intercross (EH)<br />- Genetic linkage (EH)<br />- Gene mapping (EH)<br />- Population genetics (EH)<br />- Population genetics (EH)<br />- Quantitative genetics (EH)<br />- Forward genetics and recombinant DNA technology (DL)<br />- Application of recombinant DNA technology and reverse genetics (DL)<br />- Genomics (DL)<br />- Epigenetics and practical definition of genes (DL)<br />- Epigenomics (DL)",
+      "comment_teaching": "Eugene Hung is a friendly instructor. You can feel that he tried his best to explain the content. He is willing to answer students&#039; questions. However, I think his pace is a bit slow and monotone so you may feel asleep. Sometimes there may be some unnecessary pausing but overall still ok. I think better skip his lecture and wait for the recording. Tune the speed to 1.25x/1.5x will be better to listen.<br /><br />Danny Leung is also a nice professor. He always engage the class to involve in his lecture and ask if anything students&#039; not understood. Most importantly, his English is very good that you feel comfortable listening to him.",
+      "comment_grading": "This year cut-off:<br />A+: &gt;=86, A: 80-85.75, A-: 74-79.75, B+: 68-73.75, B: 62-67.75, B-: 56-61.75, C+: 50-55.75, C: 44-49.75, C-:38-43.75, D: 26-37.75, F: &lt;26<br /><br />Midterm: 41.75/50<br />Final: Eugene&#039;s part: 8.5/10<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Danny&#039;s part: 36/40<br />Overall: 86.25<br />Grade: A+",
+      "comment_workload": "The workload actually not that much. For Eugene&#039;s part, better practice for his questions given in TB to get familiar with the calculation. It will become somehow mechanical after you practice it and you won&#039;t feel difficult. For Danny&#039;s part, I basically skipped all lectures and tutorials and mainly rely on recordings. I started watching his tutorial videos one week before the exam.<br /><br />Overall, though it is a 4-credit course, the workload is not that much, manageable.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Bu09Yt2h7LUbZEiB632Ia0fYRQExdpsU",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 771,
+          "name": "LEUNG, Danny Chi Yeu",
+          "rating": 1
+        },
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 0
+        }
+      ],
+      "author": "kol",
+      "date": "Oct 16, 2022",
+      "title": "",
+      "comment_content": "I suggest if you can, please take this course on exchange. It is a required course for BIOT, but optional for other LIFS majors. Everyone that I know that has taken this course had warned me against it, but I had to take it.<br /><br />You have to pay attention in class!!",
+      "comment_teaching": "Prof. Leung was very good, very helpful to the students and allowed for Q&amp;A sessions. Good at teaching.<br /><br />Prof. Hung was nothing like that. teaching style was very boring, and never seemed to have time for answering questions.",
+      "comment_grading": "I guess grading was okay, curve grading as always.",
+      "comment_workload": "Only a midterm and a final exam, so workload was very minimal.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "nknpTmnXJyVYWyMVIfw725WCIVNfV8mZ",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 1
+        },
+        {
+          "id": 771,
+          "name": "LEUNG, Danny Chi Yeu",
+          "rating": 1
+        }
+      ],
+      "author": "Chris K",
+      "date": "Jan 31, 2021",
+      "title": "",
+      "comment_content": "- Course introduction, Monohybrid intercross (EH)<br />- Pedigree analysis (EH)<br />- Sex-linked inheritance (EH)<br />- Dihybrid intercross (EH)<br />- Genetic linkage (EH)<br />- Gene mapping (EH)<br />- Population genetics (EH)<br />- Population genetics (EH)<br />- Quantitative genetics (EH)<br />- Forward genetics and recombinant DNA technology (DL)<br />- Application of recombinant DNA technology and reverse genetics (DL)<br />- Genomics (DL)<br />- Epigenetics and practical definition of genes (DL)<br />- Epigenomics (DL)",
+      "comment_teaching": "Prof Hung is very nice and calm. He doesn&#039;t neglect any single question from the student. <br /><br />Prof Danny welcomes questions from students which is very nice because you can ask questions during the lecture so that students don&#039;t get lost in his lecture.",
+      "comment_grading": "Absolute grading like everybody said.<br />&gt;80 : A+<br />&gt;75: A<br />&gt;70: A-",
+      "comment_workload": "I honestly think the workload is not that much. The content seems to be much, but as soon as you understand the core concepts, the workload is not that a lot.<br /><br />Never miss the tutorial and solve as many questions from professors as you can. Once you get used to solving problems from the tutorial the exam would be relatively easy.<br /><br />Again, tutorial sessions are very very very important!!!",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "JTiNVn6O4x10QrHKJ9F0exwknBRfzghA",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 1
+        },
+        {
+          "id": 771,
+          "name": "LEUNG, Danny Chi Yeu",
+          "rating": 1
+        }
+      ],
+      "author": "Cissy Wong",
+      "date": "Jan 20, 2021",
+      "title": "",
+      "comment_content": "Eugene&#039;s part involved a lot of math/ probability (which was not a good thing for me as an algebra person, so make sure to drill on that, ask the TAs)<br />Im personally more interested in Danny&#039;s part, especially genomics",
+      "comment_teaching": "Both are super nice professors, very patient in answering students&#039; questions after class<br />There were 5 TAs, they had different teaching styles, one would write the whole question thoroughly (you have to copy it yourself), another would show you the powerpoint directly and you ask questions, etc. Luckily the tutorials were uploaded to Canvas (due to covid), so I get to watch the tutorial sessions I find the most helpful for me.",
+      "comment_grading": "60% Mid-term Exam (Eugene&#039;s part)<br />40% Final Exam (Danny&#039;s part)<br /><br />Absolute grading (sum of two exams)<br />A+ (&gt;= 80.00), <br />A (75.00-79.99), <br />A- (70.00-74.99), <br />B+ (65.00-69.99), <br />B (60.00-64.99), <br />B- (55.00-59.99), <br />C+ (50.00-54.99), <br />C (45.00-49.99), <br />C- (40.00-44.99), <br />D (30.00-39.99), <br />F (&lt;30.00)",
+      "comment_workload": "Understand the contents thoroughly and do the practices, a few questions from the exam were from the tutorial.<br />Mainly MCs, short questions and one or two long questions.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "2TpQZvp6mz4NEQVRKNinV5Z2DQa9zk0v",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 1
+        },
+        {
+          "id": 484,
+          "name": "CHOW, King Lau",
+          "rating": 0
+        },
+        {
+          "id": 771,
+          "name": "LEUNG, Danny Chi Yeu",
+          "rating": 1
+        }
+      ],
+      "author": "Kabul",
+      "date": "Jan 01, 2020",
+      "title": "Midterm 考好 D，final 炒粉冇又怕！",
+      "comment_content": "Eugene Hung<br />🔶 Mendelian Inheritance<br />🔶 X-Linked Inheritance<br />🔶 Genetic Linkage &amp; Mapping<br />🔶 Population Genetics &amp; Evolution<br />以為 LIFS course 冇數計？整 D probability stat 比你慢慢嘆🤭<br /><br />King Chow<br />🔷 Molecular Biology<br />🔷 Inheritance Patterns of Single Genes<br />🔷 Gene Interaction<br />🔷 Developmental Genetics<br />🔶 Quantitative Genetics<br />感受過 KC style 嘅都會知道佢嗰 part 係哲學嚟，包你雲裡霧裡一頭霧水🤧<br /><br />Danny Leung<br />🔷 Forward Genetics<br />🔷 Recombinant DNA Technology<br />🔷 Reverse Genetics<br />🔷 Genomics<br />Epigenetics Danny 教唔切最後冇考<br /><br />🔶 Quantitative Topics<br />🔷 Conceptual Topics<br /><br />內容豐富，慢慢享受...😏",
+      "comment_teaching": "Eugene 嗰 part 平日再花 D 心機做 exercise 嘅話一定會明<br />起碼上堂有例子解釋<br />同埋 Eugene 絕對係一個慈祥嘅老人家🤗<br />落堂問問題都覺得好舒服冇壓力<br /><br />KC 呢...<br />上堂係 lively 嘅<br />但係因為小弟智商有限<br />get 唔到就係 get 唔到<br />一開波就問 &quot;What is a gene?&quot; <br />驚要答呢種「答唔到又好低能但係實則又真係答唔到」嘅問題就千祈唔好坐前面🤫<br />之後 quantitative genetics 嗰 part<br />係就係講咗嗰兩條式點 derive 出嚟<br />但係冇例子之下我完全 get 唔到條式點用（好彩有 tutorial） <br />對我呢 D 需要做 exercise 先讀到書嘅愚笨學生嚟講<br />KC 呢種令你愈讀愈 confused 嘅教法<br />我喺 KC 堂感受到嘅只係智商被完美嘅碾壓...😪<br /><br />聽唔明 KC 嗰 part 嘅<br />就算係走 lecture 都.一.定.要.上 tutorial<br />Tutorial D 題目係攞嚟救命嘅<br /><br />Danny 呢就介乎 Eugene 同 KC 中間<br />首先呢 Danny D 英文真係好好 J🤤<br />老實講 design experiments 呢 D big picture 嘢<br />都係 confusing 嘅<br />但係比起 KC 嗰種哲學級數<br />Danny 明顯平民化好多冇咁 intimidating<br /><br />Eugene 同 KC 兩種教法<br />我自己就 buy Eugene 嗰套多 D 嘅<br />唔係話要不斷操卷<br />但係有 exercise 效果真係好好多<br />自己温書寨轆 slides + 嘗試理解<br />實際上明唔明真係另一回事<br />但係只要做一次 exercise<br />係真明定唔明，一覽無遺",
+      "comment_grading": "✏️ 40% Midterm (Mean = 24.84/40, SD = 8.04)<br />✏️ 60% Final (Mean = 20.55/60, SD = 9.47)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 24% Danny&#039;s part (Mean = 11.1/24) 嘩！<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 12% Eugene&#039;s part (Mean = 4.8/12) 嘩嘩！<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 24% KC&#039;s part (Mean = 4.7/24) 嘩嘩嘩嘩嘩！<br /><br />一條送中條例令到呢年 final exam 變咗 open-book<br />自己屋企開住電腦做，比 Google 比搵 source<br />不過其實都冇用，一樣威力驚人<br />kill 咗大量學生😵<br /><br />以後見到 KC 嗰 part 飛咗佢先！<br />以後見到 KC 嗰 part 飛咗佢先！<br />以後見到 KC 嗰 part 飛咗佢先！<br />好重要所以講三次。<br /><br />KC 嘅卷<br />死 chur 爛 chur 冇用<br />緣份到咗你自然識做 ;)<br />唔係嘅話你寫到天花龍鳳都係得隻蛋<br /><br />我就 midterm 36.25/40，final 炒粉咗得嗰 25.8/60<br />我自己又有 D 抵死嘅<br />一停課 D 嘢跟到甩晒<br />D Zoom lectures 又走晒<br />Total overall 自己計係 62.05/100<br />我睇呢度往年嘅 cut-off 正常應該得隻 B<br />💯 最後竟然 A-<br /><br />唔知係因為今年 prof 得登出 grade 大放水<br />定係今年 D 人考嗰陣心情太差<br />又或者可能有 P/F option 之後有人開始 hea 底",
+      "comment_workload": "得 lecture 同 tutorial<br />exercise 自己要自覺做<br />自己感覺係算走 lecture（有 lecture videos）都唔好走 tutorial<br />Tutorial questions D 答案佢唔會 po 上去 Canvas<br />要自己上堂係咁影相...<br />整體 workload 對比 4 cred 嚟講算低嘅",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 7,
+      "vote_count": 7,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "wIixmz5gBIr8e8RMNUden2zRTgRwQZxd",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 1
+        },
+        {
+          "id": 484,
+          "name": "CHOW, King Lau",
+          "rating": 1
+        },
+        {
+          "id": 771,
+          "name": "LEUNG, Danny Chi Yeu",
+          "rating": 1
+        }
+      ],
+      "author": "Mcdreamy",
+      "date": "Dec 31, 2019",
+      "title": "",
+      "comment_content": "講genetic,由3個老師講唔同野,<br />engene 就計數多,population, Pedigree analysis, Sex-linked inheritance....<br />danny就應用方面多<br />king個part就好難,聽完都唔明,而且撞正midterm,完成冇聽過",
+      "comment_teaching": "engene ppt好充足,睇ppt都可以明,而且佢個part最簡單<br />danny 就正正常常, exam d 題目唔算難<br />king 就最難,聽完同冇聽冇分別,但佢個part都佔分多<br />所有都有video 睇得返",
+      "comment_grading": "engene個part(midterm + final 12%) 最易,盡量係佢個part攞多d分,因為king係唔會攞到<br />因為今年停課,所以有得轉p/f<br />midterm(engene part): 25.5/40 , mean: 24.9<br />final 轉左OPEN BK,係屋企做,大約有3個鐘<br />final(DL): 13.2, mean: 11.1<br />final(EH): 6.6, mean: 4.8<br />final(KC): 0.6, mean: 4.7<br />overall( midterm + final): 踏mean<br />轉左p/f, pass左",
+      "comment_workload": "每星期一堂tutorial, 會有d題目比你做,可以做可以唔做,但同exam 好相似,唔做唔出席可以話係0 workload<br />但個tutorial會講答案,最好去",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "jWSOhPfS2yanTEMXzGTSyEVf2LPEDtop",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 484,
+          "name": "CHOW, King Lau",
+          "rating": 1
+        },
+        {
+          "id": 771,
+          "name": "LEUNG, Danny Chi Yeu",
+          "rating": 1
+        },
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 1
+        }
+      ],
+      "author": "Hanghang",
+      "date": "Dec 15, 2019",
+      "title": "",
+      "comment_content": "Eugene part:<br />Monohybrid intercross<br />Pedigree analysis<br />Sex-linked inheritance<br />Dihybrid intercross<br />Genetic linkage<br />Gene mapping in model organisms<br />Gene mapping using population data<br />Population genetics and evolution<br /><br />King Chow part:<br />Gene structure:&nbsp;&nbsp;gene regulation in eukaryotes, and integration with genetics with molecular genetic<br />Extension of Mendelian genetics:more genetic interactions and regulatory actions; probability and modification of Mendelian ratios<br />Genetic regulation and mapping of pathways in biological process<br />Non-threshold traits and continuous phenotypes: their multifactorial property<br />Quantitative genetics: analytical tools and application <br /><br />Denny part:<br />Forward genetics and recombinant DNA technology<br />Application of recombinant DNA technology and reverse<br />Genomics: genetics from a whole-genome perspective<br />Epigenetics and practical definition of gene",
+      "comment_teaching": "Eugene is very nice, he teaches carefully and slowly. <br /><br />King Chow&#039;s teaching is well, but contents from his part is a bit difficult. <br /><br />Denny&#039;s teaching is also well, his teaching contents is all about DNA techniques. <br /><br />Tutorial classes are very important. it is suggested that attend all the tutorial classes.",
+      "comment_grading": "Fair grading",
+      "comment_workload": "No workload, but need to study a lot to understand concepts.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "60K6cZz8LVq20lpgTgB9ft9CLzloEuSZ",
+      "semester": "2012-13 Fall",
+      "instructors": [
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 1
+        },
+        {
+          "id": 484,
+          "name": "CHOW, King Lau",
+          "rating": 1
+        },
+        {
+          "id": 485,
+          "name": "XUE, Hong",
+          "rating": 0
+        },
+        {
+          "id": 771,
+          "name": "LEUNG, Danny Chi Yeu",
+          "rating": 1
+        }
+      ],
+      "author": "bich forever",
+      "date": "May 03, 2019",
+      "title": "Interesting course which trains your logic",
+      "comment_content": "The parts from Eugene and King Chow&nbsp;&nbsp;teaches a lot stuff regarding genetics which you will need to understand in order to work on the questions in the exams. You can do well either by working really really hard, or understand the stuff thoroughly.<br />Hannah&#039;s part mostly does not require any understanding if you simply aim at doing well in the exam. Just memorize the lecture material will be good enough.",
+      "comment_teaching": "Eugene teaches very carefully but slowly and he is a super nice guy. Contents are relatively simple and through working on the question sets you can do well in the exam easily.<br /><br />King Chow teaches very well but the materials is a bit difficult which requires you to understand his stuff. Try to make sure you really understand the reasoning behind. No use to memorize stuff.<br /><br />Hannah&#039;s part is the worst in the course to me. Bad English accent, just like reading words in the ppt. Just memorize for the exam.<br /><br />Tutorial classes are very important. Make sure you really try your best to work on the question set before attending. No use if you simply go into the classroom without working on the questions. Make sure you know the steps clearly.",
+      "comment_grading": "Fair grading.",
+      "comment_workload": "Heavily depends on how well you would like to do.<br /><br />If you really understand the knowledge, the workload is quite light indeed.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "IMPckKdC7iE16wSyr9OxcAlF7K6ZIDI7",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 484,
+          "name": "CHOW, King Lau",
+          "rating": 1
+        },
+        {
+          "id": 771,
+          "name": "LEUNG, Danny Chi Yeu",
+          "rating": 1
+        },
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 1
+        },
+        {
+          "id": 485,
+          "name": "XUE, Hong",
+          "rating": 1
+        }
+      ],
+      "author": "fai111",
+      "date": "Aug 05, 2018",
+      "title": "",
+      "comment_content": "Eugene: <br />Relatively easy <br />If you have finished all exercise given, basically you can get a good score. After understanding all the principles behind the math, you would be good. <br />(You should definitely focus on the mid term of this course because the mid term material is much more easier than those in the final)<br /><br />King Chow: <br />Um.... very difficult to understand <br />I scored very badly on his part<br /><br />Danny:<br />Appropriate content<br /><br />Hannah: <br />Much of the materials tested could not be found on her ppt<br />Her MC questions were very long and required high concentration to work on. She will give you many experimental scenarios in her questions",
+      "comment_teaching": "Eugene: <br />quite easy to understand, a bit bored though<br />Very useful exercise given<br /><br />King Chow: <br />Fun way to teach, but very difficult content<br />might have to watch lecture videos several times to understand his content<br /><br />Danny:<br />Perfect English and accent<br />Easily understood content<br />Fun way to teach<br />I think he is quite passionate and always tried to explain in details<br /><br />Hannah: At the end of the semester....so I was very busy and skipped all her lessons.....even skipped all her lecture videos as well<br /><br />Tutors: really depends on what tutor you are assigned <br />I have heard that some were unimaginably bad",
+      "comment_grading": "Statistics:<br />Full Score:100<br />Mean Score:54.71<br />SD of Scores:15.13<br /><br />My overall score: 68.39<br />Grade: B+<br /><br />(should definitely try hard in the mid term.... Final is far more difficult)",
+      "comment_workload": "The workload of the course depends on how hard you study<br />There were no compulsory assignments and essays, but voluntary exercise. <br />I gave a grade D because the content of the course is so much that you will need a lot of time to understand them all<br />Good luck!",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "3qdewMaOhvYFgrrkcOnKZTjpLUdX9fZs",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 1
+        },
+        {
+          "id": 484,
+          "name": "CHOW, King Lau",
+          "rating": 0
+        },
+        {
+          "id": 485,
+          "name": "XUE, Hong",
+          "rating": 0
+        },
+        {
+          "id": 771,
+          "name": "LEUNG, Danny Chi Yeu",
+          "rating": 1
+        }
+      ],
+      "author": "Gyudaeng",
+      "date": "Jan 25, 2018",
+      "title": "Two good, two bad",
+      "comment_content": "Eugene: Solve 100 textbook and tutorial questions, then you will ace the mid-term exam.<br /><br />King: Don&#039;t focus on the slide information.<br /><br />Danny: Study his slides and concentrate on everything he says. They directly come up in the finals.<br /><br />Hannah: Half of the questions on the finals paper are not explained at all in her slides.",
+      "comment_teaching": "Eugene&#039;s teaching style might be monotonous. However, when you listen to him carefully, you will find yourself understanding the material. Very fond of him.<br /><br />King is passionate in his teaching. Compared to the amount he talks however, there are not many concepts that you can understand or remember.<br /><br />I very much like Danny&#039;s teaching style. One of the best. He is the master of explanation. His tone and pronunciation are perfect. He makes sure students understand by explaining again and inviting questions.<br /><br />Hannah. First time I fell asleep.",
+      "comment_grading": "70% and I got A-.<br /><br />Mid-term is a good chance to boost up the grade.",
+      "comment_workload": "Workload is appropriate.<br /><br />It depends on how much you are willing to spend time solving questions (for Eugene&#039;s part)<br /><br />Only one mid-term and final. Nice and pleasant.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "gxsY1QRu1exuoICQbxwWActkFGO2BaOy",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 1
+        },
+        {
+          "id": 484,
+          "name": "CHOW, King Lau",
+          "rating": 1
+        },
+        {
+          "id": 485,
+          "name": "XUE, Hong",
+          "rating": 0
+        },
+        {
+          "id": 771,
+          "name": "LEUNG, Danny Chi Yeu",
+          "rating": 1
+        }
+      ],
+      "author": "Doctor",
+      "date": "Jan 09, 2018",
+      "title": "Enjoy the course",
+      "comment_content": "for the content, each professor is teaching different content.<br />HUNG, Siu Chun:<br />-basic Mendelian genetics<br />-gene mapping<br />-log of odd analysis<br />-IBD<br />Chow King Lau<br />-molecular genetics<br />-biostatistic<br />Xue Hong<br />-bioinformatics<br />-population genetics<br />Leung Danny Chi Yeu<br />-forward genetics<br />-reverse genetics<br />-recombinant DNA technology<br />overall the contents are interesting and useful in biology analysis.",
+      "comment_teaching": "For the 4 professor, Danny and King Chow is teaching the best, both of them their tone are clear, but they talk really fast, so students will easily miss the important concept. If you cannot follow, I strongly advise you to ask them after class.<br /><br />For Hung, Siu Chun. the powerpoint a dull, explanation is not doing well due to his tone, but he will give you a detailed walk through of every step of the analysis.<br /><br />Finally for Xue Hong. She is probably the worse professor I have ever met, there is no doubt that her power point is detailed. However, the power point is in fact power paragraph, Moreover, she skip all the pictures in the powerpoint and direct read aloud the powerpoint&#039;s content.",
+      "comment_grading": "Normal grading I would say<br />&gt;70% A range<br />in my case my overall ranking is 35 among 173 students this semester and iIgot B+. <br /><br />Examination:<br />mid term exam try score as high as possible, as this is a good time to strive for good grade. all question are short answer<br /><br />final exam is having 2 paper, mc, and short answer question. Danny part is extremely easy, Xue, Hong i heard was easy, but due to she will retire soon, her question become as shit as her powerpoint, e.g. a single mc can have half page long question. King Chow part, if you do understand the concept, it is easy, else no matter how long you answer you still got 0.",
+      "comment_workload": "the workload is low, for me I think, as I study 24 credits in this semester, and I found this course not very chur. there are tutorials, I suggest you to go as it really help you understand lots of things and train your accuracy of answering questions. conceptually i think is easy for me but it requires long for answering the main point accurately.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "RH8hex0E8y01SAhgJqpGyNhsEa8vmrT4",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 485,
+          "name": "XUE, Hong",
+          "rating": 0
+        },
+        {
+          "id": 771,
+          "name": "LEUNG, Danny Chi Yeu",
+          "rating": 1
+        },
+        {
+          "id": 484,
+          "name": "CHOW, King Lau",
+          "rating": 0
+        },
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 1
+        }
+      ],
+      "author": "qorhvk",
+      "date": "Oct 19, 2017",
+      "title": "",
+      "comment_content": "Eugene part: He changed to more mathematical things: cross linkage, probability calculation (chai square stuff), genetic mapping etc. <br /><br />King Chow: gene regulation, non threshold trait <br /><br />Hannah: more related to mapping and technology part (her major field is bioinformatics)<br /><br />Danny: more on experiemtn; genetic screening, knock down etc.",
+      "comment_teaching": "Eugene: he&#039;s a super nice, super sweet guy, but so sadly, bad at teaching. Do the questions in the book, read the book and go ask prof. if you encounter something unclear or think it is contradictory. Sometimes, he says something wrong. <br /><br />King Chow: Who chose him as the best lecturer? He is very enthusiastic but no idea why it is so sleeping. Good luck with his part.. <br /><br />Hannah: didnt attend the class. <br /><br />Danny: nice teaching; fluent in English",
+      "comment_grading": "mid term: 40<br />Final 60 <br /><br />Mid term covers only Eugene&#039;s part and rest of three all in final. Eugene&#039;s part will be not that hard if you are good at math and statistics. <br /><br />In final, Hannah and Danny&#039;s part is mostly MCQ, but it is still bit tricky.<br />KC part is super hard. Mean was like 7/20, and I got below mean for his part.",
+      "comment_workload": "One tutorial, and has assignment for tutorial but it is not graded. Usefulness of tutorial depends on the TA and how well you understood the lecture.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "JVoVGUishmD7FvyYmlO4UPuIhS62LpGZ",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 0
+        },
+        {
+          "id": 484,
+          "name": "CHOW, King Lau",
+          "rating": 1
+        },
+        {
+          "id": 771,
+          "name": "LEUNG, Danny Chi Yeu",
+          "rating": 1
+        },
+        {
+          "id": 485,
+          "name": "XUE, Hong",
+          "rating": 0
+        }
+      ],
+      "author": "thatperson",
+      "date": "Jan 31, 2017",
+      "title": "Tedious but Challenging",
+      "comment_content": "This is one of the most difficult LIFS course I&#039;ve ever taken so far. There were a lot of content to understand and many were quite new to me. Be prepared to spend most of your revision time on this since this is a 4 credit course and has a heavy weighting on your GPA.",
+      "comment_teaching": "I found King Chow and Danny&#039;s part quite intriguing and found them enjoyable. They were able to engage and address any questions by the students but I wish they went a bit slower. There were tons of info to take in in a short period of time.<br />For Prof Xue and Prof Hung, they were typical professor who goes through PPT without much engagement with students. However, they are very passionate to help with any problems regarding to the course.",
+      "comment_grading": "Please refer to other reviews from Fall 2016-2017. There are grading ranges based on your numerical scores.<br /><br />I got below mean during midterm but above mean in finals, and I got B range. Better than expected",
+      "comment_workload": "There are tons of reading to do. You will lag behind a lot if you are lazy. There are many tutorial questions and it is best if you try them. King Chow tutorial questions are most useful when you are trying to grasp his method of thinking.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "4wl4P2jbOofojVhjPvqyu4WMFxjAycUa",
+      "semester": "2016-17 Fall",
+      "instructors": [],
+      "author": "ki",
+      "date": "Jan 24, 2017",
+      "title": "Interesting course with large workload",
+      "comment_content": "Contents by Eugene, King Chow and Danny are quite interesting. But require knowledge from molecular biology and biostatistics that is not taught so detailed in this course.",
+      "comment_teaching": "Eugene teaches everything so detail that you may easily get bored.<br />King Chow is the best prof among four, very interesting teaching. Very few words on powerpoint so you may better attend his lecture.<br />Danny&#039;s teaching is quite good.<br />Hannah xue is the worst prof as she speak softly and just read out everything on powerpoint.",
+      "comment_grading": "The grading is reasonable, overall above 75% can get an A. But it is difficut to get high marks especially the part from King Chow.",
+      "comment_workload": "If you finish the tutorial question every week, it is reasonable.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "wzlsgENpwTS075AMnYjbQ5mE5CTuzgH2",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 484,
+          "name": "CHOW, King Lau",
+          "rating": 1
+        },
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 1
+        },
+        {
+          "id": 485,
+          "name": "XUE, Hong",
+          "rating": 0
+        },
+        {
+          "id": 771,
+          "name": "LEUNG, Danny Chi Yeu",
+          "rating": 1
+        }
+      ],
+      "author": "diudiu",
+      "date": "Jan 18, 2017",
+      "title": "Challenging yet rewarding",
+      "comment_content": "About everything you need to learn about genetics, from the basic mendelian rules (now with 1000% more crossing over) to recombinant DNA tech to population genetics and evolution.<br /><br />The first half, taught by Eugene, is mostly mechanical and largely overlaps with what used to be covered in HKALE except for certain more advanced tests/techniques. (40% of grade)<br />The second half is jointly taught by King Chow, CY Leung (:P) and Xue Hong (each 20%)",
+      "comment_teaching": "Eugene Hung<br />I kind of feel sorry for him, being handed one of the most boring/mechanical parts of the course. He teaches with heart and&nbsp;&nbsp;&quot;nice&quot; is an understatement for him; however, he is not helped by his slow and accented speech. <br /><br />Anyway, this is the part where you should grab as much points as possible to secure a good grade as everyone does well here.<br /><br />King Chow<br />Attending a lecture by Prof Chow is like watching an episode of Sherlock; it is an exhilarating ride that&#039;s truly thrilling and enthralling - but that is if you could understand the convoluted plot. For others who, unfortunately, could not decipher his lectures, it is the most confusing thing in the world.<br /><br />Unfortunately, the &quot;others&quot; include the majority of the class: the average score for his section is 6.20/20, which KC already considers &quot;quite high&quot; (last year it&#039;s 3.78/20)<br /><br />Danny Leung<br />Quite the eloquent speaker. Native accent, appropriate speed and clear delivery in a somewhat comfortable traditional style of teaching. Uses lively examples to demonstrate his concepts.<br /><br />His lectures were kind of straight forward and not too difficult, so most students wouldn&#039;t encounter problems here.<br /><br />Xue Hong<br />Absolute waste of time. Horrendous accent and sluggish teaching pace, not to mention the fact that she reads directly from her powerpoint slides. I finished all her lectures and tutorials (I skipped them) in maybe 3 or 4 hours.",
+      "comment_grading": "Nominally absolute grading. In reality, Eugene just sets the grade thresholds according to the distribution so it&#039;s not really that different from grading on a pro-rata basis/拉curve.<br />Overall grading (%):<br />A+ (&gt;= 80), A (75-79.99), A- (70-74.99)<br />B+ (65-69.99), B (59-64.99), B- (53-58.99)<br />C+ (47-52.99), C (41-46.99), C- (35-40.99)<br />D (25-34.99), F (&lt; 25)<br />Mean = 53.13; SD = 16.8 <br />I got lucky and snatched an A+ with 80.13% (yay).",
+      "comment_workload": "Some people call genetics a &quot;killer course&quot; as its style differs from traditional life science courses quite a lot (well at least for KC&#039;s part and arguably Eugene&#039;s) as there wasn&#039;t much rote memorisation and require a great deal of logical deductions and reasoning, as well as a clear grasp of the underlying concepts. Therefore, one is expected to devote more effort and time towards this course. <br /><br />There are weekly assignments which would be discussed during a tutorial session. They are not graded though, so you&#039;re not obliged to work on them. However, I would strongly recommend everyone to at least finish Eugene&#039;s and KC&#039;s assignments, the former being essential to familiarise yourself with the calculations (it gets mechanical as you work on more problems); and the latter being a fun thought exercise.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 2,
+      "attachments": []
+    },
+    {
+      "hash": "gLqMxUbUFNjcMrJkqbX7aqWm8dQPfSfi",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 1
+        },
+        {
+          "id": 484,
+          "name": "CHOW, King Lau",
+          "rating": 1
+        },
+        {
+          "id": 485,
+          "name": "XUE, Hong",
+          "rating": 1
+        },
+        {
+          "id": 771,
+          "name": "LEUNG, Danny Chi Yeu",
+          "rating": 1
+        }
+      ],
+      "author": "chwip",
+      "date": "Jan 06, 2017",
+      "title": "",
+      "comment_content": "Basically about Genetics, with lots of things to recite",
+      "comment_teaching": "Dr. Leung,Good teaching and explaining concepts well.<br />Dr. Hung is trying his best to deliver the content, and provided a lot of examples.<br />Dr. Chow is not speaking with the power point slides so its a bit difficult for students to follow<br />Dr. Xue is basically reading the power point slides, without much interaction with the students",
+      "comment_grading": "I got Mean in the midterm and final exams but turns out its C range again",
+      "comment_workload": "Very Heavy Workload<br />Attending lectures and tutorials with loads of questions",
+      "rating_content": 1,
+      "rating_teaching": 2,
+      "rating_grading": 3,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "D1ONK0T6aY56DuFI3jy53A2pmkWkXJzb",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 1
+        },
+        {
+          "id": 484,
+          "name": "CHOW, King Lau",
+          "rating": 1
+        },
+        {
+          "id": 485,
+          "name": "XUE, Hong",
+          "rating": 0
+        },
+        {
+          "id": 771,
+          "name": "LEUNG, Danny Chi Yeu",
+          "rating": 1
+        }
+      ],
+      "author": "Jayanne",
+      "date": "Aug 16, 2016",
+      "title": "",
+      "comment_content": "",
+      "comment_teaching": "Each prof has a different teaching style, Prof Hung gives traditional instructive lectures and insightful discussion topics on Canvas; Prof Chow and Prof Leung&#039;s lectures make you think more and are therefore more interesting; Prof Xue&#039;s lectures are read from the book and basically useless.",
+      "comment_grading": "In my opinion, most LIFS majors complain about this course because it is unlike most LIFS courses in UST where you swallow material and spit it back out. If you enjoy creative thinking and arranging logical arguments, you will get that in Prof Chow&#039;s section of the exam. Prof Hung&#039;s part is more of applying the concepts learnt, whereas Prof Leung and Xue&#039;s parts are more &#039;conservative UST style&#039;",
+      "comment_workload": "More workload than most LIFS courses, but the work is all optional.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "oaklB3wPolhdgF76LWP9BzdOtbIpKVYg",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 1
+        },
+        {
+          "id": 484,
+          "name": "CHOW, King Lau",
+          "rating": 1
+        },
+        {
+          "id": 771,
+          "name": "LEUNG, Danny Chi Yeu",
+          "rating": 1
+        },
+        {
+          "id": 485,
+          "name": "XUE, Hong",
+          "rating": 0
+        }
+      ],
+      "author": "royalmilktea",
+      "date": "Dec 26, 2015",
+      "title": "",
+      "comment_content": "See attachment :D",
+      "comment_teaching": "This course is taught by 4 professors this year<br />Eugene taught the first month or so, then King Chow until midterm, and then Danny and Hannah after midterm.<br /><br />Eugene<br />He&#039;s a pretty clear in teaching the concepts, and really makes sure you understand (if he doesn&#039;t get good responses he&#039;ll literally put together another powerpoint to reexplain the problem the next lecture)<br />He repeats the key concepts 3 times though, so it&#039;s okay to zone out a bit in class<br />What I don&#039;t like is he doesn&#039;t do enough practice questions with us in class, so I don&#039;t know how to do like half of the tutorial questions<br />If he taught faster and did a bit more practice with us that would be great.<br /><br />King Chow<br />KC doesn&#039;t really teach according to his powerpoint<br />His classes are more discussion sessions on key concepts and then 5 minutes later he&#039;ll be like, &quot;okay so we covered this, this, and this&quot; -skips a bunch of slides-<br />It&#039;s okay though, because his exam isn&#039;t according to his powerpoint anyway. Just treat his powerpoint as some key concepts (which he will stress over and over again in class) + other interesting information you may want to know (which he will skip in class)<br />His exam questions are more experimental design and big picture stuff, and the tutorial questions should give you a good idea what they will be like.<br />Oh, and don&#039;t sit in the front if you&#039;re scared of being asked questions; he points to people sometimes.<br />But if you&#039;re into scientific discussions, KC&#039;s classes will be very interesting and fun.<br /><br />Danny<br />A new professor in LIFS (and a very cute one indeed)<br />I have a feeling he&#039;s going the KC route, but he&#039;s less intimidating I guess?<br />He teaches clearly but very quickly, perhaps even faster than KC (because he&#039;s covering things on the powerpoint, unlike KC&#039;s discussion style)<br />His exam is very much based on the powerpoint, but there is one long question that was like an experimental design problem (like what KC would give, really)<br />So if you have no problems with KC&#039;s style you&#039;ll probably enjoy Danny just as much (or even a bit more)<br />Oh, and study the tutorial questions (at least memorize the answers). Some of the MCs may appear in the final ;)<br /><br />Hannah<br />She basically reads off her very word-full powerpoint, and you may feel slightly... drowsy during class. Be sure to read the textbook chapters she posts too though, because they will appear in the exam.<br />I&#039;m not a fan of her posting tutorial questions like 3 hours before the tutorial, because neither we nor the tutor have enough time to look at them, so we&#039;re all just thinking about the questions for the first time in class. As a result, our tutor&#039;s teaching quality greatly dropped during those two classes.<br />She taught 2 chapters this year, Chapter 19 and 23 (see attached course outline for details)<br />The exam questions for chapter 23 were okay, if you understand the powerpoint and the textbook you should be able to get them right (they&#039;re pretty much just calculations and basic concepts on population genetics)<br />However, the questions on chapter 19 (genomics) were... I have no idea where they came from. They were very paper/research-based, asking you to make inferences from some random conclusion. I wasn&#039;t even sure I was in the right exam room when I did them.<br />Just give it up to luck. Chances are, others will do just as poorly.",
+      "comment_grading": "I don&#039;t know if it&#039;s because people keep on saying it&#039;s a killer course (so I expected really low grades)<br />but I got better than expected based on comparison with the mean and SD...",
+      "comment_workload": "Only tutorial questions every week<br />You can choose to not do it and just learn from your tutor if you&#039;re really out of time<br />Though you&#039;ll probably learn more if you did it once beforehand so you can discuss your own answers during the tutorial",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "SMlerLeiDJPdP2DGS7jV05CFHyHDVWKO",
+          "name": "LIFS3140 2015 Course Outline",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "pk3P38TabyvZ0AdQXuMBRGPJUslBGxVt",
+      "semester": "2014-15 Fall",
+      "instructors": [
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 1
+        },
+        {
+          "id": 484,
+          "name": "CHOW, King Lau",
+          "rating": 1
+        },
+        {
+          "id": 485,
+          "name": "XUE, Hong",
+          "rating": 0
+        }
+      ],
+      "author": "AChan",
+      "date": "Sep 02, 2015",
+      "title": "LIFS3140",
+      "comment_content": "",
+      "comment_teaching": "1. King Chow: only taught for the mid-term part. As the most famous professor in Life science, you probably have heard about him. He is a good teacher, only if you are smart enough to follow his mind. He speaks at normal speed, but you will feel headache after every class. You can skip his lecture, but you need to watch lecture videos, make sure you understand everything he says. His midterm, you don&#039;t even need to practice the exercise from tutorials or from the book, because basically his exam is WAY harder than that. <br />2. Eugene: nice, willing to explain everything. But probably too nice and will not stop until he explained everything. His part is easier in understanding wise, but still quite complicated, which you need to grasp by doing all the exercises that he told you to do, then you definitely do well in his exams as he will put similar questions in it..<br />3. Xue Hong: basically don&#039;t go to her class, unless your hobby is wasting your life. She won&#039;t explain anything, and her notes are literally just copied from the text book directly. So she sucks, period. And her part was all MCs, super amazingly hard(even though everyone in previous years said they were easy)",
+      "comment_grading": "Grade is just ok. Got mean in midterm but &gt;1-sd above in finals, got a B.",
+      "comment_workload": "The tutorials questions are super important, must do them!!!!!!!!!!!<br />But otherwise, no other work.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

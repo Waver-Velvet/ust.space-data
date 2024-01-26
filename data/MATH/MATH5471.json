@@ -1,0 +1,75 @@
+{
+  "course": {
+    "id": 3021,
+    "subject": "MATH",
+    "code": "5471",
+    "name": "Advanced Machine Learning with Graphs",
+    "description": "This course will introduce a number of advanced learning methods and modeling principles for analyzing large-scale complex data structures and graph data. Topics covered include semi-supervised learning, spectral graph theory, deep graph modeling, knowledge graph modeling, etc., as well as open research problems in this area.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2110,
+      1910
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"5222\" href=\"/review/COMP5222\" target=\"_blank\">COMP 5222</a>",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 909,
+        "name": "SONG, Yangqiu",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "MTOCC26E6TAbPXUNB6Yn2MP046usTA2r",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 909,
+          "name": "SONG, Yangqiu",
+          "rating": 1
+        }
+      ],
+      "author": "Aaron W",
+      "date": "Dec 29, 2020",
+      "title": "",
+      "comment_content": "Being the graduate level version of MATH4824B/4901K, there is a lot less hand-holding in this course and it assumes that you are comfortable with probability and basic machine learning. Content wise, the course gives an overview of a lot of different branches/areas of machine learning in NLP, including a lot of very recent topics, such as BERT and transformers. The topics included:<br />Sequence Modeling<br />Featurized Sequence Modeling<br />Neural Sequence Modeling<br />SGD Optimization<br />Word Embedding<br />Topic Models<br />Graph Models<br />Sequence Tagging<br />Constraint Models<br />Knowledge Graphs",
+      "comment_teaching": "Yangqiu was quite clear in the lectures, but he does tend to skip over a lot of the math involved so it can be a bit confusing at times. Regardless, he was able to get across the important points, giving you a good idea of the recent developments in the field.",
+      "comment_grading": "Me:<br />Reading Notes: Full mark<br />Proposal: Full mark<br />Survey+Presentation (Video): unknown<br />Grade: A<br /><br />Originally there should have been a final exam, but it got cancelled due to the protest. As such, the course grade was purely based on the survey/project (since basically everyone got full marks for the reading notes and proposal). They never released the scores for the projects so the grading is quite mysterious but it’s still quite good.",
+      "comment_workload": "There was basically zero workload except for the project/survey.<br /><br />There were 4 reading notes, which basically involved you reading choosing a paper from conferences this year and writing a few comments to summarise it (and a question you would ask the authors).<br /><br />The course is co-listed with COMP5222, and the only difference is that students under the MATH code can choose to do a survey instead of the project. The survey had to be done individually, but&nbsp;&nbsp;the project could be done individually or in groups of 2. I opted for the survey, which meant I just had to read a bunch of papers and write a paper summarising the techniques and their findings.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "course": {
+    "id": 94,
+    "subject": "CHEM",
+    "code": "3420",
+    "name": "Physical Chemistry II",
+    "description": "Basic quantum theory, atomic and molecular structure, equilibrium statistical thermodynamics.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030,
+      1930,
+      1830,
+      1730,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"2410\" href=\"/review/CHEM2410\" target=\"_blank\">CHEM 2410</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.33,
+    "rating_teaching": 4.58,
+    "rating_grading": 4.58,
+    "rating_workload": 4.5,
+    "review_count": 12,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 39,
+        "name": "HUANG, Xuhui",
+        "count": 11
+      },
+      {
+        "id": 1010,
+        "name": "PAN, Ding",
+        "count": 5
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "EN3lzuFNjF59OfLKOTzD6kUy0cr99JSx",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1010,
+          "name": "PAN, Ding",
+          "rating": 1
+        }
+      ],
+      "author": "YareYaredaze",
+      "date": "May 27, 2023",
+      "title": "冇得DING!",
+      "comment_content": "個course因為science 分group A group B + for chemistry student 讀所以冇phys/linear algebra 底都可以理解到，係開頭辛苦啲。<br /><br />Topic 1: Introduction to Quantum Theory<br />1.1: 講返科學家點樣發現Energy quantization + 少少Physic 現象 (ΔE = hv, photoelectric effect, de broglie relation)<br /><br />1.2: Schrodinger equation <br />一堆quantum mechanics 既 basic rules，乜野係wavefunction, normalization, orthogonality, expectation value... and uncertainty principle.<br />[最難捱就係呢part 架啦，比多啲心機理解之後輕鬆好多]<br /><br />Topic 2: Motion<br />Translation, vibration, rotation. <br />除左translation 會show 比你睇乜野係quantum tunneling 之外(with equations)，vibration 同rotation都算係輕輕帶過，你會知d energy of motion 點計，但入面乜野係angular momentum 同moment of inertia 呢基本就唔需要知的。<br /><br />[midterm之後]<br />Topic 3:<br />用schrodinger equation 去揾hydrogenic atom/ many electron atoms 既electron energy ，用wavefunction 去解釋Aufbau Principle, Pauli Exclusion principle, Hund&#039;s Rule.<br /><br />Topic 4: <br />用quantum mechanics 去講返molecule; Valence Bond Theory &amp; Molecular Theory 仲有Huckel Approximation.<br /><br />其實好多concept 以前都有學過，呢個course 只係比返個concept 既本體(which are equations)你知，究竟我哋以前Gen Chem (shape of orbitals, hund&#039;s rule), orgchem (resonance, huckel&#039;s rule), inorgchem (mo theory) 讀過既野，係點樣揾出嚟。<br /><br />鐘意尋根究底既人不能錯過!!!",
+      "comment_teaching": "比起淨係教你點樣去應付考試，Professor更加注重equation本身係點樣揾出嚟，當然考試係唔會考的，堂堂都寫爆哂個白板仲要擦多幾次先講得完，上佢堂就係superposition of 享受/痛苦，你唔温足書，咁痛苦個probability 就大啲喇 :). <br /><br />Prof 份人幾nice，上堂前會問下我地呢排有咩搞，phychem學成點，整下survey 問大家意見，平時上堂解釋又好(係快左啲)，有咩跟甩左落堂即問就ok。",
+      "comment_grading": "Midterm 40% (Covers Topic 1&amp;2)<br />Final 50% (Covers Topic 3&amp;4)<br />Assignment 10% (2x5%, best 2 of 4)<br />Bonus: 0.1 (上堂答問題，有答就有分，0.1分一個，一堂最多拎一個)<br /><br />Prof 話會拉盡個A range (25%) 同B range (40%)既，咁個grading 應該都幾好。<br /><br />[Edit: Grading] <br />Means:<br />midterm: 57.38/100 SD: 24 highest: 98/100<br />final exam: 55.7/100 , SD: 22 highest: 96/100<br />ASM1: 85.28/100, Highest: 100/100<br />ASM2: 78.08/100, Highest: 100/100<br />ASM3: 72.82/100, Highest: 100/100<br />ASM4: 50.46/100, Highest: 100/100<br />Bonus: 0.19, Highest: 1.2 <br /><br />FYI:<br />ASM1:&nbsp;&nbsp;90/100<br />ASM2:&nbsp;&nbsp;98/100<br />ASM3:&nbsp;&nbsp;89/100<br />ASM4:&nbsp;&nbsp;100/100<br />Midterm: 91/100<br />Final: 94/100<br />Bonus: 0.7<br />Grade: A+ <br /><br />(0phys底，phys1001拎B，got both phychem 1&amp;2 A+ ，don&#039;t give up because you didn&#039;t study phys before, ask a LOT for help if you don&#039;t understand)",
+      "comment_workload": "如果你淨係想求pass或者係求個B range，咁你只需要做兩個assignment + midterm/final 前背少少equation 就得，幾乎係冇workload 既。<br /><br />但係!!! 如果你想深入理解d proof 點樣嚟，比如話Valence Bond theory 同MO theory 本質上有咩唔同咁樣，就要下多啲苦功喇。<br /><br />workload 唔會大得過phychem 1.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "SbxvlpFIiLEOjyERyJObRNyTChagoKeE",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 39,
+          "name": "HUANG, Xuhui",
+          "rating": 1
+        },
+        {
+          "id": 1010,
+          "name": "PAN, Ding",
+          "rating": 1
+        }
+      ],
+      "author": "supermin",
+      "date": "May 30, 2021",
+      "title": "Good Course, Good Professors",
+      "comment_content": "Topic 1: Introduction to Quantum Theory: - Textbook: Chapter 7<br /><br />Topic 2: Motion: - Textbook: Chapter 8<br />• Translation (Chp 8A)<br />• Vibration (Chp 8B)<br />• Rotation (Chp 8C)<br /><br />Topic 3: Atoms: - Textbook: Chapter 9<br />• Atomic Structure of Hydrogen-like atoms (Chp 9A)<br />• Atomic Structure of many electron atoms (Chp 9B)<br />• Atomic Spectra (Chp 9C)<br /><br />Topic 4: Molecules - Textbook: Chapter 10<br />• Valence-bond (VB) theory (Chp 10A)<br />• Molecular Orbital (MO) theory (Chp 10B-D)<br />• Hückel theory (Chp 10E)",
+      "comment_teaching": "Physical Chemistry seems to have the best Chem professors.<br /><br />Both have great passion in their teaching and explains concepts very thoroughly. They will also answer any questions when asked.<br /><br />While they both complained about the difficulty of online teaching, I think their lectures were still good, they like to draw on slides to explain concepts or proving mathematical concepts.<br /><br />Notes are clear and concise.",
+      "comment_grading": "Assignments 10%<br />2 Best out of 4 assignments are counted.<br />I got two assignments full score, so full 10%<br /><br />Midterms 40% (Topic 1, 2)<br />Mean: 58.9&nbsp;&nbsp;&nbsp;SD: 20.0<br />Pretty difficult, but I got over average.<br /><br />Finals 50% (Topic 3, 4)<br />Mean: 80.0&nbsp;&nbsp;&nbsp;SD: 13.2<br />Very easy! but I made careless mistakes a lot and got exactly mean.<br /><br />Final score: B<br />Shows how competitive the course is lmao.",
+      "comment_workload": "Honestly, it&#039;s just another calculus course. 80% of exam questions are using integration/differentiation.<br /><br />Make sure to solve all questions in textbooks! Many exam questions have a strong resemblance to the ones asked in textbooks (some are made by professor themselves, and are much more complex).<br /><br />Lots of things to digest tbh, but manageable.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "qHrpcQZWIocMKWfm0y0SzdbCTdumszVT",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 39,
+          "name": "HUANG, Xuhui",
+          "rating": 1
+        }
+      ],
+      "author": "psyufs26",
+      "date": "Jun 04, 2020",
+      "title": "Prof. Huang is really a good prof",
+      "comment_content": "Topic 1: Introduction to Quantum&nbsp;&nbsp;Theory: -Textbook: Chapter 7<br /><br />Topic 2: Motion: -Textbook: Chapter 8<br />Translation (Chp8A) Vibration (Chp8B) Rotation (Chp8C)<br /><br />Topic 3: Atoms: -Textbook: Chapter 9<br />Atomic Structure of Hydrogen-like atoms (Chp9A) Atomic Structure of many electron atoms (Chp9B) Atomic Spectra (Chp9C)<br /><br />Topic 4: Molecules -Textbook: Chapter 10<br />Valence-bond (VB) theory (Chp10A) Molecular Orbital (MO) theory (Chp10B-D) Hückel theory (Chp10E)",
+      "comment_teaching": "Prof. Huang is really enthusiastic in teaching. <br />Review lectures are made at the beginning of each lesson. <br />Some of the students may think that his teaching pace is a little bit slow due to the review sections, but for me, those review notes help me understand more and consolidate what I have learnt so far.",
+      "comment_grading": "30% assignments (3 out 4, each contributes 10%)<br />30% midterm<br />40% final<br />Asm: I got 99,99,100<br />mt: i got 58/100 (mean ~66, sd ~14)<br />final: i got 96/100 (mean ~82, sd ~15)<br />.<br />Overall got ~85% and a B+",
+      "comment_workload": "There are only 4 assignments. <br />Additional exercises with answer key are also provided.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "CeuLErlSefzwh5JFcxenNmfXNtMKjtLa",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 39,
+          "name": "HUANG, Xuhui",
+          "rating": 1
+        }
+      ],
+      "author": "LukaModric",
+      "date": "Apr 12, 2020",
+      "title": "",
+      "comment_content": "Topic 1: Introduction to Quantum Theory: -Textbook: Chapter 7 <br />Topic 2: Motion: -Textbook: Chapter 8 <br />•Translation (Chp8A) <br />•Vibration (Chp8B) <br />• Rotation (Chp8C)<br />Topic 3: Atoms: -Textbook: Chapter 9 <br />• Atomic Structure of Hydrogen-like atoms (Chp9A) <br />• Atomic Structure of many electron atoms (Chp9B) <br />• Atomic Spectra (Chp9C) <br />Topic 4: Molecules -Textbook: Chapter 10 <br />• Valence-bond (VB) theory (Chp10A) <br />• Molecular Orbital (MO) theory (Chp10B-D) <br />• Hückel theory (Chp10E)",
+      "comment_teaching": "Both Prof and TAs are really helpful.<br />Really wants students to understand the concepts.<br />Review of last lecture at the beginning of each lecture.",
+      "comment_grading": "Midterm 30%<br />Final 40%<br />HW 30% (best 3 out of 4)",
+      "comment_workload": "Not so heavy.<br />Acceptable.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "dzAlD7rJKLfzLfAHg5KtTNEx20fSJJzE",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 39,
+          "name": "HUANG, Xuhui",
+          "rating": 1
+        },
+        {
+          "id": 1010,
+          "name": "PAN, Ding",
+          "rating": 1
+        }
+      ],
+      "author": "JK1",
+      "date": "Jan 20, 2020",
+      "title": "",
+      "comment_content": "Topic I: Introduction to Quantum Theory<br />1.1. Energy Quantisation: E=hv<br />1.2. Wave-particle duality: de-Broglie Relation λ = h / p<br /><br />Topic II: Motion<br />2.1. Translation: Free Particle, Particle in a box (1-D and higher dimensional)<br />2.2. Quantum Tunneling<br />2.3. Vibration<br />2.4. Rotation (2-D and 3-D)<br /><br />Topic III: Atomic Structure<br />3.1. Atomic Spectrum of Hydrogen<br />3.2. Wavefunction for hydrogenic atoms<br />3.3. Atomic orbitals and Energies; shells and subshells<br />3.4. Many-electron systems (Aufbau Principle, Pauli exclusion Principle, Hund&#039;s Rule)<br />3.5. Periodicity; Atomic spectroscopy<br /><br />Topic IV: Molecules<br />4.1. Born-Oppenheimer Approximation<br />4.2. VB Theory and its wavefunctions, sigma bond and pi bond<br />4.3. Resonance and Hybridisation<br />4.4. Molecular Orbitals: LCAOs<br />4.5. Homonuclear diatomic molecules; heteronuclear diatomic molecules",
+      "comment_teaching": "Both instructors are very good, passionate in teaching and helping students<br /><br />Review in every topics and tutorial sessions for every assignments; also mid-term review and final review",
+      "comment_grading": "Super good grade<br /><br />midterm: <br />mean: 67; median: 71; S.D.: 20<br /><br />final:<br />mean: 76.14; S.D.: 18.27; highest: 100; lowest: 37<br /><br />overall:<br />mean: 76.6; S.D.: 12.8<br /><br />&gt;94.6 A+<br />&gt;91.35 A<br />&gt;86 A-<br />A: 19 students, 26.7% of the class<br />&gt;79 B+<br />&gt;70.05 B<br />&gt;65.3 B-<br />B: 36 students, 50.7% of the class<br />&gt;61.3 C+<br />&gt;45.3 C<br />&gt;38.35 C-<br />C: 14 students, 19.7% of the class<br /><br />F: 1 student, 1.41% of the class",
+      "comment_workload": "light.<br /><br />4 assignments with 2 best assignments counted towards the final grade. @5% each<br /><br />one mid-term (40% of the final grade) and one final exam (50% of the final grade)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "qTgqdQ2XDCf72MEVSs09ywdBym7eql43",
+          "name": "Chem3420_Intro_Web",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "QHtwSI5v4iKp4pt2UwOlqi2U0BM7pc6n",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 39,
+          "name": "HUANG, Xuhui",
+          "rating": 1
+        },
+        {
+          "id": 1010,
+          "name": "PAN, Ding",
+          "rating": 1
+        }
+      ],
+      "author": "holymama",
+      "date": "Jun 02, 2019",
+      "title": "",
+      "comment_content": "Midterm<br />Topic 1: Introduction to quantum theory<br />Topic 2: The quantum theory of motion: translation, vibration, rotation<br /><br />Final:<br />Topic 3: Atoms: atomic structure of hydrogenic atoms<br />Topic 4: Molecules: VB theory<br /><br />Not enough time to cover Huckel&#039;s theory",
+      "comment_teaching": "0 attendance, therefore I can&#039;t give too much comments on both instructors. However, I do think that Prof. Huang is the best professor that I met in my UG life as he is willing to help me and teach me out of the classroom.",
+      "comment_grading": "HW: 10%<br />MT: 40%<br />Final: 50%<br /><br />Midterm: <br />Average: 67/100<br />SD: 20<br />Max: 100<br /><br />Final:<br />Average: 76.14/100<br />SD: 18.27<br />Max: 100<br />-------<br />My results:<br />HW: all full mark<br />Midterm 73/100 (WATERLOO!!!!!!!!!!!!!)<br />Final 100/100<br />A-<br /><br />A: 19&nbsp;&nbsp;&nbsp;26.7%<br />B: 36&nbsp;&nbsp;&nbsp;50.7%<br />C: 14&nbsp;&nbsp;&nbsp;19.7% <br />F: 1&nbsp;&nbsp;&nbsp;1.41% <br />Audit: 1&nbsp;&nbsp;&nbsp;1.41%",
+      "comment_workload": "A little bit memorization, but you can handle them easily. The most important thing is to understand the concepts, instead of brutal force.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "aRomWX2nucZUsl0puFsW8CHOC5A7mvJ2",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 39,
+          "name": "HUANG, Xuhui",
+          "rating": 1
+        },
+        {
+          "id": 1010,
+          "name": "PAN, Ding",
+          "rating": 1
+        }
+      ],
+      "author": "Connie lolo",
+      "date": "Jun 02, 2019",
+      "title": "Good grade course",
+      "comment_content": "Mid term covers:<br />Topic 1: Introduction of Quantum theory<br />Topic 2: The quantum theory of Motion<br />即係energy quantization, wave-particle duality個D<br /><br />Final Exam covers:<br />Topic 3: Hydrogenic Atoms, Many-electron atom and atomic spectroscopy;<br />Topic 4: Valence Bond Theory, Molecular Orbital Theory.<br /><br />可以睇textbook，會比lecture videos",
+      "comment_teaching": "呀Ding 同Huang 都教得幾有心，成日會keep 住問我地跟吾跟到，解釋得幾詳盡，兩個都係好有心既老師，好歡迎我地問問題，係堂上有時會邀請我地出去試做D 問題，答到會有bonus point 加。<br />自己又會整review notes 比我地，同provide lecture videos<br />D英文算係吾錯，大陸口音但聽得明既...",
+      "comment_grading": "幾好grade~<br />mid term 40%<br />final exam 50%<br />assignment 10%<br /><br />letter grade 既stat:<br />Total 71<br />A: 19&nbsp;&nbsp;&nbsp;26.7%<br />B: 36&nbsp;&nbsp;&nbsp;50.7%<br />C: 14&nbsp;&nbsp;&nbsp;19.7% <br />F: 1&nbsp;&nbsp;&nbsp;1.41% <br />Audit: 1&nbsp;&nbsp;&nbsp;1.41%<br /><br />1/4 人A range, <br />Mid term mean score is 67, the median is 71, and the standard deviation is 20. <br />final mean is 76.14/100 and the standard deviation is 18.27.<br /><br />我assignment full mark, mt &amp; final above mean almost 1 sd, overall 92%, got A.",
+      "comment_workload": "好少workload, 基本上得4 份assignment, mid term 前兩份，final 前兩份，不過得兩份係計分落final grade, total 10 %。<br />佢會比D additional exercise 我地<br /><br />走堂既話可以睇lecture videos/ textbook<br /><br />溫書都係睇番D homework就OK, 計下數咁",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "4l7Ccter3xH3XVAUcxT453CKybvBtRP1",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 39,
+          "name": "HUANG, Xuhui",
+          "rating": 0
+        }
+      ],
+      "author": "Fickdeinemutter",
+      "date": "Jun 08, 2018",
+      "title": "Died of A Slip",
+      "comment_content": "- Introduction to Quantum Mechanics (E = hf), Black Body Radiation, Photoelectric Effect [(1/2)mv^2 = hf - (work function)], Wave-Particle Duality &amp; Uncertainty Principle<br /><br />- Hamiltonian/PE/Momentum Operators, Hermiticity, 1D Particle-in-the-Box/Well Model, Quantum v.s. Classical Harmonic Oscillators<br /><br />- WAVEFUNCTIONs, Time-Independent Schrödinger&#039;s Equation (Eigenvalue &amp; Partial Differential Equation), Electronic, Translational &amp; Vibrational Energy<br /><br />- PROBABILITY DENSITY, PROBABILITY FUNCTIONs &amp; Quantum Tunneling [kh/(2π) = (2mE)^(1/2)]<br /><br />----- Mid-Term Exam -----<br /><br />- 2D Rotational Schrödinger&#039;s Equations, Angular Momentum &amp; Rotational Energy<br /><br />- Coulumb&#039;s Law, Oppenheimer&#039;s Approximation, Atomic, Valence-Bond &amp; Molecular Orbital Theory (CHEM 1030 deeper, advanced algebra &amp; matrix operations at last)<br /><br />----- Final -----",
+      "comment_teaching": "Barely acceptable as a physics teacher. Not better than my high school&#039;s ones. <br /> <br />No idea why he used Pokemon Go as an analogy to eigenvalues of wavefunctions. I don&#039;t find it funny at all. <br /><br />Don&#039;t skip lectures.",
+      "comment_grading": "NO one got D or F. <br />Only ONE out of 92 students got C— .<br /><br />Assignments (10%): Complete 2 out of 4, only the best 2 are counted. <br />Mid-Term Exam (40%): Mean was 69.2/100, I got 72/100.<br />Final (50%): Mean was 77.9/100, SD 15.65, HIGH as F**K. I waterlooed by getting 46/100, astoundingly bad. <br /><br />I checked the paper, flipped it over, and within a minute, I left the room in dejective shame. Tears snowballed from the heaven and smote me most devastatingly. An hour later, my spirit was cleansed, not that it was purified, but crucified.<br /><br />Ich bin kein Ich. Es ist keine es. Er denkt, aber er ist nicht.<br /><br />Oh Lord, it is finally dead, nebuilized and vaporised. Karma has done its job, has done its job by giving it a C grade.<br /><br />It would never ever be anything.",
+      "comment_workload": "Just the Assignments mentioned in &quot;Grading&quot;. Fairly light.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "DFtkg0YeYandcfgz4TNi2aabo16fI3q9",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 39,
+          "name": "HUANG, Xuhui",
+          "rating": 1
+        }
+      ],
+      "author": "Selenium",
+      "date": "Jun 05, 2018",
+      "title": "Best instructor I&#039;ve ever seen!",
+      "comment_content": "QM, wavefunctions, ...<br />Topic 1 intro, wave-particle duality, uncertainty principle etc<br />Topic 2 translation, harmonic oscillator and rotation<br />Topic 3 atoms<br />Topic 4 compounds",
+      "comment_teaching": "The instructor tried his best to make QM easy to understand by talking about some examples and applications to daily life. This made me able to accept QM comfortably. And he told us not to be afraid of the notations, this made me to accept QM even more easily.<br />&nbsp;&nbsp;The lectures were interactive (he liked to ask some questions, gave examples to extend our thinking, and sometimes he invite some students to do the problems ha~) LIKE IT<br /> <br />&nbsp;&nbsp;In March he sent out questionnaires in class to let us fill in 3 good points and 3 points for improvement about his teaching. He do really responded to our suggestions. I haven&#039;t seen such a good instructor before.<br /><br />&nbsp;&nbsp;Lastly, the math icon in his notes was really cute and interesting, I LOVE IT!",
+      "comment_grading": "GOOD!!<br />25% A range!<br />Nobody gets D/F this semester as nearly all of us performed well ;)<br />Me<br />HW(10%, only 2 out of 4 counts) 9.65/10<br />MT(40%) 89/100 (mean ~70)<br />FINAL(50%) 88/100 (mean ~78)<br />GRADE: A- (overall above ~1sd, overall mean ~76 sd ~12)<br /><br />MT was a bit hard but the final was really easy. And the TAs were really lenient, If you try your best to complete all problems even if you are unable to figure out the final answer you can still get most of the points. =)",
+      "comment_workload": "Quite light. <br />What you have to do is to submit at least 2 pieces of HW, and try to understand and memorise what the notes is saying. The concepts can be understood pretty easily if you attend lectures.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ZKWhFbROBAJKYbzpfLjwLtIASEGQ0kBb",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 39,
+          "name": "HUANG, Xuhui",
+          "rating": 1
+        }
+      ],
+      "author": "R_Liaw",
+      "date": "Jun 04, 2018",
+      "title": "",
+      "comment_content": "over simplified, skipped many math and physics details.<br />many topics were touched in general chemistry I.<br />Overall is too easy and too brief.<br /><br />Topic 1: Background of Quantum Mechanics model: quantization, wave-particle duality, uncertainty principle.<br />Topic 2: QM theory, operators and wavefunctions for translation, vibration, rotation.<br />Topic 3: Solving schrodinger equation for H-like system (focus in interpreting the solution), Many-electron atoms (electron configuration and related rules, orbital approximation)<br />Topic 4: QM description of molecule in valence bond theory, molecular orbital theory and Huckel&#039;s approximation",
+      "comment_teaching": "Prof Huang is one of my favourite instructor in chemistry department.<br />He tried his best to make sure majority of the class can follow.<br />There is a review lecture after every topic, with many sample question and exercise. If you go to class and attend the lecture, there is no way you cannot catch the key ideas.<br />His accent and tone is also one of the best in chemistry department.<br />He provided lecture video but I strongly recommend you to attend his lecture.",
+      "comment_grading": "A+\t(5)\t&gt;94.1<br />A\t(7)\t&gt;90.6<br />A-\t(11)\t&gt;86.65<br />B+\t(25)\t&gt;78.35<br />B\t(18)\t&gt;73.15<br />B-\t(7)\t&gt;67.6<br />C+\t(7)\t&gt;60.1<br />C\t(11)\t&gt;48.45<br />C-\t(1)\t&gt;43.1<br /><br />average\t76.6<br />\tsd\t12.8<br />total 92 students",
+      "comment_workload": "4 assignments, only 2 out of 4 with highest scores will each contribute 5% to final grade<br />midterm 40%<br />final 50%<br /><br />midterm and final are quite similar to homework, in-class exercise and examples in review session.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "0FUkwLaAiJL92SvZ3Y9l8AKeOmJS3VGR",
+          "name": "grade distribution",
+          "format": "jpg"
+        }
+      ]
+    },
+    {
+      "hash": "Sxez4ApVbXfl2LwcZnTd33XCz5TbXEUd",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 39,
+          "name": "HUANG, Xuhui",
+          "rating": 1
+        }
+      ],
+      "author": "H_Barnes",
+      "date": "May 24, 2017",
+      "title": "Good content with a good professor willing to interact with students",
+      "comment_content": "Introduction to Quantum Theory, wave-functions, quantum theory of motion, vibration, rotation. <br />Hydrogen physics, atomic/molecular systems and structures and spin. <br />Solving the hydrogen/hydrogenic Schrodinger&#039;s equation to obtain the orbital structure/energy/angular momentum, etc. <br />Molecular orbital, the variational principle and Huckel theory. <br /><br />Overall not too hard stuff but with lots of physics concepts and some maths included. <br /><br />My opinion is that it is not detailed enough about the content on spin. <br /><br />Textbook: Atkins Physical Chemistry 10th Edition",
+      "comment_teaching": "Professor Huang&#039;s teaching is quite interesting and he gives the explanation of the key concepts in a very detailed way. Though not every time the students can understand but at least I know he is trying his best to explain and teach us. <br />One time he uses a simile of the Pokemon Go game to explain the relationship with eigen-function and eigen-values. This is a quite interesting part. <br />After first few lectures, he spent half of the class period distributing a questionnaire to let us list the pros and cons of his way of teaching to make improvement and that was an impressive lecture. He also let us vote for the date for the date of the midterm exam and so the atmosphere was quite relaxed and free. <br />He sometimes asked some simple questions in class to review the previous class and invited some volunteer to answer him or write the math/calculation on the whiteboard. <br /><br />Overall his lectures were quite easy to understand and his way of teaching was detailed and interesting.",
+      "comment_grading": "Very good grade. <br /><br />Midterm: 40%<br />Final: 50%<br />Assignment: 10%(2*5% for the two highest out of four assignments. )<br />midterm mean score = 67 and sd = 14<br />final mean score = 76 and sd = 13<br /><br />(The final exam is quite easy and straightforward so the overall score is fairly high. )<br /><br />Grade Stat: Total 75<br />A: 18&nbsp;&nbsp;&nbsp;24.0%<br />B: 40&nbsp;&nbsp;&nbsp;53.3%<br />C: 16&nbsp;&nbsp;&nbsp;21.3%<br />I: 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3%<br />Class average is 75.2/100 and the standard deviation is 12.4.",
+      "comment_workload": "Very little workload. <br />Only 4 assignments (with around 7 questions) throughout the semester and the questions are simply some review questions and simple, to let you apply some of the concepts taught. Usually we have weeks to complete them so it is not a rush. <br /><br />He would release some review note/additional exercise and lecture video to facilitate our revision for the exams. So overall the class progress is easy to follow and so it is not stressful to revise for the final LOL. Therefore there is no high workload for this course.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "o2OrQcyFjyBYyaaQj8HdwjnVB0uE8ZVl",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 39,
+          "name": "HUANG, Xuhui",
+          "rating": 1
+        }
+      ],
+      "author": "ning",
+      "date": "Apr 14, 2017",
+      "title": "Good",
+      "comment_content": "Book: Physical Chemistry: Thermodynamics,Structure and Change(Tenth Edition)<br />This course covers:<br />Topic 1.Introduction to Quantum Theory (Chapter 7);<br />Topic 2.The Quantum Theory of Motion (Chapter 8);<br />Topic 3.Atomic Systems (Chapter 9);<br />Topic 4.Molecular Structure (Chapter 10).<br />This course includes the Schrödinger equation, so it contains a lot of knowledge about Mathematics.<br />(Math 1014: Chapter 7,11.10, 12.2, 12.3~12.4, 14.3, 14.5, 15;<br />Math 2011: Chapter 1.2, 3.4, 3.5, 3.8, 4.3;<br />Math 2351: First order equations, Second order equations, Separation of variables.)",
+      "comment_teaching": "Professor made a questionnaire after assignment 1 to let us list the advantages and disadvantages of teaching, and professor changed according to the disadvantages. <br />The lecture was interesting and easily understood. Professor gave a lot of examples to explain some difficult theories, like use Pokemon GO to explain eigenvalues and eigenfunctions. There may be one or two questions in the class, the professor will give about 3 minutes to ask volunteer to write the answer process.",
+      "comment_grading": "Midterm:40%<br />(cover Topic 1 &amp; 2)<br />Final exam:50%<br />(cover Topic 3 &amp; 4)<br />Assignment:10%(2*5%)<br />(Two highest out of four assignments)<br />midterm: the average is 67.1 and the standard deviation is 14.7.",
+      "comment_workload": "Less workload, only has 4 assignment. Self test and answer will be given. The answers of the question on text book are also given.<br />Total 4 assignments, each Chapter has one, each assignment 100 points. Deadline is a week after finishing each Chapter. In assignment 1, there are 10 questions. However, during the questionnaire, a lot of student advice reduce the number of questions, and give some optional self exercise. After changing, assignment 2~4 has 6~7 questions. Meanwhile, because the grading only depends on 2 highest grades, you only need to submit at least 2 assignments.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

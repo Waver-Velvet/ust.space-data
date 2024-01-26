@@ -1,0 +1,832 @@
+{
+  "course": {
+    "id": 801,
+    "subject": "LIFS",
+    "code": "3160",
+    "name": "Ecology",
+    "description": "Basic principles and patterns of ecology; population growth; community interaction; ecosystem; ecosphere.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.35,
+    "rating_teaching": 4.4,
+    "rating_grading": 4.25,
+    "rating_workload": 4.5,
+    "review_count": 20,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 230,
+        "name": "CHAN, Kit Yu Karen",
+        "count": 11
+      },
+      {
+        "id": 235,
+        "name": "LAU, Stanley Chun Kwan",
+        "count": 9
+      },
+      {
+        "id": 227,
+        "name": "KO, Ice Wai Ping",
+        "count": 8
+      },
+      {
+        "id": 1090,
+        "name": "YAU, Sin Ting Cynthia",
+        "count": 7
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "cR3H3TxmpEoeRxl39mXSV3meNuZadWxe",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1090,
+          "name": "YAU, Sin Ting Cynthia",
+          "rating": 1
+        }
+      ],
+      "author": "hychan0215",
+      "date": "Jan 30, 2023",
+      "title": "",
+      "comment_content": "To learn the basic understanding of ecology, which includes organism-environment interactions, the characteristics <br />of populations as a basic biological unit in an ecosystem, intra- and inter-specific interactions, and community ecology.<br /><br />Very easy, could read it by yourself and understand all of them. No assignments. 19 notes for this semester. Actually, it should be more.<br /><br />For the mid-term and final exams, you only need to read all notes for two to three times and remember all the details, then you could know how to answer all questions. Only the information which has been written on the notes would be tested. No more extra things tested out of the notes. Before the final exam, the instructor told us that some trick questions have been added and would be harder. But all of them are still easy and haven&#039;t found those trick questions. I just use about 15-20 minutes to finish it and leave.",
+      "comment_teaching": "very detailed, and give some extra information. Good pronunciation and normal speed. With videos for the supplement of notes.",
+      "comment_grading": "A+ for me.<br />Mid-term: 45/50 <br />Mean: 36.1<br />Low: 20.0<br />High:46.0<br /><br />Mid-term 50%<br />Final exam 50%<br />No idea about the grading scheme",
+      "comment_workload": "No assignment. Only mid-term and final exam with MCQs only. Two lectures per week.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "LbdMu5Ea6wMrE9Rz3fMb6zo5li7YS1eG",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 227,
+          "name": "KO, Ice Wai Ping",
+          "rating": 0
+        },
+        {
+          "id": 1090,
+          "name": "YAU, Sin Ting Cynthia",
+          "rating": 1
+        }
+      ],
+      "author": "I don't know",
+      "date": "Mar 19, 2022",
+      "title": "Not Hard Course, everyone can handle it",
+      "comment_content": "Very easy to understand, not hard, but you have to have a good memory. <br /><br />I take the course F2F, if the course is held in real-timem online mode. i believe the exam would become very easy because the exam is 100% from the powerpoint. So no worry.<br /><br />Here is the syllabus:<br />Before midterm:<br />1 Introduction – What is Ecology? Ecological methods&nbsp;&nbsp;<br />2 The Ecology of Hong Kong <br />3 Genetics and evolutionary ecology <br />4 Natural selection, speciation <br />5 Physiological ecology of plants <br />6 Physiological ecology of animals <br /> Behavioural ecology: foraging behaviors <br />7 Behavioural ecology: social behaviors, kin selection, euscociality <br /> Behavioural ecology: mating systems, sexual selection <br />8 5 Oct Life history strategies <br /> 9Oct Demographic techniques and population patterns <br />10 Population growth<br /><br />Final: (ice cold)<br />Competition &amp; Coexistence&nbsp;&nbsp;28 Oct <br />10&nbsp;&nbsp;Facilitation&nbsp;&nbsp;&nbsp;<br />11&nbsp;&nbsp;Predation&nbsp;&nbsp;&nbsp;<br />12 Herbivory&nbsp;&nbsp;<br />13&nbsp;&nbsp;Parasitism&nbsp;&nbsp;<br />14 Island Biogeography",
+      "comment_teaching": "Ko, Ice Wai Ping is very poor in teaching. Her teaching material is not organised adn she intented to say something really important very fast, and spends a lot of time on saying meaningless stuff. <br /><br />One of the feature of Ice Ko is she herself cant even handle a single mathematic equation that a primary school student can understand. <br /><br />Cynthia&#039;s topic is very good and i really enjoyed, just remember all the stuff in her ppt in enough to score high in her exam",
+      "comment_grading": "Fair, <br />midterm: slightly above mean about 0.4sd<br />final : slightly above mean about 0.2-3sd<br />B",
+      "comment_workload": "Very light. One of the lowest workload course in the entire HKUST <br /><br />Only one midterm and one final exam.<br />No assignment is needed",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "snwQuCfl4k99qb4o9G3SmQVWsDOFEfAF",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 235,
+          "name": "LAU, Stanley Chun Kwan",
+          "rating": 1
+        },
+        {
+          "id": 1090,
+          "name": "YAU, Sin Ting Cynthia",
+          "rating": 1
+        }
+      ],
+      "author": "KIKC",
+      "date": "Jan 25, 2021",
+      "title": "",
+      "comment_content": "Before midterm is taught by Cynthia.<br />-Ecological method<br />-Ecology of HK<br />-Natural selection, speciation<br />-Physiological of plants and animals <br />-Behavioural ecology<br />-Life history strategy<br />Due to the time limit, the following topics were not be taught in this semester.<br />-Demographic techniques and population patterns <br />-Population growth<br /><br />After midterm is taught by Stanley.<br />-Competition and Coexistence<br />-Predation<br />-Parasitism<br />-Mutualism<br />-Community structure and dynamics <br />Due to the time limit, the following topics were not be taught in this semester.<br />-Large scale pattern biodiversity<br />-Human impacts on the natural ecosystem",
+      "comment_teaching": "Both professors are quite good. They like to discuss different questions about ecology with students. If students have any questions about ecology which are not in the course, they also discuss with you. :)<br /> <br />Cynthia: She knew lots of knowledge about the ecology. She always shared her experience about different topics. She explained all of the content clearly. Her powerpoint were also well-organised and easy to understand. <br /><br />Stanley: He always plays different videos during the class in order to help you understand more. His powerpoint were also well-organised and easy to understand too. He would have some readings and case studies to discuss with students.",
+      "comment_grading": "50% midterm and 50% final <br /><br />Due to COVID-19, midterm and final were conducted online. The midterm was quite easy and the mean was high.<br />The final was more difficult and the mean was low than midterm.<br /><br />Midterm: 30/38 (mean:31.9/38)<br />Final: 22/38 (mean 23.4/38)<br />Final grade: B-<br /><br />The grade is quite good even though all my midterm and final were below mean.",
+      "comment_workload": "The workload is light. Only one midterm and one final.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "K1B8HOOSuvO3DQbYWe5pAKvoks1u6Ql4",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 235,
+          "name": "LAU, Stanley Chun Kwan",
+          "rating": 1
+        },
+        {
+          "id": 1090,
+          "name": "YAU, Sin Ting Cynthia",
+          "rating": 1
+        }
+      ],
+      "author": "LeaveSoon",
+      "date": "Dec 31, 2019",
+      "title": "Good grade good prof",
+      "comment_content": "1. Ecological method<br />2. Ecology of HK<br />3. Natural selection, speciation<br />4. Physiological of plants and animals <br />5. Behavioural ecology<br />6. Life history strategy<br />7. Demographic techniques and population patterns <br />8. Population growth<br />9. Competition and Coexistence<br />10. Predation<br />11. Parasitism<br />12. Mutualism<br />13. Community structure and dynamics <br />14. Large scale pattern biodiversity<br />15. Human impacts on the natural ecosystem",
+      "comment_teaching": "The lectures were easy to follow and well-explained.<br />The ppts were well-designed with examples and pictures for a better understanding of the concepts.<br />Lots of video watching during lectures and they were fascinating.",
+      "comment_grading": "Mid-term 50%<br />Due to the special arrangement, the final exam format change to Essay writing (50%), through the online submission<br />I took this course in year 2 fall sem, got B grade.",
+      "comment_workload": "No assignment.<br />Only a few case studies",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "kyFdFump8JERXiCxk2gXg7N6kQaDYmwD",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 230,
+          "name": "CHAN, Kit Yu Karen",
+          "rating": 0
+        },
+        {
+          "id": 235,
+          "name": "LAU, Stanley Chun Kwan",
+          "rating": 1
+        }
+      ],
+      "author": "Andy HK",
+      "date": "Jan 15, 2019",
+      "title": "Amazing grading!!!",
+      "comment_content": "Introduction, scientific method, statistics for ecologist<br />genetics and evolution<br />population genetics<br />case study: why are cave fish blind<br />physiological ecology for plant and animal<br />foraging behavior<br />social behavior and group selection<br />evolution of sex and sexual selection<br />case study: poecilogony<br />population distribution and demographic technique<br />life history<br />population growth<br />predation and commensalism<br />parasitism and mutualism<br />community structure",
+      "comment_teaching": "Prof Lau explained all concepts slowly and clearly and in a simple manner.<br />Prof karen chan was not that good.",
+      "comment_grading": "Below 1 SD in mid-term. Final exam score was not released but I know how to do all the questions because final exam was extremely easy. Surprisingly, I got B+ even if my mid-term score is below 1 SD. This is really a miracle&nbsp;&nbsp;and the best Christmas gift. My effort is not worthless.",
+      "comment_workload": "All case studies require some times to understand and digest.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "dHyAS27PLFSyWKfoRYbYnJZVOTbIoAPY",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 230,
+          "name": "CHAN, Kit Yu Karen",
+          "rating": 1
+        },
+        {
+          "id": 235,
+          "name": "LAU, Stanley Chun Kwan",
+          "rating": 1
+        }
+      ],
+      "author": "chyetsch",
+      "date": "Jan 02, 2019",
+      "title": "Karen走之前最後一次教3160",
+      "comment_content": "Before midterm<br />Introduction to ecology<br />Genetics and evolution (Eco-Evo-Devo)<br />Physiological Ecology for Plants<br />Physiological Ecology for Animals<br />Foraging Behaviors<br />Social Behaviors, Group Selection<br />Evolution of Sex, Sexual Selection<br />Population Distribution and demographic techniques<br />Life History<br />Population Growth and Model<br /><br />After midterm<br />Predation<br />Parasitism and mutualism<br />Community Structure<br /><br />4 case study - readings + discussion",
+      "comment_teaching": "Karen教得好好<br />每堂有唔計分IPRS<br />有幾條問題review上堂內容<br />有問題可以即刻用IPRS問，佢會即刻解<br />唯一唔好係佢講得有啲快<br />不過可惜佢唔教UST啦 T.T <br />最後一個Karen教嘅sem T.T<br /><br />Stanley教得唔錯<br />會俾返完整ppt上canvas<br />平均每堂都有video clips睇下<br />雖然小悶但真係教到大部份人明曬先會繼續<br />所以每一個topic都教得好清晰好detail",
+      "comment_grading": "45% Midterm&nbsp;&nbsp;[MCQ and Short Questions, 有cheat sheet]<br />45% Final [MCQ and Short Questions, 冇cheat sheet] <br />10% Case study<br /><br />幾靚Grade，身邊唔少人B range",
+      "comment_workload": "Karen個兩次case study有canvas 5題嘅quiz<br />除此之外 0 workload<br />最多要prep reading同上堂做case study worksheet (4-5 ppl in a group)",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "dBJVDRpYGmAEUBHf6M3EoCpR85dh2Zr5",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 230,
+          "name": "CHAN, Kit Yu Karen",
+          "rating": 1
+        },
+        {
+          "id": 235,
+          "name": "LAU, Stanley Chun Kwan",
+          "rating": 1
+        }
+      ],
+      "author": "whotne",
+      "date": "Dec 28, 2018",
+      "title": "",
+      "comment_content": "Everything is divided into &quot;before midterm (Karen&#039;s part)&quot; and &quot;after midterm (Stanley&#039;s part)&quot;.<br /><br />Karen&#039;s content (by lecture):<br />1) Intro to Ecology<br />2-4) Evolution and Genetics<br />4-6) Physiological Ecology (animals + plants)<br />7-10) Behavioural Ecology (+ eusocial insects which is a bit of genetics + sex)<br />10-11) Life History and Population Structure<br />Case studies: whale diving / cavefish eyes<br /><br />Stanley&#039;s content:<br />- Predation (CS: predation effect on decomposition)<br />- Parasitism and Mutualism (CS: bioluminescent bacteria)<br />- Community Structure (CS: forest to savanna transitions)<br /><br />You can clearly see that Karen&#039;s section has A LOT more content. Karen&#039;s content also requires more background understanding (especially genetics)! DO NOT underestimate the lack of prerequisites, you should know the basics of genetic inheritance and evolution. Apparently someone cried about not understanding this during midterm paper checking.<br />Meanwhile, Stanley&#039;s part was very easy in comparison.<br /><br />tl;dr - If you want to learn ecology, you like Karen&#039;s part. If you were forced to take this course or no english good, you probably prefer Stanley&#039;s part.",
+      "comment_teaching": "Both professors are good at teaching, but for completely different reasons.<br /><br />Karen: Very passionate (esp. about marine invertebrates), loves fish and teaching. Teaches very fast (because there&#039;s so much content). Uses fast, American english which can be hard to follow. Uses iPRS every class to check if students understand, most content is on ppt. Karen is an engaging speaker and I love listening to her lectures.<br />However, she has already left UST so good luck to whoever has to teach her part.<br /><br />Stanley: Teaches very clearly and at normal speed, easy to understand. Doesn&#039;t use iPRS, but only half of the content is on ppt so you must go to class anyway unless you&#039;re a master at 看圖講故事. You don&#039;t need to read the case studies because he will use entire lectures to explain them. Has the full boxset of Planet Earth DVDs, and is not afraid to use it.",
+      "comment_grading": "10% case studies<br />45% midterm<br />45% final<br /><br />I have no idea how case studies are graded. Karen&#039;s part has in-class group worksheets and online quiz (which I failed miserably) but it became 9/10. Stanley&#039;s part I have no clue.<br /><br />Karen&#039;s midterm - 40 MCQ, 10 short ans, 1.5 hours<br />Stanley&#039;s final - 15 MCQ, 3 medium ans, 2 hours??<br />Can finish Stanley&#039;s final in 1 hour if you write fast and try. Difficulty was also completely different. Karen&#039;s midterm is hard, and needs serious thinking. <br /><br />Midterm: 63/90 (mean: 52.2 / sd: 11.5)<br />Final: not sent out, but it was easy<br />Final grade: A",
+      "comment_workload": "Mostly just study for exams.<br />Also need to read Karen&#039;s case studies and do quizzes for those. The quizzes don&#039;t count (probably?? I got like 3/10 in total lol) but the case studies take time to read because they are difficult. Don&#039;t forget to read the methodology part.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "O5G4gOlQHkLeiqwOV2BiS7E2NwGPGXo6",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 230,
+          "name": "CHAN, Kit Yu Karen",
+          "rating": 1
+        },
+        {
+          "id": 235,
+          "name": "LAU, Stanley Chun Kwan",
+          "rating": 1
+        }
+      ],
+      "author": "CY",
+      "date": "Dec 23, 2018",
+      "title": "An Encouraging Story",
+      "comment_content": "Karen Chan (before mid-term exam): <br />Scientific Methods, Statistics for Ecologists <br />Genetics and evolution (Eco-Evo-Devo)<br />Population genetics <br />Physiological Ecology for Plants <br />Physiological Ecology for Animals<br />Foraging Behaviors <br />Social Behaviors, Group Selection <br />Evolution of Sex, Sexual Selection <br />Population Distribution and demographic techniques<br />Life History<br />Population Growth and Model<br /><br />Stanley Lau (after mid-term exam):<br />Predation<br />Parasitism and Mutualism<br />Community Structure",
+      "comment_teaching": "Karen Chan speaks very fast, even when explaining difficult concepts. Some, including me, may not be able to catch up all the time. <br /><br />Stanley Lau speaks in moderate speed and the concepts he introduces are relatively easier",
+      "comment_grading": "Assessment Scheme<br /><br />Case Studies&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10%<br /><br />Midterm exam:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45%<br /><br />Final exam:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45%<br /><br />Personal comment on the exam papers:<br /><br />Mid-term exam result produces a normal distribution and some question are not so straight-forward. Final exam is dangerously easy. Stanley Lau simply changes the content on the slide into a question so all you need to do is to recite the lecture slides. <br /><br />My encouraging result:<br />Mid-term exam below mean approximately 1.5 sd; final exam mark unknown; end up with grade B!!!",
+      "comment_workload": "Very light. As shown from the assessment scheme, the course is only consisted of one mid-term examination, one final examination and two case studies.<br /><br />For each of the two case studies, you need to finish the reading and do a quiz before attending the lesson in which discussion of the reading will be provided.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "LpCoWO6I7xWnpWFWtwc26nV7EyCkOSZd",
+      "semester": "2018-19 Fall",
+      "instructors": [],
+      "author": "florian",
+      "date": "Oct 15, 2018",
+      "title": "easy course",
+      "comment_content": "just use the ppt, textbook doesn&#039;t really help much<br />Relatively easy <br /><br />If you have finished all exercise given, basically you can get a good score. After understanding all the principles behind the math, you would be good. <br />(You should definitely focus on the mid term of this course because the mid term material is much more easier than those in the final)",
+      "comment_teaching": "she uses ppt for all the lectures",
+      "comment_grading": "i got a on my final grade. midterm i got a and for the final i got b.",
+      "comment_workload": "the workload is not that much, you just have to pay attention for your class.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 5,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "WpaQ7GbvMTcRsq6Di5NQwBjoDtzn9jwe",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 227,
+          "name": "KO, Ice Wai Ping",
+          "rating": 1
+        },
+        {
+          "id": 1090,
+          "name": "YAU, Sin Ting Cynthia",
+          "rating": 1
+        }
+      ],
+      "author": "Christine__129",
+      "date": "Jan 23, 2018",
+      "title": "",
+      "comment_content": "Dr. Ko: Interaction between different species<br />Prof. Yau: Information of ecosystem and the intraspecific behavior",
+      "comment_teaching": "Dr. Ko used so many BBC documentaries to grab our attention which most of them are surprisingly interesting. Her ppt is clear and easier to understand. Concept she taught is also simple. Her summary tables is so organised and useful but you need to jot them down on your own as her ppt is different to the one you received. <br /> <br />Prof. Yau ppt is more informative and not that easy to understand if you ditch the classes. As she did so many researches, she has millions of stories to tell which make her lessons more engrossing. Her British accent is so sweet which is also an attractive point ( &gt; v ‧ ).",
+      "comment_grading": "Midterm (45%): 29/45<br />Mean: 24.5, SD: 6.5<br /><br />Final (55%): 34.5/55<br />Mean: 35.6, SD: 6.9<br /><br />Grade: B, unexpectedly good. If you pay much attention in class, you can still get at least this grade even you have not revised much.",
+      "comment_workload": "Same as most of the LIFS course, only midterm and final examination. Therefore the workload is very low.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Fsnn70M4Lwj651vUe65I8o7Yqi32qr5w",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 227,
+          "name": "KO, Ice Wai Ping",
+          "rating": 1
+        },
+        {
+          "id": 1090,
+          "name": "YAU, Sin Ting Cynthia",
+          "rating": 1
+        }
+      ],
+      "author": "2535",
+      "date": "Jan 09, 2018",
+      "title": "Good course",
+      "comment_content": "Dr. Ice Ko&#039;s<br />Interaction between different populations<br /><br />Dr. Cynthia Yau&#039;s<br />Background information about Ecology",
+      "comment_teaching": "Both lectures are very good<br /><br />Dr. Ice Ko would show video in lectures, allowing us to understand the real world of ecology and she would not rush in class, ensuring that most of the students understand the concept<br /><br />Dr. Cynthia Yau speaks with a soft voice with a British accent but she explains the concept better.",
+      "comment_grading": "Midterm (45%): 26/45<br />Mean: 24.5, SD: 6.5<br /><br />Final (55%): 37/55<br />Mean: 35.6, SD: 6.9<br /><br />Grade: B-, not as good as expected",
+      "comment_workload": "Very low, just midterm and final examination<br /><br />Dr. Ice Ko&#039;s part requires understanding only, take very short time to revise<br /><br />Dr. Cynthia Yau&#039;s part requires more memorization and takes more time",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "IVrHWdkmuNV7hVBNIBZIP5TVDbT1ugdw",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 227,
+          "name": "KO, Ice Wai Ping",
+          "rating": 1
+        },
+        {
+          "id": 1090,
+          "name": "YAU, Sin Ting Cynthia",
+          "rating": 1
+        }
+      ],
+      "author": "Minerva",
+      "date": "Jan 09, 2018",
+      "title": "",
+      "comment_content": "- Scientific Methods, Statistics for Ecologists, Biodiversity Revisited<br />- Competition and Coexistence<br />- Facilitation<br />- Predation<br />- Herbivory<br />- Parasitism (*Not taught this semester due to the time constraint)<br />- Population Regulation (*Not taught either)<br />- Genetics and Evolution<br />- Natural Selection, Speciation<br />- Physiological Ecology for Plants<br />- Physiological Ecology for Animals<br />- Foraging Behaviors<br />- Social Behaviors, Group Selection<br />- Evolution of Sex, Sexual Selection<br />- Population Distribution and Demographic Techniques<br />- Life History<br />- Population Growth and Model<br /><br />Not so hard to follow... Personally I felt this course is pretty easy. Memorization and understanding are both important in this course.",
+      "comment_teaching": "Dr. Ko has a strong voice, so it is easy to concentrate on her lecture. Dr. Yau has a softer voice compared to Dr. Ko, but she has articulate pronunciations, so the class is not boring. The two are quite different but both are good professors who are open to students&#039; questions.",
+      "comment_grading": "Midterm 45% (mean 24.5/45 &amp; sd 6.5)<br />Final 55% (mean 35.6/55 &amp; sd 6.9)<br /><br />I got 1.4 sd above mean in midterm and 1.2 sd above mean in final.<br />My final course grade is A-.<br />I expected to get an A, so the grading was not satisfactory for me.",
+      "comment_workload": "Only midterm and final",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "JxRK4LbuxCThCJhptX5Euk8D8vRJSRiI",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 227,
+          "name": "KO, Ice Wai Ping",
+          "rating": 0
+        },
+        {
+          "id": 230,
+          "name": "CHAN, Kit Yu Karen",
+          "rating": 1
+        }
+      ],
+      "author": "ribrit",
+      "date": "Jan 18, 2017",
+      "title": "",
+      "comment_content": "Karen:<br />Introduction<br />Scientific Methods, Statistics for Ecologists, Biodiversity Revisited<br />Genetics and Evolution<br />Genetics and Evolution<br />Case Study: Founder Effect an experiment with lizards<br />Physiological Ecology for Plants<br />Physiological Ecology for Animals<br />Case Study: Climate Change and Range Shift<br />Foraging Behaviors<br />Social Behaviors, Group Selection<br />Evolution of Sex, Sexual Selection<br />Population Distribution and demographic techniques<br />Life History<br />Population Growth and Model<br /><br /><br />Ice:<br />Competition and Coexistence<br />Facilitation<br />Predation<br />Herbivory<br />Parasitism",
+      "comment_teaching": "I truly enjoy the teaching style of Karen. She is eloquent and what she taught was very informative and interesting to me. I know that some found her pace too fast but to me it&#039;s appropriate. Very seldom can you find a lesson hooking, be it ruined by the terrible English or the poor presentation skills of the lecturers. Karen has neither of those problems. However, being an elite like her, she expects more from students-- more interactions and faster responses. She was disappointed when the class didn&#039;t participate actively enough, and could get a bit moody sometimes.<br />As for Ice, the content she taught was much easier and more direct compared to that of Karen. She did present the content clearly but in a really slow pace. I felt that I could just read the content at home without attending the lessons since the content didn&#039;t need much explanation except for the mathematical models. Personally, I prefer Karen to Ice.",
+      "comment_grading": "The grading is reasonable (since getting a B for reaching the mean is considered a &#039;good-grade&#039; course in UST).",
+      "comment_workload": "The workload is normal -- a mid term exam, a final exam and supposedly a few online quizzes on some case studies (which we at the end only did two). The mid term written by Karen allowed a cheat sheet while the final by Ice didn&#039;t. Karen didn&#039;t lie-- the cheat sheet didn&#039;t help much for doing the mid term. It really takes true understanding of the topics to do the exam. As for the final, memorization is the only way out. As the final consisted of only five topics, the more detail you can remember, the better results you can get.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Vl3vEpBvJcOdLFC53mVNmbgweuwAoMs9",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 227,
+          "name": "KO, Ice Wai Ping",
+          "rating": 1
+        },
+        {
+          "id": 230,
+          "name": "CHAN, Kit Yu Karen",
+          "rating": 1
+        }
+      ],
+      "author": "激烈的海膽",
+      "date": "Jan 02, 2017",
+      "title": "A thought provoking course",
+      "comment_content": "Part 1 (Taught by Prof. Karen Chan)<br />1. Scientific Methods, Statistics for Ecologists Biodiversity Revisited<br />2. Genetics and Evolution<br />3. Genetics and Evolution<br />Case Study: Founder Effect an experiment with lizards<br />4. Physiological Ecology for Plants<br />5. Physiological Ecology for Animals<br />Case Study: Climate Change and Range Shift<br />6. Foraging Behaviors<br />7. Social Behaviors, Group Selection<br />8. Evolution of Sex, Sexual Selection<br />9. Population Distribution and demographic techniques<br />10. Life History<br />11. Population Growth and Model<br />(* A little mathematical calculations will be involved in chapter 11)<br /> <br />Part II (Taught by Dr. Ice Ko)<br />1. Competition and Coexistence<br />2. Facilitation<br />3. Predation<br />4. Herbivory<br />5. Parasitism<br />(* All chapters taught by Dr. Ice Ko will include mathematical models, but you don&#039;t have to do the math in final exam)",
+      "comment_teaching": "I think two professors have totally different teaching style.<br /><br />Prof. Karen Chan put more emphasis on interaction between students, she starts lectures with a few iPRS questions to see if students understand what is previously taught. She speaks really fast but students can still catch the stuff up as she will stop sometimes to check whether students understand what she&#039;s talking about. I like her little gags and her enthusiasms of teaching. <br /><br />Dr. Ice Ko is really a different story, if you really know her, you will know it&#039;s her typical teaching style. She really cares about how much did the students absorb from her, she will explain things in detail procedures. To be honest, she is not bad compared to those professors who are really boring. She speaks clearly and a lot of my friends, include me, all agree that it is more easier for them to catch the course materials from Ice&#039;s courses. She could be strict sometimes of course. However, despite of this, she is a nice instructor who is willing to answer students&#039; questions. <br /><br />In general, both professors are not bad and teach students with totally different teaching styles.",
+      "comment_grading": "I got top 10 in both of my midterm and final exams.<br />Midterm: 79%<br />Final: 81%<br />Case study: 92% (I did one MC wrong but I didn&#039;t realize it) <br />Final grade: A+",
+      "comment_workload": "Case Studies&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10%<br />- What you have to do in case studies are reading two journal paper and finish two quizzes on the canvas with unlimited attempts. <br />Midterm exam:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45%<br />Final exam:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45%",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "XuXoz5TnKcjEEpJyVkzNMzgY0104rCuV",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 230,
+          "name": "CHAN, Kit Yu Karen",
+          "rating": 1
+        },
+        {
+          "id": 227,
+          "name": "KO, Ice Wai Ping",
+          "rating": 0
+        }
+      ],
+      "author": "YSA",
+      "date": "Dec 26, 2016",
+      "title": "",
+      "comment_content": "Topics:<br /><br />KAREN:<br />Scientific Methods, Statistics for Ecologists<br />Biodiversity Revisited<br />Genetics and Evolution<br />Genetics and Evolution<br />Case Study: Founder Effect an experiment with lizards<br />Physiological Ecology for Plants<br />Physiological Ecology for Animals<br />Case Study: Climate Change and Range Shift<br />Foraging Behaviors<br />Social Behaviors, Group Selection<br />Evolution of Sex, Sexual Selection<br />Population Distribution and demographic techniques<br />Life History<br />Population Growth and Model<br /><br />ICE:<br />Competition and Coexistence<br />Facilitation<br />Predation<br />Herbivory<br />Parasitism<br /><br />Extremely interesting and fun topics. Excellent structure, organized, with case studies, videos, etc.",
+      "comment_teaching": "Karen is brilliant, one of the best professors at UST. I recommend taking her Ocean Science class as well. Interesting, funny, interactive, explains very clearly (although she goes super fast), and lecture notes are good.<br /><br />Ice can sometimes be too strict about stupid things like entering class late, which shouldn&#039;t really matter at college. Her lectures are decent, not as fun as Karen&#039;s. Lecture notes are excellent.<br /><br />Both the professors&#039; lecture notes are enough for revision, and there is no need to attend any lecture. But Karen&#039;s lectures are so good it&#039;s worth attending even at 9 am.",
+      "comment_grading": "Case Studies (2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10%<br />Midterm exam:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45%<br />Final exam:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45%<br /><br />Case studies are done at home, easy to get full marks in both. Exams are very easy, cheat sheet is allowed for the midterm. Both have MCQ, short questions, and long questions.<br /><br />I got ~1 SD above mean in midterm, &gt;&gt;1 SD above mean in final, full in case studies = grade A.",
+      "comment_workload": "2 case studies take around 15 min each. Exams are very easy. Just memorization of everything from lecture notes.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "k0Alna8X7yJfjZ581vZKKvMpiNcz0w6t",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 230,
+          "name": "CHAN, Kit Yu Karen",
+          "rating": 1
+        },
+        {
+          "id": 227,
+          "name": "KO, Ice Wai Ping",
+          "rating": 0
+        }
+      ],
+      "author": "fierce_bad_girl",
+      "date": "Nov 30, 2016",
+      "title": "",
+      "comment_content": "I&#039;m going to give you a little tl;dr of my review for lazy asses out there:<br />Karen was fucking praise-the-lord amazing, Ice was drop dead terrible. <br /><br />Karen legitly goes through the syllabus, so if you wanna know what she&#039;ll be lecturing on go have a quick skim through the textbook (it&#039;s available online). Her content is great, it&#039;s useful and interesting and by the time she&#039;s done nobody is confused. <br /><br />Ice Ko is obviously clueless at what she&#039;s teaching and essentially reads off the textbook. When she isn&#039;t, she&#039;s either (a) showing us pointless videos of David Attenborough (she&#039;s either fucking him or a prospective leader of his fanclub) or (b) asking us if we understand an utterly moronic concept. On the syllabus it all looks fine and dandy (because Karen wrote the syllabus) but she actually only manages to go through about 3 topics out of 13 because she spends 3 classes on a single mathematical equation.",
+      "comment_teaching": "Karen goes at a hundred miles per hour which I&#039;m fine with, because at least nobody falls asleep. That having been said, she&#039;s good at making everybody understand stuff though, so kudos to her. Responds to feedback, because she has a Q&amp;A section on iPRS before every class and goes through questions people have. <br /><br />Ice is well, a fucking bitch. There&#039;s no other way of describing her, I&#039;m sorry - she could be a preschool teacher (I was being nice, she resembles a preschooler more than a teacher tbh) <br />1. She screams at people for coming in the wrong door<br />2. She screams at people for being 2-20 minutes late (length of tantrum depends on her mood) <br />3. She stops, goes dead quiet and stares at you until you reach your seat. Then she says in an ominous voice &quot;Please see me after class&quot;<br />(Who the fuck does she think she is, the Pope?)<br />I went to every single one of Karen&#039;s classes and maxed out the midterm, and skipped every single class of Ice Ko&#039;s. If it weren&#039;t for Karen I would have given teaching an E.",
+      "comment_grading": "Fair, if not slightly strict. Karen&#039;s paper produces a normal distribution, with the mean at about 50%. <br />Ice Ko&#039;s paper was so easy that half the class blew through it in half an hour.",
+      "comment_workload": "Negligible? I mean you can bring a cheat sheet to Karen&#039;s exam so that&#039;s probably all the revision you need to do for the miderm, and revising for the final is a laugh. Please don&#039;t bother.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 4,
+      "comment_count": 2,
+      "attachments": []
+    },
+    {
+      "hash": "pu21ebb6gdo3cJBuyNX8HTQqYsYBCmhi",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 230,
+          "name": "CHAN, Kit Yu Karen",
+          "rating": 1
+        },
+        {
+          "id": 235,
+          "name": "LAU, Stanley Chun Kwan",
+          "rating": 1
+        }
+      ],
+      "author": "FrancisJohn",
+      "date": "Feb 01, 2016",
+      "title": "Good course for environment lovers",
+      "comment_content": "All the concepts and ideas included in this course are applicable to real life science and provided with examples.<br />I personally enjoyed the course a lot. The instructors demonstrate impressive teaching by truly preparing every next lecture depending on students feedback on previous lecture. <br />There also plenty of video watching and analysing in lectures that students can see how the theories are really happening in real life.",
+      "comment_teaching": "Both instructors are very patient and give awesome lectures that are able to intrigue students&#039; interest in the topic. They both are very friendly and nice that there are always a line of students asking questions after each lecture. The atmosphere in class is superb that are interactions among instructor and students.",
+      "comment_grading": "Very loose grading and fair exam paper. Got an A even just in the upper quarter. Not very sure about the percentage though.",
+      "comment_workload": "there are only midterm and final. what can i say<br />The content are not very heavy and can be very easily understood if you pay attention in lectures.<br />There are no assignments and attendance but as the lectures are fun, you will just keep attending lectures.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "FwXDWqmGtvkSyMi47SzCpewq2TLV1bIU",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 230,
+          "name": "CHAN, Kit Yu Karen",
+          "rating": 1
+        },
+        {
+          "id": 235,
+          "name": "LAU, Stanley Chun Kwan",
+          "rating": 1
+        }
+      ],
+      "author": "Weird Guy",
+      "date": "Jan 26, 2016",
+      "title": "",
+      "comment_content": "A great course. The concepts were very well-taught. The lectures were very engaging and the videos shown helped understand the concepts better. Once in a while, we were asked to read case studies, which were research papers. These were not difficult to read and very interesting. Class discussions were based on these.<br />The materials covered were predation, parasitism, competition, commensalism, Shannon Index, Mate competition, and other aspects of animal behaviour.",
+      "comment_teaching": "The teaching was excellent. Karen explained the concepts clearly and in very good English. She always focussed on understanding of the concepts and not about memorisation. <br />Stanley was a funny instructor. He explained the concepts in a simple manner that every student in class could understand.",
+      "comment_grading": "Getting a mean score in both the midterm and final would give one a C+. So, one would have to work really hard to get a good grade in this course. <br />There is a 50-50 weightage for the midterm and final. <br />The midterm is based on the concepts taught by Professor Karen. She focuses on the understanding of the concepts. You will do really badly in her exam if you focus on memorising the material! She allows a cheat sheet for the exam. However, it is not helpful as no direct questions are asked. <br />The final covers the concepts taught by Professor Stanley. The final could be dangerously easy, which could lead to a very high score as the mean.",
+      "comment_workload": "It is only a midterm and final. Remember to attend lectures and understand the concepts well. One could also read the research papers as they are very interesting and can help one understand and appreciate animal behaviours.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "39BNlB3NDzG0DJxHlOHVzQKwj3wRz2pE",
+      "semester": "2015-16 Fall",
+      "instructors": [],
+      "author": "Ji Hoon",
+      "date": "Jan 21, 2016",
+      "title": "Decent course",
+      "comment_content": "Content was great. Very interesting concepts were taught in class. Class content is very applicable to any human or animal behaviour you may observe. Content is decent for the midterm and final.",
+      "comment_teaching": "The teaching done by both professors is interesting. Both professors have different styles of teaching however the style drew my attention in class.",
+      "comment_grading": "Stanley said that grading would be lenient however it was much harsher than expected. Mean is a C+ in this course, as that is what I received for doing average and getting mean results in both midterm and final.",
+      "comment_workload": "Workload is great. Not too much however for the final, the lack of enough content after the midterm has serious affects on the finals if you do not study thoroughly enough. Missing out on marks and having small mistakes will cause your grades to drop a large amount.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 2,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "1QpSCSyGubvEjQxi1VZfQaswHM6sHtEP",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 230,
+          "name": "CHAN, Kit Yu Karen",
+          "rating": 1
+        },
+        {
+          "id": 235,
+          "name": "LAU, Stanley Chun Kwan",
+          "rating": 1
+        }
+      ],
+      "author": "kentanggoreng",
+      "date": "Dec 22, 2015",
+      "title": "",
+      "comment_content": "Very interesting course. It is unique compared to other LIFS courses because there are case studies involving research papers. Once in a while you have to read a paper and that paper would be discussed in class. I found this really useful. The core content itself is also very interesting, you would learn everything from biodiversity, competition, predation, statistics, evolution, genetics and reproduction.",
+      "comment_teaching": "Karen is brilliant --- can&#039;t say less than that. Hands down the best instructor of my 5 semesters in HKUST. Her English is fluent, clear and crisp. She asks loads of questions and she tries her best to make sure students understand her. She&#039;s a bit fast and she covers A LOT of content so you might struggle to catch up to her pace.<br />Stanley on the other hand, is very slow and mild. He&#039;s also good and engaging in class, very clear and friendly in person.",
+      "comment_grading": "Grading is alright as you study adequately. The instructors are great and the lecture notes are also clear and sufficient for the exams.",
+      "comment_workload": "50-50 midterm finals. Karen&#039;s exam was difficult. You could bring a cheat sheet but it was proven to be useless because deep understanding of the topics is needed to excel in her exam. Stanley&#039;s was much easier, everything was covered in class.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

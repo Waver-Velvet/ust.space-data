@@ -1,0 +1,75 @@
+{
+  "course": {
+    "id": 3671,
+    "subject": "IEDA",
+    "code": "4510",
+    "name": "Systems Risk Management",
+    "description": "This course seeks to develop the knowledge and analytical skills for risk management in operations. It covers different technical approaches for systems risk management, such as evaluating and modeling risk from data, making robust operational plans, preparing contingency plans, and generating disruption recovery solutions. These methodologies are introduced with applications in different industries such as services, logistics, and IT.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2230,
+      2130
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"IEDA\" data-code=\"3010\" href=\"/review/IEDA3010\" target=\"_blank\">IEDA 3010</a> AND <a class=\"course-link\" data-subject=\"IEDA\" data-code=\"3250\" href=\"/review/IEDA3250\" target=\"_blank\">IEDA 3250</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1596,
+        "name": "YANG, Shuoguang",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "lB24D6Irm8BMPjclPiCd7ECibPu8dkZh",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1596,
+          "name": "YANG, Shuoguang",
+          "rating": 1
+        }
+      ],
+      "author": "offergod",
+      "date": "May 30, 2022",
+      "title": "A Good Grade Course",
+      "comment_content": "Efficient Frontier<br />CAPM<br />Banks<br />Insurance Companies and Pension Plans<br />Hedge Funds<br />Derivative<br />Valuation and Scenario Analysis - risk neutral and real world<br />Greek Letters<br />Interest Rate Risk<br />Volatility - ARCH, EWMA, GARCH<br />Correlations and Copulas<br />VaR and Expected Shortfall<br /><br />Seems have lots of contents, but they are quite easy to understand if you have some financial knowledge before. For my case, I have studied IEDA4331 and 3330 before, which have lots of overlap to this course, and 4510 is easier than 4331. So if you have taken FE course before, this course will be easy for you. For non-FE student to take this course, you better reserve some time for revising before exam.",
+      "comment_teaching": "tbh I only attended 2 lessons. Prof Yang explained things clear, but he has a strong accent, and his speaking speed is a bit slow, so i gave up. The lecture notes are clear and understandable, so its ok to self study. Also content of each topic is not that long. Maybe reserve around 1 week before exam already enough. <br />Before the exams, prof will release practice questions and sample exam for us to practise. Do recite the steps and the details of the questions because the exam is very similar to these materials, especially sample exams.",
+      "comment_grading": "For IEDA courses, the mean usually lower. So its easy to get above mean. For me, I got 91/100 for hw1 (mean 82.2), 90/100 for hw2 (mean 86.1), and 75/100 for mid term (mean 66.4). I dun know the marks of final exam but i think it should be quite similar to the mid term result. And my grade is A-. For an engineering course, I think the grade is good.",
+      "comment_workload": "only 2 homework. hw1 has 10 questions, hw2 has 5 questions. Both are easy to found from the lecture notes. Also there are 1 mid term and final, the questions are almost same with the practise questions. This semester is online mode, so we have the online exam, open book and open notes, so it is easy to get high mark. However, the mean of this course is quite low. So it is easy to get a good grade. For a 3 cred course, the workload is really low.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "course": {
+    "id": 478,
+    "subject": "HART",
+    "code": "1020",
+    "name": "Introduction to Experimental Drawing",
+    "description": "This course aims at bringing to students a broadened understanding of drawing through taking a fresh and experimental approach to the study of various media. Students are guided through a discovery journey of drawing to learn how to \"read\" drawings, how lines and space are organized, what visual effects or concepts are communicated, and to develop a creative approach in problem solving. They will experiment with line, tone, texture, scale and composition, and work with different media and tools to approach a broad range of subjects from still life to abstract pattern.",
+    "categories": [
+      "Common Core (Arts)"
+    ],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      1930,
+      1510
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4.5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 280,
+        "name": "WONG, Wai Yin",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "5n76M9jf9n9EfbA1Wu8jBorWg7nkYx5J",
+      "semester": "2013-14 Fall",
+      "instructors": [],
+      "author": "YunJi",
+      "date": "Feb 02, 2016",
+      "title": "Introduction to Experimental Drawing",
+      "comment_content": "Class was quite small and the instructor was nice. I really enjoyed the course. <br />Class was very relaxed without strict regulations. My class was at 9 am but most of the people came in 5~10mins late. There was one major artwork exhibition, and it was fun doing it.",
+      "comment_teaching": "We don&#039;t actually get to learn anything (skills), but we got to try a new way of drawing such as drawing without looking, drawing with one single line ...etc and it was very interesting.",
+      "comment_grading": "Grading was ok.",
+      "comment_workload": "No heavy workload. As long as you finish your works during class, no need to do any additional work outside class.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "cvwmXcxlEOEwt68d7RtUcVwNXRumXzNX",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 280,
+          "name": "WONG, Wai Yin",
+          "rating": 1
+        }
+      ],
+      "author": "Shingaling",
+      "date": "Jan 16, 2016",
+      "title": "",
+      "comment_content": "3次assessment<br />加十分Informal既presentation介紹下你個artwork<br />有Attendance<br />最後有final exhibition.<br /><br />其實只系第一次assessment 可能要動筆畫下野，<br />其餘兩次都可以用剪剪貼貼完成 <br />呢個course 都唔會話可以點屈機法",
+      "comment_teaching": "幾好人，<br />一開始可能會覺得有d奇怪<br />但耐左之後發覺 其實Instructor 同 TA 都d gag",
+      "comment_grading": "唔錯的。<br /><br />我畫工非常一般，<br />本身好抗拒畫畫呢d，<br />只系想take 呢個course 玩下<br /><br />上足堂，整下d artwork<br />最後B+<br /><br />完~",
+      "comment_workload": "我覺得系零。<br />上堂已經可以做曬d野，<br />可以當系上美勞堂，放鬆下自己，<br />做下剪貼，聽下instructor 同TA d 幾gag既對話",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

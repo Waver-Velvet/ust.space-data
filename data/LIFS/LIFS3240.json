@@ -1,0 +1,230 @@
+{
+  "course": {
+    "id": 804,
+    "subject": "LIFS",
+    "code": "3240",
+    "name": "Introduction to Neurobiology",
+    "description": "Principles of neuroscience with a focus on the systems/neural circuit level. Topics covered will include sensory and motor systems, genetic model organisms, optogenetics, and functional imaging.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030,
+      1930,
+      1830,
+      1730,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"LIFS\" data-code=\"2040\" href=\"/review/LIFS2040\" target=\"_blank\">LIFS 2040</a> OR <a class=\"course-link\" data-subject=\"LIFS\" data-code=\"2210\" href=\"/review/LIFS2210\" target=\"_blank\">LIFS 2210</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.8,
+    "rating_teaching": 4.6,
+    "rating_grading": 5,
+    "rating_workload": 4.8,
+    "review_count": 5,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1084,
+        "name": "SEMMELHACK, Julie",
+        "count": 5
+      },
+      {
+        "id": 493,
+        "name": "CHUNG, Kenny K",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "ep49H9xUxPRMR9ssPEYECDSCkwzQyFRB",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1084,
+          "name": "SEMMELHACK, Julie",
+          "rating": 1
+        }
+      ],
+      "author": "Hhhhhh",
+      "date": "Jun 21, 2022",
+      "title": "Course for good grade",
+      "comment_content": "The contents are easy to handle as they cover mostly the surface of the whole subjects rather than its insights. You may not need to attend the lectures to know everything in the course. Just reading the lecture notes can be sufficient for good grades. <br /><br />Syllabus:<br />4 Feb: Overview; course organization, history of neuroscience<br />9 Feb: Neurons, glia and the resting membrane potential<br />11 Feb: The Action potential<br />16 Feb: Synaptic transmission<br />18 Feb: Structure and evolution of the nervous system<br />23 Feb: The Systems of Smell and Taste<br />25 Feb: The Eye, Photoreception<br />2 Mar: Problem set due. Midterm review (review problem set)<br />4 Mar: Retinal circuits<br />9 Mar: Midterm<br />11 Mar: Visual cortex<br />16 Mar: The Auditory system<br />18 Mar: Vestibular system and Group project info; how to read and present a paper<br />23 Mar: Touch and temperature sensing<br />25 Mar: Group project ; attendance required<br />30 Mar: Spinal control of movement<br />1 Apr: Brain control of movement<br />6 Apr: Molecular and cellular mechanisms of memory<br />8 Apr: Memory Systems<br />20 Apr: Student presentations<br />22 Apr: Student presentations<br />27 Apr: Student presentations<br />29 Apr: Student presentations<br />4 May: Student presentations<br />6 May: Office hours<br />11 May: Review Session",
+      "comment_teaching": "Good. She is willing to answer every student&#039;s questions. She talks about every aspect carefully and detailedly.",
+      "comment_grading": "This grading is very good for LIFS courses.<br />Mid-term and final exams can be a little bit rush for closed book exams, so try to remeber some of the concepts before the exams. Don&#039;t just rely on the notes during exams. <br />The grading for the project was a lil bit strict. It was based on the errors made by the whole team.<br />The marking scheme for the project:<br />1. Background (15%) Was all necessary background given in order for students in the class to understand the paper? Was what was known about the topic explained? <br />2. Figure presentation (45%) Were the figures clear to students in the class? Were the key points from the figures highlighted? Was the overall meaning of the figures explained? <br />3. Conclusion (15%) Was the significance of the paper/caveats/later developments discussed? <br />4. Presentation Skills (20%) Were the slides clear and unified in style? Did members of the group speak clearly and at a reasonable speed? Did the presentation flow well?<br />5. Question handling (5%) Were clear answers given when possible?",
+      "comment_workload": "2 problem sets before mid-term and final respectively (5%)<br />Mid-term (30%) (open-book)<br />Final (40%) (open-book)<br />Project (25%)<br />All problem sets, mid-term, and final are easy to handle if you put some effort in the course.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "veWLba4ogn2BtCJIdRVqxmyyyKnveHXE",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1084,
+          "name": "SEMMELHACK, Julie",
+          "rating": 1
+        }
+      ],
+      "author": "letmegohome",
+      "date": "May 18, 2022",
+      "title": "Julie is super nice and responsible",
+      "comment_content": "4 Feb: Overview; course organization, history of neuroscience<br />9 Feb: Neurons, glia and the resting membrane potential<br />11 Feb: The Action potential<br />16 Feb: Synaptic transmission<br />18 Feb: Structure and evolution of the nervous system<br />23 Feb: The Systems of Smell and Taste<br />25 Feb: The Eye, Photoreception<br />2 Mar: Problem set due. Midterm review (review problem set)<br />4 Mar: Retinal circuits<br />9 Mar: Midterm<br />11 Mar: Visual cortex<br />16 Mar: The Auditory system<br />18 Mar: Vestibular system and Group project info; how to read and present a paper<br />23 Mar: Touch and temperature sensing<br />25 Mar: Group project ; attendance required<br />30 Mar: Spinal control of movement<br />1 Apr: Brain control of movement<br />6 Apr: Molecular and cellular mechanisms of memory<br />8 Apr: Memory Systems<br />20 Apr: Student presentations<br />22 Apr: Student presentations<br />27 Apr: Student presentations<br />29 Apr: Student presentations<br />4 May: Student presentations<br />6 May: Office hours<br />11 May: Review Session",
+      "comment_teaching": "Julie is EXTREMELY nice.<br />Her slides are well organized, and she is willing to answer any questions during the lecture.<br />Unlike most ust professors, I think Julie is a great teacher.",
+      "comment_grading": "5% Problem Set (everyone gets full marks<br />30% Midterm 92/100<br />25% Group project 95<br />40% Final 96/100<br />Final grade: A<br />Means for mt and final are both around 85%<br />Exams are easy and they are both open-book and open-internet.. <br />For the group project, the mean is also very high since Julie tends to give everyone a nice score.<br />Btw the gp project is about presenting a paper related to the course content, and as long as you put in some time, it would not be so hard(she picked some relatively short and simple paper for every group and she organized discussion session to make sure each gp grasp the correct main idea of the literature)(also you are allowed to read a script",
+      "comment_workload": "Very light.<br />Besides the slides, only a problem set which accounts for 5% is graded.<br />Also, the content is simple(afterall its an intro course) and interesting, I really enjoyed studying this course.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "th9ror9y4EG5l5TLZ1v3cLu09PzzEYbE",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 1084,
+          "name": "SEMMELHACK, Julie",
+          "rating": 1
+        }
+      ],
+      "author": "3nny",
+      "date": "Jun 08, 2021",
+      "title": "Julie is good!",
+      "comment_content": "Pretty similar to those mentioned in other reviews, just some intro content of neuroscience:<br /><br />1 Feb: Overview; course organization, history of neuroscience<br />5 Feb: Neurons, glia and the resting membrane potential<br />8 Feb: The Action potential19 Feb: Synaptic transmission<br />22 Feb: Structure and evolution of the nervous system<br />26 Feb: The Systems of Smell and Taste<br />1 Mar: The Eye, Photoreception<br />5 Mar: Problem set due. Midterm review (review problem set)<br />8 Mar: Retinal circuits<br />12 Mar: Midterm<br />15 Mar: Visual cortex<br />19 Mar: The Auditory and Vestibular systems<br />22 Mar: Group project info; how to read and present a paper<br />26 Mar: Group project breakout rooms (attendance required)<br />29 Mar: Touch and temperature sensing<br />9 Apr: Spinal control of movement<br />12 Apr: Brain control of movement<br />16 Apr: Molecular and cellular mechanisms of memory<br />19 Apr: Memory Systems<br />23 Apr: Student presentations<br />26 Apr: Student presentations<br />30 Apr: Student presentations<br />3 May: Student presentations<br />7 May: Review Session",
+      "comment_teaching": "Julie is very nice and very approachable. Because this semester we are still having online mode, she would log in to Zoom 10 mins earlier for those who have questions or too shy to ask during class. <br />She also cares a lot about her teaching, and had sent out surveys for comments on her teaching as well as&nbsp;&nbsp;to check if the format of the examination is ok for most of the students. The time for the final exam is actually extended because some students say in the survey that the midterm was a bit of a rush. So filling out her surveys definitely helps.",
+      "comment_grading": "Good grade :) Got A finally <br /><br />5% Problem Set (almost everyone gets 100% as you have unlimited attempts and gets the correct answer after answering once)<br />30% Midterm (T/F and MCQ) - Mean 82, high 98<br />25% Group project - mean 92, high 95<br />40% Final (T/F and MCQ) - Mean 91, high 100<br /><br />Btw, this year she gives A+ to those who score overall 97-100",
+      "comment_workload": "As about 6 classes are around paper presentation (1 for how to present, 1 for class group discussion, 4 for actual presentation), the overall content is not too much. Also, Julie will have a review session before midterm and final, so if you come to the review sessions, the workload on review for the exams is definitely reduced a lot.<br /><br />For the group presentation, besides reading the paper and making the PPT slides, my group&#039;s discussion took around 3 meetings, each around 2 hrs. But efforts will pay off!",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "lRCJeusGbWyzRzc3ulBV7S1AbG6AQ3Q3",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 1084,
+          "name": "SEMMELHACK, Julie",
+          "rating": 1
+        }
+      ],
+      "author": "myosin",
+      "date": "Jun 13, 2020",
+      "title": "an introduction of neuroscience",
+      "comment_content": "Feb 21: Overview; course organization, history of neuroscience<br />Feb 24: Neurons, glia and the resting membrane potential<br />Feb 28: The Action potential<br />Mar 2: Synaptic transmission<br />Mar 6: Structure and evolution of the nervous system<br />Mar 9: The Olfactory System and Taste<br />Mar 13: The Eye, Photoreception<br />Mar 16: Problem set due. Midterm review (review problem set)<br />Mar 20: Retinal circuits<br />Mar 23: Midterm<br />Mar 27: Visual cortex<br />Mar 30: The Auditory and Vestibular systems<br />Apr 3: Group project info; how to read and present a paper<br />Apr 6: Touch and temperature sensing<br />Apr 17: Spinal control of movement<br />Apr 20: Brain control of movement<br />Apr 27: Molecular and cellular mechanisms of memory<br />May 4: Memory Systems<br />May 8: Student presentations<br />May 8: Student presentations<br />May 11: Student presentations<br />May 15: Student presentations<br />May 18: Review session",
+      "comment_teaching": "I can say her teaching maybe a bit boring because of her tone of teaching. But the style of teaching is okay and acceptable. It is very easy to follow the content as it is not difficult.<br />The content is very interesting so I highly recommend to you.",
+      "comment_grading": "Result of mine:<br />1. Presentation(25%) 97/100, mean 93, highest 100<br />2. Midterm(30%): 90/100, mean 82, highest 99<br />3. Final(40%): 96/100, mean 84,highest 98<br />4. Problem set(5%): 96/100, mean 86<br />Overall: 94.45%, A<br /><br />Grading is absolute:<br />There is no A+ even if you get 100% in this course.<br />&gt;93%: A<br />90-92.99%: A-<br />87-89%: B+<br />83-86%: B<br />80-82%: B-<br />77-79: C+<br />73-76: C<br />70-72: C-<br />60-69: D<br />below 59: F<br /><br />Grading may be lenient for some people and maybe harsh for some other people. Many people actually get low score so embrace a very bad grade because of absolute grading.<br /><br />Final is much more difficult than midterm. So put more effort on final. If you score higher in final, it can save your grade even though if you perform a bit poorly in midterm.<br /><br />The score for presentation is very lenient. Everyone gets very high score. But you have to spend some time to really digest the research article.<br /><br />But overall, it is a course that I recommend to all of you. Hard work pays off. If you are also interested in neuroscience, then go for it.",
+      "comment_workload": "Many people think this course is light workload, but I don&#039;t think so. I have taken so much time on the project and understand about the article of project. I have spent lots of time to prepare for the presentation and it is quite difficult actually. <br /><br />You have to thoroughly understand all the content in the lectures before you have exams.<br />Prepare well for the long questions. It is very easy to guess the questions. (e.g. action potential)<br /><br />Lots of things you have to remember, especially for final. You have to understand different part of the brain and their function.<br /><br />But one thing you need to remember is that:<br />hard work pays off!<br />Just study hard and you should get a good grade in this course. The questions in exam is very easy and straightforward.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "k1TcgLkTO2omnskbssmSFQldcC5q7XN3",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 1084,
+          "name": "SEMMELHACK, Julie",
+          "rating": 1
+        },
+        {
+          "id": 493,
+          "name": "CHUNG, Kenny K",
+          "rating": 1
+        }
+      ],
+      "author": "ym7135",
+      "date": "May 20, 2018",
+      "title": "Very interesting and insightful course in neuroscience!",
+      "comment_content": "Basically this course used to be taught fully by Kenny Chung, the school then closed this course for 3 years. After the arrival of professor Julie Semmelhack, they revamped this course so it can be taught every Spring. Now professor Semmelhack teaches the majority (over 95% of the content) while Kenny guest lectures only 2-3 lectures in the beginning. I enrolled in this course when it was just re-opened, so I experienced the first run-through of it. <br /><br />Overall this course focuses on brain regions and development, and the different pathways for sensing and motion (CNS, PNS). She approaches the course from looking at behaviours to also focusing on specific ion channels as well, and avoids overlapping with the &#039;Neurochemistry&#039; course.&nbsp;&nbsp;She also describes a lot on experimental techniques and approaches which was a great addition to the course. <br /><br />Chapters:<br />Semmelhack:<br />1. Introduction <br /><br />Kenny Chung:<br />2 - 5.&nbsp;&nbsp;Intro to nerves, action potentials, synapses, EPSP and IPSP, neurotransmitter (these stuff were barely examined, they just helped with the further chapters)<br /><br />Semmelhack:<br />6. Structure of the brain <br />7. Olfaction<br />8. Taste <br />9. Vision (3 lectures) <br />10. Auditory system and Balance <br />[MID TERMS] <br /><br />Semmelhack:<br />11. Somatosensory system <br />12. Motor control (2 lectures) <br />13. Memory and learning (2 lectures) <br />[FINALS] <br /><br />The content was very interesting and very easy to follow; also there were many mini-experiments in class and short fun video experiments too within, and a lot of the molecular mechanisms explain a lot of daily experiences and behaviours (e.g. how we form memories, how we visualize colours). However, there are a lot of mechanisms/pathways, brain regions and specific details to remember. <br /><br />Do not use the recommended textbook, it has over 50 pages per lecture covered (gonna waste so much time); use her lecture notes and lecture videos to study, but you do need to remember everything (not kidding, one sentence on one slide may show up as an MCQ in exams).",
+      "comment_teaching": "Julie Semmelhack:<br /><br />Her teaching was excellent, easily one of the best LIFS professors - the content flowed through very well, and she made a lot of complex pathways/processes easier to understand (e.g. with simplified diagrams and explanation) . There was a good mixture of molecular and behavioural approaches, and a huge focus on experimental research. She was very friendly and open to questions during the lecture. <br /><br />Her exams were also made really well, it came directly from her lecture slides and teaching. The essay questions in her exam was guaranteed to be something she had a discussion in class before. <br /><br />Her teaching however can be a little too fast at times, some students also struggle because her English is fluent and sophisticated ... but you can always watch the lecture videos afterwards. <br /><br />As this was her first time teaching this course, she was very open to input from the class (she would make us write on index cards anonymously after lecture for feedback) - for example, she allowed us to decide on the final chapters, exam difficulty, areas of interest and so on... <br /><br />Kenny Chung:<br />He only guest lectured for a few classes. His teaching was decent and it was mainly on stuff we knew prior to this course. His parts were never examined.",
+      "comment_grading": "5% problem set. <br />30% mid-term <br />25% group project presentation <br />40% finals <br /><br />My grades:<br />100% problem set (mean was 86%)<br />100% for mid term (mean was 86%<br />93% for group project (mean was 87%) <br />96% for finals (mean was 81%)<br />Overall score: close to 97%, Grade: A <br />A+ is like near impossible. <br /><br />Problem set - one is given before mid-terms (this one counts as the 5%), while an optional one was given before finals. This was like a &#039;mock exam practice&#039; because the exam structure is extremely similar (in terms of question numbers, difficulty...) <br /><br />Mid terms - pretty easy if you remember the details, overall it was around 8 True/False, 12 MCQ and 2 essays. <br /><br />Finals - mostly non-cumulative, slightly more difficult because post-midterm content was of greater complexity - 12 True/False, 20 smth MCQs, 3 essays. <br /><br />Group Project- after the mid-term, you will be allocated in groups of 4 to 5 to present one provided journal paper to the class for 15 minutes. <br /><br />Overall, her grading for the project and exams is extremely generous, she tries to maximize everyone&#039;s scores, like some minor mistakes in your essay can be looked passed.",
+      "comment_workload": "Very fair workload - <br /><br />In the first half it was mainly prep for the mid-term, she gave a one week deadline for the first problem set. <br /><br />We were set into groups before the mid-term, and we had 3 weeks after to prep for our presentations. <br /><br />After the presentations, we only focused on 5 chapters for the finals (they are much harder than pre-mid term chapters).&nbsp;&nbsp;<br /><br />Also,&nbsp;&nbsp;her teaching time per lecture was only about 50 minutes; the rest of the time were mainly students further questions (that were not examined). She has lectures to go over the problem set and to for students to ask about the content too.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 3596,
+    "subject": "TEMG",
+    "code": "4952B",
+    "name": "Special Project: Machine Learning and Credit Rating Prediction",
+    "description": "This is a corporate-sponsored project where students will meet with project sponsor regularly to learn wholesale banking business, apply Machine Learning and Data Visualization. Case challenge is “How might we design a Wholesale Banking Portfolio Management (WBPM) Dashboard with predictive scores for default rating for easy manipulation and analysis”  Students will be organized into teams, assigned roles of either front-end, back-end or overall project management, business analysis, quality assurance of code development. This course is for T&M-DDP students only. Enrollment in the project course requires approval of the course instructor.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2040
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 679,
+        "name": "LIN, Betty Fwei-chien",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "6OwT9P1H5SRuxSYlLSZZZ7KGL05nvSXV",
+      "semester": "2021-22 Winter",
+      "instructors": [
+        {
+          "id": 679,
+          "name": "LIN, Betty Fwei-chien",
+          "rating": 1
+        }
+      ],
+      "author": "HKUST is good",
+      "date": "Jan 22, 2022",
+      "title": "Speaking for TEMG4952B/C",
+      "comment_content": "Prototyping solutions for banks. Betty claimed there may be internship opportunities but seems I haven&#039;t heard of one.<br /><br />The course basically falls in the following format:<br />1. Pre-course workshop before the semester begins, workload is around taking an extra 1cred course in the previous semester.<br /><br />2. Team project during the summer/winter break. Multiple peer evaluations are in place and you will be assigned into a 4-5 people group to work out the stuff. Each semester comes with different banks and different topics, some but not all are finance-related.<br /><br />3. Presentation dry-run and final presentation (competition). Different teams will be called to present in front of Betty and a panel of judges. Grades are given according to your performance and your competitors&#039; performances. Betty will pick the winning team, 1st runner-up, MVP of each team, etc. However, winning the competition does not necessarily gives u A or A+ grade, but a &quot;JBL speaker&quot; prize though.",
+      "comment_teaching": "Betty: 7/10<br /><br />Prof. Betty does not teach a lot. She will give out some assignments like Letter of Agreement and Team Charter Agreement. She is pretty strict and picky in grading those items.<br /><br />For the banking content itself, she may get herself confused sometimes and need TA or the team to correct her mistakes. On the other hand, she is helpful and bridge the team with the bank sponsor during the ongoing of projects.<br /><br /><br />Andrew: 8.5/10<br />Andrew is a Year 5 DDP student serving as a Machine-Learning TA for the course multiple times. Andrew has been working in an investment bank. He is very knowledgable and is experienced. He can answer almost&nbsp;&nbsp;any questions related to data analysis or machine learning. The only downside is he is cool and not willing to answer some questions and he will say &quot;this is your job to work it out&quot;. <br /><br />He has held workshops with Akshat and set out some quizzes after his workshop. The quizzes are pretty easy.<br /><br /><br />Boris Tam: 9.5/10<br />Boris is year 4 now and has been the course TA for the second time. Although he is less experienced compared with Andrew, he is very knowledgable. Boris teaches Finance basics (not basics actually, pretty advanced) and he is proficient in finance. Heard from others that he has also got a job offer from investment bank. Boris is very smart and handsome, and is willing to answer any questions and reply to email quickly. He never confused himself even he teaches very challenging concepts. He has once been holding a two-hour tutorial teaching half of the entire semester of FINA3203 contents. <br /><br />The only thing I don&#039;t like him is that he set very tough workshop assignments and quizzes which has the lowest mean every in any TEMG courses.<br /><br /><br />Jacky Tam: 3/10<br />Jacky is a frontend TA and he is in year 5. However, he seems daydreaming and he does not always get to the point where students ask him. He is willing to listen but sometimes he answers in the wrong directions or could not murmur the responses.<br /><br />He has held lecture with Anson. Comparing with Anson, he is perhaps less energetic and just want to &quot;get the work done&quot;.<br /><br /><br />Anson: 7/10 <br />Anson is also a frontend TA, he is a new to being a TA and he is year 4 now. Anson teaches with energy although he was suffering from illness (hope he has got well). Anson speaks clearly but sometimes with a kinda sleepy tone.<br /><br />The frontend quizzes are okay but some questions are perhaps too specific for a student to recall the materials taught.<br /><br /><br />Akshat: 4/10<br />Akshat speaks with an accent and he sometimes does not get the students&#039; confusion. I truly believe he is very smart on his own but he does not effectively transfer his knowledge to students. <br /><br /><br />Samson: 5.5/10<br />Fairly speaking, Samson is just 3rd year and he is still very young. TEMG4952C is the first time for him to be the TA and he still has a lot of things to learn on his own. He is facing teams with year 4 and 5 big brothers and sisters I am sure that he is having some pressures on his own. Samson is passionate but he may be too young to be helpful at some times. He is good in particular aspects like coding with scraping web materials which I believe they are definitely useful. With him being more times of TA in the future, (Andrew and Jacky are graduating, Boris is getting more busy tho I hope he will still be the TA) he can definitely improve his knowledge and teach others well.",
+      "comment_grading": "Very good. I believe whole class got A range unless your teammates wrote shit on your peer evaluation(s).",
+      "comment_workload": "Tbh, not too heavy. It all depends on your team&#039;s goal and when you take it and what you are doing along with it.<br /><br />Summer is lighter than winter due to longer time; also if you are working interns, it will definitely be more challenging. However, just talking about the workload itself considering full time students, I will give an A for a 3 or 4 credit course. The major workload however comes in the project preparation phase where you have something to read, tutorials to attend and work on LOA/TCA. Don&#039;t overload yourself too much in the semester ahead otherwise you will die.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

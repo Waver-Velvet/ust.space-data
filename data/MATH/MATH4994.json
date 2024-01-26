@@ -1,0 +1,79 @@
+{
+  "course": {
+    "id": 2322,
+    "subject": "MATH",
+    "code": "4994",
+    "name": "Capstone Project in Mathematics and Economics",
+    "description": "This is a project-based course that provides students an opportunity to integrate and apply mathematical tools to analyze problems in economics and social science. Specific topics will be chosen by the instructor. For MATH students in their fourth year of study only.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"4991\" href=\"/review/MATH4991\" target=\"_blank\">MATH 4991</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"4992\" href=\"/review/MATH4992\" target=\"_blank\">MATH 4992</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"4993\" href=\"/review/MATH4993\" target=\"_blank\">MATH 4993</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"4999\" href=\"/review/MATH4999\" target=\"_blank\">MATH 4999</a>",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 559,
+        "name": "KWOK, Yue Kuen",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "79l1Z0LelcPWt5kTxijUCA4Xikn9IwjO",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 559,
+          "name": "KWOK, Yue Kuen",
+          "rating": 1
+        }
+      ],
+      "author": "蚊滋",
+      "date": "Jan 21, 2022",
+      "title": "好grade course",
+      "comment_content": "1. Fair allocations and matching schemes 1.1 Criterion for fair divisions<br />- Proportionality, envy-freeness, equitability and efficiency 1.2 Procedures for two-player and multi-player cake-cutting<br />- Discrete cut-and-choose procedures<br />- Continuous moving-knife procedures<br />1.3 Adjusted winner for two-party allocation of discrete goods<br />- Point allocation procedures<br />- Pareto efficiency",
+      "comment_teaching": "有十幾人上 其實都唔難認哂啲同學<br />唔明其實可以問佢 佢都會答得好仔細<br />除咗lecutre notes 佢又會自己寫啲handwritten俾你 之後又會upload番上canvas",
+      "comment_grading": "都俾得好鬆<br /><br />佢講認得樣嘅都已經有好grade<br /><br />midterm同final 又有pastpaper <br />份paper可以提前send俾佢睇 都會俾suggestion你<br /><br />90-minute mid-term test 30%<br />90-minute final examination 60%<br />8-page written report 10%",
+      "comment_workload": "1 paper 1 midterm 1 final <br />Paper 就係將佢睇過嘅第二啲refererce book用你自己嘅理解寫出嚟<br /><br />midterm 同 final 係lecture notes 抽啲concept出嚟 <br />上網有pastpaper做reference<br /><br />上堂聽佢講 唔明番屋企睇多次都夠",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

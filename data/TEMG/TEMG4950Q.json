@@ -1,0 +1,83 @@
+{
+  "course": {
+    "id": 1426,
+    "subject": "TEMG",
+    "code": "4950Q",
+    "name": "Special Project: Consultancy for Online Lending Marketplace, Sponsored by IBM and FinTech’s",
+    "description": "This is a corporate-sponsored project by IBM consulting, GoLend.hk and other P2P Internet Finance companies. Students will learn about banking and loans in the old world and the new fintech world. There will be a field trip to Shenzhen to visit several large-scale internet finance companies’ front office and back office operations.  Students will work in multi-disciplined teams to develop consulting recommendation and each team will be assigned a senior consultant from IBM. Final report will be presented to a panel of judges composed of executives from IBM consulting group and the sponsoring fintech's. Students who successfully complete the course with suitable personality for consulting may be offered internship, 1 year placement or full-time position by IBM Global Business Services. Enrolment requires approval of the course instructor.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      1510
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 3,
+    "rating_workload": 2,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 679,
+        "name": "LIN, Betty Fwei-chien",
+        "count": 1
+      },
+      {
+        "id": 686,
+        "name": "GILDNER, Timothy David",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "8bdgQ9mnkk78wqSNgGaiIaNKa5g8wchX",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 679,
+          "name": "LIN, Betty Fwei-chien",
+          "rating": 1
+        },
+        {
+          "id": 686,
+          "name": "GILDNER, Timothy David",
+          "rating": 1
+        }
+      ],
+      "author": "N/A",
+      "date": "Jan 13, 2016",
+      "title": "",
+      "comment_content": "This course consists of two parts. In part one the instructors teaching us the necessary content which we would have to utilize for part two. Content is unique as it focuses on things which are not usually taught in a classroom setting. eg. how to buy a property, introduction to consulting and fintech. The class was also taken on a field trip to Shenzhen where we visited the offices of several prominent firms. Part two is a business consultancy report in which we have to suggest practical measures to improve the business of our client GoLend Hk. This is where IBM steps in and provides us with mentors to guide the various teams. (The class is split up into random teams of 4-5)",
+      "comment_teaching": "Both the professors are very informative and teach using a variety of interactive methods. These makes the classes fun and not dull as they are three hours long. Furthermore both professors are very approachable and helpful. Having a small class for this course facilitates maximum learning :). Bonus marks to them for helping me focus as I have an extremely low attention span.",
+      "comment_grading": "I gave given grading a C as it is completely dependent upon the individual. Personally I worked extremely hard for this course and ended up getting a good grade.Grading is arbitrary and the instructors have complete control over the grades. This is not a bad thing&nbsp;&nbsp;as they are not restricted to the bell curve grading, so it is completely dependent on the level of dedication and work you put in. The final project is critical for this course as it will make up the bulk of your grade (45%)<br /><br />I wish to add that the lowest grade for this course is a B- and top students can secure internships at IBM. (How cool is that?)",
+      "comment_workload": "Workload is extremely high ,not even a hint of exaggeration here. While part 1 has a decent workload, part 2 is where it reaches extreme levels. Most of this work would be out of class with your teammates in perfecting the final project, which is a long and arduous process. Despite there being no midterm or final, the workload exceeds that of a normal 4 credit course. On the bright side, the course finishes one week before the end of the semester so you would be done before finals start.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

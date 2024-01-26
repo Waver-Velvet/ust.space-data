@@ -1,0 +1,229 @@
+{
+  "course": {
+    "id": 56,
+    "subject": "CENG",
+    "code": "4670",
+    "name": "Pharmaceutical Engineering",
+    "description": "Survey of western pharmaceuticals; pharmaceutical processing technologies including reactions and separations; enantiomers and chiral separations; polymorphs and solid state pharmaceuticals; pharmaceutical dosage forms including tablets, capsules and transdermal patches; traditional Chinese medicine processing.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2030,
+      1830,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"1010\" href=\"/review/CHEM1010\" target=\"_blank\">CHEM 1010</a> OR <a class=\"course-link\" data-subject=\"CHEM\" data-code=\"1020\" href=\"/review/CHEM1020\" target=\"_blank\">CHEM 1020</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.2,
+    "rating_teaching": 3.6,
+    "rating_grading": 4.4,
+    "rating_workload": 4,
+    "review_count": 5,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 37,
+        "name": "LAKERVELD, Richard",
+        "count": 5
+      },
+      {
+        "id": 38,
+        "name": "TONG, Henry Hoi Yee",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "X1sTny9fWKtQab9GQEWojFJFCfGnxg60",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 37,
+          "name": "LAKERVELD, Richard",
+          "rating": 1
+        }
+      ],
+      "author": "Sussi",
+      "date": "Jan 09, 2024",
+      "title": "Good CENG elective",
+      "comment_content": "The content of this course is pretty independent of other courses.<br />It is simple and in my opinion you could even take it even if you have no science/engineering background.<br /><br />The content is not math-heavy at all and is even more dumbed down than even some 2000-level courses.<br /><br />The content is very practical and you can actually apply what you learned about excipients and drugs, etc to daily life (Reading&nbsp;&nbsp;medicine labels). If you have an interest in pharma this is a great course to take.",
+      "comment_teaching": "His teaching is actually OK. I agree with the other comments that his teacher is in-class teaching is rather monotone and he speaks a bit too slowly.<br /><br />Another problem is that he will often go off on a tangent and it can be hard to know if some things are tested on the exam or not - just ask if you are confused.<br /><br />Overall his quality of teaching is quite decent and you can see that at the very least, he is passionate about his teaching. There are many many worse profs at HKUST.",
+      "comment_grading": "Overall my grades were:<br />10% - Tutorial: 8/10 + 0SD (mean:8)<br />20% - 3x Homeworks: 52/60 +1SD (mean: 41.7) <br />20% - Midterm: 89/100 Highest in class (mean:52.9)<br />50% - Final: 77.5/100 +2SD (mean:55.83, highest 86.5)<br /><br />I got an A+, the main differentiating factor is the finals. My tip for this class is to really spend a lot of time revising for the finals as it is cumulative (I spent about 5days watching all the lecture videos).<br /><br />I don&#039;t agree with the other reviews at all on the grading stuff.<br />This is an EASY class and a lot of people don&#039;t put in effort for this class at all. For instance, more than half the class left the final exam an hour early and I only finished at the very last minute.",
+      "comment_workload": "Insanely light. I literally didn&#039;t attend class because it is much easier just to 1.5x the recordings. My preparation for both MT and finals was to just watch all lecture videos and make notes ONCE.<br /><br />He releases in-class tutorials without notifying you, but you can just by doing the PPT and then submitting it. This way you can still score participation even if you are not physically present in class &lt;- So basically no attendance",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "gF4V3Oh88bprj0GOrjPHdmvRE8KDURav",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 37,
+          "name": "LAKERVELD, Richard",
+          "rating": 1
+        }
+      ],
+      "author": "化工之鬼",
+      "date": "Dec 22, 2023",
+      "title": "typical ceng elective",
+      "comment_content": "He didn&#039;t change the content, and neither did the guest lecture.<br /><br />SOOOOOOOOOOOO boring. Gave up listening after September. Reading the lecture slides is already enough.<br />But there are tutorial quizzes(not quizzes but more of a random assignment, where accuracy does not matter but you have to finish and hand it in, then you will get full), so you still have to go to classes.",
+      "comment_teaching": "ok it&#039;s monotone it&#039;s boring it&#039;s not worth paying 3 hours a week to listen. He is well prepared tho but it&#039;s just too boring.",
+      "comment_grading": "extremely lenient. it&#039;s too well that I think Richard pulled down the line for me as we have frequent discussions beyond the classroom, both for class materials and my research development.<br />Homework 20%<br />1. 15/21 (Mean: 15.07) 7%<br />2. 14.5/21 (Mean: 14.39) 7%<br />3. 15/18 (Mean: 12.24) 6%<br />Tutorials 10%<br />10/10 (Almost everyone got full so doesn&#039;t really matters)<br />Mid-term 20%<br />57/100 (Mean: 52.9)<br />Final 50%<br />60/100 (Mean: 55.83)<br />overall grade: B+ (median course mark is 61.1/100, sd 14.4)<br />it&#039;s a brilliant grade right given that I just barely touched the mean line<br />my effort doesn&#039;t worth more than a B tbh",
+      "comment_workload": "Homeworks and exams are not related at all. 3 assignments, just simple comprehension of recent literatures. not much more than that.<br />midterms and finals are closed book.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "oco81on1o1pCHzoiSExbsFSbejMnw4mo",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 37,
+          "name": "LAKERVELD, Richard",
+          "rating": 1
+        }
+      ],
+      "author": "JJLL",
+      "date": "Dec 21, 2022",
+      "title": "Pharmaceutical Engineering -- A good introductory course",
+      "comment_content": "Introduction to Pharmaceutical Engineering:<br /><br />L1: Introduction (Difficulty: Easy)<br />Some basic stuff, such as pharmacodynamics, pharmacokinetics, agonists and antagonists, controversies in generic drugs<br /><br />L2: APIs (Difficulty: Easy)<br />Synthesis pathways, Semenov diagram, Green chemistry (concepts: Atom economy, E-factor)<br /><br />L3: Crystals formation (Difficulty: Easy-Normal)<br />Emphasis on the stable and metastable forms of crystal, Hydrated crystals, co-crystals, crystal shape and size, and introduction of crystal moments and statistics (treating like a dimensional analysis)<br /><br />L4: Industrial formation and separation of API powders<br />(Difficulty: Easy)<br />Explaining mechanisms of primary and secondary nucleation, industrial and laboratory techniques dealing with crystals, including filtration, drying (+ freeze drying)<br /><br />L5: PAT technologies and Continuous Pharmaceutical Manufacturing (CPM) (Difficulty: Easy-Normal)<br />Introduction to PAT technologies, emphasis on feedback method, advantages in CPM <br /><br />Guest Lecture from Aviva: API Manufacturing (Normal)<br />Oral tablets, Excipients: Filler, Wet/Dry Binder, Disintegrants, Lubricants, Glidants, Manufacturing process: Dry+ Wet granulation, Tablet compression, Coating. Problems encountered in manufacturing.<br /><br />L6: Continue from the Aviva lecture (Easy)<br />Further explanation of the precautions of manufacturing pathway, focusing on random mixing.<br /><br />L7: Liquid dosage form (Easy)<br />Solution: The difference in micelles and cyclodextrin<br />Emulsion: Emulsifiers measurement and mechanisms<br /><br />L8: Controlled release (Easy)<br />Basics on controlled release, introduction to specialized&nbsp;&nbsp;release method (hydrophilic gels, hydrophobic matrix, membrane-coated release, osmotic pump)<br /><br />Overall exciting and new course content",
+      "comment_teaching": "Although Professor LAKERVELD&#039;s teaching is a bit boring, he always thoughtfully answers students&#039; questions. He encouraged people to understand the textbook concepts, which was quite helpful to me. I think he can include more case studies in manufacturing to broaden students&#039; horizons on complicated manufacturing processes.<br /><br />Aviva, the guest lecturer, is pretty great at teaching. He used some jokes while teaching complex manufacturing concepts.",
+      "comment_grading": "The mid-term quiz covers Ch 1-5, while the final exam covers everything.<br /><br />Mid-term quiz: (20%)<br />Me: 17.2/20, Average: 11.17/20<br />Final exam: (50%)<br />Me: 42.5/50, Average: 32.13/50<br /><br />Three assignments: (30%) <br />Me: 54.5/60 <br />Result: A+<br /><br />Although it is not a challenging course overall, students need to PAY CLOSE ATTENTION to the lectures since the most tricky and difficult questions require an excellent understanding of the lecture materials, especially the mid-term exam.<br /><br />Both exams involve MCQs and Open discussion questions. MCQs are for tricky concepts, while open discussion questions focus on long calculations and concepts easier than the MCOs. Beware: Long calculation questions require a great understanding of materials rather than memorizing the formulae.",
+      "comment_workload": "Light to medium workload.<br /><br />For the mid-term quiz, you pay attention to lecture materials and revise them. It would be alright.<br /><br />For the final exam, you must memorize and understand all the functions of excipients. Other things would be similar to the mid-term quiz.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "8PYhfWxOwj5AbeXAsObzHrk3G3GM6l71",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 37,
+          "name": "LAKERVELD, Richard",
+          "rating": 0
+        }
+      ],
+      "author": "RIbtSU",
+      "date": "Dec 21, 2022",
+      "title": "Bad Grade engineering course",
+      "comment_content": "Introduction:<br />General principles of drug action and Overview of the pharmaceutical industry<br /><br />Active Pharmaceutical Ingredients (APIs) - Impact, discovery, synthesis, environment, safety<br /><br />Solid-state properties of APIs<br /><br />Industrial formation and purification of APIs<br /><br />Future trends in API manufacturing<br /><br />Solutions, emulsions, and creams<br /><br />Control and modified release",
+      "comment_teaching": "He speaks English in a monotone and in a fast pace and you always find it hard to catch up with what he says. His ppt is not quite useful he expands a lot during the lecture. Also, he assumed you have taken previous ceng courses about separation process (CENG3210 and CENG 2220) before taking this course so the prerequisite of chem1020 is totally fake. The content has much to deal with engineering stuff. If you are Biotech major, I think you better not take this course as an elective. 90% content is about engineering.",
+      "comment_grading": "The grade is not good.<br />Homework (30%, 10% each)<br />Midterm 20%<br />Final 50%<br /><br />HW: 23/30 (Mean: 22/30)<br />Midterm: 12/20 (Mean: 11.3/20)<br />Final: 33/50 (Mean: 32/50)<br /><br />Grade: B-<br />Overall above mean but only B-, sad",
+      "comment_workload": "3 hw, 1 midterm, 1 final<br />For hw, papers are given for you to read and answer his questions. The papers are in an engineering/manufacturing perspective.<br />A lot of calculation questions are involved. If you are not good at maths, dun registers for this course.<br /><br />He said things in guest lectures will be tested but it is fake. None of the stuff is tested.",
+      "rating_content": 3,
+      "rating_teaching": 2,
+      "rating_grading": 2,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "6kqADTpBenHFN2bIqzkrhNzIA7GOklfQ",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 37,
+          "name": "LAKERVELD, Richard",
+          "rating": 1
+        },
+        {
+          "id": 38,
+          "name": "TONG, Henry Hoi Yee",
+          "rating": 1
+        }
+      ],
+      "author": "ahahahahahaha",
+      "date": "Jun 01, 2021",
+      "title": "Learnt a lot",
+      "comment_content": "Introduction: <br />General principles of drug action and Overview of pharmaceutical industry <br /><br />Active Pharmaceutical Ingredients (APIs) - Impact, discovery, synthesis, environment, safety <br /><br />Solid-state properties of APIs <br /><br />Industrial formation and purification of APIs <br /><br />Future trends in API manufacturing <br /><br />Solutions, emulsions, and creams <br /><br />Guest Lecture: Prof. Aviva Chow, Department of Pharmacology and Pharmacy, Li Ka Shing Faculty of Medicine, The University of Hong Kong. Topic: Dosage form design <br /><br />Controlled-release formulations <br /><br />Guest Lecture: Prof. Henry H.Y. Tong (Professor &amp; Program Coordinator, Division of Biomedical Sciences, Macao Polytechnic Institute). Topic: 1) Overview of pharmaceutical industry in Pearl-river-delta, 2) Research and development in generic pharmaceuticals, 3) Drug Development Process<br /><br />(Most interesting topic should be the modified release of drugs)",
+      "comment_teaching": "Professor Richard Lakerveld is a really nice professor. He responds to email quickly and answers very detailedly. He is more of a CENG guy and he works with crystallization for years. He elaborates quite a lot in class. Although sometimes his low monotone makes it harder to concentrate, the lecture video helps you recap what he said in class, and they&#039;re pretty useful. Both guest lectures by Prof. Henry and Prof. Aviva are both interesting. They both have experience in pharmaceutical industry, one works in formulation of drugs in Jacobson and one works as a consultant for investment in pharma industry. All three professors are helpful and knowledgeable and I did learnt a lot in this course. The TA is also very helpful and he responds quickly and in details. He also marks our assignments and HW pretty quick.",
+      "comment_grading": "CENG grading is always fair. As long as you put in effort the grading won&#039;t be too bad. <br />Homework (40%, 10% each)<br />Midterm (20%, 50% MC, 50% LQ)<br />Final (40%, 65% MC, 35% LQ)<br /><br />Homework: 90.5 (Mean: 75.22 , SD: ~6.8 for each HW)<br />Midterm:<br />MC: 7/13 (Mean: 6.56, SD: 2.1, Median: 6.5)<br />LQ: 12/13 (Mean: 10.79, SD: 2.4, Median: 11.5)<br />Final: <br />MC: 57.5/65 (Mean: 43.16, SD: 10.8, Median: 46.3)<br />LQ: 24/32 (Mean: 19.03, SD: 7.7, Median: 19.0)<br /><br />Overall &lt;1 sd above and I got A. I would say it&#039;s pretty good since I expected more of an A- than A. CBE always has good grading though so I think this is fair ahaha.",
+      "comment_workload": "Four homework, one midterm and one final. For 4 HW, you are expected to read three papers and answer his questions. The papers are not too long plus you don&#039;t actually need to read the whole paper, just focus on the parts that can help you answer the questions. Exams are split into MCs and long questions. MCs can be tricky, so make sure you have clear concepts in mind (as long as you pay attention in class, you should be fine). Long questions are calculations and explanations and they&#039;re not difficult.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

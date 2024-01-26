@@ -1,0 +1,203 @@
+{
+  "course": {
+    "id": 2089,
+    "subject": "MECH",
+    "code": "4000F",
+    "name": "Design, Build and Test an Electrical Vehicle (EV)",
+    "description": "Educational psychologist David Kolb has strongly advocated that experiential learning as \"the process whereby knowledge is created through the transformation of experience\". By taking this course the students will come to realise how theoretical knowledge can be applied to real engineering product design and manufacturing through experiencing all 4 stages of Kolb's experiential learning cycle. The core of the course will be taught by demonstrating how a scaled down EV is made and unfolding its design concepts one by one. For that, we will first design and build an EV before the course starts. This demo EV will be developed together with an experienced technician who will be helping to collect EV performance data, compile the BOM, and manufacture or outsource EV components, assemble the whole EV frame incorporating with an electromechanical motor system for transmission, test and debug the EV on the road. Instructor's approval is required.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1630
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3,
+    "rating_teaching": 2,
+    "rating_grading": 3,
+    "rating_workload": 1.5,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 569,
+        "name": "LAM, David Chuen Chun",
+        "count": 4
+      },
+      {
+        "id": 1003,
+        "name": "KO, Chung Nin",
+        "count": 4
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "i0NRLrjrJz5ufuGFuBUvwGi2zITdLaCZ",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 569,
+          "name": "LAM, David Chuen Chun",
+          "rating": 1
+        },
+        {
+          "id": 1003,
+          "name": "KO, Chung Nin",
+          "rating": 1
+        }
+      ],
+      "author": "jason cheung JC",
+      "date": "Feb 14, 2018",
+      "title": "comment of this course",
+      "comment_content": "basically involve:<br />study of basic component of a EV<br />design analysis skill <br />fundamental of SolidWork <br />manufacturing method and technology<br /><br />5-6ppl in one group, one student who are third year will be leader to guide year 2 student",
+      "comment_teaching": "a lot of design &amp; manufacture content<br />content is messy but indeed it can not be avoid as it requires lots of knowledge for design and manufacturing courses",
+      "comment_grading": "no mark will be published<br />2 report &amp;2 presentation<br />good grading half of class can have A range",
+      "comment_workload": "quite high but worth to take this course as it really work like in industry as u will learn more about how to design and method of manufacture",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "PVLzqIgx09eJLNKtPVOefMN4YVJKX22H",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 569,
+          "name": "LAM, David Chuen Chun",
+          "rating": 1
+        },
+        {
+          "id": 1003,
+          "name": "KO, Chung Nin",
+          "rating": 1
+        }
+      ],
+      "author": "Evil",
+      "date": "Nov 02, 2017",
+      "title": "",
+      "comment_content": "***This course is not quite suitable for students with no mechanical engineering background (Year 1/2)***<br /><br />Required 3D modeling using Solidworks.<br /><br />This course focuses on the way how a typical design and manufacturing project is executed in industry. The importance of Voice of Customers (VOC), CTQ and how they can be cascaded down into the different improvement initiatives proposed by the students themselves. In the beginning of the course, a simple EV will be anatomized and explained in details what components are there in an EV and why and how each major component/ subassembly is made and functions. Based upon the VOC and design and manufacturing methodologies behind, each group of students (5-6 persons per group) will have to come up with a working EV based upon the group’s initiatives within the scope defined by VOC.",
+      "comment_teaching": "Include lots of information in every lecture but with messy course schedule. The course is just like a more advanced MECH 2520 course.",
+      "comment_grading": "No scores would be released during and after the course for the log, reports and the presentation.<br /><br />But as far as I know, everyone got at least a B range.",
+      "comment_workload": "You need to write several logs, two project report and a final project presentation.<br /><br />You would need to spend most of your free time on the project.<br />Don&#039;t take this course if you are always busy or overloaded.<br />It&#039;s actually at least a 6 credit course.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "dCpBIP36hEYqbOsMNXc8M2V5Ig4FcapF",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 569,
+          "name": "LAM, David Chuen Chun",
+          "rating": 0
+        },
+        {
+          "id": 1003,
+          "name": "KO, Chung Nin",
+          "rating": 0
+        }
+      ],
+      "author": "Rubbish",
+      "date": "Jun 16, 2017",
+      "title": "Rubbish course ever",
+      "comment_content": "The course is about the design and manufacture of the improvement on the EV. The lecture covers a lot of things such as material selection, fatigue and FEM but most of the content in lecture cannot used in this course.",
+      "comment_teaching": "The teaching is messy as it covers a lot of things and he planned to include several hundred pages of powerpoint in one lecture.",
+      "comment_grading": "The grading is not known for every student as he changed the grading criteria frequently and he assigned a lot of new things. I spent most of my time on this course but the grade was very bad.",
+      "comment_workload": "You need to spend a lot of time and the workload is like a 5 credit course but the professor did not care and you need to go to lecture on Saturday if the professor wanted.",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "FjqOlJ5DRqO9tgbE4nCFpwnw3zcM72wR",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 1003,
+          "name": "KO, Chung Nin",
+          "rating": 0
+        },
+        {
+          "id": 569,
+          "name": "LAM, David Chuen Chun",
+          "rating": 0
+        }
+      ],
+      "author": "Chisino",
+      "date": "Jun 02, 2017",
+      "title": "Sad",
+      "comment_content": "The material are interesting and I did learn something from the course.<br />It is about EV and some basic mechanical knowledge like design and manufacturing that-a we can&#039;t learn from the other courses, also some knowledge about the industry.",
+      "comment_teaching": "I don&#039;t actually know what the prof. is talking during the lecture. But he assume we know it well. And SUPER messy course schedule, after we hand in all of our design, and it finally comes with a DFM lecture.",
+      "comment_grading": "I don&#039;t care other classmates, but I devoted so much into the course and get only a B. Please note that we need to help promote the course before the examination day, for doing such silly and meaningless things.",
+      "comment_workload": "Come and you will know whether it is a 3 credits course or 9 credits course.",
+      "rating_content": 3,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

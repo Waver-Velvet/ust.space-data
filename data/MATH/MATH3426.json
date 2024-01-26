@@ -1,0 +1,186 @@
+{
+  "course": {
+    "id": 900,
+    "subject": "MATH",
+    "code": "3426",
+    "name": "Sampling",
+    "description": "Basic and standard sampling design and estimation methods. Particular attention given to variance estimation in sampling procedures. Topics include: simple random sampling, unequal probability sampling, stratified sampling, ratio and subpopulation and multistage designs.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      1930,
+      1830,
+      1730
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2411\" href=\"/review/MATH2411\" target=\"_blank\">MATH 2411</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.5,
+    "rating_teaching": 4.75,
+    "rating_grading": 4.75,
+    "rating_workload": 4.5,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1118,
+        "name": "YANG, Can",
+        "count": 3
+      },
+      {
+        "id": 1202,
+        "name": "XIA, Dong",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "rnviZXscZhBOuQKoQ6HVtOUJOCcaEAuL",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 1202,
+          "name": "XIA, Dong",
+          "rating": 1
+        }
+      ],
+      "author": "Epione",
+      "date": "Aug 31, 2020",
+      "title": "",
+      "comment_content": "some sampling methods like: <br />simple random sampling, systematic sampling ...<br /><br />within these methods, we learn how to:<br />estimate means, sizes and totals, find confident intervals, biased or not, etc. <br /><br />We learn how to use R (a programming language) in tutorials",
+      "comment_teaching": "It is an online class during the COVID-19, Dong Xia is a great teacher, he explained well and welcome all kind of questions. TA is helpful and the exam contents are all from lectures, so you can expect what will be in the exam",
+      "comment_grading": "fair <br />I recommend you to attend every lesson because what you learn in the lessons and the exam content will be exactly the same.",
+      "comment_workload": "quite fair, about 1 homework for every 2 weeks? <br />final exam required<br />there will be a midterm and a project during midterm weeks, and the professor decided that we can use project score to replace the midterm score this semester",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "s5CdYdaeAgKOMP7GZlFWpNhD3Wzbn34C",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 1118,
+          "name": "YANG, Can",
+          "rating": 1
+        }
+      ],
+      "author": "Stan1ey",
+      "date": "Aug 29, 2019",
+      "title": "Good Statistic course",
+      "comment_content": "Chapter 1. Overview of the sampling and survey process<br />Chapter 2. Simple Random Sampling <br />Chapter 3. Stratified Simple Random Sampling<br />Chapter 4. Systematic sampling<br />Chapter 5. Cluster sampling <br />The chapter after these 5 will not be included in the exam but will be used for the project<br />Chapter 6. James-stein Estimator and Empirical Bayes<br />Chapter 7. Linear mixed models<br />Chapter 8. Introduction to Linear Mixed Models with lmer<br /><br />The content is well-organised and not focusing on proof which is suitable for those who don&#039;t like proof. Besides, the content is useful in different areas such as machine learning and surveying. Besides, professor additionally teaches some skills on interpret the data set which is useful for data analysis.",
+      "comment_teaching": "The teaching style of the professor Yang is interesting. He tries to make the lecture be funny by asking students to answer his questions. During the lecture, there will be a 5 minutes break and he will try to talk to you by asking how much do you understand on the content he taught. <br />Also, he is a nice professor. He welcomes everyone to go to his office to ask questions. After the speaking, he will ask you to write down your name and department. He thinks this will increase his impression toward you which is warm. <br />Although he did not speak english in a very clear manner but still better than many professor comes from mainland. He won&#039;t speak very fast but in a suitable speed. I love his teaching very much.",
+      "comment_grading": "The grading is pretty good. At the beginning of the lecture, he have mentioned he would not give any C-range unless the student could not get 10% overall which means even you get only 15 in the midterm and final, you can still get a B- for minimum. I think the mean of this course is about B+. However, the A-range is strict.<br />I get full in the midterm and the higgest in the final exam. However, I only get mean in the assignments and project and my final grade is A instead of A+. This means for those who aiming at A+ should give effort in doing assignment and project.",
+      "comment_workload": "Assignment is very simple to complete unless some questions about R-programming. This is because this language is quite new for every students hence it require using some time to familiar the syntax of the language.<br />Also, the project is quite difficult I think because you will involve some packages that you firstly used. <br />However, as the exam is completely open-book, you don&#039;t have to use much time to study.<br />I think the overall workload is very light for a math course.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Ryz9HOI089Z3B2uGSGbrBJ9S6SgIpTZu",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 1118,
+          "name": "YANG, Can",
+          "rating": 1
+        }
+      ],
+      "author": "Marvinhtr",
+      "date": "Aug 21, 2019",
+      "title": "",
+      "comment_content": "This course covers various methods of sampling, the differences between them, and how to interpret the results of each. The sampling methods include simple random sampling, cluster sampling, systematic sampling, and stratified sampling. The course also covers the linear mixed model among other miscellaneous information, but they are not included in the tests.",
+      "comment_teaching": "The professor tries to make the class engaging, mostly by relating how the methods can be implemented. He also welcomes questions at any time.",
+      "comment_grading": "Relatively high mean (around 70ish %). The syllabus is not posted in the website so you will have to ask the professor for it.",
+      "comment_workload": "Gives out 3 assignments with less than 10 questions. All of them include 1 tricky question involving R although the rest of the questions are mostly easy. Thus the length of time required to do them will vary.<br />The project, however, is another story. It uses materials completely separate from the tests and its deadline is around the end of the final exam period. It can be done in just a few hours, though, and the grading for it is lenient.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "H1G9YpuIxa0Ly4o94HBVTDTpFppd6YCh",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 1118,
+          "name": "YANG, Can",
+          "rating": 1
+        }
+      ],
+      "author": "Chan C",
+      "date": "Jun 16, 2018",
+      "title": "New Math course",
+      "comment_content": "As the course title states, this course mainly mentions the calculation of different sampling methods: simple random sampling, systematic sampling , cluster sampling and stratified sampling. For the remaining time of the course, professor talked about the linear mixed model which is really complicated to understand ,but this topic is for the project only and thus it is not a problem.",
+      "comment_teaching": "I think the prof welcomes any questions in class or after class.Therefore, if you do not understand the materials,just go to his office and ask. He is a kind professor and he tries to make us not bored in class.",
+      "comment_grading": "I think his grading is normal or better than normal math course. Mean is B- ...I think...",
+      "comment_workload": "No midterm. 3 assignments, 1 project and final exam only.<br />low workload",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

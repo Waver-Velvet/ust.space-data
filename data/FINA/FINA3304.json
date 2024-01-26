@@ -1,0 +1,77 @@
+{
+  "course": {
+    "id": 431,
+    "subject": "FINA",
+    "code": "3304",
+    "name": "Financial Markets",
+    "description": "Organization and functions of money and capital markets; money instruments; financial institutions; and markets for various securities, such as government and corporate bonds, and mortgage securities.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      1540,
+      1530,
+      1510,
+      1430,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"2203\" href=\"/review/FINA2203\" target=\"_blank\">FINA 2203</a> or <a class=\"course-link\" data-subject=\"FINA\" data-code=\"2303\" href=\"/review/FINA2303\" target=\"_blank\">FINA 2303</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 3,
+    "rating_workload": 1,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 239,
+        "name": "LAFON-VINAIS, Veronique J A",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "rFv19qVb31KPEj7v9hHNo6lCFrWU450s",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 239,
+          "name": "LAFON-VINAIS, Veronique J A",
+          "rating": 1
+        }
+      ],
+      "author": "heeeeeee",
+      "date": "Jun 02, 2016",
+      "title": "",
+      "comment_content": "1. General overview of financial market<br /><br />2. Financial Institutions <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Sell Side (Commercial Banking + Investment Banking)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Buy Side <br /><br />3. Financial Instruments<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- MMF/ SWF/ Hedge Fund/ Pension Fund<br /><br />4. Regulation",
+      "comment_teaching": "教既野非常practical, 好多都係係佢廿幾年banking既工作經驗度得返黎<br />佢亦好knowledgeable, 絕大部份banking既問題佢都會答到<br />非常welcome questions/ debate/ discussions<br />Presentation skills 爆分, 十分重視class interaction, participation (active participation is REQUIRED)",
+      "comment_grading": "Bad Grade<br /><br />1. Quiz x3 (50%) (計最高分2個)<br />除左第1個quiz個mean低D, 其他啲人都會爆分, 你aim A range既話最少要有2個quiz係拎95+<br /><br />2. Mini-case study (10%)<br />唔洗present, 整係要個3-5頁既report.<br /><br />3. Market News Presentation (10%) (5% from Prof + 5% from Classmate)<br />5min present + 5min Q&amp;A<br /><br />4. Group Presentation (20%) (14% from Prof + 6% from Classmate)<br />15min present + 5 min Q&amp;A<br /><br />5. Individual Participation (10%)<br /><br />如果你所有野都有median (=above mean少少) + parti 唔係好active, 你會連B- 都無",
+      "comment_workload": "如果你係free-ride, 靠人carry既話咁workload應該唔算大, group assignment認真做既話workload都唔細<br /><br />Quiz既workload可以好大又可以好細, 基本上佢淨係考佢上堂提過既野, 有好多notes上既野係for reference only, 仲有考既野多數都係notes上無,係佢上堂講的, 所以一係你上堂不停地drop低晒**所有**佢講既野, 一係你就睇lecture video, 當煲劇咁煲。<br /><br />Active Participation is REQUIRED! 佢會take attendance, 不過淨係上堂應該係無用的, 基本上你每堂都要*最少*舉一次手答問題/問問題, 你既parti先會高分。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

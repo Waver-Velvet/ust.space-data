@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 4063,
+    "subject": "SCIE",
+    "code": "1102",
+    "name": "Designing Your Life for Science Students",
+    "description": "Originated from Stanford University’s Life Design Lab (Bill Burnett and Dave Evans), this course employs a method called “design thinking” to help students from any program develop a constructive and effective approach to finding and designing their vocation after university. Through small group discussions, in-class activities, personal reflections and individual coaching, this course teaches students to use design thinking to explore many of life’s major challenges, such as pursuing careers they love and finding personal fulfillment. Topics include the integration of work and worldviews, ideation techniques, a portfolio approach to thriving, designing to increase balance and energy and how to prototype all aspects of your life. We also touch on the realities of engaging the workplace, and practices that support vocation formation throughout your life. The capstone assignment is the creation of an “Odyssey Plan” focusing on taking actions in the 3-5 years following your HKUST graduation. For Science students only. Graded P or F.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2330,
+      2230
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 271,
+        "name": "SIU, Wai Sze Grace",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "IDPDlATMcdDrrWqS6wmdHArlzNfxmMzQ",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 271,
+          "name": "SIU, Wai Sze Grace",
+          "rating": 1
+        }
+      ],
+      "author": "FCC",
+      "date": "May 16, 2023",
+      "title": "A friendly and meaningful course",
+      "comment_content": "This course is usually a discovery of our growth mindset through teamwork with classmates, enabling you to explore your career planning.<br /><br />Course Introduction:<br />Week 1: Creating Community &amp; Course Introduction <br />Week 2: What is Success?<br />Week 3: Design a Work Compass <br />Week 4: Cultivating Coherence and Well-being<br />Week 5: Network<br />Week 6: Getting Unstuck (Part 1): Framing and Reframing<br />Week 7: Getting Unstuck (Part 2): The Power of Ideation<br />Week 8: Getting Unstuck (Part 3): The Power of Ideation (Cont&#039;d)<br />Week 9: Decision-making and Odyssey Building<br />Week 10: Radical Collaboration (I): Brainstorming for Prototyping <br />Week 11: Radical Collaboration (II): Prototyping Sharing<br />Week 12: Storytelling (Presentation)",
+      "comment_teaching": "Grace is very nice and helpful. This course always encourages us to interact with others. Grace separates us into different groups every week, which enhances our chances of meeting new friends and making connections.<br /><br />She is always willing to help with our career planning and provide suggestions for our work. The in-class activities with others and the interesting methods used to teach or explain topics improve the class atmosphere.<br /><br />If you are feeling lost in your career future, or if you are looking to explore yourself, meet new friends from different backgrounds, or even find your direction at HKUST, I strongly recommend you to join this course.",
+      "comment_grading": "The grading is only Pass/Fail (P/F)<br /><br />Course weighted:<br />Writing Assignment (30%)<br />Presentation (20%)<br />Course Participation (10%)<br />Attendance (40%)<br /><br />It is very easy to pass, unless you fail to complete and submit the assignments.",
+      "comment_workload": "There are 5 assignments and 1 presentation, which is very light workload and easy to complete.<br /><br />Assignment:<br />1) Workview Reflection<br />2) Worldview Reflection<br />3) PREMA Assessment <br />-Assign your Positive emotion, Engagement, Relationships, Meaning and Purpose, Accomplish, and physical health<br />-Your energy in 1 week schedule <br />4) Odyssey Planning + Letter to your future<br />- 3 future pathway planning <br />[1.reality pathway (you want to do), <br /> 2.alternative pathway if 1 is not work,<br /> 3.Wild idea pathway, no limit, just your dream]<br />5) Take-it-home Canvas <br />-Initial thoughts in jobs for your future planning, resources, stakeholders, and barriers &amp; challenges <br /><br />Presentation:<br />A 3-5 mins short presentation for<br />-Biggest takeaways and insights from the course<br />-Vision for your future<br />-Recent action or change you will make<br />-Call-to-action or homegoing wish<br />-something you want to share (optional)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

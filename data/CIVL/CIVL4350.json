@@ -1,0 +1,75 @@
+{
+  "course": {
+    "id": 172,
+    "subject": "CIVL",
+    "code": "4350",
+    "name": "Design of Structural Systems",
+    "description": "Structural systems for buildings, loads on structures, selection of structure schemes, preliminary analysis and design, computer-aided proportioning, special consideration in high-rise structures, composite design.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1930,
+      1730,
+      1530
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"3320\" href=\"/review/CIVL3320\" target=\"_blank\">CIVL 3320</a> and <a class=\"course-link\" data-subject=\"CIVL\" data-code=\"4320\" href=\"/review/CIVL4320\" target=\"_blank\">CIVL 4320</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 74,
+        "name": "CHAN, Chun Man",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "ovq7SVgGmqIq8Y2FhuBJWlKoMZ8K5WnD",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 74,
+          "name": "CHAN, Chun Man",
+          "rating": 1
+        }
+      ],
+      "author": "balabababa",
+      "date": "Jul 13, 2020",
+      "title": "A Must-take course for structural engineer",
+      "comment_content": "1)Introduction to Building Structures<br />•Introduction to structural design of tall buildings<br />•Tall building evolution<br />•Classification of structural systems of tall buildings<br />•Hong Kong tallest buildings illustrated<br /><br />2)Load Action on Buildings<br />•Dead and live loads<br />•Wind loads<br />•Earthquake loads<br />•Combination of loads<br /><br />3)Floor Framing Systemsfor Buildings<br />•Steel floor systems<br />•Concrete floor systems<br /><br />4)Approximate Analysis of Simple Structures<br />•Continuous trusses and beams<br />•Simple frames under gravity loads<br />•Portal and cantilever methods under lateral loads<br /><br />5)Lateral Load Resisting Systemsfor Buildings<br />•Braced frames<br />•Moment resisting frames<br />•Tubular frames<br />•Coupled shear wall systems<br />•Outrigger braced systems<br /><br />6)Computer Modelling and Analysis of Building Structures<br />•Modelling principles•Computer Analysis using ETABS and SAP2000<br /><br />7)Special Topics<br />•Composite construction –composite beams, columns and frames<br />•Introduction to structural optimisation of tall buildings<br />•Case studies of tall building design in Hong Kong<br /><br />In this year, topic 7 is about structural optimisation.",
+      "comment_teaching": "CM is a good prof. He explained all the concepts clearly from both the theoretical and practical point of view. It also provide a comprehensive revision to all the previous structural courses (2110, 2120, 3310). Different kinds of tall building schemes are discussing and analysed with approximation analysis.<br /><br />For me, the most rewardable parts would be computer modelling theories and lateral load resistant design together with the application of wind code 2019. The knowledge allows me to pick up my works very efficiently when i entered the industry. <br /><br />CM is an experienced professor in the field of structural engineering, but what is more is that he is also a experienced engineer. Unlike other professor who only concentrated in scientific research without touching the real world, CM can integrate the theory and the real world. During the lectures, he often shared some of his experience when he was working at ARUP, talking about how he deal with the design of the Mega-scale projects. The things he taught in the course is much more than preparing you for your interview (actually he is preparing you for the chartership exam lol). I will say this is like an enlightenment for future structural engineer. <br /><br />Tips: If you are aiming at ARUP, this course would be a must for you to master.",
+      "comment_grading": "3 HW<br />1 Individual Project<br />No exam this year due to online learning<br />Fair grading, hard work pays.",
+      "comment_workload": "To be honest, this is the hardest structural course in ug level which integrated the usage of all the previous structural courses. It takes time to digest and turn the coursework into your things. However it is truly useful when u started working in the industry, typically as a structural engineer.<br /><br />All the assignments are very tough. It takes around one week to finish each of them if you are doing them solely. As mentioned before, the assignment require you to be very familar with the fundamental structural engineering theories (Moment-Area theorem, virtural work, moment distribution, ULS design theory, etc.) since you will be needed to apply them to solve the hw problem. <br /><br />The project is the most challenging part if you are taking it seriously. The content is basically similar to the HKIE structural exam/ IStructE exam for chartership. However the submission format is somehow similar to the BD submission - you need to provide structural drawings and Finite Element Analysis to justify the adequacy of your design schemes. <br /><br />In simple word, everyone need to finish a structural capstone project on their own. I bet you should know how tough it is. Be careful if you dont have enough passion in structural engineering.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

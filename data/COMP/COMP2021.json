@@ -1,0 +1,372 @@
+{
+  "course": {
+    "id": 212,
+    "subject": "COMP",
+    "code": "2021",
+    "name": "Unix and Script Programming",
+    "description": "Unix utilities and file structure; links and symbolic links; data processing and process control in the Unix shell; Shell programming; regular expressions; script programming in the Unix environment.  Laboratory exercises are designed to give hands-on practice with software tools and to increase programmer productivity.",
+    "categories": [],
+    "website": "https://course.cse.ust.hk/comp2021/",
+    "credits": 3,
+    "semesters": [
+      1730,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"1002\" href=\"/review/COMP1002\" target=\"_blank\">COMP 1002</a> OR COMP 1004 (prior to 2013-14) OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"1021\" href=\"/review/COMP1021\" target=\"_blank\">COMP 1021</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"1022P\" href=\"/review/COMP1022P\" target=\"_blank\">COMP 1022P</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"1022Q\" href=\"/review/COMP1022Q\" target=\"_blank\">COMP 1022Q</a>; OR a passing grade in HKALE Computer Studies or HKCEE Computer Studies; OR level 3 or above in HKDSE Information and Communication Technology",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.22,
+    "rating_teaching": 3.67,
+    "rating_grading": 4.44,
+    "rating_workload": 3.56,
+    "review_count": 9,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 101,
+        "name": "LI, Xin",
+        "count": 8
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "ssf6iebHrjsrhTripnzsvZDCTPyZp825",
+      "semester": "2017-18 Spring",
+      "instructors": [],
+      "author": "Martin_51",
+      "date": "Jan 12, 2023",
+      "title": "",
+      "comment_content": "We learnt shell programming, including links, process control, expression. We saw how to use it in different real life systems.",
+      "comment_teaching": "The teacher was very good, his courses were clear, structured, and his explanations were useful to understand the course.",
+      "comment_grading": "Grading is quite fair, you have to work hard if you want the highest score. You can learn additional things if you want to get better.",
+      "comment_workload": "The workload is important because you will have a huge project and it will take you a lot of time, especially if you want a high score.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "hmjpENmMx84oxoovS2Y6SyewMYut5ewC",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 101,
+          "name": "LI, Xin",
+          "rating": 1
+        }
+      ],
+      "author": "Li Haoran",
+      "date": "Aug 29, 2018",
+      "title": "想上就上呗",
+      "comment_content": "内容听多的，但都是比较基础的，shell的语法很鬼才，其它脚本现在也基本没人愿意用了，perl的官网基本在2012以后就死了，所以实用性并不太强，大概就是看个兴趣吧。",
+      "comment_teaching": "Li Xin一直是一个比较不错的prof，讲的中规中矩，就是后面东西太多会开快车，讲个hello world然后就大家已经学会php了bulabula",
+      "comment_grading": "还行吧，就grading来说，你越想找好龟课，你也不一定能拿多高，还是靠努力吧，毕竟大家都不会这些，也没有dalao起步什么的",
+      "comment_workload": "巨大，细节太多，考试根本看不过来，各种脚本，主要靠脑子记忆。然后project找好队友，慢慢弄个一个月就差不多了，还是挺费事的",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "0Ypc8hIHbqLvz5f9sz1hlbu0nvyWj2Bu",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 101,
+          "name": "LI, Xin",
+          "rating": 1
+        }
+      ],
+      "author": "MEMENTO",
+      "date": "Aug 27, 2017",
+      "title": "Very useful course",
+      "comment_content": "Throughout this course, you would be learning variety of contents, such as UNIX system, Regular Expression, Perl, PHP and some more. To me, these contents were very new and useful, although I struggled to catch up the course material and lecture because I did not have any background knowledge about most of these concepts.",
+      "comment_teaching": "Professor Li Xin was quite straightforward in her lecture, and her pronunciation was pretty good. However, the lab section was quite difficult to me, because its content was quite challenging. (If you have enough background knowledge about all the contents, the lab section would be easy to you)",
+      "comment_grading": "The grading was quite fair. I screwed up one whole assignment and did quite well on the final and project, and got B+. Thus, if you can successfully finish the two assignments, this course would be an easy A-range course. <br />Grading Scheme: <br />Lab attendance: 5%<br />Final: 40%<br />Two Assignment: 10% each<br />Project/Presentation: 35%",
+      "comment_workload": "The workload was not much, although if you do not have any background about the content of this course, you would need to additionally self-study in order to catch up the course material.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ZyxLJ0PnjckU3QTeV3CMnHHtSJGjZF2C",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 101,
+          "name": "LI, Xin",
+          "rating": 1
+        }
+      ],
+      "author": "abcbca",
+      "date": "Aug 23, 2017",
+      "title": "易入難出",
+      "comment_content": "內容主要包括：<br />- Unix File System <br />- Command Line<br />- Regex<br />- Shell Script<br />- Perl<br />- PHP (and Basic HTML)",
+      "comment_teaching": "剩係上左頭兩堂，因為一個禮拜只上一個兩個鐘既堂，時間上比較難捱，但個人認為LI,Xin其實教得同解釋得唔錯。有programming底既同學我會建議你可以試下自學。",
+      "comment_grading": "算唔差啦<br />Lab&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5% <br />Assignments&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20%<br />Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;35%<br />Final&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40%<br /><br />Lab 總共 take 5次 attendance，但因為係隨機抽樣，所以最好每次都去。<br /><br />Assignments 總共有2份，以coding為主，但冇skeleton code，難度應該因sem而異。<br /><br />Project 要求1-3人一組，主題自訂，根據specifications合力／單獨完成一份集作。<br /><br />Final俾帶一份單面A5 cheat sheet，即係得半頁A4紙。主要以mc，short q，寫code等題目構成。",
+      "comment_workload": "呢個course其實唔太適合俾d未自己寫個code既人讀，如果係非CS既人想攞靚grade就要努力溫syntax，run下notes d example code，得閒落手寫下code啦。",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "WNVdU3s5htHoqlrXuPZdUHlsIneUJtPZ",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 101,
+          "name": "LI, Xin",
+          "rating": 1
+        }
+      ],
+      "author": "CW",
+      "date": "Aug 03, 2016",
+      "title": "",
+      "comment_content": "The course will start with Unix, teaching history (not required) and basic Unix command. Then there are regex and PHP.<br />All of the content are not quite deep, but it often covers very detailed part in the exam, so the area is pretty large.",
+      "comment_teaching": "Lectures are very boring and long, it is quite wise to skip all of them, except the presentation part as it counts attendance. Lab sections are not only boring, but also pretty useless. Sometimes the TA just ask you to visit online tutorial to learn by yourself (which is in fact not a bad way to learn, but you can do that at home).",
+      "comment_grading": "Moderate. Quite a lot of people (year 1 to year 4 students) in the class already have some knowledge about the course, so do not expect a low mean.<br /><br />Assignment is very important if you want to get A/A+, as the mean and SD of project and final exam are pretty high. And I think the professor are quite strict on giving A+.<br /><br />Should not be hard if you aim for B-range.",
+      "comment_workload": "2 HW + PHP/Unix Project + Final Exam",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "JchSBnBjDFJHmxKs7O2OqN9W6DsajLXe",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 101,
+          "name": "LI, Xin",
+          "rating": 1
+        }
+      ],
+      "author": "Pang.",
+      "date": "Jun 04, 2016",
+      "title": "",
+      "comment_content": "Despite the course title, 60% of the course is about PHP development. This years marks the switch of this course from Perl to PHP, which is actually an improvement given the popularity of PHP over Perl these days.<br />PHP: file operations, form handling<br />Unix: utilities, shell programming, regex",
+      "comment_teaching": "Quite boring, due to the fact that each lecture is 2 hours long. I find it easier to study the notes (e.g. PHP syntax) by myself at home though this is a matter of personal preferences.<br /><br />9am labs make the situation worse, especially when the TA decides to send an email at 3am on the same day reminding you to go to a lab about &quot;Web development essentials&quot;, then simply reads out stuff from W3Schools for you.",
+      "comment_grading": "5% Lab attendance (just go to any 5 of them)<br />20% Homework x2<br />35% Project<br />40% Final<br /><br />Quite good grading, even though most people who (cared to) take this course already has some prior knowledge.<br /><br />Project grading mostly depends on presentation and report. Students get to vote for the &quot;Best 3 projects&quot; though this is not required for getting a high score.",
+      "comment_workload": "Not much except for the project. <br /><br />There is cheat sheet for the final - only that it is required to be one page of A5 sized paper. Just squeeze as much as you can.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "s0GgZ1wXlkEG02aNMFm5whSkxGqgVTvb",
+          "name": "COMP2021Spring16ProjectList",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "Urbr4WDDLNFgSoKVF9zeRyvSRZ10BYYT",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 101,
+          "name": "LI, Xin",
+          "rating": 1
+        }
+      ],
+      "author": "John Ma",
+      "date": "Dec 12, 2015",
+      "title": "Project-based, practical course",
+      "comment_content": "70% Perl, 30% Sheel script (UNIX)<br />Don&#039;t be fooled by the course description, it is majorly Perl. Study it before lesson, it is good for you.<br /><br />The lectures are not taken so you may skip them if you are already very familiar with shell scripts. The basic functions of shell scripts are very useful when you are dealing with Ubuntu, or working under Ubuntu, i.e. taking COMP3111 and have to do Karma testing. Those basic functions such as piping, grep, input-ouput with &lt;,&gt;, really helps.",
+      "comment_teaching": "Li Xin is pretty clear on the lecture materials. Although when some students ask her some trivial questions, she will need some more preparation. I&#039;m sure if you ask her questions in office hour she will answer more fully.",
+      "comment_grading": "The grading is pretty loose and the instructor is fair and we have to grade one another&#039;s projects.",
+      "comment_workload": "Project + final + minor labs<br />On the project, have to really code and present the project. Can be 1-man group, or group with max 3 ppl (4 in total). No specific topic, but previous topics will be released for reference. In my class, there are mainly games, such as Tetrix (3 groups omg), candy crush, blackjack and a space shooter game!<br />There&#039;s also music player.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Hhr1D9QKCGAHmkkqZ4vwLH6UGiuU4osH",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 101,
+          "name": "LI, Xin",
+          "rating": 1
+        }
+      ],
+      "author": "ayymiami",
+      "date": "Aug 31, 2015",
+      "title": "More scripting than Unix/Shell",
+      "comment_content": "Only about 40% of the course content is covered by shell/bash scripting and Unix OS architecture, which was pretty disappointing. Rest of it consists of programming in Perl. Perl is a bit of a dying language, but is still a great tool when it comes to text processing and several other things. Nevertheless, the course content is pretty well organized and especially if you have prior programming experience, is easy to follow. The programming level is not too high and those who have at least finished the 1XXX COMP courses without struggling too much would find it easy.<br /><br />EDIT: It has been a year since I took the course and I still return to Perl and the things we were taught on a regular basis. Perl is not great for larger projects but it has this hacky charm where you can write practical scripts merely in a line or two and with great bash integration. E.g. I used the things I learnt to periodically scrape my course websites to fetch lecture materials automatically. Also I made the switch to using a GNU/Linux based OS full time without Windows.",
+      "comment_teaching": "Professor is pretty good, explains all the concepts well and attempts to crack jokes in class from time to time(although sad to say, the students rarely laughed). Not her fault but the nature of the content is often dry and there&#039;s not much that can be done.",
+      "comment_grading": "A surprisingly high number of final year and exchange students in this course, a lot of them don&#039;t pay much attention to the material, and do it for fun. This makes the environment a little less serious and giving more opportunity to learn. Even as a first year student, it was not difficult to keep up.",
+      "comment_workload": "There is a group project that is very important to grading and only one &#039;midterm&#039; that was conducted at the last week of the semester with no final exam. Make a project that appeals to the other students and it is easy to get their votes, even if it doesn&#039;t really target the core points of Unix/Linux programming. There are also assessed lab/assignments to be handed in every week which count for the grade",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "NnxyMiBC7FxGTTjmX8Yxy8ekdaa5ACOX",
+      "semester": "2013-14 Spring",
+      "instructors": [
+        {
+          "id": 101,
+          "name": "LI, Xin",
+          "rating": 1
+        }
+      ],
+      "author": "別問我是誰",
+      "date": "Jul 20, 2015",
+      "title": "實用 COMP course (Shell, Perl, HTML)",
+      "comment_content": "內容分開3大部份:<br />1. Unix shell (bash), utilities (cd, pwd, ln, etc.) (實用)<br />2. Perl<br />3. HTML+CGI<br /><br />個course有個o係 final study break 前少少既 &quot;mid-term&quot;，可以用 cheat sheet。我讀個年 (只開 spring) 大部分都係 final year 既人。",
+      "comment_teaching": "",
+      "comment_grading": "個 project (單人/多人) 有個叫 best projects 既 voting 環節，由學生揀出最鍾意既3個projects, 個d學生既project分會有 bonus (無記錯係2分)。<br /><br />但即使 project 唔係 best project 都可以拎到 9字頭既 project 分, 足夠 A+。",
+      "comment_workload": "成個 course 好簡單同入門，shell 同 utilities 既用法同特別要記既 keywords 放哂落 cheat sheet 就已經夠去考 MT。",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 3,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "fkOTEFPdrG4TcbLJruJbU57e3Xeaarjd",
+          "name": "COMP2021Spring13ProjectList",
+          "format": "pdf"
+        },
+        {
+          "key": "QUuOtQfGSD49sSaxOmvIhhu3p3focvAs",
+          "name": "COMP2021Spring14ProjectList",
+          "format": "pdf"
+        },
+        {
+          "key": "WlTZBQFB3OFIFRZSTbMkP4z2uN9wio9D",
+          "name": "COMP2021Spring15ProjectList",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

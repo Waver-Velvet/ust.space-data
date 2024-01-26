@@ -1,0 +1,108 @@
+{
+  "course": {
+    "id": 3504,
+    "subject": "CIVL",
+    "code": "4560",
+    "name": "Urban Hydroclimate and the Built Environment",
+    "description": "This course is a mixture of lecture, reading, and group project focused on urban hydroclimate and the built environment, particularly their interactions through the energy-water-climate nexus. Lectures will cover mathematical laws and physical concepts of heat, moisture and mass transport in the built environment, as well as implications of urban hydroclimate on smart city development in the 21st century. Through hands-on tutorials, students will learn a numerical model and use it to explore the impact of neighborhood design on urban thermal environment, including\nthe usage of novel engineering materials, urban landscape and building technology.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2110
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4.5,
+    "rating_workload": 4.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1238,
+        "name": "YANG, Jiachuan",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "ahGs3e5WU2QksepWNnOd5frEKRcbjITe",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1238,
+          "name": "YANG, Jiachuan",
+          "rating": 1
+        }
+      ],
+      "author": "Envrist",
+      "date": "Jan 04, 2023",
+      "title": "",
+      "comment_content": "The course is mainly focused on how urban built environment interact with urban climates. Overall, the course is very comprehensive, informative and interesting, and will be very helpful if you want to continue your study in this area.<br /><br />The course start with very basic knowledge, the component of buildings, basic metrics. How energy interact with these building components and then focus on the urban heat islands effect, and its above atmosphere. In addition to these knowledge, we also study an urban canopy model, this is actually not a toy model, but a model that really applied in scientific studies via matlab code. In the course, prof also provide some interesting state of the art research, which is very interesting and makes the course more vivid.",
+      "comment_teaching": "The teaching is very good. <br />The class is vivid, prof provides many case studies, and incorporates his own research,&nbsp;&nbsp;therefore we can have a more broad sense of this area.<br /><br />Prof. Yang speaks very fluently which definitely facilitates my study.",
+      "comment_grading": "10 % class attendance,<br />25% assignment,<br />65% final project.<br />In general, prof gives quite good grades.",
+      "comment_workload": "The workload is appropriate.<br /><br />The very good thing is this course provides a real scientific model for us to conduct the final project, and we also have a very good hands-on tutorial. <br /><br />For the homework, we have roughly 3 assignments. Some of them is a little bit hard but is very helpful for us to understand the basic concept. Overall I feel it won&#039;t take too much time to finish the work of this course.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "quL2NZBx3KrRt1qeY7hWb0BumyVnjeop",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1238,
+          "name": "YANG, Jiachuan",
+          "rating": 1
+        }
+      ],
+      "author": "zzhaobq",
+      "date": "Feb 17, 2022",
+      "title": "",
+      "comment_content": "The content is about energy, water and air flow in cities. Lectures are equally distributed among 3 components and I personally like the first part most. There is a course project, no exams, so workload is moderate.",
+      "comment_teaching": "Prof. Yang explains concept well, and put a lot of real life examples. not much questions, he respond to email fast and very responsive.",
+      "comment_grading": "My both reports are around mean and finally get a B+, with homework below mean. The most important is about getting the project done.<br /><br />Good grading after all.",
+      "comment_workload": "Moderate for year 4 course.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

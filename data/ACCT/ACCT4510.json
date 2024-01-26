@@ -1,0 +1,676 @@
+{
+  "course": {
+    "id": 15,
+    "subject": "ACCT",
+    "code": "4510",
+    "name": "Auditing",
+    "description": "Objectives, standards and procedures of auditing; preparation of working papers; applications of statistical sampling; computer-assisted auditing and auditing of electronic data processing (EDP) services; professional liability and ethics.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ACCT\" data-code=\"3020\" href=\"/review/ACCT3020\" target=\"_blank\">ACCT 3020</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3.24,
+    "rating_teaching": 3,
+    "rating_grading": 4.06,
+    "rating_workload": 3.35,
+    "review_count": 17,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 8,
+        "name": "LAI, Tai Wai David",
+        "count": 9
+      },
+      {
+        "id": 1271,
+        "name": "KWOK, Terry",
+        "count": 7
+      },
+      {
+        "id": 1521,
+        "name": "CHEUNG, Kwok Yip",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "b270w9wzBckEgzSazVl29IwvMcC6zIrN",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1521,
+          "name": "CHEUNG, Kwok Yip",
+          "rating": 1
+        }
+      ],
+      "author": "Hayoha",
+      "date": "Jan 15, 2024",
+      "title": "Nice Professor with a good heart",
+      "comment_content": "Course Description:<br />The main aim of this course is to help students learn the basic principles and practice of auditing. Students will develop a broad understanding of the core auditing functions and integrate these functions to solve problems that auditors commonly face.",
+      "comment_teaching": "Steven is a nice guy and he is funny. He welcomes questions and he would patiently answer. You may even ask him for career advise. Afterall, he is an expert in law, finance and accounting (said on lecture).",
+      "comment_grading": "Assessment Scheme:<br />Individual Assignment 25%<br />Midterm Examination 25%<br />Final Examination 50%<br /><br />My grade: A+<br />Individual Assignment: 97/100 <br />Mean: 91.87 Median: 93\t<br />High: 98 Upper Quartile: 96<br />Low: 71 Lower Quartile: 90<br /><br />Midterm: 77/100<br />Mean: 71.98 Median: 74\t<br />High: 94 Upper Quartile: 79.25<br />Low: 45 Lower Quartile: 66<br /><br />The final did not release score.<br />Actually, if only based on my performance on individual assignment and midterm (roughtly at Upper quartile), I probably just A-. So i guess maybe I got full score in final then.",
+      "comment_workload": "I think i just used 2 days for doing the individual assignment, there is no word limits, just try your best should be fine, you can see the mean is quite high compare to the midterm.<br />The midterm is closed book so kind of hard.<br />But this is not the mean problem. Only 1 hour time allowed but there are 4/5 MC questions (you should try to get full scores from them, as they needed for the least time to do but can get more marks)<br />and 2 long questions with sub parts. I think I have skipped a question which account for 15 marks.<br />The time is very rush. If this happens in your semester, remember to make good use of table form and point form when you really do not have enough time. Steven said these formats are allowed AFTER THE Midterm is OVER.<br /><br />The final is better, I can barely finish all questions with 10 seconds left and this time 1 page double-sided cheat sheet is allowed. Maybe I am a slow writer as I saw quite a number of students early leave.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "n5511uxDe3vCTS6bJBaRj1DUT8kfPb0O",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 8,
+          "name": "LAI, Tai Wai David",
+          "rating": 1
+        }
+      ],
+      "author": "Uujhfgzdv",
+      "date": "Aug 03, 2023",
+      "title": "",
+      "comment_content": "Part 1 The Audit Profession<br />Chapter 1 The demand for audit and other assurance services<br />Chapter 2 The CPA profession<br />Chapter 3 Other assurance services<br />Chapter 4 Internal and governmental financial auditing and operational auditing<br /><br />Part 2 The Audit Process<br />Chapter 5 Audit responsibilities and objectives<br />Chapter 6 Audit evidence<br />Chapter 7 Audit planning and materiality<br />Chapter 8 Assessing the risk of material misstatement<br />Chapter 9 Assessing and responding to fraud risks<br />Chapter 10 Internal control and Coso framework<br />Chapter 11 Assessing control risk and reporting on internal controls<br />Chapter 12 Overall audit strategy and audit program<br /><br />Part 3 Application of the Audit Process to the Sales and Collection Cycle<br />Chapter 13 Tests of controls and substantive tests of transactions<br />Chapter 14 Audit sampling for tests of controls and substantive tests of transactions<br />Chapter 15 Completing the tests in the sales &amp; collection cycle: Accounts Receivable<br />Chapter 16 Auditing sampling for tests of details of balances<br /><br />Part 5 Completing the Audit<br />Chapter 23 Completing the Audit<br />Chapter 24 Audit Reports<br />Chapter 25 Professional Ethics",
+      "comment_teaching": "Make sure you attend the lessons. There are some notes which are not jotted down in the lessons and they are important in the exam.",
+      "comment_grading": "The grading is fair.",
+      "comment_workload": "Assessment Scheme:<br />Short Quizzes (5 x 3%) 15%<br />Midterm Test (1 x 25%) 25%<br />Final Examination (1 x 60%) 60%<br />There are 5 non-cumulative short quizzes which will be held during the following weekends. <br />Quizzers are not really difficult, but you have to spend time reading the materials. <br /><br />Midterm and Final exam are close book exam but you will be allowed ONE piece of A4 paper (both sides) as cheat sheet.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "RAQxnN4xqcnsjpv9rYz2qa9izHz4O9Cr",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 8,
+          "name": "LAI, Tai Wai David",
+          "rating": 1
+        }
+      ],
+      "author": "懷疑人生",
+      "date": "Dec 18, 2021",
+      "title": "",
+      "comment_content": "Part 1 - The audit profession<br />Part 2 - The audit process<br />Part 3 - Application of the audit process to the sales and collection cycle<br />Part 5 - Completing the audit",
+      "comment_teaching": "David teaches well! He is able to explain the concepts clearly using plain English. There are quite a lot of notes to jot down in class, so make sure you pay attention in class. The notes are quite important as they will come up in the exams!",
+      "comment_grading": "Quiz 1 (3%):10/10<br />Quiz 2 (3%): 9/10<br />Quiz 3 (3%): 9/10<br />Quiz 4 (3%): 10/10<br />Quiz 5 (3%): 8/10<br />Bonus Quiz (1%): 10/10<br />Midterm (25%): 78.6/80<br />Final (60%): 92/100<br />Grade: A+<br /><br />The format for the quizzes are all MCQs. <br />For midterm, there are MCQs + 3 short questions and is closed book.<br />Final exam consists of 5 long questions with a page of A4 size cheatsheet allowed.",
+      "comment_workload": "Very light workload, just have to do 5 short Canvas quizzes with only 10 MCQs each throughout the whole semester.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "gNV1mP6Zbz4prhGWIX2kX8i8cNvfGMkU",
+          "name": "Fall 2021 ACCT4510 Course Outline",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "y7Ywx1nC4vbwoEE11nmPjkeLbHwqjf5R",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 8,
+          "name": "LAI, Tai Wai David",
+          "rating": 1
+        }
+      ],
+      "author": "Dickson Wong",
+      "date": "Apr 08, 2021",
+      "title": "zoom class Acct 4510 auditing",
+      "comment_content": "Describes what Auditing is , the function of auditing, procedures and how should auditors perform in the professional field",
+      "comment_teaching": "PowerPoint slides which are easy to read, sometimes with extra points professor wanting to mention and time is given to jot notes for the additional points",
+      "comment_grading": "Fair, Mean I guess is B",
+      "comment_workload": "5 quizzes in total checking your study progress, 20mins and 10 mc for each, normally held at weekends and students need to complete the quizzes within 48 hours<br /><br />Mid term 40 mc within 90 mins close book<br /><br />Final essay type questions, open book, not difficult but requires good time management which is related to conciseness in answers",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "6cVlzTBVPpnQ9NfTWr7RWHsNjaDFpEZM",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 8,
+          "name": "LAI, Tai Wai David",
+          "rating": 1
+        }
+      ],
+      "author": "Pinball",
+      "date": "Jan 17, 2021",
+      "title": "",
+      "comment_content": "** This is a zoom class<br /><br />Basics of Auditing (introductory course)<br />1. Principles<br />2. Framework <br />3. Practice<br /><br />You will know what is audit, why audit, how to do audit, some procedures to audit, in a high level senes.",
+      "comment_teaching": "Mainly using ppt (contains some unrelated content about US)<br /><br />David likes to go through the content along the ppt&#039;s flow, and he likes to give additional notes.<br />- Time is given to copy the additional notes, should be enough to record (and also can review the recording)<br />- Only a bit exercise (tell you the final exam format) in the middle of the semester.",
+      "comment_grading": "Mean in all assessments would be B.<br /><br />Encourage to find some more practice in answering the final exam questions, which professor should have provided sample in the beginning of the semester.<br />- Answers in final exam need to be accurate and to the point in order to score.",
+      "comment_workload": "Fair.<br />Reading the whole book is not a must to take the assessments, except those mentioned by professor.<br /><br />- Canvas quiz (20 min) every other weekend, need to finish within 48 hours.<br /><br />- Mid term on Saturday. MC also, but close book.<br />&nbsp;&nbsp;&nbsp;&nbsp;- include supplementary articles.<br /><br />- Final exam: written exam.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "56x9Q0r1ZrtmrMLJntkKfmQVkvSdmTdP",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 1271,
+          "name": "KWOK, Terry",
+          "rating": 0
+        }
+      ],
+      "author": "tingtingo_O",
+      "date": "Mar 06, 2020",
+      "title": "Messy powerpoint slides and worst professor",
+      "comment_content": "Many things to recite in this course. The lecture slides are very unorganized and like just a copy &amp; paste from the textbook only. Reading the slides will make you feel confused and lost only. Reading the textbook might help you more than reading the slides he provided.",
+      "comment_teaching": "Just like what the previous comments have mentioned, Terry&#039;s teaching is really horrible. Lots of useless fillers in his speech, messy powerpoints and repeating sentence of the slides the lecture slides to &quot;answer&quot; your question raised. <br /><br />He says that the answer from the publisher is not good without explaining what is missing from the answer. He pretends to say that the answer will only be given a B range or C range. However, even you just remembered the marking scheme of the publisher, he still gives you very high marks in the midterm.",
+      "comment_grading": "I would say the grading is relatively good. <br /><br />Group Project 16% (-&gt; 26%)<br />In-class iPRS Quizzes 4%<br />Canvas Quiz 2%<br />Mini Cases 8%<br />Midterm Exam 20%<br />Final Exam 50% (-&gt; 40%)<br /><br />For myself:<br />Group project: Mean: Mean: 89.3/100&nbsp;&nbsp;&nbsp;Me: 92/100<br /><br />iPRS quiz: Full mark<br /><br />Canvas quiz : Mean: 10.2/12&nbsp;&nbsp;&nbsp;Me: 9/12<br /><br />Mini case:<br />Case 1 Mean: 9.1/10&nbsp;&nbsp;&nbsp;Me: 9.5/10<br />Case 2 Mean: 8.9/10&nbsp;&nbsp;&nbsp;Me: 9.5/10<br /><br />Mid term: Mean: 84.3/100&nbsp;&nbsp;&nbsp;SD: 7&nbsp;&nbsp;&nbsp;Me: 98/100<br /><br />Final Exam: Mean: 59.5/100&nbsp;&nbsp;&nbsp;SD: 11&nbsp;&nbsp;&nbsp;Me: 65/100<br />Final Grade: A",
+      "comment_workload": "The workload is really high but manageable in this course. Finding good groupmates is important for the group project as you can never imagine the amount of work he wants you to do base on his insufficient guidelines for the whole project.<br /><br />For the mini case, the only workload is to handwritten the answer and upload that to Canvas as you can simply find the answer from Goggle.<br /><br />For the midterm, just remember the answers from the publishers and you will be fine. <br /><br />For the final, there are some questions coming from the questions of the books and some of the QP questions that he uploaded to Canvas (without answers provided). So, remember to search for the answers beforehand. Of course, there also still some questions that are not from the textbook or QP questions so you still need to put some effort into studying.",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "vDTKtImx5IjNlfbL8qUgRWegADrtH6Fb",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 1271,
+          "name": "KWOK, Terry",
+          "rating": 1
+        }
+      ],
+      "author": "Account guy",
+      "date": "Mar 02, 2020",
+      "title": "",
+      "comment_content": "Many things to remember in this course. Totally the worst course in this university. With messy powerpoint, bad teaching and nearly no support. This course is a catastrophe.",
+      "comment_teaching": "His teaching is horrible, with weird smile all the times and not meaningful teaching, many students instead manage to study themselves. Don&#039;t expect learning a lot of things from the professor solely.",
+      "comment_grading": "Grading is fair even though you have heard all bad news about this professor. As long as you study the answer key and textbook besides attending this course, you would get a reasonable result as other students may also feel frustrated.",
+      "comment_workload": "Workload is heavy, with assignments, mid term, final and some other cases",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "tkosoepot0Vw1mMJfJD70BfOzvNsF0xI",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 1271,
+          "name": "KWOK, Terry",
+          "rating": 1
+        }
+      ],
+      "author": "nicetomeetyou",
+      "date": "Feb 27, 2020",
+      "title": "",
+      "comment_content": "The content is boring and a bit difficult. I didn&#039;t know what I have learned after the whole semester. the topic is mostly regarding the audit procedures as well as the professional scepticism which you need to apply what you learn in the slides to do your project. For the project, you would be required to choose a company to analyse its financial statement and audit procedures as well as the revenue cycle",
+      "comment_teaching": "The teaching is boring. But it needs IPRS Quiz in some lessons so u must be forced to attend lesson since you won&#039;t know when would have the quiz in lessons. But for the most other time, you can learn the topics by yourself. Even I have attended the lesson, I didn&#039;t really understand what the professor talks about haha",
+      "comment_grading": "the grading is poor. I got B- at the end.",
+      "comment_workload": "average workload.<br />One project with the video presentation.<br />One midterm and one examination.<br />Most important is that you need to study the questions he discussed in the lesson and you just need to memorize all the marking scheme.<br />The questions appeared in the notes (MC) would also be appeared in the examination.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "iPy3GwVacIMCp7kvpqi5vS2RK6ZhAzbp",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 1271,
+          "name": "KWOK, Terry",
+          "rating": 0
+        }
+      ],
+      "author": "lolllllllllllll",
+      "date": "Jan 21, 2020",
+      "title": "the worst professor ever ever",
+      "comment_content": "過咗成個sem都唔知自己學咗啲乜嘢, 好似就係背marking scheme, 背marking scheme同背marking scheme. 應該係圍繞成個audit procedure既流程。第一次喺呢度寫review，因為呢個Professor實在太差，希望警惕大家。",
+      "comment_teaching": "史上最差嘅老師，又要迫人上堂做佢嘅quiz, 又要照讀PowerPoint，仲要讀得勁差，重點又唔講，有時到重點叫我地自己睇，講嘢唔清唔楚，成日都無啦啦自己笑，完全唔知佢笑啲乜嘢，全唔好笑囉好冇！功課上網一搵就搵到，佢偏要叫你手寫，就係鍾意人哋寫字俾距睇。淨係show人地marking scheme出嚟，然後又唔俾影相，大佬個答案咁長點抄呀？一路話人哋個答案唔好，然後到考試就照出返，然後背到晒出嚟嘅就滿分。",
+      "comment_grading": "Grade其實係幾好嘅，mid term, project below mean,考試above dd mean都有B range. 但係距個project guidelines實在太少，做完都唔知做自己做咗啲咩，佢完全唔解釋，大家都係估估下，完全唔知佢想要乜嘢。mid term就好清楚啦，乖乖地背晒marking scheme. (連mc都係出ppt個d)",
+      "comment_workload": "Workload真係好大，呢個係史上最無聊最無謂最辛苦嘅course。堂堂都要上因為唔知佢幾時quiz, 然後有兩份要抄得好辛苦嘅功課，考試之前要好辛苦咁背答案。個project都好辛苦，不過呢個course就一定要讀冇得揀，只希望有個好啲嘅Professor，教得好啲等大家唔使咁辛苦，唔使讀完咁耐都唔知自己讀左啲乜。",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 5,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "YcVYQpUXYi6JmpHGhOWe8u13NJKqQxqk",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 1271,
+          "name": "KWOK, Terry",
+          "rating": 0
+        }
+      ],
+      "author": "kh1203",
+      "date": "Jan 19, 2020",
+      "title": "Worldclass伏prof。四年黎最差既lecturer，避得就避。",
+      "comment_content": "refer to syllabus shared by others<br />simply just not expecting anything interesting is okay、<br /><br />but his powerpoint is sooooo messssy. lots of useless point and seems direct copy all the sentences from textbook.<br />the ppt is not helping you to learn the context efficiently but make your more confused.<br /><br />simply suggest you guys to purchase the solution and test bank and directly learn from the answer, you will learn the content about auditing better than listen to him.",
+      "comment_teaching": "如果有F會比F。唔知佢點樣通過ust的聘請，穩google機讀ppt都好聽過佢。<br />難聽既accent，勁多無意義既口頭禪聽到人勁煩躁，u know u know alright alright，連照讀powerpoint都有困難，組織唔到自己想講咩，我懷疑佢上堂前無睇過ppt。如果唔信佢啲英文同口頭禪幾惡頂可以試下sit堂。<br />以為自己講嘢好funny，哈哈。<br />堂上share question answer但係又話寫得唔鉤好。但完全唔講點先為好，連model answer佢都唔滿意，難以想象佢對學生既要求之高。自己都唔識仲EXPECT我地答？<br />case study要人手寫但係又scan上canvas，無嘢穩嘢黎搞，上網就穩到答案。<br />quiz真係一上堂就開波，ok要求人準時都合理，但係遇到長題目佢比既時間都唔expect你睇完條題目，答完又解釋唔到啲答案點解岩，追問佢又口窒窒耍太極，真係唔問好過問，曬氣。<br /> midterm: 買testbank答案背就ok<br />exam：世界級安排。充分顯示一個failed auditor既長氣、唔識變通。事前出左三次trial exam,次次都整長到爆既instruction,每題答題時間同順序set死，一D靈活性都無，題目吾consistent，當初問佢净係會重複“i thought it was corrected”。其實無人想聼excuse,時間有限麻煩儘快解釋正確題目應該係點thanks。<br />考試分3 parts,要scan手寫答案三次，upload canvas三次，send email三次，document改名三次。see no point doing these procedure.<br />話有auto reply但係又無，幾十個學生即場反映佢都係重複“we had tested it before which should be okay” &quot;please check whether you typed the email correctly&quot; &quot;trytrytry&quot;。一個學生反映吾緊要，但係十幾個你都唔信仲要人send多次試？簡單講一句直接upload canvas咪解決曬問題咯。<br />令幾十個學生要瘋狂連續開mic講“prof i didnot receive the auto email too”。完全干擾整個考試進行，無辦法專心寫題目，偏偏你又驚會漏佢既announcement全程無辦法靜音，成場考試完左頭都爆。submit時間係甘改。<br />完全認爲佢整個甘長氣既instruction只係為左滿足自己既儀式感，都吾預人理解既。人地prof越精簡越好，佢越繁複越好，好似小學生斗多字數甘。<br />凌晨兩點仲狂彈緊exam instruction, come on, You are not working as an auditor now..<br />佢exam, assignment,教書方式似係想折磨學生多過教學生野，或者可能佢將尼D理解為鍛煉褂:)。",
+      "comment_grading": "project: 96/100<br />exam: mean<br />final grade: B+<br /><br />睇grade表面幾好，但係基本上系project辛苦chur出黎，完全唔知佢要求系咩，指示空泛，要我地代表公司audit team present how to do a good audit，自己睇annual report唸，咩direction都唔會比，靠你估中佢要D咩，越廢話（like him）越好",
+      "comment_workload": "最大workload就係忍受佢既教學，相比之下其他真係唔算得係咩。<br />雖然有4% iPRS，但完全建議你走堂自己讀，反而學得更好更開心。",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 3,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "SR0YJVbPImJcPcOGrhKkdlXBshQvjvHv",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 1271,
+          "name": "KWOK, Terry",
+          "rating": 0
+        }
+      ],
+      "author": "也許不必知道我是誰",
+      "date": "Dec 04, 2019",
+      "title": "",
+      "comment_content": "可以睇attachment<br /><br />Midterm後嘅內容好多係將midterm前嘅內容elaborate，完全跟書編排，亂得嚟唔知點讀。",
+      "comment_teaching": "原本開sem之前見係新lecturer，喺canvas好勤力post resources同announcement，以為呢個sem讀auditing會幾開心啦，估錯曬。<br /><br />由第一堂到最後一堂講嘢都係無重點，course intro嗰堂完全係諗到咩就講咩，無組織過。唯一add-drop有印象就係上咗2堂(係呀add-drop未完)就chur住你要你分組，話之後上堂做discussion同做project，都痴線。跟住開始教書都係讀ppt slide，但係都好似前一篇review嗰位ching話齋，又要加啲完全無用嘅fillers，拖到講嘢慢曬，大家又無心機聽。上堂坐到最後望到成班都係做自己嘢，無人理佢，唔係有pop-up quiz應該全世界走曬堂。<br /><br />上堂PRS quiz最犀利，12點堂第一次上堂quiz係11:57話Let&#039;s wait for a couple of minutes to allow classmates to come from other classes，跟住12:03大把人重入緊嚟就話都齊人，開始。電話有技術問題？Sorry佢唔會等你，笑笑口咁同你講話下一題我比多啲時間你啦。<br /><br />所謂嘅discuss題目又係世界級，做嘅唔係教你理解情景同答題個logic，而係直接比textbook個model answer你睇，但係又會講話書個答案唔好，唔現實，你考試咁答呢只會攞到B或者C range。同埋佢唔會比你影相，亦都唔會post上canvas，會好誠實咁同你講話你影咗相，佢考試有咩題目好出呢。如果之後佢留喺教嘅，真係用幾十蚊上網買個solution guide啦，絕對值得買。<br /><br />簡單總結: 完全唔識教書，又唔靈活，根本唔理學生做唔做到你嘅要求。",
+      "comment_grading": "Group Project 16% (-&gt; 26%)<br />In-class iPRS Quizzes 4%<br />Canvas Quiz 2%<br />Mini Cases 8%<br />Midterm Exam 20%<br />Final Exam 50% (-&gt; 40%)<br /><br />Quiz佔6%，有4%係pop-up quiz，6次計最好5次，每次5條MC。時間緊逼，最好搵到同section fd子一齊搵答案，佢唔比人sit其他堂嘅quiz。做緊quiz又會叫你唔好嘈，自己做，但係實際上無人理佢，每次mean都一定過4/5。<br /><br />另外2%係canvas做12題MC嘅ethics quiz，限死一日夜晚嘅40分鐘內做完。<br />Mean: 10.2/12&nbsp;&nbsp;&nbsp;Me: 9/12<br /><br />Mini cases終於唔係用textbook個question bank，但係求其喺case度copy幾粒字上google就搵到，重要2個case係同一個test bank嘅前後兩條相鄰題目，hea到。一定要手寫，可以交hard copy或者scan返上canvas交，但係有得喺canvas交又要我哋手寫，何苦呢?<br />Case 1 Mean: 9.1/10&nbsp;&nbsp;&nbsp;Me: 9.5/10<br />Case 2 Mean: 8.9/10&nbsp;&nbsp;&nbsp;Me: 8.5/10<br /><br />Midterm絕對係課金買solution guide嘅價值嘅體現。20題MC竟然有19題係lecture slide出現過(其實即係抄textbook)但係又死都唔肯上堂show答案嘅題目。聽人講話另外3題short question都係textbook題目，改都無改過。TA改卷又鬆手，所以就算要寫短文mean都係極高。<br />Mean: 84.3/100&nbsp;&nbsp;&nbsp;SD: 7&nbsp;&nbsp;&nbsp;Me: 90.5/100<br /><br />Project不切實際，我哋要扮係一間list co嘅auditor，拍條presentation片比上司話點做好呢間公司上年嘅audit report，而我哋有嘅資料就係份annual report，無其他。指示非常空泛，其他細節請你憑空想像，你唔自己send email問佢基本上都唔知原來佢expect咁Q多嘢。<br />Mean: 89.3/100&nbsp;&nbsp;&nbsp;SD: ?&nbsp;&nbsp;&nbsp;Me: 83/100<br /><br />Final未考，不過我估都係喺test bank搬字過紙。得閒就背下solution啦，應該有用啩。<br />Update: 考完final，應該有啲唔係test bank題目，時間唔夠又裸考，就睇下final grade點樣。<br />Mean: 59.5/100&nbsp;&nbsp;&nbsp;SD: 11&nbsp;&nbsp;&nbsp;Me: 55/100<br /><br />最後B，還好啦。",
+      "comment_workload": "又唔係真係咁重workload，最大嘅workload反而係估佢想要啲咩，同埋嘥心機去迎合佢嘅要求，同埋最重要準時上堂同做quiz。剩返嘅assessment都唔算太難做，一係有得抄一係就係groupwork。",
+      "rating_content": 2,
+      "rating_teaching": 1,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 6,
+      "attachments": [
+        {
+          "key": "g1v5Yl5t731EOz5aZeMRv3NDvy0juvPT",
+          "name": "4510 Auditing Teaching Plan_Fall 2019",
+          "format": "doc"
+        }
+      ]
+    },
+    {
+      "hash": "CHDMO0DudYJ8ofOno8XIdmO9xC1UyewQ",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 1271,
+          "name": "KWOK, Terry",
+          "rating": 0
+        }
+      ],
+      "author": "kkcone",
+      "date": "Dec 03, 2019",
+      "title": "",
+      "comment_content": "I would say the course is about the basics of auditing, but Terry&#039;s teaching make everything so vague. Anyway just refer to the book.",
+      "comment_teaching": "I got a lot to say about his teaching, but if I have to make it short, - He is the worst lecturer that I have encountered throughout my 4 years life here in HKUST. <br />照PowerPoint讀都算，讀到佢咁真係Speechless – 所以自己睇都快過佢讀<br /><br />It is very common for some lecturers repeating the words on the PowerPoint, but he even got difficulties just to repeat the words. He would have a lot of fillers within one sentence. In other words, he includes meaningless words and phrases like eh, um, uh, ok, u know, alright, and much more in just one simple sentence. You have to make extra effort to filter what he has been saying while receiving a very low level of information, this makes me so frustrated every lesson. Not to mention, he stutters between words as well. Reading the PowerPoint and textbook on your own would even have a smoother and effective learning process. <br /><br />When he prepared some textbook&#039;s questions and discussed in class, he would display the official answer, not allowing any photo-takings (which is still acceptable) and reminding us that he did not like the answer as it was not specific enough to score full marks in his exams. But he never explains clearly how specific he wanted, he should try demonstrating or typing out his ideal answer on his PowerPoint if he has difficulty to explain verbally. <br /><br /><br />When he was trying to explain a particular slide, he would say a lot “this this that that” with his fingers pointing to the slides, you have to pay attention to what “this” and “that” refer to. And when revealing the answer of true or false questions, he would just “explain” it by saying “it’s true as it’s just the same as what I have just said.” Or “ it’s false as it’s opposed to what I have just said.” At the end he would say “I hope you gain more understanding by this.” How funny.",
+      "comment_grading": "The arrangement for the final is world-class. Complicated, troublesome and meaningless. The time given for each part was very insufficient. And we still have to manage to scan and upload the doc to canvas and email 3 times for a final. I&#039;m sorry but I have been cursing throughout the whole final. Not looking forward for my final grading.",
+      "comment_workload": "And never reg his 0900 lesson if you are not confident enough to sit in the classroom and be ready at 9am sharp. He does not allow attending other sessions. He would start the lesson and most importantly the iPRS right away. While best 5 out of 6 iPRS are calculated towards your final grade, being late and missing out any questions do you no good. While people were still rushing into the classroom, he would just say “Ok, all ready, let’s start!”. God apparently a lot of us were not! (What makes you think we’re all ready?! Ok, just remember good students should arrive punctually.) We are required to answer the 5-6 questions a time with ard 1-2min per question. Those questions are from Ppt/textbooks. <br /><br />Oh and on the day we got an online quiz at night, many of us did not expect a 0900 iPrs, but yes he still had an iPRS for us 0900 sharp. How exciting. Btw he asked if the iPRS was fun after that.&nbsp;&nbsp;He always thinks he is funny and humorous, but NOT. AT. ALL. <br /><br />What makes me so confusing and speechless is about the assignment. We had to hand in a mini case assignment. Hand-written (understandable), but the reason why he required us to do a hand-written one was that he nearly forgot how to write, so he had to train us.&nbsp;&nbsp;And we had to hand in a digital copy. He asked us to write it out, scan and submit back to canvas. To be honest, there’s nothing wrong and it’s workable, but it’s just that what’s the point of doing so?<br /><br />When he was explaining a mcq in class, he would say answer B and C is wrong, then the answer would be A. But he did not explain why not answer D. He is so weird, and I don’t get his logic at most times. <br />It’s so sad that all the sessions are taught by him in this semester, and this is a compulsory course. So, just grin and bear it. But if a 4% iPRS (scoring full mark) does not convince you to be in class, it’s alright to run away from the lecture. <br /><br />We got iPRS, quiz, case assignments, midterms, projects and presentations, but final still accounts for 50%(before the rearrangement). You may refer to the attached syllabus.",
+      "rating_content": 3,
+      "rating_teaching": 1,
+      "rating_grading": 3,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "gUmZjXOyW5bU0S10fmTdSlbWQeFm1p54",
+          "name": "Course Outline_ACCT4510 Auditing",
+          "format": "docx"
+        }
+      ]
+    },
+    {
+      "hash": "r0hql19XpjhCHFqLXMvf1jqrdXwkGT6W",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 8,
+          "name": "LAI, Tai Wai David",
+          "rating": 1
+        }
+      ],
+      "author": "Dreamscometrue",
+      "date": "Jan 27, 2019",
+      "title": "",
+      "comment_content": "個course name好清楚啦，就係audit既唔同內容，個course focus 係external auditor 點樣去審核一間公司既financial statements。<br /><br />好多分析都係common sense 轉做專業用字，係一個auditor既基礎知識，唔好期望你會知道audit firm既實際運作。",
+      "comment_teaching": "不停間書，完。<br /><br />其實幾好既，解釋concept 好清晰，會用正常既語言解釋terms and concepts，上堂又會同你做下題目，典型香港人教法。<br /><br />上堂幾搞笑，試過時間最好個堂坐爆，佢就講笑咁問係咪要expect 4半個堂無人上。",
+      "comment_grading": "好好，project 個佔分太細無乜影響，最後都係睇考試。<br /><br />Midterm final 都above mean 半個sd 應該都有A-，認真唔錯。",
+      "comment_workload": "Project 要拍片，比較煩。<br /><br />Mid-term 全MC，幾多伏<br />Final 改得好鬆，全Case question 個 mean 都80幾。",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "kycKMdBLoBvIYKrNiNCdHpern4TEmTXk",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 8,
+          "name": "LAI, Tai Wai David",
+          "rating": 1
+        }
+      ],
+      "author": "chris_tine",
+      "date": "Jan 20, 2019",
+      "title": "",
+      "comment_content": "It&#039;s like the basics of auditing.<br />1. Introduction to Auditing<br />2. Legal Framework of Auditing<br />3. Professional Framework of Auditing<br />4. Fundamental Concepts of Auditing<br />5. Client Acceptance and Continuance<br />6. Risk Assessment (I): Understanding the Client and Its&nbsp;&nbsp;Environment <br />7. Risk Assessment (II): Understanding the Client’s Internal Controls<br />8. Risk Assessment (III): Risk Responses Using Sales Cycle as Illustration <br />9. Completing the Audit",
+      "comment_teaching": "David is quite passionate on his teaching and would be very willing to answer any of your questions. Every class, it is very important to jot down the notes and highlights of textbook shown by him as these are all relevant to the exams.",
+      "comment_grading": "Grading is fair. If you score slightly higher than the mean in 2 exams, you can have B range.<br /><br />Mid term was like memorizing the things highlighted by David in the textbook while final was more on analyzing and understanding on the topics.",
+      "comment_workload": "The workload is not heavy as you only have a 15-min video presentation on an assigned question (15%), ~2 online quizzes (10%), 1 mid-term (20%) and 1 final exam (55%).",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "FPqnUVD5pUwCNOBXR7ICb6QrdU0nhvoe",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 8,
+          "name": "LAI, Tai Wai David",
+          "rating": 1
+        }
+      ],
+      "author": "vinci",
+      "date": "Jan 15, 2018",
+      "title": "",
+      "comment_content": "All basic information about auditing. They are somehow common sense. And you can find a lot of reference from the CPA exam.",
+      "comment_teaching": "The professor usually read through the text. And sometimes he will use Cantonese to repeat. However, the professor did not follow the sequence of the textbook chapters and the teaching schedule is not well organized. You may get lost sometimes.",
+      "comment_grading": "My midterm is 2 marks below mean and meet the mean in the final exam. I got B+ finally.",
+      "comment_workload": "Need to do a video and it takes time since it has to last for 15 min. But no assignment.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "XZX4JId0WkK7FccjGYdlBIY1Xkp7PWTm",
+          "name": "Fall 2017 ACCT4510 Course Outline",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "3ZtGVSderfCCkxMGmMUYf4uiRxkTRXUW",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 8,
+          "name": "LAI, Tai Wai David",
+          "rating": 1
+        }
+      ],
+      "author": "Cat",
+      "date": "Jan 07, 2018",
+      "title": "Better than I thought",
+      "comment_content": "Very boring stuff, with nothing to do with acct rules<br />All was about law, like understanding the ethical considerations as being an auditor and the steps in auditing<br />Very theorical due to its nature",
+      "comment_teaching": "Fair, sometimes he speaks Cantonese (he is from HK) to make fun<br />Due to the nature of this course(law), it is not uncommon to feel boring",
+      "comment_grading": "Mid term: below 0.25 SD<br />Final: mean<br />Group project(make a video to explain ethical considerations of an auditor, like “integrity”): above mean<br /><br />Grade: B+",
+      "comment_workload": "Much work to do in video shooting",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "hPfoS9S8KKApJiDsxVproaJDR3khU7b7",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 8,
+          "name": "LAI, Tai Wai David",
+          "rating": 1
+        }
+      ],
+      "author": "Kody",
+      "date": "Dec 15, 2016",
+      "title": "Nothing much",
+      "comment_content": "Standard auditing methodologies and theories. David uses various sources for this course, so there are no standard textbooks. He will upload a course outline for every lecture topic, so print them out or bring your laptop to class to take notes.<br />He will use QP and ACCA past papers to do discussion questions in class, which is quite nice.",
+      "comment_teaching": "David likes to walk around and ask students questions suddenly, so you have to pay attention. He will sometimes use Cantonese in class, but then explain again in English. Overall, he understands the concepts clearly. But he doesn&#039;t smile too much...",
+      "comment_grading": "15% is awarded based on the group project on audit ethic standards. Creativity is the keyword for the presentation. David will assign a specific scenario for each same numbered group from different sections and then we present the topic during class time. So Group 1 from L1, 2, 3 will present the same topic. David will record the presentations and then chooses the best presentation from the 3 and put the video of those presentations on YouTube for us to watch. Afterwards, we are to complete MCQs designed by the featured presentation groups, which accounts for another 5%; however, David found that many of the MCQs designed were problematic, so he abandoned the MCQs. That 5% is accounted for somewhere else (I&#039;m not sure where...)<br />10% is for in-class video quiz. Basically, we watch 2 videos in class, and answer MCQs based on the videos; very easy and straightforward. But due to some reason, David cannot finish the lectures on time, so 1 video was cancelled, so that 5% is gone somewhere as well...<br />20% for closed book midterm. Just memorize as much as you can.<br />55% for open book final. Non-cumulative, and the format is like the discussion questions and QP in class. So print out notes and label them carefully. A lot of writing is needed and time is tight.",
+      "comment_workload": "Workload is not much, even for the project. Just need to be creative and have a sense of humor to make the presentation less boring, and you will be fine.<br />A lot of memorizing for the midterm though, so that could be quite exhausting, but final is open book. And no homework!!",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

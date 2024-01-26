@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 3908,
+    "subject": "CORE",
+    "code": "1340",
+    "name": "Technology and Innovation: Social and Business Perspectives",
+    "description": "This course describes the development of technology and innovation from social and business perspectives.  It covers the technology side of innovations, how an invention can be developed into a successful commercial product, the role of innovation in society and how innovations are created from a socioeconomic perspective.  It highlights that successful development and adoption of innovative products relies not only on the technology itself but also a complex process that is subject to the impact of cultural, political, economic and managerial factors.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2240,
+      2230
+    ],
+    "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1401\" href=\"/review/CORE1401\" target=\"_blank\">CORE 1401</a> OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1402\" href=\"/review/CORE1402\" target=\"_blank\">CORE 1402</a> OR CORE 1403 OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1404\" href=\"/review/CORE1404\" target=\"_blank\">CORE 1404</a> OR LANG 1002 (prior to 2022-23)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 388,
+        "name": "XU, Yan",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "9vdOsUHynYYGafc9KWpz3apUJikeFGtk",
+      "semester": "2022-23 Summer",
+      "instructors": [
+        {
+          "id": 388,
+          "name": "XU, Yan",
+          "rating": 1
+        }
+      ],
+      "author": "Larry128",
+      "date": "Aug 18, 2023",
+      "title": "Extensive but easy",
+      "comment_content": "The content is very extensive and there are 8 lectures in total:<br />1. Introduction<br />2. Economic Implications of <br />Technology and Innovation<br />3. Innovation and Strategy<br />4.1. The Product Innovation Process<br />4.2. Technology Life Cycles and S Curves<br />——————(midterm exam)——————<br />5.1. Open Innovation<br />5.2. Open Innovation at Huawei<br />6. Intellectual Property Management<br />7. User Innovation – Democracy of Innovation<br />8.1. Diffusion of Innovation<br />8.2. Case Study: The Adoption of SMS in Hong Kong and China<br />——————(final exam)——————<br />In fact, most of the content is kinda common sense. However, if u aim for good grade, u may need to pay more effort on making the cheat sheet for exams",
+      "comment_teaching": "Prof. Xu Yan is good at teaching and always gives good examples (such as personal experience).",
+      "comment_grading": "I think the grading is competitive as the content is pretty easy.<br />The scores (and my scores):<br />Midterm- lowest 54, mean 76.1, highest 89 (my score 88.5)<br />Final- lowest 56, mean 79.5, highest 96 (my score 95)<br />Group Project- lowest 95, mean 96.5, highest 98 (our group 97)<br /><br />My final grade is A+<br />Well, I think I’m pretty lucky that this semester the project we don’t need to present due to the typhoon.",
+      "comment_workload": "For the workload, Prof. Xu Yan didn’t take any attendance and provided us lecture recordings to watch. Technically, you don’t need to attend any lectures.<br /><br />I think the workload mainly comes from the project- writing an essay.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

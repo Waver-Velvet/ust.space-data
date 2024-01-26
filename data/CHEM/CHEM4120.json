@@ -1,0 +1,302 @@
+{
+  "course": {
+    "id": 103,
+    "subject": "CHEM",
+    "code": "4120",
+    "name": "Biomolecular Chemistry",
+    "description": "This course will introduce the fundamental chemical principles underlying the structure, properties, and functions of biologically important molecules. Using the chemical concepts of bonding, structure, and structure-reactivity relationships developed in organic chemistry, this course will cover topics on the stereochemistry, structural diversity, physicochemical properties, and reactivity of amino acids, peptides, proteins, nucleic acids, carbohydrates, and lipids to understand the molecular basis of their biological functions. Another major topic of this course is the preparation of these important biological molecules for understanding of their functions and exploitation of their biotechnological and medicinal values, using available organic chemistry methods.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"3120\" href=\"/review/CHEM3120\" target=\"_blank\">CHEM 3120</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.29,
+    "rating_teaching": 3.86,
+    "rating_grading": 3.86,
+    "rating_workload": 4.29,
+    "review_count": 7,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 49,
+        "name": "GUO, Zhihong",
+        "count": 7
+      },
+      {
+        "id": 1572,
+        "name": "VONG, Kenward",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "g63hZTYBRUUceu6po0dyNqA01qhrDlKo",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 49,
+          "name": "GUO, Zhihong",
+          "rating": 1
+        },
+        {
+          "id": 1572,
+          "name": "VONG, Kenward",
+          "rating": 1
+        }
+      ],
+      "author": "tommylau",
+      "date": "Dec 29, 2022",
+      "title": "Seems Father Guo hasn&#039;t quit his career as a killer",
+      "comment_content": "Mid term:<br />1. Protein<br />2. Lipids<br /><br />Final:<br />3. Carbohydrates<br />4. Nucleic acids<br /><br />Just similar to biochem 1, but with more emphasis on the chemistry and synthesis of those biomolecules.",
+      "comment_teaching": "Kenward and Father Guo is completely different in terms of pace. Kenward is kinda like speed-running the lectures, while Prof. Guo is just like a kind father who slowly stuff his wisdom into his children&#039;s brain. Anyways both styles are good and I have learnt a lot from both of them.",
+      "comment_grading": "Not spectacular compared to other 4000 level chemistry course<br /><br />Not to self-doxxed, I got pretty decent score in midterm like<br />~98/100 while mean is ~70. Thought no matter how bad I did in final, I would still get an A- or something, so I kinda slack off and chill after midterm. End up I was getting ~68/100, while the mean is ~57 in the final. And it is kinda frustrating that I can only get a B+, while I can get an A- in another 4000 level course, even I just get around 50% overall.",
+      "comment_workload": "Zero workload, just don&#039;t slack off so you can secure a A-",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "tOUNu7pwSHQJqkuL1xxz7VUjlcWweTpb",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 49,
+          "name": "GUO, Zhihong",
+          "rating": 0
+        }
+      ],
+      "author": "Quaesitor",
+      "date": "Dec 08, 2021",
+      "title": "LIFS 4120",
+      "comment_content": "Introduction: Amino acids, peptides and proteins (1)<br />Introduction: Amino acids, peptides and proteins (2)<br />Synthesis of amino acids and peptides (1)<br />Synthesis of amino acids and peptides (2)<br />Synthesis of proteins<br />Analysis of amino acids and proteins: Mass spectroscopy<br />Peptide sequencing<br />Peptide fingerprinting and proteomics<br />Lipids—Fatty acids, wax, and triacylglycerols<br />Lipids—Components and structure of cell membranes (1)<br />Lipids—Components and structure of cell membranes (2)<br />Biosynthesis of lipids and drug development <br />Carbohydrates—Stereochemistry and hemiacetal forms<br />Carbohydrates—Reactions of monosaccharides <br />Carbohydrates—Di-, oligo- and polysaccharides <br />Carbohydrates—Di-, oligo- and polysaccharides<br />Carbohydrates—Synthesis of oligosaccharides (1)<br />Carbohydrates—Synthesis of oligosaccharides (2)<br />DNA structure<br />DNA properties, reactivity, and replication<br />DNA amplification and DNA chemical synthesis <br />DNA sequencing (1) <br />DNA sequencing (2) <br />RNA structure, properties, and functions<br /><br />Forget about the reaction, mechanism taught in class, as NONE of them will be useful in the exam. <br />For the midterm, there are not many reactions tested in the midterm, and for the final, NONE! NONE of the mechanism and reaction questions are asked and nearly 70% of the questions are asked about DNA replication, duplication etc. For LIFS students it&#039;s the course for you. For Chemistry students, GOOD LUCK and PRAY YOU REMEMBER WHAT YOU&#039;VE LEARNT IN LIFS 1902.",
+      "comment_teaching": "Father Guo speaks in a very sluggish way which I prefer to use zoom so that I can double the pace that he teaches. He&#039;s approachable and patient to explain everything you doubt.",
+      "comment_grading": "It seems Prof.Guo decided to quit his career as a killer.<br />Midterm: <br />Low: 12.6 <br />High: 42.5 <br />Mean: 24.58 <br />SD: 7.X<br /><br />Final:<br />Low: 9 <br />High: 47 <br />Mean: 29.43 <br />SD: N/A (My approximation is 9)<br /><br />Me: <br />Midterm: 32.2 <br />Final: 35.5 A-<br />Mean is C/C+",
+      "comment_workload": "Only 1 midterm and 1 final, 50% each.<br />GOOD LUCK on cramming everything in the ppt into your brain. IT&#039;s A LIFS COURSE IN DISGUISE.",
+      "rating_content": 2,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "fAk4Mj8xRXhP29XLKyD5f1k1qjoLE1Jf",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 49,
+          "name": "GUO, Zhihong",
+          "rating": 1
+        }
+      ],
+      "author": "LukaModric",
+      "date": "Sep 05, 2019",
+      "title": "",
+      "comment_content": "Introduction and Amino acids<br />Solid-state synthesis of peptides (1) <br />Solid-state synthesis of peptides (2)<br />Synthesis of proteins&nbsp;&nbsp;<br />Analysis of amino acids and proteins: Mass spectroscopy<br />Peptide fingerprinting of proteins&nbsp;&nbsp;<br />Proteomics (1)<br />Proteomics (2) <br />Lipids—Fatty acids, wax, and triacylglycerols<br />Lipids—Components and structure of cell membranes (1) <br />Lipids—Components and structure of cell membranes (2)&nbsp;&nbsp;Biosynthesis of lipids and drug development <br />Carbohydrates—Stereochemistry and hemiacetal forms<br />Mid-term exam<br />Carbohydrates—Reactions of monosaccharides<br />Carbohydrates—Di-, oligo- and polysaccharides <br />Carbohydrates—Synthesis of oligosaccharides<br />DNA structure, properties, and reactivity (1) <br />DNA structure, properties, and reactivity (2) <br />DNA replication and amplification <br />DNA chemical synthesis<br />DNA sequencing (1) <br />DNA sequencing (2)<br />RNA structure and properties <br />RNA functions",
+      "comment_teaching": "-To be updated-",
+      "comment_grading": "Midterm exam: 50%<br />Final exam: 50%<br /><br />-To be updated-",
+      "comment_workload": "-To be updated-",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "DJ6lXo6yRqLMETuHL7LhXxaQmonU21Jr",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 49,
+          "name": "GUO, Zhihong",
+          "rating": 1
+        }
+      ],
+      "author": "Fickdeinemutter",
+      "date": "Feb 01, 2019",
+      "title": "Don&#039;t Lose Ground in Either Exam",
+      "comment_content": "Fundamental Biochem.<br /><br />1. Amino acids<br />2. Proteins <br />3. Lipids<br /><br />—— Mid-term ——<br /><br />4. Carbohydrates<br />5. Nucleotides, DNA &amp; RNA<br /><br />—— Final ——<br /><br />Both exams rarely had questions asking you to draw as complicated mechanisms as those in Org Chem I &amp; II. Most questions focused on precise information &amp; key concepts that were easily neglected in revision.<br /><br />Be sure you know the Cahn-Ingold-Prelog rule, Harworth/Fischer&#039;s projections etc. well. They&#039;re essential for understanding the structures &amp; chemical properties of carbohydrates.",
+      "comment_teaching": "Hearty teacher. Always kind to everyone. <br /><br />For teaching quality, I&#039;d say average. Many points were not expounded clearly during lesson &amp; thus you&#039;re encouraged to ask whenever you&#039;ve doubt.",
+      "comment_grading": "ONLY consisted of 2 exams.&nbsp;&nbsp;<br />50% each. 50% x 2 = 100% in total. <br /><br />Mid-Term&#039;s mean: 26.9/50<br />Final&#039;s mean: 27.5/50<br />The SDs were fairly small. <br /><br />No graded homework. <br />No iPRS. <br />No attendance counted. <br /><br />Be sure you do equally well in both exams to secure B range. I performed average in the mid-term but “slipped” in the final, ending up in C Range. <br /><br />I was really shocked when I looked at the grade on SIS.",
+      "comment_workload": "Revise &amp; Understanding. <br /><br />Some ungraded problem sets were uploaded onto Canvas for self-practice.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "ncusxHGfMXBQixXe6XVLBrC7p6JrmVJ2",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 49,
+          "name": "GUO, Zhihong",
+          "rating": 1
+        }
+      ],
+      "author": "mandyrz",
+      "date": "Jan 05, 2019",
+      "title": "",
+      "comment_content": "midterm: mainly amino acids <br />final: mainly carbohydrates and DNA",
+      "comment_teaching": "Prof. GUO is very kind and nice. He is welling to answer students&#039; questions after class or through email. He explained those mechanisms and concepts clearly in lectures ( although the pace was quite slow ).",
+      "comment_grading": "midterm: above mean around 1 SD<br />final: slightly above mean<br />--&gt;&nbsp;&nbsp;B",
+      "comment_workload": "2 problem sets, one was released before midterm and one was before final exam. They were just for your own practice. (one question from the first problem set was tested in midterm in a similar way)",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "GtRrz3JoxomIpgYM1hntlhaVh2DC7Tlt",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 49,
+          "name": "GUO, Zhihong",
+          "rating": 1
+        }
+      ],
+      "author": "JK1",
+      "date": "Jan 05, 2019",
+      "title": "Take this course if you really interested in this field",
+      "comment_content": "Mainly four parts:<br />(1) Amino acid<br />(2) Lipid (only some minor notes)<br />--Mid-term--<br />(3) Carbohydrates<br />(4) Nucleic Acid (DNA, and RNA)<br />--Final--<br /><br />Focus on chemical structures, properties, synthetic strategies, protection and analysis, and prevent overlapping with biochemistry courses.<br /><br />I have no idea on how to learn the synthesis and protection part.",
+      "comment_teaching": "His teaching style is fairly good, but the pace is quite unpredictable, sometimes fast and sometimes too slow. (but generally is slow)<br />Need to focus a lot to listen his English.",
+      "comment_grading": "Fair.<br />Mid-term (50%):<br />min: 14.2/50, mean: 26.9/50, max: 41.2/50<br />Final exam (50%):<br />min: 13.1/50, mean: 27.5/50, max: 43.2/50<br /><br />Around mean = B range<br />Below mean = C range",
+      "comment_workload": "Basically zero. Only mid-term (50%) and final exam (50%) are counted towards the course grade. Problem set is not compulsory.<br />Release each problem set after completion of each main part.<br />You may need to spend some time to understand and memorise the notes.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Pzav1RMG5Af7DppnVgooNvnGzB0cScMv",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 49,
+          "name": "GUO, Zhihong",
+          "rating": 1
+        }
+      ],
+      "author": "Holo",
+      "date": "Mar 17, 2017",
+      "title": "慈父Father Guo",
+      "comment_content": "成個course設計同biochem 1差唔多，主要分Protein, Lipid, Carbohydrates同Nucleic acid，<br />主要教各種biomolecule有咩特點，點樣synthesize，對於有志向biomolecule synthesis發展嘅同學非常有用。<br />不過成個course主要focus係protein synthesis，midterm前都講protein同埋lipid，不過lipid只係輕輕帶過，無特別野會學。<br />Midterm後就學Carbohydrates同Nucleic acids，format都同之前差唔多。",
+      "comment_teaching": "Father Guo佢上堂講英文唔係太好，都幾催眠，不過佢就好鍾意講講下野笑，整體都無咩問題，只係會悶少少，所以建議真係有興趣先讀。",
+      "comment_grading": "成日聽人講Father Guo好爛grade，不過呢次讀就唔覺，佢midterm之後話今年成班整體都考得好，不過唔知關唔關事，最後overall成科都係77%左右，都有A",
+      "comment_workload": "Workload奇低，50%midterm 50%final，佢教完一個大topic會有problem set比學生做，不過都算幾難同埋無答案，如果真心唔識做或者唔肯定，可以問佢，同埋problem set唔使交亦唔計分，所以有時間先做都得。",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

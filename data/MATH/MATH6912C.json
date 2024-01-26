@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 2543,
+    "subject": "MATH",
+    "code": "6912C",
+    "name": "Reading Course: Turbulence Theory, Modeling and Simulation",
+    "description": "(1) First part will focus on homogeneous turbulence theory, like structure function, velocity spectral, energy cascade and kolmogorov theory. (2) Wall flows will be concentrated to illustrate turbulence modeling and simulations, namely RANS, LES and DNS method. (3) Read classical and advanced paper to stimulate new idea and model on turbulence. Students should seek instructor's approval to take this course.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1730
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"5353\" href=\"/review/MATH5353\" target=\"_blank\">MATH 5353</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

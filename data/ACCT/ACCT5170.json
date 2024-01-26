@@ -1,0 +1,38 @@
+{
+  "course": {
+    "id": 1582,
+    "subject": "ACCT",
+    "code": "5170",
+    "name": "Corporate Financial Reporting II",
+    "description": "Corporate financial reporting from the perspective of managers and financial statement users, including analysts.  Topics include intercorporate investments, business combinations, multinational operations, pensions, and earnings quality.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ACCT\" data-code=\"5160\" href=\"/review/ACCT5160\" target=\"_blank\">ACCT 5160</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

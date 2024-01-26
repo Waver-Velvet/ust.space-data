@@ -1,0 +1,152 @@
+{
+  "course": {
+    "id": 1059,
+    "subject": "RMBI",
+    "code": "4110",
+    "name": "Financial Service Operations Management",
+    "description": "This course focuses on the products, processes and delivery channels in the financial industries. It analyzes and evaluates the designs and performances of the internal operations and the different distribution channels of the financial institutions, and identifies opportunities for continuous improvement in productivity, efficiency and service quality. Issues like operational risk management, application of IT, automation, outsourcing and new trends in the financial service operations for both financial institutions and non‐financial institutions will be explored.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"ISOM\" data-code=\"2500\" href=\"/review/ISOM2500\" target=\"_blank\">ISOM 2500</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2411\" href=\"/review/MATH2411\" target=\"_blank\">MATH 2411</a>) AND <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"2700\" href=\"/review/ISOM2700\" target=\"_blank\">ISOM 2700</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 1,
+    "rating_teaching": 1,
+    "rating_grading": 1.33,
+    "rating_workload": 1.33,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 405,
+        "name": "NG, Shu Ming",
+        "count": 3
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "mkgJajkxxqUkFveltSLT8Y3EtT1txOLq",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 405,
+          "name": "NG, Shu Ming",
+          "rating": 0
+        }
+      ],
+      "author": "Cathleen",
+      "date": "Nov 04, 2019",
+      "title": "Wonderful course",
+      "comment_content": "Crap.<br />I cannot believe this is a 4000 level course. <br />Do not have too much expectation on him.<br /><br />SHITTY and fragmented PPTs with 365 million grammatical errors.",
+      "comment_teaching": "You would wonder how he was granted a professor level post.<br />He is the kind of professor who does not publish reasearch paper. <br />AND he teaches SO BADLY. <br />HE SUCKSSSSS.<br />If he is not an emeritus I am pretty sure he should have been sacked many years ago.",
+      "comment_grading": "The funniest part is the participation. He COULD NOT remember students&#039; names and repeat asking 3000 times. <br /><br />Please retire and do not waste the resource of HKUST.<br /><br />He killed my grade.<br />He deserves a wonderful retirement life.<br /><br />Please do not come to the uni again, please.",
+      "comment_workload": "Outdated case reading every week. More than 10 pages each.",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 6,
+      "vote_count": 6,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ElDt4YnEjq0olIzj1QMoIZTm7wOmXVqa",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 405,
+          "name": "NG, Shu Ming",
+          "rating": 0
+        }
+      ],
+      "author": "Elliott",
+      "date": "Dec 21, 2017",
+      "title": "Useless course (worse than ISOM2010)",
+      "comment_content": "It&#039;s the most useless and worst course I&#039;ve taken in UST (compared to both CS and RMBI streams, including Common Cores), worse than ISOM2010. It was aimed at covering operations management in financial industry, but unfortunately nothing concrete was discussed in the course (the common core intro to financial market by Prof. Veronique is much better). Attending lectures is a waste of time, and ironically is mandatory. A lot of the materials are severely out of date.",
+      "comment_teaching": "With all due respect, the prof&#039;s teaching is not good, perhaps one of the worst in UST. Around half of the time in each lecture was bullsh*t. Prof often referred to wrong &quot;facts&quot;. The course materials are not well structured, and very messy.",
+      "comment_grading": "Grading is so-so",
+      "comment_workload": "Case reading nearly every week. Final project is quite watery, which was to study a trend in financial industry, and present in report and presentation.",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 2,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "lXvjvAjA8hURRZTzciO7osHDMVUPqxdO",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 405,
+          "name": "NG, Shu Ming",
+          "rating": 0
+        }
+      ],
+      "author": "Maurice",
+      "date": "Jan 26, 2017",
+      "title": "Waste of time",
+      "comment_content": "This course introduces the products and processes in the financial industries (banking, insurance, brokerage, mutual fund management, operational risks). It analyzes the design and the operations of the different distribution channels (branch, ATM, call center, internet, etc) as well as their productivity and performance measurements, and the issues of quality control and operational risk. It concludes with the discussion on the automation of financial services and operations, the design and implementation of decision support systems, and the trends and impact of internet on financial services and operations. (Mobile banking, globalization, etc)",
+      "comment_teaching": "Bad. Easily proved by decreasing attendance rate.<br /><br />In fact, the prof just had taught 1/3 of the semester (or even less) and the rest were students&#039; presentations.",
+      "comment_grading": "In-class participation, including case presentation and discussion: 20%; Homework: 12%; <br />Project (team) report: 18%; <br />Final Examination: 50% <br /><br />Final Exam covers all case studies, students are required to print all out and bring it to the examination hall. If you have forgotten to print, you will not able to complete the exam.",
+      "comment_workload": "1 group worksheet per week (assignment base on case study)<br />2 group presentations.",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

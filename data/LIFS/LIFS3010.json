@@ -1,0 +1,316 @@
+{
+  "course": {
+    "id": 790,
+    "subject": "LIFS",
+    "code": "3010",
+    "name": "Molecular and Cellular Biology I",
+    "description": "Replication and roles of nucleic acids in cellular and viral systems; genome organization, vector-host systems, expression and regulation of genes; catalytic RNA, genetic code evolution, RNA modification and processing, and anti-sense systems.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"LIFS\" data-code=\"2210\" href=\"/review/LIFS2210\" target=\"_blank\">LIFS 2210</a> and <a class=\"course-link\" data-subject=\"LIFS\" data-code=\"2220\" href=\"/review/LIFS2220\" target=\"_blank\">LIFS 2220</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3.86,
+    "rating_teaching": 3.43,
+    "rating_grading": 4,
+    "rating_workload": 3.57,
+    "review_count": 7,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 483,
+        "name": "LIANG, Chun",
+        "count": 6
+      },
+      {
+        "id": 472,
+        "name": "WU, Zhenguo",
+        "count": 5
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "y9mWY3iYwhtp7ozC4xbUPggydZEzw1lC",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 483,
+          "name": "LIANG, Chun",
+          "rating": 1
+        }
+      ],
+      "author": "willis1112",
+      "date": "Dec 05, 2023",
+      "title": "major subject for biochemistry students",
+      "comment_content": "deeply elaborated topics on genomes like double helix structure, operon, etc<br /><br />Before midterm <br />genes are DNA<br />Genes Encode RNAs and Polypeptides<br />The Interrupted Gene<br />Replication Is Connected to the Cell Cycle<br />The Replicon: Initiation of Replication<br />DNA Replication<br />Extrachromosomal Replicons<br />Prokaryotic Transcription<br />mRNA Stability and Localization<br />Translation<br />The Operon<br /><br />After midterm<br />Chromosome<br />Promoters and enhancers<br />Eukaryotic transcription regulation<br />Epigenetic regulation <br />nucleosomes<br />Regulatory RNAs",
+      "comment_teaching": "read PowerPoint with elaboration as normal",
+      "comment_grading": "not yet graded <br />Midterm average 49, median 48 highest 75.85",
+      "comment_workload": "depends on your personal preference on getting what grade, no assignments only two examinations and lesson quizzes.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "MVBWxQN44DO9D26Sz4IGNh1dEVkZsK9Z",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 472,
+          "name": "WU, Zhenguo",
+          "rating": 1
+        },
+        {
+          "id": 483,
+          "name": "LIANG, Chun",
+          "rating": 1
+        }
+      ],
+      "author": "YanTing",
+      "date": "Dec 01, 2022",
+      "title": "",
+      "comment_content": "his is a core foundation course for students majored in Biochemistry and Cell Biology. The course <br />aims to introduce to students the basic concepts and current knowledge of molecular biology with a <br />focus&nbsp;&nbsp;on&nbsp;&nbsp;genes&nbsp;&nbsp;and&nbsp;&nbsp;their&nbsp;&nbsp;regulation.&nbsp;&nbsp;Key&nbsp;&nbsp;topics&nbsp;&nbsp;include&nbsp;&nbsp;genes,&nbsp;&nbsp;DNA,&nbsp;&nbsp;RNA,&nbsp;&nbsp;DNA&nbsp;&nbsp;replication, <br />transcription&nbsp;&nbsp;and&nbsp;&nbsp;regulation&nbsp;&nbsp;in&nbsp;&nbsp;both&nbsp;&nbsp;prokaryotes&nbsp;&nbsp;and&nbsp;&nbsp;eukaryotes,&nbsp;&nbsp;protein&nbsp;&nbsp;synthesis,&nbsp;&nbsp;organization&nbsp;&nbsp;of <br />chromosomes and nucleosomes, and epigenetic regulation of gene expression.",
+      "comment_teaching": "The regulation between prokaryotic and eukaryotic may easily messed up. <br />while the lesson taught by profession wu is boring <br />both of their ppts required some time to understand whats happening",
+      "comment_grading": "Fair",
+      "comment_workload": "just midterm and final exam",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "aHjDorX2WyTphMURxb5LtOCojqssvj7h",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 472,
+          "name": "WU, Zhenguo",
+          "rating": 1
+        },
+        {
+          "id": 483,
+          "name": "LIANG, Chun",
+          "rating": 1
+        }
+      ],
+      "author": "strugglinglolol",
+      "date": "Jan 24, 2022",
+      "title": "",
+      "comment_content": "I honestly find the content in this course pretty interesting, but as you&#039;re learning processes for both prokaryotes and eukaryotes it&#039;s easy to mix up some of them. Especially the transcription factor names are pretty similar.",
+      "comment_teaching": "well, typical LIFS course teaching: reading from ppt. <br />to be fair I can feel Prof. Liang&#039;s passion for the topics and in teaching. He was rather patient and welcoming when students asked him questions. Prof. Liang also asked as to write summary essays which I find helpful in my understanding of the topics. But also maybe because Prof. Wu teaches the second half of the semester, people start to slack off so no one really asks questions in class (?) or maybe just because I missed quite a few of them personally lol. Ngl, both of their ppts required some time to understand whats happening.",
+      "comment_grading": "if you ain&#039;t particularly hard working/ gifted, you already know what grade you&#039;re gonna get.",
+      "comment_workload": "I find the workload a bit too much honestly. As there&#039;s quite a few things that you have to memorize. For both the midterm and final, just as I had finished comprehending everything and summarized it so i understand it in a bigger picture, it is time for the exam. So I did not have enough time to memorize the details at all. Could be my own fault tho, I don&#039;t particularly enjoy memorizing things yet I wounded up in this major so jokes on me lol.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "yFHftUzxBAe87DNoG7KuZBJZ8kNqNEc9",
+      "semester": "2019-20 Fall",
+      "instructors": [],
+      "author": "GubsW",
+      "date": "Jan 21, 2020",
+      "title": "",
+      "comment_content": "The content is quite simple in Prof. Liang&#039;s part but some concepts are difficult in Prof. Wu&#039;s part. The exam is not difficult in Liang&#039;s part. It is quite straight forward.",
+      "comment_teaching": "They are explaining quite well but Prof. Wu speaks very softly. It needs to pay more attention to his part. Although there is video recorded, the voice of Prof Wu also very softly. Overall, the teaching style is very good, the explanation of the difficult concepts are enough.",
+      "comment_grading": "One summary 5%<br />Midterm 45%<br />Exam 50%<br /><br />Summary 4/5<br />Midterm 80/100<br /><br />Overall A-",
+      "comment_workload": "The summary is one page limited. It can finish within 1 hour. However, it needs to work hard on mesmerizes concepts as prof. Liang&#039;s part is straight forward.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "2AgzF9Ce5kvE3Kp4GGZDH8QW4BnQTxCK",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 483,
+          "name": "LIANG, Chun",
+          "rating": 1
+        },
+        {
+          "id": 472,
+          "name": "WU, Zhenguo",
+          "rating": 1
+        }
+      ],
+      "author": "Minerva07",
+      "date": "Mar 10, 2019",
+      "title": "",
+      "comment_content": "Basic molecular biology content, DNA replication, transcription and translation, and the regulation mechanism of them. Genome structure, focusing on epigenomics. the content was much more detailed than previous life science courses and requires a more holistic understanding of the material.",
+      "comment_teaching": "both professors are good at the content and explanation. but it&#039;s a 9 am course, I couldn&#039;t help but fall asleep very often. They both have a slow pace and a soft tone, which made the situation even worse.<br />But in general, both professors are very responsive to questions.",
+      "comment_grading": "Nice grading.<br />45% midterm<br />5% essay<br />50% final (not cumulative)<br />the A range is larger than usual courses",
+      "comment_workload": "light workload in terms of assignments.<br />but the content is quite packed, which requires you to learn a lot.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "hxKGDqYChrq7cZz0GO0WZi4OrtsKlQVV",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 472,
+          "name": "WU, Zhenguo",
+          "rating": 0
+        },
+        {
+          "id": 483,
+          "name": "LIANG, Chun",
+          "rating": 0
+        }
+      ],
+      "author": "ssyee",
+      "date": "Feb 21, 2018",
+      "title": "",
+      "comment_content": "Basic molecular biology stuff including transcriptional and translational regulation at detailed level.",
+      "comment_teaching": "Do not need to listen just memorize all then you get good grade.",
+      "comment_grading": "Normal LIFS course grading. Midterm have all question types including True or False, fill in the blanks, short and long question, drawing. Midterm is mainly Prof Liang&#039;s part which is quite easy while Final is mainly from Prof Wu. Final examination has some design like questions like, asking students which laboratory techniques can be used to prove and stain.",
+      "comment_workload": "Midterm &amp; Final. Personally, I think Prof Wu&#039;s ppt is not quite organized, so students may need to spend more time to interpret it. <br /><br />One assignment from Prof Liang, but it is quite easy.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "k4dA0CC2GW7FmI3SJT6NkyPCqJbxyYPY",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 483,
+          "name": "LIANG, Chun",
+          "rating": 1
+        },
+        {
+          "id": 472,
+          "name": "WU, Zhenguo",
+          "rating": 1
+        }
+      ],
+      "author": "Geena",
+      "date": "Feb 02, 2018",
+      "title": "",
+      "comment_content": "The course covers a wide range of topics but overall it can be simplified to prokaryotic cell replication and eukaryotic cell replication. <br /><br />Within cell replication, they will cover replication DNA transcription, DNA translation, regulation of these mechanisms and many more.",
+      "comment_teaching": "Professor Liang is quite good in teaching. I do wish his slides were organized a little better so that it makes it much simpler to comprehend. Sometimes, there was too much information on one slide. The midterm covers only his part and it was quite difficult to be honest. It had true or false, fill in the blanks, a few short answers and multiple choices. The questions, especially the fill in the blanks, can be quite ambiguous so perhaps that&#039;s why the midterm felt difficult. <br /><br />Professor Wu is a great professor. He really knows the material very well. However, he isn&#039;t the best explainer. Sometimes when he explains a concept, he may go off topic or over-explain to a point where you might be more confused then you originally were. That&#039;s why you really should watch the lecture video in-depth and religiously if you want to do well.&nbsp;&nbsp;If you have questions as he is giving the lecture, I would recommend you to wait until the lecture is over and ask him personally. He explains much better there.",
+      "comment_grading": "The grading of the midterm wasn&#039;t actually released until 5 days before the final exam. <br /><br />They gave a list of the midterm grades and I calculated the average and SD myself. The average was around 65 and SD was around 15. <br /><br />There was this one brief assignment during Liang&#039;s portion of the course. There is a grade. No idea what it did for our grade though. <br /><br />No idea what the final exam score are since they were never released and paper checking is not available.",
+      "comment_workload": "If you want to do well in this course, you have to put in the time and memorize every aspect of the notes. You should rewatch the lecture videos to really grasp all the details taught in the course.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

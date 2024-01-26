@@ -1,0 +1,80 @@
+{
+  "course": {
+    "id": 3762,
+    "subject": "CORE",
+    "code": "1416I",
+    "name": "Effective Chinese Communication",
+    "description": "This course seeks to enhance the market competitiveness of HKUST graduates by making them effective users of spoken Putonghua and Standard Written Chinese in meeting communicative needs in academic, social and professional contexts. The course materials and activities help students acquire fluency and accuracy in the use of Chinese by engaging them in authentic communication tasks based  on  real-life situations and needs. Students’ mastery of Putonghua phonology and Chinese syntax and lexis will also be enhanced through in-class teaching and outside class practice.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230,
+      2210
+    ],
+    "prerequisites": "Level 3 in HKDSE Chinese",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 445,
+        "name": "RAO, Yu Jing",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "Je2Bm3Nncf13LPWlcmmWsMiMqybNsMCq",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 445,
+          "name": "RAO, Yu Jing",
+          "rating": 1
+        }
+      ],
+      "author": "HDDP",
+      "date": "Sep 09, 2022",
+      "title": "Great teacher",
+      "comment_content": "The Content is the same as the other 1416 courses. Just check the syllabus on the Chinese common core webpage.",
+      "comment_teaching": "The teacher is great and offers great help to those who are not so good with mandarin. And offer them a chance to do one revision on the essay",
+      "comment_grading": "Attendance is taken every day. Participation is also essential. <br /><br />平时分 Participation<br />朋辈评估及小测 10% <br /><br />口头报告 oral report 20%<br /><br />实用文写作 Essay 20%<br /><br />时事论坛 oral comment on daily news 25%<br /><br />评论文写作 argument essay 25%",
+      "comment_workload": "For Lang Core courses, the workload is quite light.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 9,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "8O9MEZx10bO6d0tJs5yGbGsjbAGKgPfV",
+          "name": "file",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

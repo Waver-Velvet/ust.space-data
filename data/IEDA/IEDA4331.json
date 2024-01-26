@@ -1,0 +1,77 @@
+{
+  "course": {
+    "id": 2980,
+    "subject": "IEDA",
+    "code": "4331",
+    "name": "Quantitative Methods in Financial Engineering",
+    "description": "The course covers some quantitative methods commonly used in financial engineering for modeling, analyzing, and solving basic financial engineering problems. The course will start with basic concepts in stochastic calculus and stochastic differential equations. These will be used to introduce some advanced stochastic models such as jump diffusion, regime-switching, and stochastic volatility models. In the final part, some numerical methods for derivatives pricing will be introduced.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2110,
+      2010,
+      1910
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"FINA\" data-code=\"3203\" href=\"/review/FINA3203\" target=\"_blank\">FINA 3203</a> OR <a class=\"course-link\" data-subject=\"IEDA\" data-code=\"3330\" href=\"/review/IEDA3330\" target=\"_blank\">IEDA 3330</a>) AND (<a class=\"course-link\" data-subject=\"IEDA\" data-code=\"3250\" href=\"/review/IEDA3250\" target=\"_blank\">IEDA 3250</a> OR <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"2500\" href=\"/review/ISOM2500\" target=\"_blank\">ISOM 2500</a>)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1309,
+        "name": "JIANG, Wei",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "mRTZ1npYm38hHRLQVCrhekZxCtQ9cXaN",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1309,
+          "name": "JIANG, Wei",
+          "rating": 1
+        }
+      ],
+      "author": "offergod",
+      "date": "Oct 25, 2021",
+      "title": "The course code should be math instaed of ieda",
+      "comment_content": "Before mid term：<br />Mean variance analysis<br />Capm<br />Forward, future, swaps pricing and valuation<br />Option pricing and valuation<br />Binomial tree with one step and multi steps<br />American option pricing and valuation<br />Stochastic calculus<br /><br />After mid term<br />Brownian Motion, Ito lemma<br />BSM Model<br />PDE of american option<br />Risk neutral valuation<br />Barrier option<br />Asian option<br />Multiasset Option<br />Risk management, VaR, greeks<br />Credit Risk<br /><br />As you can see, there are many content included. Among those slides, ～80% are math symbols and you cannot see many words. Also some topics like capm, it will much more complicated than Fina courses.<br />Credit Risk and VaR not included in final exam.",
+      "comment_teaching": "Fair. Maybe it’s because 9.00 lesson, so everyone seems sleepy during lesson. Prof will explain some of the equations instead just reading the slides. I think its necessary to attend the lesson instead zoom because prof always write on the whiteboard which zoom students cannot see.",
+      "comment_grading": "Mid term mean is higher than i expected, and sd is quite large. Mostly FE students are having higher cgi, so if you are CS students, then you have to expected stronger classmates. Actually almost everyone taking this course are really hardworking, even students from other tracks. Grades are quite good actually. I below mean for~0.5 sd in mt, don&#039;t know final exam grade but finally get a b+.<br /><br />Exams are really similar to tutorial and homework questions.<br />Btw if you have source, then doing source&#039;s questions will definitely help in exam.",
+      "comment_workload": "Not much workload. One mid term, one final, 4 homework. HOWEVER, the homework is harddddd even you discuss with your friends.<br /><br />Btw 10% attendance, but he hadn&#039;t take in class!!",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

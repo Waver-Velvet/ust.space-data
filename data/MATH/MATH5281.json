@@ -1,0 +1,77 @@
+{
+  "course": {
+    "id": 2865,
+    "subject": "MATH",
+    "code": "5281",
+    "name": "Partial Differential Equations",
+    "description": "This is an introductory postgraduate course on Partial Differential Equations (PDEs). We will start with the classical prototype linear PDEs, and introduce a variety of tools and methods. Then we will extend our beginning theories to general situation using the notion of Sobolev spaces, Holder space and weak solutions. We will prove the existence, uniqueness, regularity and other properties of weak solutions.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2030,
+      1930,
+      1830
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 939,
+        "name": "JIN, Tianling",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "7g4snbDFrSars3z9BAxMntIyuMbpeffp",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 939,
+          "name": "JIN, Tianling",
+          "rating": 1
+        }
+      ],
+      "author": "UnconMarketeers",
+      "date": "May 11, 2023",
+      "title": "Journey for modern elliptic PDE",
+      "comment_content": "Official textbook: Partial Differential Equation by Evans. A classical, heavy and must-read textbook for everyone who wish to study modern PDE!<br /><br />Comments: <br />-&gt; This is a classical textbook with various kinds of PDE, from the undergraduate-level content (linear PDEs like Laplace equation, heat equation, wave equation) to modern approach to study their generalizations (elliptic/hyperbolic/parabolic types), or even nonlinear equation by methods like variational method. The word &quot;variation&quot; is consistent to the word &quot;calculus of variation&quot; in classical mechanics because they originate the same idea.&nbsp;&nbsp;<br /><br />-&gt; Essential prerequisites are:<br />0. Patience of doing calculations!<br />1. Multivariable calculus (workable knowledge to perform intense evaluations, familiarity of integration by parts and Gauss-Green theorem)<br />2. Real analysis (Lebesgue integral, LDCT)<br />3. Functional analysis (Convergence in weak topology, Riesz representation theorem, Lax-Milgram theorem, compact operator, spectral theorem in infinite-dimensional Hilbert space)<br />4. Undergraduate PDE (Familiarity of Laplace equation is enough)<br /><br />Course content:<br /><br />-&gt; In overall, the main discussion is elliptic PDE. It is a good starting point of studying modern PDE because it is the simplest, and many tools from functional analysis are available to tackle them (basically all of the aforementioned topics for prerequisites of functional analysis). It doesn&#039;t mean other types of PDEs are unimportant, like Black-Scholes equation (parabolic) and Navier-Stokes equation (hyperbolic). <br /><br />-&gt; The course can be divided into four parts, namely Laplace equation (Evans ch2), Sobolev space (Evans ch5), general elliptic PDE (Evans ch6) and miscellaneous methods for studying linear and nonlinear PDEs. <br /><br />-&gt; For the study of Laplace equation (or Dirichlet problem), one advantage is that an explicit fundamental solution can be derived on R^n. Then we study <br />1. Characterization of harmonic functions using mean-value property<br />2. Essential properties of harmonic function (Liouville theorem, analyticity,...)<br />3. Maximum principle (another essential tool other than integration by parts)<br />4. Energy method <br />5. Method of Green&#039;s function (study Laplace equation in domains like half-space and ball)<br /><br />-&gt; Then the theory for Sobolev space is studied, basically the (Banach) space of L^p integrable functions allowing us to do weak derivatives. Some tools like mollifier, Sobolev inequality, Ralliach compactness theorem and Poincare inequality are derived. <br /><br />-&gt; With the concept of weak derivative introduced, we may work on the general theory of linear elliptic PDEs of order 2. Since the setting is very general, we may only discuss the existence, uniqueness and regularity instead of the explicit form of solution (like Laplace equation). Maximum principle is still available with some restrictions. <br /><br />-&gt; Finally, the professor introduces various modern methods for dealing with nonlinear elliptic PDE problems, like variational method, sub/supersolutions, Perron&#039;s method and so on, although he hasn&#039;t finished all contents in his notes&nbsp;&nbsp;at the end.",
+      "comment_teaching": "Since the professor does work on elliptic PDE as his area of research, he shows his familiarity of the course content like telling the motivations behind each step and showing all intense calculation on whiteboard. The calculation steps are easy to follow for me. <br /><br />Remark: I guess for a student for studying PDEs, knowing theorems and tools is not quite enough, but workable skills for doing calculations and estimates play major role. Therefore relying too much on the teacher when studying PDE is not a smart move - You have to work on the detail once by yourself instead of just sitting in the classroom and listen.",
+      "comment_grading": "60% homework plus 40% final. I guess the instructor may impose absolute grading like what he did in his previous course. Everyone seems to get high score in homework.",
+      "comment_workload": "Three homework plus one take-home exam which contain few questions. They are doable because they come from the main textbook basically.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

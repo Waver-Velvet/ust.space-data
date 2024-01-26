@@ -1,0 +1,116 @@
+{
+  "course": {
+    "id": 1377,
+    "subject": "ISOM",
+    "code": "4840",
+    "name": "Financial Service Operations Management",
+    "description": "This course focuses on the products, processes and delivery channels in the financial industries. It analyzes and evaluates the designs and performances of the internal operations and the different distribution channels of the financial institutions, and identifies opportunities for continuous improvement in productivity, efficiency and service quality. Issues like operational risk management, application of IT, automation, outsourcing and new trends in the financial service operations for both financial institutions and non-financial institutions will be explored.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"ISOM\" data-code=\"2500\" href=\"/review/ISOM2500\" target=\"_blank\">ISOM 2500</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2411\" href=\"/review/MATH2411\" target=\"_blank\">MATH 2411</a>) AND <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"2700\" href=\"/review/ISOM2700\" target=\"_blank\">ISOM 2700</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.5,
+    "rating_teaching": 4.5,
+    "rating_grading": 4.5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 382,
+        "name": "GURUMURTHI, Suri",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "t90ggHFGMiaRMIVBTGYXvxQs2ynziCRq",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 382,
+          "name": "GURUMURTHI, Suri",
+          "rating": 1
+        }
+      ],
+      "author": "Hayoha",
+      "date": "Dec 30, 2022",
+      "title": "VERY GOOD PROFESSOR!",
+      "comment_content": "Course Learning Outcomes<br />1. List and explain important financial institutions (FI), and markets, that support the global economy<br />Identify and explain the major business processes and product delivery channels of FIs<br />2. Identify and describe the appropriate performance measurements for the business processes of FIs.<br />3. Compare and evaluate the performances of the business processes for continuous improvement of the FIs<br />4. Compare and evaluate the performances of the business processes with respect to some of the benchmarking regulations (like Basel II, and later Basel III).<br />5. Design and critique business processes for improving the productivity and service quality of the FIs.<br />6. Integrate and evaluate the different business processes in the organization to create competitive advantages for the FIs.<br />7. Innovations in financial service, Fintech, Payment (focus on mobile payment), wealth management, and new trends in financial services industry.<br /><br />You will know more about financial operations (central bank, insurance company, private bank, investment bank) and financial market.",
+      "comment_teaching": "Well-prepared PPTs and have videos about spreadsheet modeling.<br />Professor will give you a participation card to record your participation of answering questions/ raising good questions. It is fair to grade everyone participation instead of by memory/ feeling.<br />Professor is super nice, there were lectures cancelled as he wanted to give time for us to do the spreadsheet assignments &amp; the schedule was OK.",
+      "comment_grading": "Class Participation 5% (mainly counting answering questions)<br />Case Discussions &amp; Spreadsheet Assignments 30%<br />Midterm 25%<br />Final 40%<br /><br />My grade: A<br />Class Participation 1/5 (I guess)<br />Case Discussions &amp; Spreadsheet Assignments 30/30<br />Midterm 21/25 (Max: 25, Mean 19.578, Median: 20 , Standard Deviation: 2.940)<br />Final: 37/41 (SD &amp; Mean not released)",
+      "comment_workload": "There are total 7 case discussions, 4 spreadsheet assignments and 5 in-class spreadsheet assignments.<br /><br />Each spreadsheet assignment take aroung 30 mins to 1 hour, while in-class spreadsheets normally will be done within the lecture. Although there are many graded discussions, the score is lenient.<br />I think most of the people get full score in the part of &#039;Case Discussions &amp; Spreadsheet Assignments&#039;. Try your best to not missing anyone of the homework &amp; classwork.<br /><br />Attending lectures is important as Professor may suddenly count attendance (he did twice) or he may assign a spreadsheet classwork during lecture (he would work with everyone together, so no need to worry as long as you attend the lecture with a LAPTOP).<br /><br />Midterm and Final are open book, open notes, done on laptop (Canvas Quiz). Excel questions are tested and need to upload Excel file in Final.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "7E5XzXjp8JWjHzAmr4xrMV7zhUUe8PrL",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 382,
+          "name": "GURUMURTHI, Suri",
+          "rating": 1
+        }
+      ],
+      "author": "Gerry",
+      "date": "Jan 04, 2021",
+      "title": "High Competition, General (?) Knowledge",
+      "comment_content": "For those not proficient with finance he breaks down concepts to a basic, understandable level.<br /><br />For a 4000-level course, content quite understandable. But generally feels a little messy, and there will be long tangents that are completely not relevant to the course at times.",
+      "comment_teaching": "Generally monotonous. Some find it difficult to stay awake in the 9ams. For those not proficient with finance he breaks down concepts to a basic, understandable level, but at the expense of time and concision. <br /><br />He likes to show off his various banking and fintech apps (and respective memberships) lmao.",
+      "comment_grading": "Difficult to get ahead of the curve.<br />TA (Jing) gives essentially full grade to all assignments (there are 5), so everything basically comes down to the final exam.<br />For non-RMBI may be tough, it&#039;s course quota is 80% reserved for RMBI students; and they are generally more caught up on the content.<br /><br />There is a start-up simulation game as well, separated into 2 rounds. The 2nd one lasts around a week, and you need to be making live decisions. Depending on your group&#039;s strategy workload can be intensive.<br /><br />For the final, it is also based on items NOT ON THE SLIDES, and through verbal delivery. Paying attention in class (and jotting down important points) is very important. at least 5 Qs out of the final attributable. <br /><br />Make sure to participate!!! 10% of grade + 5% bonus available. <br /><br />Class participation: 10% (5% top-up)<br />Case Assignments: 30%&nbsp;&nbsp;(10/10 x 5 cases)<br />Simulation Game: 20% (top 5 out of 16 teams)<br />Final examination 45% (42/50)<br /><br />Final Grade: A",
+      "comment_workload": "For the start-up simulation game, the 2nd round lasts around a week, and you need to be making live decisions. Depending on your group&#039;s strategy workload can be intensive.<br /><br />Write-ups/case-assignments quite easy. Basically just paraphrasing of the case study.<br /><br />Other than that it&#039;s just studying for exam. No midterm so it relieves your workload in those intensive times. Would recommend for 3rd/4th years familiar with general business knowledge and need time off their plate to apply jobs and such.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "course": {
+    "id": 1175,
+    "subject": "SOSC",
+    "code": "2990",
+    "name": "Developmental Psychology",
+    "description": "Developmental psychology is the scientific study of how we grow and change over the lifespan. This course will guide students to investigate physical, cognitive, and psychosocial development from infancy to late adulthood from a psychological perspective. Students should complete the course with a deeper understanding of key theories, research methods, and research findings on human development.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2130,
+      2030
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"SOSC\" data-code=\"1960\" href=\"/review/SOSC1960\" target=\"_blank\">SOSC 1960</a> OR <a class=\"course-link\" data-subject=\"SOSC\" data-code=\"1980\" href=\"/review/SOSC1980\" target=\"_blank\">SOSC 1980</a> OR <a class=\"course-link\" data-subject=\"SOSC\" data-code=\"1969\" href=\"/review/SOSC1969\" target=\"_blank\">SOSC 1969</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.33,
+    "rating_teaching": 4,
+    "rating_grading": 4.67,
+    "rating_workload": 3.67,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 659,
+        "name": "LAI, Pui Yee",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "AxNv0KOqh49gcv6b3AEOF1kqH7PZAdG7",
+      "semester": "2021-22 Spring",
+      "instructors": [],
+      "author": "Brethil",
+      "date": "May 15, 2023",
+      "title": "",
+      "comment_content": "General developmental psychology related theories as listed in other reviews, very fundamental and easy to understand, good for beginners",
+      "comment_teaching": "Annie is a very nice professor, her ppts are already detailed enough for exams, but her teaching style is quite...slow, made me want to sleep, so I skipped many lectures.",
+      "comment_grading": "Very confusing grading<br />Fact sheet and presentation grades around mean, very small SD<br />Midterm mean<br />Final high<br />overall B+",
+      "comment_workload": "Manageable<br />We simply copy and past the content we prepared for the presentation to the fact sheet<br />I didn&#039;t go to many lectures due to the epidemic, only read the lecture notes and the required readings. The required readings are psychology articles related to what she taught in lectures, they are very short and condensed, helpful in understanding the lecture contents.<br />Some content and examples in the textbook may also be tested.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "29zOMbSLQMz2ZzZNbpbPRrVMq1tW9j1v",
+      "semester": "2021-22 Spring",
+      "instructors": [],
+      "author": "Sfvpcwl",
+      "date": "Jun 13, 2022",
+      "title": "",
+      "comment_content": "Theories of Development<br />Prenatal and Infant&#039;s development<br />Early Cognitive Development<br />Emotional Development<br />Parenting Practices<br />Early Psychosocial Development<br />Adolescence<br />Early and Middle Adulthood<br />The Old Ages<br />Death and dying (not in the exam)",
+      "comment_teaching": "Tbh the content is a bit abstract and hard to comprehend. But professor Annie Shu herself is new and quite nice in teaching, you may see my comment on SOSC3990 for more.",
+      "comment_grading": "Mid term: 16.5/20 (Mean: 15.89)<br />Presentation participation: 10/10 (mean ~9.5/10)<br />Presentation: 18.5/20 (mean 17.34/20)<br />Take home kit: 23/30 (mean: 25/30)<br />Final exam:17.5/20 (mean: 15.8/20)<br /><br />Overall: 85.5 (B+)",
+      "comment_workload": "Very managable, except the take home kit is back to back with the presentation, so that you may need to pull one/two all nighters in order to finish it on time. Our group below mean for that as we wrote too detailed (mostly copy from the presentation material, but seems prof doesn&#039;t like this approach), just make it simple and you would ace it.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "gEuI2p7d68KxaAW5lhUso8Tk5gBUTzm5",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 659,
+          "name": "LAI, Pui Yee",
+          "rating": 1
+        }
+      ],
+      "author": "Andy HK",
+      "date": "Jun 06, 2021",
+      "title": "Mean is terribly high.",
+      "comment_content": "L1-L3: Introduction<br />L4-L6: Theories of Development<br />L7-L9: Cognitive Development<br />L10: Moral Development<br />L11: Quiz 1<br />L12: Moral Development<br />L13-L14 Group project consultation<br />L15-L16: Social and Emotional Development<br />L17-L18: Friendship<br />L19-L20: Family Relationship<br />L21-L22: Death and Dying<br />L23: Quiz 2<br />L24-L25: Group project presentation",
+      "comment_teaching": "Most of the quiz MCQ options come from her speech and honestly &quot;exact wordings&quot; of her speech during the lecture. So you need to attend lecture and jot down exactly what she said/read. -.-&#039;&#039; Lecture notes and textbook wouldn&#039;t help. No need to buy the textbook, which is completely useless. She would examine some of the examples or video clips discussed and played in class. Be careful.<br /><br />Class size is 80 students. But only 40-47 students attend the lecture. At the very end of the semester, only 30+ students come.<br /><br />學啲野好散。某d concepts好混淆，覺得難過abnormal psy。 有極多theories and terms， 特別moral development果課。 essay都揀左Kohlberg’s theory of moral reasoning，因為friendship果課完全冇theory/concept可寫到成千字，cognitive development果個十幾廿個substages仲要包括係嬰兒時期點樣寫呀大佬，局住揀moral development寫self-reflection essay。從未試過一篇essay由學期頭開始寫keep住改到學期尾，一路寫一路驚離題，搵左勁多資料clarify個theory，根本每個substage既定義好模糊不清，當要搵個人生活例子代入去寫就會出現好多logic問題同要例子fit in, match到個定義，上堂只係講得好表面。有email問問題clarify番個theory第5個stage既定義，問到佢吾答我，可能覺得我問過界send essay draft比佢睇—speechless。 好彩最後拎34/35。 但project同組有組員話炒左essay ，所以要小心，成35%。",
+      "comment_grading": "Total score: 91.93/100; Final grade: A (much better than expected，以為得B+， 因為覺得組組個project做得好好，自己果組比較下最差，講真！我負責果part (recommendation to parents) 最重要，已盡全力，但做得好垃圾，17/20可能佢亂比。反而project comments話有part做得好，負責果位同學一係meeting遲到，一係唔到，過埋internal deadline先做完，事實證明唔鬼洗開甘多次會，浪費時間！又例如組組powerpoint background design會match佢地present ge topic。而我果組講cyberbullying，搵左隻貓頭鷹做powerpoint slide design，九唔搭八。傻眼、笑了⋯⋯<br /><br />-Quiz 1 (15%) [30 minutes, 30 MCQ]: Mean =&nbsp;&nbsp;22.45/ 30; SD = 3.52; My score is 24/30<br /><br />-Quiz 2 (15%) [30 minutes, 30 MCQ]: Mean = 26.13/ 30; SD = 2.34; My score is 27.86/30<br /><br />-Self-reflection essay (35%) [May 17 deadline, 1100-1200 words] [You are to apply a concept learned in class to your personal experience. The concept should come from one of the following lecture topics: Cognitive Development, Moral Development or Friendship. Illustrate the concept of your choice through your personal experience with reference to what you have learned in lecture about the concept]: My score is 34/35<br /><br />-Group project (35%) [You are required to work in a group of 5-7 people to organize a talk for parents to address a common issue about child or adolescent development. Your talk should be delivered in a way that gives parents useful information and recommendations based on empirical research. You have to deliver the talk in class followed by a Q&amp;A session. You also have to design a take-home help kit that supplements the parenting talk.]<br />-Group project outline: My group’s score is 5/5<br />-Group project presentation (10 minutes+5-minute Q&amp;A): My group’s score is 17/20<br />-Group project take-home kit: My group’s score is 9/10<br /><br />-1 bonus mark upon completion of peer evaluation",
+      "comment_workload": "The content of this course is even richer than that of SOSC3900 Abnormal psychology, which is also taught by Beatrice, although lots of content of SOSC2990 is much simpler and is like common sense. But it does not mean it&#039;s easier to get a good grade because the mean is terribly high. I would rather she gave higher weight to both quizzes because I spent plenty of time on re-watching the lecture recording, jotting down notes, memorizing all of the points in each slide because you won&#039;t have time to check the notes for the answers during the 30-minute quizzes in spite of open-book quizzes due to COVID-19. I think both quizzes are what truly reflect our personal effort in this course, as you have to study lots of content and the quiz&#039;s questions require you to have a pretty thorough understanding of the concepts/theories and to differentiate the differences between several concepts/theories, some questions are quite tricky although many students eventually answer them correctly as UST students are not foolish after all, that is why the mean is surprisingly high even though most students skip regular lectures.<br /><br />The group project is time-consuming, due to take-home help kit. Having groupmates good at computer and design would help a lot.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 2,
+      "attachments": [
+        {
+          "key": "IAIfxigSY6JMQ3dU40bPtDGwDDi5NJ0i",
+          "name": "Course syllabus_SOSC2990_Spring2021",
+          "format": "pdf"
+        },
+        {
+          "key": "MYtN6nv8ZJIADGe9eHyJ5bSI80HmTnvD",
+          "name": "SOSC2990_Sample Quiz Questions 2_Spring2021",
+          "format": "pdf"
+        },
+        {
+          "key": "DTYZQsNT5ExR3WpMV98C8dc1oPNV6dLV",
+          "name": "SOSC2990_Sample Quiz Questions 1_Spring2021",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "course": {
+    "id": 756,
+    "subject": "LANG",
+    "code": "3014",
+    "name": "Laboratory Report Writing for Life Science Students",
+    "description": "This course focuses on developing Life Science students' ability to produce effective laboratory reports with appropriate organizational structures, vocabulary, language and style. For LIFS students only.",
+    "categories": [],
+    "website": "http://cle.ust.hk/courses/lang3014",
+    "credits": 1,
+    "semesters": [
+      1830,
+      1810,
+      1730,
+      1710,
+      1630,
+      1610,
+      1530,
+      1510,
+      1430
+    ],
+    "prerequisites": "LANG 1003",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3.5,
+    "rating_teaching": 4.25,
+    "rating_grading": 4.5,
+    "rating_workload": 4.25,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 444,
+        "name": "HOPKINS, Mark",
+        "count": 1
+      },
+      {
+        "id": 462,
+        "name": "LEE, Joyce Yuen Yee",
+        "count": 1
+      },
+      {
+        "id": 880,
+        "name": "WONG, Lee Long Shaun",
+        "count": 1
+      },
+      {
+        "id": 881,
+        "name": "FARMER, Rebecca",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "EJ2n5yYn8CkucMzNs98WNzG36aI8fVag",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 881,
+          "name": "FARMER, Rebecca",
+          "rating": 1
+        }
+      ],
+      "author": "zlong",
+      "date": "Jul 10, 2019",
+      "title": "",
+      "comment_content": "It is about how to write a full formal laboratory report, including the style of writing, the format, layout of tables and data etc. It would be useful when you are conducting your own experiment.<br />It is quite confusing to write up a full lab report with the materials they provided because most of the lab courses do not have a clear aim / purpose on what to investigate.",
+      "comment_teaching": "Rebecca is nice and she gives feedback timely. Her feedback is very useful - you will know clearly what you have to do if you want a better grade.",
+      "comment_grading": "I got 5.5/7 for both first and second assignment and I got an A- for the course.",
+      "comment_workload": "You will have 2 assignments. The first one is an individual one which is to write an introductory paragraph of your lab report. The second one is a group work (group of 2) and you have to write a full lab report. The first assignment (introductory paragraph) can be reused in the second assignment (full report) and after sharing work with your partner the workload is very little.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "bo50Ut2vJcp2wnHEQyG17kVxClSOvWGv",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 880,
+          "name": "WONG, Lee Long Shaun",
+          "rating": 1
+        }
+      ],
+      "author": "Kabul",
+      "date": "Dec 21, 2018",
+      "title": "Wasting our time",
+      "comment_content": "Freaking useless course comprising of bullsh!ts. I never know what&#039;s the purpose of having such a course. It claims to familiarize us with the content and the language we should use in lab reports, but it&#039;s a sh!tty idea that the lab reports targeting professional audience are marked by random instructors with no science background at all.<br /><br />Units<br />1️⃣ Overview of Lab Reports and Writing Style<br />2️⃣ Writing the Introduction<br />3️⃣ Discussing Findings",
+      "comment_teaching": "I think the instructor has already tried his best to maximize the utility value of this course given its cr*appy design. He indeed tried his best giving feedback for our out-of-class Canvas discussion tasks.",
+      "comment_grading": "✏️ 25% Assignment 1 (Individual)<br />✏️ 65% Assignment 2 (In pairs)<br />💬 6% In-class participation<br />💻 4% Canvas quizzes<br /><br />💯 I got 6 6.5 6.5 in assignment 1, unknown score in assignment 2 and ended up in an A.",
+      "comment_workload": "Not much workload. The workload mainly lies on attendance and the 2 petty lab reports that can be done within 1 or 2 hours.",
+      "rating_content": 2,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "V5iug9ehOWiLhpfN2lF6meZPvfz5GnbW",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 462,
+          "name": "LEE, Joyce Yuen Yee",
+          "rating": 1
+        }
+      ],
+      "author": "Lilith_lo",
+      "date": "Dec 22, 2017",
+      "title": "",
+      "comment_content": "同個名一樣教你寫lab report<br />教下啲語言同格式有咩要求之類<br />基本上冇咩堂要上，唔洗上足13星期<br />交完第一份就冇一星期堂<br />跟住就隔個禮拜上",
+      "comment_teaching": "tutor幾好人，有問必答<br />都好鼓勵學生<br />會比心機集細解答你問題<br />同埋你指出佢錯 佢真係會改<br />雖然佢作為lang tutor 本身冇science底<br />但佢都會認真睇下人地啲文 然後先改你篇野",
+      "comment_grading": "good ar <br />report 1 14/21<br />report 2 16/21<br />Grade: B<br /><br />好似都要睇attendence(?)",
+      "comment_workload": "上堂冇咩要準備，最多就係寫定啲report<br /><br />兩份lab report<br />BCB既人做LIFS 2720, 2820 lab2 and lab5<br />lab 2 Amino acid separation and identification ( 30% )-work in groups of 2~3<br />lab 5 Enzyme kinetics of LDH (60%)-individual",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "ikOLW6BxvP8AbeyGEtFnFjBRmo5qHDYc",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 444,
+          "name": "HOPKINS, Mark",
+          "rating": 1
+        }
+      ],
+      "author": "Sara",
+      "date": "Jan 24, 2017",
+      "title": "",
+      "comment_content": "同course名一樣係學寫lab report <br />一個sem靜係上4次 另外2次見tutor傾assignment<br />report既內容唔重要 多數會係你做緊既lab course抽出黎<br />主要學返d academic language同organization",
+      "comment_teaching": "上堂輕鬆 可能要答下問題同做下notes既exercise 大致上講下report每part寫d咩",
+      "comment_grading": "Mark比分算鬆手 基本上拎5無問題",
+      "comment_workload": "Two assignments: group report and individual report<br />交左group report後tutor會比feedback<br />individual個份交之前會約tutor傾下first draft有無咩問題",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

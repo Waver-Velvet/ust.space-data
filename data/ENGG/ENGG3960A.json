@@ -1,0 +1,103 @@
+{
+  "course": {
+    "id": 2431,
+    "subject": "ENGG",
+    "code": "3960A",
+    "name": "Robotics Special Project: ABU Robocon 2018",
+    "description": "The Asia-Pacific Robot Contest (ABU Robocon) is an Asian Oceanian College robot competition for young engineers. Student teams will design and manufacture the robots for tackling with different missions and challenges which is provided the organizer. Normally, a project report is required. Enrollment in the project course may require instructor's approval. May be graded PP.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      1740,
+      1730
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 190,
+        "name": "WOO, Kam Tim",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "jGxYVQLkuhlnYYRI1fhvbSNiaDf52JEf",
+      "semester": "2017-18 Spring",
+      "instructors": [],
+      "author": "Promise",
+      "date": "Nov 28, 2019",
+      "title": "",
+      "comment_content": "Mainly to build robots for competition (The Asia-Pacific Robot Contest (ABU Robocon) is an Asian Oceanian College robot competition for young engineers. )<br />Everyone can choose a division during an internal competition and work on that division in the team.<br /><br />For Mech: Robotics mechanism<br />For hardware: PCB design and soldering, embedded system<br />For software: C, C++, Python",
+      "comment_teaching": "Teach by the Robotics team senior member<br />Tutorial note and other material created by senior members<br />To learn how to build a robot, the team will provide many resources like software libraries, sensors, MCU and tools.<br />But you should have the ability to self-learning first because all the seniors are also UG students.",
+      "comment_grading": "The grade of this course depends on what you did for the team and competition. No clear scoring method. The observation of TAs and other members will be used for grading.<br />good grade like around A range if you are not a free rider",
+      "comment_workload": "heavy workload but if you are interested in robotics, you should be able to handle it.<br />Basically, people will spend 10 hours or more per week to build robots.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "2tGTdnKwuVmKhnBOLSOuKYw2LhWqlSFL",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 190,
+          "name": "WOO, Kam Tim",
+          "rating": 1
+        }
+      ],
+      "author": "bellabeast",
+      "date": "Sep 05, 2018",
+      "title": "A wonderful course for everyone",
+      "comment_content": "The course will be running through out the year.<br /><br />Fall semester : <br />Attend tutorials and a competition that was held by the senior students.<br /><br />Winter :<br />Attended an advanced tutorial by seniors and build prototypes for the robot if you can get into the team.<br /><br />Spring:<br />Build 3 generation of robots together with ~15 teammates.<br /><br />Summer:<br />Attend the regional competition at late June. And work on the 4th generation robot for the internal competition if you can win the regional one.",
+      "comment_teaching": "The seniors students will do all the teaching and others things you have to learn by yourself. Which is a perfect practice for self-learning.<br /><br />You can also get tons of resources from the team to do the things you want for the competition.",
+      "comment_grading": "More than 95% of people is getting A range. Because we really appreciate people paying effort on the competition. So basically only free-riders will get B range ( I think )",
+      "comment_workload": "I don&#039;t think it is really a course, it is more like a extra-curriculum activities and taking the 4 creds is just a bonus for ppl joining.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

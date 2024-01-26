@@ -1,0 +1,35 @@
+{
+  "course": {
+    "id": 1507,
+    "subject": "BIPH",
+    "code": "4010",
+    "name": "Principles of Quantitative Instrumentation",
+    "description": "This course aims to provide a general understanding of modern instruments used in biological research with special emphasis on bright-field and fluorescence light microscopes, electron microscopy, X-ray crystallography, NMR, MRI, mass spectrometer, and electrophysiology. The approach is a practical one geared to students who are or will be using these instruments in research. The course consists of both lectures and demonstration. During the lectures, students learn basic principles of biological instrumentation and the performance of the instruments. In the demonstration, students apply the understanding gained during the lectures and learn how the instrumentation is used to address biological questions.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2030,
+      1930,
+      1830,
+      1730,
+      1630
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"BIPH\" data-code=\"3010\" href=\"/review/BIPH3010\" target=\"_blank\">BIPH 3010</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

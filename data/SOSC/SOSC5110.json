@@ -1,0 +1,154 @@
+{
+  "course": {
+    "id": 1858,
+    "subject": "SOSC",
+    "code": "5110",
+    "name": "Social Science Research Design and Methods",
+    "description": "To answer the question \"how do we translate concepts and theories about human interactions and institutions into empirically testable propositions?\" The primary objectives of the course are: (1) to familiarize students with canons of contemporary social research, and (2) to enable students to initiate and execute their own research projects. Enrollment by students from outside the Division of Social Science by instructor permission.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "MASS 5010",
+    "rating_content": 5,
+    "rating_teaching": 4.67,
+    "rating_grading": 4.33,
+    "rating_workload": 4.33,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 672,
+        "name": "WANG, Jin",
+        "count": 2
+      },
+      {
+        "id": 661,
+        "name": "CAMPBELL, Cameron Dougall",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "cimWzUido9N5wse04lkjXRb5VD1MgZd1",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 672,
+          "name": "WANG, Jin",
+          "rating": 1
+        }
+      ],
+      "author": "qqlam",
+      "date": "Mar 03, 2021",
+      "title": "Great Introductory course",
+      "comment_content": "Basic tools in social science researches. The reading materials are very relevant. Mainly focus on empirical economics researches. <br /><br />It covers Concepts and Measurement, Sampling and Questionnaire Design,&nbsp;&nbsp;Evidence and Data,&nbsp;&nbsp;Machine Learning and Data Science,&nbsp;&nbsp;Causal Mechanism,&nbsp;&nbsp;&nbsp;Quasi-natural Experiments, Field Experiments &amp; Qualitative and Mixed Methods Research.",
+      "comment_teaching": "Clear teaching. Highly motivated teacher and students. Quite enjoy the classes last term! This course offers a broad overview of principles of social science research design and methods. It is intended to provide an understanding of the major approaches in social science to research design, the collection and analysis of quantitative and qualitative data, and the specification and testing of theories. The course covers the logic of scientific inquiry and various research techniques such as experimentation, scientific sampling, survey research, field methods, archival data, and empirical analysis that are commonly used by researchers in economics, political science, sociology, public policy, psychology, and education.",
+      "comment_grading": "overall, the grading is reasonable.",
+      "comment_workload": "Readings are heavy.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Q9A6xNAvMgQCq2rU04sbisjj8zyMMdbz",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 672,
+          "name": "WANG, Jin",
+          "rating": 1
+        }
+      ],
+      "author": "cuphead",
+      "date": "Jan 02, 2020",
+      "title": "",
+      "comment_content": "This course highlights the causal design in social science research as well as introduce fundamental causal methods using by social scientist. The instructor offers well-selective reading materials, majorly in empirical economic research. All reading materials are interesting and helpful for student to development good research taste.",
+      "comment_teaching": "The instructor is enthusiastic and professional, using effective and well-designed discussion to enhance students&#039; understanding of course contents.",
+      "comment_grading": "normal",
+      "comment_workload": "The workload of this course includes 2-4 reading materials per week, which would be carefully discussed next week, 4 assignments, 1 interim report and 1 final report.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Zulyua5eF3uIox0fifd6Nzem86KpKjrZ",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 661,
+          "name": "CAMPBELL, Cameron Dougall",
+          "rating": 1
+        }
+      ],
+      "author": "hhhhaao",
+      "date": "Jan 30, 2019",
+      "title": "",
+      "comment_content": "An introductory course on social research design and methodology for postgraduate students in social science who did not have a systematic introduction and overview",
+      "comment_teaching": "Flipped format<br />The lectures are already all available online, and there will be assigned viewing each week. Students are expected to have completed viewing before class.",
+      "comment_grading": "The grade will be calculated as follows:<br />• Research proposal – interim assignments (35% total)<br />o Aims – 5%<br />o Significance – 5%<br />o Background and previous research – 5%<br />o Hypotheses – 5%<br />o Data – 5%<br />o Methods – 5%<br />o Work plan – 5%<br />• Short responses to online discussion prompts - 15%<br />• Research proposal - final submission - 10%<br />• Research proposal - final presentation - 10%<br />• Proposal feedback to classmates – 10%<br />• Lecture attendance and participation - 10%<br />• Tutorial attendance and participation - 10%",
+      "comment_workload": "",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

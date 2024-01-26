@@ -1,0 +1,190 @@
+{
+  "course": {
+    "id": 173,
+    "subject": "CIVL",
+    "code": "4370",
+    "name": "Computer Methods of Structural Analysis",
+    "description": "Matrix formulation of structural analysis using stiffness method, solution of linear equations, applications to civil engineering structures, modeling of large and complex structural systems.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      1830,
+      1730,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"3310\" href=\"/review/CIVL3310\" target=\"_blank\">CIVL 3310</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4.5,
+    "rating_workload": 2.25,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 87,
+        "name": "DIMITRAKOPOULOS, Ilias",
+        "count": 3
+      },
+      {
+        "id": 1574,
+        "name": "ZHANG, Shenghan",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "JyHfycISfLYVrgIDobwdGelhIJ7pZsAN",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1574,
+          "name": "ZHANG, Shenghan",
+          "rating": 1
+        }
+      ],
+      "author": "CyrusL",
+      "date": "Jun 08, 2022",
+      "title": "Linear static analysis with stiffness matrix",
+      "comment_content": "This course is mostly about linear static analysis using stiffness matrix formulation. Although you most likely would not be directly applying these concepts in your career, you can get a better understanding of what is going on behind the scenes in structural analysis software like SAP2000 and ETABS, so that you become less likely to make mistakes when using them in practice.<br /><br />To complement the theoretical knowledge, some of the tutorials are dedicated to teaching you MATLAB for matrix calculations, as well as SAP2000 and ETABS for structural analysis. If you have not touched any of this during your internship, capstone project, or final year project, this is probably your last opportunity before you enter the industry.<br /><br />[Outline]<br />Module 1: Introduction<br />- Motivation<br />- Historical development<br />- Illustration with 1D example<br />Module 2: Analysis of trusses<br />- Global and local coordinate system<br />- Assembly process for stiffness matrix<br />- Boundary condition and solution of equilibrium equations<br />- Matrix stiffness method &amp; direct stiffness method<br />Module 3: Analysis of frames<br />- Beam element formulation<br />- Fixed-end forces &amp; equivalent joint loads<br />- Grid beams and 3D beams<br />- Introduction to modelling structural components<br />Module 4: Advanced topics in linear analysis<br />- Static condensation<br />- Rigid offsets<br />- Physical symmetry<br />- Initial and thermal strain<br />- Multi freedom constraints<br />Module 5: Application for one-story building<br />- Stiffness matrix<br />- Centre of stiffness<br />Module 6: Selected topics (if time permits)<br />- Introduction to structural dynamics",
+      "comment_teaching": "The instructor explained the concepts well and set up several Zoom polls in each session to check whether the class was able to follow the content of the course. He also actively paused every few slides to check if anyone has any questions. Even though no attendance is taken, it is worthwhile to attend and pay attention to each lecture.<br /><br />The tutorial sessions were similarly excellent. The TAs even gave some practical tips based on their personal experience of the subject matter.",
+      "comment_grading": "[Assignments (30%)]<br />As far as I can see, the grading is entirely arbitrary as they did not even show the number of points assigned to each question, but in my opinion, it is lenient enough.<br /><br />[Midterm Exam (30%)]<br />This is honestly quite interesting. Instead of having a regular written exam, a 15-minute &quot;interview&quot; was arranged for each student, in which the instructor would present a structure and ask several questions regarding the steps involved to solve it. The student would have to verbally explain their answers and, in some cases, draw diagrams to supplement them.<br /><br />Similar to the assignments, the grading was also quite arbitrary. I initially messed up on some of the questions but corrected myself later on, and finally got full marks.<br /><br />The exam was closed-book, but we were allowed to have handwritten notes on 1 A4 page.<br /><br />[Final Exam (40%)]<br />This was a 2-hour written exam. However, the instructor seems to have vastly overestimated our speed, because there were 5 questions plus 1 bonus question, and in each of them, we were required to compute the stiffness matrix of the structure, which would be difficult to complete even within 3 hours.<br /><br />I only managed to complete about 60% of the exam. The results were not posted, but since I finally got A+, I guess I did a decent job.<br /><br />The exam was closed-book, but we were allowed to have handwritten notes on 2 A4 pages.<br /><br />[My Grades]<br />Assignment 1: 100/100 (Mean: 89.29)<br />Assignment 2: 100/100 (Mean: 87.50)<br />Assignment 3: 90/100 (Mean: 87.86)<br />Midterm Exam: 100/100 (Mean: 87.50)<br />Final Exam: ???/100 (Mean: ???)<br /><br />Grade: A+",
+      "comment_workload": "There were a total of 3 assignments this semester. In these assignments, there are generally two types of questions:<br />1. Perform matrix calculations to solve a given structure, then model the structure in SAP2000 or ETABS to verify your results. You may also be asked to fill in some MATLAB code that can help you solve the structure. This can take you a long time, especially if you are the type who is prone to mistakes when dealing with matrices and have to constantly cross-check against SAP2000 or ETABS. I recommend you conduct the matrix calculations using Excel as it is much faster, but keep in mind that you may not use it during the exam.<br />2. Mathematical derivation. These are heavily based on the lecture materials, and hence, straightforward.<br /><br />Personally, it took me an average of 8 hours per assignment, but I did not use Excel for the first two assignments. Honestly, a total of 24 hours&#039; worth of coursework for the whole semester is not that much.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "wSuB2oh3tmn8TLhRoFVPMGMcvx7MbZq6",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 87,
+          "name": "DIMITRAKOPOULOS, Ilias",
+          "rating": 1
+        }
+      ],
+      "author": "Bartosh",
+      "date": "May 08, 2018",
+      "title": "Matrix Structural Analysis",
+      "comment_content": "The content was very relevant to structural engineering. The course should be called matrix structural analysis because there wasn&#039;t much time using the computers, but the concepts were useful to know how the computer software works.",
+      "comment_teaching": "Ilias was a very good teacher, he took the time to explain all the concepts and ensured the students understood the material.",
+      "comment_grading": "Lenient grading, about half A&#039;s and half B&#039;s. The class only had 20 students, so was an elective.",
+      "comment_workload": "Very high workload, expect to spend three days for each of the three assignments.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "CErwjlMeHNmaflLHETNM0TR4oLfuNfvr",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 87,
+          "name": "DIMITRAKOPOULOS, Ilias",
+          "rating": 1
+        }
+      ],
+      "author": "xyz123",
+      "date": "Jan 04, 2018",
+      "title": "Turn everything into matrix",
+      "comment_content": "-Teach you how to transform any structures to a matrix<br />-Learn to become a master in excel, sap2000 and etabs<br />-Reinforce your knowledge in 3310<br />(recommend to those who are interested to structure)",
+      "comment_teaching": "Prof. Ilias is a good teacher. He explains every concept clearly and repeatedly and he is willing to help.<br /><br />The 2 TAs Nan and George are also very nice, find them if you have problems in assignments and project.",
+      "comment_grading": "20% Assignment*3 + Quiz<br />20% Midterm<br />20% Project<br />40% Final<br /><br />Quiz dun really matter.<br /><br />Assignments are extremely time-consuming but easy to get high mark, discuss with your classmates and help each other!<br /><br />Project is quite easy once you build up the etabs model, try to discuss some structural implications in the report. The marking is lenient.<br /><br />Midterm and Final are typical structural questions, tedious but quite straightforwards if you have a clear concept. Overall, the mean of Midterm and Final are not high, around 65.<br /><br />Since it was a very small class, the grade is very lenient, with about 50% A and 50% B.",
+      "comment_workload": "Everything is perfect for this course, except for very high workload, expect it is a 6 credit course.<br /><br />On average, I spent 3 days for each assignment. Each question requires you to do it by hand, by excel and by SAP2000,<br /><br />Spent a week for the project.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "EtVu42N59ukq7xonSvZMNg5zFTbnO57E",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 87,
+          "name": "DIMITRAKOPOULOS, Ilias",
+          "rating": 1
+        }
+      ],
+      "author": "Hosea",
+      "date": "Aug 25, 2017",
+      "title": "",
+      "comment_content": "In this course, you will revisit some materials taught in CIVL 3310, such as force method and flexibility method. They constitute more than half of this course. However, in this course, you will learn to formulate structural problems into matrices (easily) with these two methods and solve them by matrix operations. Techniques to reduce the complexity of the matrices, such as symmetry and static condensation, will also be introduced. All in all, this is a course that teaches you how to convert complicated 3310 problems into something that even a stupid computer can solve.",
+      "comment_teaching": "Dr. Illias explains the concepts clearly. Whenever a new concept is introduced, he starts from a simple element, show us how to solve the problem, then show us how to analyze complicated structures and reduce them into a group of simple elements. A lot of complex matrix derivations are involved in the course, but he will do it again and again to make sure all of us understand the concepts. He also invites students to solve example problems to help us understand the materials.",
+      "comment_grading": "Since the class is small, the &quot;university guideline&quot; is not applied. The grading is skewed towards the A-side.",
+      "comment_workload": "The workload is quite heavy for a 3-credit course. 3 assignments are given throughout the semester. Since Dr. Illias wanted us to practice different methods, for each problem, we were asked to use different methods to solve them. So expect to spend around 1 - 2 solid days in the computer lab to finish each assignment (Note: this policy turns out to work pretty well in helping us learn). There is also 1 individual project - that is, building a ETABS model for a building and write a report for it. Can be quite frustrating sometimes. Apart from these, 1 midterm exam and 1 final exam are given.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "course": {
+    "id": 2358,
+    "subject": "SOSC",
+    "code": "5780",
+    "name": "Foundation in Public Policy",
+    "description": "The course will provide an advanced foundation in the study and practice of public policy at the level required for graduate study. The course will cover both the historic foundations of policy studies, as well as emerging approaches and directions. As the study of public policy is inherently interdisciplinary, it will include perspectives from political science, public policy, economics, business and other aspects of social science. It will take a broad view of public policy, including taking up some of the core literature on public management and public administration.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1810,
+      1710
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"PPOL\" data-code=\"5110\" href=\"/review/PPOL5110\" target=\"_blank\">PPOL 5110</a>",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 944,
+        "name": "WU, Xun",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "4Kgzl8OOWv3nyRZW8NPhfO77P94YmKUf",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 944,
+          "name": "WU, Xun",
+          "rating": 1
+        }
+      ],
+      "author": "bazinga",
+      "date": "Dec 12, 2020",
+      "title": "",
+      "comment_content": "It is a compulsory course for those graduate students (tpg and rpg) who majored in public policy. So you have no other choice. Contents include principles and concepts of public policy, quite basic yet important. A lot of cases and examples will be given for you to understand concepts better.",
+      "comment_teaching": "Prof. Wu is good at teaching and he will give many examples during classes. Very promptly in responding to emails and questions. Good overall.",
+      "comment_grading": "So far the grades are fair for me, though a bit lower than expected. <br />20% case analysis (4 out of 7), 20% policy memo (2 out of 3), 20% group project (10-15pags case writing +analysis), 30% final exam (open-book), 10% class participation.",
+      "comment_workload": "Generally, you need to hand in an assignment every 2 weeks. For me, each assignment takes like 5-6 hours to read and write. So for me it&#039;s fine. Reading workload is a bit large if you aim to read every material the Prof uploaded. There will be an open-book final exam and a final group project.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

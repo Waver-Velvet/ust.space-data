@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 4112,
+    "subject": "MATH",
+    "code": "4985G",
+    "name": "Independent Study: LSTM Framework for Air Quality Forecasting",
+    "description": "Develop an LSTM framework for air pollution forecasting that considers environmental factors like wind and temperature. Tasks include data collection and preprocessing, updating the LSTM framework with Python and TensorFlow, and model training and evaluation. The student will gain experience in deep learning, data preprocessing, and environmental science.  Students should seek the course instructor's approval to take this course.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2240
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2352\" href=\"/review/MATH2352\" target=\"_blank\">MATH 2352</a> AND <a class=\"course-link\" data-subject=\"MATH\" data-code=\"3322\" href=\"/review/MATH3322\" target=\"_blank\">MATH 3322</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 4131,
+    "subject": "CIVL",
+    "code": "4100U",
+    "name": "Geospatial Science & Technology for Smart City",
+    "description": "This course consists of lectures, in-class hands-on practices, readings, and a group project focused on geographical information science (GIS) and its application for smart city development. Lectures will cover basic concepts of location-based geospatial data for smart city development, Common Spatial Common Infrastructure (CSDI), GIS applications for city planning and monitoring, collection and handling of geospatial data, and geospatial analytics for smart city. Through hands-on practices, students will learn how to use different GIS technologies such as 3D GIS, Web GIS and mobile GIS for smart city planning, analysis, and management. Integration of GIS with other technologies will also be covered.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1839,
+        "name": "SHIU, Wai Yee Winnie",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "rduKREFyiNeQ5AMb0EjOx7JAfemXYv3A",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1839,
+          "name": "SHIU, Wai Yee Winnie",
+          "rating": 1
+        }
+      ],
+      "author": "Kevin789",
+      "date": "Jan 23, 2024",
+      "title": "A course focus on introducing ArcGIS platform, with introductive content. Sr. Paul Tsui and his collogues will mainly teach the course. A rather good grades and light workload course.",
+      "comment_content": "The course only focus on ArcGIS NOT QGIS due to the background of the lecturer.<br /><br />Lecture 1: Introduction to GIS and Smart City<br />Lecture 2: Spatial Data Infrastructure (SDI) and Open Geospatial Data<br />Optional Visit to Geospatial Lab (Weekend)<br />Lecture 3: 3D GIS and Integration with BIM <br />Lecture 4: GIS &amp; Smart Mobility <br />Lab 1 - Fundamentals of Desktop GIS <br />Lecture 4: Smart City Planning and Design with GIS <br />Lecture 5: Real Estate and Property Management Applications of GIS<br />Lab 2 - Fundamentals of Web and Mobile GIS <br />Lab 3 - Spatial Data Presentation and Visualization <br />Lab 4 - Spatial Data Analytics and GeoAI <br />Lecutre 6: Space Technologies, Satellite Imagery, and GIS (Lecture + hands-on)<br />Lecture 7: Architecture, Engineering, and Construction (AEC) Applications of GIS<br /><br />All lab section are conducted in lecture time at the computer barn.<br /><br />Lecture are simple conceptual introdution in various application of GIS worldwide. Intend in raise understanding in GIS application. Where content introduced are all related to ArcGIS, information of QGIS was not taught / introduced during lecture.<br /><br />Lab are hands on experience intended to prepare for the final project.<br /><br />Both lectures and labs last 3 hours, with 1 section per week.",
+      "comment_teaching": "Professor Shiu only taught for a few lectures and participated in final project presentation, content wise was more informative, her lecture did not last for a full 3 hours during the lecture I attended. <br /><br />The course was mainly taught by&nbsp;&nbsp;Sr Paul Tsui and his collogue. Sr. Tsui is the CEO of Esri China (Hong Kong) and Chairman of Land Survey Division at the time. Hence, his content will be heavily related to ArcGIS and from a surveyor prospective. His class was interactive and interesting with multiple example. He can also invited many guest lecturer in explaining the application of GIS in the field. Eg. The head of GEO at the time was invited to the class.<br /><br />An ArcGIS Pro account with possibly all access will be provide for the student in the course and during the course.",
+      "comment_grading": "Attendance is taken<br /><br />Lab Exercise: 20%<br />Project Report: 30%<br />Presentation: 20%<br />Written Assignment: 20%<br />Course Participation: 10%<br /><br />Lab 1: 90/100<br />Lab 2: 100/100<br />Lab 3: 90/100<br />Lab 4: 85/100<br />Lab 5: 100/100<br /><br />First Essay: 83/100<br />Second Essay: 80/100<br /><br />Final Project: 76/100<br /><br />Final Grade: A<br /><br />Very generous on the grading, easily achievable for a high grade.",
+      "comment_workload": "Comparing to other available course, the workload in rather light.<br /><br />Lab exercise will be completed in-class. <br /><br />Essays are on simple topics with explanatory works, 1000 to 1500 works.<br /><br />Final project is the main work to be complete, 2 as a team (Reliant on teammate). Use GIS to study on a topic, write report around 4000 words and make a story map (Like a ppt) for presentation. <br /><br />Originally the topic was provide, but I made a proposal on making the project achieved and it was accepted. The topic was on &quot;Analysis of Severe Flooding in Hong Kong during 07-Sep-2023 to 08-Sep-2023&quot;. Using GIS skills taught in-class provide a simple and reasonable cause to the incident. <br /><br />If you are comfortable in writing and presenting, you will find the workload light when compared to other course.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

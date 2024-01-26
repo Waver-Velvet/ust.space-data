@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 3535,
+    "subject": "ISOM",
+    "code": "4000B",
+    "name": "Natural Language Processing in Business Using Deep Learning",
+    "description": "This course covers the concepts and techniques for applying natural language processing and deep learning in processing text data in the business domain. Python programming language will be the primary implementation tool for data analysis and model development. An extended lab session intends to train students with good knowledge and skills for solving practical problems, such as document classification, word embedding, topic modeling, and financial news analysis. Second or third year standing preferred.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2210,
+      2110
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3360\" href=\"/review/ISOM3360\" target=\"_blank\">ISOM 3360</a> OR <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3400\" href=\"/review/ISOM3400\" target=\"_blank\">ISOM 3400</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"4221\" href=\"/review/COMP4221\" target=\"_blank\">COMP 4221</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"4901K\" href=\"/review/COMP4901K\" target=\"_blank\">COMP 4901K</a>, MATH 4632, <a class=\"course-link\" data-subject=\"ELEC\" data-code=\"4230\" href=\"/review/ELEC4230\" target=\"_blank\">ELEC 4230</a>",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 373,
+        "name": "JIA, Jia",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "eUxs4mLynbzgACdejAEvQpfO9JjSgI3G",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 373,
+          "name": "JIA, Jia",
+          "rating": 1
+        }
+      ],
+      "author": "elainechun",
+      "date": "Jan 27, 2023",
+      "title": "Very Hard but a good foundation course if u planned to learn more about DL&amp;NLP",
+      "comment_content": "The first half of the course covers topics such as deep learning, gradient descent, regularization, and model optimization. It&#039;s recommended to have some background in traditional machine learning and basic Python programming skills before starting the course, though the basics will be reviewed quickly in class. Familiarity with Numpy is also helpful as it&#039;s frequently used throughout the course.<br /><br />In the second half of the course, we delve into natural language processing (NLP) and explore topics such as word2vec, glove, RNNs, LSTMs, and GRUs. The professor also briefly covers transformers and attention mechanisms in the final lecture. However, due to time constraints, more advanced models such as BERT were not covered.",
+      "comment_teaching": "JIA Jia is very kind and willing to answer students&#039; questions, but this course is very challenging and can be difficult to understand if you don&#039;t have a math background, especially when explaining the backpropagation concepts.",
+      "comment_grading": "To be honest, due to the small class size, almost all assignments and group projects have very high mean. So, the only thing that may seriously affect your grade is the final exam, which is very challenging.<br /><br />We have 3 ASMs (all requiring use of Colab) accounting for 30%,<br />1 final exam (MC + LQ) accounting for 30% which is very challenging,<br />1 group project accounting for 25% (requires you to build your own model using the dataset given)<br />lab submission accounting for 15% (you can get full marks as long as you hand it in punctually, answers are given during lab).",
+      "comment_workload": "The workload can be quite heavy if you are not good at coding and do not concentrate in class. Because you will likely fall behind if you miss one of the lectures (around 2.5 hours per lecture).",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

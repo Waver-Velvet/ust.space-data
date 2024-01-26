@@ -1,0 +1,272 @@
+{
+  "course": {
+    "id": 819,
+    "subject": "LIFS",
+    "code": "4380",
+    "name": "Pharmacology and Toxicology",
+    "description": "Fundamental concepts of drug action and toxicity; clinically useful agents in central and peripheral disorders; toxicology of drugs and agents that are hazardous to living organisms.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2030,
+      1830,
+      1630,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"LIFS\" data-code=\"2040\" href=\"/review/LIFS2040\" target=\"_blank\">LIFS 2040</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.67,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 1.5,
+    "review_count": 6,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 494,
+        "name": "WONG, Yung Hou",
+        "count": 6
+      },
+      {
+        "id": 1022,
+        "name": "CHAN, Siu Lung Anthony",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "iDBFGeeshd1joPXnavw9cCXOmxvAAPwb",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 494,
+          "name": "WONG, Yung Hou",
+          "rating": 1
+        }
+      ],
+      "author": "zorro",
+      "date": "May 28, 2021",
+      "title": "huge huge workload under online sem",
+      "comment_content": "rich content, total 13 chap, first introduce basic concepts of pharmacy such as pharmacokinetic, than the next 7 to 8 chap introduce different types of drug, last 3 chap introduce 3 types of toxic material. the content is closely related to human physiology",
+      "comment_teaching": "read through the ppt basically, but the ppt is pretty clear, so is a bit boring but overall acceptable. Also, the Prof. reply the email promptly, generally within a day.",
+      "comment_grading": "40 % assignment (essay, introduce a drug), 60% final<br /><br />assignment mean 32/40, my score is 36,<br />final no data is given (even my own score)<br />I think i have studied pretty hard, but overall grade is B, considering the time spent in this subject, i don&#039;t think you should choose this course unless you are extremely interested in the subject per se<br /><br />ps:&nbsp;&nbsp;you can mail prof Wong to ask him to give feedback to your assignment.",
+      "comment_workload": "around 30 to 40 slides of ppt per lesson, and every slide is stuffed with very professional content, huge huge workload. at the last few wk, the prof. will give a drug list (about a hundred) at the end of semester for you to memorize, you need to remember the function, characteristic and adverse effects for some drugs. (not simply remember the name). tonnes of&nbsp;&nbsp;works, crazy.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "u6hGVWdkl9RpIMwMOgrU6wqCUNPstgsy",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 494,
+          "name": "WONG, Yung Hou",
+          "rating": 1
+        }
+      ],
+      "author": "yyyyyyyy",
+      "date": "May 20, 2021",
+      "title": "ONLY for HIGH ACHIEVER who love challanges",
+      "comment_content": "WELL~~ you may go through other comments to have a look at the syllabus but I don&#039;t wanna repeat them again.",
+      "comment_teaching": "Basically, he read out ppt words by words. unless you are a fan of Prof WONG. Skipping all lessons is probably the best choice, you may want to go to the last lessons to hear any tips for the final exam or go to the homework explanatory lessons to know more about the assignment. <br />PLANN YOURR TIME and start memorizing drug names from the beginning of the semester is the best things you can do for this course",
+      "comment_grading": "40% Assignment <br />60% Final <br /><br />No one knows how he grades that assignment but basically, if you fulfill all the drug information on the template, you got a decent mark.<br /><br />PS. LMAO, I got A+ at the end, looks like my strategy works. But at what cost? I spent all my study leave time on this course and my other finals screwed up.",
+      "comment_workload": "HELL mode, the worst courseload I have ever had. Worse than Cell Biology, Microbiology, and even Organic chemistry. <br />One suggestion for you is to take Medicinal Chemistry tgt if you are a chem minor student, You basically learn similar things there which brings you synergy in the study. <br /><br />Advice for those high achievers who think you are better than everyone and want to take the course:<br />1) think again, is it worth it to spend hours on drug names that you will never encounter <br />2) If yes, then spent your time memorizing drug names from day one<br />3) Personally feel that the drug names on the essential drug list are enough for your final exam, so if you are in hurry, stick with the drug list<br />4) for each drug: memorize PK, PD, contradiction<br />5) Pay special attention to PK as the exam covers a lot on that<br />6) go through youtube source to learn more beyond than PPT: https://www.youtube.com/c/SpeedPharmacology/playlists . Personally think the PPT is a bit messy, better to have an extra source to help to sort out the course<br />7) Just to make you learn better, I left the drug list below, I think its super helpful if you have it at first and drop-down note next to the drug.<br />8) Make tons of memory tricks: - olol&nbsp;&nbsp;(= the reverse of bb ) = beta blocker<br />9) Why? Why torturing yourself? Why UST? This course is just like lead molecules, it deteriorates brain cells. Besides, You probably will forget every drug name in two weeks after the exam. So Why?",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 12,
+      "vote_count": 12,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "dvVXjLZnHl8KGoBsrrU6kZ6xjdVLS9dZ",
+          "name": "LIFS 4380 Drug List-1 2021",
+          "format": "pdf"
+        },
+        {
+          "key": "vVsfYohUTsTLyyuqtglhKAqDQvZhUUJ9",
+          "name": "LIFS 4380 Drug List-2 2021",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "TYMLj3np0MK8v3QHnJn9tbaXPGbiMjMs",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 494,
+          "name": "WONG, Yung Hou",
+          "rating": 1
+        }
+      ],
+      "author": "holymama",
+      "date": "May 19, 2021",
+      "title": "折磨自己不二之選",
+      "comment_content": "Chapter 1: Introduction<br />Chapter 2: Pharmacokinetics<br />Chapter 3: Pharmacodynamics<br />Chapter 4: Autonomic Nervous System <br />Chapter 5: Anaesthetics and Analgesics<br />Chapter 6: Hypnotics, Sedatives and Anti-depressants<br />Chapter 7: Antihypertensive and Antiarrhythmic Drugs<br />Chapter 8: Diuretics and Anticoagulants <br />Chapter 9: Anticancer and Immunosuppressive Agents <br />Chapter 10: Antiparasitic and Antimicrobial Agents <br />Chapter 11: Local Hormones and Anti-inflammatory <br />Chapter 12: Toxic Chemicals<br />Chapter 13: Pesticides",
+      "comment_teaching": "可能因為佢都係照lecture notes照讀一次，所以冇咩人去上堂，但係佢定期會有tutorial session等大家溫故知新，你會發覺其實好多野lecture notes係冇嘅，建議大家有幾多睇幾多......",
+      "comment_grading": "to be updated later<br /><br />40% assignment<br />60% final exam, cumulative",
+      "comment_workload": "異常地重......因為今年取消左midterm變左assignment同final, assignment 就係做個monograph, 變相final就係考曬成個syllabus.....essential drug list有113個, 但係實際上要讀嘅drug有348個, 仲要未計入面involve嘅enzymes/protein etc.連prof喺一開sem嗰陣都建議大家drop嗰陣......自己執生喇<br /><br />留意翻，除左藥名要記之外，你仲要背佢嘅ADME, mechanisms, classifications, drug-food/drug-drug interactions, side effects, toxicity, therapeutic/clinical uses...... 留意翻係 “每 一 隻 都 要 背”<br /><br />連medic/pharm student都唔會一個sem讀咁多，得科大先會係咁 :)",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "W48m8aCJm4fFrtS4vdG8U2DZb9lCz7JK",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 494,
+          "name": "WONG, Yung Hou",
+          "rating": 1
+        }
+      ],
+      "author": "Kappa",
+      "date": "Jun 28, 2019",
+      "title": "",
+      "comment_content": "Covers across broad topics about pharmacology. Including but not limited to : Cancer, parasite, neuro system, immune system, etc. <br />There will be some tutorials and some of the questions from exams come from those tutor questions. <br /><br />He will fake you in the first tutorial lesson that it is a sudden quiz. Don&#039;t be scared.",
+      "comment_teaching": "Your ppts are literally everything from the book and Wong will just go through everything you can see. Therefore, you may feel bored sometimes. He does make some jokes and talk about movies that he like.",
+      "comment_grading": "Only midterm and final are included in this course. My midterm mark is about one sd below the mean but somehow&nbsp;&nbsp;I get B in final grade. I think it&#039;s quite acceptable.",
+      "comment_workload": "This is all this course mean. In the final, he provided a drug list of 100 types of drugs. You literally have to remember all of their names, functions, how they work, how and which drugs they synergism with. There are also 400 drugs you at least need to know which of the topics do they appear. Just as Mr Wong said in the first lesson &quot;you will need lots of brain power in this course. Therefore, I strongly suggest you to drop this course.&quot; (Yes, he really said that)",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "nN50DAdrNLBmNrolANAVsAAePju1PhAe",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 494,
+          "name": "WONG, Yung Hou",
+          "rating": 1
+        }
+      ],
+      "author": "DanielChan326",
+      "date": "Jun 28, 2019",
+      "title": "Good professor, good content and good pace",
+      "comment_content": "Course:<br />Chapter 1: Introduction<br />Chapter 2: Pharmacokinetics<br />Chapter 3: Pharmacodynamics <br />Chapter 4: Autonomic Nervous System <br />Chapter 5: General and Local Anaesthetics <br />Chapter 6: Hypnotics, Sedatives and Anti-depressants <br />Mid-term exam <br />Chapter 7: Antihypertensive and Antiarrhythmic Drugs <br />Chapter 8: Diuretics and Anticoagulants<br />Chapter 9: Anticancer and Immunosuppressive Agents <br />Chapter 10: Antiparasitic and Antimicrobial Agents <br />Chapter 11: Local Hormones and Anti-inflammatory Drugs <br />Chapter 12: Toxic Chemicals<br />Chapter 13: Pesticides<br />Final Exam",
+      "comment_teaching": "He provides good content for you to&nbsp;&nbsp;understanding the fundamental of pharmacology. You may find the slides difficult to read (in some chapters). Overall, it is above average I would say, with proper tutorials support and always remind us some important concepts throughout the whole course.",
+      "comment_grading": "Midterm : 40%<br />Final : 60% <br />I nearly studied everything and memorised, and if you are able to describe the main idea of every drugs property and usage, you can get B at least.",
+      "comment_workload": "It&#039;s a relatively high workload course for sure...... (But It should be manageable if you are just taking 15 credits... I took 20) I didn&#039;t sleep before the day of midterm and final, simply sleep in the LC. The size of content is similar to other courses like Cell Bio or General Bio II, but just the way he test us make it difficult to score high enough to pass, e.g T/F (minus 1 point for wrong answer), fill-in-the blanks, SQ and LQ.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "zZsUV6T7fyK4bXpK4bhyODQhoNb7uKhi",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 494,
+          "name": "WONG, Yung Hou",
+          "rating": 1
+        },
+        {
+          "id": 1022,
+          "name": "CHAN, Siu Lung Anthony",
+          "rating": 1
+        }
+      ],
+      "author": "Luna Eresta",
+      "date": "Aug 26, 2017",
+      "title": "",
+      "comment_content": "Summary: 1) Understanding the fundamental concepts of pharmacokinetics and pharmacodynamics, therapeutic effects and toxicities of drugs acting on the cardiovascular, renal, endocrine and nervous systems, medical agents with chemotherapeutic and anti-inflammatory functions, and toxic chemicals in the environment. 2) Applying existing bioscience knowledge to pharmacological applications. 3) Examining the correlations between pharmacology and other bioscience topics such as physiology, cell biology, microbiology, neurochemistry and the molecular basis of diseases. 4) Identifying some of the complex issues facing biosciences professionals.",
+      "comment_teaching": "It was not too engaging, though it is quite understandable (for almost all higher level LIFS courses, even) since most of the things were hard facts that you could read and memorize on your own.",
+      "comment_grading": "Grading is fair. Guaranteed A range if you get above 1 SD above mean.",
+      "comment_workload": "No homework. But, the work of memorizing course materials almost made me cry. You literally need to memorize almost 100 drugs whose names are like &quot;benzodiazepine&quot;, along with their mode of action, potency, side effects, what it&#039;s used for, and idk man a bunch of other stuff. The exams are non-cumulative, but you still gotta memorise ~100 drugs for finals, IMAGINE. If you pay attention really well in class, and you revise REGULARly, you might be just fine. I didn&#039;t do that, but spent 5 full days trying to memorize half of the course materials..yeah that didn&#039;t work. Good luck",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

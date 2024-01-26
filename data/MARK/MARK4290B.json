@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 1290,
+    "subject": "MARK",
+    "code": "4290B",
+    "name": "Integrated Marketing - A Real Life Managerial Case Approach",
+    "description": "This is an advanced marketing course on Applied Marketing Practices, with wide range analysis on the full spectrum marketing activities. The course will address the real life development of comprehensive marketing strategies among top Global/Asian marketing companies. The course will be led by past Asian CEO of  Campbell Soup, supported by other current practitioners, mostly at senior managerial, and CEO levels, and also incorporate potential employment needs from their respective organizations. Due to the practical nature of the course, students should be ready to participate actively in/out of classes, and they would expect to acquire real life understanding of the marketing role and industry sound bites to help them increase success rate in the recruiting process, and facilitate in launching their Marketing career.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MARK\" data-code=\"2120\" href=\"/review/MARK2120\" target=\"_blank\">MARK 2120</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3,
+    "rating_teaching": 3,
+    "rating_grading": 3,
+    "rating_workload": 1,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 519,
+        "name": "HO, Adolf",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "jfUWpzFQFUVqlR1vNTq0j5RAOLJrblnG",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 519,
+          "name": "HO, Adolf",
+          "rating": 1
+        }
+      ],
+      "author": "Joseph Cheung",
+      "date": "Aug 23, 2015",
+      "title": "Intensive marketing course",
+      "comment_content": "As there is one lesson every week, the class either the 3-hour Adolf marketing class or guest speech. Quite intensive. Mostly focus on the strategic planning in the perspective of marketing. Business acumen and innovative marketing ideas are needed.",
+      "comment_teaching": "Before handing in the case, it will invite the related speakers in the case, like the marketing officer of the company in the case. You need to make notes on the guest speech and it is suggested to ask the questions about the case which will help a lot when your group deal with it later.<br />Adolf class quite intense, as he was the CEO of a company before, he will use the can soup and chicken soup industry examples to illustrate the marketing concepts and knowledge. Some are quite informative.",
+      "comment_grading": "4 Cases and 1 Case presentation.<br />I think it is a demanding course, once your four cases are doing well, and need to answer prof. questions very often to remember your active participation.",
+      "comment_workload": "Every two week need to hand in a case study and need to hand in a hard copy. Total four cases need to handle in the course, and last case, your group need to pick up one of 4 cases you studied, with a new topic and information, and present the case in the class.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

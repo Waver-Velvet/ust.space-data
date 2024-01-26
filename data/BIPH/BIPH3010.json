@@ -1,0 +1,250 @@
+{
+  "course": {
+    "id": 1506,
+    "subject": "BIPH",
+    "code": "3010",
+    "name": "Advanced Biological Physics",
+    "description": "Biological physics involves the application of physics to achieve an understanding of life processes. This is the second of a two-course series that will prepare advanced undergraduates for research and technical work in Biological physics. It covers advanced biological physics such as molecular and cellular biological physics, photophysics, single-molecule biophysics, medical biophysics, membrane biological physics, neurobiophysics, biostatistics, biomathematics, bioinformatics, computational biology and protein engineering. At the conclusion of this course, students will be able to critically assess primary research literature written for a general scientific audience. They will also be prepared for mentored practical research investigations or professional job related to biological physics.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2010,
+      1910,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"BIPH\" data-code=\"2010\" href=\"/review/BIPH2010\" target=\"_blank\">BIPH 2010</a> AND (<a class=\"course-link\" data-subject=\"LIFS\" data-code=\"2010\" href=\"/review/LIFS2010\" target=\"_blank\">LIFS 2010</a> OR <a class=\"course-link\" data-subject=\"LIFS\" data-code=\"2040\" href=\"/review/LIFS2040\" target=\"_blank\">LIFS 2040</a>) AND (<a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1114\" href=\"/review/PHYS1114\" target=\"_blank\">PHYS 1114</a> OR <a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1314\" href=\"/review/PHYS1314\" target=\"_blank\">PHYS 1314</a>)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.6,
+    "rating_teaching": 4.8,
+    "rating_grading": 4.4,
+    "rating_workload": 4.4,
+    "review_count": 5,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 495,
+        "name": "HUANG, Pingbo",
+        "count": 3
+      },
+      {
+        "id": 630,
+        "name": "PARK, Hyo Keun",
+        "count": 3
+      },
+      {
+        "id": 1083,
+        "name": "WANG, Jiguang",
+        "count": 2
+      },
+      {
+        "id": 497,
+        "name": "ZHU, Guang",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "KXqlGNP08QDCwM6ajoMAWXqVL8F2u1A1",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 630,
+          "name": "PARK, Hyo Keun",
+          "rating": 1
+        },
+        {
+          "id": 495,
+          "name": "HUANG, Pingbo",
+          "rating": 1
+        },
+        {
+          "id": 497,
+          "name": "ZHU, Guang",
+          "rating": 1
+        }
+      ],
+      "author": "myosin",
+      "date": "Jun 09, 2021",
+      "title": "MUST-TAKE course(Go to waive prerequisite for LIFS students)",
+      "comment_content": "This course is not related to biph2010. You can directly take this course if you want. Many people are afraid of taking this course and they think they cannot register because they do not fulfill phys1114 pre-requisite. But actually you can apply for waiving pre-requisite and take it. I would suggest everyone in LIFS taking this course as your LIFS electives. There are no calculus things and it is REALLY simple maths. You don&#039;t even have to worry about the physics. There is no force and electric and magnetic field calculation(those kinds of things). Prof will explain very clearly to you. Normal LIFS people could handle it. This course is nothing related to biph2010, so you don&#039;t need to worry.<br /><br />Prof Park<br />1. Scaling Law in Biology(2 lectures)<br />2. Light and Life(3 lectures)<br />3. Force and Life(3 lectures)<br />4. Single molecule biophysics(3 lectures)<br /><br />Prof Huang Pingbo<br />1. Biological physics of ion channels(3 lectures)<br />2. Neurophysiology(3 lectures)<br /><br />Prof Zhu Guang<br />1. Introduction to Biophysics<br />2. Protein stability, folding <br />3. Circular dichroism",
+      "comment_teaching": "Prof Park(course coordinator)<br />He taught well and explained all the ideas very clearly.<br />His part involves some calculations, but those were easy. Just prepare before exams and you can get those marks in exams. He would give a lot of hints for midterm exams, so you had better prepare for it(like Jablonski Diagram, calculation in Scaling law, etc .....). It is easy for midterm exam if you prepare for it. Just attend lesson and you can get good marks.<br /><br />Prof Huang Pingbo<br />He taught about biophysics of neurons.<br />Most part will be covered again in animal physiology(LIFS3040).<br />But his part differs a lot in calculation from LIFS3040. He taught a lot more in calculation for NEREST equation and also diffusion coefficient.<br />His part is the most challenging in the final exam.<br />You really have to do his homework and be careful for calculations. He will try to explain to you but he taught a bit fast. His part is long question in final exam. If you can answer his questions correctly, you must get at least an A as not many people get high marks in his part.<br /><br />Prof Zhu<br />He is ok at teaching, because it is very easy to understand. Just simple biology concepts. His part is easy and asked a lot of details. However, it is not difficult as it is just MC questions and those questions are straightforward.",
+      "comment_grading": "It is very good grading. I believe more than 50% in the class got A range or above. <br /><br />45% for midterm(Prof Park)<br />55% for final(Prof Huang and Prof Zhu)<br /><br />My score:<br />40/45 for midterm(3rd in class)<br />48/50 for Pingbo final(highest)<br />Unknown for Prof Zhu MC questions<br />Grade: A+<br /><br />It is extremely good grade, with a bit luck.<br />BIPH profs(Prof Park and Zhu) generally gives very good grade to students. I would recommend this course to you.",
+      "comment_workload": "It is the lowest workload for biph3010, among the 3 biph courses. There is no homework, and just midterm and final exams. If you understand the concept, you don&#039;t even have to revise much. There is no memorization needed for this course!",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "uhRuveqgvr44w9KdvY3kw8gYsjL8aarH",
+      "semester": "2018-19 Fall",
+      "instructors": [],
+      "author": "Evanhoooooo",
+      "date": "Aug 23, 2019",
+      "title": "good",
+      "comment_content": "Contents are interesting overall, but for those who are not having LIFS or PHYS as their majors, taking this course could be a bit difficult as it requires quite a bit of basic knowledge. Although the prerequisites of this course are (LIFS1901 / DSE Bio LV3) AND (PHYS1111 / PHYS1112 / PHYS1312), the Professor seemed like expecting more than just that.",
+      "comment_teaching": "The Professor expected most of the students have understood certain parts of the materials, so his teaching was a bit too fast-pacing, and I (not majoring LIFS or PHYS) found the course a bit difficult to catch up.",
+      "comment_grading": "To be honest, I paid pretty much the minimum effort on the assignments and tests, and I got a C grade. If you are really interested in the materials and would pay some time studying, you can probably ace this course easily.",
+      "comment_workload": "There is an assignment each week, which the questions are mainly about the contents taught in the lecture that week. There is a tutorial section when there will be a teaching assistant helping you with the assignment.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 6,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ijwFHJJYjTpEaU2itkGsZkpZ2Ozb1mAm",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 495,
+          "name": "HUANG, Pingbo",
+          "rating": 1
+        },
+        {
+          "id": 630,
+          "name": "PARK, Hyo Keun",
+          "rating": 1
+        },
+        {
+          "id": 1083,
+          "name": "WANG, Jiguang",
+          "rating": 1
+        }
+      ],
+      "author": "Doctor",
+      "date": "Jan 27, 2018",
+      "title": "BIPH3010",
+      "comment_content": "PARK, Hyo Keun:<br />Scaling law<br />light and life<br />force and life<br />Single Molecule BioPhysics<br /><br />HUANG, Pingbo:<br />Neuro Physiology<br />Ion Channel<br /><br />WANG, Jiguang:<br />Biostatistics<br />Bioinformatics<br />System Biology<br />Cancer genomics<br /><br />Overall the topics are fun and most contents are detailed, you will learn lots of cross-field knowledge in this course that will be not explained in detail in other department&#039;s course.",
+      "comment_teaching": "Professors are very nice, they will answer the question and accept the appointment in case of any questions related to the course or their research field.<br /><br />In terms of notes, PARK&#039;s notes are good, concepts are illustrated by easy image and graphics, not much keyword, Pinbo&#039;s notes are very detailed and he will explain more beyond the notes which address the questions in our mind, Jiguang notes is not quite good, the concepts are not quite explained clearly by the notes<br /><br />All 3 professor have the problem of poor english, try your very best to understand them. in terms of their delivery in descending order. Huang&gt;Park&gt;Wang",
+      "comment_grading": "the grading is very nice for this course.<br />in my semester of study.<br />11 people:<br />Mid-term: above mean 0.5 SD<br />final: didn&#039;t release statistic<br /><br />Final grading = A<br />words From PARK, Hyo Keun: above 40% got A- or above, that means 4 people get A range",
+      "comment_workload": "workload is extremely little, just mid-term and final there are assignments on Pingbo&#039;s part, However, it is not necessary to complete or hand in, you can treat it as extra revision material.<br /><br />ALERT!!!<br />If you are physics student and haven&#039;t study biology before, this course will be harsh for you.<br /><br />If you are lifs student and didn&#039;t have satisfactory sense of mathematics, this course is not suitable for you.<br /><br />this course is detailed in cross field topics but not detailed in neither physics nor biology nor chemistry, it will be good for whom treat research as his/her interest but not good for try to understand content of other department&#039;s field content.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "F0uL55F3FSRP2gabQfhhrCND325qVzzQ",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 495,
+          "name": "HUANG, Pingbo",
+          "rating": 1
+        },
+        {
+          "id": 630,
+          "name": "PARK, Hyo Keun",
+          "rating": 1
+        },
+        {
+          "id": 1083,
+          "name": "WANG, Jiguang",
+          "rating": 1
+        }
+      ],
+      "author": "Bohr",
+      "date": "Dec 21, 2017",
+      "title": "BIPH 3010",
+      "comment_content": "Teaching Topics:<br />Professor Park:<br />Scaling Laws in Biology<br />Light and Life<br />Force and Life<br />Single Molecular Physics<br /><br />Professor Huang:<br />Ion channel physics<br />Neuro-physiology<br /><br />Professor Wang:<br />Introduction of Big Data / System biology<br />Gene Ontology analysis<br />Statistical Hypothesis Testing<br />Correlation Analysis<br />Introduction to Cancer Genomics",
+      "comment_teaching": "The professors are very nice.",
+      "comment_grading": "45% Mid-term [Normal]<br />Mid-term coverage: Professor Park&#039;s part<br /><br />55% Final Exam [Normal] [open book]<br />Final Exam coverage: Professor Huang&#039;s and Professor Wang&#039;s part",
+      "comment_workload": "No regular assignments<br />But in Professor Huang and Professor Wang session, they gave some questions and quizzes for revision in his teaching topics",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "HYBp6BYuonmqQsNFCPNh5IeKFB8NWDsV",
+      "semester": "2016-17 Fall",
+      "instructors": [],
+      "author": "Raymond Yau",
+      "date": "Sep 07, 2016",
+      "title": "",
+      "comment_content": "Not very much. It is just the first class. So it&#039;s very basic.She is from the USA.She has a daughter and a son and his son has a girlfriend.She has a husband who is very handsome.",
+      "comment_teaching": "Not very quick.The speed is adequate.The teaching method is very good.She i very beautiful.Her class is very interesting.",
+      "comment_grading": "Maybe good. I have not get any grade yet. It is just a beginning.You can know more details in the Canvas",
+      "comment_workload": "Not very hard.At least for now it is.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 22,
+      "comment_count": 2,
+      "attachments": []
+    }
+  ]
+}

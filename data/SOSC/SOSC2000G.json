@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 3569,
+    "subject": "SOSC",
+    "code": "2000G",
+    "name": "Social, Economic, and Political Elites: Past and Present",
+    "description": "This course will examine elites in historical and contemporary societies. We will begin with military/political and clerical/educational elites in the past in what Thomas Piketty has referred to as ternary societies. We will then consider the propertied elites who emerged as a distinct category in recent centuries in many societies. General topics include how elites are defined and legitimated, how they maintain their power and position, and the survival, evolution or replacement of elites during times of disruption. Particular attention will be given to interactions between propertied elites and social, political, and economic institutions in the contemporary era, and the actual or potential role of institutions in empowering or constraining elites. The class will emphasize a comparative perspective, with particular emphasis on East and West from the 19th century to the present.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2110
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 661,
+        "name": "CAMPBELL, Cameron Dougall",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "4RkBWP60HoIYbR9pqJxu6n1k5ZWANH4l",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 661,
+          "name": "CAMPBELL, Cameron Dougall",
+          "rating": 1
+        }
+      ],
+      "author": "Johnson Park",
+      "date": "Jan 27, 2022",
+      "title": "",
+      "comment_content": "Easy, reading could be tough at times but everything will be covered in class",
+      "comment_teaching": "The professor knows what he&#039;s doing. He&#039;ll really change the way you understand how society works. This class was easily my favourite one this semester.",
+      "comment_grading": "Easy grades<br /><br />The grading is well distributed. The following numbers are percentages. <br /><br />Class Attendance 5<br />Proposed Questions for Class Discussion 10<br />Reflections 20<br />Class Participation 10<br />Proposed Questions for Final Exam 10<br />Book Review (Presentation) 10<br />Final Exam 20<br />Book Review (Written) 15",
+      "comment_workload": "Reading could be tough at times, but its mostly chill. Because it was a new course when I took it, the prof took things quite slowly.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

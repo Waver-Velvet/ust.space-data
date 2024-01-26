@@ -1,0 +1,151 @@
+{
+  "course": {
+    "id": 2770,
+    "subject": "CENG",
+    "code": "3950",
+    "name": "Chemical and Environmental Engineering Laboratory",
+    "description": "Integrated laboratory course for students in Chemical Engineering and Chemical and Environmental Engineering. Experimental modules on various unit operations and processes in chemical engineering and environmental engineering. Laboratory safety and risk assessment. Proper handling and interpretation of experimental data.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2330,
+      2230,
+      2210,
+      2130,
+      2030,
+      2010,
+      1940,
+      1840,
+      1830
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CENG\" data-code=\"2110\" href=\"/review/CENG2110\" target=\"_blank\">CENG 2110</a>",
+    "corequisites": "<a class=\"course-link\" data-subject=\"CENG\" data-code=\"3210\" href=\"/review/CENG3210\" target=\"_blank\">CENG 3210</a> AND <a class=\"course-link\" data-subject=\"CENG\" data-code=\"3230\" href=\"/review/CENG3230\" target=\"_blank\">CENG 3230</a>",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 3.33,
+    "rating_grading": 3.67,
+    "rating_workload": 2.67,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 25,
+        "name": "LAM, Leung Yuk Frank",
+        "count": 3
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "xRWNXzS6DHdYNTl74nhEqi6g5MAgiRlw",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 25,
+          "name": "LAM, Leung Yuk Frank",
+          "rating": 1
+        }
+      ],
+      "author": "taehwan",
+      "date": "Jan 19, 2023",
+      "title": "",
+      "comment_content": "Experiments<br />HAZOP<br />Pre-lab presentation + quiz<br />Lab report<br />Finals<br /><br />Lots of different experiments to learn, very interesting.<br /><br />average experiment time is around 2 hours except few, overall it is fun to try out different experiments.",
+      "comment_teaching": "It&#039;s basically trying out the experiments with given manuals, but there are designated TAs to help you out if you don&#039;t know anything about the experiments. They are very helpful and nice.",
+      "comment_grading": "Lab reports are the biggest tasks for the course, but the grading for most of the experiments are good. However, there is some TAs who are very very strict on the marking so make sure to write as much as possible with important points.<br /><br />Other than that, finals were MCQs, quizzes are done in Canvas.",
+      "comment_workload": "The report takes quit a long time as you need to validate your experimental results and elaborate on them. It takes around 4-6 hours average per report and I believe it is reasonable considering you are only going for classes once a week.<br />Pre-lab quiz requires you to read the manual before coming for the classes but they are considerably short and it is quite straight-forward so it won&#039;t take that much time",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "spe83Q3J0XT7OufjfRdYF5Incj9X1Cyv",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 25,
+          "name": "LAM, Leung Yuk Frank",
+          "rating": 1
+        }
+      ],
+      "author": "qujnvc",
+      "date": "Jan 04, 2023",
+      "title": "The only practical required course for CENG/CEEV curriculum",
+      "comment_content": "A total of 10 labs, weekly lab session+tutorial session.<br />10 pre-lab quizzes, at the start of every lab session.<br />10 pre-lab presentations, during the tutorial session.<br />10 HAZOPs to complete, submission to canvas after attending every tutorial session.<br />10 lab reports, 1 week is given to finish each of them.<br />Attendance is required for all sessions, absence without any reasons will immediately fail this course.<br />Once again, this is the only CENG lab-oriented course so you may find it fun if you seek to do experiments relating to the fundamental chemical engineering knowledge.<br />3-4 students in a group (decided by prof. Lam).",
+      "comment_teaching": "During the tutorial session, after the lab presentations, the TAs/lab technicians will go through the experiment procedures and you can raise any questions.<br />During the lab session, TAs/lab technicians will be around so you can also ask questions regarding the experiment (not sure if this will affect the grading of lab performance).<br />Overall, clear guidance is given on how to conduct the experiment. However, the experiment itself sometimes has nothing to do with the lab reports and the TAs may not answer your questions on them.",
+      "comment_grading": "Lab report - 55%<br />Final exam - 20%<br />Pre-lab quiz - 15%<br />HAZOP - 5%<br />In-lab performance - 5% (include pre-lab presentation)<br /><br />Most of the time the pre-lab quizzes are easy and almost all groups get full marks for the HAZOP. So, whether you do well or not in lab reports/final exam matters the most to your final grade.",
+      "comment_workload": "Before you do your pre-lab presentation, you probably have to spend 15-30 min to digest the lab manual first. This also prepares yourself for the pre-lab quiz in the following lab session.<br />Then, the HAZOP form will require roughly 5-15 min to fill in.<br />Final exam only consists of MC questions and it is open book so you do not have to memorize anything.<br />The weekly lab report will be the most time-consuming part. Sometimes the questions are not related to the experiment itself and you cannot find the answer in the lab manual, so you may need to look into the academic papers on the internet.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "vARQhwAm1CwqPCEu0i7gTsgaOxHMhzmj",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 25,
+          "name": "LAM, Leung Yuk Frank",
+          "rating": 1
+        }
+      ],
+      "author": "LoJ",
+      "date": "Nov 02, 2022",
+      "title": "I did not jump off the mushroom purely because the mushroom is too far away from the lab.",
+      "comment_content": "Lab x 10<br />Pre lab quiz, 5 MCQ about the lab. Sometimes easy sometimes difficult.<br />Pre lab presentation, show your understanding of what experiment you’re going to conduct<br />HAZOP, safety/hazard analysis",
+      "comment_teaching": "There’s basically no teaching. If you have any question, please feel free to figure it out yourself.<br /><br />TA provide little to no support. If you ask for clarifications through email, they’ll probably give you a 1-sentence answer, that may or may not relate to what you’re actually asking.",
+      "comment_grading": "The mean is super high for some lab reports. You get 95 and happy until you find out 97 is the mean.<br /><br />But for some lab reports the mean is like 40. The reason is due to different TA give very different marks.<br /><br />Skipping any lab session without major health issues will result in instant fail.",
+      "comment_workload": "Hand in lab report every week. (This makes me wanna die)<br />Final exam.",
+      "rating_content": 3,
+      "rating_teaching": 1,
+      "rating_grading": 2,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

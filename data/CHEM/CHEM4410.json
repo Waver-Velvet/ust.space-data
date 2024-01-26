@@ -1,0 +1,76 @@
+{
+  "course": {
+    "id": 2599,
+    "subject": "CHEM",
+    "code": "4410",
+    "name": "Physical Chemistry in Biological Applications",
+    "description": "This course covers the applications of physical chemistry in  biological science and emphasizes the capability in using the fundamental knowledge in physical chemistry to solve the latest research problems in the interdisciplinary areas. Topics include molecular interpretations of the laws of thermodynamics, free energy and physical equilibria in membranes, photochemistry and photobiology, enzyme kinetics, binding and conformation transitions, spectroscopy of biomolecular structures and interactions.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2010,
+      1910,
+      1810
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"3420\" href=\"/review/CHEM3420\" target=\"_blank\">CHEM 3420</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1140,
+        "name": "HUANG, Jinqing",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "6IAidPEStN90WKWBXgOXUFe77JYBMbRz",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1140,
+          "name": "HUANG, Jinqing",
+          "rating": 1
+        }
+      ],
+      "author": "KS1Day",
+      "date": "Jan 19, 2021",
+      "title": "",
+      "comment_content": "Course outline<br />1: Molecular Interpretations of the Laws of Thermodynamics<br />2: Free Energy and Physical Equilibria in Membranes<br />3: Photochemistry and Photobiology<br />4: Enzyme Kinetics<br />5: Binding and Conformation Transitions<br />6: Spectroscopy of Biomolecular Structures and Interactions",
+      "comment_teaching": "Prof. Huang is a bit low in voice... so you need to turn the sound higher...But the speed is ok",
+      "comment_grading": "Reading assignment 20%<br />Mid Term Presentation 40%<br />Final proposal 40%<br />Great I think...",
+      "comment_workload": "She lets you to choose your timeslot for mid term presentation from late Oct to mid Nov, I think it is first choose first serve, because I think most people will just say mid Nov...<br /><br />Deadline of reading assignment is early Dec, Final proposal is after Christmas...So there are plenty of times to finish them.<br /><br />Reading assignments (Because you need to read 3 papers and do 3 feedback...) are a feedback of suggested reading paper<br /><br />Mid-term presentation is 20-30mins&nbsp;&nbsp;+ 5-10mins Q&amp;A <br />Final proposal is similar to mid-term presentation.<br />(introduce the question, summarize previous studies, explain the<br />theory, discuss the results, {{{comment on this application}}} she highlighted...)<br /><br />She loves people to have more comments on the application, like limitation, improvement",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

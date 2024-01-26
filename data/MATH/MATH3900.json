@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 3813,
+    "subject": "MATH",
+    "code": "3900",
+    "name": "Communicating Mathematics to the Public",
+    "description": "This project-based course allows students to develop expertise in mathematics outreach and knowledge transfer, as well as understand industrially and academically relevant skills. The course exposes students to promoting mathematics to the public. Activities may include lectures, seminars, workshops, and sharing sessions. Outputs will be diverse and may consist of exhibits, workshops, or presentations to be delivered in schools, online activities, and digital apps to be posted on websites or social media platforms. For MATH students only.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2210
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 535,
+        "name": "LEUNG, Shing Yu",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "bMucNwgmva3kp1GHeoj9bfXQYn0E3sTN",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 535,
+          "name": "LEUNG, Shing Yu",
+          "rating": 1
+        }
+      ],
+      "author": "_NattU_",
+      "date": "Dec 18, 2022",
+      "title": "",
+      "comment_content": "6 lectures in total, followed by a sharing session with a science communicator (Dr. Karen Mak). Lectures are super laid-back and mostly discussion-oriented. Lecture topics are as follows:<br /><br />1) Introduction: Course Structure; What is popularization? Potential problems involved in Math communication<br /><br />2) The Importance of the Message: What message to deliver? A guideline for effective delivery. Case Analysis/Discussion of certain examples (Numberphile, 3Blue1Brown)<br /><br />3) The Vocabulary of Mathematics: The choice of words, explaining jargons, discussion: explaining calculus to general public vs students in MATH1012/14<br /><br />4) The Topics: How to decide a good topic? Case Analysis/Discussion: Schelling&#039;s model of social segregation, Story of Gömböc, Mysterious number 6174 (Kaprekar&#039;s operation)<br /><br />5) The Setting and the Occasion: Discussion on different avenues for communication: Social media, Blogs, Youtube, Magazines, Podcasts, Science Focus<br /><br />6) The Illusion of Understanding: Does math communication (through its simplified and often-dumbed-down explanations) create a false sense of understanding among the audience? Discussion on examples and possible solutions.<br /><br />There are some short assigned readings that might be worth a read to get some quick ideas but I wouldn&#039;t consider them essential.",
+      "comment_teaching": "Prof. Leung has a friendly and chill personality. Fun to talk to and encourages discussions amongst ourselves. There really wasn&#039;t much to &#039;teach&#039;. Rather, I think he did an excellent job of picking good discussion topics and we all essentially exchanged our opinions and <br />ideas to learn. The lecture topics are all worth pondering over when you&#039;re starting out your project. He also scheduled individual mentoring sessions in case we needed some advice on the project.",
+      "comment_grading": "Grading Scheme:<br /><br />Attendance and Participation (20%), Learning Portfolio (40%), Project (40%)<br /><br />Learning Portfolio simply refers to the canvas submission you have to provide after each lecture to explain what you&#039;ve learned in class (~100 words).<br /><br />The project is a &#039;Maths communication&#039; project where you have to provide a project proposal (10%) and a Project Reflection (30%) at the end of the semester. You also need to provide a presentation to demonstrate what you&#039;ve done so far (or are planning to do).<br /><br />Most students will get full marks on the first two assessment criteria as long as they attend, participate in the discussion and turn in the submission on time. The Project is the main criterion to distinguish students for their final grades. Disclaimer: It isn&#039;t necessary for you to have a finished project but you should showcase the formulation of a solid plan for future steps.<br /><br />Score Statistics:<br /><br />Except one student, everyone got full marks on Attendance and Participation(20%) and Learning Portfolio (40%).<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mean | High | Low | Up. Q | Low. Q<br /><br />Project Proposal (out of 10):&nbsp;&nbsp;7.29 |&nbsp;&nbsp;8&nbsp;&nbsp;|&nbsp;&nbsp;5&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;8&nbsp;&nbsp;|&nbsp;&nbsp;7<br /><br />Project Reflection (out of 30) :&nbsp;&nbsp;&nbsp;23.29 | 30 | 20 | 25 |&nbsp;&nbsp;20<br /><br />Total score (out of 100) :&nbsp;&nbsp;&nbsp;89.35 | 98 | 81.3 | 93| 86.07 <br /><br />Note: We only had 7 students. So the score distribution might not necessarily represent an accurate measure of grade distribution.",
+      "comment_workload": "The after-class submissions for learning portfolio are very easy (maybe takes 5-10 mins max.). The main workload will be determined by the type of project you choose. I&#039;ll provide a brief summary of what our class did:<br /><br />- We had two people who made youtube videos: both required a fair amount of animation and editing, but one required like 3000 lines of code lol because the creator made a video quite similar to 3Blue1Brown in terms of all the graphical visualization for a proof. The other creator&#039;s video was quite short (&lt;30s) but introduced a combinatoric idea on cutting papers in different ways.<br /><br />- One student made a math blog with a cat as a narrator (with a couple of posts already by end of the semester). The post introduced the concept of infinitesimal and limits using a dog meme as a starting point. <br /><br />- Another student provided an article on Superellipses and its applications for Science Focus (HKUST School of Science Magazine). <br /><br />- A student posted a few math memes on his Instagram account.<br /><br />- One of us was working as a TA in secondary school so the student delivered an illustrative workshop/tutorial to his students on minimal surface area with various geometrical shapes.<br /><br />- The last student demonstrated a plan to form a society of some sort to popularize math, science, and philosophy to the general public.<br /><br />As you can see, the ideas are all quite diverse. The most important thing (for an A+) is to provide an in-depth explanation of why/how you chose a certain topic/avenue for popularizing, what sort of problems you encountered (or will encounter), possible solutions to be considered, and a general outlook on where the project will be headed in the long run.<br /><br />P.S.&nbsp;&nbsp;I had the highest score in class (98%) and got an A+. Can you guess which project is mine?",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 6,
+      "vote_count": 7,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

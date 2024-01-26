@@ -1,0 +1,119 @@
+{
+  "course": {
+    "id": 491,
+    "subject": "HART",
+    "code": "1034",
+    "name": "Light and Art",
+    "description": "This course aims at introducing students to modern concepts of light and art, and to lead them to realize a light installation using artificial light sources. Students will learn to experiment with light and shadow, and will explore artistic spatial concepts to engage the audience in their artworks and/or create site-and purpose-specific installations on the UST campus. The light sources used in this course will be mainly found and ready-made products available in Hong Kong on a budget. The students will be encouraged to work in small groups to be able to complete larger and more complex installations. Upon the completion of the course the students will have learnt to make use of common products and physical phenomena to create an unconventional artistic experience.",
+    "categories": [
+      "Common Core (Arts)"
+    ],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      1930,
+      1810,
+      1610,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3.5,
+    "rating_teaching": 4.5,
+    "rating_grading": 4.5,
+    "rating_workload": 3.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 281,
+        "name": "ERDMANN, Cornelia Heidemarie",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "FfGs4zIqJkS09rwZ0oYx7QA0kULRJz5R",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 281,
+          "name": "ERDMANN, Cornelia Heidemarie",
+          "rating": 1
+        }
+      ],
+      "author": "yam",
+      "date": "Jun 04, 2020",
+      "title": "Online mode of teaching installation art is a bit weird",
+      "comment_content": "Few theoretical learning... more about DIY<br />It is a course that pushes you to make something even though it may not qualify as artwork.<br />No field trip and little interaction so the whole course is a bit dull ( can only blame the virus:(",
+      "comment_teaching": "Listen to our presentation and give advice. not much taught.<br />She is willing to answer all questions and give her opinion.",
+      "comment_grading": "I got B+, which I think is fair enough. <br />Concerning the final artwork, one should put more effort into it and follow the instructor&#039;s advice so that you can get a higher score:(",
+      "comment_workload": "It is one credit course but lots of effort put into crafting. <br />make careful decisions.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "L4VGT4XY2vPUScV2PJAhNntJebpdHYhp",
+          "name": "HART1034_LightArt_Syllabus_2019-20Spring_FINAL",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "t84rGpYmtEqO2GTitnLNOPC54d6pAg3I",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 281,
+          "name": "ERDMANN, Cornelia Heidemarie",
+          "rating": 1
+        }
+      ],
+      "author": "QAD70",
+      "date": "Feb 01, 2019",
+      "title": "A practical course",
+      "comment_content": "If you skipped first two lessons (add drop period), you probably won&#039;t see any powerpoints throughout the course. Most of the time were spent on presentations and project discussions, sometimes field trip and workshops.",
+      "comment_teaching": "she is willing to answer all kinds of questions. although there&#039;s not much theoretical knowledge about light art learnt from this course, she provided many practical skills on making and designing light installations.",
+      "comment_grading": "20% Attendance and Participation<br />20% Individual Research Presentation<br />10% Group Concept Presentation of Light Art Project<br />50% Light Art Work (in small groups) &amp; Documentation (individual)<br /><br />my score are:<br />18.4 in participation (skipped 1 lesson)<br />20 in individual presentation<br />9 in group presentation<br />47 in artwork &amp; documentation",
+      "comment_workload": "the grade depends on how much time you spent on your project and presentation, and don&#039;t forget the attendance. i think the key is to make the instructor really understand what your group is planning to make and the message to convey.",
+      "rating_content": 3,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

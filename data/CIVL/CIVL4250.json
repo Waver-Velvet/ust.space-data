@@ -1,0 +1,109 @@
+{
+  "course": {
+    "id": 166,
+    "subject": "CIVL",
+    "code": "4250",
+    "name": "Project Management and Finance",
+    "description": "This course introduces the basic methods, tools and techniques in managing and financing a project.  Management subjects cover project planning, cost management, time management, materials management, change management, construction labor, safety management, and communication management.  Financial subjects cover debt and equity finance, project risk analysis, cost and benefits of political risk insurance, project funding and cash flow, option pricing, and credit scoring of project finance debt.  Programming issues and Monte Carlo simulation for project management and finance models will also be discussed.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2210,
+      1810
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3,
+    "rating_teaching": 3,
+    "rating_grading": 4.5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 73,
+        "name": "ZHANG, Xueqing",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "XjaThpjVg0e6hIcESwCCE8dlvMXD4QR4",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 73,
+          "name": "ZHANG, Xueqing",
+          "rating": 1
+        }
+      ],
+      "author": "nausicaa",
+      "date": "May 17, 2023",
+      "title": "",
+      "comment_content": "Ch1_Engineering, Business &amp; Society<br />Ch2_Case Studies of EBS Interactions<br />Ch3_Business Manager’s Skill Set<br />Ch4_Overview of Project Management<br />Ch5_Key Issues during Construction<br />Ch6_Time Value of Money<br />Ch7_Discounted Cash Flow Method<br />Ch8_Project Cash Flow.<br />Ch9_Financial &amp; Economic Feasibility<br />Ch10_Introduction to Financial Management<br />Ch11_IS &amp; SRE<br />Ch12_Depreciation Methods<br />Ch13_Balance Sheet<br />Ch14_Statement of Cash Flow",
+      "comment_teaching": "This class consists mainly of theoretical material, which may be perceived as boring by some students. The course content is presented in a series of bullet points on PowerPoint slides, and the professor provides additional examples during lectures. Although the calculations presented in class may be complex in real-world scenarios, the course only covers a simplified version. While the course material is not particularly difficult, it may require some extra time and effort to fully grasp the underlying concepts.",
+      "comment_grading": "1.In-class exercises (20%) (iprs )<br />2 group projects (20%) related to Project <br />3. A Final exam (60%)(2 hrs)<br />The in-class exercises for this course include IPRs and some calculation questions. These exercises are used mainly for attendance purposes, so you don&#039;t need to answer all questions correctly. For the calculation questions, the answers are provided after class.<br /><br />The group project requires you to research a topic related to the course and present it to your classmates in a 25-30 minute PowerPoint presentation. There is no need to write a report for the project.<br /><br />The final exam consists of calculation questions only, which are similar to the homework but require more detailed calculations. The exam is open-book, but you will need to print out all your notes. Professor Zhang has stated that all students will receive at least a B+ grade unless they skip most classes or fail to complete the presentation and final exam. In the end, I received an A grade, which is a very good result.",
+      "comment_workload": "The workload for this class is quite light since there are no homework assignments or in-class exercises to prepare for. Instead, you only have to complete one open book exam and give one presentation.&nbsp;&nbsp;Memorizing the course concepts is not necessary. You just need to write down the calculation steps in you notes and bring them to the exam. As long as you do this, you can expect to receive a good grade.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ZzllqXoNfh5joW0cUqA8NyZ095W7PoIj",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 73,
+          "name": "ZHANG, Xueqing",
+          "rating": 1
+        }
+      ],
+      "author": "Horse Cloud",
+      "date": "May 20, 2019",
+      "title": "Not bad",
+      "comment_content": "There are nearly 15 notes for the whole semester, 150 pages in total I think. Content are 80% similar to CIVL 2170 and 3210. <br />The notes are not well-organised with few photos and less elaboration.",
+      "comment_teaching": "Quiet boring. Flat tone.",
+      "comment_grading": "Three Homework in total 15%<br />No midterm <br />group project&nbsp;&nbsp;15%&nbsp;&nbsp;no topic restriction, just open your mind<br />final&nbsp;&nbsp;70% with cheat-sheet <br />He said at least B range for all students and I got B+.<br />Final mark allocation:<br />40% fill in blank, 60% calculation including accounting (40%) and value of money(20%)",
+      "comment_workload": "Very light.<br />All Homework and project are in group basis. <br />Prof said he gave full mark in homework.<br />The heaviest part is the cheat sheet if you want to make it yourself.",
+      "rating_content": 2,
+      "rating_teaching": 2,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "course": {
+    "id": 1800,
+    "subject": "MATH",
+    "code": "5111",
+    "name": "Advanced Algebra I",
+    "description": "Advanced theory of groups, linear algebra, rings, modules, and fields, including Galois theory.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.67,
+    "rating_teaching": 4.33,
+    "rating_grading": 4.83,
+    "rating_workload": 4,
+    "review_count": 6,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 538,
+        "name": "HUANG, Jingsong",
+        "count": 2
+      },
+      {
+        "id": 1203,
+        "name": "IP, Ivan Chi Ho",
+        "count": 2
+      },
+      {
+        "id": 540,
+        "name": "ZHU, Yongchang",
+        "count": 1
+      },
+      {
+        "id": 548,
+        "name": "MENG, Guowu",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "qV6Y0VOuAy0Rss2KF8wPozBhVtAOry71",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1203,
+          "name": "IP, Ivan Chi Ho",
+          "rating": 1
+        }
+      ],
+      "author": "UnconMarketeers",
+      "date": "Dec 19, 2023",
+      "title": "A special learning experience in 12,000km away from HKUST",
+      "comment_content": "1. Overview: A spectacular, all-rounded course starting from scratch! You will recall and reinforce what you have learnt (group, ring, module) in MATH3131, plus many new stuff (category, homological algebra, Galois) that are extremely useful for you to proceed to learn theories like algebraic topology and algebraic geometry!<br /><br />2. Reference books:<br />-&gt; Dummit and Foote (Personally think it&#039;s the unique choice for first-time learner; Also the reference for both MATH3131 and MATH5111)<br />-&gt; Instructor&#039;s lecture notes. Just click into the course website and you&#039;ll see (literally!). <br /><br />Below suggests some reference to elaborate content covered in the course:<br />-&gt; Category Theory for Working Mathematician, Mac Lane<br />-&gt; Commutative algebra, Eisenbud<br />-&gt; An Introduction to Homological Algebra, Rotman<br />-&gt; Algebra: Chapter 0, Aluffi (For second-time recap!)<br /><br />3. Some important theorems/concepts covered:<br /><br />Groups - Lagrange theorem, Sylow theorem, Holder&#039;s program, Class equation, seimdirect product, free group...<br /><br />Comment: Mostly finite group theory, which is also the &quot;traditional focus&quot; of group theory. A theorem in Galois theory points out the one-to-one correspondence between &quot;lattice structure&quot; of group and that of Galois extension, quite elegant isn&#039;t it?<br /><br />Category - Functor, natural transformation, universal object and property, (co)product/kernel/limit, Yoneda lemma...<br /><br />Comment: One useful takeaway of category theory is to realize some concepts discussed in each theory can be unified as the same thing. You know, category theory is sometimes said to be &quot;abstract nonsense&quot;, but just try to translate categorical concept into a familiar one (like initial object) - All it remains is &quot;nonsense&quot;. <br /><br />Ring - Group ring/algebra, Localization, local ring, CRT, ED/PID/UFD, Notherian ring, Hilbert Nullstellensatz, primary decomposition theorem, Artinian ring and Krull dimension, valuation ring<br /><br />Comment: The main line is to point out the relation between different kinds of ring. This chapter is a good crash course of commutative algebra and algebraic number theory I guess. <br /><br />Module - Free module, fin. gen. module, tensor product/algebra, structure theorem of fin. gen. module over PID (pay attention with torsion, annihilator, freeness!), canonical forms<br /><br />Comment: Again module is just &quot;vector space over ring&quot;, but it is still important in the sense of homological algebras.<br /><br />Homological algebra - (Split) SES, snake lemma, tensor and Hom functor (and their adjunction), projective/injective/flat, Baer&#039;s criterion (for injective modules), (co)chain complex, Ext and Tor functor<br /><br />Comment: Homological algebra with the special case of module. Again this can be generalized under abelian category. <br /><br />Field and Galois theory - Field extension, splitting field, algebraic closure, separable extension, fixed field, Galois extension, fundamental theorem of Galois theory, constructible polygons, solvability of polynomials, Hilbert theorem 90, Galois cohomology<br /><br />Comment: The most famous application of Galois theory should be proving the insolvability of polynomial with degree 5 or more. In fact, the last 5 points listed above are also good examples regarding its application, and not limited to it. For example, it can be used to prove fundamental theorem of algebra with minimal use of analysis (IVT only). <br /><br />4. Comments (Warning: I natter a lot this time - Just selectively read them):<br /><br />-&gt; Although the course is started from no knowledge, I won&#039;t encourage those who have really no knowledge to modern algebra to enroll! For a newbie of algebra, one should start from getting motivation and intuition behind each theory (this course did it!), and being demonstrated with how the proofs in algebra (like proving isomorphisms) really work, along with doing problems. Of course you will realize tackling problems simply requires &quot;start from definition&quot; only (with sometimes needs some special technique), but how will you realize this without doing many problems?<br /><br />-&gt; Continue from above. For those who have (self-)learnt algebra many times (there might be many of them!), taking this course could be very comfortable - Just like you have played a PC game many times and you can kill enemies easily. But don&#039;t forget the &quot;curse of knowledge&quot;: We might often forget another extreme of struggling with endless pain if encountering those content first time, and this happens easily for algebra in my viewpoint. Indeed learning is continuous: We all have the first time to learn something, and we might somehow forget how painful it is to learn something unfamiliar. But is this course (or MATH3131) a good start for beginners? Let&#039;s pretend as if we are newbies in algebra and think. <br /><br />-&gt; Again continue from the first point. The wording &quot;know the motivation&quot; is quite heavy sometimes. Like in real analysis, one motivation to study Lebesgue integral is to extend Riemann integral (on closed intervals) and derive more criterion to exchange operators (like limit and integral, limit and infinite summation...) in severe circumstances. This motivation is easily understandable because it is just calculus problem. But how about those concepts like sheves, Ext and Tor functors, spectral sequences etc? They are motivated by other advanced theories that you will never know the motivation if you don&#039;t proceed in advance. <br />&nbsp;&nbsp;<br />-&gt; One extremely meaningful purpose for this course is to fill in the hole of commutative algebra and Galois&nbsp;&nbsp;theory that are missing for many years in HKUST. While there are many algebra experts in HKUST, those essential courses are still missing. Really weird.<br /><br /><br /><br />5. Something you may proceed:<br /><br />-&gt; The course didn&#039;t introduce abelian category (part of prerequisites are covered in exams). The general framework of homological algebra is usually discussed under abelian category, with modules as a special example. <br />-&gt; The proof of Hilbert&#039;s Nullstellensatz is not introduced, I guess one reason is that field theory is required. After learning the whole course, the proof can be understood. <br />-&gt; ...",
+      "comment_teaching": "-&gt; Fast pace teaching: This is Ivan&#039;s style, and just try to get use to it by taking his other courses. Again, it will be extremely painful if you are beginner, and a way to resolve it is to watch the playback for many times. <br /><br />-&gt; Fruitful teaching: One purpose of fast-pace teaching (for this course and his analysis courses) is to cover as many things as possible! This is again a philosophy of his courses, and a reason why this course is covered with that many content.",
+      "comment_grading": "-&gt; Four takehome exams. Having takehome exam for algebra course is the best way for every advanced algebra courses I guess. <br /><br />-&gt; If you are above mean, you are safe for A range. But I don&#039;t care because I didn&#039;t really register this course. Why? Look at the heading.",
+      "comment_workload": "You may say no workload because there is no official homework in this course. But I will take the following two for counting as workload:<br /><br />1. I don&#039;t believe when doing the takehome exams, someone will work on it without searching any reference book/internet. <br /><br />2. For skill enhancing, a direct way is to do problems (there are many in Dummit!). Again you may say it shouldn&#039;t count because no one is required to do so. My thought is indeed it is not necessary to do every problem and without doing them you can still proceed, but you are just learning trash and useless stuff if you are not able to solve problems after sitting in the classroom for 3 hours each week.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "6CdlGAi1iDBHTxeWYliPjalhEJLBoaDO",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 548,
+          "name": "MENG, Guowu",
+          "rating": 1
+        }
+      ],
+      "author": "Emannuel",
+      "date": "Jan 30, 2023",
+      "title": "",
+      "comment_content": "Prof. Meng&#039;s syllabus is based on the online course of Prof. Borcherds, a Fields medalist. The pace is breakneck, and the content is advanced. However, not all the material was covered during the exams.",
+      "comment_teaching": "During the course, Prof. Meng played the video of Borcherds from YouTube and gave his comments and supplemental explanations on the materials sometimes.",
+      "comment_grading": "Great! It is hard to get an A+, but failing this course is even more challenging — Midterm 50% + Final 50%, 3 hours open book exam.",
+      "comment_workload": "Four assignments with intermediate difficulty, but they will not count as part of the grade.",
+      "rating_content": 3,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "DgAiuqdHvFglrn9AucIdbWsLfTx1CRT5",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1203,
+          "name": "IP, Ivan Chi Ho",
+          "rating": 1
+        }
+      ],
+      "author": "vert178",
+      "date": "Dec 27, 2021",
+      "title": "Extremely fast-paced and exceedingly difficult but it will be soooooo worth it",
+      "comment_content": "The instructor &quot;assumes no prior knowledge&quot;, and builds everything from the ground up, with a curriculum as follows:<br /><br />Lecture 1-3: Mostly focuses on finite group theory, isomorphism theorems, direct and semidirect products, Sylow theory, nilpotent groups, solvability of A_n, etc.<br /><br />Lecture 4: Category theory. Builds everything from 0 to Yoneda&#039;s lemma, which means it includes functors, natural transformations, (co)limits, (co)products, representable functors etc.<br /><br />Lecture 5-7: Ring theory. Euclidean Domains, PID, UFD, polynomial rings. Also touches a bit on more advanced materials in commutative algebra such as Dedekind domains, Noetherian rings, Valuation rings, spectrum of rings etc.<br /><br />Lecture 8-10: Modules and Homological Algebra. Structure theorem about finitely generated modules over PID, derivation of rational and Jordan canonical form, free modules, (after this is where the course truly gets hard, as reflected by the sudden drop in the mean of exam 3) tensor product (as a functor), hom functor, exact sequences, diagram chasing, Tor and Ext, projective/injective resolutions, projective/injective/flat modules.<br /><br />Lecture 11-13: Galois theory but actually Algebraic Number Theory. Spends about 1.5 - 2 lectures building up the necessary materials in Galois theory to prove the insolvability of quintics. Then talks about Kummer/Artin-Schreier extensions, field norm, trace, discriminant of a polynomial, H90, Group (Krull) topology and basically everything before class field theory.<br /><br />Some recommended references:<br />- Abstract Algebra (3rd Edition) by Dummit &amp; Foote (main reference)<br />- Lang Algebra (for more advanced materials in Galois)<br />- Basic Category Theory by Leinster (gentle introduction to categories. Also those blog posts on math3ma.com)<br />- Commutative Algebra by Eisenbud (for some of the more advanced materials in module theory)<br />- Professor Borcherds&#039;s lectures on Youtube (Mainly for Galois theory)",
+      "comment_teaching": "If you really trust Ivan, that &quot;no prerequisites is required&quot;, then you will feel &quot;worse than death - Ivan 2021&quot;, that consistent effort of at least 2-3 hours per day reading and drilling on exercises will be required. Also, you will miss out on many motivations given in lectures from other fields of math. No prerequisites means all prerequisites.<br /><br />That said, I am not in any way discouraging you to take this course. You will be able to learn basically everything you need to handle undergraduate, or even first year postgraduate algebra courses, at least according to the instructor, and it will be so worth it after you made it through.",
+      "comment_grading": "4 take home exams with 48 hours each. You are required to complete 5 topics question (resp. Group, Rings, Modules, Field) and 1 question on category theory.<br /><br />Cutoff for A is 70%, A- is 65%, ratio of A range to B range is 11:8.<br /><br />Exam 1 mean: 68.8<br />Exam 2 mean: 72.8<br />Exam 3 mean: 55.4<br />Exam 4 mean: 66.9<br /><br />A little tip for anyone who need to Latex type any sort of commutative diagrams: there is a web-based diagram editor: https://q.uiver.app/&nbsp;&nbsp;&nbsp;You can even type short exact sequences in the editor faster than typing by hand",
+      "comment_workload": "4 take home exams. Refer to **grading**.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "DMuUO1BtM621Ed7J7hUmtBWBd1ihhhVh",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 540,
+          "name": "ZHU, Yongchang",
+          "rating": 1
+        }
+      ],
+      "author": "Howardli621",
+      "date": "Jan 04, 2021",
+      "title": "Hard but meaningful course",
+      "comment_content": "Most of the content is from the reference book &quot;Abstract Algebra&quot; by Paul Garrett. In the first few weeks of the course, we did a quick review of what we have learned in 3131 (basic group, ring, field theory). <br />After that, the difficulty of the course rises as we go further to deeper topics (e.g. Galois theory, category theory, tensor product and exterior powers)",
+      "comment_teaching": "The teaching is satisfactory. For most of the time, he simply read out the powerpoint but it suffices to understand the content.",
+      "comment_grading": "There are 4 homework assignments (with around 5 problems each and due in one week).&nbsp;&nbsp;My score:<br />HW1: 95/100<br />HW2: 90/100<br />HW3: 100/100<br />HW4: 75/100<br />Final: 72/100<br /><br />I think my total is roughly equal to the mean but I got an A, so<br />the grading is better than what I expected.",
+      "comment_workload": "The workload depends on how well your algebra is. I am not very good at algebra so I have some really difficult time to figure out the homework/final exam problems. For example, the final exam is take home and due in nearly one month, but I still fail to figure out all of the problems. (It is very easy to get stuck on a single problem for a few days)",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "hSY66YIXjQQzJQnAB2te5V3uIGpaHggg",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 538,
+          "name": "HUANG, Jingsong",
+          "rating": 0
+        }
+      ],
+      "author": "xdlok",
+      "date": "Jan 09, 2020",
+      "title": "Basically a scam to help professor write solutions to Artin",
+      "comment_content": "Content:<br />Groups (Artin 1st Ed. Ch. 5/2nd Ed. Ch. 6)<br />Group Representations (Artin 1st Ed. Ch. 9/2nd Ed. Ch. 10)<br />Commutative Rings and their Modules (Knapp Basic Algebra Ch. VIII, VIII.1 - VIII.8)<br /><br />Originally the plan includes fields and Galois theory as well but we ran out of time.<br /><br />No notes, no canvas, no nothing<br /><br />Basic algebra knowledge (3131 level? Not sure if 3121 would suffice) is assumed.",
+      "comment_teaching": "Teaching? What teaching?<br /><br />This class is held every Friday 9am to 12nn. However the class would only last for 1 and a half hour. The professor would skim through the contents of the book, do some proofs*, and what do you know we just gone through 2-3 sections of the book. Then the professor asked if we have questions on the homework, then if not, the class is over.<br /><br />Funny thing is, that when we did ask question about the homework, it would be as if he had never seen the question before (I think he had not), and there are times where he spend 20 minutes thinking about the question to no avail (then ask us to go home and think about it).<br /><br />His teaching is not very good. He would introduce some new concepts without motivation, and he skimmed through it so quickly that I would not get what he is trying to say. He would ALWAYS tell us to go home and read things, yet its still 11 am so there is still plenty of time, but he just went off. Like why? I took a course to NOT self study, and you told me to self study LUL what<br /><br />Some stuff happened on November and we were asked to self study Knapp&#039;s chapter on commutative rings and their modules. He only &quot;taught&quot; one section for that chapter.<br /><br />By the way, his research is in Lie theory, so he would often motivate things using Lie groups, yet he would throw out some terms and pictures (e.g. Dynkin Diagram), and would not explain what it is, and in the end I have no idea what he is talking about.<br /><br />*: If the proof is longer than 5 lines (which is basically all of them), then the professor would ask us to read it instead of talking about it in class. One time he wrote 4 lines, then he said that since its already 4 lines, the next line should be the result, so he wrote the conclusion, and everything in the middle is lost (he did talk about the details, but did not write it).",
+      "comment_grading": "There are 3 homeworks, one for each chapter. More on that on the workload part. The grading are not clear at all: there is a lot of exercises that I don&#039;t know how to do, yet I still get a good grade. I guess that is how PG course rolls.",
+      "comment_workload": "OH MY GOD the workload.<br />He said at the beginning of the semester that we should dedicate 10 hours EACH WEEK to self study and do the exercises and HE IS ABSOLUTELY RIGHT. It took away more than 10 hours each week to do homeworks and self studying. This lead me to believe that this is, in fact, not really a course, but just a 3-month scam that made us provide solutions for Artin&#039;s book. I guess the workload would be fine for a PG student, but as an UG student with workload from other courses, this is too much.<br /><br />Professor once said that there are three levels to doing mathematics: the first one is to understand the contents on lectures and books, the second is to be able to do exercises, the third is to do original work, and he said he is forcing us to go to the second level. I guess I am only at the first level after all.<br /><br />The first two homework are ALL the ODD number exercises in Artin for the sections we have covered. Which is A LOT. like 3x questions, and we would have 1 month to do it. The homework takes about 10 hours to do each week, and I still could not finish all the problems. The exercises in Artin is very difficult, and even with googling, I still could not do it, and if not for big big&#039;s who helped me, I would not have been able to make my homework presentable. In any case I don&#039;t think he really marked our homework because a week after we handed in our homework he said we did pretty well on the homework.<br /><br />The third homework is like 3x questions from Knapp Ch. VIII. This time it is much better because the questions are not as difficult, and there are a &quot;hint for questions&quot; that is pretty much the solution.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 12,
+      "vote_count": 12,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "NP0lT90IrnWCBsjy85lVJ0vFiVo7uz9z",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 538,
+          "name": "HUANG, Jingsong",
+          "rating": 1
+        }
+      ],
+      "author": "Alex00",
+      "date": "Jan 26, 2019",
+      "title": "A nice Professor",
+      "comment_content": "Standard graduate-level Algebra at the level of Artin. Students are assumed to have undergraduate knowledge of algebra, e.g., homomorphism. Some exposure to group representation would be better.",
+      "comment_teaching": "Prof. Huang is patient and knowledgeable. He keeps emphasizing that we are really training something.",
+      "comment_grading": "Somewhat good. You need to focus on homework to get good grades.",
+      "comment_workload": "Okay for a math graduate who devoted her/his life to mathematics.... As stated, Prof. Huang keeps emphasizing that we are really training something so you need to put some efforts... I do not recommend undergraduates to take this course unless (i) you&#039;re sure that want to do algebra research in the future or (ii) you find Allen&#039;s course easy....",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

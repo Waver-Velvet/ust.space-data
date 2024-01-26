@@ -1,0 +1,110 @@
+{
+  "course": {
+    "id": 1478,
+    "subject": "IELM",
+    "code": "2100E",
+    "name": "Computing in Industrial Applications",
+    "description": "Introduction to microprocessor technologies and computer hardware with industrial applications. Computer systems for industrial control. Digital communication, mobile computing and RFID technology.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1730,
+      1630,
+      1530
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.5,
+    "rating_teaching": 4,
+    "rating_grading": 4.5,
+    "rating_workload": 2,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 348,
+        "name": "SO, Richard Hau Yue",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "WEEOa3NfFu4EuS8bya3lKVqTuerm79jZ",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 348,
+          "name": "SO, Richard Hau Yue",
+          "rating": 1
+        }
+      ],
+      "author": "yeungck213",
+      "date": "Dec 09, 2018",
+      "title": "Summary",
+      "comment_content": "It is an Project-based course. No lecture. The project is about a real industrial case. Groups are not assigned. <br /><br />There are 2 short assignment in the beginning of the term. Remaining submissions are all related to the project.&nbsp;&nbsp;&nbsp;<br /><br />It has a official tutorial time. <br />However, it is not compulsory. Groups can decide when to meet up.",
+      "comment_teaching": "No official lecture is needed. <br />It is mainly a self-learning course.<br /><br />However there was 2 sessions for you to meet up with the professor for Group performance evaluation. Each session only takes 5-10 mins.",
+      "comment_grading": "Good grading. <br />It is not graded by the result of your project but the learning outcome and the process. <br /><br />So, pay more effort on your individual learning portfolio and project report<br /><br />Course grading:<br />Written Assignments1 (6%)<br />- Assignment One 2%<br />- Assignment Two 4%<br />Project Reports (35%)<br />Project Realization (23%)<br />Learning Portfolios1 (22%)<br />Course Participation1 9%<br />Peer Evaluation1 5%",
+      "comment_workload": "You should have an idea in your mind that you have to work overnight before the demonstration.<br />Quite a frequent group meetings and be careful of free rider teammates.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "rAnfBD5MbG7urKoz5aN8b6n3ai1euiKp",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 348,
+          "name": "SO, Richard Hau Yue",
+          "rating": 1
+        }
+      ],
+      "author": "vs",
+      "date": "Feb 02, 2017",
+      "title": "Useful + a lot to learn if you come from a zero-hardware background",
+      "comment_content": "This course is self-paced and project-based, which means you&#039;ll act as &quot;consultants&quot; (don&#039;t worry, there&#039;s not much you need to do) for a manufacturing / industrial firm and create a solution from scratch.<br /><br />For us, the task was to design a conveyor belt solution for different types of baggage for use at the Hong Kong Intl Airport. Entailed use of sensors, motors, pneumatics, PLCs / MCUs etc -- &quot;simple&quot; electronics concepts that would normally be taught in lecture form. <br /><br />Students are divided into three groups of five, most of which are IE majors, and compete against each other for the title of best innovation. There is a roadshow towards the end of the course where you present and demo your prototype in front of profs / industry professionals.<br /><br />You learn by doing (for instance, YouTube vids / ordering your parts by yourself / from friends and peers and teammates) and inquiring and asking",
+      "comment_teaching": "There is no traditional teaching per se, but you have access to labs + all teaching material from the non-experiential course, which the prof has been teaching for a long time.<br /><br />Prof is quirky, has his myriad teaching philosophies, very innovative and open to ideas. He&#039;s a cool dude if you actually sit down and talk things out, but usually is too busy for that. Eccentric, but I guess that comes with most types of &quot;genius&quot;",
+      "comment_grading": "You&#039;re graded on your prototype, individual learning portfolio (in the form of slides / word processed doc), peer assessment, instructor interviews. There&#039;s also a site visit to HACTL at the Hong Kong Intl Airport cargo handling division<br /><br />Absolute grading, most people get at least a B",
+      "comment_workload": "As with most hands-on projects, the more time you spend in the lab, the better your end product. Most students ended up spending hours in the lab, some of them slept over at night / weekends, during crunch time (1 - 2 weeks before showtime)",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

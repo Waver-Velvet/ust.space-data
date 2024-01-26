@@ -1,0 +1,390 @@
+{
+  "course": {
+    "id": 898,
+    "subject": "MATH",
+    "code": "3424",
+    "name": "Regression Analysis",
+    "description": "Estimation and hypothesis testing in linear regression, residual analysis, multicollinearity, indicator variables, variable selection, nonlinear regression.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2110,
+      2030,
+      2010,
+      1930,
+      1830,
+      1730,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"3423\" href=\"/review/MATH3423\" target=\"_blank\">MATH 3423</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ISOM\" data-code=\"5520\" href=\"/review/ISOM5520\" target=\"_blank\">ISOM 5520</a>",
+    "rating_content": 4.67,
+    "rating_teaching": 4.44,
+    "rating_grading": 4.89,
+    "rating_workload": 4.44,
+    "review_count": 9,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 546,
+        "name": "WONG, Man Yu",
+        "count": 4
+      },
+      {
+        "id": 1202,
+        "name": "XIA, Dong",
+        "count": 3
+      },
+      {
+        "id": 1614,
+        "name": "GUO, Xinzhou",
+        "count": 2
+      },
+      {
+        "id": 1337,
+        "name": "SHEN, Xinwei",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "zJ3J8PKNFY6jN3Ap6ebyNGfofxGkxu4w",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1202,
+          "name": "XIA, Dong",
+          "rating": 1
+        }
+      ],
+      "author": "TerryWu",
+      "date": "Jun 07, 2023",
+      "title": "Useful advanced (?) mathematics course",
+      "comment_content": "This course generally covers many basic and common regression techniques that often appear in actual data analysis. Note that R programming is required in this course as well as examinations. I personally think that Cor(MATH3423, MATH3424) is almost 0 (only basic statistical concepts overlapped) so you shouldn&#039;t be worried a lot if you fuxked up your MATH3423. <br /><br />CONTENT:<br /><br />&gt; CHAPTER 1 INTRODUCTION AND BASIC PREREQUISITE (~3 hours)<br />(i) Why regression analysis; (ii) Selected examples and general procedures; (iii) Prerequisite I: probability distribution; (iv) Prerequisite II: confidence intervals and t-Test ; (v) Prerequisite III: elements of matrix algebra.<br /><br />&gt; CHAPTERS 2 AND 3 SIMPLE AND MULTIPLE LINEAR REGRESSION (~7 hours)<br />(i) Covariance and correlation coefficient; (ii) Least squares estimator, test of hypothesis and confidence interval; (iii) Prediction; (iv) Measure the quality of fit; (v) Centering and scaling; (vi) Multiple correlation coefficients; (vii) Inference for individual regression coefficients; (viii) Examples using R codes<br /><br />&gt; CHAPTER 4 REGRESSION DIAGNOSTICS: DETECTION OF MODEL VIOLATIONS (~5 hours)<br />(i) Standard regression assumptions; (ii) Residuals of various types; (iii) Graphical methods for model diagnostics; (iv) Checking linearity and normality assumption; (v) Leverage, influence and detection of outliers; (vi) Measures of Influence; (vii) Examples using R codes<br /><br />&gt; CHAPTER 5 QUALITATIVE VARIABLE AS PREDICTORS (~4 hours)<br />(i) Indicator variable; (ii) Variable for interactions; (iii) Systems of regression equations; (iv) More applications of indicative variables; (v) Seasonality; (vi) Examples with R codes<br /><br />&gt; CHAPTERS 6 AND 7 TRANSFORMATION OF VARIABLES AND COLLINEARITY (~7 hours)<br />(i) Transformation to achieve linearity; (ii) Transformation to stabilize variance; (iii) Detection and removal of heteroscedastic errors; (iv) Logarithmic and power transformation; (v) Influence of collinearity on inference; (vi) Effects of collinearity on forecasting; (vii) Detection of collinearity; (viii) Reduction of collinearity and Ridge regression<br /><br />&gt; CHAPTER 8 VARIABLE AND MODEL SELECTION (~3 hours)<br />(i) Motivation and consequences of variable selection; (ii) Uses of regression equations; (iii) Criteria for evaluating equations; (iv) Collinearity and variable selection; (v) Variable<br />selection procedures; (vi) Examples using R codes<br /><br />&gt; CHAPTER 9 LOGISTIC REGRESSION (~3 hours)<br />(i) Logit model; (ii) Logistic regression diagnostic; (iii) Determination of variables to retain; (iv) Measure the fit of logistic regression; (v) Multinomial Logit Model; (vi) Examples with R codes<br /><br /><br />Remark: This course focuses on implementation more than theoretical proofs. Professor explicitly mentions that most rigorous proofs are not covered in this course. For some chapters, supplementary notes for proof are given and you may refer to MATH4424 for more details.",
+      "comment_teaching": "Professor XIA is a good instructor in terms of explaining conceptual interpretations. I guess it is because the proofs were not the major focus of this course, he could spend more energy on explaining the conceptual ideas and he really did them well. He uses iPad for teaching and sometimes he writes supplementary notes out of the lecture notes.",
+      "comment_grading": "Professor XIA provides two assessment schemes and the better one will automatically be applied. There are 5 assignments, each contributing to 3% of total scores. <br /><br />ASSESSMENT 1:<br />15% Assignments<br />30% Midterm<br />55% Final<br /><br />OR <br /><br />ASSESSMENT 2:<br />15% Assignments<br />85% Final<br /><br />STATS (My score / Mean / High / Low / Median / UpperQ / LowerQ):<br />Assignment 1: 97 / 92.58 / 100 / 10 / 97 / 97 / 92<br />Assignment 2: 100 / 94.31 / 100 / 5 / 97 / 100 / 93<br />Assignment 3: 100 / 93.71 / 100 / 18 / 97 / 99 / 93<br />Assignment 4: 100 / 95.25 / 100 / 70 / 97 / 100 / 95<br />Assignment 5: 97 / 93.62 / 100 / 71 / 95 / 100 / 91<br />Midterm: 68 / 70.9 / 98 / 42 / 71 / 82.25 / 59.75<br />Final: 123 / 105.32 / 146 / 57 / 103 / 122 / 89<br /><br />Remark: Both midterm and final are open-book exams with 1 and 2 two-sided A4 cheat sheets respectively. <br /><br />Final grade: A-<br /><br />As you can see, I fuxked up my midterm (below mean) but luckily I scored 1 point higher than upperQ for the final exam (apparently second assessment scheme was applied). Always shout out to those professors offering two assessment schemes.",
+      "comment_workload": "With more assignments, you can imagine that the workload for each one would be relatively light. There are programming (R) parts and written parts in assignments. <br /><br />Practice questions are provided without solutions.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "TWkEyZaq7k2FHNdQrudIwaMHYc6wACTY",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1202,
+          "name": "XIA, Dong",
+          "rating": 1
+        }
+      ],
+      "author": "sleepingbag",
+      "date": "Jun 06, 2023",
+      "title": "",
+      "comment_content": "The course is about various kinds of regression analysis including how to decide which model is better and how to interpret the parameters. <br /><br />The equations are of different kinds of variables such as qualitative ones or quantitative ones.<br /><br />There are also some chapters about detecting outliers and influential data points.",
+      "comment_teaching": "Professor Xia taught all topics in detail and he had a really well-planned schedule for the course.",
+      "comment_grading": "Just like 2411, the course has two grading schemes. You can either end up using both midterm and final or you can simply all in final.<br /><br />The exams are basic questions that are not difficult. All you need is to make sure you know everything taught.",
+      "comment_workload": "5 assignments with some questions in each of them. Assignments are similar to lecture slide examples.<br />Midterm and Final.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "cN8E7e6n02bk8QZKL7ZWNqq6gOMypx0W",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1614,
+          "name": "GUO, Xinzhou",
+          "rating": 1
+        }
+      ],
+      "author": "Colleen",
+      "date": "Jun 07, 2022",
+      "title": "Super good grade",
+      "comment_content": "math3423 is almost like not required.",
+      "comment_teaching": "Not that bad actually. At least the ppt is very clear. His teaching is above average in terms of math professors as long as u can understand mainlander accent. But being a math student, u should have understood this accent. At least he explains the concepts clearly. His review lecture before midterm and final is very useful. Sure his speaking involves a lot of errrrr, umm. But if you&#039;re watching video, you can always fast-forward it.",
+      "comment_grading": "Unexpectedly good grade.<br />Expected a C- but get a B+ instead",
+      "comment_workload": "assignment involving r takes like half a day to solve.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "lD9lNMkJPsPFfFvvAZIQUTrltIpkzgzF",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1614,
+          "name": "GUO, Xinzhou",
+          "rating": 1
+        }
+      ],
+      "author": "X.",
+      "date": "Jun 06, 2022",
+      "title": "BAD TEACHING BUT GOOD GRADE",
+      "comment_content": "1. simple and multiple linear regression<br />2. regression diagnostics:detection of model violations<br />3. qualitative variable as predictors<br />4. transformation of variable and collinearity<br />5. variable and model selection<br />6. logistic regression<br /><br />The content is quite a lot for me. There are 9 chapters in total, and each one contains about 70 pages ppt. Since I did not take the class or watch the recording, it takes quite a lot of time to read the ppt and understand it. Each homework has some questions about R programming, so, you can learn about it through this course.<br /><br /> For the pre-requisite, 3423 is not needed except for the last chapter, so it is okay to take them simultaneously as long as you have learned 2411. The only part needed in 3423 is the maximum likelihood estimation. Besides, the part about multiple regression need the knowledge in 2121. Although I get a good grade in 2121 before, when I learn about the multiple regression, I found that I have to review something about linear algebra.",
+      "comment_teaching": "I only attended the first two lectures and then chose to learn it by myself. The professor&#039;s English is very very very bad and do not know how to express what he thinks. He kept saying e..e..e..e..(呃。。呃。。。呃。。。呃。。） all the time and yes, sometimes up to four or even 5 times. The most unbearable is that after saying e...e...e...after half a sentence, he re-speaks that sentence following another e...e...e... Each e.. (呃。。）lasts a long time and makes me want to leave after only a few minutes.<br /><br />The TA is quite good, he explains the content clearly, and reply the email quickly. So,&nbsp;&nbsp;I choose to attend the tutorial instead of the lecture every week and can learn a lot through the tutorial.",
+      "comment_grading": "I just saw the grade today and it is unexpectable good. Before that, I only expect a B+ at most, but I got an A finally. <br /><br />there are two assessment schemes:<br />Assessment 1: 15% hw+ 30%mid+ 55%final<br />Assessment 2: 15% hw+ 85%final<br />The second assessment is helpful for people like me who forgot to take the mid. And according to the mean and quantiles of the mid and final, I guess they have a similar difficulty level.<br /><br />For me<br />hw: 471/500 mean: 457.3/500<br />mid: 0.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mean: 21.8/30&nbsp;&nbsp;<br />median: 21.78&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;75%quantile: 25.50<br />final: 46/55&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mean:40.39/55&nbsp;&nbsp;&nbsp;<br />median 41.75/55.&nbsp;&nbsp;75%quantile: 46.38<br /><br />You can see that I only get a little less than the 75% quantile and not too much for the hw, too. So, I guess I am in about 70% quantile for the grade, and thus it was such a surprise to get an A.",
+      "comment_workload": "I learn the things just before doing hw, so, it takes me a lot of time to do it. If you are not familiar with R like me, it will take a long time to deal with the questions about it. And it has one with ddl in the final period with a lot of questions about R, it takes me such a long time to finish it, and do not have enough time to review others.",
+      "rating_content": 4,
+      "rating_teaching": 1,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "DUpYFfLD5cSfxnlrnnqvw3PiTMNODUSC",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1202,
+          "name": "XIA, Dong",
+          "rating": 1
+        }
+      ],
+      "author": "Aaron W",
+      "date": "Dec 28, 2021",
+      "title": "",
+      "comment_content": "Topics Covered:<br />- Simple and Multiple Linear Regression<br />- Regression Diagnostics: Detection of Model Violations<br />- Qualitative Variable as Predictors<br />- Transformation of Variables and Collinearity<br />- Variable and Model Selection<br />- Logistic Regression<br /><br />Each of the topics (and most of the assignments) involve R programming, so you&#039;ll get quite a lot of practice using R.",
+      "comment_teaching": "Didn&#039;t attend any lectures or watch any recordings, but his notes are very comprehensive and I didn&#039;t have any trouble learning the content just by reading the lecture notes.<br /><br />Also, Xia Dong seems to be quite lenient in approving prerequisite waivers, as I took both MATH3423 and MATH3424 at the same time.",
+      "comment_grading": "2 Grading Schemes:<br />Assignment (x5): 15% / 15%<br />Midterm: 30% / 0%<br />Final: 55% / 85%<br /><br />Class Statistics:<br />Assignment: <br />- Mean: 468/500 (93.6/100)<br />Midterm (out of 100): <br />- Mean: 74.9/100<br />- Percentiles (min/25/50/75/max, n=49): 28/68/80/89/95<br />Final (out of 155):<br />- Mean: 105.5625/155 (68.1/100)<br />- Percentiles (min/25/50/75/max, n=48): 62/92.75/106/120.25/133<br />Overall Mean (Scheme 1): 73.97/100<br /><br />Me:<br />Assignments: 492/500 (98/100)<br />Midterm: 95/100<br />Final: 121/155 (78.06/100)<br />Overall: 86.14/100<br />Grade: A+",
+      "comment_workload": "Since this is the first time Xia Dong has taught this course, the assignments and exams are quite different from previous semesters. Most of the assignments have 5-10 questions, with some being proofs and others requiring you to use R. Some of these assignments take quite a lot of time to do, while others are quite simple and only required writing a couple of lines of code. Overall, the workload is quite light and each of the assignments take at most a day or two to finish.<br /><br />Since there is quite a lot of content, we were allowed to have one double-sided cheat sheet for the midterm and two cheat sheets for the final (you can reuse the one from midterm). As such, you don&#039;t really need to memorize anything, but you do need to know how to apply a lot of the procedures taught, e.g. hypothesis testing, variable selection, etc.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "EJyyRMKpSfOijvt5l84lobjMUVSY0ESC",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 546,
+          "name": "WONG, Man Yu",
+          "rating": 1
+        },
+        {
+          "id": 1337,
+          "name": "SHEN, Xinwei",
+          "rating": 1
+        }
+      ],
+      "author": "『　　　』",
+      "date": "Jun 05, 2021",
+      "title": "Last semester taught by Prof. Wong",
+      "comment_content": "Ch 1: Simple and Multiple Linear Regression<br />Ch 2: Categorical Variable, ANOVA, ANCOVA<br />Ch 3: Criteria for choice of the best model for linear regression<br />Ch 4: Logistic Regression<br />Ch 5: Residual Analysis, Transformation, Influence in Diagnostics &amp; Multicollinearity<br /><br />Ch 1 is very important, you are going to use what you are learning in this chapter in the others chapters, basically, most of the materials in this course is basically extensions of materials learnt in this Chapter.<br /><br />Ch 2 is the hardest topic in this course from my perspective, and do expect there is a large portion of the mark in the final exam is related to this chapter.<br /><br />Ch 3 is rather simple, what you need to do is just doing exercise<br /><br />Ch 4 is very useful, but not difficult to understand.<br /><br />Although 3423 is the prerequisite of this course, what you need to use is just MLE and the Likelihood ratio test, so this course is comparatively simpler than 3423.",
+      "comment_teaching": "Prof. Wong&#039;s handwritten notes are very comprehensive, so basically if you just read her handwritten notes you will be able to understand most of the concepts in this course, but still, her lectures are useful.<br /><br />TA in this course is surprisingly useful, she will talk about some further knowledge related to Regression.",
+      "comment_grading": "5% Assignment<br />28% Quizzes (14% per Quiz)<br />67% Final<br /><br />Absolute grading: <br />40% C- <br />60% B-<br />80% A-<br />90% A+<br /><br />Total Mean: 61.71<br /><br />Beware of your calculation, miscalculating one value may lead to 6-7 marks deduction in quiz/final mark....",
+      "comment_workload": "5 assignment + 1 bonus assignment<br />2 quizzes <br />1 + Final<br /><br />do expect that you need to spend quite some time to revise before quiz and final.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "9dfHpLu7LfQUHSrdfxa2JClwTESfoaud",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 546,
+          "name": "WONG, Man Yu",
+          "rating": 1
+        }
+      ],
+      "author": "Ricky1320",
+      "date": "Jan 02, 2021",
+      "title": "Just calculate carefully during the exam and you will get good grade",
+      "comment_content": "It is actually very useful and will be one of the most important topics in the world of data science/statistics. Give you an in-depth perspective of regression. Although this is supposed to be a theoretical course, the exam&#039;s content is mainly about applying different kinds of hypothesis testing. I would also like to see if more intuition could be given during the lectures.",
+      "comment_teaching": "Teaching is alright but sometimes it&#039;s hard to follow during the lecture. I often wonder &quot;what is proving right now&quot; or &quot;what are we doing&quot;. I also have to say the &quot;lecture notes&quot; is poorly written and you should always refer back to the &quot;handwritten notes&quot; or &quot;summary&quot; if you could get the topic of each section clear. And the reference book is inaccessible, making the content harder to follow. Some of the important content of this course is actually quite unpopular, which means you can only follow the &quot;handwritten notes&quot;(detailed but not structured) or the &quot;lecture notes&quot; (missing most of the details).",
+      "comment_grading": "5% Hw, 25/28% quiz, 60/67% final, 10/0% project.<br /><br />Overall mean: 59.xx %<br />Absolute grading: 60% B-, 80% A-, 90% A+<br />Although the mean is C+, it is not difficult to get an A range if you understand the content well. 95% of the quizzes/exam questions are similar to assignments/examples in lectures so getting 80%+ is not difficult. Just be careful of your calculation because there is no score for intermediate steps.",
+      "comment_workload": "2 quizzes, 5 assignments, 1 project, and 1 final throughout the whole course. Because each assignment is only 1% so actually not much pressure of finishing those perfectly (they just serve as practices). I would say a fair 3 credit course workload.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "2heIuzXj6mr8OXDIZpIIuK2RD3I7jfMN",
+          "name": "exam_s",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "RLk5tigQy5KVBC3tg25nyzhTenE7BpTm",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 546,
+          "name": "WONG, Man Yu",
+          "rating": 1
+        }
+      ],
+      "author": "阿賢",
+      "date": "Jun 04, 2019",
+      "title": "Concepts are relatively important",
+      "comment_content": "全個course既主要目的 : <br />Hypothesis testing(為左delete 多餘或者無用既independent variables) , Confidence interval (為左搵估算既可信範圍)<br />⭐ 1. Linear regression model<br /><br />前題你要識 : (主要圍繞依個structure教)<br />首先學點樣用現有data 去估計 regression coefficients (i.e. Beta 0 and Beta 1) , 由 simple linear regression 到 multiple linear regression ( Matrix form), linear regression model 主要用method of least residual去estimate , 同埋千萬不要無視 Centered Model 既重要性, 必定要記穩依個concept, 因為無論係第一個quiz, 第一個midterm, 最後一個quiz, 最後既final, 最後一課, 都會見到Centered Model 既出現 (依個technique 係為左 reduction of matrix space, 姐係3x3 既matrix reduce to 2x2 既matrix, 容易d做數 同做proof) !!! (這個要強調, 牢記, 唔想記就幫唔到你) <br /><br />然後有足夠材料去做 Expectation and Variance of variables, 為hypothesis testing/ Confidence interval 鄭定一個基礎先, 因為係3423 學過做 t-test 同 F-test 既時候分子同分母一定要 follows 特定既distributions 同埋佢地要independent, 所以接下黎既工作就係prove regression coefficients/ residual/ dependent variables 邊d 係independent (i.e. Cov(?,?) = 0)<br /><br />跟住先做到重要既 t-test and F-test for hypothesis testing 同埋confidence interval<br /><br />⭐ 2. ANOVA<br />又係hypothesis testing. <br />有咩我地要test? <br /> -- test difference of mean<br /> -- test regression coefficient 係咪 zero<br /> -- test 有無 interaction term<br /><br />前題你要識 : <br />第一樣野你要識整個regression model出黎, 主要有3種必學類型( one-way ANOVA, two-way ANOVA, ANCOVA) , 而係依3種入面又有3種唔同既砌法, Prof. Wong 會標示為 Model IA, Model IB, Model II, 所以係我地主要識9種唔同既Models<br /><br />然後, 整個 analysis of variance table 出黎, 姐係禁機, 計數, 大概5分. ANOVA table 有咩用? 為左hypothesis testing. Prof. Wong 話之前電腦無咁發達, 用手計. 我心諗點解唔用excel 直接計左佢算呢, 但因為我地用excel 都要知道條式, 背後既concepts 先識計出黎, 咁無計啦. <br /><br />下一步就係用ANOVA table 入面d MSE 計 F value, 跟住就用 F-test 去hypothesis testing. <br /><br />一路都係依個flow 教哂成個Chapter<br /><br />⭐ 3. Logistic regression model (同 linear regression model 既structure 既一樣)<br /><br />首先用maximum likelihood ratio estimate regression coefficient(你應該會係到怕同MATH3423 考果d差唔多, 但其實簡單好多, 因為已經無咁多types 既distribution, 同埋寫少左好多野) 佢主要分做ungrouped data 同 grouped data<br /><br />然後就會教咩呢? 大家應該會諗到, 就係 Expectation 同 variance ... 因為要做hypothesis testing 同 confidence interval... 學method of weighted least square 方便計唔同group data 既variances. 依一part 最主要係計數. (操數幫到你, 不過前題你要有concepts先, 如果唔係好難頂) <br /><br />最後做hypothesis testing 同 confidence interval<br /><br />⭐ 4. model selection<br />公認最易既一part, 依一part 應該純粹操數已經夠拎滿分",
+      "comment_teaching": "Prof. Wong 既教學方式就唔評論.<br /><br />但我想講既係, 如果send email 問Prof. Wong問題, 佢會好快咁回你, 每次大概半小時, 仲要每次解釋得幾好.<br /><br />落堂既時間有咩唔明問Prof. Wong 會好好多, 佢會好清晰咁答你, 因為平時上堂好多跳位, 好易卡住, 所以平時我會落堂之後問一問, 清番concepts.",
+      "comment_grading": "Midterm mean : 30.67/48<br />Final mean : 56.99/100<br />Total mean : 62/100<br />Total s.d. : 16.61",
+      "comment_workload": "大概兩個星期一個assignment 一個quiz, 所以workload 還好",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 11,
+      "vote_count": 12,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "iB8x0R2riOAIZA8bL1XG2nsp5uPSGWhR",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 546,
+          "name": "WONG, Man Yu",
+          "rating": 1
+        }
+      ],
+      "author": "數學研究生",
+      "date": "Apr 05, 2019",
+      "title": "Interesting Introduction in Regression Analysis",
+      "comment_content": "Before Midterm Exam:<br />Simple Linear Regression Models, include one parameter and multiple parameters. Use some sensible methods to find an estimate on the coefficients, such as least residual, likelihood method.<br /><br />After Midterm:<br />Deal with categorical variables, one or two. For more variables, you need to use computer. i.e. if you collect some data such as ages, sex, height or some non-numerical choices, how to get a regression models.<br /><br />Logistic Regression, not yet covered, so I still don&#039;t know how does it work. : )",
+      "comment_teaching": "Similar to MATH 3423, Professor Wong uses projectors and writes on A4 sheets. She sends the handwriting notes to those attended the lesson.<br /><br />As usual, you should attend the lessons, it will be hard for you to study by looking at her lecture notes.",
+      "comment_grading": "Homework: 5%<br />Classwork: 5%<br />Midterm Exam: 25%/30%<br />Final Exam: 55%/60%<br /><br />Midterm Result:<br />Mean: 30.7/48+4(Bonus Mark)<br />I think SD should be around 10, similar to 3423, I guess as Professor does not tell me.",
+      "comment_workload": "Quite good, an assignment two weeks. Normally, the homework is related to what you learned.<br /><br />Professor Wong provides last three years past papers for practice.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

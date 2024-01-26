@@ -1,0 +1,111 @@
+{
+  "course": {
+    "id": 2334,
+    "subject": "MECH",
+    "code": "5930",
+    "name": "Finite Element Methods",
+    "description": "Finite element formulation; variational principles for structural and continuum mechanics; numerical interpolation and integration; plane stress and plane strain analysis; plate bending and three dimensional solids; solution of large systems of algebraic equations.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2110,
+      1910,
+      1710
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "AESF 5930, <a class=\"course-link\" data-subject=\"CIVL\" data-code=\"5390\" href=\"/review/CIVL5390\" target=\"_blank\">CIVL 5390</a>, MESF 5930",
+    "rating_content": 4,
+    "rating_teaching": 4.5,
+    "rating_grading": 5,
+    "rating_workload": 4.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 566,
+        "name": "YE, Wenjing",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "lFTJ0VytpSgtxTmXML0ui4GvbRoxbs7i",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 566,
+          "name": "YE, Wenjing",
+          "rating": 1
+        }
+      ],
+      "author": "HCllla",
+      "date": "Jan 14, 2024",
+      "title": "",
+      "comment_content": "The contain of this course is not very large. Before mid term, it is not hard for me. But after that I think it can be a little abstract.",
+      "comment_teaching": "Prof. Ye often derives the formula process on the whiteboard. Her PPT is more of an auxiliary role.",
+      "comment_grading": "Midterm exams account for more than half of the grades, and the final semester is usually lab. The content of the midterm exam is small and simple, and it is not difficult to get a grade of A or above.",
+      "comment_workload": "The course has a lot of homework. This time there were six or seven assignments, and each assignment had about three questions. In general, the coursework content is not small, and there is a lab at the end.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "OUCoKVOP38eILZxm4WDvZ2lDP7fgTijG",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 566,
+          "name": "YE, Wenjing",
+          "rating": 1
+        }
+      ],
+      "author": "donlee",
+      "date": "Jun 07, 2021",
+      "title": "",
+      "comment_content": "starting with basic concept of numerical method, e.g. finite difference method to finite element method. <br /><br />The contents are basically similar to the one for UG students.",
+      "comment_teaching": "her teaching style is good. Clear english and explanations.<br />She seems to be an experienced person in this field. If you try hard and willing to learn, there might be many tings to get out of.",
+      "comment_grading": "Grading is made based on several assignments, mid-term and final project.<br />I did just as much as average for the assignments, quite well for the mid term. (have no idea about the final project) and I got A+.",
+      "comment_workload": "Things that are taught after mid-term is quite difficult but fortunately there is no final exam. Workload is not heavy.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

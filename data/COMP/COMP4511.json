@@ -1,0 +1,219 @@
+{
+  "course": {
+    "id": 242,
+    "subject": "COMP",
+    "code": "4511",
+    "name": "System and Kernel Programming in Linux",
+    "description": "This course is designed to equip students, who have a particular interest in becoming practitioners, with substantial hands-on experience in solving concrete problems in a computer operating system, via programming, in a laboratory intensive course. Students will notably experiment with many topics in the areas of operating systems and network protocols, such as: boot loaders, shell, process management, system calls, process scheduler, file system, virtual memory, network protocols and packet filtering, system modules and device drivers. For students of the Department of Computer Science and Engineering only.",
+    "categories": [],
+    "website": "https://course.cse.ust.hk/comp4511/",
+    "credits": 3,
+    "semesters": [
+      2030,
+      1930,
+      1830,
+      1730,
+      1630,
+      1530,
+      1440
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"3511\" href=\"/review/COMP3511\" target=\"_blank\">COMP 3511</a>",
+    "corequisites": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"4621\" href=\"/review/COMP4621\" target=\"_blank\">COMP 4621</a> OR <a class=\"course-link\" data-subject=\"ELEC\" data-code=\"4120\" href=\"/review/ELEC4120\" target=\"_blank\">ELEC 4120</a>",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 2.8,
+    "review_count": 5,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 117,
+        "name": "BENSAOU, Brahim",
+        "count": 5
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "srpNaUvFcKLF4h4k5gmizvXJZrrRbTtY",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 117,
+          "name": "BENSAOU, Brahim",
+          "rating": 1
+        }
+      ],
+      "author": "Umanilliti",
+      "date": "Nov 23, 2022",
+      "title": "Very Fun and Extremely Useful Course imho",
+      "comment_content": "The course is really fun, and also interesting. It basically teaches Linux from ground up. That being said, it&#039;s definitely better if you&#039;re fluent in using terminal. But I reckon knowing how to compile your code, simple files manipulation and simple knowledge on git is more than enough already. You can always install vscode instead of vim :D.<br /><br />Our TA, Kelvin Chiu (he&#039;s already left HKUST sadly, I just checked) was very knowledgeable about Linux and very kindly answer any stupid questions we had during assignments and something that could be a bit out of syllabus. The programming assignments help you to learn a lot I think. I still find myself bump into scenario where I need related knowledge here and there now even though I&#039;m not working very close to kernel at all. Having these knowledge is just very helpful in using Linux in general even if you&#039;re not working as a Kernel engineer.<br /><br />The syllabus is shared by others so I&#039;m not going to bore you over with those.",
+      "comment_teaching": "The teaching is nice, easily understandable; sometimes could be hard to grasp due to unfamiliarity but professor is nice enough to explain to you clearly, like either after class or in class. Questions is probably needed for a lot of topics, so don&#039;t be shy and ask questions lol.",
+      "comment_grading": "If you find it interesting I don&#039;t think it&#039;s hard to obtain a good grade. As long as you can finish all homework, it&#039;s not hard to get A-range.<br /><br />Friendly advice: if you&#039;re stuck printf is always your friend, and also debugger. (google how to debug c program in vscode, and how to step into child/parent process, it&#039;s really helpful.)<br /><br />There wasn&#039;t Mid-term when I&#039;m studying it. The assignment aren&#039;t easy, but aren&#039;t so hard you can&#039;t think of how to do it on your own (But definitely requires some thinking). So I ended up getting all full marks for all of my homeworks. <br /><br />In my Final, I got 89.33/120, around 74%. Not quite high, but I was able to get A out of this course.",
+      "comment_workload": "Workload could be a bit high. You might find yourself doing the same homework for 2 and 3 days. But I definitely enjoy it. Learning Linux this way is definitely much better than learning it by yourself. The homework is just hard enough to let you learn so much more Linux itself.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "QMRVefz7sbzbhJqtW4f1UMbV5kBSw1Jj",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 117,
+          "name": "BENSAOU, Brahim",
+          "rating": 1
+        }
+      ],
+      "author": "ptrknow",
+      "date": "May 29, 2021",
+      "title": "A truly satisfying course for anyone fond of system stuff",
+      "comment_content": "Please refer to other posts for the course content. The content did not change much, but the difficulty of assessments is increased this semester. See the grading section for more details.<br /><br /><br />// Are you ready to take this course?<br /><br />You may wonder whether you are ready to take this course. It depends mainly on:<br />1. your familiarity with C<br />2. your experience in using Linux<br />By using Linux, I do not just mean the bash shell, but also system programming in C (e.g. COMP3511 PA) and your general knowledge of Linux system design.<br /><br />In particular, I will not recommend this course to you if you meet at least one of the following conditions:<br />1. You do not know C well. If you ask whether you could use C without using pointer, I would doubt whether you did your COMP3511 PA by yourself.<br />2. You are disgusted by C or COMP3511<br />3. You have zero or little knowledge of using Linux<br /><br />I don&#039;t know whether COMP3511 will prepare you well for this course, since I took my OS course elsewhere. But at least, teach yourself Linux before enrolling. This course will not teach you Linux from scratch.<br /><br /><br />// Personal Comment<br /><br />Despite the above warnings or discouragement, I still think this course is a good one for any CS/CPEG/ECE students, especially in this era when everyone is talking about machine learning and big data system. (Well, this course is still a good one even when we talk about something else.)<br /><br />An example from the professor: there is an additional transmission delay between the machines in a big data system, but no problem was found in the application code. It turns out that the kernel&#039;s scheduler is at fault. While machine learning and big data usually deal with &quot;high level&quot; things, sometimes you just got to dig into the &quot;low level&quot; to find the cause.<br /><br />I could also supply another example: if you have ever used ROS in any AI course, you might have encountered a tcsetpgrp error. After reading the manual, you might still not understand what the heck is going on. This course will give you a chance to reproduce this error and to fix it in a simpler scenario (PA3).<br /><br /><br />// Not a &quot;good course&quot;, after all<br /><br />According to the professor, this course is not a &quot;good course&quot; from the department&#039;s perspective because this course is relatively unpopular. So maybe you won&#039;t see this course next year as the professor will be revamping this course and relaxing the prerequisite.<br /><br />Is it the problem of prerequisite? Maybe. This course is highly related to COMP3511, and COMP3511 is yet bereft of its past notoriety. COMP4511 could hardly escape the effect.",
+      "comment_teaching": "Professor&#039;s teaching is superb.<br /><br />TA is knowledgeable and very helpful.",
+      "comment_grading": "Statistics first:<br />Assignment 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mean: 95.55/100<br />Assignment 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mean: 92.55/100<br />Assignment 3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mean: 75.17/100<br />Assignment 4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mean: 79.31/100<br />Assignment 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mean: 69.66/100<br />Assignment 6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mean: 77.59/100<br />Final Exam&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mean: 81.54/120&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;High: 114.33/120<br /><br />You might have noticed something deviated from previous offerings. The mean scores of assignments 3 and 5 are much lower compared to before.<br /><br />In the shell assignments (assignment 2 and 3) this semester, we need to handle two more things: background processes and job control. Job control in assignment 3 is a difficult one. Do not expect you could finish it within one day. Please spare more than few days to complete it.<br /><br />In assignment 5, the main dish is no longer weighted round-robin scheduler, but time-sharing scheduler. Remember priority scheduling in chapter 5 of COMP3511? Yes, you have to implement that thing in this course. Or more accurately, you only need to extend a little bit from the lab code. However, this little extension is very tricky to be done correctly. I try and err for 9 days to find the trick. I urge you not to try your luck and start coding right before the deadline.<br /><br />Judging from the mean score and from TA&#039;s announcement, the exam this year seems to have the difficulty increased as well. Mainly, there are three things:<br />1. MC questions (with more than one correct options)<br />2. Dry run questions<br />3. Coding questions<br />Dry run is quite easy as long as you have read the lecture notes (e.g. dry run the CFS scheduler). MC questions only ask for some general ideas in the lecture notes, but they could be a bit tricky. Coding questions are about lab content, and they are not so easy.<br /><br />This course should be absolute grading.<br />Lab (20%) and PA (60%): full<br />Exam (20%): 93/120<br />Overall: 95.5% =&gt; A+<br />My exam score is far from the highest, but I still got an A+. If you are already tired with exam, this course may be for you because exam is not the main decisive factor of your grade here. Though, you certainly need to pay your effort throughout the semester.",
+      "comment_workload": "Weekly lab + Biweekly assignment<br />Seems heavy, but it depends on your programming and Linux skill.<br /><br />If you walk into this course without any Linux knowledge, then this workload section surely is an &quot;E&quot; for you.<br /><br />If you know Linux, but are not so used to using C or doing some low-level manipulation, then the workload might be a &quot;D&quot;.<br /><br />I myself would give it a &quot;C&quot;, because I enjoy the workload. But even so, I can&#039;t say the workload is light.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "JcCFoPm3ovO22SupODk6hOORnl2brKe8",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 117,
+          "name": "BENSAOU, Brahim",
+          "rating": 1
+        }
+      ],
+      "author": "Tommy Li",
+      "date": "Jun 12, 2020",
+      "title": "Great course for tech nerds",
+      "comment_content": "WARNING: This course is DIFFICULT for those having little experience in Linux. It is definitely not for first time Linux users.<br /><br />This course covers the technical details of the Linux kernel, including but not limited to:<br />1. Process management &amp; scheduling<br />2. Interrupts<br />3. Memory management &amp; virtual memory mapping<br />4. Synchronization mechanisms<br />5. Virtual file system<br /><br />Usually, each topic will start with some high-level description and followed by some of the details like the code for some important data structures and function implementations. Basically, this course complements COMP 3511 by explaining the concepts with actual program codes and hands-on practice.<br /><br />Although some of the content is quite technical and would not be useful unless you do kernel development, it is still interesting to see how the things in COMP 3511 get into practice. For me, I got super confused when the buddy system was mentioned in COMP 3511 and I messed up that question in final exam. I finally clear up the concepts in this course and can appreciate how awesome such a system is. I also think the CFS (completely fair scheduler) is quite cool for the way that it ensures the fairness of the process.<br /><br />The lab content is relatively simple compared to those from the lectures. It is designed in a way that you can experience stuffs from the Linux kernel while not being too difficult. Following the instructions closely then you will be fine. Be careful not to make typos tho or you may need to spend an extra 20 mins compiling the kernel again lol.",
+      "comment_teaching": "Both the professor and the TA are great. I enjoyed the course a lot.<br /><br />BB is a nice and passionate professor. He don&#039;t mind to answer simple (stupid) questions and he tries to clarify the points in case we don&#039;t understand. The content is difficult and super technical but he did a great job in explaining them. I think it is good of him trying to do a quick revision from last week&#039;s materials. Digesting the content took up much of my brain power. The quick revision serves a good warmup exercise for your brain.<br /><br />The course TA, Kelvin, is very helpful too. He is responsive to student&#039;s question and did explain the concepts quite clearly. Sometimes, he would go over extra content like the kernel source code to help us learn more. Overall I think he is a knowledgeable guy.<br /><br />Btw, I think the department should replace COMP 3511 with the first lecture of this course. The first lecture already covered most of the stuffs in COMP 3511 and the teaching quality is much better.",
+      "comment_grading": "Unbelievably good grading scheme!<br /><br />My friend got the lowest score in class in the final exam (lost ~50 points in assignments) but he still got a B-range! For me, I am only 7 points above mean (and 9 points below max) in final and I still got an A+.<br /><br />My score (and score stats of the class):<br />Assignment 1 (10%): 95/100 (Mean: 91.3)<br />Assignment 2 (10%): 100/100 (Mean: 93.2)<br />Assignment 3 (10%): 100/100 (Mean: 91.7)<br />Assignment 4 (10%): 95/100 (Mean: 82.1)<br />Assignment 5 (10%): 100/100 (Mean: 98.7)<br />Assignment 6 (10%): 100/100 (Mean: 86.5)<br />Labs (20%): 20/20<br />Final (20%): 84/100 (Min: 63.7, Mean: 76.3, Max: 93)<br />Overall: 95.8% =&gt; A+<br /><br />So, try your best to complete every assignment and attend each of the labs. Enjoy the course and have a good grade. :)<br /><br />(I guess the course is graded in an absolute scale. Else there is no way the curve is as nice as that.)",
+      "comment_workload": "The workload comes from biweekly programming assignment and weekly labs with required attendance. <br /><br />The assignment difficulty is not high. The assignments are mostly based on labs and you only need to modify a small portion of the code. However, you need to spend some time reading extra functions or data structures from some docs as they might be useful (if not required) for the assignment. Also, you may need quite a bit of time to do setup or experimenting before you do the actual coding.<br /><br />There are a total of 11 labs and 1 programming assignment interview. You need to attend all of them and complete the lab exercise in order to get full scores. It was a 9 a.m. lab.... It is okay to be sleepy tho as the tasks are no-brainers. Remember to set your alarms! I almost missed one because I forgot to set it once.<br /><br />The final exam is open-book. Most of them are conceptual or practical questions. As suggested by the professor, you don&#039;t need to put much time preparing the exam. A sample paper was given.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 7,
+      "vote_count": 8,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "xYqRZxQmQqmhzlsev58XR17zfaTFLviQ",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 117,
+          "name": "BENSAOU, Brahim",
+          "rating": 1
+        }
+      ],
+      "author": "A0",
+      "date": "Jun 08, 2020",
+      "title": "",
+      "comment_content": "Lectures:<br />Feb 25 | Overview of General Operating Systems Concepts<br />Mar 3 | Process Management<br />Mar 10 | Process Management<br />Mar 17 | Lecture cancelled<br />Mar 24 | Interrupts<br />Mar 31 | Interrupts<br />Apr 7 | Process Scheduling<br />Apr 14 | Memory Management<br />Apr 21 | Memory Management<br />Apr 28 | Process Address Space and Memory Mapping<br />May 5 | Process Address Space and Memory Mapping<br />May 6 | Kernel Synchronization Mechanisms<br />May 12 | The Virtual File System<br />May 19 | Written Final Exam<br /><br />Useful course to learn the basic fundamentals of Linux kernel.",
+      "comment_teaching": "Sorry, I didn&#039;t attend the lectures, so I don&#039;t know how the professor&#039;s teaching is.<br /><br />TA&#039;s lab teaching is very good.",
+      "comment_grading": "Grading is super good. I think the grading is absolute grading since I did not do very well in final exam, but still got a B+.<br />So as long as you got full marks for labs and programming assignment, then you should expect your grade to be B+ or above.<br /><br />Grading Policy:<br />60% - Programming Assignments<br />20% - Labs. For each lab:<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0% - Absent<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;50% - Present, but failed to complete (or nearly complete) the lab exercise(s)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100% - Present and complete (or nearly complete) the lab exercise(s)<br />20% - Final Exam<br /><br /><br />Statistics:<br />PA1: 100/100, Mean: 91.3<br />PA2: 100/100, Mean: 93.2<br />PA3: 100/100, Mean: 91.7<br />PA4: 85/100. Mean: 82.1<br />PA5: 100/100, Mean: 98.7<br />PA6: 65/100, Mean: 86.5<br />Final Exam: 67.33/100, Mean: 76.3<br />Labs: Full for attendance and lab exercise",
+      "comment_workload": "Labs:<br />Feb 19 | Lab1: Bridging from C++ to C Programming<br />Feb 26 | Lab2: Compiling Your Own Linux Kernel<br />Mar 4 | Lab3: Linux Processes<br />Mar 11 | Lab4: Pipe and FIFO<br />Mar 18 | Lab5: Signals and Shared Memory<br />Mar 25 | Lab6: System Calls<br />Apr 1 | Lab7: Implement your own first-in-first-out scheduler<br />Apr 8 | Lab8: Implement your own round-robin scheduler<br />Apr 15 | Lab9: Linux Modules<br />Apr 22 | Lab10: Device Drivers<br />Apr 29 | Lab11: Netfilter<br />May 13 | Q&amp;A Session<br /><br />There are 11 labs in total, you need to submit the lab work at the end of the day to canvas.<br />First few labs are easy, since it is similar to what we have learnt in COMP3511, like fork(), pipe()....<br />Some lab works are quite tedious and need to waste a lot of time waiting the kernel to compile. (Especially if you have a slow computer, expect to spent 2+ hours to compile the kernel)<br />But these labs are quite important to the whole course since most of the knowledge you obtained is from doing the lab exercises.<br /><br /><br /><br />Assignments:<br />Due 13 Mar 23:59 | Observing the OS through the /proc File System<br />Due 27 Mar 23:59 | Simple Linux Shell (Part I)<br />Due 10 Apr 23:59 | Simple Linux Shell (Part II)<br />Due 24 Apr 23:59 | System Call Implementation<br />Due 8 May 23:59 | Weighted Round-Robin Scheduler<br />Due 24 May 23:59 | Packet Flow Rate Limit Module<br /><br />There are 6 assignments in total. And you have about 2 weeks time to finish one assignment.<br /><br /><br />Considering you have labs every week and assignments every 2 weeks, the work load is quite high.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "dCXRDSxlTkHIJuXfizmBYg9jlPczefn9",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 117,
+          "name": "BENSAOU, Brahim",
+          "rating": 1
+        }
+      ],
+      "author": "Ashish",
+      "date": "Aug 30, 2017",
+      "title": "Gives you lot of perspective",
+      "comment_content": "Entertaining and relevant content<br />Probably one of the best comp courses that I have taken, I learnt so much in course and I think it also helps you after college in work as well since you get to know all the quirks and your way around linux",
+      "comment_teaching": "Good teacher but need to pay attention in class<br />Slides are very detailed and labs give you experiential learning as well",
+      "comment_grading": "Easy b atleast as long you pay attention in the class",
+      "comment_workload": "Need to some work but in the end it is well worth it",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

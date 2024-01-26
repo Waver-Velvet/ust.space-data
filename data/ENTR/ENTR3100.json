@@ -1,0 +1,152 @@
+{
+  "course": {
+    "id": 1982,
+    "subject": "ENTR",
+    "code": "3100",
+    "name": "Industrial Landscape: Understanding the Elements to Start a Business",
+    "description": "This course is jointly run by the Schools of Engineering, Science and Business & Management. It acquaints students with the landscapes of various industries, by examining important elements to start up a business and introducing the markets of various sectors. The goal is to expose students interested in entrepreneurship to the diversity, competition, interaction and decision-making process of various ecosystems. Professors and visitors from the schools will discuss enabling technologies, key processes, business models, and cases on topics of current interests. Students form teams to survey and analyze the companies and ecosystem of a particular sector, in order to identify the operation models, similarities, differentiations and opportunities ahead.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2130,
+      2010,
+      1630
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 3.33,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 893,
+        "name": "HUANG, Erwin",
+        "count": 3
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "hx0ABkeDDnakISoDlA1uRflMMrSoOLlL",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 893,
+          "name": "HUANG, Erwin",
+          "rating": 1
+        }
+      ],
+      "author": "Greygrey",
+      "date": "Jan 15, 2024",
+      "title": "Learned a lot but it was a very long class",
+      "comment_content": "it&#039;s all about startups and entrepreneurship. Every week, we&#039;ve got these cool guest speakers who&#039;ve been in the startup world. They share their stories and insights, making the whole thing pretty interesting. You know, some days it&#039;s super fun, but I won&#039;t lie, there are moments where you&#039;re just sitting and taking it all in.<br /><br />The best part is, these speakers show us how different industries connect with startups, making it all click.&nbsp;&nbsp;<br /><br />it&#039;s not just one guest speaker—it&#039;s&nbsp;&nbsp;every week. They dive into how to start a business, connect the dots between industries and startups—it&#039;s like a crash course in real-world business stuff.<br /><br />Towards the end, we team up and brainstorm our very own startup idea. Then, we present it to the class with a working prototype. It&#039;s hands-on and a bit of a ride, but it&#039;s all part of the learning adventure.",
+      "comment_teaching": "there are 3 profs the head is Erwin he was a really great mentor to have during this class. I enjoy being in this class as I got to be in a team with people who are from different schools in ust",
+      "comment_grading": "",
+      "comment_workload": "The workload is normal there was smth to do every week for this class. but the class was once a week and 3 hours long which was very tiering.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "yMYS65YiDGR504tkerAWQDBt2mKauNm1",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 893,
+          "name": "HUANG, Erwin",
+          "rating": 1
+        }
+      ],
+      "author": "toxicboi",
+      "date": "Jan 09, 2018",
+      "title": "Monotonous but Rewarding",
+      "comment_content": "This is basically a seminar-based course, where every week there will be a guest speaker, who has been involved in startups and entrepreneurship, comes and speaks on different topics related to it. Some are fun, but it can get quite monotonous at times, as you only have to sit and listen. <br /><br />It is a good starting point to know about entrepreneurship and making contacts in the industry. <br /><br />There is also a trip to Science Park which is interesting. <br /><br />In the end, you have to form a group and come up with a startup idea, and then present it in class with a working prototype.",
+      "comment_teaching": "Personally, if the speakers were more interactive with the audience, and there were more hands-on learning approach to the course, I would have really enjoyed it. <br />The professor is very eccentric and knowledgeable and can definitely help/invest if you have an idea.",
+      "comment_grading": "Lesson reflections \t30%<br />Basically, you have to write a reflection on how the guest speakers lecture was relevant, whether you have any personal opinions on the content, and also summarise it a bit - be careful of the word limit, it is quite less compared the information they require from us so you need to be smart in writing it. <br /><br />Group Project Report (30%)<br /><br />Group Presentation\t(20%)<br /><br />Peer evaluation (10%)<br /><br />Course Participation (10%)<br />Simple attendance gives you this grade.<br /><br />I ended up getting an A, probably didn&#039;t get A+ because we exceeded the time limit for presentation.",
+      "comment_workload": "Very minimal workload mostly. In the end can get a little hectic as you have to write the report, and prepare the presentation. But if you have good group members, it wont be a problem.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "lMub4tm40OVEvUfIwRREbDRSjDqutYod",
+          "name": "ENTR 3100 Course Outline",
+          "format": "docx"
+        }
+      ]
+    },
+    {
+      "hash": "ePmkvFuCVPEIxFhUwjdIkmZ6FPs0I5oW",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 893,
+          "name": "HUANG, Erwin",
+          "rating": 1
+        }
+      ],
+      "author": "Nicola",
+      "date": "May 23, 2017",
+      "title": "Very flexible and interesting course",
+      "comment_content": "Guest lecturer(s) are invited to speak twice a week every week. Each bring very interesting insights related to starting a business/ how to relate different industries to startups.",
+      "comment_teaching": "Teaching is done in a non-traditional way where you learn through discussion with the professor and the guests.",
+      "comment_grading": "30% Lesson reflections<br />10% Course participation<br />30% Group projects report 3000 words<br />20% Group presentation 20 minutes including Q&amp;A&nbsp;&nbsp;<br />10% Peer evaluation",
+      "comment_workload": "A ~300 words reflection after (almost) each guest speaker session.<br /><br />A startup project in which the professor really encourages the building of a prototype, whatever the idea is and if applicable.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

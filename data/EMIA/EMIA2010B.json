@@ -1,0 +1,108 @@
+{
+  "course": {
+    "id": 4153,
+    "subject": "EMIA",
+    "code": "2010B",
+    "name": "Cross-disciplinary Seminar: Digital Media and Creative Arts",
+    "description": "A compulsory course for students enrolling in the extended major programs throughout their course of study. It is a seminar series presented by faculty members and guest speakers on interdisciplinary topics in extended major area and its applications related to the major. For students with extended major in their second year of study only. Graded P or F.",
+    "categories": [],
+    "website": null,
+    "credits": 0,
+    "semesters": [
+      2310
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1855,
+        "name": "MA, Alex",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "ZCTg2UDbhd723CrpcFtsnuJJQWoHz1y6",
+      "semester": "2023-24 Fall",
+      "instructors": [],
+      "author": "WilliamWong",
+      "date": "Jan 26, 2024",
+      "title": "",
+      "comment_content": "In this course, there are 5 seminars. Students are required to attend 4 of them in order to pass the course. There is no credits for this course.",
+      "comment_teaching": "The host of the seminars are from different industries, including movie and technology. Most of them are kind and passionate. You may ask them questions after they finish their presentation.",
+      "comment_grading": "The grading system is mentioned above. Student needs to take part in 4 of the 5 seminars. Otherwise, you will easily fail the course. Remember to take attendance!",
+      "comment_workload": "Workload is nearly zero, to be honest. You just need to attend at least 4 seminars in one semester.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "XaHlVztGgc2LSLBvfSxXTyaYtMJCRgWY",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1855,
+          "name": "MA, Alex",
+          "rating": 1
+        }
+      ],
+      "author": "ddl fighter",
+      "date": "Dec 08, 2023",
+      "title": "Short Review",
+      "comment_content": "Requirement for extend major in DMCA.<br />No credit no workload.<br />Just for interesting.",
+      "comment_teaching": "Depends on the instructor invited. <br />But most of them are quite interesting because there are always new fields for me. <br /><br />You can see the file attached which is a reference.",
+      "comment_grading": "Pass if you attend 80% of seminar.<br />I guess nobody will fail in the class.",
+      "comment_workload": "No workload, just sit there and check attendance.<br />Scan the QR code and then input the answer. <br />It is possible to ask your classmates tell you the answer and even you can not attend it.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "iqlcYVqfyPNIjPkPGtbJyGWtAk2H34jj",
+          "name": "EMIA2010B_Cross-disciplinary Seminar",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

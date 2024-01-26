@@ -1,0 +1,32 @@
+{
+  "course": {
+    "id": 3141,
+    "subject": "ECON",
+    "code": "6110G",
+    "name": "Behavioral Economics",
+    "description": "This course emphasizes the psychological evidence as the basis for sound economic analysis. We will also insist on the importance of neoclassical theory as a successful benchmark that you are required to know. This course has largely an empirical orientation, and I will present empirical papers drawn from a variety of fields (here in alphabetical order): asset pricing, corporate finance, consumption, development economics, environmental economics, health economics, industrial organization, labor economics, political economy, and public economics. Integrated with the research topics, I will introduce and discuss identification strategies for good empirical research.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2030,
+      1930
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ECON\" data-code=\"5130\" href=\"/review/ECON5130\" target=\"_blank\">ECON 5130</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

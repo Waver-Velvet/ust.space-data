@@ -1,0 +1,197 @@
+{
+  "course": {
+    "id": 430,
+    "subject": "FINA",
+    "code": "3204",
+    "name": "Derivative Securities",
+    "description": "Options and futures; interest rate futures and options; valuation of options using Black Scholes and computational techniques; options and futures strategies; interest rate swaps; currency options, futures and swaps; understanding exotic options.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      1540,
+      1530,
+      1510,
+      1430,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"2203\" href=\"/review/FINA2203\" target=\"_blank\">FINA 2203</a> or <a class=\"course-link\" data-subject=\"FINA\" data-code=\"2303\" href=\"/review/FINA2303\" target=\"_blank\">FINA 2303</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4.5,
+    "rating_grading": 4.75,
+    "rating_workload": 4.5,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 259,
+        "name": "CHIU, Chun Wah Andrew",
+        "count": 3
+      },
+      {
+        "id": 245,
+        "name": "NI, Sophie Xiaoyan",
+        "count": 1
+      },
+      {
+        "id": 248,
+        "name": "SO, Man Chung Mandy",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "IZXRxeGxrVfI0TZ3e5x2RKOLxFE7wJxy",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 259,
+          "name": "CHIU, Chun Wah Andrew",
+          "rating": 1
+        }
+      ],
+      "author": "lamperoge",
+      "date": "Sep 13, 2016",
+      "title": "",
+      "comment_content": "Andrew is a trader himself, so the course content is very practical and highly related to the market. Mainly covers future, forward, option, swap, also binomial model and Black Scholes, really useful for working in S&amp;T, AM, or HF.",
+      "comment_teaching": "Andrew is the best! He can deliver the very complicated &quot;Bible&quot; in a clear and straight forward manner. He thinks in a trader way, which could help a lot when you study a derivative and analyze the P&amp;L.",
+      "comment_grading": "Some people say the grading is great. I would say it&#039;s&nbsp;&nbsp;just fair. 10-15% A level, the average grading standard in business school.",
+      "comment_workload": "Workload is okay. Homework is not too hard, and we have random quizs in class. If you have reviewed the class materials, the quiz will be easy.<br />Midterm is not hard, but have many questions. Don&#039;t get lost in all sorts of calculations. <br />Final usually has 1 or 2 challenging questions, and I think final contributes a lot to the grade, as other tasks doesn&#039;t variate a lot.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ASQKhQetNRauEBfrEoaZ6aAaebBXHljB",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 245,
+          "name": "NI, Sophie Xiaoyan",
+          "rating": 1
+        },
+        {
+          "id": 248,
+          "name": "SO, Man Chung Mandy",
+          "rating": 1
+        }
+      ],
+      "author": "1999",
+      "date": "May 27, 2016",
+      "title": "Grade is okay &amp; &quot;VERY LOW&quot; workload!",
+      "comment_content": "These course mainly teaches the main derivative securities including forward, futures, swap and options.<br />A quantitative course that finance students must take! (basic knowledge of derivative securities)<br />It also includes some pricing model(e.g. binomial Option pricing, Black Scholes and Greek Letters) and hedging strategy.",
+      "comment_teaching": "Sophie is a very nice professor that I personally think she teaches very well and It is worthwhile to attend the lesson. She can answer students&#039; questions very concise and effectively.<br /><br />She will distribute the full version of printed notes so you don&#039;t need to print yourself. Also, the notes are not complete. You need to attend the lessons to jot down the notes although no attendance is needed.",
+      "comment_grading": "40% mid-term<br />&nbsp;&nbsp;&nbsp;&nbsp;- I score 89/103 (mean 85.3, max 103/103)<br /><br />40% Final<br />&nbsp;&nbsp;&nbsp;- 81/100 (mean 74.2, sd 13, max 94/100)<br /><br />20% individual homework(10%@1)<br />&nbsp;&nbsp;&nbsp;- 1st one 119/125 (mean 106)<br />&nbsp;&nbsp;&nbsp;- 2nd one 83/84 (mean 76.8)<br /><br />Turn out B+ so I think the grading is still quite good!",
+      "comment_workload": "Quite light actually.<br />If you take this course after 3104, part of the syllabus you have already learnt.<br />If you take 3404 simultaneously, also part of the syllabus are similar.<br />If you take 4104 also, congratulation!<br />Very few thing you need to study.<br /><br />The exams are non-cumulative.<br />Mid-term(chapter 1 - chapter 6)<br />Final(chapter 7 - chapter 12)<br />just take a few days to self study and do the exercise is okay!(because i skip many lessons after the mid-term)",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "WobEyTQzfmBEHzM9hHiacXZvqBHC0eG3",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 259,
+          "name": "CHIU, Chun Wah Andrew",
+          "rating": 1
+        }
+      ],
+      "author": "kfhuiaa",
+      "date": "Jan 26, 2016",
+      "title": "Derivative Securities",
+      "comment_content": "呢個course基本上係作為一個fina major 學生必讀既course. 如果冇讀過deriviative, 都唔好同人講你係fina major 學生. <br />Course content 主要圍繞financial derivative 包括由最基本futures, options, 到mid term 後講番D model 好似binomial/black scholes 果d.",
+      "comment_teaching": "andrew既英文水平好高 基本上同native已經冇咩分別 上堂聽得好舒服. <br />有一點好特別既係andrew本身既正職係一個trader, 教書只不過係part time. 所以聽佢講書你會學到好多其他prof都冇既野--&gt; experience.<br />以科大現有既prof 水平黎講 andrew overall 黎講都算係數一數二",
+      "comment_grading": "Andrew 派grade相對上比其他prof 好好多<br />佢上堂講過會派 25% A range (科大正常都係派10-20%, 20%已經算係好grade)",
+      "comment_workload": "workload唔算重<br />3次assignment<br />4次quiz計最高分果3個<br />1個midterm 1個final<br />midterm final 好多都係考類似assignment既問題",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "DirZJv9qj5uqFYsMgOlegyk2ChLkVFO2",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 259,
+          "name": "CHIU, Chun Wah Andrew",
+          "rating": 1
+        }
+      ],
+      "author": "heeeeeee",
+      "date": "Aug 16, 2015",
+      "title": "",
+      "comment_content": "About options &amp; futures, an extension from the last session of 3104.<br />If you take Andrew&#039;s class, he will also include topics out of the textbook, like warrants, CBBCS, etc.",
+      "comment_teaching": "Lecture notes are clear but simple, you need to drop notes for every lecture, he&#039;ll explain everything clearly in class.<br />Sometimes he teaches q. fast, just raise ur hand and stop him, or you can ask him via mail or his website.",
+      "comment_grading": "He said he would maximize the # of A range. From what I see, around 25% ppl get A range and he gives lots of B+, so that&#039;s very good grade.",
+      "comment_workload": "Workload is not high, both mid-term and final is open notes, books...<br />Exams are not very difficult, he&#039;ll go through the whole paper before each exam, just focus on the topics mentioned in the review session. <br />HW assignments will be given every 2 weeks, the mean is always 95% and median is 100%.<br />3~5 Pop up quiz is given, you won&#039;t know in advance. Open book and notes, mean is always 90% and median is 90 or 100%.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

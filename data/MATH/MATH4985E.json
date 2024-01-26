@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 4014,
+    "subject": "MATH",
+    "code": "4985E",
+    "name": "Independent Study: Stochastic Calculus",
+    "description": "This is an independent course on Brownian Motion, Martingales and Stochastic Calculus. It will be based on the following book: Brownian Motion, Martingales and Stochastic Calculus, by Le Gall. Students should seek the course instructor's approval to take this course.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2240,
+      2230
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 959,
+        "name": "BAO, Zhigang",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "i7qQNhrw9XnkfEqQZ8NRmu0rqzZBOyj5",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 959,
+          "name": "BAO, Zhigang",
+          "rating": 1
+        }
+      ],
+      "author": "UnconMarketeers",
+      "date": "Apr 09, 2023",
+      "title": "A recommended textbook for newbie of stochastic analysis!",
+      "comment_content": "In the independent study course I completed a learning notes on the book &quot;Brownian Motion, Martingales and Stochastic Calculus&quot;(https://link.springer.com/book/10.1007/978-3-319-31089-3). <br /><br />Some other references are as follows. All of them are (strictly) more advanced than my major reference.<br /><br />1. Brownian Motion and Stochastic Calculus (a.k.a. GTM113) <br />2. Stochastic Differential Equations by Oksendal<br /><br />Some prerequisites for learning the book:<br /><br />1. Real analysis - Foundation of measure-theoretic probability; Radon-Nikodym theorem frequently appears in some advanced topics. <br />2. Functional analysis - Some facts regarding Hilbert space are needed. Hille-Yosida theorem is the cornerstone of Markov process theory. This theorem is pretty similar to the Picard-Lindelof theorem regarding the existence of ODE solution.<br />3. CLT and WLLN are not essential in overall. <br /><br />Main context:<br /><br />----- Part one: Construction of Brownian motion -----<br /><br />-&gt; The construction of Brownian motion here is pretty special (Gaussian white noise: Isometry in L^2) in the sense that it can be hardly found in other textbook.&nbsp;&nbsp;<br />-&gt; Some standard properties of Brownian motion are introduced, like strong/weak Markov property, nowhere differentiable/monotone property of sample path and so on. <br />-&gt; I guess the major &quot;storytelling approach&quot; for most stochastic calculus textbook is to introduce general martingale structure first, then Brownian motion. In this textbook, it does the other way round which I think has some pedagogical advantage. <br /><br />---- Part Two: Martingale theory -----<br /><br />-&gt; The major discussion here is martingale theory with continuous time. Comparing with discrete-time martingale (MATH5450), the major differences are:<br /><br />1. In discrete martingale theory, some concepts are missed like local martingale, semi-martingale and quadratic variation. <br />2. Continuity of sample path: Indeed, if time is discrete then continuity is nonsense. For process with continuous time, we discuss various degrees of continuity for sample path, like right-continuous, cadlag or existence of modification which has such property.<br />3. Progressive: In discrete martingale theory, the &quot;adaptedness&quot; is majorly discussed, instead of progressiveness. <br /><br />However, it does not mean the discrete-time theory is unimportant. The key theorems like maximal inequality and optional stopping theorem are proven assuming the validity of those theorems in discrete case. <br /><br />-&gt; Some other important theorems are missed in major reference, like martingale CLT.<br /><br />-&gt; The part for introducing quadratic variation is quite confused for me since it packages the definition, well-definedness and properties as one bulky theorem. For first-time reader, other references might be considered. <br /><br />----- Part Three: Stochastic Integral -----<br /><br />-&gt; In this part, there are three major missions, namely <br />1. Develop stochastic integral in three senses (Simple process - Simple function in stochastic sense/Local martingale/Semimartingale). Note that some minor properties may not be inherited.<br />2. Ito&#039;s formula: The core of stochastic calculus and quantitative finance. <br />3. Consequences of Ito&#039;s formula: Martingale representation, BDG, Girsanov theorem and so on. The Girsanov theorem is also a key theorem in quantitative finance. <br /><br />----- Part Four: Markov Process -----<br /><br />-&gt; The theoretical rationale in the theory of Markov process are as follows:<br /><br />1. Hille-Yosida theorem. It gives the foundation of contraction semigroup. For detailed discussion please refer to chapter 7 of Brezis&#039; functional analysis book. <br />2. Kolmogorov extension theorem. Given transition kernel, it guarantees the existence of Markov process. The proof of the extension theorem is quite tough. <br /><br />-&gt; In discrete-time, the theory and examples are deeply discussed with many examples in MATH5450 or MATH3425. In fact, if the reader goes through chapter 7 of Brezis&#039; book, some properties are already proven. <br /><br />-&gt; The weak/strong Markov property are discussed again. <br /><br />----- Part Five: Stochastic Process and Differential Equation -----<br /><br />-&gt; There are three major parts in this book regarding the association between stochastic process and differential equations:<br /><br />1. Brownian motion and Laplace equation: The properties of harmonic functions (maximal principle, harmonicity) are developed in terms of Brownian motion. Using the fundamental solution of Laplace equation, the transience and recurrence of Brownian motion is deduced. Unfortunately, the relation between stochastic process and heat equation is quite insufficient. For general discussion please refer to GTM113.&nbsp;&nbsp;<br /><br />2. Define stochastic differential equation and discuss existence theorem for solution of stochastic differential equation. In fact, the theorem is quite similar to the Picard-Lindelof theorem. Gronwall&#039;s inequality (used in the proof of Picard-Lindelof) appears in the respective proof again. <br /><br />3. Introduce very briefly three types of processes: Ornstein-Uhlenbeck, Geometric Brownian and Bessel. <br /><br />I did not proceed to the final chapter in the major reference, namely the topic of Local Time.",
+      "comment_teaching": "I did not consult the professor while reading the material. The purpose for me to do the independent study project is to study the continuous-time theory of stochastic process in supplementary of MATH5450.",
+      "comment_grading": "Unknown in this moment.",
+      "comment_workload": "I spent about 3/4 of my winter break, plus a few days in my spring term to finish writing my reading notes. If you are QFIN, finanacial math or financial engineering master student, I guess you may finish the book faster than me because you may have better intention or ability to study it.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "course": {
+    "id": 2494,
+    "subject": "MATH",
+    "code": "4428",
+    "name": "Bayesian Analysis and Credibility Theory",
+    "description": "This course provides a rigorous mathematical treatment of Bayesian analysis and its applications to credibility theory. The first part covers basic concepts and principles of Bayesian statistics such as prior and posterior distributions, conjugate priors, Bayesian estimates, credibility intervals, and Bayesian hypothesis testing. The second part introduces credibility theory and its development using a Bayesian analysis. Topics include limited fluctuation credibility theory, greatest accuracy credibility theory, credibility premium, Buhlmann models, Buhlmann-Straub models, empirical Bayesian methods in nonparametric and semiparametric cases, and the insurance problem. This course, combined with MATH 4427, prepares students to take the Exam C (Construction and Evaluation of Actuarial Models) of the Society of Actuaries.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1930,
+      1730
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"3423\" href=\"/review/MATH3423\" target=\"_blank\">MATH 3423</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"4427\" href=\"/review/MATH4427\" target=\"_blank\">MATH 4427</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ISOM\" data-code=\"4550\" href=\"/review/ISOM4550\" target=\"_blank\">ISOM 4550</a> (prior to 2015-16)",
+    "rating_content": 4.5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 542,
+        "name": "YU, Chi Wai",
+        "count": 2
+      },
+      {
+        "id": 912,
+        "name": "LEUNG, Chi Man",
+        "count": 2
+      },
+      {
+        "id": 1338,
+        "name": "YANG, Qing",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "3SQJZcjectspZVFwR6vW2iBUISEkuM55",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 542,
+          "name": "YU, Chi Wai",
+          "rating": 1
+        },
+        {
+          "id": 912,
+          "name": "LEUNG, Chi Man",
+          "rating": 1
+        },
+        {
+          "id": 1338,
+          "name": "YANG, Qing",
+          "rating": 1
+        }
+      ],
+      "author": "calcguy",
+      "date": "Apr 25, 2020",
+      "title": "Complete Package of Statistics and Financial Mathematics",
+      "comment_content": "Part 1: Bayesian Analysis<br />Chapter 1-1: Preliminary and Review<br />* Conditional Mean and Variance<br />* Double Expectation Formula, Unconditional Mean and Variance<br />* Parametric and Empirical Distributions<br />* Distribution Fitting (QQ Plot and Hypothesis Tests)<br />* Exponential Family<br />* MLE and MME<br />* Percentile Matching Estimate<br />* Delta Method<br />Chapter 1-2: Bayesian Decision Theory<br />* Statistical Decision Theory<br />* Loss Function and Frequentist Risk<br />* Posterior Distribution<br />* Prior and Posterior Predictive Probability<br />* Bayesian Premium<br />* Flat Prior, Jeffreys Prior, Conjugate Prior<br />* Asymptotics of Posterior Distribution<br />* Bayes Risk and Posterior Risk<br />Chapter 1-3: Bayesian Analysis<br />* Bayesian Point Estimation<br />* HPD Credible Set and Quantile-Based Credible Intervals<br />-----------------------------------------------------<br />Part 2: Credibility Theory<br />Chapter 2-1: Limited Fluctuation Credibility<br />* Full Credibility Criterion for Claim Severity, Claim Frequency and Aggregate Loss<br />* Partial Credibility<br />Chapter 2-2: Greatest Accuracy Credibility<br />* Posterior Distribution and Posterior Estimate<br />* Bayesian Analysis on Incomplete Data<br />* Conjugate Prior Distribution<br />* Bayesian Credibility<br />* Buhlmann Credibility<br />* Buhlmann-Straub Credibility Model<br />Chapter 2-3: Empirical Bayes Parameter Estimation<br />* Non-parametric Empirical Model<br />* Semi-parametric Empirical Model",
+      "comment_teaching": "For Dr. Yu&#039;s part:<br />He uses visualizer to jot down notes. I personally feel quite comfortable when he&#039;s teaching, mainly because he explained stuffs quite slowly. I can see that he puts much effort into teaching this course, since he knows that the course content is somewhat tough, so do I. He always makes complicated concepts become easier to understand, so that&#039;s what I like about him most.<br /><br />For Dr. LCM&#039;s part:<br />Everyone knows this famous lecturer in the math department already. He never disappoints us in preparing such beautiful lecture notes and problem sets. He explains stuffs whole-heartedly using the whiteboard, and it is very easy to follow him during lecture. I hardly ever got lost in the middle of lectures.<br /><br />For TA&#039;s part:<br />She just reviews the important results from the lecture notes and go through some additional examples, which I think is good if we are willing to get more practice. Her way of teaching is normal, nothing special, nothing bad.",
+      "comment_grading": "Grading Scheme:<br />For Dr. Yu&#039;s part:<br />2 Assignments --&gt; 20% (Equal Weight)<br />Midterm Exam --&gt; 30%<br />For Dr. LCM&#039;s part:<br />1 Assignment --&gt; 20%<br />Final Exam --&gt; 30%<br />Absolute Grading is used for this course, but the cutoffs are not announced<br />-----------------------------------------------------<br />For Dr. Yu&#039;s part:<br />His midterm exam is not as tough as it seems, but not easy either. I would say the difficulty of the midterm exam is 6 out of 10. There are 4 problems in the exam; 2 of them are similar to homeworks and the rest is quite challenging. <br />The homeworks are pretty much straight forward; just recall the result from lecture notes and you&#039;re golden.<br /><br />For Dr. LCM&#039;s part:<br />Contrary to usual practice in his courses, there will be no bonus problems for the assignments in this course, just to be consistent with Dr. Yu&#039;s policy.<br />For some reason, I think due to poor attendance rate (especially when I&#039;m the only one present in the 2nd last lecture), the assignment is extremely hard. Few of the problems are out of scope (some contains materials from MATH4427). However, he tried to be lenient in grading. Our final exam is relatively easier compared to assignment, but the time constraint is stressing us out.<br />-----------------------------------------------------<br />Statistics: [FORMAT: Mean / Total Marks (My Score)]<br />Assignment 1: 19.8 / 20 (20), high = 20<br />Assignment 2: 17.7 / 20 (18.5), high = 19<br />Midterm: 28.1 / 40 (34), high = 34.5<br />Assignment 3: 77.9/100 (82), high = 90<br />Final: 75.9/100 (100), high = 100<br />-----------------------------------------------------<br />Total mark: 91.15/100<br />Grade: A+<br />One of my friend got ~81 overall and got an A <br />and ~77 overall and got an A-",
+      "comment_workload": "Only 2 homeworks from Dr. Yu&#039;s part and 1 homework from Dr. LCM&#039;s part, so workload is fine.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "PHlbYo6pvlktzdE5GDpCXOmLL8GgrKEa",
+          "name": "Exam_1_Spring2020_MATH4428",
+          "format": "pdf"
+        },
+        {
+          "key": "tZ1GJpo0J3miFbg0RLsCxLxVRNtOEg1O",
+          "name": "SOA_Table_C",
+          "format": "pdf"
+        },
+        {
+          "key": "QS5zOciZXxulkMSfCsSm988QB5q5FbaJ",
+          "name": "MATH4428_2020Spring_HW",
+          "format": "pdf"
+        },
+        {
+          "key": "Q6Jd8UPLWHgprXpHMfUVfn8ieVpoC5VR",
+          "name": "MATH4428_2020Spring_Final",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "bbNHOQjwLru254yWE0Oe5NuupzQUYky8",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 542,
+          "name": "YU, Chi Wai",
+          "rating": 1
+        },
+        {
+          "id": 912,
+          "name": "LEUNG, Chi Man",
+          "rating": 1
+        }
+      ],
+      "author": "iamhandsomeboy",
+      "date": "Jun 11, 2018",
+      "title": "曇花（不專業分析）",
+      "comment_content": "呢個course大致分左2part, 前半部分會係由Dr.Yu教, 後半部分由Dr. Leung教~<br />呢個course前半部分較重theoretical野, 而後半則以運算居多<br /><br />[Part I: Bayesian Analysis]<br />1.&nbsp;&nbsp;&nbsp;&nbsp;Preliminary and Review<br />2.&nbsp;&nbsp;&nbsp;&nbsp;Bayesian Decision Theory<br />3.&nbsp;&nbsp;&nbsp;&nbsp;Bayesian Analysis<br /><br />課程主要教我地用Bayesian呢個方法去做estimation, 再分返以往Frequentist方法同Bayesian之分別, 另外都會俾返exam C題目我地參考返。其實讀落感覺同之前MATH3423分別唔會話好大, 可能因為d相關知識係連貫住咁學,簡單d講呢part統計味極濃\b, stat jj最愛:)<br /><br />呢個部分大多涉及之前MATH3423/MATH4427既influence知識,建議大家可以溫返呢2個course既重點先開始挑戰, 而Dr. Yu好好人咁係佢網站upload返MATH3423筆記供大家參考, 以免大家之前無留底既煩惱。Midterm可以帶A4 cheatsheet x2 前後夾埋4版, 同openbook冇咩分別:o) 只係抄到手軟<br /><br />[Part II: Credibility Theory]<br />1.&nbsp;&nbsp;&nbsp;&nbsp;Limited fluctuation credibility&nbsp;&nbsp;&nbsp;<br />2.&nbsp;&nbsp;&nbsp;&nbsp;Greatest Accuracy Credibility: A model-based approach<br />3.&nbsp;&nbsp;&nbsp;&nbsp;Empirical Bayes Parameter Estimation&nbsp;&nbsp;&nbsp;<br /><br />課程一開始會教返/remind返以前學過既保險知識同概念, 等我地了解返Claim frequency, Claim severity, aggregate loss 呢d基礎知識, 然後LCM以example慢慢由簡單case帶到落好複雜既題型, 包括\bSOA Exam C題目, 等我地從中得到更多解題idea <br /><br />呢part(我覺得)整體容易過前半, 因為多左好多運算野,感覺較實在<br />後面教到non-parametric同semi-parametric 比較多formula,識derive返就可以用黎計相應題目, derive唔到就唯有背啦, 因為final exam冇formula sheet提供同埋無cheatsheet!",
+      "comment_teaching": "YCW:<br />讀到上黎呢個course，大家都識佢架啦，教學style同之前差不多，上堂果陣拎定枝筆隨時準備， notes係會有漏空俾大家填返, 最好唔好走堂啦！另外佢office都係一貫以往地開放，有唔識既concept都可以上去問佢，佢好樂意解答你既問題～<br /><br />LCM:<br />主要notes會有examples,唔洗抄notes, 份野係幾詳盡，但係唔代表走堂都無問題, 事關你底子唔好都係會睇唔明的 :o) 最好上堂聽佢詳細講解haha！<br />建議最好上堂前睇一睇預課，因為LCM教書節奏明快, 如果你本身唔太熟果個concept, 可能會跟得吃力d 。 所以除左上堂專心d, 預課都係唔錯方法架！",
+      "comment_grading": "HW x4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20% (YCW &amp; LCM各2份, 每份5%)<br />Midterm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40% (first half of the course)<br />Final&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40% (second half of the course)<br />拉curve<br /><br />我覺得整體係靚grade, 雖然一開始話拉curve果下大家都有d擔心, 始終班上太多大神級人馬, 我呢d學弱當然擔心自己炒到pk lol<br /><br />hw大家都接近full, midterm mean就37.75/60, final mean就70.42/100 <br />可見後半課程內容相對較輕鬆, mean有明顯上升<br /><br />呢個course可能係4字頭同埋班上好多大神, A range派得鬆手<br />雖然我唔算考得好好,但都滿意個result<br />至於咩grade就唔獻醜啦",
+      "comment_workload": "4份功課 唔算長<br />會俾足夠時間大家做<br />認真做對exam有幫助:)",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 3945,
+    "subject": "CORE",
+    "code": "3602",
+    "name": "Traditional Chinese Poetry: Tang and Song Poetry",
+    "description": "A guided critical study of the representative works of the major shi and ci poets in the Tang and Song periods, with emphasis on the development of the various poetic styles.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230
+    ],
+    "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1401\" href=\"/review/CORE1401\" target=\"_blank\">CORE 1401</a> OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1402\" href=\"/review/CORE1402\" target=\"_blank\">CORE 1402</a> OR CORE 1403 OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1404\" href=\"/review/CORE1404\" target=\"_blank\">CORE 1404</a> OR LANG 1002 (prior to 2022-23)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 898,
+        "name": "LI, Siya",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "4rC158L9HXRwzqaI3pvru4VSZiFggNXB",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 898,
+          "name": "LI, Siya",
+          "rating": 1
+        }
+      ],
+      "author": "匿名",
+      "date": "Jun 20, 2023",
+      "title": "輕鬆有趣又能學到東西的good grade cc",
+      "comment_content": "一週一節課，一節 2h 50min。<br />主要從9個方面分析唐宋詩詞，從而提升對詩詞和流行歌曲歌詞的審美（1時空 2物色 3情景 4虛實 5對比 6感官 7意境 8風神 9格調）。<br />一個方面就是一個PPT，每個PPT前部分會有相關知識介紹，接著會以詩詞舉例分析，也會引入流行歌曲作為例子。",
+      "comment_teaching": "PPT講到有流行歌曲那裡會放出來聽，這個時候其實可以當一個小break了。Prof上課是有趣且富有啓發性的，不只是講PPT上的內容，也會和同學分享一些心得；畢竟PPT的內容大部分大家都可以自己看，心得就來源於經歷了。<br />課堂上有什麼不清楚的或者課程外相關內容不清楚的，下課後問prof，prof都會耐心回答。關於期末考試，prof也很好地給了一些tips，所以不需要太緊張。",
+      "comment_grading": "10%出席率（只有兩種情況，期末考得好--&gt;10分，不好--&gt;0分）<br />10%創作（具有創作性的，e.g. 詩歌創作、畫畫、唱歌、跳舞等等）<br />20%小論文（可以不用references）<br />30%平時作業（基本上一週一次，每教完一個topic，下一堂課交一次作業）<br />30%期末（填空+問答，填空部分背了prof要求背的基本上就能滿分）",
+      "comment_workload": "Workload非常小的。<br />平時作業認真完成的話會花的時間久一點（幾個小時不等），如果只是應付的話五分鐘就可以搞定，視乎自己想在這個course里取得怎樣的成績了。創作和小論文同理，認真完成自然花的時間長一些，hea做可能兩小時就能完成...<br />期末背誦的詩詞部分是以前中學背過的，會有印象會背得很快，所以剩下要背的應該就一半一半。<br /><br />總結：prof教得好，人好，grade好；課程輕鬆作業少。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

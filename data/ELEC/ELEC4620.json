@@ -1,0 +1,141 @@
+{
+  "course": {
+    "id": 346,
+    "subject": "ELEC",
+    "code": "4620",
+    "name": "Photonics and Optical Communications",
+    "description": "To introduce optoelectronics and fiber optics for communications. Topics include optical fibers, optical sources, optical detectors, and passive components for wavelength-division multiplexing. Laboratory gives hands-on experience in handling optical fibers, lasers and detectors, micro-optical components, opto-mechanical equipment, and building wavelength-division-multiplexed optical links.",
+    "categories": [],
+    "website": "http://course.ee.ust.hk/elec4620",
+    "credits": 4,
+    "semesters": [
+      2310,
+      2010,
+      1810,
+      1630,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"3600\" href=\"/review/ELEC3600\" target=\"_blank\">ELEC 3600</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4.67,
+    "rating_workload": 2.67,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 180,
+        "name": "POON, Andrew Wing On",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "SfVdum61fVC8Fcpxej96Rj2rsiWuD6YF",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 180,
+          "name": "POON, Andrew Wing On",
+          "rating": 1
+        }
+      ],
+      "author": "Spade",
+      "date": "Dec 08, 2023",
+      "title": "Others all Good but BIG WORKLOAD!!!",
+      "comment_content": "To introduce optoelectronics and fiber optics for communications. Topics include optical fibers, optical sources, optical detectors, and passive components for wavelength-division multiplexing. The laboratory gives hands-on experience in handling optical fibers, lasers and detectors, micro-optical components, optomechanical equipment, and building wavelength-division-multiplexed optical links.",
+      "comment_teaching": "Professor POON is the nicest. His teaching is the best in ECE.&nbsp;&nbsp;He is always patient and with a smile on his face. He really cares for our students.<br />Although the professor is super nice and the course is good,&nbsp;&nbsp;you have to read the &quot;workload&quot; section before you really want to enroll in the course.",
+      "comment_grading": "Homework (6): 30%<br />Lab (6): 24%<br />Project: 16% (Term paper: 10% Term paper presentation: 6%)<br />Final exam: 30%<br /><br />According to the professor, he won&#039;t grade based on distribution or curves as this is a small course.<br />Good Luck.<br /><br />Another trouble is that the professor does not use the Grade function on Canvas (you will know your scores through e-mail), so you don&#039;t know how you perform in each section compared with the whole class. (As the professor claimed that this course you don&#039;t have to compete with peers)",
+      "comment_workload": "WARNING: think if you can handle this workload before enrollment.<br />1. First, the content of this lecture is big and challenging. The labs will really take up a whole 3 hours, not like other ECE courses. People can finish the lab within 30 min.<br />2. One week, 2 assignments sometimes (a lab report requires you to respond to something, but peers always write much, then you have to write that much as well + challenging homework may consume a lot of time)<br />3. Final Essay along with Final Exam (That drives people crazy; the final essay is 10 pages limited and requires people to think deeply about something). The final exam is generally a deeper/harder version of homework.<br /><br />This course is a &quot;NO PAIN, NO GAIN&#039; one. If you really handle this workload and listen carefully, I believe you can learn something useful for your career.<br /><br />I can share some experiences to handle this workload:<br />1. Always start earlier ahead of the deadlines.<br />2. Review what you learned within the day you have lecture.<br />3. Write notes; don&#039;t just look at notes on your IPAD(like me) in the lecture.<br />[I just did the first point I mentioned, so I was very painful doing homework and preparing for the final]<br /><br />For some homework questions, search online/ in the textbook/ ask ChatGPT may help.&nbsp;&nbsp;But not that helpful.<br /><br />Hope that will help you.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "MECWqss7iNDhPCkVj0LJywmIU5gTBK1b",
+      "semester": "2023-24 Fall",
+      "instructors": [],
+      "author": "Reneelmn",
+      "date": "Oct 04, 2023",
+      "title": "",
+      "comment_content": "Goes over fundamental photonics and optics. Heavy extension of electromagnetic course. Explores topics like ray optics, wave guide, transmission characteristics, lasers. I personally fins the content really engaging because I enjoy physics and theroy based concepts",
+      "comment_teaching": "Andrew seems really passionate and excited about this course. He explains things clearly and lecture is easy to listen. Power points are quite extensive and easy to follow. However he doesn&#039;t read off slides and often explains concepts on white board.",
+      "comment_grading": "Have yet to be graded on anything",
+      "comment_workload": "Workload is not terrible but not easy.. There is lab reports and hw every other week. HW is somewhat challenging but reasonable.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "IVgERxFzEK6UgrncDOzSzranPHqKHhM5",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 180,
+          "name": "POON, Andrew Wing On",
+          "rating": 1
+        }
+      ],
+      "author": "mrimlinger",
+      "date": "Jan 22, 2019",
+      "title": "ELEC4620 (exchange student point of view)",
+      "comment_content": "The course is well structured and covers very interesting topics from fibre optics to semiconductors optical devices.<br />The emphasis on physic is very much appreciated with rigorous equations.<br />Laboratories offer practical understanding and hands-on experience with fibre optics and related equipment.",
+      "comment_teaching": "Very good slides, the teacher is interesting and invested in the course, always available for questions.",
+      "comment_grading": "Grading based on assignments, lab reports, project report, project presentation and final exam.",
+      "comment_workload": "Quite a lot of work with lab reports, assignments, final project, etc but definitely worth it and rewarding.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 5,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

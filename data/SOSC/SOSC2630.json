@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 1169,
+    "subject": "SOSC",
+    "code": "2630",
+    "name": "Development in Rural China",
+    "description": "This course surveys the development and transformation of China's village economy from around the early twentieth century to the present. Emphasis is placed on the effects of rural institutions and policies on economic performance.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1510
+    ],
+    "prerequisites": "One of <a class=\"course-link\" data-subject=\"ECON\" data-code=\"2103\" href=\"/review/ECON2103\" target=\"_blank\">ECON 2103</a>, <a class=\"course-link\" data-subject=\"ECON\" data-code=\"2113\" href=\"/review/ECON2113\" target=\"_blank\">ECON 2113</a>, <a class=\"course-link\" data-subject=\"ECON\" data-code=\"2913\" href=\"/review/ECON2913\" target=\"_blank\">ECON 2913</a>, <a class=\"course-link\" data-subject=\"ECON\" data-code=\"3113\" href=\"/review/ECON3113\" target=\"_blank\">ECON 3113</a>, <a class=\"course-link\" data-subject=\"ECON\" data-code=\"3133\" href=\"/review/ECON3133\" target=\"_blank\">ECON 3133</a> or <a class=\"course-link\" data-subject=\"SOSC\" data-code=\"1440\" href=\"/review/SOSC1440\" target=\"_blank\">SOSC 1440</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

@@ -1,0 +1,77 @@
+{
+  "course": {
+    "id": 483,
+    "subject": "HART",
+    "code": "1025",
+    "name": "Introduction to New Topographic Photography",
+    "description": "The New Topographic photographers acknowledged people’s interaction with the land by picturing built urban environments. It signaled a new approach to landscape photography that adopted an aesthetic of apparent objectivity, while taking as its subject matter the effects of humanity on the modern landscape. Students taking this course will learn about the history, development, theories and skills of “New Topographic” photography.",
+    "categories": [
+      "Common Core (Arts)"
+    ],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2130,
+      1710,
+      1530
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 2,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 954,
+        "name": "SUEN, Shu Kwan Lioniman",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "fdrAGhhXvrmdjoNZG2eAlwm31smjbHnW",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 954,
+          "name": "SUEN, Shu Kwan Lioniman",
+          "rating": 1
+        }
+      ],
+      "author": "Wolf",
+      "date": "Dec 11, 2022",
+      "title": "",
+      "comment_content": "This course teaches about new topographic photography with hands-on practices in the assignments given by the instructor. Works of famous topographic photographers were introduced in classes. Ideas and contexts of the photographic work were discussed. Sharing among classmates was a big portion of the course.<br /><br />**NOTE:<br />You also need a digital camera for this course. Photos taken by smart phones are NOT accepted. (Not sure for camera using films)",
+      "comment_teaching": "Leon is really a good instructor and makes really good feedbacks of your work. He is a very nice person and willing to share his opinion of your work which helps a lot in your personal improvements, although sometimes he could be biased towards his taste of art. His points are often quite too abstract that you might not fully understand them right the way, but they always make sense to me when I think about them afterwards.",
+      "comment_grading": "Very easy grading like any other HART course in UST. However when there are classmates already have basic knowledge of photography (and you do not) you can get a lower grade. Photographic skills were NOT a focus in this course. It is not a requirement you know how to use a camera for enrolling this course, but if you do it is a HUGE advantage. Like mentioned above the context and idea of your work is important in gradings, you can still get a B range even you are not familiar with using a camera.",
+      "comment_workload": "3 assignments, around every twice a week, and a final project. You need a short presentation for each assignment and the final project, but they are all casual and you can go without any preparation if you are confident. <br /><br />Heavy workload as for a 1-credit course, like any other HART courses offered. I spent much more than 3 hours a week during the course, including obtaining materials in field trips, post-editing for the work and so on. But I would say if you are interested in photography, you will enjoy much in the courseworks.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

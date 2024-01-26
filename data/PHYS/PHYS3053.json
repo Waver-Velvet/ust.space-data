@@ -1,0 +1,422 @@
+{
+  "course": {
+    "id": 1037,
+    "subject": "PHYS",
+    "code": "3053",
+    "name": "Honors Electricity and Magnetism I",
+    "description": "This course is a more in-depth version of PHYS 3033. Key topics include: (i) Electrostatics: electric charge and fields, Coulomb’s law, Gauss’ Law, multipoles, Laplace equation; (ii) Magnetostatics: currents, magnetic fields and vector potential, Biot-Savart Law, Faraday’s law, magnetic materials; (iii) Maxwell’s equations; and (iv) Interaction of electromagnetic fields with matter, polarization and magnetization, bound charges and bound currents, relative permittivity and permeability, ferromagnets.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "[<a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1114\" href=\"/review/PHYS1114\" target=\"_blank\">PHYS 1114</a> (Grade B- or above) OR <a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1314\" href=\"/review/PHYS1314\" target=\"_blank\">PHYS 1314</a>] AND <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2023\" href=\"/review/MATH2023\" target=\"_blank\">MATH 2023</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"PHYS\" data-code=\"3033\" href=\"/review/PHYS3033\" target=\"_blank\">PHYS 3033</a>",
+    "rating_content": 4,
+    "rating_teaching": 3.8,
+    "rating_grading": 3.9,
+    "rating_workload": 4,
+    "review_count": 10,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 619,
+        "name": "LORTZ, Rolf Walter",
+        "count": 10
+      },
+      {
+        "id": 1883,
+        "name": "LIE, Jacky",
+        "count": 2
+      },
+      {
+        "id": 1372,
+        "name": "GUO, Qinghua",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "xvKm2rhFqqW1Qyn4poYWRz9PO5Fzad2l",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 619,
+          "name": "LORTZ, Rolf Walter",
+          "rating": 1
+        },
+        {
+          "id": 1883,
+          "name": "LIE, Jacky",
+          "rating": 1
+        }
+      ],
+      "author": "Warp Drive",
+      "date": "Jan 02, 2024",
+      "title": "",
+      "comment_content": "Main lecture: Griffth chapter 1-7<br />Additional honors lecture: Griffith chapter 8, 9.2, 10.1, solving the Laplace equation inside magnetic matter",
+      "comment_teaching": "Prof. Lortz&#039; s teaching is of average level in UST. Most of the time it&#039;s just PPT reading. However, he is willing to answer questions from students.<br />Dr. Lie always tried to activate the atmosphere in the class. He derived each formula in detail. He is also willing to answer students&#039; questions.",
+      "comment_grading": "Assignments 15%, honors lecture attendance 5%, midterm 35%, final 45% or midterm 45%, final 35%<br />Midterm: high 50, UQ 45, median 42.75, mean 41.38, LQ 36.38, low 30.5<br />Final: high 75, UQ 65, median 53, mean 54.74, LQ 46.5, low 30<br />Me: assignments 14/15, attendance 5/5, midterm 42/50, final 68/80, overall ~87/100, letter grade: A<br />This letter grade is better than my anticipation. Class size is small, and it can be competitive.",
+      "comment_workload": "Workload is light. Only 5 problem sets, each with 4 questions which are just some basic textbook exercise. Answers can be found online.<br />Midterm is exactly the same as 3033, very easy. Final is different from 3033, a bit harder than midterm.<br />Workload would naturally increase if you want to do extra textbook exercise. But it is strongly recommended to do so since it would help a lot for exam preparation.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "V7rcr7mZuQ0gxRFfDrSQ5oQC9iPxsNMj",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 619,
+          "name": "LORTZ, Rolf Walter",
+          "rating": 1
+        },
+        {
+          "id": 1883,
+          "name": "LIE, Jacky",
+          "rating": 1
+        }
+      ],
+      "author": "Jumqyc",
+      "date": "Nov 22, 2023",
+      "title": "",
+      "comment_content": "The main lecture(with 3033students)covers chapter1~7 of Griffiths book. Standard E&amp;M content <br />The honor lecture(~1hr/week)covers most of chapter 8 and some selected topics in chapter 9, 10. Also there&#039;s some extra content , like solving Laplace eq in cylinder coordinate, and cpt transformation of classical e&amp;m field.<br />I&#039;ll say it&#039;s a little disappointing since the honor lecture just talks about 3034 stuff(which is said to cover the part2 of.Griffiths book). I expected to have some more exciting stuff.(like classical field theory? idk)",
+      "comment_teaching": "Lortz talks about some interesting physical picture in the lecture. Like electrons actually <br />behaves like wave in 1d line so it spreads out. And he talks about some of the relativistic effects in chapter 6. He&#039;s also willing to answer questions after class. <br /><br />Jacky&#039;s lecture talks a lot about some appication and asks some interesting question. He use a white board+ppt to explain thing, so that you can easily follow the steps. He&#039;s also friendly and helpful.",
+      "comment_grading": "Midterm:<br />mean:41.38/50, uq:45, max 50<br />Midterm is easy. You can easily get above mean if you do all the problems in the textbook. Just be careful so that you don&#039;t misunderstood the problems :(<br />Final:<br />mean：54/80<br />most questions are from the textbook<br /><br />me: midterm 48, final 75(highest), attend all honors lecture, hw:overall~95, letter grade:a+",
+      "comment_workload": "Very light. Total of 5 hw, with 4,5 problems each. Most of which are just textbook problems. If you understand the contents in textbook you can finish them in 1hr. Unless you decided to go through every peoblems in the textbook like me:P<br />fyi: even if you decided(for some reason, <br />such as you love to make yourself suffer by doing phys problems)to go over all the problems in the textbook(part1,of course), it won&#039;t take a lot of time. The total time consumed is around 100hr.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "0lW5w4i9541DuLLSrMyw4h8N8fQCdgsG",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 619,
+          "name": "LORTZ, Rolf Walter",
+          "rating": 1
+        }
+      ],
+      "author": "Lucien▪Evans",
+      "date": "Dec 16, 2021",
+      "title": "",
+      "comment_content": "We took the main class with 3033’s students and one hour each week for advanced parts. The main part is rather easy as long as you spend some time with the mathematical process on ppt. It doesn’t require you to have a deep understanding with its physical meaning.<br /><br />The advanced part this term was taught by a lecturer. It was the most boring class I have ever taken. I just attended the class and watch the ppt instead of listening to his explanation.",
+      "comment_teaching": "LORTZ also read the ppt in the class but his reading is better than the lecturer. Sometimes I will follow his mind and copy the contents on ppt. In a nutshell, it’s not a worse-teaching course.",
+      "comment_grading": "I have to say, although I like LORTZ and his course . The grading scheme is not very good for top students. I get almost 100% in each assignment and 28/30 in midterm. In final, I got the highest score. I deserve a A+ but finally got A.<br /><br />My overall score: 93. I think it is very close to the highest one.<br /><br />Attendance in advanced course will be counted.<br /><br />As i argued for the letter grade, Prof. LORTZ told me that he used an absolute scale of grading and perhaps the top students didn&#039;t choose the advanced course this year. The average level of honor class students is below his expectation.<br /><br />Well, what can i say? This term 3053 didn&#039;t have a A+ i guess.",
+      "comment_workload": "3-5 problems each assignment. The workload is not too large.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "9ZjrDbH52meni6aW1UDFbRbiLupdipGI",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 619,
+          "name": "LORTZ, Rolf Walter",
+          "rating": 1
+        }
+      ],
+      "author": "Crazypak",
+      "date": "Dec 11, 2020",
+      "title": "",
+      "comment_content": "Normal lecture<br />Ch 1 vector calculus<br />Ch 2 electrostatics<br />Ch 3 electrical potential<br />Ch 4 electric field in matter<br />Ch 5 magnetostatic<br />Ch 6 magnetic field in matter<br />Ch 7 maxwells&nbsp;&nbsp;equation<br /> <br />Honor class<br />Ch 1 maxwells equation<br />Ch 2 conservation of energy and poynting’s vector<br />Ch 3 image charge<br />Ch 4 Laplace equation inside dielectric<br />Ch 5 conservation of momentum and angular momentum<br />Ch 6 potential and field<br />Ch 7 Laplace equation inside magnetic matter",
+      "comment_teaching": "Prof. LORTZ basically just read out the material in PowerPoint. It was a little bit bored. However, he is welcome to answer the questions.",
+      "comment_grading": "The mean of mid-term in honor class is 44/50 while the normal class is 3X/50. Work hard if you are in the honor class.",
+      "comment_workload": "The workload is in normal level. You will have an assignment for every chapters, each with 4 to 6 questions.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "T7RQIujDVAW2G5NU2uhm3YBcOvOpMrrU",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 619,
+          "name": "LORTZ, Rolf Walter",
+          "rating": 1
+        },
+        {
+          "id": 1372,
+          "name": "GUO, Qinghua",
+          "rating": 1
+        }
+      ],
+      "author": "alvinfan",
+      "date": "Mar 03, 2020",
+      "title": "",
+      "comment_content": "This course is basically PHYS3033 minus the normal tutorials but supplemented with honors lectures. The syllabus covers the entirety of the 3033 syllabus (Griffiths Introduction to Electrodynamics Chs.1-7) plus whichever topics are presented during the honors lectures. The honors topics this term included sections of Griffiths Chs.8-10 plus some exercises. The honors topics were not assessed in the midterm but were in the final.",
+      "comment_teaching": "Prof. Lortz mostly reads from his PowerPoint slides and occasionally supplements it with calculations that he writes on the whiteboard, which is pretty normal. The situation with Prof. Guo was pretty similar. Both professors are quite open to questions. The PowerPoint slides (available on CANVAS) contain everything you will need for the exams, and note-taking is mostly optional.",
+      "comment_grading": "The assignments count for 10% of your grade while the midterm and final count for 50% and 40% or 40% and 50% respectively, depending on which grading scheme gives you the higher score.<br /><br />The specifics of the grade distribution were not very transparent this term, since the grades were handed out without the scores or statistics of the final ever being released. The mean for the midterm was 22.2/40. I got a 24 on the midterm and don&#039;t know how I did on the final, ended up getting a B+.<br /><br />The midterm was of medium difficulty but time pressure was a significant factor. The final was somewhat easier but special arrangements (online exam) were made this term so this might not apply to future iterations of the course.",
+      "comment_workload": "Assignments are assigned approximately once every two weeks and usually contain 3-4 problems of average complexity. (Because of class suspensions this term only HW2-5 were graded.) Each assignment took me approximately 1.5-2 hours to do with no prior revision.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Y8TbUeEITuHpPUbVnJZ3EIERPezLE321",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 619,
+          "name": "LORTZ, Rolf Walter",
+          "rating": 1
+        }
+      ],
+      "author": "jsuhardjo",
+      "date": "Aug 21, 2019",
+      "title": "Review",
+      "comment_content": "The content of PHYS3053 is basically PHYS3033 with some extra lectures about electromagnetic wave. As for the regular class (the same as PHYS3033), the content is exactly as in the textbook Introduction to Electrodynamics by David J. Griffith starting from chapter 1 to 7. While during the extra lectures, chapter 8 and 9 are discussed.",
+      "comment_teaching": "The professor likes to use power point, which I didn&#039;t really enjoy. The explanation is quite boring and although the professor often said that the mathematical part is less important, I feel that the course is mathematical. From the homework and exam problems, it is evident that the professor loves to use the method of separation variables, which is once you understand it quite easy. You don&#039;t have to come to the lectures if you have already understood the concept. Reading and understanding the textbook is what I recommend, as it is also a really good book. The professor though is opened for questions from students",
+      "comment_grading": "Grading is standard. This was my grade booster, because many students encountered this course without previous knowledge and it may be difficult for someone really studying from zero. Therefore, the mean is quite low. However, if you spend enough time reading the textbook and understanding the concepts, this course is definitely grade booster.",
+      "comment_workload": "There are one homework every 2-3 weeks. Overall, the workload is not too heavy. But, I really recommend reading the textbook and doing all the exercises which obviously needs extra time and effort. Exams are very easy.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "8gsNquacR5VMBbSOCcruqbNR9gZXhmtQ",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 619,
+          "name": "LORTZ, Rolf Walter",
+          "rating": 1
+        }
+      ],
+      "author": "ChuaWanZhen",
+      "date": "Dec 29, 2016",
+      "title": "Don&#039;t worry too much on the math for this course",
+      "comment_content": "The content is basically stated as above, it&#039;s just a review of PHYS1314, however, we study the laws in differential forms (Divergence theorem version or Stokes theorem version). Professor&#039;s Lortz powerpoint can be understood easily, but I suggest you to go through the textbook. Also, be sure to work through the exercises in the textbook, it is a good practice for students and the solutions can be found easily online.",
+      "comment_teaching": "Professor Lortz is a very caring person, if you encounter any difficulties, just talk to him. He always welcome questions from students. One thing I partly disagree with him is that, to me, I prefer him to teach this course using marker pen rather than powerpoint, like during the honor&#039;s tutorial, which I enjoyed it very much. The lectures during the honor&#039;s tutorial are of the appropriate standard. However, those that involve horrible Math would not be tested as promised, but I suggest you to go through them too.",
+      "comment_grading": "The grading is not that bad and the difficulty of the exams is not that high, compared to my expectation. He mainly tested us on the concepts and does not expect us to work out the math during the exams. However, you will get horrible math in your assignments which is reasonable. You need a lot of triple integrals in this course, so be sure to master your multivariable calculus before taking this course. The exam problems for the honor version are not that difficult, so long you master the new concepts that the professor introduce to us, it should be fine. Furthermore, these can all be found in the textbook. I found the textbook very handy.",
+      "comment_workload": "We roughly have an assignment each week. The problems given for our assignment are much more challenging than the exam problems. So be sure to take them seriously. I think the pressure for the PHYS 3033 course is much higher as they have quizzes every week and the problems can be challenging.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "4bOebaJWrdnmjGO8JRbPFA9iOBFQEWU6",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 619,
+          "name": "LORTZ, Rolf Walter",
+          "rating": 1
+        }
+      ],
+      "author": "0_0",
+      "date": "Dec 29, 2016",
+      "title": "完全不懂修 honors 版有三小好處",
+      "comment_content": "非常標準的 Griffiths電動力學。課程內容分為 main lecture 與 honors lecture 兩部份。<br /><br />Main lecture 基本上就是 Griffiths ch.1-7的內容，但基於時間關係 (應該)，ch.7 Electrodynamics 只輕輕帶過 Faraday’s Law, Maxwell Equations, EM wave就算了。老實說，以一些 PHYS1114 / PHYS1314 教過的內容作結實在令這個 course 的結尾遺憾地有點遜 zzzzz。<br /><br />Honors Lecture 的內容大致上可以分為兩半。Prof 大概會用一半的honors lectures 來教一些稍微更深入的理論內容，包括 conservation laws &amp; continuity equations, EM energy &amp; momentum, the potential formulation, gauge transformation, etc…說白點就是從Griffiths ch. 8 - 10 中挑岀來的一些內容。雖說是有點沒誠意，但我覺得這些內容算是選得還不錯，至少我也算有學到點皮毛。倒是這堆 honors lecture 課與課之間內容都跳很大，幾乎沒甚麼連貫性可言，而且全部內容都僅僅點到即止，所以說我其實也不覺得自己有從這些 honors lecture 裡多學到多少。<br /><br />而另一半的 honors lecture，prof 會用來教一些因難度稍高而在 regular 版 skip 掉的內容，包括 spherical image charge problem, “magnetostatic scalar potential&quot;, Laplace&#039;s equation in dielectric / magnetized material, etc.",
+      "comment_teaching": "因為教授只有一個，但有兩門長得八成像的課，所以為節省人手，PHYS3033 跟 PHYS3053 的同學會一起上同一個Main lecture，然後當PHYS3033的同學在 Tutorial 歡樂 quiz 的時候，PHYS3053的各位苦主就要多上額外一小時的Honors lecture (其實每星期quiz好像比較痛苦)。<br /><br />我自己是挺喜歡這個設計。這樣一方面可以享受大班上課的樂趣，還不用一天到晚都跟那堆念書狂人困在一起，而另一方面也能享有小班教學的高質量教學 (相對地)。<br /><br />教授在 main lecture 基本上就是標準的朗讀 PowerPoint 政策，坦白說單看他 main lecture 的表現我 teaching 會評 C 或 D。寫了好幾個 PHYS course 的 review，我也懶得再對這種朗讀 PowerPoint 教學作甚麼評論。看 Griffiths 的書還比較有趣、易懂。<br /><br />不過教授在 honors lecture 倒是做得還不差。用白板教學，每一個步驟的內容跟目的他都會解釋得清清楚楚。他自己覺得他白板寫字寫很醜，我倒是覺得還好，至少比那堆 PowerPoint 上的 Equation 好看多了。",
+      "comment_grading": "爛 Grade到 _ _ _。 真_ _ 的 _ _ _。<br />除了_ _ _ 還是 _ _ _ 還有 _ _ _。<br /><br />以 Honors physics course 來說，PHYS3053 的 Grading 真的很爛。前面有人說這門課的 grade distribution 沒因為是 honors 而經過特別處理，我一開始還不信，但看到 Final Grade 後我是立即信了。<br /><br />教授說他會嘗試用 absolute grading，因為他不想我們 「Get punished because you choose the honors version」，還有 「it is not necessary for you to compete with each others」…哇靠，我還哈哈哈啦。<br /><br />Midterm PHYS3033跟PHYS3053是一樣的 (exactly 同一份)，Final 則是除了兩題會考 honors lecture 的內容外，其他都跟 PHYS3033 是一樣的 (如果我沒記錯)。<br /><br />這個傳說中的 absolute grading 的 grading scheme 從沒公開。不過我可以告訢你，midterm就算你考得比 regular 的 highest還要高，final 考到近乎滿分，你還是不會有 A+。<br /><br />好吧，這聽起來好像是我在炫耀分數，但你想想，一個在Regular版能輕鬆拿 A+的分數，在 Honors 版都只有 A，那可想而知在此以下的分數拿的 Grade 會有多糟。就因為你選了 Honors ，所以你的 Grade 就自動打了七折。完全就是「活該啦！哈哈哈，誰叫你選 Honors，哈哈哈」。<br /><br />害我現在都不懂為什麼要選修 Honors 版啦，又沒真的多學到多少，然後還要吃一個爛十倍的 grade distribution。還說不用跟那堆念書狂人競爭，我還哈哈哈啦，反正我是不信了。<br /><br /><br />For those of you who are interested:<br /><br />Midterm: mean 32.7 / 50 <br />(Regular&#039;s highest is around 34, if I&#039;m not mistaking)<br /><br />Final: mean 67.9 / 80",
+      "comment_workload": "免去 PHYS3033 的每週 Quiz 真的輕鬆很多。每星期就一份 Assignment，每份大概 3-5 條題目，有不少是書裡抽的。<br /><br />不過坦白說，這些 Assignment都不好做，每一份都總是有一兩條難到靠腰的 (either mathematically or physically)，除非你真的超強吶，不然真要自己做，起碼要做個兩三天。然後當你爽爽做完這星期的那份時，下星期那份又滾出來了…真是個無限痛苦 cycle。<br /><br />Exam的難度不算太高 (比起某些甚麼 PHYS1314、PHYS2022 是合理多了)，而且有不少題目都是書中取出來的。所以如果你能靠自己做到 Griffiths 大部份的題目，你考得應該不會太差；一分錢一分貨的概念。",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 2,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 9,
+      "vote_count": 9,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "BSzpCVX96108XczyzB9q3v7akzJEL25Y",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 619,
+          "name": "LORTZ, Rolf Walter",
+          "rating": 1
+        }
+      ],
+      "author": "butter",
+      "date": "Jan 09, 2016",
+      "title": "",
+      "comment_content": "Content is more or less same as the non-honours class PHYS3033. A few extra topics&nbsp;&nbsp;but everything is from the text book(Introduction to Electrodynamics by Griffiths)",
+      "comment_teaching": "I felt that the instructor was better at the honours lecture than the common lecture. Overall, he is a good teacher, will make you understand the connection between concepts",
+      "comment_grading": "I took it in fall 2015 and it might be an exception but the honours class wasnt given any special treatment with regard to grading. I think mean score was about B-",
+      "comment_workload": "Regular practice is required to excel in this course. I wouldnt say workload is a lot but it is necessary to revise after the class",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "tKcQb9UAeZ97i06SvPPp31l8Qjyol7J3",
+      "semester": "2014-15 Fall",
+      "instructors": [
+        {
+          "id": 619,
+          "name": "LORTZ, Rolf Walter",
+          "rating": 1
+        }
+      ],
+      "author": "左右手",
+      "date": "Aug 01, 2015",
+      "title": "EM I",
+      "comment_content": "呢個Course 主要教Griffiths 的黑皮書上面部分，由於係Honor course 的關係，所以會學埋少少後半部的內容。<br /><br />前半主要係Electrostatics 同 Magnetostatics, year 1 已經學過有關的concept，呢個course 只係引入更多數學去描述d 現象，如果你year 1學EM 學得唔差，而Vector Calculus (Math 2023) 又ok 的話，咁應該壓力不大。<br /><br />呢個Course 考得唔深，熟書D 題目已經夠做。<br /><br />學左的Topics:<br />-Vector Calculus<br />-Electrostatics (&amp; in medium)<br />-Magnetostatics (&amp; in medium)<br />-Electrodynamics<br />-EM Wave (前半)<br />-Momentum (前半)",
+      "comment_teaching": "Normal lecture 方面，教授講書一般，而PPT 主要都係抄番書，上堂都係照讀PPT。如果自己睇書睇得明，建議唔好花精神上堂，寧願自己做多幾條題目。<br /><br />而Honor Lecture Lortz 會有手寫白板，但手字真係麻麻地，加上成日有手誤，不過我係建設大家上，有時都會有d insight。",
+      "comment_grading": "考試難道不大，付出同收獲成正比，識做書的題目應該有B+ 以上(雖然聽講Mean 係C+)<br /><br />Homework: 20%<br />Mid term: 30%<br />Final : 50%",
+      "comment_workload": "Honor course 唔洗好似 3033 咁每星期 quiz ，所以比較輕鬆。每星期一份功課，另外自己再抽少少時間做DD 題 就OK。",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

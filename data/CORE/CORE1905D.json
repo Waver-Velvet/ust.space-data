@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 3770,
+    "subject": "CORE",
+    "code": "1905D",
+    "name": "Behavioral Foundations of University Education: Habits, Mindsets, and Wellness",
+    "description": "This course will help students adapt to university life through advising, sharing and discussion, and applying the science of well‐being to enhance their personal and interpersonal development. It also aims to foster their self‐understanding and confidence as young adults who can fully enjoy their university education and career thereafter. The course has 3 components: Lectures and Seminars, Self‐Directed Experience, and Advising and Community Meetings. Lectures and Seminars will orientate students to their respective Schools/IPO, provide academic advices and equip them with the scientific bases of well‐being. Self‐Directed Experience will provide opportunities to develop mindsets and habits for students’ physical and social‐emotional wellness and personal enrichment. In Advising and Community Meetings, students will bring knowledge and skills together through reflection and discussion with peers and School/IPO advisors. Topics such as learning and time management skills, purpose of university education, and\nplanning for personal and professional development will be covered. Graded PP, P or F.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230,
+      2210
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "IDPO 1010",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 660,
+        "name": "WONG, James K.",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "GUogiomG6iR1VZHCj5e5UtxWmIgdkaep",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 660,
+          "name": "WONG, James K.",
+          "rating": 1
+        }
+      ],
+      "author": "michael04",
+      "date": "Sep 15, 2022",
+      "title": "Good and interesting course for year 1",
+      "comment_content": "Help students adapt to university life through advising, discussion, and applying the science of well-being to enhance their personal and interpersonal development. The course also aims to foster self-understanding and confidence as young adults. <br /><br />5 f2f sessions (seminars) in one academic year, which are about humanities, social science, language and communication. The 6 online learning modules are about well-being in both real and virtual world, healthy habits, psychology of happiness, interpersonal relations, stress and coping.<br />Diversified sports skill class. All topics throughout the course are about learning and time management skills, purpose of university education, and planning for personal and professional development.<br /><br />4 advising and community meetings (f2f)",
+      "comment_teaching": "Nice and no pressure as the course is pass or fail.",
+      "comment_grading": "Pass or fail. The passing score for this course is 90/100.",
+      "comment_workload": "Nearly no workload.<br />6 online learning modules, each of them contains 12 questions. Fall sem: 3 modules. Spring sem: 3 modules<br />Self-directed experience: at least 9 hours of sports skill class, 3-6 hours of wellness and personal enrichment or community <br />engagement or services<br />4 surveys<br />2 Self-reflection journal entries (Fall+Spring) in writing format (&lt;800 words) or video presentation format (&lt;5 min)",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

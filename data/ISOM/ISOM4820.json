@@ -1,0 +1,152 @@
+{
+  "course": {
+    "id": 717,
+    "subject": "ISOM",
+    "code": "4820",
+    "name": "Revenue Management",
+    "description": "This course focuses on how a firm should set and update pricing and product availability decisions across its various selling channels in order to maximize its profitability. Through a combination of case studies, lectures and class activities, the course will review the main methodologies and different pricing strategies used in different industries. The goal is for students to learn to identify and exploit opportunities for revenue optimization in different business contexts.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1710,
+      1610,
+      1530,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ISOM\" data-code=\"2700\" href=\"/review/ISOM2700\" target=\"_blank\">ISOM 2700</a> AND <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3710\" href=\"/review/ISOM3710\" target=\"_blank\">ISOM 3710</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.67,
+    "rating_teaching": 5,
+    "rating_grading": 4.67,
+    "rating_workload": 3,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 397,
+        "name": "NASIRY, Javad",
+        "count": 3
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "HacivlxUHKaWBHibBSgXsn5dCFsxIe3j",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 397,
+          "name": "NASIRY, Javad",
+          "rating": 1
+        }
+      ],
+      "author": "Avocado",
+      "date": "Dec 25, 2017",
+      "title": "Extremely interesting and practical!",
+      "comment_content": "The course covers the fundamentals of revenue management, including topics such as market segmentation, pricing models, markdown management, capacity planning and so on. The course content and the cases provided are heavily interlinked, so you have the chance to read about real-life/practical applications of the concepts learned.",
+      "comment_teaching": "Prof. Nasiry is a super engaging and interesting teacher, and he makes sure to explain the content very well during his teaching. Although he does go through some of the sections a bit quickly (which can lead to some confusion), he is very helpful if you approach him after class with any questions. I would also highly recommend consulting him about your project idea and methodology, as he can help you a lot and he provided my group with useful suggestions as to how we could go about doing our project.",
+      "comment_grading": "The grading is relatively decent, and the final grade is entirely dependent on assignments, participation, and the final project. <br /><br />The weighting is as follows:<br />— Individual Assignments (5x, 35%) <br />— Group Assignment (1x, 15%)<br />— Participation (15%)<br />— Project (35%)<br /><br />I would say that the final grade really depends on the amount of effort and interest you put into the class. Participating a lot in class also helps as you can demonstrate your interest in the subject through that, and Prof. Nasiry is also more likely to remember you.",
+      "comment_workload": "The workload for this course is quite high as the course grade is dependent on assignments and projects. There is an assignment due almost every week, which requires you to spend time outside of class to learn the theory and complete the assignment using Excel/R/other software. For the group assignment, you also have to use R Studio to do some more complex data analysis and you may have to spend time familiarising yourself with the software if you don&#039;t have prior experience in using R. On the bright side, there is (currently) no final exam for this course so the workload is distributed throughout the semester instead.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "h8KuPIQrrrGscluNYZQJuwddoVRp6Cm9",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 397,
+          "name": "NASIRY, Javad",
+          "rating": 1
+        }
+      ],
+      "author": "Nanz1",
+      "date": "Dec 01, 2016",
+      "title": "Recommend for OM major student!",
+      "comment_content": "Interesting topic about DPRM(Dynamic Pricing and Revenue Management), unlike other OM courses, more quantitative content would be covered and need a deep understanding about the logic and methodology of each model.",
+      "comment_teaching": "Great professor, you can ask any questions regarding to course materials and he is very happy to answer. Unlike talking by the book, would go through lot of examples to make this course easier understood.",
+      "comment_grading": "Don&#039;t know yet, but 35% from group project + 15% from class participation ( which means 50% of the grade is from Professor himself, how he valued you as a participator in the class would be very crucial for your grade.)<br /><br />Update: Grade comes out and it seems my hard work paid off.<br />It also means you really need to put A LOT OF effort into the project and make it an outstanding one in the way you deal with the pricing problem inside.",
+      "comment_workload": "Random in-class quiz, several stimulation games(additional participation mark would be given here), one case per week, give approximately 1 month to prepare the group project.(presentation+executive summary), learned a lot from hand-on experiences.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "iqkbEh1to5zna6sh6KTqt1YMukPtw8EH",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 397,
+          "name": "NASIRY, Javad",
+          "rating": 1
+        }
+      ],
+      "author": "Ginchw",
+      "date": "Nov 26, 2016",
+      "title": "",
+      "comment_content": "Interesting course about dynamic pricing strategy and revenue management, from simple excel solver solutions to complex MNL regression model. You are required to read the case and get prepared before attending each class",
+      "comment_teaching": "Nice and funny professor while teaching quite fast. Willing to answer questions during class and after class. He have good memory of those students frequently asking him questions or answering his questions. About 15% of grading is depends on how active you are in class.",
+      "comment_grading": "Individual Assignments (5-6) 30%<br />Group Assignment (1) 20%<br />3-4 people a group<br />Class Participation(Including Quiz) 15%<br />- No attendance sheet have to sign, but too few people(&lt;40) so he can know who attend the class or not<br />Final project 35%<br />- 20 mins group presentation with free topics regarding to dynamic pricing",
+      "comment_workload": "Harsh. Nearly one case study with report and excel solution each week, group assignment, in-class task or quiz. You need deep understanding on the materials before doing assignment. There is group project with presentation, but no final exam.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "oSxaPm74wSb5IuNMbeCmI6AIlUiDKmNg",
+          "name": "Syllabus-ISOM 4820",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

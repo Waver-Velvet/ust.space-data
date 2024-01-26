@@ -1,0 +1,38 @@
+{
+  "course": {
+    "id": 1760,
+    "subject": "ISOM",
+    "code": "5480",
+    "name": "Technology Entrepreneurship",
+    "description": "This course introduces the principles of technology entrepreneurship.  It provides an overview of the theory and best practices on developing innovative business models of the digital economy, and the strategy, structure and pricing related to new enterprises.  Topics include technology entrepreneurship, e-marketing, web 2.0 and enterprise 2.0, information in financial market, globalization, and the long tail.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

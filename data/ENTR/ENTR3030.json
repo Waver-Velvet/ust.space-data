@@ -1,0 +1,77 @@
+{
+  "course": {
+    "id": 2269,
+    "subject": "ENTR",
+    "code": "3030",
+    "name": "Social Innovations and Entrepreneurship",
+    "description": "Building a social enterprise can be markedly different from building a commercial one. When well deployed, social innovations can meet social needs that the government welfare, business corporations or charity-based social welfare cannot easily fulfill. A commercial entity should also be aware of the social impacts of its business decisions. This course introduces corporate social responsibility (CSR), social innovations, and the factors of consideration to start a social enterprise. This includes current topics on operation models, sustainability, team building, case studies, strategies, practices, etc. Site visits and student projects will be involved. Instructor's approval is required for course enrollment.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2030,
+      1830,
+      1710
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 893,
+        "name": "HUANG, Erwin",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "XRjArBHSeD5upcW9MtBAckSm4f9TsEyy",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 893,
+          "name": "HUANG, Erwin",
+          "rating": 1
+        }
+      ],
+      "author": "llchan",
+      "date": "Jan 03, 2018",
+      "title": "Hmmm Interesting",
+      "comment_content": "Field trips on the weekends to Dialogue in the Dark and YWCA. <br />Attendance are counted like 10%<br />Assignment are just 100 words comment on Facebook every week.<br />And one assignment on MISO report on YWCA elderly daycare center.<br />And final group report on your social enterprise project and you have to present on it.",
+      "comment_teaching": "I have no comment on teaching because actually the profession don&#039;t really teach but he is just keep inviting guest speaker to speak and talk with us. What he will do is introduce or trying to share his experience in social entrepreneurship. <br />The quality of guest speakers vary. Airbnb, Uber and dialogue in the dark are the guest speaker in the semester.<br /><br />I feel like what he wanna tell us is it is important to know more people than studying when you get into the society. 識人好過識字",
+      "comment_grading": "I thought it was an absolute grading but turn out I was wrong.<br />It is obviously counting on curve. I got a B- at last for a 12 people class.",
+      "comment_workload": "No reading just comment on FB.<br />No final No Midterm.<br />I think the final group project is a hard work as I have no idea for a good project and the report requires you to do a prototype but then I don&#039;t think those unworkable ones need prototype like that.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

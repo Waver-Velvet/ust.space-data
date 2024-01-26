@@ -1,0 +1,106 @@
+{
+  "course": {
+    "id": 1613,
+    "subject": "CIVL",
+    "code": "5350",
+    "name": "Bridge Engineering",
+    "description": "This course introduces the limit states design method for bridges, discusses the design philosophy and code requirements and presents examples of analysis and design of bridge super-structure components (using the limit states design method).",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2110,
+      1910,
+      1710,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4.5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 751,
+        "name": "LEE, Ka Wai",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "VutwJHixQUCBZisWzf5ighGsUdHMRpSO",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 751,
+          "name": "LEE, Ka Wai",
+          "rating": 1
+        }
+      ],
+      "author": "alienfiretruck",
+      "date": "Jan 13, 2023",
+      "title": "Note that this review is about the PG course CIEM 5380",
+      "comment_content": "The course covers almost everything related to typical bridge design from early planning to construction stage.<br /><br />Main topics include:<br />- Site constraints<br />- Selection of bridge structural form<br />- Selection of bridge construction method<br />- Prestressed concrete<br />- Preliminary bridge dimensioning<br />- Loading<br />- Prestressing design<br />- Bridge accessories<br />- Arch bridge<br />- Seismic load<br />- Ship impact load",
+      "comment_teaching": "Dr. Lee intends to teach the course in a practical way with many real-life examples such as the newly-commissioned TKO Cross Bay Link Bridge.<br /><br />He also teaches the bridge design process step-by-step to make sure everyone understands. Lecture notes are clear.",
+      "comment_grading": "Dr. Lee seems to be satisfied about the performance on the course project, despite not knowing the individual grades of each project submission.",
+      "comment_workload": "The course is 100% graded by the course project, which is separated into three parts:<br /><br />- Part 1: Appreciation of site constraints (20%)<br />- Part 2: Selection of bridge structural form and construction method (30%)<br />- Part 3: Scheme design (50%)<br /><br />Personally find Part 3 the most challenging because it consists of the most technical items such as bridge dimensioning and prestressing design.<br /><br />In overall, workload depends on how much effort you put into the coursework.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "a5H9McqjJrkZAtCzQGRlAv8LyjLEQKON",
+      "semester": "2018-19 Fall",
+      "instructors": [],
+      "author": "cdm",
+      "date": "Feb 01, 2019",
+      "title": "",
+      "comment_content": "1. Bridge structural form and construction engineering<br /><br />2. Prestressed Concrete<br /><br />3. Loadings<br /><br />4. Analysis<br /><br />5. Detailing<br /><br />6. Accessories",
+      "comment_teaching": "I was taught by Dr Barry LEE that year. <br /><br />The lecture ppts are well-structured.<br /><br />Hand-written notes of example calculations are uploaded. You can follow the notes to carry out the project.<br /><br />The project really helps you get a basic idea of the workflow of a simple bridge design (i.e. assigning loads, preliminary sizing, structural analysis, detailing etc.",
+      "comment_grading": "20% Assignment<br />40% Midterm<br />40% Project<br /><br />4%&nbsp;&nbsp;A+<br />15% A<br />28% A-<br />30% B+<br />11% B<br />11% B-<br />2% C+<br /><br />Basically good grades are given generously. Only one person got C+.",
+      "comment_workload": "In general, the workload is acceptable. No final exam. So you can focus on your project.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

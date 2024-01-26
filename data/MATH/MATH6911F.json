@@ -1,0 +1,33 @@
+{
+  "course": {
+    "id": 2384,
+    "subject": "MATH",
+    "code": "6911F",
+    "name": "Reading Course: Deep Learning for 3D Version",
+    "description": "(1) Single-view Geometry: Single-view Depth/Normal/Boundary Estimation; Single-view Object/Scene Reconstruction (2) Two-view/N-view Geometry: Structure from Motion; N-view 3D Reconstruction (3) Neural Geometric Processing: Point Cloud/Mesh/Voxel Learning; Neural Implicit Functions for 3D Representation (4) Neural Rendering: Differentiable Volumetric Rendering; Neural Scene Representation and Application (5) Generative 3D Models: 3D GANs; 3D Diffusion Models (6) Dynamic 3D Models: Scene Flow Estimation; Dynamic 3D Reconstruction. Students should seek the course instructor’s approval to take this course.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      1730,
+      1710
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"5472\" href=\"/review/MATH5472\" target=\"_blank\">MATH 5472</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

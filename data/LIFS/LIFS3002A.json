@@ -1,0 +1,124 @@
+{
+  "course": {
+    "id": 2059,
+    "subject": "LIFS",
+    "code": "3002A",
+    "name": "Human Genetics in Practice",
+    "description": "This course will impart essential skills for communicating science to a lay audience in the laboratory setting. Students will work in groups to devise a mini‐laboratory course for detecting human genetic variants. They will then serve as instructors of the course in outreach workshops for high school students. Approval of the course instructor is needed for students to enroll in this course. For LIFS students only.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1730,
+      1630
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"LIFS\" data-code=\"2040\" href=\"/review/LIFS2040\" target=\"_blank\">LIFS 2040</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3,
+    "rating_teaching": 3,
+    "rating_grading": 3,
+    "rating_workload": 2.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 477,
+        "name": "TANG, Jessica Ce Mun",
+        "count": 2
+      },
+      {
+        "id": 488,
+        "name": "MAK, Ho Yi",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "hCtvM0yPLWX4izPlYDJbzFvvHpbADROu",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 488,
+          "name": "MAK, Ho Yi",
+          "rating": 1
+        }
+      ],
+      "author": "Skad",
+      "date": "Aug 03, 2018",
+      "title": "Ancestral vs. Derived SNPS",
+      "comment_content": "The course lets you explore the application of SNPs in detecting human diseases through a simple experiment, distinguishing whether the SNPs is ancestral or derived. <br /><br />There is a small one-day lecture and most of the time you spent for this course is in a lab (DNA extraction, PCR, restriction digestion). Two days lab (usually afternoon) per week. It is suggested that you can arrange your schedule for at least 1.5 hr lab per day and two days per week (you can discuss the schedule with your prof)<br /><br />During the first few weeks of lecture, Prof. Mak will start from teaching you content related to SNPs and introduce you to a software tool that helps you identify SNPs. You will work in pair to design primers that will amplify the SNP region you and your teammate have chosen. You are also required to write your own lab manual for teach high school students. <br /><br />After those lectures, the lecture time will be allocated to the presentation of your lab results. Prof. will give you some comments so that you can optimize your experiments. <br /><br />In the end, you will have to teach high school students for four days (Saturday and Sunday for two weeks): Making a 15-20 mins presentation + experiment",
+      "comment_teaching": "Both professors are nice and open for your questions.<br />They will also stay in a lab with you most of the time to teach you at the beginning of the lab and help you if you have any problems.",
+      "comment_grading": "There are NO midterm and final exam but:<br />Composition of a lab manual&nbsp;&nbsp;&nbsp;40%<br />Lab skills&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25%<br />Oral presentation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20%<br />Participation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10%<br />Feedbacks from workshop participants&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5%<br /><br />This is not just about whether you successfully obtain results but your analytical thinking, how well you solve your experiment problems, your presentation skills, your lab manual as mentioned above.",
+      "comment_workload": "Having two labs in a week is considered a higher-than-average workload but you will learn a lot of things through this course if you do not have much experience in lab (and if you are interested in LIFS3110). Finding a good teammate is also important.<br /><br />The most exhausting but fun part is the high school teaching which spans for 2 weeks. But it&#039;s worth it because you will not (or rarely) find this kind of course where you can plan your teaching independently(especially when you are tired of taking so many final exams.)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "wonEYeCtmK2QC3KpdTSjg2i0KkRe5wud",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 488,
+          "name": "MAK, Ho Yi",
+          "rating": 1
+        }
+      ],
+      "author": "curryyuen",
+      "date": "Jun 02, 2018",
+      "title": "If I use all the time I spent in this course in other course, I must get A range in others.",
+      "comment_content": "MY GRADE IS B+. (I want A range. what is the meaning of getting B+??????)<br /><br />No exam. Just do experiment twice a week ( a whole afternoon). Write a lab manual. Total 4 days in teaching secondary school student (full day).<br /><br />All I want to say is, if you havent tried to plan an experiment from scratch, then I think this is a good course for to learn a lot of stuff. In this course, you and your partner have to design experiment for secondary school student. Experiment included playing with liquid nitrogen to crush finger nails (fun, I would say), design primer, design pcr protocol, debug your experiment. <br /><br />For me, as I have experience in planning experiment, design primer, pcr setting, the only goal I want is to get a good grade like A range. <br /><br />Ho Yi Mak should quantify the making standard in order to make this course fair.&nbsp;&nbsp;Not just only based on his observation to grade but use the lab result to grade. Honestly, my group has the best result, but I just get B+. IN MY OPINION, THIS IS NOT FKING FAIR.",
+      "comment_teaching": "fk you, bad grade",
+      "comment_grading": "FFFFFFFFFFFFFFKKKKKKKKKK you <br />I should have get A range. B+? no way!!!!!",
+      "comment_workload": "Fk you Prof Mak",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 12,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

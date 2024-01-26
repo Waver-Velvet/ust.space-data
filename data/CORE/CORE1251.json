@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 3904,
+    "subject": "CORE",
+    "code": "1251",
+    "name": "Optimizing Decisions for Personal and Business Development",
+    "description": "This course introduces basic analytical tools that can be used to optimize decisions for personal and business development. Students will learn different tools for scenarios encountered by individuals and companies in real life. For example, how to make decisions when one has limited resources? How to make intelligent decisions for now when one needs to make subsequent decisions later? How to make smart decisions when interacting with other people whose decisions also affect the final outcomes? How to gain insight from data by conducting basic data analytics?",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230
+    ],
+    "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1401\" href=\"/review/CORE1401\" target=\"_blank\">CORE 1401</a> OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1402\" href=\"/review/CORE1402\" target=\"_blank\">CORE 1402</a> OR CORE 1403 OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1404\" href=\"/review/CORE1404\" target=\"_blank\">CORE 1404</a> OR LANG 1002 (prior to 2022-23)",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"2170\" href=\"/review/CIVL2170\" target=\"_blank\">CIVL 2170</a>, <a class=\"course-link\" data-subject=\"IEDA\" data-code=\"3010\" href=\"/review/IEDA3010\" target=\"_blank\">IEDA 3010</a>, <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3710\" href=\"/review/ISOM3710\" target=\"_blank\">ISOM 3710</a>",
+    "rating_content": 4,
+    "rating_teaching": 2,
+    "rating_grading": 3,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 948,
+        "name": "WANG, Xin",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "8SgnKZa28xPwciPsieXiTz7rM0Fj4rCb",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 948,
+          "name": "WANG, Xin",
+          "rating": 1
+        }
+      ],
+      "author": "empathy",
+      "date": "Jun 11, 2023",
+      "title": "An interesting course if you don&#039;t care about the grading",
+      "comment_content": "This course is like an introductory course in IEDA and operation management. <br />Here are some topics in the lecture. <br />- Introduction to Optimization<br />- Linear Programming <br />- Probability Basics<br />- Sequential Decision making<br />- Game Theory <br />- Waiting Lines Analysis <br />- Task Scheduling <br />- Investment <br />- Human Behaviors in Decision Making<br />The covered content is just a brief idea and an opening. If you don&#039;t hate math or calculation, I think you will find it interesting and even worthwhile.",
+      "comment_teaching": "I would say the professor and TAs are friendly. You are welcome to ask them questions after the lecture and tutorials. Their ppt are quite clear and easily read. <br />However, the lecture is quite boring and you cannot often chat with your friends as the professor will ask you to stop talking. It is quite embarrassing I will say. And the TAs are not really helpful at all. They are willing to answer you but their explanation are not clear enough.",
+      "comment_grading": "Official grading scheme: <br />Assignment: 20%<br />Midterm Exam 1: 40%<br />Midterm Exam 2: 40%<br />Bonus points: 2% for class participation<br />(In fact only few students answer the questions, so I still wrote attendance is needed. It won&#039;t affect your grade a lot actually. )<br /><br />Maybe the content is not very hard, so the mean and median of the exams and assignments are very high. It is not very difficult to get marks but very hard to get high and even full marks. You will always get careless mistakes. HAHA. Good luck to you all! <br /><br />Here for your reference. <br />Assignment: 27/30<br />Midterm 1: 42/48 (Mean: 40.7)<br />Midterm 2: 51/60 (Mean: 49.27)<br />Grade: B",
+      "comment_workload": "There are 4 assignments and 2 midterms in total. The best 3 grades out of 4 assignments will be used for the final assignment grade. Each of them contains 3-4 questions and you have around 1 week to finish it. However, the questions are a bit hard except for the first assignment. They may be even more complicated than those in the exams.",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

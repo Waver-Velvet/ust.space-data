@@ -1,0 +1,151 @@
+{
+  "course": {
+    "id": 1396,
+    "subject": "MECH",
+    "code": "3670",
+    "name": "Aircraft Performance and Stability",
+    "description": "Introduction to the dynamics and control of atmospheric flight vehicles. Airplan performance, static longitudinal stability, maneuvering flight, directional stability and control, control surfaces, aerodynamic coefficients, flying modes, Laplace transform, open and feedback control, stall recovery. For science and engineering students in their second year of study or above.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1830,
+      1730,
+      1630,
+      1530
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CENG\" data-code=\"2220\" href=\"/review/CENG2220\" target=\"_blank\">CENG 2220</a> OR <a class=\"course-link\" data-subject=\"CIVL\" data-code=\"2510\" href=\"/review/CIVL2510\" target=\"_blank\">CIVL 2510</a> OR <a class=\"course-link\" data-subject=\"MECH\" data-code=\"1907\" href=\"/review/MECH1907\" target=\"_blank\">MECH 1907</a> OR <a class=\"course-link\" data-subject=\"MECH\" data-code=\"2020\" href=\"/review/MECH2020\" target=\"_blank\">MECH 2020</a> OR <a class=\"course-link\" data-subject=\"MECH\" data-code=\"2210\" href=\"/review/MECH2210\" target=\"_blank\">MECH 2210</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.33,
+    "rating_teaching": 5,
+    "rating_grading": 4.33,
+    "rating_workload": 4.33,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1261,
+        "name": "REDONNET, Stephane",
+        "count": 3
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "WB0wzve7TS4QY4Ok2mBzpp2I4RwT30kD",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1261,
+          "name": "REDONNET, Stephane",
+          "rating": 1
+        }
+      ],
+      "author": "An225 Mriya",
+      "date": "Jan 21, 2023",
+      "title": "Great Teaching, Rigorous Grading",
+      "comment_content": "Perhaps being his style, most contents of MECH3670 are condensed into 2 chapters. As a result a set of lecture Powerpoint slides can go up to 70-80 pages and taught in 4-5 weeks of lectures.<br /><br />1. Introduction<br />2. Background notions<br />3. Equations of motions<br />3.1. Reference frames<br />3.2. Equilibrium flight models<br />3.3. Flight dynamics and application in takeoff and landings<br />3.4. Euler angles and rotation matrices<br />3.5. Derivation of the equations of motions (EOMs)<br />3.6. Linearization of EOMs and stability derivatives<br />4. Stability<br />4.1. Static stability<br />4.1.1. Longitudinal stability<br />4.1.2. Lateral-directional stability<br />4.2. Dynamic stability<br />4.2.1. Phugoid and reduced-order model<br />4.2.2. Longitudinal stability<br />4.2.3. Lateral-directional stability<br />4.3. Control response<br /><br />Chapter 2 covers the components of fixed-wing aircraft, basic aerodynamics, propulsion and the standard atmosphere. You should be familiar if you have taken MECH1907. That said, these contents mostly served as the introduction of the course, and aren&#039;t that examined/used in exams and the project.<br /><br />In Chapter 3, the equilibrium flight models are understandable (and also taught in MECH1907 as well), though there are a ton of derived equations from these flight conditions. Perhaps the most mind-blowing contents are the full and linearized EOMs, in which you&#039;ll need to chase with the derivation of a nonlinear coupled equation set, and in order to linearize that stuff, you&#039;ll then need to complicate the equations.<br /><br />Chapter 4 is about stability. For static stability you basically need to use stability derivatives to find out how much should we deploy control surfaces, while for dynamic stability we use the linearized EOMs to derive the general behaviour (response) of aircraft to perturbations.<br /><br />In general, these knowledge are really useful in the aviation industry from aircraft designers to pilots (a career that many Professor Redonnet&#039;s students pursued, according to his own narrative), so an A is definitely given.",
+      "comment_teaching": "As mentioned before, Professor Stephane Redonnet was in charge of the course&#039;s lectures and tutorials. He is French, and indeed spoke a mild French accent. In fact his lecture notes also have a few spelling errors by using French words (eg. gaz instead of gas). Both didn&#039;t affect understanding. No digital devices were allowed on lectures, in which some of my friends complained that this caused substantial difficulty to take note using tablets. You are advised to bring a paper notebook to take notes during lectures.<br /><br />Professor Redonnet&#039;s teaching is comprehensive and lively, although sometimes he could spin off from the contents a bit. Similar to MECH3640, aircraft examples were used widely on his lectures to reinforce the contents about stability, although it seems that he was less-knowledgeable outside of the Western aviation industry. After lectures, he was also ready to answer to student&#039;s questions in person or by email.<br /><br />Perhaps one of the most commendable aspect was that he taught the course in a project-oriented way, in his own words, &quot;your future career is defined by your task performances, not exam scores&quot; (not exact words but similar meanings). There were no homeworks throughout MECH3670, and the project was also quite open-ended in its first phase: one has to define a route and flight plan for your Boeing 747. It could be baffling to those unexperienced, but I think these kind of engineering project work prepares me better for MECH3620 and the FYP.",
+      "comment_grading": "Class participation: 5%<br />Midterm exam (optional): 15% (83.9%, mean 69.35%)<br />Project: 35% (Never released)<br />Final: 45% (Never released per MAE practice)<br /><br />The midterm exam is purely knowledge-based (i.e. no calculation), fully MC and closed book (cheat sheet available). Professor Redonnet said that it is purely voluntary, and a different grading system will be used for absent students, although one are still strongly recommended to take it as a precaution. The questions (with 2 additional bonus questions) were generally understandable, although some could be conceptually-challenging. Grading was based on the highest actual score (maximum 31/35), with the person attaining the highest actual score get a 100% grade.<br /><br />The project was the mainstay of the course, in which a 3-student group was tasked to analyze the performance and stability of a Boeing 747 (model self-defined, although he gave us information about Boeing 741 and 744). Professor Redonnet claimed that the average score ranges about 75%, but I&#039;m not sure whether this is true for this semester.<br /><br />The final exam contained 4 calculation questions, and was closed book. Only a A4 size hand-written cheat sheet was allowed. As mentioned by professor, most of the questions were similar to the tutorial questions, and tutorial questions were copied from past papers. Again thanks to MECH department&#039;s black box operation, none of the project and final exam grades were released.<br /><br />At the end I got a B for the course, while my other groupmates get a B- and C-range grade. Without grading information, I&#039;m unable to ascertain whether a screwed final exam or project caused this kind of grade.",
+      "comment_workload": "Before the announcement of group project in early November, basically zero. Although for your understanding, you are strongly recommended to run through the math derivations in order to make sure that you understanding the EOMs.<br /><br />Tutorials contents covered how to solve practical problems using what was taught in lectures. I agree the comment that &quot;[t]hey can contribute no less than attending lectures&quot;, as problems were seldom mentioned in lectures. That said, some of the tutorials at the beginning can be quite dull, as not much new knowledge was required to solve problems. Apart from tutorial questions, HKUST library also has a copy of the textbook, in which there were questions as well. Try to complete some of them to prepare for the final exam.<br /><br />After November, the main workload came from the project. As mentioned before the first phase of the project was quite open-ended: one needs to define a flight plan that encompasses some distance (such as from Hong Kong to Taipei, etc.). This could be confusing if you aren&#039;t familiar with, but try to just plunge forward. ADS-B tracker websites were useful in these cases, and you can try to start your work based on their data.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "4VAKhs1su32oBb7RC9rK2sNGnPL62Xb8",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1261,
+          "name": "REDONNET, Stephane",
+          "rating": 1
+        }
+      ],
+      "author": "Zechidlin",
+      "date": "Jan 06, 2022",
+      "title": "Good grade course",
+      "comment_content": "I actually did not listen to the lectures in most time. All you have to deal with is simply equation of motions, which can be easily written down and (hopefully) solved without significant difficulty. The last few lectures’ content somehow overlapped with that of MECH 3610, so you can imagine playing with 2nd ODE again with the similar physical models.&nbsp;&nbsp;This course requires a little bit of knowledge in linear algebra, actually not much, but if you do have the background things can be easier, like finding the inverse of orthonormal matrices. Summary: not hard at all. The only surprise came from an occasion when I looked at the screen and found a tensor product thing, which I personally seen as something more often seen in advanced courses in theoretical physics.",
+      "comment_teaching": "Prof. Redonnet is definitely one of the most responsible and passionate professors in HKUST, and I can rank him among the top 3 professors in MAE department in terms of teaching and cheering us up. His slides were clear, informative and while organized, elegant in a French way. Do not hesitate to ask him questions when you are confused with the course content. <br /><br />Please note that do come to the tutorials and solve the problems. They can contribute no less than attending lectures to the final exam.",
+      "comment_grading": "Very good grading. I screwed up the final, with a set of EOM completely wrongly written in P2; completely fkd up the midterm, ended up with an A. The score for the projects and final were not released, and I do not have much confidence in them. Tutorial attendance accounted for 5%.<br /><br />FYI, there were two grading schemes, one counts midterm while the other does not. I scored mean in midterm, which purely contained conceptual questions (with notable difficulty though!) .Final exam was consisted of 4 problems, with the last one being a bonus question that worths 20 points. The maximum score you can obtain is 100, p1-p2-p3=30-40-30. The bonus question was easy, so I guess perhaps most of the classmates solved it. See? Very good grade course indeed.<br /><br />PS: Before the final exam, I happened to listen to La Marseilles the night before and played it over and over again in my mind during the final, especially the ‘Marchons, Marchons’ part. Perhaps the French anthem helped with my final.",
+      "comment_workload": "Very light. All you have to do is to finish a project that asked you to analyze the stability and performance of a Boeing-747 (Prof may change the aircraft type to another in future) that is further divided into two phases, with phase I’s ddl postponed since someone found them busy, and phase II lasted a whole month (although it was the month in which finals took place), in a group of 4 ppl. Our group had a free rider, nonetheless we managed to complete the task using a considerable but not too much time. Some additional workload may come from making your own cheat sheet for the final.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "KdCwJKOWhg5NLnELbaeqXgx0DfjDRVUn",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 1261,
+          "name": "REDONNET, Stephane",
+          "rating": 1
+        }
+      ],
+      "author": "販冰兵",
+      "date": "May 14, 2020",
+      "title": "FRA1001 Intro to French accent",
+      "comment_content": "Content : Introduction to flight dynamics wrtaircraft performance &amp; stability<br />Fundamentals of&nbsp;&nbsp;flight dynamics<br />Key concepts of&nbsp;&nbsp;aircraft static &amp; dynamic stability<br />Basic control methods pertaining to flight performance &amp; stability<br />Methodological tools for analyzing the performance &amp; stability characteristics of&nbsp;&nbsp;aircraft",
+      "comment_teaching": "Stephane is a new professor in UST and he is relatively new to teaching. But he is very approachable and always willing to chat with students and help out with problems. <br /><br />He would personally teaches all the tutorial sections (In fact this is the first time I ever see Prof would do this in UST) and solve computational problems together.<br /><br />He had a &quot;special&quot; accent (U will know what I mean when u meet him😏), but once you got used to it it will be fine.",
+      "comment_grading": "Typical grades for a MECH course. Mean around C to B. Stephane is very generous with gradings when it comes to homework. So the scores you get in midterms and final exams will be detrimental to the final grade.",
+      "comment_workload": "The workload for this course is not really heavy. Other than the mid-terms and finals, you will also have to complete 2-3 homework sets. However, these homework sets were quite different from the typical assignments that you might get from other MECH courses, those homework sets were more like the so called &quot;projects&quot; you will get in other courses. For example, one of the homework sets require you to work with a groupmate and write reports after trying out with different configurations on a glider. Tbh I prefer these kind of project-based assignments rather that the tedious calculation-based assignment we normally get in MECH courses.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

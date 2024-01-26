@@ -1,0 +1,128 @@
+{
+  "course": {
+    "id": 454,
+    "subject": "GBUS",
+    "code": "2020",
+    "name": "Public Service Project",
+    "description": "This is a project-based service-learning course with the aim to nurture students' passion in socially responsible leadership. Students will collaborate with a non-governmental organization to design, lead, and implement a service project. For GBUS students only. Graded P or F.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2330,
+      2230,
+      2210,
+      2130,
+      2110,
+      2030,
+      2010,
+      1930,
+      1910,
+      1830,
+      1810,
+      1730,
+      1710,
+      1640,
+      1630,
+      1610,
+      1530,
+      1510,
+      1430,
+      1420,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 4.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 239,
+        "name": "LAFON-VINAIS, Veronique J A",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "q5xuGV96NQOjB5jbsGLQI84Hw8svOc4z",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 239,
+          "name": "LAFON-VINAIS, Veronique J A",
+          "rating": 1
+        }
+      ],
+      "author": "Tiffany So",
+      "date": "Aug 25, 2021",
+      "title": "Easy Pass/Fail",
+      "comment_content": "Requires you to reach out to a non-profit organisation and help them solve existing problems.<br />Basically management consulting but for NGOs.<br /><br />This is a required course for Global Business Students. It aims to cultivate your attentiveness and commitment in being a socially responsible citizen through service learning. <br />The service learning approach goes beyond the traditional volunteering of time in community services. It is a form of<br />experiential education that allows you integrate your business knowledge and skill with meaningful community services in order to effect positive change in the community. It is also an opportunity for you to demonstrate and actualize your commitment to society, and to learn &quot;how to serve&quot;. Moreover, your learning about civic responsibility is enriched through self-reflecting your personal experiences. In this course, you will collaborate with a non-governmental organization (NGO) to design, lead and implementa service project. This course is one-credit and is graded on P/F basis.",
+      "comment_teaching": "The project framework/progress is all self initiated by group throughout project.<br />So better find good teammates and have connections with NGO.<br /><br />There is no scheduled class time. You are expected to take initiative in managing project meetings and activities with your NGO partners and among team members. You are expected to observe the deadlines for project deliverables and to seek advice and feedback from the Course Coordinator proactively.",
+      "comment_grading": "Pass/Fail grading, as long as you pass the NGO selection round, it will be fine.<br />If the nature of your project prevents you from following the stated schedule, you can discuss with the Course Coordinator and obtain approval for alternative arrangements. So it is very flexible in general.",
+      "comment_workload": "Not too much workload if have good teammates and good relationship with NGO.<br /><br />This is a student-driven service learning course. You are strongly encouraged to initiate a project based<br />on your own strong interest in a social cause and to collaborate with an NGO of your choice. You are<br />expected to play an active and leadership role in both the planning and execution of a service project, and devote a minimum of 40 hours to achieve the course intended learning outcomes.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "FXCCpz2iIqS7MpTtRg7YkVatSPxOKvKb",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 239,
+          "name": "LAFON-VINAIS, Veronique J A",
+          "rating": 1
+        }
+      ],
+      "author": "Jessiiiiica",
+      "date": "Jan 28, 2018",
+      "title": "",
+      "comment_content": "You have to find a project yourself or in my year, we had this project called WeCan. With the project, you just have to show that you&#039;ve done something to help the community.",
+      "comment_teaching": "There isn&#039;t a lot of teaching. Since I did the project WeCan which was a mass project organized by GBUS and a bunch of schools, Alice gave us all the templates of the documents that we had to fill in.",
+      "comment_grading": "It&#039;s a pass/fail class, pretty much impossible to fail.",
+      "comment_workload": "I think there were a few reflection papers to write but the workload is really little. Except if you&#039;re actually bothered to physically go to the organization you&#039;re helping, then you basically don&#039;t need to do much.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

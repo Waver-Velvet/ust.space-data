@@ -1,0 +1,1625 @@
+{
+  "course": {
+    "id": 783,
+    "subject": "LIFS",
+    "code": "2070",
+    "name": "Introduction to Biotechnology",
+    "description": "Advancement in science has enabled scientists to modify biological systems for specific purposes. Many of these technologies have been used to improve our daily life and this area of study is commonly referred to as biotechnology. This course is designed to introduce some of the major subjects in this field including the history of biotechnology, ethics in genetic modification and use of animals in experimental studies, molecular foundation of biotechnology, animal biotechnology, plant and agricultural biotechnology, and health-care applications. You will learn how different aspects of biotechnology affect our daily life and have impact on the society.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"LIFS\" data-code=\"1902\" href=\"/review/LIFS1902\" target=\"_blank\">LIFS 1902</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3.39,
+    "rating_teaching": 2.61,
+    "rating_grading": 3.61,
+    "rating_workload": 3.72,
+    "review_count": 36,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 492,
+        "name": "TSIM, Karl Wah Keung",
+        "count": 33
+      },
+      {
+        "id": 502,
+        "name": "WONG, Joseph Tin Yum",
+        "count": 29
+      },
+      {
+        "id": 489,
+        "name": "WONG, Wan Keung",
+        "count": 23
+      },
+      {
+        "id": 1541,
+        "name": "HIRANO, Yukinori",
+        "count": 11
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "bQaDnm1i5w5RtumYptUAn86ormIM5xue",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1541,
+          "name": "HIRANO, Yukinori",
+          "rating": 1
+        },
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        }
+      ],
+      "author": "Rosy",
+      "date": "Jan 25, 2024",
+      "title": "",
+      "comment_content": "Most of them are related to biotechnology in different industries. This course includes basic and standard biotechnology techniques like CRISPR technology and vaccine production. Some content will be similar between the two instructors, like the gene-editing technique.",
+      "comment_teaching": "Both two instructors are good, fun teaching, and the concepts are not difficult to understand",
+      "comment_grading": "The grading is good.",
+      "comment_workload": "The workload is acceptable. There are just three exams throughout the semester, which are relatively short. If you study, it will be ok. The three exams will be separate evenly through out the semester and the last one will be before the exam period.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "dNSpWPodvVdRu8PSFeX2YtsQ3o1MEgP8",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 1541,
+          "name": "HIRANO, Yukinori",
+          "rating": 1
+        }
+      ],
+      "author": "goodgoodbird",
+      "date": "Jan 24, 2024",
+      "title": "",
+      "comment_content": "sry英文唔係幾好<br />內容就真係intro咋，睇ppt就可以理解到<br />考試都係考highlight嘅重點<br />個人覺得ok",
+      "comment_teaching": "兩位老師都講得幾清楚<br />因為聽hirano上堂較多，對佢印象深啲。hirano講野其實算清楚嘅，同埋ppt都好清晰，要考咩就highlight。同埋佢會早啲落堂。",
+      "comment_grading": "正正常常，冇乜特別有講嘅",
+      "comment_workload": "冇功課，wordload唔大，三次考試都唔算難，只要你有睇ppt就可以。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "wMnD3ux8ckIzM3IgEZIZeDK2qaDPkbYS",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 1541,
+          "name": "HIRANO, Yukinori",
+          "rating": 1
+        }
+      ],
+      "author": "OscarChan",
+      "date": "Dec 04, 2023",
+      "title": "",
+      "comment_content": "TSIM&#039;s part is ok, exams like past paper but add jor some essay questions, one ridiculous part is that we cn not maximize our marks by answering all questions, must need choose one not to answer.<br />ANGELA&#039;s part exam have T/F MC and bonus essay type questions, actually 9 write some also have some marks, many ppl got full marks becuz of the bonus.<br />HIRANO&#039;s part exam got MC only, all important slides are highlighted in orange so actually can save lots of time wasting on useless pages, no need to attend lesson dou can get high marks by looking at past paper and only the orange slides",
+      "comment_teaching": "overall good becuz have a quite good grading, i guess most science B students must take this course, hope you will be doing well! :)",
+      "comment_grading": "1 st 26%<br />2 nd 30%<br />3 rd 44%<br />not yet know the range yet at lease i got around 80-90 overall",
+      "comment_workload": "TSIM and ANGELA lessons are useful but last part not useful, i have lesson but dou not listening to it. Just look at the important orange slides then ok",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "E2dIzrdEsXnGZDIYxgCUhqGazMjKNdfK",
+      "semester": "2023-24 Fall",
+      "instructors": [],
+      "author": "Connie Chenggg",
+      "date": "Sep 18, 2023",
+      "title": "",
+      "comment_content": "At the first stage of the class ,he would introduce some basics stuff about photography and how to use different functions about camera. Then we will practice during the class outside the classroom.&nbsp;&nbsp;After we handed in our homework (5 photos we took during field trips), we had to share to everyone. Though it is not serious presentation that we just had to speak on our seats, it made the class boring! Moreover, the instructor allowed people to speak in Cantonese. Therefore you won&#039;t understand what they are talking about.",
+      "comment_teaching": "it is good,the professors&#039; teaching method is gd",
+      "comment_grading": "The grading is not bad.<br />For professor Karl TSIM part, just try to memorize the content, and the exam is easy if you work hard.<br />For professor Joseph WONG, I got below mean, but I forget the exact marks<br />Professor HIRANO, a little bit special, will create an EXCEL form and allow students to ask questions and answer others. You can gain maximum marks when you ask 2 questions and 1 answer, by the way, you can answer the questions by making a ppt around 4 pages, and you can get more bonus marks. He also labels all the pages that will be included in the examination, so it is quite easy to get full marks in his part.",
+      "comment_workload": "The workload is quite small. only midterm and final",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "gd63xkswOyeWFjcObOGbffPXNI9l6P4p",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 1541,
+          "name": "HIRANO, Yukinori",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        }
+      ],
+      "author": "yshhhhhh",
+      "date": "Feb 07, 2023",
+      "title": "Not difficult course",
+      "comment_content": "The whole lecture divided into 3 parts<br />The first part was taught by professor Karl TSIM:<br />1. The biotechnology Century and its workforce<br />2. An introduction to genes and genomes<br />3. Recombinant DNA technology and Genomics<br />4. Protein as products<br />5. Guest lecture <br />The second part was taught by professor Joseph WONG :<br /> Introduction<br />Viruses<br />plant biotechnology<br />cellulase+cell wall+biofuel<br />malaria<br />aquatic biotechnology<br />The third part was taught by professor HIRANO :<br />1. Overview of biotechnology<br />2. biotechnology for the biotechnology to conduct basic and applied science<br />3. biotechnology in scientific discovery<br />4. biotechnology in medical science",
+      "comment_teaching": "For professor Karl TSIM, in his part, each lecture will finish teaching a ppt around 70 pages, he taught quite fast and sometimes skip some pages, but he explain the important concepts clearly, which is enough. You may have to watch the recording to make sure you fully understand. (B)<br />For professor Joseph WONG, I totally cannot follow him, he will jump to any page of his PowerPoint, and sometimes I even cannot find that page in my PowerPoint. So just try your best. (C-D)<br />Professor HIRANO is one of the best professors at UST in my opinion. He explains the concept very very clearly, and sometimes he will explain twice, he will also highlight the part which will be included in the examination. Very Very nice professor. (A++)<br />Overall B",
+      "comment_grading": "The grading is not bad.<br />For professor Karl TSIM part, I got ~91/100, just try to memorize the content, and the exam is easy if you work hard.<br />For professor Joseph WONG, I got below mean, but I forget the exact marks<br />Professor HIRANO, a little bit special, will create an EXCEL form and allow students to ask questions and answer others. You can gain maximum marks when you ask 2 questions and 1 answer, by the way, you can answer the questions by making a ppt around 4 pages, and you can get more bonus marks. He also labels all the pages that will be included in the examination, so it is quite easy to get full marks in his part.",
+      "comment_workload": "The workload is not high, only mid-term and final, just make sure you understand the content.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "mGIqaJStTolvTzcjKoKtSIei5v57uNBv",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        },
+        {
+          "id": 1541,
+          "name": "HIRANO, Yukinori",
+          "rating": 1
+        }
+      ],
+      "author": "Plus+",
+      "date": "Feb 01, 2023",
+      "title": "",
+      "comment_content": "For Class Schedule and Grading see Attachment",
+      "comment_teaching": "Karl Tsim and Hirano are decent lecturers. They always share some of their own ideas and experience in research and their academic life with us but still able to keep up with the class schedule. However, for Joseph Wong, he always go off topic too much and cannot keep up with schedule. And he does not upload the lecture materials on time, even until the mid term starts. And his ppt slides are hard to understand, so you better attend his lectures.",
+      "comment_grading": "Overall, not too bad. Just attend the lectures and go through the lecture materials, and you will be fine. However, because Hirano&#039;s section has the highest grade contribution, you better do your best to score higher marks there. Hirano also has bonus marks like making ppt slides about the topics he was teaching. So, I highly recommend you to do that to get better grade.",
+      "comment_workload": "Overall, not much workload. Most workload comes from the 3 midterms, so you have to constantly study for the exam.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "X4D1aCzn93Ac4sQgy1iJDbtTvhejauHP",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 1541,
+          "name": "HIRANO, Yukinori",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 1
+        }
+      ],
+      "author": "武川內庫",
+      "date": "Jan 31, 2023",
+      "title": "",
+      "comment_content": "1 5-Sept-22 Introduction to biotechnology Tsim<br />2 7-Sept-22 Application of biotechnology Tsim<br />3 14-Sept-22 Molecular foundation of biotechnology Tsim<br />4 19-Sept-22 Biotechnology tools in research &amp; development Tsim /Leung<br />5 21-Sept-22 Testing and Certification Industry and Relevant <br />ISO Standards<br />Tsim / R Wong<br />6 26-Sept-22 Biotechnology tools in research &amp; development Tsim / Leung<br />7 28-Sept-22 Assessment 1 (26%) – [6 lectures, No. 1-6] Tsim / Leung<br />Technological approaches and achievements in <br />animal, plant, and marine biotechnology<br />J Wong<br />15 26-Oct-22 Assessment 2 (30%) – [7 lectures, No. 8-14] J Wong<br /><br />Basic and practical knowledge/means in <br />biotechnology<br />Biotechnology in industry, environment, <br />scientific discovery, and medical science<br />Assessment 3 (44%) [9 lectures No. 16-24] Hirano",
+      "comment_teaching": "Karl has a Hong Kong accent but is understandable. His slides have an average of 80-90 pages. He went to Italy for two weeks mid-semester and skipped much of the in-depth content in the slides. Luckily, those parts weren&#039;t examined. The only thing I remember from his lecture is that he always saw Sydney Berner zero-copying in Cambridge.<br /><br />For joseph, many of his students found his slides hard to understand as the content was scattered (some pages copied from Google and other websites). He sometimes included Cantonese, which makes it rather difficult for non-locals to understand. However, it was interesting to hear about his experience with cooking salmon in the UK. It would also be greater if he addresses the audience more often by having more eye contact. <br /><br />Prof. Hirano made efforts in his teaching and had good use of ppt slides. He encourages question-asking and topic exploration.",
+      "comment_grading": "Good grading. Content is not so in-depth and would be okay if you&#039;re good at memorizing.",
+      "comment_workload": "Light workload as there are only three assessments.<br />However, to acquire bonus points from prof. Hirano, you have to answer questions on the Excel sheet and make a ppt.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Bo4D2wl1F1IMYiqzSD72yymXpJlrrii3",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        },
+        {
+          "id": 1541,
+          "name": "HIRANO, Yukinori",
+          "rating": 1
+        }
+      ],
+      "author": "King527",
+      "date": "Dec 30, 2022",
+      "title": "Good luck to all of you reading this review",
+      "comment_content": "General:<br />All 3 instructors covered different topics. However, some of the topics were the same. So sometimes you had to listen to the same thing 3 times, which was kind of useless. <br /><br />Tsim:<br />His part covered many techniques of biotechnology. Content-wise, I think this part was the most useful. However, since those were just techniques it could be very boring. Tsim also had the largest amount of content among all 3 instructors. This made his part very tedious. <br /><br />Joseph Wong:<br />His part was the most bizarre thing I have encountered in UST. His content was so unorganized. Sometimes he talked about viruses, and then he talked about genetics. The next day he could be talking about aquatic biotechnology and plant technology. While it seemed to be more interesting than Karl&#039;s part, the things Joseph Wong talked about were so strange that you won&#039;t even understand why they were there. For example, he talked about different kinds of fish in aquatic biotechnology. But he did not talk about them because there are different properties when using different fishes. He talked about them because of whatever reasons. He did not talk about the properties of different fishes. He only talked about their names. Then what could you learn from this apart from some scientific names of some fishes you see on your dining table? Stuff like this happened all the time throughout his part. So, yeah. Good luck with that.<br /><br />Hirano:<br />His part was way more interesting than the other two. Maybe because he is in the neuroscience field, the things he talked about were more intriguing. The things he talked about made sense. You get to know the why and what and the connection between different topics.",
+      "comment_teaching": "General: <br />All of them read from their PowerPoint most of the time. So in my humble opinion, there is no reason to attend the lectures if you read through the PowerPoint. If the teaching made me think of this, that means the teaching quality was bad. There was simply no incentive for you to attend the lectures. <br /><br />Tsim:<br />He usually taught by reading the PowerPoint from the publisher. However, given the enormous amount of content he had to teach, he skipped so many things that were supposedly included in the exam. However, he liked asking questions to students. So there were some kind of interactions if that&#039;s what you care about. <br /><br />Joseph Wong:<br />How do I begin? He got dyslexia or something like that. So he has to be very good at researching to get to this position. Although he may be very good at researching, his teaching ability is in Bikini Bottom and you can even see Spongebob and Patrick there. What a mess. He made his slides. However, I don&#039;t know whether it was because he had dyslexia or he was so bad at teaching, his slides demonstrated some of the worse possible uses of presentation tools I have seen in my entire life. He put so many graphs and photos in the slides without illustrations. He shared his slides in a strange way that somehow 2 slides made up one page of the document, which made it difficult to revise.&nbsp;&nbsp;He also talked about things not included in his slides and those things may be tested as well. The worse part was he talked about his stuff that was unrelated to the exam. And he did that a lot. Therefore he fell behind the schedule and guess what? He skipped the important things that would be in the exam and continued his adventure with salmon. If you care about your GPA, this would be one of the biggest hurdles you have to overcome. <br /><br />Hirano:<br />He was enthusiastic about the things he taught. His slides were clear and organized. He enjoyed interacting with students as well. He organized a workshop to share his journey of becoming a scientist. The point is he did it after the final. So it would not affect students when they were studying for the exams. He is the best among the 3 in terms of teaching.",
+      "comment_grading": "General: The grading was between ok and good. The grading is possibly the best part of this course. Be aware that the official name of the exams is &quot;assignment&quot;. There were 3 exams, one for each instructor.<br /><br />First Learning Assessment:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;26%<br />Second Learning Assessment:&nbsp;&nbsp;&nbsp;&nbsp;30%<br />Third Learning Assessment:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;44%<br /><br />Tsim (first):<br />His part was fairly easy when compared to the things he taught in class. His exam mainly asked about the names of different techniques instead of the process or rationale. Therefore, as long as you have studied, his part would not be that difficult. <br /><br />Joseph Wong (second):<br />His part was the most difficult. Apart from the terrible teaching quality, his part covered things that were not taught in lectures. Moreover, some of the questions were so strange. Therefore, it is very hard to prepare for his part. Also, his exam only had 25 questions. Therefore, each question was very &quot;valuable&quot; in terms of your score. So it is important to revise earlier for his part. <br /><br />Hirano (third):<br />His part was a bit different than the other two instructors. His grading scheme consisted of 3 parts: asking questions, answering questions, and final exam. For the first two parts, all you have to do is type 2 questions in a shared excel file and answer 1 question raised by others by making a 6-7 pages PowerPoint (including cover page and references). So basically everyone got full marks for the first 2 parts. The last part would be a normal exam. However, the maximum attainable score of all 3 parts exceeds 44%. Therefore, as long as you do the first two parts and do not mess up the final exam, you are almost guaranteed to get full marks in Hirano&#039;s part.<br /><br />My score:<br />Tsim: 91/100<br />Joseph Wong: 23/25<br />Hirano: full mark (44%)<br />Grade: A+",
+      "comment_workload": "The workload was light as there were no attendance or projects or homework. However, you have to do a lot to revise for those 3 exams. The first exam took place on 28/9, which was very early in the semester.",
+      "rating_content": 2,
+      "rating_teaching": 2,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "493xZsmmHf5y2uE2jsp00GovDCIO06Yi",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        },
+        {
+          "id": 1541,
+          "name": "HIRANO, Yukinori",
+          "rating": 1
+        }
+      ],
+      "author": "Coconut 23",
+      "date": "Dec 23, 2022",
+      "title": "",
+      "comment_content": "You can refer to the syllabus posted by other students. The content is quite inspiring for me, who is interested in the field of biotechnology. But to be honest, some content is outdated and overall the content is not organised well. Some content was overlapped and repeated by different instructors.",
+      "comment_teaching": "For Karl&#039;s teaching, it&#039;s pretty fair and acceptable. Nothing special but pretty boring for me.<br /><br />For Joseph, be careful, he will jump from one page to another just to deliver an important concept or idea, which will be directly tested in the test. It&#039;s really chaotic for many students since not everyone can get used to this way of delivery. Maybe watching the recordings and skipping the lectures is a better choice since you can immediately replay for what you dont understand. <br /><br />For Yuki, the teaching was pretty good. He will narrow down the scope so that only some really important concepts will be tested. So not much stress in his lessons and he prepared well for that.",
+      "comment_grading": "The grade has not been released yet. <br />For Karl&#039;s part, be careful of the &quot;fill in the blanks&quot;. You have to recite a lot of specific and new terms. It&#039;s more like a dictation.<br /><br />For Joesph&#039;s part, again, be aware of his &quot;message delivery&quot;. <br /><br />For Yuki&#039;s part, you can feel free to enjoy the lesson since the content is not hard. But remember to submit the ppt for bonus, it is critical.",
+      "comment_workload": "No assignments and other quizzes, 3 midterms. So the workload is not that heavy, but rlly need to cram a lot of things for Karl&#039;s midterm.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "psamFmCU2fMJEGWsh60AcUWzhG9pQ6dO",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        },
+        {
+          "id": 1541,
+          "name": "HIRANO, Yukinori",
+          "rating": 1
+        }
+      ],
+      "author": "林渝杭",
+      "date": "Aug 03, 2022",
+      "title": "三份簡單嘅quiz-like exam定生死",
+      "comment_content": "Karl:<br />L1 - Introduction to biotechnology<br />L2 - Application of biotechnology<br />L3 - Molecular foundation of biotechnology<br />L4 - Biotechnology tools in research &amp; development<br />L5 - Testing and Certification Industry and Relevant ISO Standards (Guest Lecture)<br />L6 - Biotechnology tools in research &amp; development<br /><br />Joseph:<br />L?? - Technological approaches and achievements in<br />animal, plant, and marine biotechnology<br /><br />Yuki:<br />L1 - Overview<br />[Biotechnology for the biotechnology to conduct basic and applied science]<br />L2 - Practical use of genetic information<br />L3 -&nbsp;&nbsp;Applying engineered genetic information<br />[Biotechnology in Scientific discovery]<br />L4 - Observatory biotechnology<br />L5 - Method of discovery<br />L6 - Manipulating organisms<br />[Biotechnology in Medical science]<br />L7 - Medical analysis<br />L8 - Treatment<br />L9 - Regeneration<br /><br />三份quiz<br /><br />Karl: Closed-book MC + T/F + Fill in the blank + Suggesting methodologies<br /><br />Joseph: Closed-book MC exam (hard)<br /><br />Yuki: Open-book exam (20minutes 15questions in total) easy but need to fight with time",
+      "comment_teaching": "Karl:<br />兩個字「穩陣」，因為佢嘅notes其實都係照copy書嘅內容，就算上堂聽唔明，慢慢睇番佢個notes就得，但佢cover嘅內容其實都多，所以要花D時間去睇同溫，不過多數嘅野都學過哂，只係當重溫。比較要注意嘅位就係佢個Guest Lecture，因為係會考你知唔知ISO/IEC 17020:2012係關於咩之類，成堆number要記。<br /><br />Joseph:<br />一個字「伏」，伏嘅位係內容跳黎跳去，notes係word檔轉成pdf，多圖少字(所以重點要上堂聽佢講)。如果唔上堂會好難知佢想講咩。到exam果陣唔識就會GG。<br /><br />Yuki:<br />第一次黎UST教UG學生，教學質素幾高。內容新鮮又多，而且組織得有條理。精美自製PPT(真PPT)，適量嘅圖同字。日式英語清楚可理解。佢會由第一堂開始整個excel嘅online Q&amp;A比學生如果有問題可以提出同埋回答，呢個會計落Bonus嘅平時分(Bonus participation marks)，如果用PPT回答得好嘅同學會被邀請出黎present，而場上觀眾負責拍手，用分具計量度掌聲而比更高嘅平時分。所以我會話佢嘅教學比較新鮮。利申打手",
+      "comment_grading": "Karl (26%): exam嘅內容可以參考source就唔難<br /><br />Joseph (30%): 伏 (Trap)<br /><br />Yuki (44%): 簡單容易好grade<br /><br />真正要落功夫嘅位係Joseph呢part",
+      "comment_workload": "三份簡單exam<br /><br />但都要煲番d Lecture video明佢講咩，唔係就會GG<br /><br />Source可以幫到Karl果part，但Joseph果part就要專心上堂+死記，而yuki果part只要明個概念就可以。",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 6,
+      "vote_count": 6,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "23Wm0KM8o4ujucj9B6cjKejVwB3tnkWc",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        },
+        {
+          "id": 1541,
+          "name": "HIRANO, Yukinori",
+          "rating": 1
+        }
+      ],
+      "author": "RIbtSU",
+      "date": "Dec 29, 2021",
+      "title": "The teaching is bad but the exams are easy",
+      "comment_content": "Tsim:<br />1. Introduction to Biotechnology<br />2. Application of biotechnology<br />3. Molecular foundation of Biotechnology<br />4. Biotechnology tools in research &amp; development<br />5. Testing and Certification Industry and Relevant<br />ISO Standards<br />6. Biotechnology tools in research &amp; development<br /><br />Wong:<br />7. Animal, plant &amp; marine Biotechnology<br /><br />Hirano:<br />8. Practical knowledge &amp; means in Biotechnology<br />9. Biotechnology in industry, environment, scientific discovery &amp; medical science",
+      "comment_teaching": "Karl Tsim is the best professor among the three. His ppts are clear and the teaching is fair. He sometimes liked to ask students questions.<br /><br />Joseph Wong is the worst among the three. His ppts are messy. His words are very unclear. I totally have no idea what 7 he was saying. Better self-learn for his part. Actually, I have no idea why he can be a professor. If I were lifs department head, the first thing to do is to kick him out. Joseph Wong is totally rubbish honestly.<br /><br />Hirano is fair. He was the first time to teach this course but much better than Joseph Wong.",
+      "comment_grading": "3 assessments<br />Assessment 1: 26% (Karl Tsim)<br />Assessment 2: 30% (Joseph)<br />Final assessment: 44% (Hirano)<br /><br />My score: <br />Assessment 1: 90/100<br />Assessment 2: 23/25<br />Final assessment: 100/100<br />Overall Grade : A+<br /><br />Though the teaching is not good, the exams are all quite easy honestly. If you really spent time memorizing the stuff you must get good grade. <br />The exams didn&#039;t test deeply of the concepts in the lectures, just tested in a simple way, much easier than the stuff gone through in lectures. The exams are tested quite directly.<br /><br />The final exam is open-book so many people get full marks. With bonus mark counted, there are around 80 people got full mark in the final assessment.<br /><br />Therefore, the grading really depends on the first two exams. Dun think that the first two exams occupied a low percentage of marks and no need study!!!",
+      "comment_workload": "No assignment at all. The workload is small, just starting to study a few days before each exam you will get a good grade. The exams are even easier than lifs2210. Your efforts spent are directly proportional to your grade I swear. The exams are direct. You dun even need to understand the concepts deeply, just memorize the basics stuff and you can survive in exams easily.",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "tvf6eJ65EOOrP1F0QWGpKttzdp4blpgv",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        },
+        {
+          "id": 1541,
+          "name": "HIRANO, Yukinori",
+          "rating": 1
+        }
+      ],
+      "author": "Trebmal",
+      "date": "Dec 27, 2021",
+      "title": "Disaster",
+      "comment_content": "Most of the content regarding Biotechnology is taught before in 1902. Hirano&#039;s part will cover more about genetic tools like expression systems and regulation. <br /><br />Tsim:<br />1. Introduction to Biotechnology<br />2. Application of biotechnology <br />3. Molecular foundation of Biotechnology<br />4. Biotechnology tools in research &amp; development<br />5. Testing and Certification Industry and Relevant <br />ISO Standards <br />6. Biotechnology tools in research &amp; development <br /><br />Wong:<br />7. Animal, plant &amp; marine Biotechnology<br /><br />Hirano:<br />8. Practical knowledge &amp; means in Biotechnology<br />9. Biotechnology in industry, environment, scientific discovery &amp; medical science",
+      "comment_teaching": "Tsim: Mainly talks about content in the ppt. Nothing special. <br /><br />Wong: Probably the reason why this course has a bad rating. The ppt slides contain puzzling pictures that are meaningless themselves. Attending his lectures wouldn&#039;t help either. <br /><br />Hirano: Seems to be a new prof. to teach this course, the best out of the three in my opinion. At least his ppt are more readable and he is more engaged in teaching.",
+      "comment_grading": "1st assessment: 26% (Tsim)<br />2nd assessment: 30% (Wong)<br />3rd assessment: 44% (Hirano)<br /><br />For Tsim and Wong, their assessments basically test your ability to memorize factual details, which is the main reason I hate this course. Personally, I don&#039;t find knowing the number of genes in the human genome and the sales of salmons especially useful.<br /><br />Hirano&#039;s assessment is more normal and requires certain level of understanding. Apart from the assessment, he has created a spreadsheet for students to raise and answer questions (2 at maximum). Depending on the quality, he will award you with 5% - 20% bonus, which will be DIRECTLY added to your 3rd assessment score, e.g 70/100 with a 30% bonus = 100/100.<br /><br />My score fyi:<br />1st - 64% (Mean: 59.9%, SD: 18.0%)<br />2nd - 68% (Mean: 66.5%, SD: 12%)<br />3rd - 90% + 30% bonus = 100% (Stats not issued, but many got 100% due to bonus)<br />Final grade: B+",
+      "comment_workload": "No workload. <br />If you want to score high, my advice is to revise every small details in Tsim&#039;s ppt carefully and grab an online E-book for Wong&#039;s part. Otherwise, you can&#039;t even do revision with Wong&#039;s fragmented ppt. For Hirano&#039;s, having the bonuses is a must to secure your score. <br /><br />Good luck to BIOT students who are required to take this course.",
+      "rating_content": 2,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "VvdUHI9M4t2AL0dgDfhPQJcp7GruTlP2",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 0
+        },
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        }
+      ],
+      "author": "grizelyt",
+      "date": "Dec 30, 2020",
+      "title": "讀得好辛苦都係得B range",
+      "comment_content": "三個prof教d嘢一模一樣，重重複複，悶架嘛師兄",
+      "comment_teaching": "Tsim都算ok，用番出版社d ppt，teaching唔比E都係比面Tsim。<br /><br />Joseph完全唔得，有時候講講下嘢會lost focus，ppt成日改，frd話啲powerpoint冇point變左power<br /><br />最後個個當自己係補習天皇，唔用ppt，visualizer寫字係白紙上面，用筷子教書一路寫一路講好慢，唔用兩倍速都唔知道講到邊",
+      "comment_grading": "Tsim份卷算合理，不過考好多detail位，最緊要小心。midterm 1 above mean 2 SD<br /><br />Joseph唔會點出上堂教過嘅嘢，到時自己睇書啦，加油。midterm 2 above mean<br /><br />補習天皇就出outsyll嘢，聽曬堂上面嘅嘢都係識大概八成，RIP final，感覺炒得好勁，分都冇出就出grade，最後B+<br /><br />update:<br />22.88/26 (1st exam), <br />27/30 (2nd exam), <br />32.71/44 (3rd exam) <br />total score of 82.59 (B+) <br /><br />The highest score is 94.35 (A+),<br />and scores 84.2 to 91.36 are awarded grades A- and A. Altogether 24.24% and 44.24% of the class have got &quot;A&quot; and &quot;B&quot;, respectively.",
+      "comment_workload": "冇乜特別嘢要做，睇曬成本書就有B range，勤力d可能有A range。<br />應付karl睇書、做書練習夠你攞above mean，Joseph係睇ppt嘅graph+睇書入面佢負責嘅topic，補習天皇會問佢research做d咩+佢手寫嘅notes，outsyll真係冇得救，節哀順便",
+      "rating_content": 1,
+      "rating_teaching": 2,
+      "rating_grading": 2,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "EVQ5iMhBlnEbbrVGwsk2REyGn77XqztM",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 1
+        },
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 1
+        }
+      ],
+      "author": "Hate1012",
+      "date": "Jan 28, 2019",
+      "title": "Disaster course, god bless to all BIOT stuedens :((((",
+      "comment_content": "A required course of BIOT students, it&#039;s like a hell to all biot students I believe. <br /><br />Before midterm1 (By Prof. Tsim):<br />- Introduction to biotechnology<br />- The history of biotechnology<br />- Outstanding scientific discoveries (Guest talk)<br />- Biotechnology Business in Hong Kong/China<br />- Biotechnology-Testing industry in Hong Kong<br />- Molecular foundation of biotechnology<br />- Biotechnology tools in research &amp; development<br /><br />Before midterm 2 (By Prof. Joseph Wong):<br />Technological approaches and achievements in animal, plant, and algal biotechnology<br /><br />Before final (By Prof WK Wong):<br />- Applications of biotechnology<br />- Legal and ethical issues in biotechnology",
+      "comment_teaching": "WORST TEACHING IS UST AS COMPARED TO Avery Ching!!!!!!!<br /><br />Prof. Tsim is better than the other two, he taught the content of midterm 1, the content was focused on the business side in biot. He sometimes made jokes and his voice was strong. At least you won&#039;t fall asleep during the lessons. But he often shows off his company and how biot can bring you a bucket of coins. <br /><br />Prof. WK Wong is better than Prof Joseph Wong, his teaching was bad though. His notes just contained the years and the famous scientists&#039; names, and the important discoveries related to those years. You have to sit close to the whiteboard because he would write the extra contents on the board. His handwriting was awful and unclear. The extra contents were messy and disorganized. Sometimes he even drew on the whiteboard which was hard to understand. <br /><br />Finally come to an end, the worst of the worst--------------<br />Prof Joseph Wong. What the f**K was he doing? I don&#039;t know! His voice was weak and his English was terrible, he always repeated the same words! He often watched the clock as if he had nothing to teach or had other business that he didn&#039;t want to stay with his students which was not respectful. And his notes? (Open the attachment below and you will know deeper.) Rubbish. You will not have any idea what he was trying to express. <br />Sometimes you just got a link in 1 page of ppt, sometimes you got only one word on a page. His ppt will always surprise you, I guarantee. <br /><br />I need to admit that they must be a successful researcher/ entrepreneur but they must be the worst teacher in the education field!",
+      "comment_grading": "Fair grading as I didn&#039;t revise much and memorize the contents thoroughly. <br /><br />2 midterms + 1 final<br /><br />Midterm 1 (33%)<br />- Forgot all the info.<br />-My score is mean, around 7x/100.<br /><br />Midterm 2 (33%)<br />- Low: 13 /30<br />- Mean: 22.3 /30<br />- Highest: 28/ 30<br />- My score: 22/ 30<br /><br />Final (34%)<br />- Didn&#039;t announce the score.<br /><br />Final grade: C+",
+      "comment_workload": "Has lecture videos but I strongly recommend you not to skip Prof WK Wong&#039;s lectures...<br /><br />For midterm 1, you just have to memorize the powerpoint.<br />There will be MC, fill in the blanks and short questions, they are straightforward.<br /><br />For midterm 2, you just need to go through his notes 2 days before the exam. Although his teaching was worse like hell, his exam was the easiest. All MC, not tricky questions.<br /><br />For final, it was the hardest. It&#039;s like what he wrote on the whiteboard were not correlated to the exam. There will be MC, matching, fill in the blanks and long questions. I just used my 9up ability and my short memory to answer the long questions. Trust me, 90% of the students were scratching their head during the exam. Sigh.",
+      "rating_content": 2,
+      "rating_teaching": 1,
+      "rating_grading": 2,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "8T57Wj3YKcVZ9vtNWsf6cRLPb4Mlgwhz",
+          "name": "LIFS2070 Aquatic Biotechnology_6N",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "tn5iIVMGB8oMZ1z8DlrfI8xT3bk1bnr7",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 1
+        },
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        }
+      ],
+      "author": "jyshin",
+      "date": "Jan 25, 2019",
+      "title": "",
+      "comment_content": "Basics of Biotechnology<br />Same old repeated stuff of DNA-&gt;RNA-&gt;Protein over and over",
+      "comment_teaching": "Tsim focuses on overall content. Broad topics but very shallow in depth. His powerpoints come from a textbook. Quite easy if you just memorize the slides<br /> <br />JOSEPH WONG. Worst lecturer I have faced at HKUST so far. An absolute joker who is confused about his own lectures so how would you expect us, students to not be confused let alone learn anything useful from his lessons. <br />Not really sure what his contents are I think he taught about plant biotech, aquaculture biotech etc. <br />Still, you gotta do what you gotta do so once again memorize the slides and you&#039;ll be right.<br /><br />The Next professor Wong is quite good actually though. He is the most structured out of the three and can actually teach although not the most interesting. He writes on the board so just take good notes and once again memorize and you&#039;ll be good to go.",
+      "comment_grading": "Grading is quite narrow actually.<br />Since there are 2 midterms, one for each lecturer, you have to make sure you perform well in each midterm and the final to get a good grade.<br />But that does mean that final counts for only 1/3. <br />The final exam is definitely the most difficult out of the three.",
+      "comment_workload": "Just like most of LIFS subjects tons of memorizing to do. It would be nice if we could understand the content and make it our own but with the teaching that&#039;s provided, it&#039;s not the easiest. But content wise it&#039;s not rocket science and they are all basic concepts that LIFS students should know so once again, just memorize<br /><br />Good Luck, for biot students you don&#039;t have a choice whether you want to take this subject or not anyways.",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "jpLgVfWs2fsBpYhbyfXXuAKFu41UX14h",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 0
+        },
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        }
+      ],
+      "author": "Ivan25",
+      "date": "Jan 16, 2019",
+      "title": "Badly structured course",
+      "comment_content": "Karl Tsim<br />- Introduction to biotechnology<br />- The history of biotechnology<br />- (Guest lecturer) Biotechnology Business in Hong Kong/China<br />- (Guest lecturer) Testing industry in Hong Kong<br />- Molecular foundation of biotechnology<br />- Biotechnology tools in research &amp; development<br /><br />Joseph Wong<br />- Technological approaches and achievements in animal, plant, aquatic, and algal biotechnology<br />- Biofuels<br />- Baculovirus insect cells<br />- Stem cell regeneration<br />- Antibodies<br />- DNA Markers<br />- Malaria<br /><br />WWK<br />- Genetic transformation of E.coli by R-factor DNA<br />- Construction of a biologically functional bacterial plasmid<br />- Production of monoclonal antibodies<br />- DNA Sequencing<br />- DNA Hybridization<br />- Oligonucleotide directed site-specific mutagenesis of DNA<br />- Specific DNA amplification<br />- Gene therapy<br />- Cloning of a sheep from differentiated cells<br />- Legal and ethical issues in biotechnology<br /><br />This course is badly structured, you may find certain topics be taught repetitively throughout the course.",
+      "comment_teaching": "Karl Tsim&#039;s teaching was acceptable and what he taught wasn&#039;t hard at all. The downside was he went through 90+ slides every single lesson, so don&#039;t expect him to go in depth into any topics.<br /><br />Joseph Wong is terrible at teaching. He was always late to class. The lecture notes he referred to in class were messy, making everything he said hard, if not impossible to follow. Most of the time he stuttered very badly and had completely no idea what he was teaching. I bet a kindergarten teacher can teach way better than him. <br /><br />WWK was ok but the fact that he still uses solely the whiteboard to teach just pisses me off, you have sit on the front few rows every lesson to be able to see whatever he writes on the whiteboard. That said, you can see him put in quite a lot of efforts into explaining the theories behind the groundbreaking discoveries.",
+      "comment_grading": "Karl Tsim&#039;s exam: MCQs + Short questions<br />Memorise key terms, people who scored badly didn&#039;t bother to memorise key terms. Also, forget about revising the lecture notes delivered by the guest lectures, they won&#039;t be tested.<br /><br />Joseph Wong&#039;s exam: MCQs<br />His lecture notes are an utter mess. Get them organised and you&#039;ll score above average.<br /><br />WWK&#039;s exam: Matching + MCQs + Short questions + 1-2 calculation question/s<br />He tricked everyone by asking things like which year were some discoveries discovered and who discovered this and that. Don&#039;t forget to revise the details of the discoveries.",
+      "comment_workload": "2 mid-terms and a final exam",
+      "rating_content": 2,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ZoyRMIa11AFu1FnXmW3WtJHnWKnXJfie",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 1
+        },
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        }
+      ],
+      "author": "stark_elijah",
+      "date": "Jan 11, 2019",
+      "title": "努力同grade成正比",
+      "comment_content": "Karl Tsim: <br />basic biotech info<br />Different chromatography<br />A bit Biochem stuff<br /><br />Joseph:<br />Plant, aquaculture biotech basic info<br /><br />WWK:<br />- Plasmids &amp; Transformations<br />- ELISA<br />- Polyclonal &amp; Monoclonal Antibodies<br />- DNA sequencing (Gilbert&#039;s method, Sangar&#039;s method and modern machine sequencing)<br />- Southern blotting<br />- Shotgun cloning<br />- Oligonucleotide site-specific mutagenesis<br />- PCR and mutagenesis within PCR<br />- Gene therapy, ECS<br />- Hourglass model<br />- Time-course studies and how to get to commertial scales<br />- IP protection",
+      "comment_teaching": "Karl tsim: 上左兩三堂冇上因為自己睇ppt溫is ok，正常咁教書<br /><br />Joseph Wong: 一堂都冇上過，淨係喺vid見到佢成日跳黎跳去咁教，講嘢一舊一舊咁，仲要俾我地既ppt係空白一片/冇字，嘥晒我啲時間去睇vid cap圖。就算我努力去試吓聽佢講咩，但佢講嘢一嚿嚿, 完全聽吾明。 成日喺度跳黎跳去咁教，我就係咁嘥時間去搵佢講緊邊頁，完全冇時間聽佢講咩。 UST biotech major 最垃圾lecturer<br /><br />WWK: 我skip jor 三堂，每次上堂都坐第一排去抄白板，其實認真聽佢講書同抄足就入晒腦，你當中學上堂咁lor",
+      "comment_grading": "2 midterms, 1 final <br />Midterm 33%, final 34%<br />第一個mt 係Karl Tsim short Q, WWK mc<br />第二個就淨係Joseph mc<br />Final 就淨係WWK Mc, T/F, short n long Q<br /><br />Karl tsim: 溫concept, adv, disadvantage<br />你串啱啲字再加努力溫書就會above mean<br />Me: 87/100 mean:~71 highest: 100<br /><br />Joseph: 完全冇上堂，直接前兩日先cap圖溫，因為你完全唔知點溫<br />Me: 27/30 mean: ~22 highest: 28<br /><br />WWK: 成日考埋啲date n 發明人，之後都係考番concept，有兩題計數，好彩佢串錯字係唔扣分<br />Final 冇出分直接出grade<br />Overall grade: A",
+      "comment_workload": "Karl tsim:自己睇ppt溫，所以輕鬆<br />Joseph: 要睇vid去cap低佢冇嗰啲ppt slides, 勁嘥時間<br />WWK: 要上堂抄佢白板寫既野，抄完之後仲要整理d notes, 之後睇notes溫都ok",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Ait4o2TyhAWYcem1eibMvtbNVmxJWQoH",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 1
+        },
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        }
+      ],
+      "author": "Vladimir JCW",
+      "date": "Jan 06, 2019",
+      "title": "Good Grade Course",
+      "comment_content": "Prof Karl Tsim:&nbsp;&nbsp;1. The Biotechnology Century and Its Workforce<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. An Introduction to Genes and Genomes<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Recombinant DNA Technology and Genomics<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Proteins as Products<br />Prof Joseph Wong: Not sure<br />Prof Raymond WK Wong:&nbsp;&nbsp;<br />- Plasmids &amp; Transformations<br />- ELISA<br />- Polyclonal &amp; Monoclonal Antibodies<br />- DNA sequencing (Gilbert&#039;s method, Sangar&#039;s method and modern machine sequencing)<br />- Southern blotting<br />- Shotgun cloning<br />- Oligonucleotide site-specific mutagenesis<br />- PCR and mutagenesis within PCR<br />- Gene therapy, ECS<br />- Hourglass model<br />- Time-course studies and how to get to commertial scales<br />- IP protection",
+      "comment_teaching": "Prof Karl Tsim: A bit rush, hard to follow <br />Prof Joseph Wong: No comment<br />Prof Raymond WK Wong: I really love his teaching. He uses whiteboard in class and can put down all the points without referring to his notes! His elaborations are clear and can arouse your interest in biotechnology. Although lecture videos are provided, I highly suggest you to attend all his lessons. You may miss some of the points on the board if you just watch the videos.",
+      "comment_grading": "2 midterms and 1 final<br /><br />I think that Joseph&#039;s midterm was the hardest, other two are fine if you are well-prepared",
+      "comment_workload": "Average workload. Just revise the notes are ok.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "vs9N9ws5a0lXBsCP2s9LPY1bL4S9p7hn",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 1
+        },
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        }
+      ],
+      "author": "一位不愿意透露姓名的少女",
+      "date": "Jan 02, 2019",
+      "title": "Joseph Is XXXX But WK WONG and KT Are Innocent",
+      "comment_content": "KT: official Pearson textbook chapter 1-6<br />Joseph:?????喵喵喵喵喵喵喵??<br />WK WONG:<br />*5 types of plasmids<br />*construction of plasmids<br />*ELISA<br />*production of monoclonal antibodies<br />*Sanger DNA sequencing<br />*Gilbert DNA sequencing<br />*how to make a probe for the later use of southern blot<br />*application of southern blot<br />*site specific mutagenesis<br />*PCR<br />*gene therapy<br />*nuclear transfer(Cloning)<br />*expression-operon<br />*hour glass model<br />*application of biot",
+      "comment_teaching": "KT is okay as least he&#039;d done his job.<br />Joseph???????? He&#039;s been late for his 6 lessons(he had 7 in total).It is his attitude that makes this course a notorious one.<br />He is NOT QUALIFIED to be a TEACHER.<br /><br />For WK WONG,&nbsp;&nbsp;he is a good professor, a responsible teacher and he is willing to inspire you to think.",
+      "comment_grading": "1st 2nd midterm33%&nbsp;&nbsp;&nbsp;&nbsp;final34%<br />first midterm: mean 71.4 out of 100 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;me89<br /><br />second midterm: mean22.3 out of 30<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;me26<br />final: not known. me:83 out of 90<br /><br />Turns out to be a A",
+      "comment_workload": "you only need to watch the lecture video of WK WONG in order to review for final.<br />SO quite light workload.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ire7h1UUDNKyOb6scIQBhQ2oo1kTwpef",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 1
+        },
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        }
+      ],
+      "author": "Justbeyourself",
+      "date": "Jan 02, 2019",
+      "title": "",
+      "comment_content": "content同其他course有重疊 <br />所以上齊堂可以當溫書 聽多幾個人解釋都好",
+      "comment_teaching": "Karl Tsim：<br />教書中規中矩 冇咩特別唔好嘅地方<br /><br />Joseph：<br />咁樣講唔係幾好但佢真係我喺科大讀過呢幾個sem入面最垃圾嘅professor<br />上佢嘅堂你完全唔會學到嘢 <br />1. 每堂遲到起碼十分鐘 set完所有嘢真正開始大概要15-20分鐘<br />2. 整日病 可能只有一兩堂冇見過佢戴口罩 講嘢極細聲 無論喺vdo定上堂第一排都唔會聽得清楚<br />3. ppt係minimalism 佢上堂show嘅ppt係完整版 大概可能70-110張slides 但去到我地手上就縮水到 1x- 4x咁 我落堂問可唔可以up翻完整版 佢講佢冇錢買版權 which is 完全理解唔到<br /><br />WWK：<br />好多人唔中意佢寫白板嘅教書方式 但我個人覺得佢係三個當中教得最好 <br />上堂認真聽 佢會好仔細咁將details講俾學生聽 時間都拿捏得好好 真係整個lecture都有content<br />雖然有lecture vdo 但個cam唔係所有時間都跟住佢行 所以我嘅建議係上堂抄notes&nbsp;&nbsp;你叫人幫你抄嘅notes係唔會明的",
+      "comment_grading": "grading都正常 分別係 33/33/34<br /><br />我第一個below 2sd左右 （short q）<br />第二個mean (all mc)<br />第三個冇講&nbsp;&nbsp;(所有form都有幾題咁)<br />最後c+",
+      "comment_workload": "溫書吧 加油",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "PDZp5UxCq7CoPk7l4kedweLRwSTnQCbk",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 0
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        },
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 0
+        }
+      ],
+      "author": "Mcdreamy",
+      "date": "Jan 02, 2019",
+      "title": "",
+      "comment_content": "好多野同其他course係overlap",
+      "comment_teaching": "tsim 都叫正常少少,至少有份ppt可以溫<br />joseph上堂會show份冇咩用的PPT比你睇,但upload個份同佢上堂用個份係差好遠,所以基本上要自己再整理多次,上堂唔知想點,所以好多人skip左佢個堂<br />wk wong:佢upload個份野係廢,;仲要係個.百幾人的LT用白板寫字,基本上要坐前d先睇到,而白板上的字好多都有用,要抄足好彩是有video 可以睇返,佢d字真係細到坐頭幾行都唔一定睇得清. 不過講野算清楚",
+      "comment_grading": "最易應該係tsim 同joseph 份卷, <br />第一次midterm 問既野都比較直接<br />第2次就全部考joseph 所教的部分,全mc,都直接<br />final考wkwong, 有mc matching TF 同long q, 所以比較困難",
+      "comment_workload": "冇咩workload, 得2midterm 1 final<br />但你要每上完一堂再整理,因為無論係wk wong定joseph 都好亂",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "9Z7pRxwH1hkGrUQJpMSj3ucd88utTbJv",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        },
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 1
+        }
+      ],
+      "author": "torterral_Tsui",
+      "date": "Dec 27, 2018",
+      "title": "Heaven and Hell",
+      "comment_content": "3 parts for 3 professors, seems to be consecutive chapters from the textbook but they overlap. Don&#039;t know why.<br /><br />Karl Tsim: some basics, you may already have learnt them before. You may treat this part as an outline of the course. For DSErs, biology E4 biotech overlaps with half of this part. One of the lectures invited guest Rocky Law, who talked about the biotech industry and current investors. Quite interesting part overall.<br /><br />J Wong: Nothing to say<br /><br />W.K. Wong: He will teach the parts taught by KT and J Wong again but in details. Main topics listed below.<br />- Plasmids &amp; Transformations<br />- ELISA<br />- Polyclonal &amp; Monoclonal Antibodies<br />- DNA sequencing (Gilbert&#039;s method, Sangar&#039;s method and modern machine sequencing)<br />- Southern blotting<br />- Shotgun cloning<br />- Oligonucleotide site-specific mutagenesis<br />- PCR and mutagenesis within PCR<br />- Gene therapy, ECS<br />- Hourglass model<br />- Time-course studies and how to get to commertial scales<br />- IP protection",
+      "comment_teaching": "KT: He is not only a scientist but also an entrepreneur. He teaches in an entrepreneur way. Perhaps he knew that everyone should be 70% familiar with the content of his part before he taught (you should be in biotech major or related if you are reading this), he switches to teaching you how to earn money from people with the examples coming from the textbook. The slides are from Pearson btw.<br /><br />J Wong: Does he know what he is talking about in class? He is even worse than Avery Ching. His ppt is the worst I have ever seen. Some slides are blank. He seems to have more slides than us. He broke up the lecture slides to parts, then in order to search for the correct ppt, he wastes time in class. He keeps talking the same thing, then switches to another suddenly with no transition or explanation. He would stop talking to find some pen from his bag, then write some meaningless terms on the whiteboard that are shown on his slides. I first saw his face at the midterm exam when he took off his mask for a second to use the walkie talkie, he was always wearing a mask. In fact, I couldn&#039;t even concentrate in class because of his style of teaching and I decided to study myself.<br /><br />W.K Wong: The best lecturer in the course, he is really teaching something useful. Explains things clearly and also listens to questions. Topics are clearly mentioned so there is no problem following. Every single thing he said is concise and to the point. It is an amazing experience to learn not only very theoretical stuff like the biotech in high school and KT&#039;s part, but practical procedures, result interpretation and how to start a biotech career. He uses whiteboard though, no notes. Try copying everything he said and wrote and do sit in the front row (unless your eyesight is good). His words aren&#039;t beautiful anyways.<br />PS WK Wong is very rich. He is one of the pioneers in the world to mass produce authentic bFGF, put those in cosmetic products and has his own company.",
+      "comment_grading": "No comments about the grading system, I haven&#039;t received my grade.<br /><br />As for the exams, they are quite special. 2 midterms 1 final, each 33%.<br /><br />KT&#039;s exam is a test of memorization. The question will ask, for example, list 5 applications of PCR. Then there is a slide in the notes about the applications of PCR. Or, match the fields of biotechnology with what they do. There is a slide listing those relationships. There are a total of around 300 slides. Try memorize all the key terms. PS me=97%<br /><br />J Wong&#039;s: 30 MCQ, rubbish content. Asking where the GM tomato was harvested? Which animal is the first GM animal? And those 30 MCQs carry 33% of your grade...<br /><br />WK Wong: Real knowledge test. The majority tests the concepts so obviously given that you have prepared but the remaining really requires you to think. Just don&#039;t miss anything in your notes and don&#039;t skip any lectures. You do need to spell out the terms.",
+      "comment_workload": "KT: Memorize memorize<br /><br />J Wong: No study no workload<br /><br />WK Wong: Try studying a week before, and not watching all the videos a day before the exam.",
+      "rating_content": 2,
+      "rating_teaching": 1,
+      "rating_grading": 2,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "NXIJTTGiijdxCTD0J9hIxMVVEYFt0Inb",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        },
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 0
+        }
+      ],
+      "author": "TmM",
+      "date": "Jan 24, 2018",
+      "title": "屎黎咖, 哽啦",
+      "comment_content": "教D野好亂,求求其其咁砌個course出黎就算<br />D野係咁重覆",
+      "comment_teaching": "Karl: 走左好多堂,唔方便評,但應該係比較正常<br /><br />Joseph: 一個評分可以唔夠30% 既神人. 你係唔會明佢講緊咩因為我好肯定佢自己都唔明. 差到我特登去搵埋佢其他courses 既 reviews, 全部都評佢講野199. 我有堅持上曬, 但真係冇一堂係正常.<br />佢既存在就好似證明左科大係靠谷research 去升排名而唔係教學水平高. 你係可以完全唔識教書都簽到長約咖<br /><br />WWK: 係research上好有成就既教授, 主要比人E爆既原因應該係因為用白板教. 佢比既notes 係廢既, 一定要抄足佢寫既野,唔係因為佢寫得好,而係如果你冇抄咁你final就冇野好溫. 百幾人既lecture, 支筆又幼, 字又唔係整齊, 寫滿之後就擦, 坐最前都睇死你. <br />上足曬堂, 地下都坐埋就係為左影低曬佢D 手寫notes. 但係其實係白板上面個D都係廢, 你要專心聽埋佢講咩先有用. 所以佢既堂係一場視力與聽覺既考驗.",
+      "comment_grading": "每個prof 分別33%,33%,34%<br />Karl: 因為走左堂所以靠自己溫notes, 非常後悔. D野又多又難. <br />但係份卷就考超淺, 背下D terms, 好處壞處, 一D都深既概念都唔問.<br />背terms係重點, 唔洗溫太認真.<br /><br />Joseph: 教得差考得hea, 全MC, 根本都冇野好問, 有條問你咩魚產量最多, 所以睇notes要仔細D, 一句一句咁睇. Mean 高原因係因為根本冇教到D咩.<br /><br />WWK: 一開卷就嚇親, 完全無視只係佔34%, 長題佔一半, 應該都考曬全部野,2個鐘左右做完. 個難度唔係話題目難(唔會易), 而係根本唔知溫咩好. notes 就得D圖, 白板又係199. 我係影曬佢寫D野去溫, 但都係有2,3條長題係唔知問咩, 都唔知係邊到聽留左.<br /><br />踩mean, 高0.6 SD, 冇比分==&gt; B+",
+      "comment_workload": "唔係話佢多野背, 係上堂真係浪費你D精力. 課餘又要自己去上網搵佢到底講D咩.<br />無力感好重, 你想努力都唔知溫咩好.配套好差<br /> 頭兩個test 都易, 唔好失分.<br />最後一個test 就分高低, 想A-range 就比多D心思, 跟足D, 要預左付出同結果唔成正比咁去溫.",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 8,
+      "vote_count": 8,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "wJg4cvVdDywWDUBG8DIGG4TLZVLCsxMf",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 1
+        },
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        }
+      ],
+      "author": "C.ko",
+      "date": "Jan 23, 2018",
+      "title": "",
+      "comment_content": "This course provides students with a general understanding and recognition of fundamental subjects in biotechnology and is particularly aimed at students who are interested in declaring major or minor in Biotechnology.<br /><br />There are various topics in the course and some are listed below.<br />-the history of biotechnology<br />-Molecular foundation of biotechnology<br />-Biotechnology tools in research &amp; development<br />-Biotech company in Hong Kong and China<br />-Technological approaches<br />-Achievements in animal, plant, and algal biotechnology<br />-Insects<br />-Healthcare application<br />-Legal and policy issue in biotechnology<br />-Ethicalissues in biotechnology",
+      "comment_teaching": "This course is taught by three professors. Each professor is responsible for seven to eight lectures and they taught different arenas and areas of biotechnology. The teachings are undoubtedly boring. The lectures that taught by prof Wong is fine, but it is vital to write notes in order to score high in the final. Though prof Joseph Wong&#039;s teaching might be poor, his exam is fine (the questions did not require much extra knowledge). Prof Tsim part requires a lotttttt of memorisation. You are probably in an advantage if you have a good memory.",
+      "comment_grading": "The grading is fine.<br /><br />Mid-term Assessment:33% x 2<br />Final Examination:34%",
+      "comment_workload": "Not much workload. Just do revision regularly is fine.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "QwVXfCQldlBOoMVhfLdI3xIPxSU5xNmL",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 1
+        }
+      ],
+      "author": "Winsor",
+      "date": "Jan 23, 2018",
+      "title": "",
+      "comment_content": "If you studied biotechnology before, it would be quite easy for you to take up the first half section of the course. But the content in the second half will take you more time understand.",
+      "comment_teaching": "The first two lectures are quite boring, they directly tell what is written on the powerpoint. The lessons can be possibly be skiped. However, for the last professor, he will not upload and PDF onto canvas and he will copy th note on his own and distribute them every lesson. That&#039;s mean if you skip his class, you will miss the notes. Also, he only gives brief explanation, certainly you will not understand if you do not come to class.",
+      "comment_grading": "It will have two mid-term exams and also final exam.<br />The mid term exams are very easy, almost direct copy from the notes.<br />For the final exam,the coverage is not very much but it has different types of exam questions. For exampe, matching, MCs, short question and long question. Also, it requires some drawing. For the long questions, professor gives you a whole page to answer.",
+      "comment_workload": "No homework and no attendance",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "DnU9SrsqWS5G90JqBIUy7z66zgN34nFP",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        },
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 1
+        }
+      ],
+      "author": "tianwonderland",
+      "date": "Jan 23, 2018",
+      "title": "",
+      "comment_content": "Content itself is not hard and very easy to understand. However, the range covered during the lectures is very wide, so this course does require heavy memorisation throughout the course. There are total of three exams from each of the instructor.",
+      "comment_teaching": "Professor Wong, Wan Keung and Professor Tsim are relatively good with teaching the content. However, Professor Joseph Wong is a very bad lecturer overall. His ppts are useless and unhelpful, and his teaching is also very unhelpful. I ended up doing self teaching with textbook, so I highly recommend getting a textbook. One good thing about Professor Joseph Wong is that his exam is very easy, especially if you have a strong foundation of biology.",
+      "comment_grading": "Because exams are relatively easy, the given gradings are very good. However, i think this is also dependent on the class. If the class itself is filled with people with strong biology background, then it is inevitable that the mean and SD being very high.",
+      "comment_workload": "The overall workload is very light. no assignment, no group work, and no homework. However, as I have mentioned already, it does require heavy memorisation.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "5UXPVSvQEaXPyHtbEad5fdMc1aFLjPlj",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 0
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        },
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 1
+        }
+      ],
+      "author": "Metal_816",
+      "date": "Jan 22, 2018",
+      "title": "",
+      "comment_content": "There are three parts to this course taught by three different profs, and basically the content just repeats itself. Its the most ridiculous and badly planned courses I&#039;ve ever taken. <br /><br />They teach you about the different forms of biotech, methodologies involved in each type, genetic engineering, plasmids, etc.",
+      "comment_teaching": "The teachers were terrible, the first lecturer literally used someone else&#039;s slides and just read off them. He tried to be funny but he really wasn&#039;t. Using some one else&#039;s slides was good for us because that meant that the content was understandable and well put. <br /><br />The second lecturer had the worst slides I have ever seen, they were just blank slides with a few words and images. You had to research topics on your own to understand the topics.<br /><br />The last lecturer was the prof in charge of this course, WONG, Wan Keung. I actually enjoyed his lectures more than the others, I felt like i actually learnt something.This guy pulled no punches. You have to attend every lecture because this guy write on the board. To keep up you have to constantly jot down what he writes on the board and what he says. This guy was the toughest because he went into a lot of detail. His slides were just topic names and pictures and dates, nothing he said was actually on the slides. Which means in order to pass his test you have to attend lectures.",
+      "comment_grading": "The tests were incredibly ridiculous, there were two midterms and one final, each being 33% of your final grade. <br /><br />The exams had fill in the blanks, MCQ&#039;s, T&amp;F and short answer questions. I havent done fill in the blanks since primary school. It was so vague, the answer is so relative. I cant use the word ridiculous enough to describe this course. <br /><br />But that all being said, the tests were relatively easy if you knew your content, which means the mean was usually around 50-70. I just went through the slides and attended the lectures here and there and it was enough to get me an -A.",
+      "comment_workload": "Practically none,just study a few days before the midterm and you&#039;re good.",
+      "rating_content": 2,
+      "rating_teaching": 1,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "slGZsHwA1JfXeuOLkib1xSLw7slc6itv",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        },
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 1
+        }
+      ],
+      "author": "yaya",
+      "date": "Jan 21, 2018",
+      "title": "Put quite a lot of efforts but still just got a B-",
+      "comment_content": "Learn about the basics, introductions to biotechnology, history, molecular foundation, biotech Industries in HK and China,",
+      "comment_teaching": "Prof Karl Tsim teaches great and always have interactions with students and he wants us to think more. <br />Prof WK Wong speaks too quietly and writes all the notes in the whiteboard. So it is really annoying because we found that we barely see the small words and it is really tiring to copy the notes from him. However, he explains the concept quite clear.<br />Prof Joseph Wong is the worst... It seems that he dont prepare for the lesson in advance. And also blame the internet or his updated version is left in his office...lol... And he just read aloud the ppt so it is useless to pay attention in the lesson...",
+      "comment_grading": "I put lots of effort in the last two exam but just have a B-",
+      "comment_workload": "2 mid-term and 1 final, all equal percentage towards grading",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "mtdpHN4QMFHylTVvlvlPGwYs0Q2VbyNk",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 1
+        },
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 1
+        }
+      ],
+      "author": "FFFxy",
+      "date": "Jan 11, 2018",
+      "title": "",
+      "comment_content": "The course is taught by 3 professors. A portion of the content is what you&#039;ve already known and some of the professors&#039; topics overlapped.",
+      "comment_teaching": "Prof. Tsim used the ppt slides provided by the textbook publisher so it was quite clear and easy to follow. However, he loved to jump to unrelated topics from time to time, so, cannot finish on time. He rushed through almost half of his content in the last lecture before the 1st midterm.<br /><br />For Prof Joseph Wong&#039;s part, his ppt slides were not at all organized, just a few words &amp; pics and did not correspond to the student&#039;s version. I don&#039;t think to attend the lecture would do any help to understand the content as I could hardly understand what he was saying. However, his midterm questions were all MCs and straightforward enough. You can do well by simply memorizing the details in the slides/corresponding chapters of the textbook.<br /><br />For Prof. Raymond Wong&#039;s part, he had a few slides as the content outline but all details were written on the whiteboard. So do come to the lecture early and get the front rows and don&#039;t miss a single word. His content was covered in the final, including MCs, TF matching and short questions. Some can be tricky.",
+      "comment_grading": "Grading is fair.",
+      "comment_workload": "2 midterms and 1 final (non-cumulative), no homework.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "yq5S6PIWJrUHXZkAPPI3esfD2YsfKPH5",
+      "semester": "2017-18 Fall",
+      "instructors": [],
+      "author": "Li:)",
+      "date": "Jan 02, 2018",
+      "title": "",
+      "comment_content": "The course is separated into three parts which taught by three different professors. It has two midterms and one final.<br /><br />For Prof. Tsim’s part, he is clear enough and his speech is relevant to the ppt. It is quite easy to follow. The questions in midterm is not deep at all, very straight forward, just memorization is needed.<br /><br />For Prof Joseph Wong part, I could hardly understand what he said and was very difficult to catch up. His ppt is extremely simple, sometimes just few words and pictures. Attending the lectures doesn’t really help your understanding, but I would recommend you to attend the lectures. You often need to find cohesion between his ppt slides yourselves. His delivery was not clear and sometimes discussed thing out of the ppt. However, his mid-term is quite straight forward if you really get familiar with his ppt content. Most of them were included in the lectures. It consists of MCQs only but memorizing all the details in his ppt is not an easy job. <br /><br />For Prof Raymond Wong’s part, you have to pay attention throughout his lectures and if you want to have good marks, sit in the front few rows and never skip lessons!!! He wrote contents in the whiteboard. I would suggest you write as much as you can in the notes as sometimes, you don’t know what is happening if you just mark down words on the board. His part is quite clear and detailed which you can learn many. And his final consists of MC, TF, matching and short question, basically all content in lectures. Short question is quite hard to do. It asks for details and need to do a few data analysis.",
+      "comment_teaching": "not good enough... the exam is straight forward though.",
+      "comment_grading": "The grading is fair. <br />Above 0.7SD in the first midterm, almost full marks in the second midterm and no marks released for final. Finally have A range.",
+      "comment_workload": "No homework, just 2 midterms and 1 final",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "9EFPk3L42vL3oHSf1k2taOpiBU5aK3ya",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 0
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        },
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 1
+        }
+      ],
+      "author": "Kabul",
+      "date": "Dec 17, 2017",
+      "title": "Fuck this shit",
+      "comment_content": "This course provides a general overview of fundamental subjects, molecular foundation and basic laboratory techniques of biotechnology. The content is not very organized at times and there are quite a few overlapping parts among the three professors, as well as with other courses such as biochemistry. They also don&#039;t strictly follow the syllabus given to us initially. But in general, the content gives a pretty good insight on how biotechnology works and how the technologies can be applied in different aspects.<br /><br />Prof Karl Tsim basically focuses on the molecular aspects of biotechnology.<br />🔷 1 The Biotechnology Century and Its Workforce<br />🔷 2 An Introduction to Genes and Genomes<br />🔷 3 Recombinant DNA Technology and Genomics<br />🔷 4 Proteins as Products<br /><br />Prof Joseph Wong, on the other hand, focuses on applications of biotechnology in the human society.<br />🔷 5 Plant Biotechnology<br />🔷 6 Animal Biotechnology<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 6.1 Transgenic Animals<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 6.2 Production of Monoclonal Antibodies<br />🔷 7 Aquatic Biotechnology<br />🔷 8 Medical Biotechnology<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 8a Diagnosis and Medical Products<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 8b Gene Therapy<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 8c Organ Transplantation<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 8d Stem Cells<br />🔷 9 Baculovirus Expression System<br /><br />Prof Raymond WK Wong teaches the history of biotechnological developments, legal and policy issues, applications of biotechnology, and basic laboratory techniques used in recombinant product production. He basically covers the details of EVERY aspect, and sometimes he just repeats what the other professors have covered, but in MUCH greater detail. If you can catch up on his part, you&#039;ll definitely learn the most from him, but for most students, his part is quite overwhelming.<br />🔷 10 Historical Breakthroughs in biotechnology<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Bacterial Transformation<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Molecular Structure of DNA<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Nucleic Acid Synthesis<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Discovery of Restriction Enzymes<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Plasmids<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Recombinant DNA Technology<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Construction of Biologically Functional Plasmids<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 First Recombinant Protein in Market<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Antibody (Ab) Assay (ELISA, Western blot)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Production of Monoclonal Antibodies<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 DNA Sequencing<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Southern Blotting<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Site-specific Mutagenesis of DNA<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Polymerase Chain Reaction (PCR)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Gene Therapy<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Human Genome Project<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Sheeping Cloning Using Differentiated Cells<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Embryonic Stem Cell Therapy<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Random Mutagenesis<br />🔷 11 Legal and Policy Issues in biotechnology<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Hour-glass Model for Biotechnology<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Drug Application Policy<br />🔷 12 Applications of Biotechnology<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Biopharmaceuticals<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Agriculture<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Animal Farming<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Bioremediation<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Energy generation<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Research<br />🔷 13 Engineering of Recombinant Expression Construct<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Using E. coli as Host<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Source of DNA<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Engineering of Vector<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Transformation Process<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Assays for Protein Expression<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Using B. subtilis as Host<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Shuttle vector &amp; Helper/resident Plasmid<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Transgenic Animals<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Environmental remediation<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Quantification of Biochemical Assays<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Routes of Expression<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Scale-up Expression<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Time-course Study<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Small-scale Check<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Fermentation<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Chromatography<br />🔷 14 Advertisement of His Own Company<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Diabetic Foot Ulcer<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 Epidermal Growth Factor (EGF)",
+      "comment_teaching": "Prof Karl Tsim - D<br />He basically followed the PowerPoints given by the publisher - how lazy he has been! His teaching pace was so slow at first, and right before the midterm he immediately rushed all the way to finish 2 whole chapters in merely 2 lessons. And attending his lectures is useless - better rely on self-study to survive in the first midterm. However, one thing he isn&#039;t that bad is that he conducts the lectures in a more interactive way than the other 2 professors. He might sometimes ask students sitting in the front rows questions, so get prepared if you sit in the front rows.<br /><br />Prof Joseph Wong - E<br />Rubbish. Nobody knows what7 he says. PowerPoints are messy. Nobody knows what the heck he&#039;s doing. Refuses to reply emails of inquiry from students cuz he&#039;s &quot;busy&quot;.<br /><br />Prof Raymond WK Wong - B<br />Quite a lot of students dislike his teaching style - he writes lots and lots of things on the blackboard and you&#039;ve to write you notes fast enough so that you can catch up on his teaching. However, if you&#039;re hard-working and if you can follow his pace, you&#039;ll be fine on the final exam.",
+      "comment_grading": "✏️ Midterm 1: 33%<br />✏️ Midterm 2: 33%<br />✏️ Final: 34%<br /><br />The first midterm was indeed a nightmare for those who aren&#039;t good at recalling technical terms (like me). But for those who have good memory should think this midterm was easy. He asked questions like the pros and cons of using E. coli for protein expression, different protein purification techniques, applications of PCR, what makes a good vector in recombinant DNA, etc. Make sure you master these topics well or you&#039;ll end up in a disaster like me.<br /><br />The second midterm is just multiple choices. Easy for those who can still pay attention in the professor&#039;s cr*ppy lectures. Try to identify the important concepts in the lectures.<br /><br />The final exam is a mind blower. If you&#039;ve skipped all the lectures of WK Wong you&#039;ll surely be fucked up. But if you&#039;ve revised thoroughly what he&#039;s taught in the lectures, you&#039;ll find the final exam is basically just a recap of what he&#039;s mentioned. He&#039;s asked questions such as the components of fermentor that improve aeration, the calculation of specific growth rate in time course study, the difference between gram +ve bacteria and gram -ve bacteria, advantages of using E. coli for secretion, etc. There is A LOT to revise, and make sure you leave enough time to revise for WK Wong&#039;s part.<br /><br />Grading is not that bad. I screwed up the first midterm (scoring merely 0.46SD above mean, scored 1.1SD above mean in the second midterm, and I haven&#039;t received my marks for the final exam.<br /><br />💯 Final grade: A-.",
+      "comment_workload": "No workload other than exams. But revision for the exams is already a nightmare for me. Attendance at WK Wong&#039;s lectures is almost a must if you wanna survive in WK Wong&#039;s exams... Good luck!!!",
+      "rating_content": 3,
+      "rating_teaching": 1,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 7,
+      "vote_count": 8,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "rfeOOleYFh0t5F1NFGlGud6MbTNqNJrG",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        },
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 0
+        },
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        }
+      ],
+      "author": "Little_Duck",
+      "date": "Dec 15, 2017",
+      "title": "DO NOT take this course unless u are required to.",
+      "comment_content": "Prof Karl Tsim uses PowerPoint for teaching. There are quite a lot of information in the PowerPoint, but if you manged to memorize them, you should be okay for the mid-term<br /><br />Joseph Wong also uses PowerPoint for teaching, but the PowerPoint is made by himself and they are not very good for revision. The contents inside the PowerPoint seem not very organized, not very good for revision.<br /><br />Prof W.K. Wong, he writes things on whiteboard for teaching. You have to copy them all if you want to get good grade. However, in my opinion, after copying all the things on whiteboard, when you just do revision and look at them, it is not very organized.<br /><br />BTW, the course outline sates that Prof W.K. Wong will teach &quot;Healthcare application&quot;, &quot;Legal and policy issue in biotechnology&quot;, &quot;Ethical issues in biotechnology&quot;. However, in the end, he did teach them, but maybe only account for 10% of his lectures, he just taught other Biotech terms and technique for the remaining 90%. I think the stuffs are quite random for the 90% one. My point is, if you are not teaching the things that stated in the course outline, then what&#039;s the point of writing them down? Or maybe I am just not getting used to the teaching styles in the University.",
+      "comment_teaching": "TBH, I think Tsim is the best among all three, but all of the prof. in this course are still mediocre.<br /><br />Tsim: He usedPowerPoint for teaching. Making you easy to follow what he said and take notes. He covered quite a number of PowerPoint, maybe you will feel hard to memorize beofre mid-term.<br /><br />Joseph: The worst prof. Honestly, I cannot believe how bad he was teaching. His teaching is very unclear. You may feel hard to listen to him in lessons. His PowerPoint is awful, like he is showing a 90 pages PowerPoint in lesson but you can only obtain a 40 pages PowerPoint on Canvas, those missing slides will make you have a hard time to follow his teaching. Sometimes, in the lesson, he will say he got a wrong version of the PowerPoint, it makes me feel that he is so unprepared for the lessons. Plus, student version of the PowerPoint notes is strange, he will delete some of the pictures, you may even find a slide with one word or a blank slide. BTW, he said he keeps &quot;edit&quot; the notes each year. In the lessons, he always mentions he is unable to answer so many questions from students via email because he is teaching multiple courses, actually, I have never heard about this problem from other professors, or because of your unclear teaching that causes so many students ask you questions?<br /><br />WK Wong: He wrote notes on the whiteboard, just copy them all if you want to have something for revision. But I don&#039;t think he was teaching well. The notes are unorganized and seems he was talking about random stuffs. I commentate some of his teaching in &quot;CONTENT&quot; part.",
+      "comment_grading": "The grading is so-so.<br /><br />I was above mean in 2 mid-terms. I don&#039;t know my score in final yet when I was writing this review, so I can&#039;t commentate on it.<br /><br />The Final Exam was difficult for me. Sometimes, the questions just test the things that Prof W.K. Wong mentioned once. Maybe that was my bad for not to copy what he said in the lecture.",
+      "comment_workload": "There are 2 mid-terms and 1 final exam, no other things. But you just have to work hard in W.K. Wong&#039;s lecture and copy everything down.",
+      "rating_content": 2,
+      "rating_teaching": 1,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "MtY1ESW0t8Gr6gNebSV5QXhUu3oa3COa",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 1
+        },
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 1
+        }
+      ],
+      "author": "DanielChan326",
+      "date": "Oct 30, 2017",
+      "title": "Joseph is&#039;&#039; too&#039;&#039;great (a new level i can&#039;t achieve at all)",
+      "comment_content": "This course will provide students with a general understanding and recognition of fundamental<br />subjects in biotechnology and is particularly aimed at students who are interested in declaring major<br />or minor in Biotechnology.",
+      "comment_teaching": "Tsim: Teach great, as the slides are easy to follow. Love talking with you and make friend with you<br />Joseph: He only talks to himself, so you don&#039;t need to care what he says. Just do what you like during the lesson. Don&#039;t worry as I found no one is listening to him at all. BE careful as he has 20-years teaching experience(he said).",
+      "comment_grading": "Mid-term Assessment: 33% x 2<br />First midterm(Tsim): study 400 slides in 5 days<br />fill in the blanks<br />T/F in concepts and information<br />and some easy short questions<br />Remember all the technical terms and advantages can help you get at least 75/100 already.<br /><br />Second midterm(Joseph)<br />No material to study, no need to attend the lectures, he won&#039;t teach you anything useful<br />30 MC only.<br />Mostly test whether you understand the wordings and what kind of techniques may be used behind, such as gene therapy / Baculovirus concepts. Some questions ask for what animal has been for sale in 2016 US. <br />About 90% questions can be found from notes, its mean would be bullshit I think. (22/30 = mean )<br /><br /><br />Final Examination: 34%<br />T/F 12marks<br />Matching 12marks<br />MC 6marks<br />Long questions 68marks<br /><br />All in all: all questions are straight-forward.(if you remember the technical term.",
+      "comment_workload": "so low if you only want a C<br />quite high if you want an A<br />You can get the good result only if you can remember all slides inform. within one week<br />You can regenerate well-organized notes for revision<br /> You can listen very attentively to every professor and what he actually wrote on the whiteboard.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "m4oBSyDj07hBvfvviIa8H7kEqeMhYZFN",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 1
+        },
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 1
+        }
+      ],
+      "author": "curryyuen",
+      "date": "Feb 03, 2017",
+      "title": "write note during class to get good grade",
+      "comment_content": "write down note to get good grade.<br /><br />this course is taught by three professor<br /><br />for wong&#039;s part, you have to write down note, for other you dont have to write. you just have to revise the ppt.",
+      "comment_teaching": "all prof teach so bad <br />you have the ppt <br />for wong you have to write down all the things on the blackboard to get good grade in the final exam",
+      "comment_grading": "not so bad <br />i got A-<br /><br />2 mid term almost full mark<br />final exam about mean",
+      "comment_workload": "only exam and 2 mid term",
+      "rating_content": 4,
+      "rating_teaching": 1,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "0mEuOn0agOluUwAICUFiKlOXnwbEQfXe",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 0
+        },
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        }
+      ],
+      "author": "Izzy",
+      "date": "Aug 06, 2016",
+      "title": "",
+      "comment_content": "There are 2 mid-term exams and also one final exam.<br /><br />For the first mid-term exam, it is relatively easy. It only concludes the part taught by Prof. Tsim.<br />He highly recommended us to buy the textbook, however, even a year 1 student could find out some misconcepts in the books. I read the whole book seriously and found out that it is time-consuming and also wasting my time, as I have to find the wrong parts in the book and search for the correct stuff. Also, the chapters did tell the students something, but it is incomplete and not really useful, many of the stuff is incomplete. Thus, I really do not recommend any one to buy the textbook and read it. I think search the related topic would be easier to understand. And wikipedia helps a lot.<br /><br />For the second mid-term, it is basically based on the part of Prof. Raymond Wong. The contents are mainly about the history and policy of the patent. There are a lot of terms, definitions and DATES to remember. Remembering all stuff he said in the lecture and also in the notes would be good for exam. So if you really want to choose this course, make sure that you really have a good memory of it.<br /><br />For the final exam, it contains 3 parts. 2 for Prof. Raymond Wong&#039;s part and 1 for Prof, Joseph Wong&#039;s part. For the first 2 parts, it consists of a lot of T/F questions and LQ. Many part of the T/F question is tricky and many of them involves NUMBERS and DATES. So it was really difficult. And Prof. Joseph Wong&#039;s part, the first part of the paper is fill in the blanks, and the second part is MCQs.&nbsp;&nbsp;For the fill in the blanks part, some of them are not mentioned in the lessons nor on the student&#039;s version ppt. So, I have no idea what was happening in some of the question. And as I recalled, one of the fill-in-the-blank question is asking the name of the bacteria, which is Bt bacteria. Although he did mention the Bt bacteria and its full name in his lectures, however, I have no idea that the long scientific name would be in one of the spelling question, so I did not get the mark. Although some parts of the MCQs were not mentioned in the lectures, but it is relatively easy if you have do some research on the topics in your spare time.<br /><br />This is so far the worst course I have ever enrolled in.",
+      "comment_teaching": "For Prof. Tsim&#039;s part, he teaches with the ppt and sometimes, he wrote something on the whiteboard and asked the students sitting in the front row to answer his questions. His teaching is clear and easy to understand. However, if you don&#039;t think to be asked to answer questions or you found that you might sleep in the middle of the lecture, do not sit on the first row.<br /><br />For Prof. Raymond Wong&#039;s part, he doesn&#039;t use any powerpoint, all he shown is the pdf he distributed in the beginning of the lesson and the notes he wrote on the whiteboard. He used the whole whiteboard to write the stuff, so if you want to take notes, find a seat that could see the whole whiteboard. Also, his handwriting is not really good, so, it is somehow difficult for me to see what he was writing. His teaching is clear, so I think his teaching is okay.<br /><br />For Prof. Joseph Wong&#039;s part, I have no idea what he is doing actually. Sometimes, he was late for the lectures, and in most of the time, he was not teaching anything at all. As I recalled, many time he stopped in the middle of his lecture he stopped and told us that it is the wrong powerpoint and he would like to find the newest version. And this takes lots of time, and sometimes, he cannot find the correct powerpoint and seemed not willing to continue the lecture. Also, the powerpoint that is uploaded on Canvas is known as the &quot;Old version&quot;, the powerpoint slide is totally a mess, the situation is like this: Prof. Wong shows the powerpoint with the projector, on slide 12, you find out that the one he is showing is totally different from yours. Thus, you try to find the that powerpoint slide in your version, and it is slide 34 in the student version powerpoint. And two slides later, all of this happens again. And at the moment that you eventually find that powerpoint slide, he finished his elaboration and explanation. And sometimes, you could not find the powerpoint slide that he is showing at all. And when you want to take a picture of it, he stops you and told you not to. As he is going through the powerpoint too fast, for some slides, he skipped or go to the next slide before you could finish reading all of the words or diagram there. Furthermore, you could find most of the slide that should have diagrams or flowchart on it remains empty, there is only the title. Some happens as he claimed that using the pictures online would not be legit, but he could actually post the website link there so that we could reach it. It would be so much easier for us. <br />Furthermore, sometimes he told us he actually had no idea what that is and how does it works in the middle of the lecture, and he asked us not to ask questions. Even if you do, he would tell you that you don&#039;t need to know the answer, it is just a introductory course.<br />To conclude, it is like 80% of the lesson time you are not learning, as you are too busy to find the correct powerpoint slide and listening to something not-related. <br /><br />Actually there is also a doctor for teaching support, Doctor&nbsp;&nbsp;Leung. The powerpoint she made for the lesson of Prof. Joseph Wong is wonderful. It is a pity that he only showed it for at most 2 minutes (the powerpoint actually has many slide). I wished that we actually could have a chance to read that.",
+      "comment_grading": "Negative.<br />Totally horrible.",
+      "comment_workload": "To memorize all the terms and DAYS and spelling is not an easy task as there is so much to memorise. <br /><br />And I seriously don&#039;t think that the dates would be useful at all.",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 9,
+      "vote_count": 9,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "fKRMnK28iZTBImJIXWImxBLl80MVP0ck",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 0
+        },
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 0
+        },
+        {
+          "id": 502,
+          "name": "WONG, Joseph Tin Yum",
+          "rating": 0
+        }
+      ],
+      "author": "Unknown User",
+      "date": "Jan 21, 2016",
+      "title": "Take it only when you&#039;re required (Fxxk this shit)",
+      "comment_content": "Lecture material and exam papers were based on different instructor. (but all are basically rubbish)<br /><br />Prof Tsim&#039;s part:<br />He will definitely ask you to buy the reference book as he will only use lecture slides provided by the reference book&#039;s publisher with a bunch of incomplete content. It seem that you need to use the book to &#039;solve the hidden message&#039;. (WTF)<br /><br />Prof Raymond Wong&#039;s part:<br />No lecture slides at all. Only few pictures (yes pictures!) and articles are given. Definitely the messiest lecture materials I&#039;ve ever seen.<br /><br />Prof Joseph Wong&#039;s part:<br />I really have no idea of wtf he was doing.",
+      "comment_teaching": "All three are basically rubbish.<br />But Prof Tsim seems to be not too bad among them.<br />(Trust me, attending their lectures is only wasting your time as you won&#039;t learn anything useful. Only recitation of a lot of unexplained lecture materials is needed)",
+      "comment_grading": "Definitely bad grade.",
+      "comment_workload": "2 midterms + 1 final",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

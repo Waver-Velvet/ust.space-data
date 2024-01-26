@@ -1,0 +1,79 @@
+{
+  "course": {
+    "id": 1967,
+    "subject": "ELEC",
+    "code": "5050",
+    "name": "Advanced CMOS Devices",
+    "description": "Principles and characteristics of semiconductor devices found in State-of-the-Art ICs. Emphasis is on deep-submicron MOS device design, characterization and modeling. Important issues such as short channel effects, high-field behavior, hot carrier effects, reliability and device scaling for present and future technology will be covered.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2010,
+      1910,
+      1730,
+      1630
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"3500\" href=\"/review/ELEC3500\" target=\"_blank\">ELEC 3500</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 192,
+        "name": "CHAN, Man Sun",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "FuabKSqHBXbL1ATLsu9OuWZO4aVY24Nd",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 192,
+          "name": "CHAN, Man Sun",
+          "rating": 1
+        }
+      ],
+      "author": "Fpn",
+      "date": "Jun 19, 2023",
+      "title": "Recommended for Modeling and TCAD experience",
+      "comment_content": "Continuing ELEC3500, this course covers more effects, applications of CMOS devices, and basics of modeling.<br /><br />Core subjects:<br />• MOS Capacitor Characteristics<br />• MOSFET I-V in the Linear Region<br />• MOSFET in Velocity Saturation Region<br />• Substrate Current<br />• Gate current and Lucky Electron Model<br />• Hot Carrier Effects and Device Degradation<br />• Numerical Device Simulation<br />• Gate Oxide Reliability<br />• Nano-CMOS Structures<br /><br />Optional topics:<br />• Circuit Simulation<br />• Device Modeling (I-V)<br />• Capacitance model for MOSFET<br />• Device Characterization Techniques<br />• Non-Volatile Memory and FLASH<br />• Compound/Silicon Technology<br />• Nano-Memory Architecture<br />• SOI Devices<br />• CMOS Based RF Devices and Circuits",
+      "comment_teaching": "I think Prof Chan is a dedicated teacher in this field with unique teaching styles. In addition to the animated videos from his edx courses, the IPRS quizzes are like the fun reality show games which may need us to decide the answer in the limited time. Although there are some difficult formulas, Prof can highlight the important concepts. He also made the class more engaging with some background stories behind the inventions and papers related to the topics.",
+      "comment_grading": "Generous, Prof said he will try not to fail us unless something serious. The important thing is that we are learning.<br /><br />IPRS exercises:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10%<br />Homework:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10%<br />Quizzes:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30%<br />Term Project:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;50%",
+      "comment_workload": "Compared to other PG ELEC courses, I think this course is lighter. For the IPRS and quizzes, I suggest to revise based on the Canvas videos and lecture slides. Homework questions may slightly differ from previous years, however as long as you have the concepts you will be fine. The term project requires a paper report based on the TCAD simulation and physics insights of the devices in the topics which we choose a month before the deadline. You can refer to some sample TCAD scripts in the official Silvaco Atlas website for inspiration.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "course": {
+    "id": 2321,
+    "subject": "MATH",
+    "code": "4993",
+    "name": "Capstone Project in Statistics",
+    "description": "This is a project-based course that provides students an opportunity to integrate and apply their statistical knowledge to analyzing data. Students may make use of the statistical package SAS to conduct their project. For MATH students in their fourth year of study only.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"3424\" href=\"/review/MATH3424\" target=\"_blank\">MATH 3424</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"4991\" href=\"/review/MATH4991\" target=\"_blank\">MATH 4991</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"4992\" href=\"/review/MATH4992\" target=\"_blank\">MATH 4992</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"4994\" href=\"/review/MATH4994\" target=\"_blank\">MATH 4994</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"4999\" href=\"/review/MATH4999\" target=\"_blank\">MATH 4999</a>",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 542,
+        "name": "YU, Chi Wai",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "6xv4UA9buAoWqAILvIcKv0uggofiSyHv",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 542,
+          "name": "YU, Chi Wai",
+          "rating": 1
+        }
+      ],
+      "author": "frankcheng",
+      "date": "Jan 10, 2023",
+      "title": "",
+      "comment_content": "Week 1-3: multiple linear regression model, binary classification <br /><br />Week 5-7: Pearson&#039;s Chi-squared test for categorical data, spatial statistics <br /><br />Week 9-13: RIDIT analysis, RASCH model",
+      "comment_teaching": "The teaching is fine. Doctor YU just explains the basic ideas of the topics then we have to write our own reports. Make sense since you are supposed to do more research in this course.",
+      "comment_grading": "I think the grades given are lighter than lecture-based courses in general. The grading should be:<br /><br />40%: all mini-projects (3 in total)<br />10%: attendance <br />50%: final report<br /><br />My statistics:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />mini-project 1: 3/4 (mean: 3.02/4)<br />mini-project 2: 2.5/4 (mean: 3.07/4)<br />mini-project 3: 3/4 (mean: 2.89/4)<br />final project: 8.5/10 (mean: 8)<br /><br />I attended all the lectures except for 2 classes in which I was quarantined. Overall I get an A.",
+      "comment_workload": "I wouldn&#039;t say high. He provides the R codes in his notes and you can just copy them. You can share the workload with your groupmates (maximum of 3 people, 4 for the final project). He also sometimes skips lectures to give us consultation time. The problems are mainly the reports, looking for datasets, and the extra reading you have to do. <br /><br />For mini-projects, you have to find your own datasets (he provided datasets for the third project, but the rest are on your own). You also need to submit reports of 2-4 pages (only 2 for the first 1), and 10-20 for the final projects. The third project is an individual report. You can easily get a 3 or 4 for the mini-projects if you follow the codes he provided and write sensible reports. If you want a high score in the final project you have to &quot;surprise him&quot;, i.e. you have to write something not taught by him. You may need to read a lot of research papers first but the payoff is worth it. <br /><br />One more thing: you also have to make PowerPoints for your presentations. The first one is done in class but we have to submit video recordings (preferably Zoom) for the rest. You can just summarize your report in the PowerPoint so it can be done relatively fast. For mini-projects, you need to give presentations for around 10 minutes. For the final project, it depends on how many people you have in your group: 8 minutes for 1 person, 15 for 2, 20 for 3, and 25 for 4.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

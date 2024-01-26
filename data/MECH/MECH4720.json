@@ -1,0 +1,78 @@
+{
+  "course": {
+    "id": 985,
+    "subject": "MECH",
+    "code": "4720",
+    "name": "Introduction to Precision Engineering",
+    "description": "Principles of precision design, precision machining, and precision measurement; mathematical definitions and theoretical studies of tolerances for one-, two-, and three-dimensional precision assemblies; applications and industrial practices.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      1910,
+      1810,
+      1530,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MECH\" data-code=\"2520\" href=\"/review/MECH2520\" target=\"_blank\">MECH 2520</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 3,
+    "rating_grading": 4,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 578,
+        "name": "GAO, Yongsheng",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "sSA2UkVcdhyqzu3aiPH9RlGYCIuTwZk0",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 578,
+          "name": "GAO, Yongsheng",
+          "rating": 1
+        }
+      ],
+      "author": "CKL",
+      "date": "Dec 18, 2018",
+      "title": "",
+      "comment_content": "1. Introduction<br />2. 1D Tolerence<br />3. 2D Tolerence<br /><br />The professor spends almost few weeks on the introduction part by introducing what is precision engineering. However, the main focus of the course is only about tolerence. The content is not so difficult, so it is easy to follow.",
+      "comment_teaching": "Quite boring. The teaching pace is a bit slow because the professor is repeating something again and again.<br /><br />However, if you want to develop you career in the field of precision engineering (not in Hong Kong but Mainland China, Japan or US), you may find this course interesting. It is because the professor talks a lot about the recent development of precision engineering, and precision engineering is also his focus of research.",
+      "comment_grading": "30% Homework<br />70% Study paper<br /><br />Since all students can get full marks in homework, the grading fully depends on the study paper.<br /><br />The score of study paper is not announced, only the final grade is released, so I have no idea how I have performed in the study, and whether the professor is giving good grades in this course.<br /><br />Final grade: A-",
+      "comment_workload": "Almost zero workload because the solution of homework is given. You can simply copy all the answer and finish the homework easily. The only workload of the course is the study paper, which takes few days to finish.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

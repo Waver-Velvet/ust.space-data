@@ -1,0 +1,75 @@
+{
+  "course": {
+    "id": 1581,
+    "subject": "ACCT",
+    "code": "5160",
+    "name": "Corporate Financial Reporting I",
+    "description": "Corporate financial reporting from the perspective of managers and financial statement users, including analysts. Topics include inventories, fixed assets, income taxes, liabilities, leases, off-balance-sheet debt, and dilutive securities.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1730,
+      1710,
+      1610
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ACCT\" data-code=\"5100\" href=\"/review/ACCT5100\" target=\"_blank\">ACCT 5100</a> or <a class=\"course-link\" data-subject=\"ACCT\" data-code=\"5150\" href=\"/review/ACCT5150\" target=\"_blank\">ACCT 5150</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": [
+    {
+      "hash": "AXF3MZct8u6qYqV8kUumsBBYrYpoAuIc",
+      "semester": "2023-24 Fall",
+      "instructors": [],
+      "author": "CHY666",
+      "date": "Nov 28, 2023",
+      "title": "ACCT5160",
+      "comment_content": "basic knowledge of financial reporting. Inventory, PPE, amortization... Given the foundation of the following corporate financial reporting courses.",
+      "comment_teaching": "interesting with some short stories in class. the PowerPoint has something to highlight. involve a combination of mentorship, guidance, and opportunities for interns to actively engage in relevant projects and tasks.",
+      "comment_grading": "Not bad. group assignments, case studies, research papers, or presentations. The quality of work, depth of analysis, and adherence to guidelines or requirements can be considered in the grading process.",
+      "comment_workload": "High workload, but both presentation and case are given.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "NiiTdpKCxd2aHf73KOGMD3QxbeLKUns5",
+          "name": "ACCT 5710 Fall 2023 - Data Analytics in Accounting Syllabus",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

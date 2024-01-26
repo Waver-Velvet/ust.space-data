@@ -1,0 +1,77 @@
+{
+  "course": {
+    "id": 1669,
+    "subject": "ELEC",
+    "code": "5540",
+    "name": "High Tech Innovation and Entrepreneurship",
+    "description": "This interdisciplinary class combines a technical survey of emerging technologies/innovation with practical high-tech entrepreneurship training. It surveys a few major areas of innovation that will change the future landscape of the high-tech industry, with notable guest lecturers describing business cases and providing an industrial perspective. The class also introduces practical entrepreneurship principles for business development. Students will learn important skills such as building teams and attracting talent, developing a product/technology roadmap, marketing and selling an idea, company structuring, managing rapid growth, venture fund raising, forming strategic partnerships, and developing and intellectual property strategy. Students will form multi-disciplinary teams to write real-world business plans. Each team will develop a business model and execution plan based on its members' interests.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2010,
+      1910,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "CSIT 6000C, EESM 5810 (prior to 2019-20), ELEC 6910N, SBMT 6010K",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 188,
+        "name": "FUNG, Pascale",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "lvTZECQsw8S5OSp6GQpEVrOmRt5RGDQM",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 188,
+          "name": "FUNG, Pascale",
+          "rating": 1
+        }
+      ],
+      "author": "xixiyu",
+      "date": "Oct 06, 2023",
+      "title": "An easy course",
+      "comment_content": "The Prof. introduced some interesting industry applications of new technologies. She also invited some successful entrepreneur to share their experience. Every group needs to submit a business plan related to this course. The content is quite interesting.",
+      "comment_teaching": "The professor is graceful and nice. Although some other students may not agree with me.",
+      "comment_grading": "nice.",
+      "comment_workload": "All we need to do is to build a business plan and present it to the class. No midterm, no final, no assignment, and some other boring tasks. I think that it&#039;s a good chance to neet some friends from other majors.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

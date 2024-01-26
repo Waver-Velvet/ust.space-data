@@ -1,0 +1,117 @@
+{
+  "course": {
+    "id": 624,
+    "subject": "HUMA",
+    "code": "4250",
+    "name": "Masterpieces of Modern Literature",
+    "description": "A close study of selected masterpieces of modern literature, mainly fiction and poetry, by Chinese and Western authors of the twentieth century.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      1810,
+      1710,
+      1610,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.5,
+    "rating_teaching": 4.5,
+    "rating_grading": 4.5,
+    "rating_workload": 4.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 324,
+        "name": "WONG, Lisa L. M.",
+        "count": 1
+      },
+      {
+        "id": 1206,
+        "name": "MA, Xiaolu",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "Qzl4p9SWdh04bA9NfbaSWEPGwhxeBOGd",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 1206,
+          "name": "MA, Xiaolu",
+          "rating": 1
+        }
+      ],
+      "author": "Cherrie",
+      "date": "Sep 10, 2019",
+      "title": "",
+      "comment_content": "The content is very very rich that covers from Borges to Homi Bhabha (we did not have time to go through all of them tho). It is a very small class, therefore there is a lot of discussions on each writer and their work. <br />If you are very interested in modern world literature and literature theories, this course would be a nice choice for you.",
+      "comment_teaching": "Professor Ma is a very nice, caring and responsible instructor who opens a lot of grounds for discussion. Her teaching is very interactive that she encourages students to think and to express their points of view. <br /><br />She cares for students a lot. She would ask students if her teaching style is ok in the middle of the semester and adjust the syllabus accordingly. It is a small class so everything was negotiable. I really like her style of teaching.",
+      "comment_grading": "It is a small class. Grading is very pretty. I do not know how things work if it becomes a large class.<br /><br />1 mid-term paper<br />1 presentation<br />1 final paper<br />class participation",
+      "comment_workload": "A lot of required readings. But I enjoyed reading them since they are all literature. Sometimes we would have to go through some theories. But Professor Ma decided to drop the theory part since it is less fun.<br /><br />overall speaking the workload is not very heavy.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "RxH6IDY5oscINGbJAM7X5Blu8DBpm77a",
+      "semester": "2014-15 Fall",
+      "instructors": [
+        {
+          "id": 324,
+          "name": "WONG, Lisa L. M.",
+          "rating": 1
+        }
+      ],
+      "author": "vs",
+      "date": "Aug 26, 2015",
+      "title": "Perhaps a misnomer?",
+      "comment_content": "Varied, rich, A LOT OF different content, ranging from poems to prose to short stories. Lu Xun, Jorge Luis Borges, Woolf, TS Eliot,&nbsp;&nbsp;Kafka, Conrad were among the featured works. Range of ability in class wildly varies. Difficult to actually have high quality discussion when total enrollment is around 15 and out of those only 3-4 are actually able to engage in intellectually stimulating conversation. But are the selected works really &quot;modern&quot;? Are they really &quot;masterpieces&quot;? Selection bias...probably.",
+      "comment_teaching": "Not very hardcore - it&#039;s not the 4000-level comprehensive and dogged lit course you&#039;d expect from liberal arts universities. Although that may just be because I&#039;ve received extensive and rigorous lit education, pre-tertiary level. The prof is knowledgeable and well-read [provides additional supplementary material and slides], but not of a particularly remarkable disposition. Course is small, enrollment is low --&gt; course takes an interactive-ish seminar-style approach.",
+      "comment_grading": "Fair. As far as I can recall grading was wholly reliant upon midterm and final exams, with bonus participatory points. It makes sense to go to class and engage in discussion with the prof and those in the class who are able [lots of mainlanders and locals in the class, whom I very much doubt qualify to enroll]... Familiarize yourself with essay structures and writing before you walk into the exams. Time is limited.",
+      "comment_workload": "There&#039;s A LOT of reading if you want to actually get to the thick of it. If you don&#039;t [or won&#039;t], you can get away with reading ~4/5 out of the many, many texts and excerpts provided. Make sure it is that number though, because you can&#039;t repeat contextual references in the final as you did in the midterm.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "course": {
+    "id": 1960,
+    "subject": "ECON",
+    "code": "5570",
+    "name": "Advanced Topics in Macroeconomics",
+    "description": "The objective of this course is to study the implications of financial market imperfections for macroeconomics and finance, including uninsurable idiosyncratic risks, asymmetric information, moral hazard, agency costs, adjustment costs, and taxation. Lecture is focused on the theoretical foundation of financial imperfections and their qualitative implications. Students need to present papers to the class and complete a computation/estimation project.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      1810,
+      1630
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ECON\" data-code=\"5250\" href=\"/review/ECON5250\" target=\"_blank\">ECON 5250</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

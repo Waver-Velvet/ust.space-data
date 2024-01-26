@@ -1,0 +1,172 @@
+{
+  "course": {
+    "id": 1125,
+    "subject": "SHSS",
+    "code": "4991",
+    "name": "Capstone Project",
+    "description": "The capstone project aims to prepare students for research in humanities and social science, and may serve as an introduction to conducting research and writing a quality research project. For those students that do not wish to do a senior thesis, it will still enable them to learn the skills associated with a detailed research project and the presentation of research results. Enrollment in the course requires approval of the course coordinator.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2310,
+      2230,
+      2210,
+      2130,
+      2110,
+      2030,
+      2010,
+      1930,
+      1910,
+      1830,
+      1810,
+      1730,
+      1710,
+      1630,
+      1610,
+      1530,
+      1510,
+      1430,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "<a class=\"course-link\" data-subject=\"LANG\" data-code=\"4070\" href=\"/review/LANG4070\" target=\"_blank\">LANG 4070</a>",
+    "exclusions": "<a class=\"course-link\" data-subject=\"SHSS\" data-code=\"4992\" href=\"/review/SHSS4992\" target=\"_blank\">SHSS 4992</a>",
+    "rating_content": 3.5,
+    "rating_teaching": 3.5,
+    "rating_grading": 4.5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 4,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 674,
+        "name": "CHO, Hye Jee",
+        "count": 1
+      },
+      {
+        "id": 767,
+        "name": "FU, Li-tsui",
+        "count": 1
+      },
+      {
+        "id": 790,
+        "name": "KU, Shuk Mei Agnes",
+        "count": 1
+      },
+      {
+        "id": 1020,
+        "name": "SMITH, Jenny Leigh",
+        "count": 1
+      },
+      {
+        "id": 1134,
+        "name": "WONG, Siu Hei",
+        "count": 1
+      },
+      {
+        "id": 1374,
+        "name": "LAW, Pui Fung",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "aHScE6XVJOBaCW0rlbLl8AS5tHhE3aJ2",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 767,
+          "name": "FU, Li-tsui",
+          "rating": 1
+        },
+        {
+          "id": 1374,
+          "name": "LAW, Pui Fung",
+          "rating": 1
+        },
+        {
+          "id": 1020,
+          "name": "SMITH, Jenny Leigh",
+          "rating": 1
+        }
+      ],
+      "author": "alexchw",
+      "date": "Jan 01, 2021",
+      "title": "和advisor溝通很重要",
+      "comment_content": "還是那句話，選擇advisor很重要，和她溝通和合作良好，做起來自然得心應手。<br />在course的最後關頭會有一次匯報，要在兩個course instructor中選擇一個匯報，我選擇了Prof.Fu，主要都是人夾人而已，這個匯報都是不計分的，但匯報都要有包裝。",
+      "comment_teaching": "當然好，但大前提是要選擇正確的advisor",
+      "comment_grading": "40% Interim report<br />60% Final Report<br />Interim report 最好需要加入working plan/working schedule，一切清晰就沒有問題，最好和advisor有足夠的溝通<br />Final Report 就一定要提早交給advisor，以便他預留時間指導你的report，基本上沒有大問題<br />Final grade: A",
+      "comment_workload": "基本上選擇平時做開的題目範疇就會很輕鬆，但當然一定要有清晰的研究題目、大量的literature review以及finding，寫大概4000至5000字，citation/reference唔計，基本上可以。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "MBeY7AlAa6gshxbsMDAGGJuwVLe6Oj7U",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 674,
+          "name": "CHO, Hye Jee",
+          "rating": 0
+        },
+        {
+          "id": 790,
+          "name": "KU, Shuk Mei Agnes",
+          "rating": 1
+        },
+        {
+          "id": 1134,
+          "name": "WONG, Siu Hei",
+          "rating": 1
+        }
+      ],
+      "author": "llchan",
+      "date": "Jan 20, 2018",
+      "title": "B range guaranteed for Prof. Cho",
+      "comment_content": "I expect a FYP professor could help student by giving them advice and guidance. As I thought fyp is a project that can foster self learning.<br /><br />My fyp topic is about china development bank which I believe is related to Cho&#039;s field of reseach. <br /><br />However every time when I try to get advice from her, she will ignore my email and try to send me out of her office asap. I don&#039;t mind if you send me out of the office but please give me some constructive advice before sending me out or refer me to another professor.",
+      "comment_teaching": "No teaching.<br />Just 5 mins consultation.<br />Her advice is work hard and read.<br />So I just met her twice instead of thrice that required by the faculty.<br /><br />When compare to other professor like Zweig, Campell and Sharif. This kind of advice is not useful. <br /><br />I dont see the point of following Cho in doing my fyp.<br />(Special thanks to library victoria, lang tutor polong, shuan. Their advice are great and helped me to see the good and bad of my essay.)",
+      "comment_grading": "Oh just B+<br />I dont think she read through my essay.<br />If you want a guaranteed B+ then go ahead for Cho.",
+      "comment_workload": "Nothing. <br />You dont have to meet her.<br />She wont ask you to do anything specific.<br />Self-paced.",
+      "rating_content": 2,
+      "rating_teaching": 2,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

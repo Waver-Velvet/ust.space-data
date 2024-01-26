@@ -1,0 +1,118 @@
+{
+  "course": {
+    "id": 2669,
+    "subject": "MECH",
+    "code": "3400",
+    "name": "Introduction to Composite Materials",
+    "description": "This course introduces fundamentals of composite materials, which will cover the definitions of composites, their classifications and characteristics, the basic mechanics of their reinforcement mechanisms and common applications in science and engineering, especially in aerospace engineering. One important objective of the course is to underlie the concepts of rule of mixtures and laws of solid mechanics, by which the composite materials can be designed with desirable characteristics for engineering applications.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MECH\" data-code=\"2040\" href=\"/review/MECH2040\" target=\"_blank\">MECH 2040</a> AND <a class=\"course-link\" data-subject=\"MECH\" data-code=\"2410\" href=\"/review/MECH2410\" target=\"_blank\">MECH 2410</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 3,
+    "rating_grading": 4,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 904,
+        "name": "CHEN, Sherry",
+        "count": 1
+      },
+      {
+        "id": 1267,
+        "name": "SHI, Fan",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "CAtvExth5M0Doje7W1JZF0KS8p5W3VVL",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1267,
+          "name": "SHI, Fan",
+          "rating": 1
+        }
+      ],
+      "author": "An225 Mriya",
+      "date": "Jan 05, 2023",
+      "title": "Major Changes Since Last Review",
+      "comment_content": "There were in total 12 lecture notes for the course, in which they can be grouped in the following way:<br />A. Introduction, types and characteristics of composite materials (3)<br />B. Micromechanics (2)<br />C. Macromechanics (3)<br />D. Strength and failure modes of composite materials (2)<br />E. Experimental methods and non-destructive inspection (2)<br />*Due to COVID-19 infection, the last lecture related to non-destructive inspection was delivered by another TA.<br /><br />Similar to the previous MECH2410 course, mathematics was easy for this course: perhaps the most complex math component is to deal with the inverse hyperbolic tangent function when solving questions related to discontinuous fibre, which can be dealt with cheats like WolframAlpha for assignments.<br /><br />As composite materials are pivotal in modern aircraft design and manufacturing, I do believe they could be useful in your future studies.",
+      "comment_teaching": "In this semester, Professor Fan Shi was in charge of the course. As a Mainland Chinese professor, Professor Shi&#039;s accent isn&#039;t that thick when compared to others, which is good for understanding...<br /><br />Apart from this, his teaching is mediocre, to the extent that I didn&#039;t have much memorable moments in his lectures. Most of the time he actually acted as that kind of &quot;Powerpoint reader&quot;: reading PPT while asking student questions in lectures. That said, he did called students to the whiteboard in some occasions, and asked them to derive (simple) equations or sketch graphs, which made him slightly better than the average PPT reader. He was also responsive to students&#039; question after class, which was also a plus.<br /><br />The TA in charge of tutorials was also changed, with research assistant Han Wu being this semester&#039;s TA. He was woeful: tutorials were full of stammer (err... emm... hmm...), which is complicated by thick Chinese accent. His tutorials also lacked further examples that we would expect in engineering courses. While dissatisfying, my study wasn&#039;t that impacted by such flaw given by the low math requirement.<br /><br />Moreover, I&#039;d further propose that he was totally unprepared for his TA duty, not only his high level of stammer (Year 1 students who prepared for a course-based group presentation would have did better than him!), on one occasion he copied the professor&#039;s examples that were explained on lectures and re-ran them again: MAN, fresh textbook questions and solution guides aren&#039;t that hard to find, even another PPT reader who talked about them would be much better to Mr. Wu&#039;s performance.<br /><br />Perhaps the only thing that he did well was introducing us on how to use Matlab to solve certain problems, but this was not used in solving MECH3400 homeworks (but do helped with other courses like MECH3610 though).<br /><br />There were also other TAs who were responsible for lab activities, in which I can&#039;t remember their names, but all of them are Mainlanders. They were helpful in guiding the experiments and lab activities for this course, and one of them enquired on our understanding on wave theories, although their accent was also thick as well. It would be better to use Putonghua instead of English when talking with them.<br /><br />All in all, a marginal C+/B- for the professor, a condemnable E for Han Wu, a B for the other TAs: so most probably an averaged C for teaching.",
+      "comment_grading": "Homework: 30% (83%, 75%, 91%)<br />Midterm: 20% (96%)<br />Final project: 40% (Never released per MAE practice)<br />Lab sessions: 10% (Unknown)<br />*Note that the means for all assessments were not released<br /><br />There were 3 homeworks for this course, each covering standard straight-forward calculation questions. The first homework was related to basic concepts. While they were easy in general, I&#039;d complain that the marking was quite opaque, as there were no answer keys released after grades were released.<br /><br />Before the midterm exam, Professor Shi assured us that &quot;this will be the easiest midterm in this semester&quot;. Indeed he was correct: Of all 5 questions, most of them were quite standard and straight-forward, although the midterm did contain an advanced question to differentiate the brighter ones. I finished the 1-hour open cheat-sheet midterm with ease, probably leaving 15-20 minutes before handing in the papers.<br /><br />The project was a 4-5-student effort to write an essay about a topic (from 10 pre-der) related to composite materials, and coupled with a 20-minute presentation. The presentation was conducted 2-3 days before the study break, while the essay was handed in after the final exam period. As per MAE practice the project&#039;s grade was obfuscated, so I can&#039;t ascertain my group&#039;s performance, although the professor did praise my group&#039;s unique research topic when we presented the topic of composites used in warships (unsure whether this was complimentary or not).<br /><br />The lab sessions consist of making composite using prepreg and ultrasonic testing for composite materials. While the course claimed that there would be online assessments, it turned out they never handed out such things, so this 10% is more like of a participation score.<br /><br />At the end get a B+, in which I&#039;m not sure whether it was caused by one of the botched homework or the performance of the project.",
+      "comment_workload": "Before November, the workload was minimal, as they only handed out one homework for us. Midterm preparation was also easy: the textbook questions were usually no more difficult than the homework and midterm questions. In fact I believe I should have spent less time on revising MECH3400&#039;s midterm in order to work more on MECH3640&#039;s project.<br /><br />But when it comes to November, you&#039;ll be working for multiple concurrent projects at the same time. My group started the groundbreaking works almost until the last week of the semester, as others were also (probably) working on their own other projects. The presentation slides were rushed within a week, while the essay was also quite rushed, albeit time was not that cramped thanks to a groupmate’s early contribution.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "DBMNTlaq33GZzjNWTDSIniUQhnrJmSr8",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 904,
+          "name": "CHEN, Sherry",
+          "rating": 1
+        }
+      ],
+      "author": "販冰兵",
+      "date": "Jan 06, 2019",
+      "title": "當你以爲自己好高分嘅時候，其他人會更高分",
+      "comment_content": "據説前身係MECH4000G，今年改咗做Aero必修。始終係個Intro Course，教嘅嘢又唔係話好難，基本上肯讀返佢嘅notes都無問題。<br /><br />Midterm前嘅嘢就好簡單，都係講下複合材料一啲基本概念、特點、製造過程之類。係Midterm後先會開始複雜少少，講下少少複合材料嘅力學，開始計下數，最後就會Cover埋啲材料會點爛法嗰啲。<br /><br />而且有Part係去HAECO參觀睇下人哋點樣維修啲Composite同埋喺Lab度示範整一次Composite，都幾得意嘅。",
+      "comment_teaching": "Sherry幾好人，講嘢、啲Notes都好有條理，唔會話詞不達意或者1999。<br /><br />但有時候略嫌佢講得冇乜自信，又成日上堂揶揄Sunny教得好過自己。而且成日會好似好細聲同埋會望住地下講嘢咁。可能N賤出身嘅人都比較含蓄內斂掛🤷<br /><br />不得不提嘅係Sunny哥！！！Tutorial同Lab都一如以往教得好好。Tutorial會講好多Examples，所以就算唔上都要睇熟Tutorial Notes。",
+      "comment_grading": "Homework 30%<br />Mid-term 20%<br />Final 30%<br />Industrial Lecture 10%<br />Lab Tutorial 10%<br /><br />佢嘅Grading Scheme拆得好散，唔知對你嚟講係唔係好事。Industrial Lecture同Lab Tutorial都係完咗就上Canvas做個Quiz（5題MC），有認真聽就一定會識做。<br /><br />Midterm/Final就基本上同功課、Tutorial同埋Class Exercise好相似，所以你做熟曬明曬咁你考試就一定無問題。<br /><br />派grade嚟講我諗佢應該正常掛。<br />你放心，成班都一定會好高分😂不過我諗攞Mean大概都有B嘅。",
+      "comment_workload": "呢科基本上冇嘢做咁濟。淨係Sem中會叫你交4份Assignment。有一兩次Compulsory Lab係梅花間竹咁插喺Tutorial時段，但都唔會用太多時間。最後就係呢科Midterm/Final都係Open Book！所以Workload嚟講真係唔多。",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

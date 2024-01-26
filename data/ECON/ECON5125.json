@@ -1,0 +1,76 @@
+{
+  "course": {
+    "id": 3513,
+    "subject": "ECON",
+    "code": "5125",
+    "name": "Behavioral Economics",
+    "description": "The course demonstrates how insights of behavioral economics can be utilized by managers to address important decisions confronting the firm via case studies. It introduces the basic concepts of behavioral economics, including loss aversion, prospect theory, time-inconsistency, biases in information processing, nudge/choice architecture, behavioral game theory.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2310,
+      2210,
+      2130,
+      2110
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 140,
+        "name": "LIM, Woo Young",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "EcAjzuaGy72ooxqid1NOnTKeJvfEo8AV",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 140,
+          "name": "LIM, Woo Young",
+          "rating": 1
+        }
+      ],
+      "author": "pyclamaa",
+      "date": "Jan 31, 2023",
+      "title": "An easy course not to miss to balance your workload",
+      "comment_content": "Content is interesting if you love behavioural economics, materials are a bit too elementary. There are ample discussions on real life cases and examples. The readings are interesting and fun to go through. Disappointed that the course did not cover game theory.",
+      "comment_teaching": "Teaching is alright, professor is passionate and enthusiastic about the topics covered in class. Professor is open to discuss questions and also recommends books for further understanding the concepts.",
+      "comment_grading": "This is a pass/fail course, just attend all the classes and submit your final essay on time.",
+      "comment_workload": "Easy, only one essay to submit for the 4 week course.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 520,
+    "subject": "HUMA",
+    "code": "1410",
+    "name": "General Chinese History: Pre-modern",
+    "description": "This introductory course provides students a general picture of Chinese history from the beginnings of Chinese civilization to 1840 A. D. This survey course examines the origins and development of Chinese civilization and Chinese history in political, socio-economic, and cultural perspectives.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1430
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 3,
+    "rating_grading": 3,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 337,
+        "name": "HO, Kai Lung",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "R63EGBijuqf6P4r9eZ0jfkoFtbxLwWWN",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 337,
+          "name": "HO, Kai Lung",
+          "rating": 0
+        }
+      ],
+      "author": "Lucia",
+      "date": "Aug 19, 2015",
+      "title": "Nice content but awful language problem",
+      "comment_content": "The professor use the book &quot;China A New History&quot; written by John King Fairbank and Merle Goldman.<br /><br />The content is made according to this book, making it more clear and easy to follow.<br /><br />He gave us questions to write short essay during tutorial by groups.",
+      "comment_teaching": "It&#039;s quite clear that the professor just read out the ppt and the book.<br /><br />He used English to teach. But what made it worse was that he always repeated what he said just now in Cantonese, which means international students could do nothing but wait for him speaking English again.<br /><br />And this course should have been taught by English only.",
+      "comment_grading": "Midterm40%+Final50%+Tutorial(all tgt 4)&amp;Participation10%<br /><br />This is a guest professor, which means grading can be really weird.<br />(I was the TOP10 in both midterm and final, but received&nbsp;&nbsp;B+ at last. I doubt whether there was A range.",
+      "comment_workload": "The workload is quite light. There were some readings, interesting but actually quite useless for exams. <br /><br />Four tutorials were done in tutorial classes, and no need to pay more attention after classes.<br /><br />However, both midterm and final were close-book exams, making us to recite tons of things.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

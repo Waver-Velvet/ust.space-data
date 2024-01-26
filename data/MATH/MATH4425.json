@@ -1,0 +1,121 @@
+{
+  "course": {
+    "id": 921,
+    "subject": "MATH",
+    "code": "4425",
+    "name": "Introductory Time Series",
+    "description": "Stationarity, (partial) auto-correlation function, ARIMA modeling, order selection, diagnostic, forecasting, spectral analysis.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      1930,
+      1830,
+      1730,
+      1610,
+      1530,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"3423\" href=\"/review/MATH3423\" target=\"_blank\">MATH 3423</a> and <a class=\"course-link\" data-subject=\"MATH\" data-code=\"3424\" href=\"/review/MATH3424\" target=\"_blank\">MATH 3424</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 543,
+        "name": "LING, Shiqing",
+        "count": 1
+      },
+      {
+        "id": 1793,
+        "name": "HE, Heping",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "s0AGdOAy2ZjtBYQXFNhvaSyS0gezr9E9",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1793,
+          "name": "HE, Heping",
+          "rating": 1
+        }
+      ],
+      "author": "Sony",
+      "date": "Jun 01, 2023",
+      "title": "Introductory Time Series",
+      "comment_content": "1. Overview (What is time series...)<br />2. Fundamental Concepts (Stationary, ACF, PACF...)<br />3. Stationary Time Series Models (AR, MA, ARMA)<br />4. Non-stationary Time Series Models (ARIMA)<br />5. Forecasting <br />6. Model identification<br />7. Parameter estimation, diagnostic checking and model selection<br />8. Seasonal time series model (SARIMA)<br />9. GARCH model<br />10. Vector time series models (VAR, VMA, VARMA)<br /><br />Open book exams<br />Midterm: 1-6 with a few pages of 7<br />Final: Remaining",
+      "comment_teaching": "The professor and TA are very nice and friendly. Pay attention to what the professor said and wrote in class to have better understanding about the lecture notes.",
+      "comment_grading": "Homework x4 15%&nbsp;&nbsp;&nbsp;<br />Midterm 15%<br />Project 20% <br />Final 50%<br />Attendance Bonus mark (Max:2)<br />The grading is good and fair. However, the homework, project and exam are easy to get high mark. You may be in trouble if you lose a lot of marks.",
+      "comment_workload": "Not much. The HW questions are simple. They are easy to complete if you follow the lecture notes, tutorial notes and the given R coding script.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "0ZSwiZDJMWHEFdSzhg1yI5NjrKuJiE2V",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 543,
+          "name": "LING, Shiqing",
+          "rating": 1
+        }
+      ],
+      "author": "Jerry sh",
+      "date": "Aug 05, 2022",
+      "title": "",
+      "comment_content": "Teach some basic knowledge in time series.<br /><br />At first teach some basic time series models such as AR, MA, ARMA, ARIMA, SARIMA, etc. <br /><br />Later teach some diagnostic things such as how to check whether a time series is stationary, how to check whether a time series model (e.g. ARIMA (p,d,q)) fits the real data well.<br /><br />Then teach some parameter estimating methods, forecasting and briefly mention some simple multivariate time series model.",
+      "comment_teaching": "Frankly speaking, the teaching is good though the professor has some accent in English which takes me some time to get used to it.<br /><br />I have read some posts evaluating Prof. LING in USTSPACE, some of which thought the teaching is not so good. I would say if you take every class on time, then the teaching quality is quite good. The reason is that many proves or details are given in the form of hand-wrriten notes during class. So, if you miss the class, you will know nothing since the notes is not easy to read without explanation.",
+      "comment_grading": "There are very few people in the course. Maybe less than 10 I think. So I don&#039;t think the grade is given by curve.<br /><br />20% individual project<br />15% homework<br />15% midterm<br />50% final<br /><br />I think if you work hard in this course, you will definitely get a good grade. I got A+ at the end.",
+      "comment_workload": "The workload is not heavy.&nbsp;&nbsp;The assignment is relatively easy.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 7,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

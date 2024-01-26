@@ -1,0 +1,32 @@
+{
+  "course": {
+    "id": 567,
+    "subject": "HUMA",
+    "code": "2480",
+    "name": "Daily Life in Imperial China",
+    "description": "A survey of the rich variety of daily life in traditional China, including festivals, family, marriage, food, clothing, tea drinking, wine testing, traveling, entertainment, and folk beliefs. Their social roles and cultural meanings are examined.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1610,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

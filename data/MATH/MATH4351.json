@@ -1,0 +1,88 @@
+{
+  "course": {
+    "id": 917,
+    "subject": "MATH",
+    "code": "4351",
+    "name": "Numerical Solutions of Partial Differential Equations",
+    "description": "Introduction to finite difference and finite element methods for the solution of elliptic, parabolic and hyperbolic partial differential equations; including the use of computer software for the solution of differential equations.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2030,
+      1830,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2350\" href=\"/review/MATH2350\" target=\"_blank\">MATH 2350</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2351\" href=\"/review/MATH2351\" target=\"_blank\">MATH 2351</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2352\" href=\"/review/MATH2352\" target=\"_blank\">MATH 2352</a>) AND <a class=\"course-link\" data-subject=\"MATH\" data-code=\"3312\" href=\"/review/MATH3312\" target=\"_blank\">MATH 3312</a> AND <a class=\"course-link\" data-subject=\"MATH\" data-code=\"4052\" href=\"/review/MATH4052\" target=\"_blank\">MATH 4052</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 554,
+        "name": "XU, Kun",
+        "count": 1
+      },
+      {
+        "id": 867,
+        "name": "JI, Xing",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "B8kLfooJsWRLacRwTBir6lXVeZsjqkjl",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 554,
+          "name": "XU, Kun",
+          "rating": 1
+        },
+        {
+          "id": 867,
+          "name": "JI, Xing",
+          "rating": 1
+        }
+      ],
+      "author": "PimpDaddy",
+      "date": "Jun 08, 2017",
+      "title": "",
+      "comment_content": "This course is a mathematical introduction to finite difference and some finite volume methodologies for simulating PDEs. Knowledge of PDEs is barely touched on, so MATH 4052 is not truly required. <br /><br />The course will cover parabolic (e.g., the heat equation), hyperbolic (e.g., the linear advection equation), and elliptical equations (e.g., the Laplace equation). <br /><br />To be specific, you will see explicit, implicit, and theta-schemes. You will be able to analyse the stability, convergence, consistency, truncation error, error bound, etc of numerical schemes. <br /><br />The course is mathematical, so you should expect to see claims and their proofs. However, you are not expected to reproduce any proofs in the assignments, projects, or examinations. <br /><br />Professor Xu&#039;s research focuses on rarefied gas-kinetic schemes, so you should expect to see hyperbolic equations more than any other kind.",
+      "comment_teaching": "Professor Xu&#039;s expertise is evident by the way he teaches. He is a fluent orator, interspersing stories from his life in between the lecture material. He makes the class interesting. He is happy to take questions, especially because there are only 2-4 students attending at any time. <br /><br />There are no lecture notes of any kind for this course, online or offline. However, attendance is not mandatory because the professor bases his lecture very heavily on the textbook: Numerical Solution of Partial Differential Equations: An Introduction by K.W. Morton and D.F. Mayers. There are some copies of this book in the library. Be aware that this is considered an intermediate to advanced textbook and so is not easy to understand. Also, assignment questions and some examination questions are taken from the textbook directly.",
+      "comment_grading": "The class has historically been quite small (around 6-8 people per semester). Additionally, this course is consider as a final-year elective not a required class. As a result, the professor guarantees a decent grade. Apparently, he has never given a grade lower than B- for this course.<br /><br />The grading scheme is highly flexible and is designed to give you a good grade. <br />Assignments - 10%<br />Projects&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 15%<br />Midterm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;25% or 0%<br />Final&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 50% or 75%<br /><br />The professor will choose the best possible score among the two grading schemes. That means you can skip the midterm freely and rely solely on the final.",
+      "comment_workload": "The workload is manageable. <br /><br />There are 3 assignments in total, each consisting of 3-4 questions from the textbook. Note that the professor does not have a course webpage, so you must attend the lecture to find out what the assignment questions are. <br /><br />Also, the course has 2 projects. These are extremely simple because they are designed to force you to implement the explicit, implicit, and theta-schemes you learn in class. He casually provides boundary conditions, giving you complete freedom to implement them as you wish. You can use any software (Matlab is popular but not mandatory) you wish to complete the task. Due to this freedom, the assignment is relaxed. <br /><br />The midterm and the final exams are meant to be simple, according to the professor. They test only the basics, with the final being harder than the midterm.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

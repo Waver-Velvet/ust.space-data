@@ -1,0 +1,118 @@
+{
+  "course": {
+    "id": 1188,
+    "subject": "SOSC",
+    "code": "3410",
+    "name": "East Asian Economic Development",
+    "description": "This course examines East Asia's economic development using theoretical concepts of development economics that range from classical to developmentalist and neoclassical theories. It also covers a number of concepts and events specific to East Asian economies, including the East Asian \"development miracle\", the role of government in East Asia's economic development, demographic change, cultural idiosyncracies, regional production networks, and differences in the development strategies and development paths of East Asian countries.",
+    "categories": [
+      "Common Core (SA)"
+    ],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1910,
+      1530,
+      1430
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4.5,
+    "rating_workload": 4.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 665,
+        "name": "HONG, Jean (Ji Yeon)",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "8LOh2WwdUsrKWuFV9mIe6alTXVrGatFF",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 665,
+          "name": "HONG, Jean (Ji Yeon)",
+          "rating": 1
+        }
+      ],
+      "author": "alexchw",
+      "date": "Jan 24, 2020",
+      "title": "",
+      "comment_content": "The course is pretty interesting, which introduces the economic development of East Asian in different kinds of aspects such as GDP, therefore it would be much better if you have studied economics.",
+      "comment_teaching": "Prof. Hong is very nice and she is. willing to answer the question of students via email and after lesson.Her lecture slides are also detailed and include some information of readings which are easy to catch up. Prof. will answer question and give us some tips, so it is good.",
+      "comment_grading": "Grading column<br />10% - Attendance and Participation<br />20% - Midterm examination<br />30% - Group presentation<br />40% - Final examination<br />I think the grade is super good. Although i got 43/50 in mt (mean 36.8), i don&#039;t think i performed well in the final examination, but it turns out A.",
+      "comment_workload": "You may refer to the syllabus. I would say that the attendance is strict as the prof requires us to send her an email in the start of lesson as the way to check attendance. But everything will be alright if you try your best.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "BFwMpEKMkD0xyjNlySXuxX3UfZWZ4WFO",
+          "name": "SOSC3410_HONG_JIYEON_Syllabus_fall2019 (3)",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "neFyy7WPL6kqWL8PPkBdAKB55CsovXGk",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 665,
+          "name": "HONG, Jean (Ji Yeon)",
+          "rating": 1
+        }
+      ],
+      "author": "llchan",
+      "date": "Jan 12, 2018",
+      "title": "",
+      "comment_content": "I. Research Methods<br />II. Theoretical Discussions of Economic Development<br />-History<br />-Development Theory<br />-Regime Type and Economic Growth<br />III. East Asian Model<br />-Economic Miracle in East Asia<br />-Components of Miracle<br />-East Asian Model: Government/Bureaucracy<br />-East Asian Model: Industrial Policy<br />-East Asian Model: Human Capital<br />-East Asian Model: Limited Democracy and State-Business<br />Connection<br />-Asian Economic Crisis<br />IV. Countries<br />-Japan<br />-South Korea<br />-Taiwan<br />-Hong Kong<br />-China<br />-North Korea<br /><br />It is quite a comprehensive class on Economic development in East Asia. Just a pity that Professor didn&#039;t have the time to go through China and North Korea. <br />But the present from class mates are the supplement to what professor missed. Like my group we did a comparison on Zhongguancun vs Silicon Valley on the lecture about China.",
+      "comment_teaching": "Professor used a lot of charts, report and essays from others to support her lectures.<br />Those charts and books are convincing to me. <br />Love that &lt;3",
+      "comment_grading": "1. Case Presentation: 30%<br />2. Mid-term examination: Two mid-term exam will take 25% of the grade. <br />3. Final paper: 35% <br />4. Class attendance and participation: 10%<br /><br />Presentation Subjects<br />1. Developmental Dictators in East Asia [March 2]<br />2. Developmental Dictators in East Asia [March 4]<br />3. Life of East Asian Students [March 23]<br />4. Anti-corruption Campaign [March 30]<br />5. Abenomics [April 13]<br />6. Will Chaebol die? [April 15]<br />7. Sunflower Movement and the 2016 Taiwanese Election [April 20]<br />8. Economic Relationship between China and Hong Kong [April 22]<br />9. Start-ups in Silicon Valley and China [April 27]<br />10. North Korean Economy [May 4]<br /><br />I didn&#039;t perform well in the midterm and I got a B in the class.",
+      "comment_workload": "Not much to do but remember to read some reading and careful in choosing group mates and topics.<br />I think my group mates are just good and they are quite headstrong",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

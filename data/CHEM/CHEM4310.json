@@ -1,0 +1,456 @@
+{
+  "course": {
+    "id": 114,
+    "subject": "CHEM",
+    "code": "4310",
+    "name": "Environmental Chemistry",
+    "description": "Chemical phenomena in the hydrosphere, lithosphere and atmosphere; their interaction with the biosphere; origin and treatment of pollutants and hazardous waste; environmental monitoring and analysis.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230,
+      2130,
+      2030,
+      1930,
+      1830,
+      1730,
+      1610,
+      1510
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"2310\" href=\"/review/CHEM2310\" target=\"_blank\">CHEM 2310</a> OR <a class=\"course-link\" data-subject=\"CHEM\" data-code=\"2311\" href=\"/review/CHEM2311\" target=\"_blank\">CHEM 2311</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.09,
+    "rating_teaching": 3.45,
+    "rating_grading": 3.45,
+    "rating_workload": 3.27,
+    "review_count": 11,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 234,
+        "name": "YU, Jianzhen",
+        "count": 10
+      },
+      {
+        "id": 643,
+        "name": "RENNEBERG, Alfred Herbert Reinhard",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "NwoOqpNM9CUnQxqmleAk8YCzakifdGFf",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 234,
+          "name": "YU, Jianzhen",
+          "rating": 0
+        }
+      ],
+      "author": "RIbtSU",
+      "date": "Jun 05, 2023",
+      "title": "Bad grading course",
+      "comment_content": "The content is quite heavy, with a lot of factual stuff while also a lot of calculation. You need to have both good memory and physical chem background in order to perform well. The prerequisite of this course is analytical chem (Chem2310/2311) which is actually fake. The calculation stuff is all about physical chem. I am a Lifs student with a chem minor so I didn&#039;t study physical chem before. Because of the fake official prerequisite, I got trapped and sucked and self study back the physical chem stuff. Dun be fake by the topics titles. You expect global warming is just like secondary school LS stuff? No, you need to calculate GWP (global warming potential). To calculate those photolysis reactions of ozone, you need Quantum physics.<br />This course with the code 4310 is supposed to be easier than 4320 which explicitly stated &quot;Environmental Analytical Chem&quot;. However, I am pretty sure the calculation of this course is more difficult than 4320. In fact, I think the course name and code should be changed. <br /><br />1. Simple tool kit<br />2. Mass balance and kinetics<br />3. Water (characteristics, chemical processes)<br />4. Fates of organic compounds<br />5. Persistent organic compounds<br />6. Metal pollution<br />7. Composition of the atmosphere<br />8. Chemical reactions in the atmosphere<br />9. Photochemical smog<br />10. Ozone layer<br />11. Greenhouse gases and global warming<br />12. Particulate matters",
+      "comment_teaching": "This prof accent is quite weird, making it hard to focus on what she said. But she is quite nice in that she is willing to answer your questions. But the content is just too broad that hard to grab the main idea for each topic.",
+      "comment_grading": "Midterm: 40%<br />Final: 40%<br />Assignment: 20%<br />My score:<br /><br />Midterm:<br />101/110&nbsp;&nbsp;(mean: 82/110)<br />Final:<br />99/110 (mean: 81.5/110)<br /><br />Group Assignment:<br />Nearly everyone got full marks <br /><br />My overall ranking is 4 out of 27 people.<br />And I got B+ DLLM<br />This means Prof only gives 3 A range, <br />Only 10% A range for this course.",
+      "comment_workload": "The workload mainly comes from group assignments. Nothing to say because the assignments are not difficult and you have plenty of time to finish it. Actually, the assignments can be finished by one person. Dunno why she makes it as group assignments lol.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "KXCTrvEI6TeIXGJlSdtoqgKViF3vgwqh",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 234,
+          "name": "YU, Jianzhen",
+          "rating": 1
+        }
+      ],
+      "author": "JUMIN",
+      "date": "Sep 04, 2022",
+      "title": "Courses that require time and serious study",
+      "comment_content": "The class is informative and introduces environmental chemistry, including the chemistry of water and the atmosphere. The class is divided into two sessions per week, and the knowledge gained will be useful for future research in environmental chemistry.",
+      "comment_teaching": "Professor Yu was very serious and well prepared for the class, and gave students adequate explanations for exams and assignments.",
+      "comment_grading": "Assignment 50%<br />Final exam 50%<br />There are all kinds of grades, and there are people who failed the grade.",
+      "comment_workload": "Since it is an online course and the midterm exam is cancelled, there are more assignments.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "cNufbNuJZpG33dHCh8jfNJZt0lawCbuF",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 234,
+          "name": "YU, Jianzhen",
+          "rating": 1
+        }
+      ],
+      "author": "ilubyouboyz",
+      "date": "Jun 09, 2022",
+      "title": "I feel like I am finally studying something useful and high-end.",
+      "comment_content": "The contents were useful for daily life and the slides were really informative enough. I think they enriched students with common sense related to the environment. It also demostrated how chemistry is applied in real life. <br /><br />1. Simple tool kit<br />2. Mass balance and kinetics<br />3. Water (characteristics, chemical processes)<br />4. Fates of organic compounds<br />5. Persistent organic compounds<br />6. Metal pollution<br />7. Composition of the atmosphere<br />8. Chemical reactions in the atmosphere<br />9. Photochemical smog<br />10. Ozone layer<br />11. Greehouse gases and global warming<br />12. Particulate matters",
+      "comment_teaching": "To be honest, Prof. Yu was going through the contents really quickly. Yet it was really clear when she explained the parts that should be discussed in a more in-depth manner, so to facilitate the understanding of the subsequent topics. The course was well-designed and well-planned. She never overran lectures.",
+      "comment_grading": "Assignment 50%<br />Final exam 50%<br /><br />My scores (mean with the same denominator):<br />A1 - 50/50 (45.8)<br />A2 - 20/20 (15.7)<br />A3 - 43/50 (35.7)<br />A4 - 31/35 (33.2)<br />A5 - 43/45 (40.1)<br />A6 - 41/55 (44.1)<br />Final exam - 88/130 (74.4)<br /><br />Final grade: A-<br /><br />I think it was quite a reasonable grading, not a killer nor being too generous.",
+      "comment_workload": "One assignment in two weeks. 3 people in a group. If you divide the work into one to two questions per groupmate, it isn&#039;t a lot. There were 6 sets of assignment. Most of them were the same as previous years. So, I would say, it would be an advantage if you got good sources from past students of the course LOL. Chegg is absolutely useful as well. <br /><br />For the final exam, since we did not have mid-term exam due to the covid, we had to revise contents of the whole semester. It was a tremendous challenge! We were allowed to bring a A4-sized cheat sheet with contents on both sides without any restrictions.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "sObzXjKn0A8iLdcyNmNkmgq8KgzCSg2C",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 234,
+          "name": "YU, Jianzhen",
+          "rating": 1
+        }
+      ],
+      "author": "gazelle",
+      "date": "Jun 08, 2021",
+      "title": "Not bad as an elective.",
+      "comment_content": "More or less the same as what others have mentioned, so I don’t repeat here.<br /><br />What I want to say is, don’t expect you could learn a lot from this course. Although 13 topics are covered which might seem overwhelming, this course only scratches the surface of Environmental Chemistry.<br /><br />If you would like to know more about how Atmospheric Science works, taking LIFS 1030 would help. If you wanna understand deeper PM pollution and its control strategies, taking ENVR 2020 would be beneficial. LIFS 4380 would explore the pathogenic mechanisms of heavy metal poisoning from a toxicological perspective.<br /><br />Last but not least, if your research area is in Environmental Science, I would suggest you take CHEM 4320 as well. CHEM 4320 discusses the sampling techniques and instruments commonly used in environmental analysis, as well as the pros and cons of different methodologies, which CHEM 4310 doesn’t really cover.<br /><br />Overall, CHEM 4310 is not bad as an elective if you just wanna graduate.",
+      "comment_teaching": "Among the courses I have taken for Environmental Analytical Chemistry Option, I would say Professor Yu’s teaching is alright. At the very least, you can gain some important takeaways from her lecture, and you know what the heck is going.<br /><br />If you recall Stefan’s CHEM 4320, then you should realise that Stefan is quite good at making people fall asleep. While for 神童’s CHEM 4340, except for “disastrous”, you could barely find a right adjective for description.<br /><br />One thing unsatisfactory is that unlike Xuhui (CHEM 3420 professor), she never demonstrates a calculation example step-by-step on board or paper. She prefers showing you all the things in the handout, or simply asks students to calculate on their own. <br /><br />Sometimes, what is shown in the slide is oversimplified. For example, only 3 lines are provided in deriving steady state ratio of O3/O2 in the upper stratosphere, whereas I have written &gt;10 lines for derivation.<br /><br />Don’t get intimidated by those “perplexing” math problems though. For the calculations that you will encounter in quizzes or exams, you should be able to solve within 2 or 3 lines. After all, group homework is more bothersome.",
+      "comment_grading": "Group Homework Assignment x 4 ─ 22%<br />Best 6 Quizzes (Among 7 quizzes) ─ 78%<br />No Final Exam<br /><br />Decent. I am quite surprised that I earned an A+ with an overall score of 95 (overall mean ≈ 73.3, unknown sd).<br /><br />In previous years, A+ is only awarded to 1st in class, given the class size of 40-50. I am pretty sure I was only 2nd or 3rd in class ─ merely 4 of my quizzes reach the max score due to my careless mistakes. <br /><br />As a matter of fact, a 97 last year could only give you an A. Considering the smaller class size (32 students) this year, I guess absolute grading is adopted.<br /><br />Thanks Professor Yu for helping me to 爆4 this semester XDD.",
+      "comment_workload": "Medium to heavy workload I would say.<br /><br />A course without final exam is definitely less stressful, after all, you don’t need to cramp everything into your brain during the reading week. It doesn’t mean workload of this course is light, however.<br /><br />I discover that handouts are always missing essential details that the quiz might assess. From time to time, I have to revisit the lecture video and jot down Professor Yu’s elaboration. On few occasions, she even confuses herself and fails to properly explain some particular slides. What I do in such cases is to search for some supplementary info online and write up some notes myself.<br /><br />Workload of group homework is a little bit heavy. You needa analyse numerous amounts of data using MS Excel before you can draw any conclusions. I won’t say this kind of work is a waste of time. But taking 4000-level lab courses and doing a capstone research are surely better options, if you seek to sharpen your data analysis skills.<br /><br />Make sure you strictly follow the tutorial PPT when doing calculations, or there will be loss of marks. Also be aware of free rider in your group, good luck :) !",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "SzFYFcN2gpwYvX2h9emnoy9kr2KhVj2B",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 234,
+          "name": "YU, Jianzhen",
+          "rating": 1
+        }
+      ],
+      "author": "psyufs26",
+      "date": "Jun 09, 2020",
+      "title": "Poorest pronunciation I have ever heard",
+      "comment_content": "1. Simple Tool Skills<br />2. Mass Balance and Kinetics<br />3. Fundamentals of water chemistry<br />4. Fates of Organic Compounds<br />5. Persistent Organic Pollutants<br />6. Carbon dioxide equilibrium, acid rain and ocean acidification<br />7. Heavy metal pollution<br />8. Atmospheric Chemistry: Chemical composition<br />9. Chemical kinetics of atm reactions<br />10. Oxidizing power of the troposphere &amp; ozone pollution<br />11. Stratospheric ozone<br />12. Greenhouse gases and global warming<br />13. Particulate matter in the atmosphere",
+      "comment_teaching": "I was really shocked when I attended the first lesson. I know I shouldn&#039;t expect that I could listen good pronunciation from chem dept prof, but she has really terrible accent and hesitation. Sometimes I dun even know which word she is reading. <br /><br />And she just reads out what she has in the ppt. Even there is calculation-based question, she never explains them. <br /><br />At the last lesson, her TAs are invited to give a lecture for us, and in my opinion the girl TA Beryl even teaches better lol",
+      "comment_grading": "Self‐study homework + Group project homework: (20%) <br />Exam I (40%)<br />Exam II (40%)",
+      "comment_workload": "3 homework &amp; 4 group project<br />Some require us to read tonnes of words from the source she provides, and also make a short essay-writing.",
+      "rating_content": 4,
+      "rating_teaching": 1,
+      "rating_grading": 3,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "fxEnPqm8r20GPl03FFee6OkTn1Nc2lGC",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 234,
+          "name": "YU, Jianzhen",
+          "rating": 1
+        }
+      ],
+      "author": "BigDragon",
+      "date": "May 28, 2020",
+      "title": "",
+      "comment_content": "1. Simple Tool Skills<br />2. Mass Balance &amp; Kinetics<br />3. Fundamentals of Aquatic Chemistry<br />4. Fates of Organic Compounds<br />5. Persistent Organic Pollutants<br />6. CO2 Equilibrium, Acid Rain &amp; Ocean Acidification<br />7. Metal Pollution: Hg, Cd, Pb",
+      "comment_teaching": "Her teaching is beneficial to people with visual disabilities in understanding the powerpoint since she literally just read aloud the powerpoint during lectures, not explaining the steps when there is a calculation question ( just read aloud the numbers ) and skip explaining/not showing the steps in practice questions. People who could not read the powerpoint can attend her lectures to understand the contents of the powerpoint but eventually learnt NOTHING.",
+      "comment_grading": "Midterm 35%<br />Final 30%<br />HW+Group Project x4: 35%",
+      "comment_workload": "Many assignments, group projects",
+      "rating_content": 3,
+      "rating_teaching": 1,
+      "rating_grading": 2,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "yPXLZJLWI9DABbiL84yrLYR6hAryYZQc",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 234,
+          "name": "YU, Jianzhen",
+          "rating": 1
+        }
+      ],
+      "author": "LukaModric",
+      "date": "Apr 12, 2020",
+      "title": "",
+      "comment_content": "1.Simple Tool Skills 2.Mass Balance and Kinetics 3.Fundamentals of water chemistry 4.Fates of Organic Compounds 5.Persistent Organic Pollutants 6.Carbon dioxide equilibrium, acid rain and ocean acidification 7.Heavy metal pollution 8.Atmospheric Chemistry: Chemical composition 9.Chemical kinetics of atmreactions 10.Oxidizing power of the troposphere &amp; ozone pollution 11.Stratospheric ozone 12.Greenhouse gases and global warming 13.Particulate matter in the atmosphere",
+      "comment_teaching": "Quite clear but basically just read the powerpoint.<br />Quite good to have some in-class questions to understand the concepts.<br />TAs are extremely helpful.",
+      "comment_grading": "Midterm 35%<br />Final 30%<br />HW+Group Project x4: 35%<br /><br />HW<br />Mean: 86.2<br />SD: 5.99<br />Min: 60<br />Max: 96<br /><br />Exam I<br />Mean: 66.99/102.8<br />SD: 16.6/102.8<br />Min: 35.6/102.8<br />Max: 102.8/102.8<br /><br />Exam II<br />Mean: 73.2/102.5<br />SD: 15.3/102.5<br />Min: 47.9/102.5<br />Max: 102.5/102.5<br /><br />Overall:<br />Mean: 75.6<br />SD: 10.14<br />Min: 48.7<br />Max: 97.1",
+      "comment_workload": "Quite many assignment.<br />Some assignment requires reading of literature and writing essay.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "7VkUK3xa463nso7l0LzmFCin9EieKkYe",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 234,
+          "name": "YU, Jianzhen",
+          "rating": 1
+        }
+      ],
+      "author": "燃燒中的GPA",
+      "date": "Jan 14, 2020",
+      "title": "An overrated course",
+      "comment_content": "Refer to the attachment.<br /><br />The first two topics (Simple Tool Skills, Mass Balance and Kinetics) are quantitative, involving many calculations. The rest of the topics are quite qualitative.<br /><br />Midterm and final exams are non-cumulative.",
+      "comment_teaching": "The teaching was average. But her teaching suddenly accelerated at the end of the semester (1 topic for each lecture for the last 3 topics). There were some in-class exercises, but the solutions were not uploaded.<br /><br />Note that at least one short question in both exams was based on the video she played or something she mentioned in lectures but not in lecture notes.<br /><br />2-3 tutorials were conducted during lectures, giving you some tips for the group projects.",
+      "comment_grading": "20% Homework (1 self-study HW due before add/drop period + 4 group projects)<br />Mean: 84.6, SD: 13.4, Max: 98.1 (out of 100)<br /><br />Self-study HW mean: 18.3/25<br />Group Project #1 mean: 18.3/20<br />Group Project #2 mean: 17.9/20<br />Group Project #3 mean: 40.2/50<br />Group Project #4 mean: 41.2/45<br /><br /><br />40% Midterm: 2 hours, 100 pts<br /><br />Format: similar to the sample exam paper<br />Part I: 20 MCQs x 1.5 pts each = 30 pts (Q1-10 are matching rather than ordinary MCQs)<br />Part II: 10 short questions, total 52 pts (4-6 pts for each SQ)<br />Part III: 1 long question, total 18 pts<br /><br />Mean: 58.1, SD: 13.7, Max: 86 (out of 100)<br /><br /><br />40% Final: 2 hours, 100 pts (+10 bonus pts)<br /><br />Format: similar to the midterm<br />Part I: 20 MCQs x 1.5 pts each = 30 pts (Q1-10 are matching rather than ordinary MCQs)<br />Part II: 7 short questions, total 40 pts (+4 pts bonus)<br />Part III: 2 long questions, total 30 pts (+6 pts bonus)<br /><br />Mean: 77.6, SD: 13.7, Max: 102.5 (out of 110)<br /><br /><br />Overall score (= 0.4 x Midterm score + 0.4 x Final score + 0.2 x Homework score)<br />Mean: 71.2, SD: 10.7, Max: 93.3 (out of 100)<br /><br /><br />Grade distribution:<br />A+: 1 (overall score 93.3, +2.06 SD)<br />A: 5<br />A-: 3<br />B+: 6<br />B: 4<br />B-: 5<br />C+: 7<br />C: 7<br />C-: 6<br />D: 2<br /><br />A range: 20%, B range: 33%, C range: 43%, D: 4% (Strictly follows the University guidelines for grading)<br /><br />I got +1.8 SD in overall score, but only got an A. The grading is really, really harsh. Very disappointed about the grading.",
+      "comment_workload": "The group projects (20%) are time-consuming (especially group projects #3 and #4). The workload of the group projects is comparable to that of the CHEM3555 lab reports. You have to read some research papers, use MS Excel for data handling and draw some conclusions. They provide good opportunities for you to practice your skills in MS Excel, but they don’t really help your exams (80%). No solutions to the group projects are provided afterwards. Therefore, I would consider the group projects as burdens in this course.<br /><br />The 2 exams (especially the midterm exam), rather than the group projects, will play a more significant role in determining your course grade.<br /><br />One A4-size cheat sheet (max. 2 pages) is allowed for each exam. <br /><br />For the midterm exam, no matter how detailed your cheat sheet is, there is almost no difference between whether having a cheat sheet or not. At least half of the short questions involve calculations. Some of these questions are drawn from the problem sets of the textbook (Chapters 2, 6 &amp; 7). Basically you can’t find the answers on your cheat sheet.<br /><br />For the final exam, the cheat sheet is extremely important. The questions are more qualitative than those in the midterm. Most answers to the questions can be found in the lecture notes. Try to put all the details (e.g. all the reactions in the lecture notes) in your cheat sheet and you will be fine.<br /><br />A constant sheet is also provided in both exams, but it will not be useful at all. It does not contain much useful information you need in the exams. You still have to prepare a detailed cheat sheet by yourself for your use in the exams.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "w8clbvVllb6LwltLlPOZwbQKyv953KDd",
+          "name": "0. Introduction- Envr Chemistry",
+          "format": "pdf"
+        },
+        {
+          "key": "7IV9mXA5y8nljfpszijTw8g1PZG4MuRm",
+          "name": "CHEM4310 Grade Assement 2019.03.22",
+          "format": "pdf"
+        },
+        {
+          "key": "zgzxv6idJKW0fJxvSp6BGBoHE3Py46F1",
+          "name": "CHEM 4310 Sample exam paper with answers",
+          "format": "pdf"
+        },
+        {
+          "key": "RlCBodE6Id92Gg8nCvRRNV2ZB3nqh3As",
+          "name": "Constant sheet",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "ELdYgzvWhlSSyd10AydVfFKidnBWlQwK",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 234,
+          "name": "YU, Jianzhen",
+          "rating": 0
+        }
+      ],
+      "author": "Fickdeinemutter",
+      "date": "May 24, 2019",
+      "title": "Not Recommend as Elective",
+      "comment_content": "Re-pasted from earlier reviews:<br /><br />1. Simple Tool Skills<br />2. Mass Balance &amp; Kinetics<br />3. Fundamentals of Aquatic Chemistry<br />4. Fates of Organic Compounds<br />5. Persistent Organic Pollutants<br />6. CO2 Equilibrium, Acid Rain &amp; Ocean Acidification<br />7. Metal Pollution: Hg, Cd, Pb<br /><br />*****Mid-Term Exam*****<br /><br />8. Chemical Composition of the Atmosphere<br />9. Chemical Reactions in the Atmosphere<br />10. The Killing Oxidant: Photochemical Smog<br />11A. The Thinning Ozone Layer<br />11B. The Ozone Hole<br />12. Greenhouse Gases &amp; Global Warming<br />13. Particulate Matter Pollution<br /><br />*****Final Exam*****<br /><br />I give a C as C is in the middle across A &amp; E.",
+      "comment_teaching": "Her teaching was poor. I&#039;m not talking about the boredom, but the quality as a whole. <br /><br />The PowerPoint notes were okay, but when it came to calculations, the steps she put were a mess. Full of come-and-go units next to the digits &amp; having skipped lots of things. <br /><br />I know it&#039;s we who have to figure them out, but if you look at them as an observer, it&#039;s not hard for you to notice what&#039;s going on.",
+      "comment_grading": "47 students have taken this course this semester. <br /><br />43% have got C Range. <br />4% have got D Range. <br />Sum: 47% below B Range.&nbsp;&nbsp;<br /><br />Mid-Term Exam: 40%<br />Final Exam: 40%<br />Group Assignments: 20%<br /><br />3~4 persons in a group. Form yours at the beginning of the semester &amp; mark the names on the paper that she would bring to the class in the 1st two weeks of semester. <br /><br />An A4-sized cheat-sheet was allowed in both Mid-Term &amp; Final Exam. You can draw or paste whatever images you want onto the cheat-sheet, but remember ONLY two pages at most on a SINGLE sheet. <br /><br />The exams consisted of both MC, SQ &amp; LQ. LQ carried the heaviest % of marks. Bonus-point questions were also seen in the Final Exam. Write something even if you have no idea. <br /><br />Remember to do equally well in both exams (overall mean: 71.2/100). Even if you are average in the Mid-Term but below average in the Final Exam, you are already at risk of falling to C or even C－.",
+      "comment_workload": "Mainly come from Group Assignments. Four in total. Literature Review + Calculations + Excel Programming. If you do them well with your groupmates, you could provide some “safety” to yourself. <br /><br />1st one to be handed in at the end of the 1st month. <br />2nd one to be handed in in the middle of the 2nd month. <br />3rd one to be handed in at the start of the 3th month. <br />4th one to be handed in on the last day of semester.",
+      "rating_content": 3,
+      "rating_teaching": 2,
+      "rating_grading": 2,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ZRE9eSSnDwM8D5uf1oxr8icVM8VYUdpQ",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 234,
+          "name": "YU, Jianzhen",
+          "rating": 1
+        }
+      ],
+      "author": "YSA",
+      "date": "Jun 19, 2018",
+      "title": "Great professor, interesting course, easy to get B/B+ grade, HW assignments take a lot of time",
+      "comment_content": "Brief introduction to different aspects of environmental chemistry, like atmosphere, water, metals, global warming, ozone layer, etc.<br /><br />Topics:<br /><br />1. Simple Tool Skills<br />2. Mass Balance and Kinetics<br />3. Fundamentals of Aquatic Chemistry<br />4. Fates of Organic Compounds<br />5. Persistent Organic Pollutants<br />6. CO2 equilibrium, acid rain, and Ocean Acidification<br />7. Metal Pollution: Hg, Cd, Pb<br />8. Chemical composition of the atmosphere<br />9. Chemical reactions in the atmosphere<br />10. The killing oxidant: Photochemical Smog<br />11A. The thinning ozone layer<br />11B. The ozone hole<br />12. Greenhouse gases and global warming<br />13. Particulate matter pollution<br /><br />The content is well-balanced and interesting, not too difficult. If you have done General Chemistry 1 and 2, should not be a problem.<br /><br />The topics overlap with other courses like CHEM 4320, ENVS 3001, ENVS 3004, ENVS 2003, etc.",
+      "comment_teaching": "Prof. Yu is excellent, she explains every topic very clearly and tries to make the course content relevant and interesting for us.<br /><br />She goes through the content slowly and in detail, and always ready to answer any questions inside or outside the class.",
+      "comment_grading": "Homework Assignments x4 = 20%<br />Midterm = 40%<br />Final = 40%<br /><br />The 4 HW assignments have very high mean (90-95%), as we have 2 weeks to complete each assignment at home.<br /><br />Midterm and final have MCQs + short questions + longer calculation-based questions.<br /><br />Midterm mean = 68%, SD = 16<br />Final mean = 77%, SD = 13<br /><br />I got 0.6 SD above mean in midterm, 0.3 SD above mean in final, and close to mean in all assignments. Final grade = B+",
+      "comment_workload": "Midterm and final do not require too much preparation. Just memorize 5-6 small PPT lecture notes for each exam. Write all equations and formulas in the cheat sheet. <br /><br />Final exam is not cumulative, only includes the 2nd half of the course.<br /><br />There are 4 HW assignments. 2 small and 2 very long. Can be done in groups of 2-4 people, or individually. <br /><br />All assignments are easy, but the 2 long assignments can take some hours to complete. We get 2 weeks for each assignment though.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "rfQZes97PfVl3TfCKsqhUjqk0voAo9Ll",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 643,
+          "name": "RENNEBERG, Alfred Herbert Reinhard",
+          "rating": 1
+        }
+      ],
+      "author": "BC",
+      "date": "Jan 12, 2016",
+      "title": "",
+      "comment_content": "Extremely extremely easy content, in which most of the parts are covered in the HKDSE syllabus. The midterm covers basic Biology like living cell structures and enzymes, pesticides and water clean. Final covers only air chemistry. The syllabus of midterm does not accumulate to final.",
+      "comment_teaching": "He is a passionate German professor. He always claimed that &#039;Science is Fun&#039; and &#039;should never bored people&#039;. <br />His lectures have several unique characteristics that I seldom see in&nbsp;&nbsp;my past 3 years in UST and I feel that I must point them out.<br />1. He always stop early in lectures and let us go (usually 10:30-11:30am, and 10:30-11:00am for once)<br />2. He prints lecture notes for students, but only students who arrive early can get a copy (So please arrive early every time)<br />3. He does not teach any slide in some of the lectures (a total of nearly half of the semester!), cartoons are played instead<br />4. He provides a list of questions before midterm and final. 99.9% of questions in both exams are EXACTLY the same with the list. (So please wiki and memerize all the answers before exams, in case you dont know beforehand)",
+      "comment_grading": "50% midterm, 50% final<br />Grade is just normal and dont expect to be very generous. <br />As the content is really easy and 99.9% of questions of the exams are provided beforehand, the mean in both exams are extremely high. Midterm&#039;s nearly 35/40. So, you must be extremely careful when taking the exam as it is very easy for you to fall below mean.",
+      "comment_workload": "Extremely light. You can never find a 4xxx course with&nbsp;&nbsp;such a little workload. No homework. <br />You can never find a 4xxx course with&nbsp;&nbsp;such a little workload. No homework.<br />You can never find a 4xxx course with&nbsp;&nbsp;such a little workload. No homework. (Very important, speak three times)<br />Midterm with about 50 slides while final with only about 30 slides! And only slides covered in his lectures will be tested. Slides in guest lectures will not be tested.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

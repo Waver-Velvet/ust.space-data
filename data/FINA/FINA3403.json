@@ -1,0 +1,338 @@
+{
+  "course": {
+    "id": 1534,
+    "subject": "FINA",
+    "code": "3403",
+    "name": "Corporate Valuation",
+    "description": "This course teaches students how to use financial information to value firms. By the end of this course, students will be able to value firms using discounted cash flow valuation, relative valuation, and real options.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1730,
+      1710,
+      1630,
+      1610
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"3303\" href=\"/review/FINA3303\" target=\"_blank\">FINA 3303</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"3403H\" href=\"/review/FINA3403H\" target=\"_blank\">FINA 3403H</a>",
+    "rating_content": 4.38,
+    "rating_teaching": 4.38,
+    "rating_grading": 4,
+    "rating_workload": 2.88,
+    "review_count": 8,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 933,
+        "name": "GOYAL, Vidhan Krishan",
+        "count": 5
+      },
+      {
+        "id": 792,
+        "name": "KAO, Tsui Fen",
+        "count": 3
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "eKy6F3lhZ7yUnannE95fuqrOLQCZowiW",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 792,
+          "name": "KAO, Tsui Fen",
+          "rating": 1
+        }
+      ],
+      "author": "連登仔",
+      "date": "May 25, 2018",
+      "title": "It&#039;s ok",
+      "comment_content": "25%MT + 10% x 3 Assignment (Group-based) + 40% Final + 5% parti",
+      "comment_teaching": "",
+      "comment_grading": "MT mean 8成 SD就大概1成 都無咩大差別<br />Assignment 最低每個都可以攞到8.5 又係無咩大差別<br />parti: 上足堂就夠<br />Final: 無出分直接出grade 不過得兩條challenging questions (20% final 分) 聽講好似年年唔同 自己執生<br /><br />最後A+啦&nbsp;&nbsp;咩都無扣多",
+      "comment_workload": "所以要讀gina 既3403，第一要搵好groupmate，因為gina唔俾peer evaluation，求救都無用，一有人freeride只能靠自己。第二要上足堂，會入腦加parti。第三，每份assignment一定要寫清楚thinking steps同assumptions，加一份好既report同清楚既excel model。<br /><br />因為無咩大差別，所以每個都要做得好，加final 兩條challenging questions 正常。唔識都最好寫足steps 加assumptions 盡做個答案出黎睇下攞到幾多",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 1,
+      "attachments": [
+        {
+          "key": "MnrF5J2pvDWd4fAJHWlL7c84ouXEK4ND",
+          "name": "FINA 3403 Spring 2017-18 Syllabus Gina Kao",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "xd9Ql8A6sgh2OBCQaCBymVNqYguGyJV1",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 933,
+          "name": "GOYAL, Vidhan Krishan",
+          "rating": 1
+        }
+      ],
+      "author": "zsheryl",
+      "date": "Jan 22, 2018",
+      "title": "",
+      "comment_content": "I think I learnt more in this course than any other prior finance courses, but maybe it was because I desperately needed to pull up my grades. The course teaches what its title says - you learn to devise valuation models from scratch, formulate assumptions, and maybe learn a few formatting tips from your teammates in the process. I&#039;ve attached the course syllabus I copied from canvas.<br /><br />The professor takes care to incorporate current news events into his lectures, so that we can apply concepts to real cases. The case studies selected are also from well-known companies, Lady M, Tesla, Apple etc. Sometimes his solutions are rather dependent on different assumptions, and therefore multiple answers may be acceptable as long as you can persuasively justify your logic.<br /><br />The ppt wasn&#039;t super straightforward, but the two midterms definitely helped us learn to structure the content in more intuitive way. Tip: make sure you actually understand why and how each item in the balance sheet/income statement is calculated during readjustment. For the midterms, going over the cases is more helpful than lecture notes. But for the final, definitely pore over those lecture notes.",
+      "comment_teaching": "Professor Goyal was an interesting instructor, and it was his first time teaching undergrad in 8 (10?) years. (He taught masters previously).<br /><br />He took every opportunity to engage with students, however I had a feeling that we weren&#039;t quite as responsive as he had hoped. His explanations are clear, and the questions he asks really helps as a guideline for final review (if you&#039;re in the habit of taking notes in class). Of course, all lectures are videotaped, so you have the option to revise as many times as you wish (but I would recommend going to class, because video lectures piled up can become a daunting task during final period)<br /><br />The prof also set up these &quot;Happy hour&quot; sessions, which were for him to meet with a group of 4-8 students after class in either Unibar or Unique. He said in the beginning that he would treat students who scored 100 in the midterm (the mean was 96 so...), but in the end he treated all who signed up.",
+      "comment_grading": "I&#039;ve never put so much effort into a finance course, and I also had the fortune to join a devoted group.<br /><br />For the four individual problem sets, the mean was around 80-90. For the four cases the mean differed, highest 90 lowest 70ish. <br /><br />The prof drops your lowest score in each of the four, and our group sadly scored high for the assignment with lowest mean yet low for the assignment with highest mean. Still, I&#039;m not sure whether a simple average is taken for the remaining three assignments, b/c the final grade was surprisingly good.<br /><br />midterm1 mean 88ish<br />midterm2 mean 96.7 :(<br />final mean 76ish",
+      "comment_workload": "Teammates matter, I would say for this course, because the case studies are definitely too much for you to take up on your own.<br /><br />4 large cases (short answer questions and spreadsheet calculation. Calculation is not hard as long as you closely follow the lectures. The problem lies in a lot of assumptions that differ from sample cases in class. Many times it was not a matter of getting numbers, but which number to use?)<br /><br />4 independent problem sets (consisting of MC and also includes valuation components, spreadsheet calculations, took me several hours to complete)<br /><br />Optional Problem Sets (to prep for midterms and finals, but despite understanding the problem sets, I was not prepared the final...)<br /><br />2 in class midterms + 1 final",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "Qh2h1cTj1gwqcKvHvfTBIx6iqW8UrfvO",
+          "name": "FINA3403 Course Syllabus",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "XWC1VyjmGysMWgFl6nq5EDKeFhygXB36",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 933,
+          "name": "GOYAL, Vidhan Krishan",
+          "rating": 1
+        }
+      ],
+      "author": "arheixd",
+      "date": "Jan 09, 2018",
+      "title": "Useful but challenging finance course",
+      "comment_content": "It&#039;s mainly about using DCF for valuations.<br />It starts with financial statements analysis and then spends the rest of the time on valuations by using different methods like DCF, APV and Relative valuation.<br />After the midterm exam, it mainly focuses on WACC and case study.",
+      "comment_teaching": "The professor encourages discussions in class. He mainly uses case materials for lectures and there are a few PowerPoint slides only. Therefore, memorization is not useful here and the key is to applying the knowledge practically.<br />He will prepare videos for assignment or case answers. Also, he has prepared (maybe in the past) some videos to give you some extra information on certain topics. He is patient in teaching and will talk to you in details if you have some questions in mind or you have some confusions regarding different concepts.",
+      "comment_grading": "Maybe my peers are too strong. I don&#039;t think the grade is good enough. You have to work hard in order to outperform your classmates (they are crazy). It seems that many people have sources for the case assignments and the mean for the cases is quite high. That&#039;s why I GGed as I do it myself instead of relying on sources or solutions (how to find them anyway?).",
+      "comment_workload": "Very heavy workload.<br />2 midterm (30%), 4 individual assignments (10%), 4 case assignments (20%) (initially 5 individual assignments and 5 case assignments), 1 final exam (40%).<br />For individual and case assignments, you can choose the best 3 for grading.<br />It&#039;s impossible to stop for this course as the workload is extremely heavy. You have to work with you groupmates very frequently for the case assignments.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "vKnhQQDvtY2BHikHlwFlpMY2TwwcqqNp",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 933,
+          "name": "GOYAL, Vidhan Krishan",
+          "rating": 1
+        }
+      ],
+      "author": "Laf",
+      "date": "Jan 06, 2018",
+      "title": "",
+      "comment_content": "Mainly talk about FCF, DCF, relative valuation, WACC, and Adjusted Present Value/Capital cash flow valuation. He also focused a lot on analyzing financial performance<br />I think the content could be more difficult. I expect there would be sth about real-option valuation, and more discussion on LBO and M&amp;A, but Vidhan only talked about LBO and M&amp;A very briefly.",
+      "comment_teaching": "I like Vidhan&#039;s teaching. Should be easy to follow and understand.<br />He gives some practice questions on what he taught. Won&#039;t be too many, but should be enough for exams.<br />He will randomly pick someone to answer his questions. Pay attention in class and don&#039;t sleep.",
+      "comment_grading": "I think it&#039;s not very hard to get a good grade in this course, but remember several things.<br />-First MT focuses on FCF calculation, the second one is about simple DCF valuation. They are EXTREMELY EASY. Median is 100 for the second MT. Please make sure you are familiar with the FCF calculation. It&#039;s a bit more complicated than how we calculate FCF in 2303/3303. Reviewing problem set answers can help you a lot. <br />-If you take the problem sets, cases and MTs seriously, it&#039;s good enough to get an okay grade on the final exam. No need to study too much as long as you pay attention in class.<br />-Final exam is a bit trickier (Mean:~75/100), but the difficulty is acceptable, not too difficult. I have read the answers. There are sth that may help you for the final: (Not sure if these reminders are useful next time)<br /> 1. Review MTs<br /> 2. 6 long questions, 4 of them are quantitative, other 2 are more like writing long essays. (For the essay type questions, remember that Vidhan always mentions ROIC. And DDM, which is not on lecture notes, is the key to answer one of the long essay questions. So pay attention in class is better than studying very hard before the exams.)<br /> 3. Review your lecture notes very carefully. Anything, which is&nbsp;&nbsp;&nbsp;&nbsp;seldom discussed, can appear on the final. (e.g. Every EV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;formulas, implied growth rate)<br /> 4. One question which is on Capital Cash Flow is more complicated. He did mention sth about it, but only in several&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sentences. Studying well in 3303/paying attention in class can save you.<br /><br />Unknown SD for the final, so I&#039;m not sure whether it&#039;s good grading, but it&#039;s easier to get a good grade than I expected. I believe he gives max. amount of As and Bs.",
+      "comment_workload": "The workload is quite heavy. You will have to deal with a problem set/ group case / midterm every week. Vidhan cares about how you explain your ideas / justify your valuation, so make sure you explain adequately. <br />But the questions in problem sets and cases let you think a lot deeper about the valuation, rather than just simply calculating the stock price. And remember to read his comments and find out what he wants, they may be useful to the final exam, especially for those &quot;long essay&quot; questions.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Ksy0nY45LbM06vUYcM2QQzVeVfCk6cZ1",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 933,
+          "name": "GOYAL, Vidhan Krishan",
+          "rating": 1
+        }
+      ],
+      "author": "MC",
+      "date": "Dec 28, 2017",
+      "title": "",
+      "comment_content": "抄下人地先<br /><br />1) Problem Sets - 4/5 problem sets (lowest one dropped) with around one week to complete each. These are straightforward but take a bit of time to complete, especially for the long questions. (10% of Grade)<br /><br />2) Cases - 3/4 (lowest one dropped). Group assignments (self-select groups). These cases involve real-world companies such as Apple, Yahoo, and Lady M. Involve a fair amount of work, but once again, would be given around a week to complete each case. (20% of Grade)<br /><br />3) Midterms - 2 midterms, non-cumulative. These are very simple, and are purely a valuation question (no need to memorize any concepts, so long as you know how to do the valuation). Mean is very high for these exams (88%, and 97% respectively). (30% of Grade, 15% x 2)<br /><br />4) Final Exam - cumulative final exam that tests everything (even smaller concepts, but all quantitative). Significantly harder than the midterm examination, and the mean is around 70%. (40% of Grade)",
+      "comment_teaching": "he didn&#039;t release the model answers of problem sets and case analysis<br />he just said it&#039;s acceptable as long as your answers are well justified.<br /><br />he tests everything including questions in problem sets and case analysis <br /><br />lectures are not well organised like he doesn&#039;t discuss everything like case anaylsis in class but they are tested in final exam<br /><br />there is no participation mark but i don&#039;t know why the TA takes attendance every class",
+      "comment_grading": "he released all the marks of the problem sets, cases, midterm, final<br /><br />i got 10 marks below the average total mark and got C",
+      "comment_workload": "heavy workload<br /><br />the heaviest workload course that i have ever taken",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 2,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "l9MpcHOi25JiMmi0NTkNC3VZot9LhR9K",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 933,
+          "name": "GOYAL, Vidhan Krishan",
+          "rating": 1
+        }
+      ],
+      "author": "Samo",
+      "date": "Dec 23, 2017",
+      "title": "",
+      "comment_content": "Teaches the entire flow of performing a valuation for a company. Begins the course by looking at financial ratios and metrics, and how different industries have varying indicators (margins, profitability, etc). <br /><br />Focus shifts to how companies create value, and what the fundamentals of value are for companies. Course then moves towards developing tools to create free cash flow forecasts, cost of capital calculations, and finally putting together the standard DCF forecast. <br /><br />APV and Equity Cash Flow methods are also covered in class.",
+      "comment_teaching": "Teaching style is relatively open; participation is encouraged and is key to making the class successful. Professor is open to office hours, and being challenged in class as well as receptive to new concepts.",
+      "comment_grading": "1) Problem Sets - 4/5 problem sets (lowest one dropped) with around one week to complete each. These are straightforward but take a bit of time to complete, especially for the long questions. (10% of Grade)<br /><br />2) Cases - 3/4 (lowest one dropped). Group assignments (self-select groups). These cases involve real-world companies such as Apple, Yahoo, and Lady M. Involve a fair amount of work, but once again, would be given around a week to complete each case. (20% of Grade)<br /><br />3) Midterms - 2 midterms, non-cumulative. These are very simple, and are purely a valuation question (no need to memorize any concepts, so long as you know how to do the valuation). Mean is very high for these exams (88%, and 97% respectively). (30% of Grade, 15% x 2)<br /><br />4) Final Exam - cumulative final exam that tests everything (even smaller concepts, but all quantitative). Significantly harder than the midterm examination, and the mean is around 70%. (40% of Grade)",
+      "comment_workload": "Workload is extremely high - in fact, for our class, one problem set and one case was removed due to there not being enough time for us to complete everything.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "YtNLk3BWLJgfxDHdymsr6P67i1Rc9jtS",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 792,
+          "name": "KAO, Tsui Fen",
+          "rating": 1
+        }
+      ],
+      "author": "zxl_et",
+      "date": "Jul 06, 2017",
+      "title": "Good course, but can be taught better",
+      "comment_content": "The content is very useful. Yet, there were a lot of errors in the lecture notes.",
+      "comment_teaching": "She is a very helpful professor. She has good connections in the industry and is willing to give students references to internships. Yet, she is a bit of a drama queen at times. It is hard to focus in class as she jumps from here to there and talks about random stuff sometimes.",
+      "comment_grading": "The grading was acceptable. Got 1SD below average in my midterms. But I did fairly well in the finals. So a B range grade aint bad.",
+      "comment_workload": "Some group projects. Not too high, depends on your groupmates :D",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "VGlWGr1ustLI5i7cq0hLIt0v3t3vAHUk",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 792,
+          "name": "KAO, Tsui Fen",
+          "rating": 1
+        }
+      ],
+      "author": "ft",
+      "date": "Dec 30, 2016",
+      "title": "",
+      "comment_content": "The course will cover basic valuations approaches such as discounted cash flow valuation (DCF) and relative valuation by using multiples. It will require students to use spreadsheets to build up valuation models. The focus will be on evaluating the company value from an applied viewpoint. Real option, M&amp;A, IPO and private equity, will also be discussed.",
+      "comment_teaching": "Not good<br />Slides are often wrong<br />Assignments are wrong<br />Solutions are wrong<br />You don&#039;t know what she is actually asking in the question, and in the final exam",
+      "comment_grading": "The course grade will be determined based on:<br />1. Class participation 5%<br />2. Five Homework assignments (on-line) 10%<br />3. Mid-term Exam 20%<br />4. Final Exam 40%<br />5. Valuation Project (group) 25%<br />a. Report (20%)<br />b. Group Presentation ( 5%) ____<br />Total 100%<br /><br />Not a difficult course but difficult to get good grades",
+      "comment_workload": "Not high as homework are based on attempts only, not accuracy<br />The biggest workload will be project.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 5,
+      "vote_count": 5,
+      "comment_count": 2,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 1440,
+    "subject": "MATH",
+    "code": "4982M",
+    "name": "Independent Study: Pre-functional Analysis",
+    "description": "The course will cover properties of metric spaces, Banach spaces and Hilbert spaces.  Students will need to do presentation projects based on additional materials provided by the instructor. Students should seek instructor's approval to take this course.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1510
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

@@ -1,0 +1,1086 @@
+{
+  "course": {
+    "id": 781,
+    "subject": "LIFS",
+    "code": "2040",
+    "name": "Cell Biology",
+    "description": "Structure and function of the cell and sub-cellular organelles; from genes to proteins; membrane and cytoskeleton; cell communication and cell signaling; cell cycle and programmed cell death.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030,
+      1930,
+      1830,
+      1730,
+      1630,
+      1530,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.58,
+    "rating_teaching": 4.27,
+    "rating_grading": 4.19,
+    "rating_workload": 3.92,
+    "review_count": 26,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 478,
+        "name": "BANFIELD, David Karl",
+        "count": 25
+      },
+      {
+        "id": 820,
+        "name": "GUO, Yusong",
+        "count": 24
+      },
+      {
+        "id": 501,
+        "name": "YAN, Yan",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "6r2mjxTZ28iMgdgLnBnaxzfBnGCGdNTf",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 0
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        }
+      ],
+      "author": "lulujr",
+      "date": "Jun 13, 2023",
+      "title": "Overall quite a balanced course - easy syllabus but hard questions | hard syllabus but easy questions",
+      "comment_content": "-BANFIELD-<br />Course Overview / Cells: their properties and<br />behaviours<br />The composition of cells Banfield How do we study cells? <br />The organization of cellular genomes I <br />The organization of cellular genomes II<br />The structure of eukaryotic chromosomes <br />Biological membranes / How molecules<br />cross biological membranes: Pumps,<br />transporters and channels<br />How cells target proteins to membranes and organelles I <br />How cells target proteins to membranes and organelles II<br />-GUO-<br />How cells generate energy<br />The nucleus<br />Vesicular traffic, secretion and endocytosis I <br />Vesicular traffic, secretion and endocytosis II<br />Mechanisms of cellular homeostasis<br />The cytoskeleton and cell movement I <br />The cytoskeleton and cell movement II<br />Mechanisms of cellular communication I&nbsp;&nbsp;Mechanisms of cellular communication II<br />The cell-division cycle<br />Sexual reproduction and the power of<br />genetics <br />The extracellular matrix <br />Cell communities and the formation of<br />tissues and organs<br />Stem cell biology and cancer",
+      "comment_teaching": "Banfield is one of the worse instructors who likes to brag about his biological knowledge by using complicated terms, which he never explained and gives minor spoken presentations (none of the verbal information is found in his slides). Please take note and research the vocal terms and information, as it may be seen in midterm questions. Moreover, he skipped one lecture -how do we study cells due to lack of time but proceeded to include damn many questions in the midterms ==.<br /><br />Guo on the other side, explains every slide he has and every term he uses not to complicate students. Guo is passionate about biological research and gives students insights into the research field. He is even kind enough to hold zoom QNA sessions every week. Overall, he did an excellent job of ensuring his materials were well-understood and inspiring students to participate in research.",
+      "comment_grading": "I believe the grading was quite good.<br />-Midterm -<br />Materials for midterms are just A-Levels / previous LIFS courses information added with some new information. However, the questions are hard and some answers can only be found in Banfield&#039;s verbal information<br />My score 55<br />Mean 49<br /><br />-Finals-<br />The materials are very hard with complicated mechanisms - especially cell signaling processes oh god <br />However, if you memorise and understand the slides fully (you will perform better if you pay attention to some information emphasized by Guo), you will be able to answer the questions.<br /> <br />Our final scores were not provided<br /><br />Letter grade : A",
+      "comment_workload": "No workload; make sure you finish the lectures. Understand and memorise the materials for midterms and finals.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "YsJaAyGigDSGlFqZXfb9CYb3SfVRZTQ9",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 1
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        }
+      ],
+      "author": "Hyunggyu kim",
+      "date": "Sep 13, 2022",
+      "title": "Lifs2040",
+      "comment_content": "The course content states as follows: <br /><br />Describe and comprehend important features and functions of the cell nucleus as they relate to<br />gene organization, DNA replication, protein synthesis and regulation of cell division.<br />Describe how the amino acid sequences of proteins facilitate protein folding and protein<br />targeting within the cell.<br />Describe the features and functions of the endomembrane transport machinery that comprise the<br />endocytic and exocytic membrane trafficking pathways.<br />Describe features of biological membrane structures and their transport mechanisms.<br />Describe important features of the cytoskeleton as well as basic mechanisms of cell<br />communication and cell division.<br />Understand the experimental basis / techniques employed in modern cell biological research",
+      "comment_teaching": "The teaching I believe was a bit fast for banfield, and opposite for guo.<br />Banfield&#039;s words were bit not fully explained for me, and had to search few concepts after class for extra review.",
+      "comment_grading": "The grading I believe was ok.<br />The test was actually much harder than expected, but since everyone got a low score on the test, I was ok with the grading.<br />However, just looking at the lecture note might not be enough to review for the final and the midterm.<br />You also might want to review the word the professor said during the lecture to add on to your lecture note for studying for midterm and final.",
+      "comment_workload": "Barley no workload, only study for midterm and final and that is it.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "OftlxlhxArWMjkOgp2xyJt9hkfLDYSey",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 1
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        }
+      ],
+      "author": "Etharry",
+      "date": "Jul 23, 2022",
+      "title": "A Critical Required Course for all Life Science major in HKUST",
+      "comment_content": "The course teaches the basic cell functions from cell structure to communications between cells. The teaching matierial is in a balance between starters and advanced cell biology. The basic cell biology concepts and typical examples are needed to be recited. <br /><br />Prof. Banfield&#039;s part: (35% - Midterm)<br />1. Cells their properties and behaviors 2021.pdf<br />2. The composition of Cells <br />3. How do we study cells<br />4. Organization of Genomes<br />5. How cells target proteins to membranes and organelles <br />6. Eukaryotic chromosomes<br />7. Membrane Transport Mechanisms<br /><br />Prof. Guo&#039;s part: (65% - Final)<br />8. How cells generate enregy<br />9. The nucleus I,II<br />10. Vesicular traffic, Secretion and Endocytosis I,II<br />11. Mechanisms of cellular homeostasis<br />12. The cytoskeleton and cell movement I,II<br />13. Mechanisms of Cellular Communication I,II<br />14. The cell-division cycle<br />15. Sexual Reproduction and the Power of genetics <br />16. The extracellular matrix <br />17. Cell communities and the formation of tissues and organs and apoptosis<br />18. Stem cell biology and cancer",
+      "comment_teaching": "Overall: <br />The course is divided into two parts by the two exams and taught by two different professors with similar style in teaching. The course is mainly lectures with little Q&amp;A sections for any related questions. The two professors are both opened to any questions and try their best in answering all of them. Somtimes when the question are out of their profession, they would seek for help after class or organise meeting with students to discuss on it. <br />Banfield: <br />He teaches the first part of the course and spend more time on introducing the field of cell biology. His english is easy to listen but sometimes sounds too boring in an 1.5 hr lecture (especially when the lectures starts at 9 in the morning). His ppt is not the best illustration of the content but it is as best you could ask for from a lifs professor. I would prefer reading reference books recommanded, such as Essential Cell Biology or The Cell A Molecular Approach, to strengthen your understanding on each topic.<br /><br />Guo: <br />He teached more content and weights higher in the course grading. It is beacuse he teaches more in depth on the nucleus, vesicular tranport, cytoskeleton etc. with sophisticated examples. He provides vivid diagram and figures to help student understand the formation, structure and movement within cells. Video demonstration of the stuctures and mechanisms are also used to help students understanding.",
+      "comment_grading": "It was online semester so the average scores is quite high. It should be much harder but have a lower curve if it is a face to face exam. <br />Only the score of mid-term exam is displayed.<br />The mean and SD of both exams are not listed.<br />My score: <br />Mid term: 58/75 (35%)<br />Final: ard 75-80/85 (65%)<br />grading: A-",
+      "comment_workload": "Little work load with no homeworks or assignments. Only mid term exam and finals. However there are a lot to recite in both exams. Have to pay attention to lectures and read carefully on each ppt. I suggest reading reference text books to help get a better understanding of the topics.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "a0MdJkMcYPnlbgRpVObUsiWshX9ibhHV",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 0
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        }
+      ],
+      "author": "ggg_",
+      "date": "Jun 15, 2022",
+      "title": "Basic Cell Biology",
+      "comment_content": "--------------CELL BIOLOGY----------------<br />Cells: their properties and behaviours<br />The composition of cells <br />How do we study cells?&nbsp;&nbsp;<br />The organization of cellular genomes<br />The structure of eukaryotic chromosomes<br />Biological membranes / How molecules cross biological membranes: Pumps, transporters and channels<br />How cells target proteins to membranes and organelles<br />How cells generate energy<br />The nucleus<br />Vesicular traffic, secretion and endocytosis<br />Mechanisms of cellular homeostasis<br />The cytoskeleton and cell movement<br />Mechanisms of cellular communication<br />The cell-division cycle <br />Sexual reproduction and the power of genetics<br />The extracellular matrix<br />Cell communities and the formation of tissues and organs <br />Stem cell biology and cancer",
+      "comment_teaching": "Professor Banfield is terrible. He has no accent and his English is good, which should be a good thing. But as he keeps saying unnecessary parenthesis and keep speaking superfast, it seems as if he is showing off his English. He is also good at making simple things more difficult to understand and make you more confused than not asking. He pauses in the middle of the class to answer some questions asked by some students, which is quite disturbing sometimes. His slildes are also in a mess, with few knowledge and mostly pictures displayed in a very inorganized way. I saw some previous students saying that it is because his lectures are organized to demonstrate processes of solving questions, which is important scientific training for students aiming for research. I really can&#039;t agree. I strongly recommend you&nbsp;&nbsp;read corresponding chapters in the textbook if you want to get good grade in the midterm, which is designed by Banfield. He already taught in a very chaotic way and still he tested quite a number of things not covered in his lectures.<br />On the contrary, although professor GUO has some accent, he explained things clearly and in detail. He asked some questions to guide students along each topic and cover related experimental methods adopted by scientists under each topic. His ppt is also clear and organized in a logical way. He finishes one powerpoint each lecture, divide each lecture into several parts and gives a few minutes&#039;s break during the class. He is very willing to answer students&#039; questions after the lecture and gives one or two polling questions each class. However, I still recommend you read the textbook after the lecture to have a better understanding of the topic. (Textbooks always display the knowledge in a more organized way, and this may help you better clarify?) I prefer Prof.GUO&#039;s teaching style.",
+      "comment_grading": "Midterm Exam (Exam I) 35%&nbsp;&nbsp;(Banfield)<br />Final Exam (Exam II) 65% (Guo)<br />The contents tested in midterm are not tested in the final.<br />Midterm: 63/75 (ranking 30~40 approximately)<br />Final:?/85<br />A+<br />The final exam grade is not released, but I think I got close to full marks in the final exams or else it&#039;s hard to have A+.<br />The midterm exam is difficult as much of the questions tested deeper than what is taught in class and some are not covered. The questions are also not straightforward. The final exam is more straightforward although the contents taught is more complicated.",
+      "comment_workload": "No assignment, only midterm and final exam. But you&#039;d better spend time reading the textbook and making your own notes in order to get decent grades. So the workload is quite big, especially when you are preparing for the final exam.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ShZEP7D1FrVTJQG4G8zD33o6jrKxHZgV",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 1
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        }
+      ],
+      "author": "Frankie:)",
+      "date": "Jun 08, 2022",
+      "title": "Fundamentals course in Life Science Studies",
+      "comment_content": "Midterm:<br />Banfield’s part :<br />1. Course Overview / Cells: their properties and <br />behaviours<br />2. The composition of cells<br />3. How do we study cells? Banfield<br />4. The organization of cellular genomes<br />5. The structure of eukaryotic chromosomes<br />6. Biological membranes / How molecules cross biological membranes: Pumps, <br />transporters and channels<br />7. How cells target proteins to membranes and <br />organelles I <br /><br />Final:<br />Guo’s part<br />1. How cells generate energy<br />2. The nucleus<br />3. Vesicular traffic, secretion and endocytosis <br />4. Mechanisms of cellular homeostasis <br />5. The cytoskeleton and cell movement <br />6. Mechanisms of cellular communication <br />7. The cell-division cycle <br />8. Sexual reproduction and the power of genetics <br />9. The extracellular matrix<br />10. Cell communities and the formation of tissues and organs <br />11. Stem cell biology and cancer <br /><br />The final exam only cover Guo&#039;s materials, and Midterm exam only covers Banfield&#039;s topics. Topics included in midterm are not cumulative",
+      "comment_teaching": "Both are good<br /><br />Banfield go through every lecture ppt with his natural American accent. Easy to follow<br /><br />Guo&#039;s accent is little bit hard for local student to catch up. But you will soon be get used to his accent.<br /><br />‼️Important‼️: For Guo lecture, he will launch a polling question almost after the end of every lectures, so remember to collect all questions as those question will re-appear in his final exam without changing any wordings.",
+      "comment_grading": "Normal Grading<br /><br />Midterm (35%, 75 MCQs in 75 mins)<br />Final (65%, 65 MCQs and 4 short-essays questions in 180 mins)<br /><br />My score:<br /><br />Midterm: 71/75 Highest 71<br /><br />Final: 84/85 (Need to ask Prof.Guo for the Final exam score by email after letter grade has been released)<br /><br />Letter Grade: A+<br /><br />Banfield midterm question are all from textbook. If you want to ace in his midterm exam, I suggest you studying those textbook MCQ instead of revising his notes.<br /><br />Guo&#039;s part MCQ are more straightforward, simply &quot;you get what you paid&quot;. Study hard on his lecture material guarantee a good grade for the Final exam.<br /><br />Hints for final:<br />Pay attention to what kinds of motor proteins that transport cargo towards the plus or minus ends of the microtubule <br />The sequence of events taking place during mitotic and meiotic cell division <br />The mechanism of signalling pathway(relay signals)",
+      "comment_workload": "Moderate, Guo&#039;s part requires more time to study but your effort really pays off<br /><br />Banfield&#039;s part is of light workload as his lecture ppt contains very few words and many animations. So it won&#039;t be quit useful for you to study his lecture ppt for the midterm. I recommend studying the textbook questions after every chapters taught",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "DKRXY56IZXwsnP806uw2D0V1XyQ7eOe5",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 1
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        }
+      ],
+      "author": "Leon2002",
+      "date": "Jun 01, 2022",
+      "title": "Study hard before and think carefully in the exams",
+      "comment_content": "Midterm:<br />Banfield’s part :<br />1. Course Overview / Cells: their properties and <br />behaviours<br />2. The composition of cells<br />3. How do we study cells? Banfield<br />4. The organization of cellular genomes<br />5. The structure of eukaryotic chromosomes<br />6. Biological membranes / How molecules cross biological membranes: Pumps, <br />transporters and channels<br />7. How cells target proteins to membranes and <br />organelles I <br /><br />Final:<br />Guo’s part<br />1. How cells generate energy<br />2. The nucleus<br />3. Vesicular traffic, secretion and endocytosis <br />4. Mechanisms of cellular homeostasis <br />5. The cytoskeleton and cell movement <br />6. Mechanisms of cellular communication <br />7. The cell-division cycle <br />8. Sexual reproduction and the power of genetics <br />9. The extracellular matrix<br />10. Cell communities and the formation of tissues and organs <br />11. Stem cell biology and cancer <br /><br />Comments:<br />Intensive and compacted<br />Lots of things to learn",
+      "comment_teaching": "Banfield: His teaching style is …… idk. I can’t describe it with the right words. He does not teach in a straightforward manner and use quite a slow speaking pace. <br />You might fall asleep because of that. But you have to pay great attention to him as his lecture PowerPoints do not contain all the information needed and you have to listen and take notes.<br /><br />Guo: Opposite teaching style to Banfield. Guo is fast and direct. He does not make awkward jokes or give unnecessary long speech. His PowerPoints are also simple and contains all the contents of the final exam.",
+      "comment_grading": "Midterm exam: 35%<br />Final exam: 65%<br /><br />Got a C+.<br />The exams are hard. It assesses your understanding and memory of the knowledge.&nbsp;&nbsp;You have memorise everything and make sure to ask yourself if you can make connections between the knowledge. The questions asked in the exams are not simply knowledge retrieval. You have to make logical decisions based on the knowledge and deduce the right answer.<br />This is one of the hardest Life science exams I have taken in HKUST.",
+      "comment_workload": "No assignments.<br />Intense learning.<br />Lots to memorise and understand, especially the final exam.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "l9PZaDnSxbXcKOVhHi0KbcwEXIxZylnh",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 0
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        }
+      ],
+      "author": "MLing",
+      "date": "May 31, 2022",
+      "title": "",
+      "comment_content": "Basically all the important structures and processes within and between cells. Quite useful as a solid foundation for cell biology.",
+      "comment_teaching": "Prof. Banfield&#039;s teaching is, indeed, quite disastrous. I once did not believe his course reviews but ended up finding out &#039;His train of thought is like five trains coming at the same time&#039; is the most accurate description I can possibly find. He always explains simple stuff in complicated manners, confusing us and also sometimes himself. Plus his slides are predominantly diagrams, making understanding even harder.<br /><br />On the contrary, Prof. Guo is a decent lecturer. Though with accents, he is able to organize &amp; deliver his content in a very structured and interconnected manner. Intuitive explanations such as &#039;any cell response that involves gene expression and or duplication will be a slower response&#039; are also provided. He also asks many questions during lessons and points out many significant details that really allow the incorporation of concepts.",
+      "comment_grading": "Midterm (35%)<br /><br />Me: 64/75, High:71, Mean: Around 52 SD: ~10 (Since the exact mean &amp;SD is not disclosed and I calculated it based on all disclosed scores) <br /><br />I can say I did not do extremely well in a midterm. I simply had no idea why some of you can get 70+ under Prof. Banfield&#039;s teaching and his confusing questions (Probably by studying the textbook or taking other courses?) My estimation is I was in the top 12% of the class.<br /><br />Final (65%)<br /><br />The total score was 85, with (if I recall correctly) 70 single-choice MCQs and 5 short questions. Originally there was an essay question, but Prof Guo kindly offered to remove it.<br /><br />The final exam score was not disclosed. My estimation of my score is about 80+ (Since it is an online semester so I marked all the questions I am uncertain about on my draft papers and confirmed the answers after the exam)<br /><br />Eventually got an A+. Prof Guo&#039;s final really saved my grade.<br /><br />One tip for preparing for the final is to interconnect everything you have learned. For instance, compare treadmilling of actin filaments with the dynamic instability of microtubules. Or extract and summarize all cell processes that either (1) Involve GTP (2) Involve ATP (3) Involve phosphorylation (kinase) (4) Involve ubiquitin etc. <br /><br />This is because the questions spanned through multiple chapters and often dig into seemingly unimportant details. I&#039;ll say that even if you cheat and have all PPT slides beside you, it is not likely that you can retrieve all these information accurately from the sea of content. Hence: Understand, memorize and connect!!",
+      "comment_workload": "No assignment so the work schedule is quite flexible. But if you want good grades then you definitely need to invest your time &amp; effort.<br /><br />For Prof. Banfield&#039;s part, I attended every single lecture and revise once per week. Not very helpful I&#039;ll say. Textbooks serve you better than his lectures.<br /><br />For Prof Guo&#039;s part, I skipped almost all lectures and only hopped in last minute to screenshot his end-of-lecture quiz questions (not graded and not counted for participation, but will likely appear in the final exam). I would stock his lecture videos on the same topic and finish them in a marathon. <br /><br />I think this approach was more helpful since I could pause whenever I feel confused, take notes, google, summarize and then proceed with a solid grasp of previous content. Takes about 2-3 hours per week in going through lecture videos, and I will take an extra 2-3 hours in revising the content.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "goQcb9hXK9vjIcuGeARXsF4ddxWznGPg",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 0
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        }
+      ],
+      "author": "jhjhp",
+      "date": "Aug 23, 2021",
+      "title": "Hi future LIFS 2040 students",
+      "comment_content": "Topics covered before midterm:<br /><br />1. The composition of cells<br />2. How do we study cells?<br />3. The organization of cellular genomes<br />4. The structure of eukaryotic chromosomes<br />5. Biological membranes- How molecules cross biological membranes: Pumps, transporters and channels<br />6. How cells target proteins to membranes and organelles<br /><br />Topics covered after midterm:<br /><br />1. How cells generate energy<br />2. The nucleus<br />3. Vesicular traffic, secretion and endocytosis<br />4. Mechanisms of cellular homeostasis<br />5. The cytoskeleton and cell movement<br />6. Mechanisms of cellular communication<br />7. The cell-division cycle<br />8. Sexual Reproduction and the power of genetics<br />9. The extracellular matrix<br />10. Cell communities and the formation of tissues and organs<br />11. Stem cell biology and cancer<br /><br />The content covered is pretty interesting! (Some parts overlap with high school stuff so not too difficult to understand)",
+      "comment_teaching": "Honestly, Prof. Guo is one of the two best professors I have met in HKUST. His explanation is very thorough, easy to understand, and coherent. It is so obvious that he plans his lectures. He always finishes one PPT (which usually covers one topic or a half of a topic) in one lecture time. He sometimes goes 5 mins over, but he gives a 5-minute break in the middle and some time to ask questions, so I think it is fair.<br /><br />On the contrary, professor Banfield is one of the worst professors I have met. First of all, his explanations are befuddling. It is confusing and hard to follow. He tends to make simple things complex and starts new sentences without finishing the prior one, thus, confusing. His train of thought is like 5 trains coming at the same time.<br /><br />Anyway, it ain&#039;t that bad overall cause majority of the course is taught by prof Guo. After suffering the first bit, you&#039;ll be okay. I finished with an A muahahaha (sadly not A+ TT) but I wish everyone good luck!",
+      "comment_grading": "Midterm Exam 35% (Prof. Banfield)<br />Final Exam 65% (Prof. Guo)<br /><br />Grading is pretty okay I think.<br />It is not too harsh, but also not too easy (cause it&#039;s HKUST you know, things aren&#039;t that simple)<br /><br />My score:<br /><br />Midterm: 55/75<br />Final: 79.5/91<br /><br />Got A! :)",
+      "comment_workload": "No homework, no quiz, no assignment.<br />Just midterm and finals.<br /><br />Good if you prefer exams, bad if you want homework or assignments to boost your grade.<br /><br />So if we just talk about workload, it&#039;s really light.<br />(But not during exams muahahaha cause you need to remember stuff)",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "zSgqcDqsWoWpuTnnJekjvwI2zlLIQaAF",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 0
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        }
+      ],
+      "author": "Weewee",
+      "date": "Jun 18, 2021",
+      "title": "Essential Course for All LIFS majors",
+      "comment_content": "Midterm: (taught by Banfield)<br /><br />Composition of Cells<br />How to study Cells<br />The Organization of Cellular Genomes<br />The structure of eukaryotic chromosomes<br />Biological membranes<br />Protein targeting and transport<br /><br /><br />Finals: (taught by Guo)<br /><br />Aerobic respiration (focusing on oxidative phosphorylation)<br />The Nucleus<br />Vesicular traffic, secretion, and endocytosis<br />Cellular homeostasis<br />The Cytoskeleton and cell movement<br />Cellular communication<br />Cell division<br />Sexual reproduction<br />Extracellular Matrix<br />Cell communities, tissues, and organs<br />Stem cells and cancer<br /><br /><br />For topics on midterm, the material learnt from LIFS1902 could be slightly useful, especially the part about cellular genomes. Thus, it is recommended to review what you have learnt in LIFS1902.<br /><br />Although LIFS1902 is not a prerequisite for this course, you would be a fool to believe HKUST on this. This course is very content-heavy and relies both on understanding and memorization in order to get a good grade.<br /><br />You can see that the topics covered in Finals is much greater than that of Midterms, so it is highly recommended to make your own notes as early as possible, or you would be overwhelmed by the shear amount of content.",
+      "comment_teaching": "Banfield really likes to use long complicated words to get his ideas across. He often shows off his English proficiency with advanced grammatical techniques that are redundant altogether. As a native English speaker, I find it cumbersome when listening to his lectures. Banfield really likes to go off on tangents which you actually need to take note of, as everything he says would be included in the midterm.<br /><br />Guo is a lot more direct with his wording, being clear and concise. He makes great use of his powerpoint slides, and rarely says anything beyond it. This makes his lecture notes much more valuable during revision.",
+      "comment_grading": "Midterm: 35% (made by Banfield)<br />Final: 65% (made by Guo)<br /><br />My scores:<br />Midterm: 56/75<br />Final: 79.5/91<br />Grade: A",
+      "comment_workload": "Preparing for midterm is OK for a normal LIFS course. Preparing for final is hell.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "fEqpeZk8xC3WIciEmA2J2bK32q9glgY9",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 1
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        }
+      ],
+      "author": "letmegohome",
+      "date": "Jun 11, 2021",
+      "title": "Good teaching, but mt is hard...",
+      "comment_content": "(A lot of)Basic cell biology stuff. <br />I didn&#039;t choose Lifs as my major, and I don&#039;t think it&#039;s clever to take this course if you were a year 1 student, or you are not going to study life science in the future... which means I am a total sb...<br />But as far as I know, many yr 1 students took this course and got a nice grade, so I guess it really depends.",
+      "comment_teaching": "Banfield&#039;s lectures are pretty interesting, but Guo&#039;s content is better organized.<br />Both are great professors.",
+      "comment_grading": "Banfield&#039;s part is hard... for the midterm I got 41/75, and I don&#039;t think going through his ppt helped, since there were few words and mostly pictures in it...<br />Guo&#039;s part is much easier and his ppt is way more organized and clear. Got 81 out of 91 in final, which accounts for 65% of the final grade.<br />Final grade: B+",
+      "comment_workload": "No hw, but you need to revise lots of stuff...",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "GYPJomzTRS4wlFpjPvliQ58L4b8Gxs4R",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 1
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        }
+      ],
+      "author": "KIKC",
+      "date": "Jan 25, 2021",
+      "title": "",
+      "comment_content": "ALL LIFS students need to study this course in year 2 spring semester. The content of this course mainly discusses the structure and mechanism of cell.<br /><br />Before midterm is taught by Banfield.<br />Introduction to Cell Biology<br />The Composition of Cells<br />How do we study cells<br />The Organization of Cellular Genomes<br />The Structure of Eukaryotic Chromosomes<br />Biological Membranes<br />Membrane Transport Mechanisms<br /><br />After midterm is taught by guo.",
+      "comment_teaching": "Banfield: He is quite good at explaining the content of his powerpoint. However, sometimes there is only a picture in his notes and it is quite difficult to understand. You need to ask him directly about the concept for understanding more.<br /><br />Guo: His powerpoint is straightforward and quite detailed. He explains the notes clearly. However, he speaks quite fast and you need to listen carefully.",
+      "comment_grading": "midterm 35%<br />final 65%<br /><br />The grade is normal. The mean is about C+/B-.<br />Due to the online mode, midterm and final are conducted online and they are quite easy. The mean are quite high.<br /><br />My midterm is above 1.2 s.d. and final is around mean.<br />Final grade: B-<br />My grade should be better if my final score could be higher.<br />The final is more important!!!",
+      "comment_workload": "Only one midterm and one final. Workload is light. However, the contents you need to revise are huge. Especially the content after midterm is more complicated. Many mechanisms need to revise.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "wiN1mQwtxpwVKx7RifJzfRbJSBgCd5hb",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 1
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        }
+      ],
+      "author": "Diya A.",
+      "date": "Aug 29, 2020",
+      "title": "Cell biology",
+      "comment_content": "Wide coverage of content. Starts off with techniques in biochem (very basic) and then dives into several different aspects like structure and function of the cell and sub-cellular organelles; from genes to proteins; membrane and cytoskeleton; cell communication and cell signaling; cell cycle and programmed cell death.",
+      "comment_teaching": "Amazing teachers! Banfield keeps the class engaged with his wit and sarcasm and welcomes questions from students. However, his slides aren&#039;t generally parallel with what he speaks so one might feel lost. <br /><br />Professor Guo focuses on critical thinking from students- shows a lot of images and animations and asks students high order applicative questions for example- what technique would the researcher use to test this? A lot of in-class quizzes to check for understanding (not graded)",
+      "comment_grading": "In the online system, we mainly had MCQs and some short questions (labelling, identifying, understanding data). <br />Good scoring class.",
+      "comment_workload": "There are a lot of topics covered and are crucial for understanding further topics in this field. One might feel there is too much to learn but once understood, everything flows like a story book.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Y3dAyyAP4lcT5Ch9bXBEyzeH9ZVsGIb4",
+      "semester": "2018-19 Spring",
+      "instructors": [],
+      "author": "minn64",
+      "date": "Mar 23, 2020",
+      "title": "",
+      "comment_content": "Banfield: <br />Introduction to Cell Biology<br />The Composition of Cells<br />How do we study cells?<br />Organizations of Eukaryotic Genomes<br />Structure of Eukaryotic Chromosomes<br />Biological Membranes<br />How cells target proteins to membranes?<br /><br />Teaches before the midterm (around 1/3 of the course)<br />The content that is taught by Banfield is a lot more difficult to study for as it is not just about memorization, but rather understanding what the bigger picture and the main idea is. He expects students to be able to apply what he taught in an unfamiliar scenario.<br /><br />Guo:<br />How cells generate energy<br />The Nucleus <br />Vesicular traffic, secretion, and endocytosis<br />Mechanism of cellular homeostasis<br />Cytoskeleton and cell movement<br />Mechanisms of cellular communication<br />Cell Division &amp; Sexual Reproduction<br />The extracellular matrix<br />Cell communities and the formation of tissues and organs and apoptosis<br />Stem cells and cancer<br /><br />Teaches after the midterm (around 2/3 of the course)<br />the exams are non-cumulative (but there is an overlap of some of the content)<br />The content taught by Guo is a lot heavier than that of Banfield as Guo teaches for more than half of the semester. Hence there is a lot to memorize and understand. The tricky part of Guo&#039;s examination was the section where the multiple-choice has multiple answers.",
+      "comment_teaching": "I have no idea what Prof. Banfield talked about during the class. He usually got lost while he was discussing which made me hard to follow up what he was tending to discuss.<br /><br />For Guo, he is better than Banfield. He discussed the topic thoroughly to let his students understand the concept.",
+      "comment_grading": "Midterm (Banfield&#039;s Part): 35%<br />Final (Guo&#039;s Part): 65%",
+      "comment_workload": "Only midterm and final deals with your grade.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "jNLAt1f9JvDQE8ORrXf4MrlRNzkaVmk7",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 1
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        }
+      ],
+      "author": "yoshi",
+      "date": "Aug 18, 2019",
+      "title": "",
+      "comment_content": "Banfield: <br />Introduction to Cell Biology<br />The Composition of Cells<br />How do we study cells?<br />Organizations of Eukaryotic Genomes<br />Structure of Eukaryotic Chromosomes<br />Biological Membranes<br />How cells target proteins to membranes?<br /><br />Teaches before the midterm (around 1/3 of the course)<br />The content that is taught by Banfield is a lot more difficult to study for as it is not just about memorization, but rather understanding what the bigger picture and the main idea is. He expects students to be able to apply what he taught in an unfamiliar scenario.<br /><br />Guo:<br />How cells generate energy<br />The Nucleus <br />Vesicular traffic, secretion, and endocytosis<br />Mechanism of cellular homeostasis<br />Cytoskeleton and cell movement<br />Mechanisms of cellular communication<br />Cell Division &amp; Sexual Reproduction<br />The extracellular matrix<br />Cell communities and the formation of tissues and organs and apoptosis<br />Stem cells and cancer<br /><br />Teaches after the midterm (around 2/3 of the course)<br />the exams are non-cumulative (but there is an overlap of some of the content)<br />The content taught by Guo is a lot heavier than that of Banfield as Guo teaches for more than half of the semester. Hence there is a lot to memorize and understand. The tricky part of Guo&#039;s examination was the section where the multiple-choice has multiple answers.",
+      "comment_teaching": "Personally, I thought the teaching was great. I learned a lot from the professors in this course.<br /><br />Banfield: There is a lot of extra information that he likes to include in his lectures (as he tends to go off topic occasionally). He does manage to get the point across though. His English is quite proficient and so it does take a while to get used to his teaching style, nothing too difficult though. His powerpoints are quite useless on their own, so it&#039;s definitely recommended to take notes on whatever he says in class.<br /><br />Guo: Very straightforward and goes straight to the point. His powerpoints are extremely organized with objectives and summaries at the beginning &amp; the end. It was very easy to follow because he used a lot of amazing diagrams from the textbook, and if there was a difficult concept, he would go over it two or three times. The powerpoint was quite detailed on its own, but there were occasions where he would say something important that wouldn&#039;t be mentioned in the powerpoint, so it is still important to take notes (especially when the slide only shows a diagram and he explains the process in class).",
+      "comment_grading": "Midterm Exam (Exam I) 35% (Banfield)<br />Final Exam (Exam II) 65% (Guo)<br /><br />Not entirely sure how they graded us. Heard that Banfield distributes the grades based on the performance of the whole class (not a strict percentage of how many students get As and how many get Bs). Not really sure about Guo.",
+      "comment_workload": "There are no extra assignments or quizzes or anything. Just study for the midterm and the final. The content was manageable to study for.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "sm0LoJDfkyRWmF44kzLRPvlTpca22WGd",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 0
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        }
+      ],
+      "author": "lingg",
+      "date": "Aug 17, 2019",
+      "title": "Cell structures and mechanisms; research methods in cell biology",
+      "comment_content": "Maybe since it was an introductory course they couldn&#039;t go too deep into a topic, but I think that actually made things more confusing sometimes because they won&#039;t explain more. Banfield focused a lot on the cell structure and research methods like assays, while Guo focused more on cellular mechanisms.",
+      "comment_teaching": "Banfield tends to go off topic so he can never finish what he&#039;s supposed to teach in one lecture. Guo’s ppt was more detailed and organized, and his teaching was clearer. Both of them give you breaks in the middle of the lecture so you can ask them questions.",
+      "comment_grading": "Grading was pretty good, I barely studied and got a B.",
+      "comment_workload": "There are no assignments, so all you have to do is study for the midterm and finals.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "kHOLpy9XYVXoYqlWG9WOqTuZGXlKtLjd",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 1
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        }
+      ],
+      "author": "Zechidlin",
+      "date": "Jun 22, 2019",
+      "title": "",
+      "comment_content": "Basic cell biology stuffs, Banfield’s part was mainly focusing on assay methods while Guo’s part was focusing on the compartments of cell, and the mechanisms of certain cellular activities.",
+      "comment_teaching": "Banfield’s slides were kind of concise, which means when you were trying to revise it was best for you to go through the videos again. His voice was kind of low so you may need to sit in the front rows to hear him clearly. Guo’s slides were well organized and he was passionate about teaching.",
+      "comment_grading": "Midterm:35%. 57/80, mean=48<br />Final:65%. Grade unknown.<br />Overall grade: A<br />The grading is surprisingly good. After midterm I went through the comments and expected to get a B or something at last, but the final result was a surprise.<br />Maybe this year’s grading policy became more lenient? Or maybe it’s due to final.",
+      "comment_workload": "Almost no workload. Revise before both exams is important and requires additional work.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "8psZ4nGCZUzvBy43DF8aDaevJG8tu07L",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 1
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        }
+      ],
+      "author": "Paolo",
+      "date": "Jun 07, 2019",
+      "title": "GET ZE TEXTBOOKS!!! ESPECIALLY FOR BANFIELD&#039;S LECUTRES",
+      "comment_content": "Banfield&#039;s part: (first 1/3rd of the semester)<br />• Introduction to Cell Biology<br />• The Chemical COmposition of Cells<br />• How do we study cells?<br />• Eukaryotic Genomes<br />• Eukaryotic Chromosomes<br />• Biological Membranes<br />• How cells target proteins to membranes?<br /><br />Guo&#039;s part: (rest of the semester)<br />•How cells generate energy<br />•The Nucleus <br />•Vessicular traffic, secretion, and endocytosis<br />•Vesicular traffic, secretion, and endocytosis<br />•Mechanism of cellular homeostasis<br />•Cytoskeleton and cell movement<br />• Mechanisms of cellular communication<br />• Cell Division cycle<br />• The extracellular matrix<br />• Cell communities and the formaiton of tissues and organs and apoptosis<br />• Stem cell biology and cancer<br /><br />Banfield&#039;s contents are in particular difficult to revise for. You&#039;ll have to fully understand what Banfield is talking about since the content is more on the experimental approaches than the mechanisms. Memorisation alone won&#039;t give you a high score for Exam I, trust me, i learnt this the hard way and look how i scored. You&#039;ll need to be able to apply what you learn from banfield, a lot.<br /><br />GUO on the other hand his contents are easier to understand and memorise, but since that covers 66% of the entire course, you&#039;ll memorise a lot. Not to mention, 30% of Exam II contain multiple choice questions with more than one questions, which is annoying. This part can cause you to lose a lot of marks.",
+      "comment_teaching": "Teaching is not bad.<br /><br />Professor Banfield teaching style is hard to listen to. His lecture powerpoints mean nothing on its own, so you&#039;ll have to actively listen to Bandfield and take down notes.<br />But Banfield <br /><br />Professor Guo on the other hand is straightforward. He has a broken english, but he words are understandable, though he often times just read through his lecture powerpoints.",
+      "comment_grading": "Grading is strictly based on the normal distribution curve.<br /><br />Both exams are multiple choice only.<br /><br />Exam I (33% weighting) = 51/80 (mean = 48, SD ≈ 11)<br /><br />Exam II (66% weighting) = not sure<br />70% of exam II - single correct choice<br />30% of exam II - multiple correct choice<br /><br />Overall grade: B+",
+      "comment_workload": "Theres a lot of concepts, mechanisms, and lists to memorise in this course, but it was still manageable for me. I did learn the hard way for Exam I, and i thought Exam II can save me, but it almost did if it wasn&#039;t for the multiple correct choice questions.<br /><br />If you want a solid A (or even just an A-), you&#039;ll need to revise efficiently and effectively, for both exams.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "7KIIrcUAj3gIibFPOPjcj5KXvGYSxLJU",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 0
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        }
+      ],
+      "author": "Sojung Lee",
+      "date": "Oct 20, 2018",
+      "title": "",
+      "comment_content": "Is is prerequisite and useful courses to 3000+ and 4000+ LIFS courses. This course is a major requirement for both LIFS and BIBU. I found Guo&#039;s content is more helpful than Banfield&#039;s",
+      "comment_teaching": "Banfield: He is really good at English but no content in his word. Thus while studying his part, I am not sure which parts will appear on the exam.<br /><br />Guo: compared to Banfield, he is not a perfect English speaker, but his content is full of productive contents.",
+      "comment_grading": "Grading is fair enough. <br />The average midterm score was unexpectedly high. I got a mean score.<br />I did not get an exact score for the final exam.",
+      "comment_workload": "Similiar to other LIFS courses. I went to all classes and watched all video again.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "QcW9fPSLXwT4Nfue6AVFVfRuXLUkEoio",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        },
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 1
+        }
+      ],
+      "author": "Alber",
+      "date": "Aug 26, 2018",
+      "title": "",
+      "comment_content": "1) DNA and Chromosomes:<br />-DNA replication<br />-DNA repair<br />-Chromosome structure<br /><br />2) Cell cycle<br />3)Cytoskeleton<br />4)Stem Cells<br />5)Cancer Biology",
+      "comment_teaching": "Dr Banfield&#039;s style of delivery was on point. He has a good sense of humor too. All of this makes it easier to pay attention to what he is saying. His slides, however, are not the most useful way to learn the course material. It&#039;s highly recommended that you attend his lectures.<br /><br />Dr Guo&#039;s lectures and slides are very well structured, starting with what&#039;s planned for a particular lecture, and ending with a summary of what has been covered. Style of delivery is not an engrossing as that of Dr Banfield (possibly because his accent is not as easy to understand), but his slides are surely much more helpful.<br /><br />All in all, the teaching for this course is pretty effective.",
+      "comment_grading": "I was one std above mean in the midterm. The results for the final exam were not disclosed. Ended up with an A*. It&#039;s best to attend lectures and read the textbook if you really want to understand the course material.",
+      "comment_workload": "Depends on how you study. There are just two assessments (midterm and final). If you are not into reading textbooks, you don&#039;t really have much to study until a few days before exams.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "xP7AftEUqalLHz7R8qgf2jFjgIFEZ3y5",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 1
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        }
+      ],
+      "author": "Hahaha",
+      "date": "Aug 26, 2018",
+      "title": "a lot of memorization",
+      "comment_content": "We learn about cell components ( basic stuff), the techniques to analyse the cell and its related orgenelles, eukaryotic cell genome, details about nucleus, characteristics of biological membrane including pumps, channels and transporters. //////Prof. Banfield teaches upto here.<br /><br />Professor Guo teaches from here to the end.<br /><br />nucleus, exoskeleton, cell movement, cell division cycle, extracellular matrix, stem cell biology and cancer. <br /><br />The content is very helpful in order to study further 3000level/4000level life science courses.",
+      "comment_teaching": "Professor Banfield is good in English, but have to pay attention to his lecture.<br />Professor Guo is more organized, but hard to understand his chinese accents.",
+      "comment_grading": "Quiet strict. <br />There are midterm exam and final exam. The midterm covers only the portions taught by professor Banfield and it takes about 45 percent of the entire grade.<br />The final exam took 55percent and covers only the portions taken by professor Guo.",
+      "comment_workload": "You have to memorize a lot of stuff. Too many vocabularies and concepts.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "237MDj7nP1tx6QcuSnQzCDA9xFI9sVJV",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 1
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        }
+      ],
+      "author": "Q.C",
+      "date": "Aug 07, 2018",
+      "title": "Difficult",
+      "comment_content": "Cell biology with tons of pathways:<br />1.Cell nucleus as they relate to gene organization, DNA replication, protein synthesis and regulation of cell division.<br />2.How&nbsp;&nbsp;the&nbsp;&nbsp;amino&nbsp;&nbsp;acid&nbsp;&nbsp;sequences&nbsp;&nbsp;of&nbsp;&nbsp;proteins&nbsp;&nbsp;facilitate&nbsp;&nbsp;protein&nbsp;&nbsp;folding&nbsp;&nbsp;and&nbsp;&nbsp;protein targeting within the cell.<br />3. The endomembrane transport machinery that comprise the endocytic and exocytic membrane trafficking pathways. <br />4.Biological membrane structures and their transport mechanisms.<br />5.Cytoskeleton and&nbsp;&nbsp;basic&nbsp;&nbsp;mechanisms&nbsp;&nbsp;&nbsp;of&nbsp;&nbsp;&nbsp;cell communication and cell division.<br />6.The experimental basis / techniques employed in modern cell biological research.",
+      "comment_teaching": "Banfield&#039;s teaching is very engaging and interesting and he emphasizes a lot on experiment process. <br />Guo is kind of boring compared with Banfield but his lecture slides are more organized than Banfield&#039;s, and he release them in time unlike Banfield. And his short questions by the end of classes are helpful.",
+      "comment_grading": "Midterm Exam (Exam I) <br />35%(1 hour 20 minutes)(Banfield)<br />Final Exam (Exam II) (MC and short questions)<br /> 65%(3 hours; 15% Banfield / 50% Guo)<br />Hard to get A range.<br />Don&#039;t take this course if you are not LIFS major!",
+      "comment_workload": "A lot of memorization, including technical vocabulary and confusing pathways. <br />You need to make great efforts to get a good grade. <br />Better to go through the lecture slides before the lectures if you want to understand something in class.<br />And the exams are difficult, especially when there are short questions.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "L8X913eWqT1DvLNENJCl16hFgK71NxoW",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 1
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        }
+      ],
+      "author": "Minerva07",
+      "date": "Jun 05, 2018",
+      "title": "",
+      "comment_content": "the contents are divided into two parts<br />prof. Banfield teaches the introduction, how do we study cells, the composition of cells, the organization of the cellular genome, eukaryotic chromosomes, biomembranes, membrane transport mechanisms, autophagy, nutrient sensing and stress response, and how do cells target proteins to membranes.<br />prof. Guo&#039; s part will cover cell communication, the nucleus, cell division, vesicular traffic and secretion, cytoskeleton, stem cell biology and cancer.<br />all are very basic cell biology concept.",
+      "comment_teaching": "the teaching styles of two professors are so different that I don&#039;t feel it&#039;s the same course.<br />Professor Banfield likes to introduce briefly about the mechanism and talks a lot about the research methods. while professor Guo went into details about the molecular mechanisms.<br />professor Banfield is very good at interacting with his audience and tells a lot of jokes.<br />professor Guo explains things clearly but is a little bit boring.<br />lecture videos are available",
+      "comment_grading": "the grading was fair.<br />35%midtem <br />65%final<br />the midterm was all MCQs<br />the final grade was not released",
+      "comment_workload": "almost no workload, only one midterm and one final.<br />And for both exams, you can study one week in advance.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "N5xAsJVWGstZeIpavwODHuPh1dHOY1hz",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 0
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 0
+        }
+      ],
+      "author": "Kabul",
+      "date": "May 26, 2018",
+      "title": "好撚難讀~",
+      "comment_content": "LIFS 嘅必修科，個個都要讀冇走雞。主要係讀 cell 入面唔同嘅 structures 同 mechanisms。<br /><br />🅰 Banfield&#039;s part<br />🔷 1 Introduction to Cell Biology<br />🔷 2 The Composition of Cells<br />🔷 3 How do we study cells<br />🔷 4 The Organization of Cellular Genomes<br />🔷 5 The Structure of Eukaryotic Chromosomes<br />🔷 6 Biological Membranes<br />🔷 7 Membrane Transport Mechanisms<br />🔷 8 How Cells Target Proteins to Membranes and Organelles<br />🔷 9 Autophagy, Nutrient Sensing and Stress Response<br /><br />🅱 Guo&#039;s part<br />🔷 10 The Nucleus<br />🔷 11 Vesicular Traffic, Secretion and Endocytosis I<br />🔷 12 Vesicular Traffic, Secretion and Endocytosis II<br />🔷 13 The Cytoskeleton and Cell Movement<br />🔷 14 Actin &amp; Cell Communication I<br />🔷 15 Mechanisms of Cellular Communication II<br />🔷 16 The Cell Division Cycle<br />🔷 17 Sexual Reproduction and the Power of Genetics<br />🔷 19 The Extracellular Matrix<br />🔷 20 Cell Communities, Formation of Tissues and Organs, and Apoptosis<br />🔷 21 Stem Cell Biology and Cancer<br /><br />Banfield 果 part Ch. 2 至 Ch. 6 基本上大部分內容之前 biochem I 講過晒，只係加咗少少新嘢，Ch. 7 至 Ch. 9 開始係新嘢，但係未算好惡啃。Guo 果 part 就真係好撚惡啃，基本上全部新嘢，內容又多教得又快 D 嘢又睇唔明，讀到我喊出嚟 😭😭😭<br /><br />雖然個 course 冇 prerequisite，但係 year 1 嘅如果唔係天才真係唔好亂嚟...",
+      "comment_teaching": "Banfield 英文幾正宗下，把聲都幾好 J，到咁上下會爆個我笑唔出嘅笑話（我太蠢所以完全唔 get）。但係佢講嘢細聲兼且我英文廢完全聽唔明佢 up 乜，跟住最大獲係佢 D PowerPoint 真係世界級...用 D 小學雞 Comic Sans 字體不特止仲要成日彈幅圖唔知佢想點，上堂慢到一個點又成日 digress 咗唔知去邊，結果最後應該講嘅重點冇講到。最後 midterm 之前我想溫書，對住 D ppt 坐咗喺度，&quot;屌，呢個 slide 又 up 緊乜鳩...&quot;<br /><br />Guo 就啱啱掉返轉，D 英文極重大陸口音，講嘢又快我哋聽得又辛苦，佢講親嘅句句都係重點，你聽漏一句 / 遲咗 5 分鐘入去就完全跟唔到。話就話放 5 分鐘 break 實則得果 30 秒，總之佢果 part 又快又 chur 又深。不過佢 D PowerPoint 係正常嘅，考試前仲叫有嘢溫。",
+      "comment_grading": "✏️ 30% midterm (Ch 1-6)<br />✏️ 70% final (Ch 6-21)<br /><br />Banfield 教得淺出得難，Guo 就教得難出得淺。<br /><br />Banfield 份 midterm 難到仆街，問得又 liu lung 又唔知佢想點，本身都唔係好知自己溫緊乜仲要出得咁刁鑽...結果由於小弟資質愚鈍仆直踩 mean。😔<br /><br />Mean = 43/67. SD = 7. Max = 57/67<br /><br />至於份 final Guo 佔大部分 Banfield 佔一小部分。Banfield 果 part 一如既往難到仆街。一時問我哋邊種 phospholipid 會搵到 flippase ，一時又問用咩嘢可以 purify membrane protein，嘩...望落去真係新鮮感十足，望到你嘩嘩聲。<br /><br />Guo 果 part 雖然又多選選擇題又短答好似好濕尻，但係佢問嘅問題大量放水，佢上堂 lecture 之後問嘅 practice questions 絕大部分都原封不動搬咗去份 final 嘅多選選擇題度考，小部分改咗少少 wording 但係唔太重要。上 Guo 堂一定要影低晒佢 D practice question final 之前溫一溫，你每溫一條 practice question 你嘅 grade 就一路升緊。至於短答大部分都算簡單，甚至係 bonus question 都係好簡單，係除咗有條比個 amphipathic 嘅 biomolecule 叫我哋講舊 molecule 由 ER 運到 Golgi apparatus 嘅 possible biochemical pathway...<br /><br />💯 由於 Banfield 兩份卷大炒嘅關係最後 B 撚咗 😭😭😭",
+      "comment_workload": "一個 typical 嘅 LIFS course，一個 midterm 一個 final 之後完 sem。但係寨溫書已經令我好想跳菇 😭 😭 😭 尤其是 Guo 果 part，通咗兩晚頂溫，隊咗唔知幾多罐 triple shot 😵",
+      "rating_content": 3,
+      "rating_teaching": 2,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 12,
+      "vote_count": 14,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "F6j8xeyICtgctbB4m7VG2iAPMsqOfEHU",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 1
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        }
+      ],
+      "author": "qorhvk",
+      "date": "Aug 05, 2016",
+      "title": "",
+      "comment_content": "You learn about basic cell structure (membrane, golgi etc), transprtation and signalling. Every life science student must take this course.",
+      "comment_teaching": "Prof. Benfield<br />Overall it is good. The only problem is that he jumps to other topics all of sudden, sometimes totally unrelated. He is quite wordy, so lots of times, he cannot finish the content on time.<br /><br />Prof. Guo<br />New professor in UST. He wants to talk with us, asking about lots of things (school life, academic life etc.) His ppt is amazingly good. Very organized, easy to understand.",
+      "comment_grading": "Grading according to school policy, i suppose. Got what I expected<br /><br />One midterm one final<br />Prof. benfield covers midterm part and some of finals(around four lectures) and rest of final is about Prof. guo part<br /><br />Midterm percentage was around 30 - 40 (I forgot) and final the rest.&nbsp;&nbsp;MCQ and some long questionsfor both but MCQ percentage is much higher",
+      "comment_workload": "Midterm was not hard, not much covered and some stuff are what you already know. Some students ruined the long question. If you have anything that do not understand during the lecture ( I suppose quite a lot) go ask professor. I think his explanation after the lecture was better to understand. <br /><br />Final was very tricky. It was multiple choice question where you can choose multiple answers (hate the most). It can be 1 answer, 2 answers or even all of them are correct. Very evil.... Require you to memorize everything to the last point. But the written question was easy",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Pr5lCbcO16eKnXaIAxWthLT5Ua6AlZqy",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 1
+        },
+        {
+          "id": 820,
+          "name": "GUO, Yusong",
+          "rating": 1
+        }
+      ],
+      "author": "YSA",
+      "date": "Jun 08, 2016",
+      "title": "",
+      "comment_content": "Topics include:<br />Banfield:<br />Properties of cells<br />Composition of cells<br />Study of cells<br />Cellular genomes<br />Eukaryotic chromosomes<br />Biomembranes<br />Membrane transport<br />Protein targeting<br />Nucleus<br /><br />Guo:<br />Vesicular traffic<br />Cellular homeostasis<br />Cytoskeleton, cell movement<br />Cellular communication<br />Cell division<br />Reproduction, genetics<br />Extracellular matrix<br />Cell communities<br />Stem cells, cancer<br /><br />The content does not require any Bio background. It may seem like a lot but each topic is finished in 1 lecture and is about 30-40 slides. There is a lot of memorization involved but it is quite interesting. The course is a requirements for courses like Animal Physiology, Plant Biology, etc.",
+      "comment_teaching": "Both the professors are excellent. They explain all the concepts very clearly, are enthusiastic and passionate about the subject, and always willing to help with any difficulties. The lecture slides and video recordings are uploaded but it is worth attending the lectures even at 9 am.",
+      "comment_grading": "Midterm: 35%<br />Final: 65%<br /><br />The exams are quite hard in my opinion, but the grading seems fair. The midterm especially was difficult because the questions were not straightforward.<br /><br />I got just above mean in midterm, final exam results were not released. Overall grade B-",
+      "comment_workload": "No workload other than the exams. Exams require a lot of memorization.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "1Se5CxhIkf47wXMnWNycT9fj01tTIHoJ",
+      "semester": "2013-14 Fall",
+      "instructors": [
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 1
+        },
+        {
+          "id": 501,
+          "name": "YAN, Yan",
+          "rating": 1
+        }
+      ],
+      "author": "royalmilktea",
+      "date": "Aug 12, 2015",
+      "title": "其實我唔明點解咁多人diu Banfield",
+      "comment_content": "正正常常，講cell入面唔同processes<br />cell既唔同部位、功能、DNA replication、RNA transcription、protein translation、cellular transport、communication、division、etc<br />其實算係讀bio既基本功<br />不過讀法會同1902唔同<br />因為cell bio係講細微好多既processes",
+      "comment_teaching": "Banfield教得有d快，因為佢想教好多野<br />所以建議同學睇返lecture video追point（特別係因為齋睇slide就得一大堆圖）－－係，有lecture video，同學可以走堂喇<br />有時趕時間會飛slide，而且教唔完會要你自己睇powerpoint，照考<br />所以有咩唔明記得review session問，因為無教過唔代表唔考！！！<br />不過Banfield其實真係個好有heart既professor<br />想check卷、對課程有咩問題、或者同佢吹下水，直接email佢都有求必應<br />我記得我上去check卷，佢仲每題錯左既幫我解答，同我講邊度錯，可以點改進（雖然我覺得banfield口氣有時有d傲嬌lol）<br />powerpoint多圖少字都係因為以前有同學complain過太多字好悶，而banfield想上堂生動d，好玩d<br />所以佢其實都幾鍾意搞gag哄大家笑<br />（我記得佢考midterm前做自我介紹，話可能有同學係「第一次見到佢」；笑死lol）<br />仲有，考試會出埋幾條（少數）奇怪問題（即書、notes、上堂都無講過既），其實係想分A+同A<br />所以同學唔識唔好鬧prof無教<br />係佢特登搞到唔可以大家一齊考100分架。（佢同我講過咁出背後既原因）<br /><br />PS：我好多朋友都diu9 banfield<br />不過你點對人，人就點對你<br />喺你diu banfield之前，請細想當日你地喺佢背後講左d咩令到佢咁hurt，hurt到搵返你地黎發洩（14/15 Fall讀cell bio既會明）<br />話說我上cell bio果年就正正常常既。<br /><br />Yan Yan就正正常常mainland lecturer<br />上堂有d悶，照powerpoint讀<br />不過落堂問佢野都好helpful<br />普通吹水都好friendly<br />e家hallway見到都會say hi",
+      "comment_grading": "正正常常咁啦<br />Banfield自己話唔跟curve畀，話佢係將d同學由高到低分排，跟住派grade<br />信不信由你",
+      "comment_workload": "好多書要背<br />不過無assignment<br />bio算咁上下啦",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 6,
+      "vote_count": 10,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

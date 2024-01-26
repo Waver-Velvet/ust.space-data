@@ -1,0 +1,29 @@
+{
+  "course": {
+    "id": 270,
+    "subject": "COMP",
+    "code": "4997",
+    "name": "Computer Engineering Final Year Thesis II",
+    "description": "[Also ELEC 4916] Only for honors students of the BEng Computer Engineering program.  Continuation of COMP 4996.  May be graded PP.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"4996\" href=\"/review/COMP4996\" target=\"_blank\">COMP 4996</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

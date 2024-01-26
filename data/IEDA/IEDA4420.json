@@ -1,0 +1,36 @@
+{
+  "course": {
+    "id": 2841,
+    "subject": "IEDA",
+    "code": "4420",
+    "name": "Dynamic Pricing and Revenue Optimization",
+    "description": "This course focuses on capacity allocation, dynamic pricing and revenue management. It covers pricing implications of revenue management models for perishable and/or products in limited supply. Applications of these models to various industries including service, airlines, hotels etc. will be covered.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2030,
+      1930,
+      1830
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"IEDA\" data-code=\"3010\" href=\"/review/IEDA3010\" target=\"_blank\">IEDA 3010</a> AND <a class=\"course-link\" data-subject=\"IEDA\" data-code=\"3250\" href=\"/review/IEDA3250\" target=\"_blank\">IEDA 3250</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

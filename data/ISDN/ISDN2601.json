@@ -1,0 +1,84 @@
+{
+  "course": {
+    "id": 3992,
+    "subject": "ISDN",
+    "code": "2601",
+    "name": "Exploring the World through Smart Mechatronics",
+    "description": "This course provides an introductory experience into the design and application of smart mechatronic systems on building integrative systems. Students will learn how smart integrative systems are built to sense and interact with humans and the environment, to serve everyday real-world needs. The course includes fundamental theory and also practical hands-on labs and projects for the student to acquire the basic knowledge of designing mechatronic systems, using embedded system to control and practice design thinking process. In the lab sessions, students design and build a succession of mechatronic subsystems, leading to an integrated system in a final project. Lecture topics include embedded system design, basic electronics, use of sensors and actuators, system modelling, measurement and control, and appreciation of the impact of smart mechatronics system in solving real-world problems. In the final project, students will apply design thinking approach to meet the project requirements, specified from users’ perspective.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2230
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"1100\" href=\"/review/ELEC1100\" target=\"_blank\">ELEC 1100</a>",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 176,
+        "name": "SONG, Shenghui",
+        "count": 1
+      },
+      {
+        "id": 894,
+        "name": "LEUNG, Suk Wai Winnie",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "wHAcS7bU3BzsJRQKVI4NCRV1ZpPLxkp4",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 176,
+          "name": "SONG, Shenghui",
+          "rating": 1
+        },
+        {
+          "id": 894,
+          "name": "LEUNG, Suk Wai Winnie",
+          "rating": 1
+        }
+      ],
+      "author": "Borong",
+      "date": "Jan 25, 2024",
+      "title": "Best course taken in ISD",
+      "comment_content": "The are basically two parts in the course. The electrical part and the mechanical part.<br /><br />They all add up like this:<br />ESP32 programming<br />Fundamentals of electricity<br />Logic gates and logic gate circuits (full adder)<br />Signals<br />Serial communication<br />Computer architecture<br />PID algorithm<br />Forward kinematics<br />Inverse kinematics<br />Open-loop and closed-loop systems<br />Matrices (coordinate transformation)<br />Robotic arm control<br />Pulse Width Modulation (PWM)<br />Soft robotic arms<br />Degrees of freedom",
+      "comment_teaching": "Song is the best instructor I ever meet in my life. He is a funny guy with the best teaching skills, everyone is listening to him during lecture.<br /><br />So does Winnie.",
+      "comment_grading": "Class participation 5% <br />Written assignments 15% <br />Labs and Labs assignment 30% <br />Midterm Test 20%&nbsp;&nbsp;<br />Final Project 30% <br /><br />I will give the grading a B, because I only got an A instead of A+. I believe there is only one student got an A+, which is only 3 points greater than me in midterm, and we got the same score in other parts.",
+      "comment_workload": "The workload is actually a bit high. Lab assignment is challenging, but it is the reason why this course is attractive<br /><br /> Six labs will be held in group size of 2-3. <br /><br />Embedded Systems Basic – Setting up and embedded programming <br />Implementing simple controller with embedded processors&nbsp;&nbsp;<br />Data acquisition and signal filtering <br />Sensor modules <br />PWM generation and motor control <br />PID motion control <br />(Also a soft robot lab taught by Rob)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

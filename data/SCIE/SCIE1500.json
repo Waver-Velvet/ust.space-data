@@ -1,0 +1,620 @@
+{
+  "course": {
+    "id": 1112,
+    "subject": "SCIE",
+    "code": "1500",
+    "name": "Guided Study on Research I",
+    "description": "Studies under the directed guidance of a faculty member on a life science / chemistry / environmental science / mathematics / physics topic which serves as the first step in exploring and being exposed to knowledge of different disciplines and fields to build a foundation of interdisciplinary knowledge. An individual general written report and/or presentations of exploratory nature on self-discovery of future directions of research and/or various disciplines by young scientists are required. For IRE students only. Non-IRE students may enroll in the course upon instructor's approval only.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030,
+      1930,
+      1830,
+      1730,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.64,
+    "rating_teaching": 4.09,
+    "rating_grading": 4.82,
+    "rating_workload": 3.45,
+    "review_count": 11,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 608,
+        "name": "LEUNG, Pak Wo",
+        "count": 9
+      },
+      {
+        "id": 39,
+        "name": "HUANG, Xuhui",
+        "count": 1
+      },
+      {
+        "id": 41,
+        "name": "JIA, Guocheng",
+        "count": 1
+      },
+      {
+        "id": 49,
+        "name": "GUO, Zhihong",
+        "count": 1
+      },
+      {
+        "id": 56,
+        "name": "DAI, Wei Min",
+        "count": 1
+      },
+      {
+        "id": 359,
+        "name": "ZHANG, Jiheng",
+        "count": 1
+      },
+      {
+        "id": 472,
+        "name": "WU, Zhenguo",
+        "count": 1
+      },
+      {
+        "id": 478,
+        "name": "BANFIELD, David Karl",
+        "count": 1
+      },
+      {
+        "id": 491,
+        "name": "XIA, Jun",
+        "count": 1
+      },
+      {
+        "id": 500,
+        "name": "WEN, Zilong",
+        "count": 1
+      },
+      {
+        "id": 535,
+        "name": "LEUNG, Shing Yu",
+        "count": 1
+      },
+      {
+        "id": 547,
+        "name": "WANG, Xiaoping",
+        "count": 1
+      },
+      {
+        "id": 621,
+        "name": "HAN, Yilong",
+        "count": 1
+      },
+      {
+        "id": 625,
+        "name": "LIU, Tao",
+        "count": 1
+      },
+      {
+        "id": 890,
+        "name": "WU, Angela Ruohao",
+        "count": 1
+      },
+      {
+        "id": 1159,
+        "name": "ZHANG, Rui",
+        "count": 1
+      },
+      {
+        "id": 1203,
+        "name": "IP, Ivan Chi Ho",
+        "count": 1
+      },
+      {
+        "id": 1296,
+        "name": "MAK, Julian",
+        "count": 1
+      },
+      {
+        "id": 1366,
+        "name": "ZHANG, Tong",
+        "count": 1
+      },
+      {
+        "id": 1483,
+        "name": "LI, Jiying",
+        "count": 1
+      },
+      {
+        "id": 1484,
+        "name": "XU, Qin",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "DWx8lmkGrz1otKkYsdGfywHaf9LUB9mt",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 608,
+          "name": "LEUNG, Pak Wo",
+          "rating": 1
+        }
+      ],
+      "author": "hardplastic",
+      "date": "Jul 19, 2023",
+      "title": "Best grade course ever",
+      "comment_content": "As you can read from other reviews, one seminar each week.<br />And each seminar last one hr, so here comes the one credit of this course.",
+      "comment_teaching": "Each seminar is given by different prof. so the teaching quality varies a lot. I guess some prof. did not expect us to understand the content and just hea teach, while some really want us to at least get to know about their work and therefore made the presentation digestable to a year 1.",
+      "comment_grading": "As far as I know, if you attend all seminars and did all the work, you are gauranteed to get A or above.",
+      "comment_workload": "two 1000-word essays <br />1000 words is not that long, but what stresses you is that you need to read and cite dozens of article to complete the essays. It really takes a lot of time and &quot;brain power&quot; to do that.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "w5mAiQCiFpy1Pw1p7D8VzeBSZoEGSDhP",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 608,
+          "name": "LEUNG, Pak Wo",
+          "rating": 1
+        }
+      ],
+      "author": "moonn",
+      "date": "Jun 02, 2023",
+      "title": "",
+      "comment_content": "The first 2 weeks one professor per week in OCES gave the speech.<br />From week4 every week there are 2 professors give the speech about their own research. Their content might difficult to understand for year 1 students, and it is also hard to read articles at the beginning.",
+      "comment_teaching": "the teaching is very good. If you are really interesting in some specific areas, the professors could help you to gain a full insight in these areas.",
+      "comment_grading": "attendance 20%<br />assignment 1 40%<br />assignment 2 40%<br /><br />If you come in every lecture, you could get full in attendance.<br />The grading is good, because many year 1 students cannot really understand the content and write good articles about them. You just write about your own opinions and that&#039;s enough. I got A at last, although I think my assignment is really bad.",
+      "comment_workload": "The assignment is around 1000 words. So for students just got into university, the workload is not light.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "v4Tuh1y6wn99qBzTzBqEJtVsSB9IrVpZ",
+      "semester": "2022-23 Spring",
+      "instructors": [],
+      "author": "maths 4ever",
+      "date": "May 31, 2023",
+      "title": "",
+      "comment_content": "One talk per week , and professors will introduce their research topics to us in one hour.<br />except first three weeks , students can choose either PHYS or LIFS in even number weeks , and MATH or CHEM in odd number weeks <br /><br />Also two 1000 words essay <br /><br />Here are the topics this year:<br />Week 1: Prof. LEUNG Pakwo <br />Overall Introduction <br /><br />Week 2:Prof. WU Longjun / OCES <br />Evolution of marine organisms under stress<br /><br />Week 3:Prof. HE Ding / OCES<br />DREAMs: Data-driven appRoaches for Exploring geochemistry of Aquatic ecosystems<br /><br />Week 4:Prof. POON Randy / LIFS<br />Molecular cancer research: basic concepts and approaches<br />Prof. YANG Sen / PHYS<br />Quantum information technologies with color centers<br /><br />Week 5:Prof. NAGL Stefan / CHEM<br />Microfluidics and other Micro- and Nanosystems with Integrated Optical Chemo- and Biosensors<br />Prof. XU Kun / MATH<br />About the research in the Department<br /><br />Week 6:Prof. LIU Zhen / LIFS<br />Super-resolution microscopy aids rare disease diagnosis<br />Prof. PO Hoi Chun / PHYS<br />Condensed matter theory <br /><br />Week 7:Prof. SUN Jianwei / CHEM<br />Chirality and Asymmetric Organocatalysis with Chiral Bronsted Acids<br />Prof. FU Lin / MATH<br />Applied Mathematics<br /><br />Week 8:Prof. LIANG Chun / LIFS<br />DNA Replication-Initiation Proteins: Functional and Mechanistic Studies and Anticancer Drug Development<br />Prof. LIU Tao / PHYS<br />Particle Physics<br />--------------------------first essay submission----------------------<br />Week 9:Prof. SU Haibin / CHEM<br />Data analytics in Chemistry and Beyond<br />Prof. FONG Tsz Ho / MATH<br />Pure Mathematics - Geometric Analysis<br /><br />Week 10:Prof. ZHU Guang / LIFS<br />Structure-functional Study of Protein and Nucleic Acid by NMR Spectroscopy<br />Prof. PAN Ding / PHYS<br />Computational physics, big data, and artificial intelligence: how quantum mechanics works in everyday life<br /><br />Week 11:Prof. TONG Rongbiao / CHEM<br />Green chemistry and total synthesis<br />Prof. ZHANG Jiheng / MATH<br />Data Science<br /><br />Week 12:Prof. PARK Hyokeun / LIFS<br />Single-molecule studies of motor proteins<br />Prof. JO Gyu-boong Jo / PHYS<br />Physics with cold atoms<br /><br />Week 13:Prof. QUAN Yangjian / CHEM<br />Reticular materials (MOF&amp;COF), Boron chemistry, Photochemistry and electrochemistry<br />Prof. GUO Xin-Zhou / MATH<br />Statistics<br />--------------------second essay submission--------------------",
+      "comment_teaching": "Quite good , however I can understand almost nothing as I don&#039;t have enough knowledge",
+      "comment_grading": "20% Attendance<br />40% Essay 1<br />40% Essay 2<br /><br />Basically if u attended all lectures , and submitted both essay on time without a too high plagiarism rate , u can get A range , until now I still never saw anyone who got lower than A- in this course",
+      "comment_workload": "Quite high:(<br />Given it is 1 credit course and I have to finish two 1000 words essay with AMA citation to summarize what prof said in the talk , both essay I used at least a week to search on Internet to find literature that introduce the topic and understandable to me , and as a maths major , I have to spend lots of effort on lowering the plagiarism rate (it highlighted the definition and even the word &quot;Theorem&quot; , what can I do)<br /><br />Also this course take attendance",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "0MzXeHorZZg6XiZpZ81xG6SLQ6q8B6Sp",
+      "semester": "2022-23 Spring",
+      "instructors": [],
+      "author": "mading18",
+      "date": "May 26, 2023",
+      "title": "A collection of introductions to research",
+      "comment_content": "Basically a range of professors from each science department (CHEM, LIFS, OCES, PHYS, MATH) will introduce their research field, explain the reasons for their research, and its applications. <br /><br />Lectures are held every Tuesday, 50 minutes each<br /><br />First 2 weeks OCES professors give lectures, everyone must attend. Rest of the semester you can choose to attend the CHEM/LIFS lecture or the MATH/PHYS lecture, or both (but you&#039;ll only get attendance recorded for one of the lectures per week). <br /><br />Required course for IRE students, but also a must take for non-IRE students who want to transfer to IRE track. Pretty much everyone who takes this course are in one of those two categories. If you&#039;re not IRE, you do have to get instructor consent before enrolling in the course",
+      "comment_teaching": "For the most part, almost all of the professors just read off powerpoint slides and gave vague descriptions of their content. The content they talked about was also much too complex for any Year 1 student to understand, so most of the time, unless you really find their topic interesting, it would be hard to catch on to what they&#039;re saying and you could get bored extremely quickly. Most people just used the time to do homework/revise for exams. <br /><br />Some will upload their powerpoints onto Canvas; most didn&#039;t. If they never said anything about uploading their slides and they introduce a topic you&#039;re interested in, take pictures or video recordings yourself.",
+      "comment_grading": "Guaranteed good grade course<br />Don&#039;t worry if you have no idea what you wrote for those two essays; as long as you record attendance every week and submit anything before the deadlines, you&#039;re getting an A/A+.",
+      "comment_workload": "2 essays, around 1000 words each. Due during the middle and end of the semester, respectively. References have to be done in AMA citation. <br /><br />Basically you have to select a certain professor&#039;s research field and write about its background, advancements, and your thoughts about the field&#039;s potential uses. Pretty high for a 1 credit course, and unless you&#039;re Year 2 with research experience you may struggle with finding good information to write your essay on or even writing the essay itself. Try not to leave these essays to the last minute (this may be hard if a professor whose research field you really like gives their lecture right before the deadlines)<br /><br />The assignments require you to go far beyond the introduced ideas in the lecture. Start with reading some of the professor&#039;s research papers (get them from the links/citations in their own webpage), and then go onto Google Scholar, JSTOR, Web of Science, or other databases to find research papers related to the professor&#039;s. I found myself spending a ton of time just trying to understand the basics and terminology of their research, and I was still confused after a few hours of reading, as expected.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "SHHWSzyXWL1bSwCGhjYuGDyBTvC8NpnN",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 608,
+          "name": "LEUNG, Pak Wo",
+          "rating": 1
+        }
+      ],
+      "author": "humanppplus",
+      "date": "May 26, 2023",
+      "title": "Not as good as anticipated, but extremely good grade",
+      "comment_content": "IRE required course in Year 1, but you can try to register even if you&#039;re not one of them<br /><br />Weekly meeting, in particular<br />Week 1: Introduction to the course<br />Weeks 2-3: OCES talks (must attend)<br />Weeks 4-13: PHYS/MATH // CHEM/LIFS talks (PHYS/MATH and CHEM/LIFS are in 2 separate sessions, go to one of them each week)<br /><br />Attendance taken.<br /><br />In each session, one professor will give a talk regarding their research directions of around 50min.",
+      "comment_teaching": "Well as we all know the delivery of content of UST professors (on average) is not good. They might have good content, but most of them just reads powerpoints without making them very exciting (only some of them do). Also most of the professors&#039; content is too deep and difficult for Year 1 students who do not have prior relevant knowledge about the topics, so most of the time I just go there and do my own homework.",
+      "comment_grading": "Graded A+ to F<br /><br />Extremely good grading. As far as I know, none of my friends are too sure about what they&#039;re writing in the 2 writing assignments, nor do they understand any literature they used in them. However I do not know of anyone who got a grade below A-range in the course. I wrote some total bullshit and ended up with an A+. No idea lol",
+      "comment_workload": "2 essays, 1000 words each. Choose one topic presented by one of the professors in each of them. Asks you to write<br />1) a brief account of the background and current advancement of the selected topic; and<br />2) your thoughts and insights gathered after reading the literature(s).<br />This means you will need to venture wayyyyyy beyond what the professors themselves presented. You will need to find around a dozen of papers on Google Scholar etc., that you will probably have no idea what they&#039;re about unless you are a god in your subject.<br /><br />Imo unreasonable workload for a 1-credit course.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ve36EVXi61J8XteZRYdotHHYPWaO4sOZ",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 608,
+          "name": "LEUNG, Pak Wo",
+          "rating": 1
+        }
+      ],
+      "author": "Hobbit",
+      "date": "Sep 08, 2021",
+      "title": "Good course if you are really interested in doing research",
+      "comment_content": "Students in this course are required to attain at least one seminar by different professors every week. During the seminar, the professors will introduce a research topic and talk about the research project they are doing currently. Attendance is required in this course which will take account into the final grading.<br /><br />There are two seminars conducted every week and students are required to choose and join one of them only. One of the seminars will be more related to life science or chemistry while the other seminar will be more related to physics or mathematics.<br /><br />Students are also required to complete two assignments during the course. One in the middle of the semester and the other one at the end of the course. The detail of the assignments will be described in the workload part.<br /><br />Overall, I strongly recommend this course if you are interested in doing research in the future",
+      "comment_teaching": "I think the teaching quality in this course varies a lot between different professors. Some of them will use some daily examples to grab your attention and explain things really well while some of them just read the ppt directly with monotonic voice. But I am sure that if you are really interested in doing research you will find all of the seminars interesting anyways because you are learning something that you never know before. Actually, if you are not interested in doing research, I believe you will find this course very boring even though the professors teach very well. <br /><br />From my experience, all of the professors are willing to answer any question from students, and some are even willing to meet students individually if they want to join the research project",
+      "comment_grading": "Attendance&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20%<br /><br />Written Assignment I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40% <br /><br />Written Assignment II&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40%<br /><br />In fact, I do not know my scores in both of the written assignments. I got A+ at the end and I think the grading of this course is good. If you do the assignments seriously and attend one seminar per week, I think it is easy to get an A. Which is reasonable if you read the workload part later.",
+      "comment_workload": "I think this part depends on whether you are interested in research or not again. For both of the assignments, you will need to write an essay (around 1000 words) to sum up what the professors have presented during one of the seminars that you choose. You also need to read more literature to extend what the professors have talked about. Finally, the reflection and inspiration from yourself.<br /><br />To be honest, as just a year one student it is a bit tough for me to look up 10+ literature for one assignment. And as the literature assumes the readers know all the background knowledge required, I need to spend tons of time trying to understand the background knowledge in order to get a clue what is happening in the literature. Some what&#039;s happening when I am doing the assignment is that I read literature and I find some terminology that I don&#039;t know. Then I look up the explanation for that terminology and I find more terminology that I don&#039;t know and so on and so on. It would be a hell of continuous suffering if you are not really interested in the topic. <br /><br />On the other way round, if you are interested in the topic, you will really learn a lot when you are reading more literature about the research topic. Actually, I think I enjoy the progress that I am preparing and writing this essay even though some of the topics are difficult. For each assignment, I spend nearly a week with a total of around 10-20 hours. It would be better if you start earlier and do not be a deadline fighter.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "uCKYZpYTCaXJBtRifOJzuw449F4XJ5Y4",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 608,
+          "name": "LEUNG, Pak Wo",
+          "rating": 1
+        }
+      ],
+      "author": "phyllissssss",
+      "date": "Jun 20, 2021",
+      "title": "",
+      "comment_content": "每周会有不同的教授来讲各自的topic，非常有意思，可以开拓眼界。海洋科学，化学，生物，数学，物理都有涉及。另外这是IRE的必修课。",
+      "comment_teaching": "每个教授的演讲风格不一样，但都能从其中学到一些新东西和新视野，这门课真的非常有趣，旁听也是极好的。",
+      "comment_grading": "应该每个人都是A？",
+      "comment_workload": "除了每周要上堂以外，和写两篇essay，没有别的事情要做。可以划水。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 12,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "un7crL8Nvd9EIqhksJlNkuUCHgHoTNmf",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 608,
+          "name": "LEUNG, Pak Wo",
+          "rating": 1
+        },
+        {
+          "id": 1296,
+          "name": "MAK, Julian",
+          "rating": 1
+        },
+        {
+          "id": 1483,
+          "name": "LI, Jiying",
+          "rating": 1
+        },
+        {
+          "id": 491,
+          "name": "XIA, Jun",
+          "rating": 1
+        },
+        {
+          "id": 621,
+          "name": "HAN, Yilong",
+          "rating": 1
+        },
+        {
+          "id": 478,
+          "name": "BANFIELD, David Karl",
+          "rating": 1
+        },
+        {
+          "id": 535,
+          "name": "LEUNG, Shing Yu",
+          "rating": 1
+        },
+        {
+          "id": 56,
+          "name": "DAI, Wei Min",
+          "rating": 1
+        },
+        {
+          "id": 547,
+          "name": "WANG, Xiaoping",
+          "rating": 1
+        },
+        {
+          "id": 472,
+          "name": "WU, Zhenguo",
+          "rating": 1
+        },
+        {
+          "id": 1484,
+          "name": "XU, Qin",
+          "rating": 1
+        },
+        {
+          "id": 49,
+          "name": "GUO, Zhihong",
+          "rating": 1
+        },
+        {
+          "id": 1203,
+          "name": "IP, Ivan Chi Ho",
+          "rating": 1
+        },
+        {
+          "id": 890,
+          "name": "WU, Angela Ruohao",
+          "rating": 1
+        },
+        {
+          "id": 625,
+          "name": "LIU, Tao",
+          "rating": 1
+        },
+        {
+          "id": 41,
+          "name": "JIA, Guocheng",
+          "rating": 1
+        },
+        {
+          "id": 1366,
+          "name": "ZHANG, Tong",
+          "rating": 1
+        },
+        {
+          "id": 500,
+          "name": "WEN, Zilong",
+          "rating": 1
+        },
+        {
+          "id": 1159,
+          "name": "ZHANG, Rui",
+          "rating": 1
+        },
+        {
+          "id": 39,
+          "name": "HUANG, Xuhui",
+          "rating": 1
+        },
+        {
+          "id": 359,
+          "name": "ZHANG, Jiheng",
+          "rating": 1
+        }
+      ],
+      "author": "Sonic12",
+      "date": "Jun 08, 2021",
+      "title": "Review of SCIE 1500",
+      "comment_content": "-Week 1~Week 3 (Only 1 session)-<br />week 1: Introduction<br />week 2: OCES<br />week 3: OCES<br /><br />-Week 4~Week 13 (can choose between 2 sessions)-<br />week 4: LIFS/PHYS<br />week 5: CHEM/MATH<br />week 6: PHYS/LIFS<br />week 7: CHEM/MATH<br />week 8: LIFS/PHYS<br />--Essay 1 submission--<br />week 9: CHEM/MATH<br />week 10: LIFS/PHYS<br />week 11: CHEM/MATH<br />week 12: LIFS/PHYS<br />week 13: CHEM/MATH<br />--Essay 2 submission--",
+      "comment_teaching": "Professors from a variety of areas come to this course and tell about their research. <br /><br />Many of them are interesting but very few professors make it through their whole content in 50min class hours. Usually, it was always overtime.<br /><br />Some professors offer ppt slides for their lectures but many of them don&#039;t. So if you want to write certain professor&#039;s research area, be sure to capture your screen for the ppt material.",
+      "comment_grading": "Attendance (20%)<br />Written Assignment I (40%)<br />Written Assignment II (40%)<br /><br />There was no feedback about the written assignments. After Turnitin evaluated your essay if the plagiarism rate is too high, adjust it and resubmit it. It&#039;s an unlimited attempt.<br /><br />Personally, I made all the essays plagiarism rate under 5% in the first place just for your reference.<br /><br />If you attended all the classes and submitted the essays in time you&#039;ll get a good grade.<br /><br />I never heard someone got below A for this course so don&#039;t worry, just be diligent.<br /><br />My grade: A",
+      "comment_workload": "You might have to take some time in both two written assignments. Quite a workload for a 1 credit course.<br /><br />Tips: <br />First, identify the professor&#039;s research area and browse its history via google.<br /><br />Then, refer to the professor&#039;s ppt slide for his or her current research (If you can read and understand the professor&#039;s thesis it&#039;s better) and also search for that area&#039;s current trend. <br /><br />Lastly, add your own thoughts about the research&#039;s prospect or possible application or even the potential for changing modern industry or society.<br /><br />After submitting your essay, the canvas will check plagiarism automatically via Turnitin. Make sure to put appropriate footnotes in AMA style. <br />(Plagiarism rate of about 0~15% might be good )<br /><br />For the references, use some renowned scientific journals such as nature, science, or American society.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "R6knhqydGh0gpdop0UC1Xq1KJwcyCrS5",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 608,
+          "name": "LEUNG, Pak Wo",
+          "rating": 1
+        }
+      ],
+      "author": "Q.C",
+      "date": "Aug 03, 2018",
+      "title": "A Meaningful Course to Take",
+      "comment_content": "This course mainly targets year one students who are interested in IRE track to helps them find a future research area and broaden their horizons. Each week there will be two lectures, either by LIFS&amp;PHYS professors or by CHEM&amp;MATH professors. They will talk about the their research and related knowledge in an understandable way and you can choose to take one out of the two or both each week.",
+      "comment_teaching": "Most professors are excellent, while others are not so good at teaching. Sometimes you can really feel their passion towards research and the charm of science. Although the lecture slides are not posted on canvas, some professors are wiling to share. Personally, even if I didn&#039;t take IRE track in the end, this course still taught me a lot of things and the experience was great.",
+      "comment_grading": "Attendance&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20%<br />Written Assignment I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40% <br />Written Assignment II&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40%&nbsp;&nbsp;<br />Overall the grade should be good. It&#039;s likely that everyone who fulfills the attendance requirements and submits essay in time will get an A.<br />Here is the requirements of the essays:<br />1.A brief account of the background and current advancement of the selected topic (feel free to go beyond the topics/materials that were presented in the lectures)<br />2.Your thoughts and insights gathered after reading the literature(s)<br />*Reference list in AMA style",
+      "comment_workload": "The workload is a little high for a one-credit course. Be prepared to spend a lot of time on the two 1000 word essays since it&#039;s not easy to have a good understanding on an advanced topic within a few hours. You are expected to read tons of related essays and form your own insights and innovative idea. It&#039;s not that easy to write a scientific essay clearly explaining the things you just know. Might be easy for students with research experience.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "YuYkEvP3sOkkmamcVg9J6RZMzh1Iuh0L",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 608,
+          "name": "LEUNG, Pak Wo",
+          "rating": 1
+        }
+      ],
+      "author": "LukaModric",
+      "date": "Mar 17, 2018",
+      "title": "",
+      "comment_content": "Course instructors of each discipline (CHEM/ENVS/LIFS/MATH/PHYS) will give an overall introduction of their corresponding disciplines with highlighting the major research areas of the corresponding units and the characteristics of these research areas in terms of content, methodology and latest development, etc. during the lecture.",
+      "comment_teaching": "Prof P W Leung and faculty members from Division of Life Science, Departments of Chemistry, Mathematics and Physics, and Environmental Science Programs.<br />Some professor are really nice and really want to share the experience to you.",
+      "comment_grading": "Attendance&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20%<br /><br />Written Assignment I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40%&nbsp;&nbsp;<br /><br />Written Assignment II&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40%",
+      "comment_workload": "Each writing assignment:<br />1. brief account of the background and current advancement of the selected topic<br />2. Your thoughts and insights gathered after reading the literature(s)",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "7H2Y3WDKbehgxtD98yJyKMm0jNvz2EdN",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 608,
+          "name": "LEUNG, Pak Wo",
+          "rating": 1
+        }
+      ],
+      "author": "grqm",
+      "date": "Jun 06, 2016",
+      "title": "",
+      "comment_content": "We had to go to a 1 to 2-hour lecture once every week. <br /><br />The lectures were delivered by different professors, who would talk about their own research. It could be quite boring if one isn&#039;t interested.",
+      "comment_teaching": "Not very good as they just read out the lecture slides. <br />Easily bored if not interested.",
+      "comment_grading": "20% Attendance<br />40% Assignment 1<br />40% Assignment 2<br /><br />No feedback at all. I heard that almost everyone was given at least an A<br /><br />I attended every lecture and spent some time on both assignments = A+",
+      "comment_workload": "Light if you don&#039;t count the lectures. <br /><br />There were two assignments, each in which we were asked to write 1500 words on a topic (and anything relevant) mentioned in any one lecture.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

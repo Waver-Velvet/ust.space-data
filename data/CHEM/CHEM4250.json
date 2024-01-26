@@ -1,0 +1,129 @@
+{
+  "course": {
+    "id": 112,
+    "subject": "CHEM",
+    "code": "4250",
+    "name": "Materials Preparation Laboratory",
+    "description": "This is a laboratory course for students to gain hands-on experiences in the preparation of modern materials. Students will have the opportunity to practice the synthesis of materials such as organic polymers, nanoparticles and solid materials. For CHEM students under the four-year degree only. Students with minor in CHEM may seek instructor’s approval for enrollment in the course.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2030,
+      1910,
+      1810,
+      1740,
+      1710,
+      1640,
+      1610,
+      1540,
+      1510
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"3550\" href=\"/review/CHEM3550\" target=\"_blank\">CHEM 3550</a>",
+    "corequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"4255\" href=\"/review/CHEM4255\" target=\"_blank\">CHEM 4255</a>",
+    "exclusions": "",
+    "rating_content": 4.5,
+    "rating_teaching": 4,
+    "rating_grading": 4.5,
+    "rating_workload": 4,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 10,
+        "name": "CHAN, Dennis Ho Wai",
+        "count": 2
+      },
+      {
+        "id": 803,
+        "name": "YEONG, Tsz Ying",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "Rov9lQ902k7gMYpX5e4mb3inc0Hcscne",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 10,
+          "name": "CHAN, Dennis Ho Wai",
+          "rating": 1
+        }
+      ],
+      "author": "23V",
+      "date": "Dec 30, 2021",
+      "title": "",
+      "comment_content": "This is a required lab course for Material Chemistry Option. <br />I think the experiments were more fun than synthetic lab and we get to operate some new analysis instruments. <br />There were four experiments in total. Usually each experiment requires 2-3 weeks to complete. And like most of the chemistry experiments, you spend tons of time waiting and idling.<br /><br />Expt. 1a Basic material characterization: Nanoparticle <br />Expt. 1b Basic material characterization: Polymer ATR, IR, DSC<br />Expt. 2a Light emitting device preparation –syn of luminescent metal complex<br />Expt. 2b Light emitting device construction and characterizations<br />Expt. 3a Synthesis: Suzuki Cross-Coupling Reaction<br />Expt. 3b Suzuki Reaction Characterization: FT-IR, 1H-NMR &amp; COSY <br />Expt. 4a Synthesis of Layered Microporous Solid-State Materials<br />Expt. 4b Characterization of Layered Microporous Solid-State Materials: <br />Expt. 4c Characterization: XRD, SEM &amp; TGA",
+      "comment_teaching": "Dennis is a very friendly teacher.&nbsp;&nbsp;And most of the TAs and technicians were helpful and patient.",
+      "comment_grading": "absolute grading <br />i think it&#039;s fair<br /><br />10% Attendance and risk assessment<br />20% Lab Quiz<br />25% Performance in laboratory<br />10% Product <br />35% Reports <br /><br />my overall score was around 89.5% and ended up with one A+ and one A",
+      "comment_workload": "Workload is acceptable. <br />It usually takes 2-3 hours for pre-lab work (safety sheet+read manual+tutorial video), and one day to finish the lab report.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "phCeJvobILVUK2bT2Qe5o3H4TgxJ8fzq",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 10,
+          "name": "CHAN, Dennis Ho Wai",
+          "rating": 1
+        },
+        {
+          "id": 803,
+          "name": "YEONG, Tsz Ying",
+          "rating": 1
+        }
+      ],
+      "author": "Brownpanda",
+      "date": "Dec 22, 2017",
+      "title": "Material chemistry option",
+      "comment_content": "Compulsory lab course for Material Chemistry option, together with CHEM4255. The only difference between CHEM4250 and CHEM4255 is that the content of final exams are different. The morning session CHEM4250 and afternoon session CHEM4255 were actually doing the same lab work. <br />Totally 4 labs, the first three labs each took 2 weeks, and the last one took 3 weeks. There is no relative chemistry lecture course for this lab, so some theories applied in this lab course are very new to me. <br />1st lab: Nanoparticles and polymers<br />2nd lab: OLED<br />3rd lab: Suzuki coupling<br />4th lab: Metal organic framework",
+      "comment_teaching": "Both 2 instructors explained what we need to do quite clearly. They were less strict compared to that of in the previous lab courses. <br />Every lab have a TA responsible for it, but not all of them were helpful. I mean that they were willing to help, but some of them didn&#039;t know much about the lab reports and lab works as well. <br />Technicians were as usual, talking and joking around while we were doing our experiment. But you can always interrupt them and ask for help.",
+      "comment_grading": "As it is a small class with student not more than 10, the grading is not bad. I got overall 83% and got a B+ and a A-. <br />Just simply submit your reports on time and use around one-day time to revise the lab manual and powerpoint slides, then I think you are good.",
+      "comment_workload": "As usual. Lab quiz + lab report + attendance + safety sheet + final exam<br />A lab quiz before the start of each experiment, so totally four lab quizzes. Do study them, so you can understand better what you are doing in the lab and you will need less time to study for the final exams. Both introduction part and procedure part will be tested. <br />Submit a lab report after each experiment, so totally four reports. We got a week time to finish. Quantity of questions is fair, but if you are not that familiar with the topic of the lab, you may need more time to deal with the long questions. <br />Remember to print out the safety sheets and finish them before each lab, so totally four safety sheets.<br />DON&#039;T BE LATE. They are strict to this. One second after 1030, you get your attendance marks deducted. They are showing the flash clock of Hong Kong Observatory on the screen every time for this. <br />Final exams divided into two sessions. 4250 for the synthesis part, and 4255 for the characterization part, one hour for each. Both MC questions and short questions. Get yourself familiar with the lab manual and powerpoint slides. Powerpoint slides are important, so don&#039;t skip them.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

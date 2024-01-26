@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 2908,
+    "subject": "ISDN",
+    "code": "6000A",
+    "name": "Technology Leadership and Entrepreneurship Seminar",
+    "description": "Series of prominent issues in the areas of technology leadership and entrepreneurship, presented by students, faculty and guest speakers for discussion. Graded P or F.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      1830
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 791,
+        "name": "YEE, Terrence Fu",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "Rp0FruhwhmMdqXmb7N8B3VozsHmv3PVL",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 791,
+          "name": "YEE, Terrence Fu",
+          "rating": 1
+        }
+      ],
+      "author": "oliverqueen",
+      "date": "May 21, 2019",
+      "title": "",
+      "comment_content": "Prof. Yee gave great talk and, as most of the TED-like lecture and conferences are made by guest, it&#039;s a great way to see different presentation skills and improve our own based on feedbacks.",
+      "comment_teaching": "Great Teaching. The lecture is mostly completed with field trip and guest speakers. Prof. Yee will act as a facilitator.",
+      "comment_grading": "It is a pass or fail course, only fail if you did not have enough attendance record.",
+      "comment_workload": "Be sure to attend the class, some visiting tour will be arranged to places such as accelerator and incubator in Hong Kong and China.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

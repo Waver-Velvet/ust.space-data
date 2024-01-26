@@ -1,0 +1,205 @@
+{
+  "course": {
+    "id": 3794,
+    "subject": "ISDN",
+    "code": "1001",
+    "name": "Introduction to Integrative Systems and Design",
+    "description": "This is a foundation course in which students will learn about the societal, economical, and cultural impact of integrative systems and the importance of integrating design into the creation of integrative systems. Through lectures, discussions, case-study and presentation, hands-on dis-assembly and re-assembly exercises, students will learn about the basic design principles, design terminology, design skill-sets, design thinking and process, and how a good design relates to the design principles. Students will also learn about what is an integrative system and the importance of using technology to build an integrative system and how it is decomposed into different sub-systems that involve multiple technology components, interacting with each other.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2310,
+      2210
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.75,
+    "rating_teaching": 4.5,
+    "rating_grading": 4,
+    "rating_workload": 3.25,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 212,
+        "name": "TSUI, Chi Ying",
+        "count": 4
+      },
+      {
+        "id": 1653,
+        "name": "LEUNG, Jac Ka Lok",
+        "count": 4
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "LTOC5OmfYqqE0U39qPdpb1nyji1rHM80",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1653,
+          "name": "LEUNG, Jac Ka Lok",
+          "rating": 1
+        },
+        {
+          "id": 212,
+          "name": "TSUI, Chi Ying",
+          "rating": 1
+        }
+      ],
+      "author": ">:P",
+      "date": "Jan 12, 2024",
+      "title": "",
+      "comment_content": "This project-based learning course is designed to be an introductory course to ISDN as a major. Basically, students get a fast track to the entire 4 years, so it&nbsp;&nbsp;can be daunting and pressuring. The whole time, you are working in groups. Groups change every phase, and you get to choose your group in the last Phase.<br /><br />Phase 1: Observation trip presentation<br />You combine with another group and decide on a city to visit (you go with an ISD faculty and a TA). In the field trip, you make observations which you use for a presentation, commercial, and a storyboard. Observations are centered around transport, accessibility and social welfare, culture and community, and public spaces. Some aspects that you might observe as a group would be, &quot;how accessible is this city?&quot; This phase is designed to introduce the idea of questioning to ISDN students and look for opportunities in design thinking, There is also a lot of creativity in making the presentation interactive which is a good start for students to understand the kind of output teachers seek.<br /><br />Phase 2: Disassembly and re-assembly highlights <br />You are given a system to disassemble and reassemble. You must do a presentation on its components, how the system works, how would you redesign it, adaptive redesign and such. A group that got perfect on this submitted a 30-page report. For us, this phase was kinda rushed because of the several cancelled Fridays due to Black rain and concurrent typhoons, but I thought there was a knowledge and skill gap that would be later filled as you get further in ISDN supposedly.<br /><br />Phase 3:&nbsp;&nbsp;Mini-project deliverables<br />The theme for this year was water. As a group, we were given about two weeks to conceptualize a problem, a problem statement, a solution, and a prototype. The presentation was a roadshow presentation were road traffic was considered in grading (about 5%) as instructors wanted students to consider the business pitch. I thought this phase was the most fun of all.",
+      "comment_teaching": "There is an intimate professor-to-student bond as professors remember everyone&#039;s names. Even if you are not required to attend lectures, professors notice and take note and there is also in-class participation grading, so it still ends up as required. TAs are also very friendly and are a lot (around 4-5?) Teaching is more interactive. And teachers also expect your outputs to be interactive. You are usually given systems and objects to analyze and discuss pros and cons with your group. Some materials are videos, lectures by professors and alumni, and systems that CY bought out of pocket. While the lecture is very long (3 hours) and you might be tempted to sleep or do other tasks, you should know that TAs really observe you and take note of your behavior for constructive criticism on how to work better. You can tell that the professors make an effort to make the course interesting. If you plan earlier and report expenses, ISD might pay for it for you.",
+      "comment_grading": "In-class participation: 15%<br />Phase 1: 10% (Team)<br />Phase 2: 10% (Team)<br />Phase 3: 30% (Team)<br />Learning portfolio: 30% (Individual)<br />Peer evaluation: 5% (Individual)",
+      "comment_workload": "When you look at it objectively as a whole, the workload is very manageable; however, instructors may spring a large project at you within a very short time frame, and students tend to cram. How good your output is also depends on how &quot;extra&quot; the other groups are. The workload would be very difficult with bad groupmates and bad language barrier. I hear most international students complain about this. Even if you do get bad groupmates in the groupworks (which happened to me in my case), you can still pull it up with the final and the individual learning portfolio. I would say that your experience with 1001, if horrible, will be 75% due to groupmates and 25% the 3-hour lecture period. I would say, 1001 is 100% more fun than 1002.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "BVK4sVaRWKhgIsxFB5XJjdRGii5deem7",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 212,
+          "name": "TSUI, Chi Ying",
+          "rating": 1
+        },
+        {
+          "id": 1653,
+          "name": "LEUNG, Jac Ka Lok",
+          "rating": 1
+        }
+      ],
+      "author": "ISDN",
+      "date": "Dec 21, 2023",
+      "title": "Introduction to ISD",
+      "comment_content": "This is the foundation and introductory course for all ISDN students, while it is also an Engineering Introductory Course for all Engineering students. It is the first ISDN course students will take in HKUST. As<br />most of the incoming high school students do not have background on design and also the knowledge of integrative systems, this course serves to let students understand the impact of integrative systems and the importance of design in creating these systems. It provides the necessary foundation to prepare students to move forward in acquiring more in-depth knowledge on design and building integrative systems. Also, it introduces the relevance of the future courses that the students will take in their later study. It gives a first taste of the unique project-based experiential learning pedagogy. <br /><br />1. Identify the impact of design and integrative systems in social, economic and cultural context<br />2. Appreciate the values of integrative systems and design<br />3. Connect different disciplines in integrative systems and design<br />4. Recognize the value of and identify the interaction among different building blocks of<br />systems<br />5. Develop the ability to work within constraints (e.g. technology boundary) and prioritize the<br />needs<br />6. Integrate knowledge from integrative systems",
+      "comment_teaching": "Great teachers and instructors!!! Glad to have them in this class. Often having different class activities and tasks to do, seldom get bored.",
+      "comment_grading": "In-class Participation and Overall Performance 15% <br />Phase 1: Observation trip presentation Team 10% <br />Phase 2: Disassembly and re-assembly highlights Team 10% <br />Phase 3: Mini-project deliverables Team 30% <br />Learning portfolio 30% <br />Peer evaluation Individual 5%<br /><br />If you work hard and put enough effort into those projects, your grade will not be low. Just be careful of Freerider...",
+      "comment_workload": "To be honest, is a little bit harsh and the workload is much more than I expected. Sometimes, we need to finish our project on time (deadline fighter) so we stay inside the studio in UST for the whole night.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "cXPsIK8foixSCdp3qAQockLoHdzBrhsq",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 212,
+          "name": "TSUI, Chi Ying",
+          "rating": 1
+        },
+        {
+          "id": 1653,
+          "name": "LEUNG, Jac Ka Lok",
+          "rating": 1
+        }
+      ],
+      "author": "SENG爷",
+      "date": "Nov 29, 2023",
+      "title": "",
+      "comment_content": "让你了解isd，了解design。",
+      "comment_teaching": "请isd不同方向的教授作为嘉宾，讲各个方向的知识",
+      "comment_grading": "很综合的评分，从各个方面，同伴评价，ta评价，pre分数，报告分数",
+      "comment_workload": "根据卷的程度，越卷压力越大。<br />有个人任务也有团队任务，期末需要交个人报告（可以看15min的）",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "lvNs7E2DAxP0IlnQhFHdtRR04kXA7SUb",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 212,
+          "name": "TSUI, Chi Ying",
+          "rating": 1
+        },
+        {
+          "id": 1653,
+          "name": "LEUNG, Jac Ka Lok",
+          "rating": 1
+        }
+      ],
+      "author": "empathy",
+      "date": "Jan 04, 2023",
+      "title": "Impressive memory :)",
+      "comment_content": "The course is an integration of ISD. Many faculties members and many elements were included in the lectures and assignments. <br /><br />Phase 1: Field Trip<br />Different teams went to different places and observe any interesting stuff. Then each team needed to work on a presentation, commercial and journal, and everyone needed to work on their own storybooks. The happiest part is that we had $ 70 per person.<br /><br />Phase 2: Disassembly and re-assembly<br />It was about technical stuff. Actually, I know nothing:)<br /><br />Phase 3: Final Project<br />We only had about 2 weeks to prepare it, from brainstorming to making a booth as a presentation. Our topic is the smart city. <br /><br />In fact, the content is not that important. This course&#039;s key value is making friends and finding suitable groupmates. <br />As the course ended at 9 pm on Wednesday, I always had dinner with my classmates. Also a good way to make friends. <br />ISDN好玩",
+      "comment_teaching": "Teaching is fair. Professors and TAs are friendly and helpful, and they always gave advise on your project.",
+      "comment_grading": "Official Grading:<br />In-class participation and Class assignment: 20%<br />Individual field trip storybook: 5%<br />Field trip presentation and report (Team): 15%<br />Disassembly and re-assembly report: 25%<br />Mini-project (Team): 30%<br />Individual Reflection: 5%<br /><br />There is no clear marking scheme as it is project-based. I only got B+.",
+      "comment_workload": "The workload is HEAVY compared to other 3-credited courses. The time for the class was 12-1:20 pm on Tue and 6-9 pm on Wednesday. <br /><br />They always told you the deadlines just before the deadlines. You cannot have a plan for it, and it only destroys your schedule. We only had 1 day to complete the commercial and present it as drama (with poster, story plot and storyboard). <br /><br />In fact, your groupmates mean everything:) So I typed attendance as necessary, at least you can keep in contact with your groupmates.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

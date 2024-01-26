@@ -1,0 +1,83 @@
+{
+  "course": {
+    "id": 3154,
+    "subject": "ENGG",
+    "code": "4930C",
+    "name": "Design for Global Health",
+    "description": "A group / individual special project supervised by one or a group of faculty members. Students are required to conduct a project on a specified topic related to Global Health. Team will set objectives at the beginning of the term. There will be several task-based assessments throughout the term to check their progress. At the end of term students need to show case their output in a form of roadshow and submit the final report to the teaching team. Students may repeat the course for credits for at most three times. Instructor's approval is required for enrollment in the course.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1930
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 20,
+        "name": "CHAU, Ying",
+        "count": 1
+      },
+      {
+        "id": 1191,
+        "name": "ABEYNAYAKE, H.I. Malinda M.",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "b7DsTQYyVYT5JbEdCS1f6HsRe5szmNxx",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 1191,
+          "name": "ABEYNAYAKE, H.I. Malinda M.",
+          "rating": 1
+        },
+        {
+          "id": 20,
+          "name": "CHAU, Ying",
+          "rating": 1
+        }
+      ],
+      "author": "VanessaL",
+      "date": "Aug 15, 2020",
+      "title": "",
+      "comment_content": "Usually students taking this course have previously joined SIGHT camp, and they will be continuing their project in this ENGG course.&nbsp;&nbsp;Students will be working on a health issue found in say Hong Kong or Cambodia to formulate solutions to solve these problems. Throughout the semester you would have to have two meetings every week with your team and your advisors to update on your progress. This course is much more interesting and rewarding than any other courses in UST.",
+      "comment_teaching": "There would not be much teaching on this course, as it is a project course, instead you will get a lot of useful comment and suggestions from the course instructors and advisors (and they are always willing to help!) It is more like a self-directed learning in which you have to learn new skills and softwares on your own according to your needs, and some instructors would give you some assistance during the process.",
+      "comment_grading": "In the semester you have to continuous work on your project (we did that from winter break till the end of spring semester). There are in total 4 formal presentation in this course, including one on the background of your project, 2 internal check with advisors and the very last roadshow. You will be graded based on your performance and readiness in these assessment as well as the peer evaluation. Yet as long as you meet the expectation of the advisors and work well with your peers you will be able to get a good grade from this course.",
+      "comment_workload": "As long as you spare some time for the project say 4-5 hours every week, the workload would not be so big, or it really depends on the nature of your project. In the beginning your instructors would set specific goals for your team&#039;s assessment, and they would ask for your comment on that. You can make the goal more realistic according to your progress, so you will not have to overwork yourself. Normal level of commitment is enough for this course.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

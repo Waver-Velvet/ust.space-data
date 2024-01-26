@@ -1,0 +1,75 @@
+{
+  "course": {
+    "id": 2603,
+    "subject": "CIVL",
+    "code": "5390",
+    "name": "Finite Element Methods",
+    "description": "FEM formulation; variational and Galerkin principles for continuum; element technology; numerical integration scheme; solution of large systems of linear equations; applications to structural mechanics; fluid flow and heat transfer problems.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2210,
+      2010,
+      1810
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"5830\" href=\"/review/CIVL5830\" target=\"_blank\">CIVL 5830</a> or <a class=\"course-link\" data-subject=\"MECH\" data-code=\"5010\" href=\"/review/MECH5010\" target=\"_blank\">MECH 5010</a> or equivalent",
+    "corequisites": "",
+    "exclusions": "AESF 5930, <a class=\"course-link\" data-subject=\"MECH\" data-code=\"5930\" href=\"/review/MECH5930\" target=\"_blank\">MECH 5930</a>, MESF 5930",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 2,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 87,
+        "name": "DIMITRAKOPOULOS, Ilias",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "8C7C91ysU4JN0dz6pn6iWk22CtndII7A",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 87,
+          "name": "DIMITRAKOPOULOS, Ilias",
+          "rating": 1
+        }
+      ],
+      "author": "kato",
+      "date": "Mar 26, 2019",
+      "title": "",
+      "comment_content": "Fundamentals of finite element method. FEM is applied to structures and heat conduction. The main book used in the course is a carefully selected textbook that very clearly explains the concepts covered in class. After completing the class, the student is able to apply the fundamentals explained in class and to further his or her knowledge for many other topics.",
+      "comment_teaching": "Excellent professor, very knowledgeable about the subject (and many other subjects, for that matter). He does expect the students to have a strong background from the pre-requisites. He tends to go through the material fast, but it is not impossible to follow. He presents the course outline and learning goals very clearly from the beginning and in every class.",
+      "comment_grading": "Grading is very fair. Three assignments, one final exam and one final project of your choice. The final exam is challenging and the final project does not need to be a breakthrough topic. The professor suggests topics for the project, but one can choose any other topic related to FEM and an application. The final project consists of a written report and a presentation.",
+      "comment_workload": "The assignments are not very easy but you are given plenty of time to complete them. Late assignments are not entertained.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

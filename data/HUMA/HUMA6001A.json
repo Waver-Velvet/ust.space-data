@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 3173,
+    "subject": "HUMA",
+    "code": "6001A",
+    "name": "Modern Chinese Fiction: Comparative Perspectives",
+    "description": "In this course, we will approach a number of representative fictions by contemporary Sinophone authors and their foreign counterparts. Through a parallel and comparative reading on the storytelling, form, and content, this course will analyze the differences and diversity between the East and the West, as well as Chinese literature and world literature. Authors to be studied include Pai Hsien-yung, Huang Chun-ming, Chu Hsi-ning, Zhang Dachun, and Wang Wen-hsing from Taiwan; Lillian Lee Pik-Wah and Wong Bik-wan from Hong Kong; Malaysian Chinese author Ng Kim Chew; alongside contemporary mainland authors Wang Zengqi, Wang Meng, Han Shaogong, Wang Anyi, Zhang Chengzhi, Mo Yan, Yu Hua, among others. Their works will be compared to literary works from overseas such as the United States, Britain, France, Czech Republic, Poland, Japan, Korea, Vietnam, Africa, Hispanophone and Lusophone communities from Latin America. Writers and their works will be finalized shortly.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2210,
+      1930
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 991,
+        "name": "YAN, Lianke",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "QvJcjxquMAMtC2rAq6D6JkXXbMZM69ub",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 991,
+          "name": "YAN, Lianke",
+          "rating": 1
+        }
+      ],
+      "author": "Percy Lee",
+      "date": "Feb 01, 2023",
+      "title": "",
+      "comment_content": "討論小說中的「真實」問題。每個星期都從老師自己對閱讀小說的理解中抽離出一個關於「真實」的話題，聯繫小說文本進行分析。",
+      "comment_teaching": "大多數時間是老師的講解，也會預留部分時間與同學討論寫作中遇到的具體問題。",
+      "comment_grading": "每節課的發言會被記錄，成績基本是由最後上交的小說決定。",
+      "comment_workload": "幾乎沒什麼任務。完成每個週的閱讀計畫就好。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

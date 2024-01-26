@@ -1,0 +1,414 @@
+{
+  "course": {
+    "id": 2548,
+    "subject": "TEMG",
+    "code": "3950",
+    "name": "T&M Case Analysis and Product Innovation",
+    "description": "TEMG3950 is divided into 2 parts. Part 1 is \"Case Analysis\" for students to develop structured problem-solving skills using MECE frameworks and communicate solution using 5-Step Persuasive Selling in essay and presentation format. Part 2 is \"Product Innovation\" for students to develop critical thinking skills using techniques such as Design Thinking. Value Proposition Design and Business Model Canvas. Instructor consent is needed for this course.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2310,
+      2230,
+      2210,
+      2130,
+      2110,
+      2030,
+      2010,
+      1930,
+      1910,
+      1830,
+      1730
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.11,
+    "rating_teaching": 3.89,
+    "rating_grading": 3.67,
+    "rating_workload": 1.44,
+    "review_count": 9,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 678,
+        "name": "CHAN, Chi Ming",
+        "count": 9
+      },
+      {
+        "id": 679,
+        "name": "LIN, Betty Fwei-chien",
+        "count": 9
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "xAqoWP2z1GXVWIuzx48Y5fk5KQtLAa4O",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 678,
+          "name": "CHAN, Chi Ming",
+          "rating": 1
+        },
+        {
+          "id": 679,
+          "name": "LIN, Betty Fwei-chien",
+          "rating": 1
+        }
+      ],
+      "author": "APKB",
+      "date": "Jun 19, 2023",
+      "title": "Hell but safe your GPA",
+      "comment_content": "Part 1 (Betty: Case Analysis)<br />Multiple frameworks help you to analysis what suitable decision you should make for the company.<br /><br />Part 2 (Chiming: Product Innovation)<br />Suggested co-requitsite: MARK2120 (STP, 4Ps, Customer Relationship, etc.), design thinking.",
+      "comment_teaching": "They taught with heart and atmosphere in class is quite good.",
+      "comment_grading": "Even below median, I can still get an A, is that 100% A range?",
+      "comment_workload": "Part 1:<br />Weekly CLS assignments, average took me 3-4 days to complete one assignment (group &amp; individuals).<br />An exam but not too hard.<br /><br />Part 2:<br />Weekly improvement on your project, but usually in the review session, you are asked to redo, so do a new PPT for your project weekly. Searched a lot of information for your product and service, including law, cases, etc.<br /><br />It deserves 6 credits.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "MTRvuo4XmrTAkhKKRBSPDJmYKE510yU4",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 679,
+          "name": "LIN, Betty Fwei-chien",
+          "rating": 1
+        },
+        {
+          "id": 678,
+          "name": "CHAN, Chi Ming",
+          "rating": 1
+        }
+      ],
+      "author": "Good Luck",
+      "date": "Dec 28, 2022",
+      "title": "Enroll if you have talent",
+      "comment_content": "The first part is case analysis, more like consultant works. Learning some frameworks to try to work out some cases. <br />The second part is product innovation imitating start-ups. Learning how to design a product.",
+      "comment_teaching": "Prof LIN speaks fluent English and is really helpful in answering students&#039; questions. <br /><br />Prof Chan doesn’t speak English very well and most of the time I think the way of his teaching is boring. <br /><br />TA is a senior DDP Student and she is really helpful as well.",
+      "comment_grading": "In this course, do not expect you can get a higher grade if you work hard enough. It does not depend on how much you do at all. You need more talent in creating good ideas than hardworking. <br /><br /><br />Remember to show off what you have done in front of professors and teammates because they give you the grade. Or you worked hard than others but had a lower grade.",
+      "comment_workload": "There are some individual works and teamwork. Teammates are distributed randomly. So it really depends on whether your teammates are reliable and whether you have free riders in your team. <br />You cannot find some teammates almost all the time. They just disappear and do not reply. But they will sometimes appear &quot;offering some advice&quot; and do few things. So you cannot call them free riders. If you want to be that kind of &quot;free rider&quot;, then congratulation, your workload is really tinny, but your teammates&#039; workload will double.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "VKvYwwfE2bSe04iB8fpvW3KRF2WXaQZv",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 678,
+          "name": "CHAN, Chi Ming",
+          "rating": 1
+        },
+        {
+          "id": 679,
+          "name": "LIN, Betty Fwei-chien",
+          "rating": 1
+        }
+      ],
+      "author": "kronigiri",
+      "date": "Aug 31, 2022",
+      "title": "",
+      "comment_content": "Contents mainly include analytical skills and frameworks, case studies, and a lot of hands-on practice. A lot of real life examples for reference and the skills are applicable not only in classrooms.",
+      "comment_teaching": "Very fast paced teaching, would not have survived if not for video recordings. Lessons are more than 2 hours long (and sometimes overruns), and the instructor expects a lot of class participation. There are weekly presentations for the final project (for 4 to 5 weeks) and the instructor would criticise your project harshly.",
+      "comment_grading": "Grading is fairly good considering the workload.<br />Class Participation<br />Mid-term<br />Quiz<br />Final Group Project (with 4-5 consultation sessions)",
+      "comment_workload": "Workload equivalent to a 6-credit course. Weekly assignments and readings take up to 3 hours to finish, and need to hold a lot of meetings (with teammates and with the instructor) for the group project.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "WgEuByfGhW1LLvqvcNgPj1SV8Pdclmit",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 678,
+          "name": "CHAN, Chi Ming",
+          "rating": 1
+        },
+        {
+          "id": 679,
+          "name": "LIN, Betty Fwei-chien",
+          "rating": 1
+        }
+      ],
+      "author": "Spri",
+      "date": "Jan 16, 2021",
+      "title": "The class is interesting but very heavy on workload, however grading is not too harsh",
+      "comment_content": "The content includes basic concepts and frameworks that you have to know about case analysis and design thinking. You have weekly case studies to solve, sometimes individually and sometimes in randomly assigned groups as homework.",
+      "comment_teaching": "the teaching of the class is very fast paced and thus quite a lot of content is covered in the class. Also attendance is mandatory.",
+      "comment_grading": "Grading is not very harsh for the final grade which is good considering the amount of work and assignments we have to turn in. There are weekly homework, 2 quizzes and a final presentation. There is also heavy reliance on attendance.",
+      "comment_workload": "For a 2 credit class, its a lot of work.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "vy4d8Z5Tn93iHYyUcjkhQIvEadR9UEiy",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 678,
+          "name": "CHAN, Chi Ming",
+          "rating": 1
+        },
+        {
+          "id": 679,
+          "name": "LIN, Betty Fwei-chien",
+          "rating": 1
+        }
+      ],
+      "author": "loaf",
+      "date": "Sep 02, 2020",
+      "title": "No pain no gain",
+      "comment_content": "Lecture contents:<br /><br />Part 1<br />Customer segmentation<br />Design thinking and business model canvas<br />Customer voices<br />Customer profile and value proposition map<br />Compeitor analysis<br /><br />Part 2<br />MECE frameworks and root cause analysis<br />5-step persuasive selling, PPTG change impact<br />Financial model<br />Blue ocean strategy<br /><br />The content taught in this class is really interesting and useful. You learn a lot of business frameworks and have many chances for case studies. That being said, I was expecting more product design and startup related project/cases. A little disappointed to find out it was mostly about consulting. Not sure it&#039;s like this across all semesters or if it&#039;s just because this semester&#039;s project leaned more towards consulting.",
+      "comment_teaching": "I&#039;d give B+<br /><br />Professor Chi Ming is very passionate about what he&#039;s teaching and it&#039;s fun to listen to his lectures. However, I agree that his lectures are loosely structured and you don&#039;t always know what he wants in the assignments.<br /><br />Professor Betty is great. Interactive, clear instructions. She delivers the content very well and her assignments are great in the sense that you can really apply the lecture materials and frameworks and familiarise yourself with them.",
+      "comment_grading": "Grading is not transparent, but it&#039;s quite fair from my experience. People joining this course are capable and competent beings so the competition won&#039;t be easy. But as long as you participate in class and put effort into the projects and assignments, (try to manage your time properly in the exam as well) you should be able to get A range. This course doesn&#039;t really follow curve grading so don&#039;t worry too much about the mean and just do your best.",
+      "comment_workload": "Why are we still here... Be prepared this won&#039;t feel like 2 credits. There is a lot of work to do, and a lot of time spent doing it, which is the only downside to this course.<br /><br />Right off the bat, there will be weekly reading materials (40+ pages each), videos, and assignments (a few hundred words). Then there&#039;s going to be the group project and presentation for part 1.<br /><br />For part 2, also weekly assignments. No reading materials but they require a good amount of research and they&#039;re pretty long. Keep in mind you only have a week&#039;s time for all that.<br /><br />I&#039;d say the workload is on par with a 4 cred course, or even more :) You will lose a lot of HP after one semester. It&#039;s fulfilling work and you will learn a lot, but just... be prepared.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "4MCyopHOhrczK49eoWAvObpShY8l9rBx",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 679,
+          "name": "LIN, Betty Fwei-chien",
+          "rating": 1
+        },
+        {
+          "id": 678,
+          "name": "CHAN, Chi Ming",
+          "rating": 1
+        }
+      ],
+      "author": "16y39y",
+      "date": "Jul 17, 2020",
+      "title": "painful but somewhat rewarding",
+      "comment_content": "course is separated into two parts, first part is about startups and design thinking (taught by prof chiming), second part is about consulting (taught by prof betty).<br /><br />part 1: business model canvas, value proposition canvas, process of design thinking, identifying problems and solutions etc.<br /><br />project: consulting/solving problems for an actual restaurant<br /><br />part 2: consulting frameworks (e.g. 5 whys, mckinsey 7s, pptg change analysis, 5 step persuasive selling), case analysis, blue ocean strategy<br /><br />overall i think the content was very rich and helpful, especially part 2 (since prof betty really packs a lot into her lectures). i personally really liked the course as i was able to learn a lot of practical skills.",
+      "comment_teaching": "prof chiming: generally easy to follow and understand in class, he is passionate and you can clearly tell that he really loves design thinking. however his classes are sometimes a bit too loosely structured. also, it&#039;s hard to figure out what he wants from us in his assignments.<br /><br />prof betty: very good lecturer. she has years of experience in many fields which is clearly evident from her teaching. she took time each lesson to review our previous assignments with us, which i found to be especially helpful.",
+      "comment_grading": "part1 quiz/midterm, final, weekly assignments, project, participation.<br /><br />overall i think grading is good considering my raw scores (the ones that were released). grading isn&#039;t that transparent. don&#039;t know all my scores as they didn&#039;t release some of them, but im quite sure the grading is better than most courses at ust.",
+      "comment_workload": "first few weeks they gave us almost 200 pages of reading and long videos (total almost 1h) to study for our quiz. <br /><br />less than one week for each piece of homework which just becomes more and more complex as the weeks go by. one written assignment (long answers) each week at least.<br /><br />i found the project to be fun, but it was a major part of my stress and workload. the project deadlines are so tight, we met our client for the first time in early march and our presentation was a month later with new deliverables (parts of our project) to be submitted each week.<br /><br />this course used up more of my time than all my other courses added tgt.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "QQQtoABcvnb4kxegmbKpvIUM55RND8Im",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 678,
+          "name": "CHAN, Chi Ming",
+          "rating": 1
+        },
+        {
+          "id": 679,
+          "name": "LIN, Betty Fwei-chien",
+          "rating": 1
+        }
+      ],
+      "author": "no_name_provide",
+      "date": "Jul 07, 2020",
+      "title": "being 2 cred can save yr GPA",
+      "comment_content": "mainly about consulting/ studying business cases<br /><br />for me those are just blow-water stuff<br /><br />recommend studying MARK2120 before coming to this course",
+      "comment_teaching": "Part 1:<br />chi ming: <br />fair, teach u the correct way to get a book from very high bookshelves:<br />X finding a ladder<br />O train a monkey to help u get the book <br />=&gt; this is wt he call &quot;design thinking&quot;. so he actually ruin out the design thinking part of the course <br /><br />Part 2:<br />betty: excellent (deserve an A+)<br />she will discuss every case at the beginning of each class",
+      "comment_grading": "poor<br />you are forced to complete with DDP students, so probably you will end up with a shit grade unless you are extremely outstanding/hardworking DDP student<br /><br />For part 1, instructors give score subjectively and not transparent enough, so no idea how they give u the score<br /><br />For part 2, rmb to read the instructions on canvas &amp; listen to the instructions delivered in lectures <br />otherwise, u will get a significantly lower score than others, even with minor carelessness in following the instructions (60 marks vs others 90+ marks)",
+      "comment_workload": "Extremely large workload<br />(1/3 of my 20 cred-semester -_-)<br />but i&#039;m glad that this course is 2 cred so it won&#039;t affect yr GPA a lot + enable u to take more courses as a dualer in a max-20-cred yr 1 semester",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ABth4YajWThPoxtbY4vybcKy7SiFaq9I",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 678,
+          "name": "CHAN, Chi Ming",
+          "rating": 1
+        },
+        {
+          "id": 679,
+          "name": "LIN, Betty Fwei-chien",
+          "rating": 1
+        }
+      ],
+      "author": "abpuma",
+      "date": "Jun 20, 2020",
+      "title": "Way too much workload for 2-credits",
+      "comment_content": "The course is divided into 2 parts: Start-up case and Consulting<br /><br />The first part is taught by Prof. Chi Ming. You&#039;re given a (real-life) start-up company that&#039;s facing some problem, you work in teams of 3-4 to consult for the company and provide recommendations. The prof introduced concepts like Business Model Canvas, Customer Profile Map, etc. to help you work through the case.<br /><br />2nd part is by Prof. Betty. She taught some consulting frameworks like 7S, 5C, Blue Ocean, etc. and gave homework assignments every week.",
+      "comment_teaching": "Both professors are very experienced and knowledgeable in their fields. Chi Ming&#039;s classes were a bit monotonous and his accent was a bit difficult to understand. On the other hand, Betty&#039;s classes were a lot more engaging and fun, and her voice is pretty clear too.",
+      "comment_grading": "Participation: 6%<br />Start-up assignments and midterm: 27%<br />Start-up presentation: 20%<br />Consulting assignments: 30%<br />Consulting final exam: 17%<br /><br />My scores:<br />Participation: 100/100 (According to criteria, you just need to attend every class and speak 1-2 times)<br />Start-up assignments and midterm: 414/550<br />Start-up presentation: 207/250<br />Consulting assignments: 261/300 (released scores only for 3/4 assignments)<br />Final grade: A<br /><br />The course is absolutely graded (so mean and sd are irrelevant) and the prof mentioned that she gives &gt;60% A-range.",
+      "comment_workload": "The workload is more like a 4 or 5 credit course, it&#039;s just way too much work for 2 credits. For e.g., we had a midterm (quiz) worth 12% for which you need to read three 70-page books and 2 hours worth of YouTube videos. <br /><br />There is homework/submissions every week and they can take up some time, especially the group ones. Unless you&#039;re a DDP student/someone who&#039;s really into consulting, I&#039;d recommend staying away from this course.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ShEvQB3KYwIpc1DPkhjilYKPdf3EqXqT",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 678,
+          "name": "CHAN, Chi Ming",
+          "rating": 1
+        },
+        {
+          "id": 679,
+          "name": "LIN, Betty Fwei-chien",
+          "rating": 1
+        }
+      ],
+      "author": "HKUST is good",
+      "date": "Jun 09, 2020",
+      "title": "Take it only if you need a wider network",
+      "comment_content": "Actually, the content is not that engaging and exciting at all. If you just want to learn the knowledge from this course, you may simply learn better and more comprehensive contents from MARK2120 + LABU2040. Of course, if you want a shorter version and wanna have a taste about what case solving is, you may skim through the content by taking this 2-cred course. <br /><br /><br />The content actually is not that important. What determines most is that this course prepares you for taking TEMG4950/4960 and they are good for your CV, plus the professors have a quite wide social network, they may introduce you with some internship offers and practical working skills etc.",
+      "comment_teaching": "Prof Chan doesn’t speak English very well tbh, however, he tries to speak and encourages students to speak more English though he knows Chinese. His way of teaching is boring indeed.<br /><br /><br />Prof Lin speaks English fluently without accent, she teaches better and encourages more student participations. She may be a bit chur sometimes and will call students to speak and provide comments even u are not ready yet.<br /><br /><br />Both professors are coordinators of DDP and have heart in teaching and caring of students. You may get some out-of-class insights through taking the course.",
+      "comment_grading": "Grading is not bad actually. Professors may give harsh marks and comments on assignments and project but the overall grade is reasonable. Even though I got 70% on average for the assessments yet I resulted in a B+.<br /><br /><br />Not too transparent as mean, median and sd were not disclosed. I also think the scores were released too late such that we did not receive timely feedbacks.",
+      "comment_workload": "Quite high and not correspond to a 2-cred course.<br /><br /><br />You will get one case-project for the first half of the semester, you need to draw a report and present on it during mid-term time. Then, you will have a final exam at the end of term. Moreover, you will get one piece of assignment based on reading materials (each ~50 pages) or one full case to analyse and write different reports using frameworks taught EACH WEEK. Sometimes is individual sometimes is group efforts. Good teammates are important but u can’t guarantee to have one cuz all groupings are randomised.<br /><br /><br />Not to mention you also have a small in-class quiz in week 4 plus you need to attend all the classes and participate in each of the class.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

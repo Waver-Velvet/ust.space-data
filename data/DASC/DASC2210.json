@@ -1,0 +1,114 @@
+{
+  "course": {
+    "id": 3773,
+    "subject": "DASC",
+    "code": "2210",
+    "name": "A Survey on Big Data in Science and Society",
+    "description": "A survey on data collection and applied data science in different areas of science and in the society as a whole. Examples and case studies will be taken from physics, chemistry, life science and ocean science as well as other disciplines that are heavily data driven. Graded DI, PA or F.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2310,
+      2210
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4.5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1637,
+        "name": "NG, Krates",
+        "count": 1
+      },
+      {
+        "id": 1844,
+        "name": "WOON, Wilson",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "XYkaT359yeQ5B4dX5iuLjkChahoGF9Y7",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1844,
+          "name": "WOON, Wilson",
+          "rating": 1
+        }
+      ],
+      "author": "polyipseity",
+      "date": "Jan 02, 2024",
+      "title": "rudimentary data science and Excel course",
+      "comment_content": "Yes, it does talk about data science, but it&#039;s not very in depth, more like an overview. You can probably expect half of the lessons to learn very basic stuff like the definition of data, knowledge, information, and wisdom. There&#039;s no exam anyway so you can probably just ignore all of these information.<br /><br />The other half of the lessons is literally how to use Excel. I did learn a few new functionalities, but otherwise it&#039;s not something you need to specifically go to a course to learn about. An Internet search would do.<br /><br />Overall, there is little value in the content of the course. Unless you really need that Excel tutoring.",
+      "comment_teaching": "Skipped a lot of the lessons because honestly I am not THAT interested into it. From the lessons that I have attended, the teaching is fine. I could see Wilson exerting some effort. And he was willing to answer questions after the lessons.",
+      "comment_grading": "DI/PA/F grading, so it does not count towards your CGA.<br /><br />It does not count attendance so yay! No need to attend the stupid lessons. Though that probably depends on the instructor.<br /><br />Completing the assignments and the final project (more like an essay) would probably give you a pass. The assignments are simple to get high marks, at least compared to other courses. The teacher also do not expect much from the final project, so it is also easy to get a passing mark there.<br /><br />Somehow got DI at the end.",
+      "comment_workload": "Attendance is not counted, so no workload there. The assignments, as mentioned, are very simple. It takes at most an hour to complete each of them. The final project does require effort and creativity as you need to think of a topic and do some actual data analytics, and write a report that is not more than 5 pages. Since this is a 1 cred course, the final project workload is comparatively high.<br /><br />Though for me, I wasted 3 days on the final project and it felt more like a LANG writing assignment. Not recommended!",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ZgRloX1vUZIEb9wa3A5GrToZlS8gUkqe",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1637,
+          "name": "NG, Krates",
+          "rating": 1
+        }
+      ],
+      "author": "ccccccc",
+      "date": "Oct 28, 2022",
+      "title": "Nice course",
+      "comment_content": "This is a totally new course, because DASC is a fresh major this year. Through the whole course, we can learn a lot of basic knowledge about data science. As to me, this major is more closed to Data Science than DSCT maybe. The whole course is more similar to a meeting and we will share our ideas with other members. By studying and analyzing case, we can know what data science is and what data scientists do. The instructor also introduced 3Vs and Readme file and more things related to data science. And in the last several courses, we watch the video about the final project. There are two subjects, and we need to choose one of them to complete.<br />a. https://youtu.be/6bMvxmHAHr8<br />b. https://youtu.be/ExPyZL8R_18",
+      "comment_teaching": "The instructor is pretty nice. He is humorous and he can attract every member of the class. Also, he is patient in every aspect. He will answer the question online and in the classroom. Meanwhile, we can communicate with him about nearly everything including data science or more other interesting things.",
+      "comment_grading": "P/F Complete the paper carefully, you will pass the course. Also, attendance is necessary.",
+      "comment_workload": "none.&nbsp;&nbsp;it&#039;s a simple PF class. Only 1.5 hours per week and it is more similar to a seminar.&nbsp;&nbsp;As to me, I am a physics student and I attend this course. This course is quite easier than those complex physics courses. You don&#039;t need to do everything after the class. Just attending the class is enough. As long as you complete the final paper carefully, I believe you can get a great mark.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

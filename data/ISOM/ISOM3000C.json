@@ -1,0 +1,109 @@
+{
+  "course": {
+    "id": 2645,
+    "subject": "ISOM",
+    "code": "3000C",
+    "name": "Developing AI Applications",
+    "description": "This course is intended to train students to learn and develop AI applications by using practical and useful development tools. Students will learn basic AI models and analyze their advantages and disadvantages when they are applied in AI applications. The course is divided into 4-day intensive classes. It consists of two parts. The first part covers basic machine learning models and related tools. The second part introduces the development environment, tools, and hands-on labs for training, testing and evaluating AI applications using AI development tools. Having programming knowledge is a plus.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      1830,
+      1810
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3.5,
+    "rating_teaching": 2.5,
+    "rating_grading": 4.5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 839,
+        "name": "KE, Ping Fan",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "J6QCcJYQJhrLIoS6y9f1ebHKQrSwUAAW",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 839,
+          "name": "KE, Ping Fan",
+          "rating": 1
+        }
+      ],
+      "author": "Yau Kwan:D",
+      "date": "Jan 09, 2019",
+      "title": "",
+      "comment_content": "Lab 1: Financial credit risk analysis<br />Lab 2: Chatbot for customer service<br />Lab 3: Natural Language Understanding and Discovery<br />Lab 4: Image classifier<br /><br />If you wish to have some basic understanding of AI, this might be a good course for you.&nbsp;&nbsp;However, you won&#039;t be able to develop a useful AI application after the course.",
+      "comment_teaching": "Most of the lesson time is wasted on waiting and bug fixing due to the crappy ibm system",
+      "comment_grading": "60/100 --&gt; B<br />Mean 78.4",
+      "comment_workload": "Only a 40-slide pitch deck has to be submitted, but no grading rubrics is given, not sure what the professor is looking for",
+      "rating_content": 3,
+      "rating_teaching": 2,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 3,
+      "attachments": []
+    },
+    {
+      "hash": "bmiQUQIr2dHqOIM3DaIW8ERdKIpIT0X1",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 839,
+          "name": "KE, Ping Fan",
+          "rating": 1
+        }
+      ],
+      "author": "Meowlo",
+      "date": "Jan 03, 2019",
+      "title": "A good new course, with great room for improvement",
+      "comment_content": "Topics covered<br />-Introduction to machine learning and AI<br />-Text analysis<br />-Conversation analysis and Chatbot<br />-Visual Recognition<br /><br />The course mainly takes us to use IBM Waston for performing different machine learning tasks. Quite a hands-on course and you can regard this course as 4 3-hours labs.<br />This is good for your CV. You can actually use IBM Waston to build your own chatbot or do visual recognition.",
+      "comment_teaching": "As this is a new course, the flow is rather clumsy. There are a lot of lab materials to go through and you can easily lose track of what&#039;s going on. Also, there are some bugs with the free version on the IBM Waston platform, which sometimes it may take a long time to run, or you just can&#039;t run it without knowing the reason.",
+      "comment_grading": "A ppt deck has to be submitted for the project with regard to a business idea leveraging AI technology. This will be the only thing to determine your grade and the grading criteria is based on the business value and model design.<br /><br />Mean is 78/100 and our group got 90/100 and got A as a result.",
+      "comment_workload": "The workload is so low as there are no labs submission and all you need to do is the project. It might take you some time to build the model depending on your project, but the platform is so user-friendly so it might not take you a long time to do.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "course": {
+    "id": 1173,
+    "subject": "SOSC",
+    "code": "2970",
+    "name": "Abnormal Psychology",
+    "description": "Abnormal psychology is the scientific study of psychopathology and abnormal behavior. This course introduces theories, research methods, and the most updated research findings in the field of abnormal psychology. Students will be introduced to various types of psychological disorders, such as mood disorders, schizophrenia, personality disorders, somatoform disorders, sex-related disorders, etc. They will also learn about the diagnosis, causes, maintenance, and treatment of major psychological disorders from an integrative perspective.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1830,
+      1730,
+      1630,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"SOSC\" data-code=\"1960\" href=\"/review/SOSC1960\" target=\"_blank\">SOSC 1960</a> OR <a class=\"course-link\" data-subject=\"SOSC\" data-code=\"1980\" href=\"/review/SOSC1980\" target=\"_blank\">SOSC 1980</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.75,
+    "rating_teaching": 4.25,
+    "rating_grading": 4,
+    "rating_workload": 4.5,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 659,
+        "name": "LAI, Pui Yee",
+        "count": 4
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "YPP2kQJW3oinDyf8ontYH8opoToqScsW",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 659,
+          "name": "LAI, Pui Yee",
+          "rating": 1
+        }
+      ],
+      "author": "Kabul",
+      "date": "Jun 15, 2019",
+      "title": "Interesting course",
+      "comment_content": "The course first introduces us with the general framework and tools to understand abnormality, including different dimensions of psychological disorders, assessment, and diagnostic tools. It then looks into different psychological disorders one by one. Kinda dull at first but becomes interesting once different psychological disorders are introduced.<br /><br />1️⃣ What is Abnormality<br />2️⃣ Models of Abnormal Behavior<br />3️⃣ Assessment and Diagnosis<br />4️⃣ Anxiety and Obsessive-Compulsive Disorders<br />5️⃣ Mood Disorders<br />6️⃣ Trauma and Stress-Related Disorders<br />7️⃣ Schizophrenia and Other Psychotic Disorders<br />8️⃣ Somatic Symptom and Dissociative Disorder",
+      "comment_teaching": "Beatrice&#039;s explanation is detailed and fluent. She shows a few videos in class to demonstrate the feelings of the patients suffering these psychological disorders and how they look like. She also engages us with class discussion questions, usually on issues that are not that trivial and require a lil bit of thinking. But don&#039;t worry - she will go over the answers thoroughly at the end.",
+      "comment_grading": "✏️ 30% - Quiz 1<br />✏️ 30% - Quiz 2<br />💬 20% - Group Project Presentation<br />✏️ 10% - Group Project Individual Paper<br />🏫 10% - Class Participation<br />👍 +1 bonus mark given upon finishing the peer evaluation<br /><br />I got 1.6 SD above mean in quiz 1, 0.3 SD above mean in quiz 2, slightly below mean in the presentation, slightly above mean in the individual paper and full park in class participation.<br /><br />💯 Final grade: A-<br /><br />Not too bad.",
+      "comment_workload": "Quizzes comprise of multiple choice questions that are actually quite tricky and require a thorough understanding of details. Textbook reading is not absolutely required but you will need to go through the relevant chapters in the textbook if you really want to ace the course. Beatrice explicitly said that quite a few questions in the quizzes would be based on the textbook materials not mentioned in class.<br /><br />The group project basically lets us explore a psychological disorder not covered in class and we are required to pick a celebrity/case vignette and explore the etiology, the person&#039;s symptoms and the treatment applying the multipath model, i.e. we have to discuss the disorder from the biological, the psychological, the social, and the sociocultural dimensions. Then we need to deliver a 10-minute presentation in class elaborating on our findings and write individually a 600-word essay on the one treatment approach of the disorder. The most challenging part is that you have to be absolutely concise due to the time and word limits. Explaining all these things in a neat manner in merely 10 minutes is not that easy.<br /><br />The class participation marks are based on the submission of class discussion answers. Just make sure you don&#039;t skip all the classes and you will be fine. FYI she took attendance 7 times this semester.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "uqR4RHu1OrMWnzaCGDhiGxlbz2t4otbd",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 659,
+          "name": "LAI, Pui Yee",
+          "rating": 1
+        }
+      ],
+      "author": "fergus",
+      "date": "Apr 14, 2019",
+      "title": "Rather simple course with reasonable amount of workload",
+      "comment_content": "Very interesting, includes a broad scope of mental disorder, I personally find the professor explained them just thorough enough to not make us feel overwhelmed by it while at the same time you do learn a lot about the diseases.",
+      "comment_teaching": "Does lots of explaining based on the powerpoints. She will also show videos in-class that will show up in the exams so you should attend class.",
+      "comment_grading": "The mean is pretty high in both mid term and final so you have to make sure you studied the material thoroughly. <br />The exams are mostly based on your understanding of the course rather than memorisation, since the exam format is in MC.",
+      "comment_workload": "Workload is very acceptable imo. Presentation and individual report based on your presentation.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "LDo6uw143RhfkEBonowQuCdZaQOrEjI7",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 659,
+          "name": "LAI, Pui Yee",
+          "rating": 1
+        }
+      ],
+      "author": "nsy",
+      "date": "Aug 09, 2018",
+      "title": "",
+      "comment_content": "Lecture 1: Introduction<br />Lecture 2-3 What is abnormality<br />Lecture 4-6 Models of Abnormal Behaviors<br />Lecture 7-8: Assessments and Diagnosis<br />Lecture 9-11: Anxiety and Obsessive-Compulsive Disorder<br />Lecture 13-15: Mood Disorder<br />Lecture 17-18:Trauma and Stress-related Disorders<br />Lecture 19-20: Somatic Symptom and Dissociative Disorder<br /><br />The content and powerpoint slides are more difficult and wordy compared to 1000-level SOSC courses. Need to memorize some specific biological terms such as enzymes&#039; name in the etiology of the disorders.",
+      "comment_teaching": "Dr Lai explains the concepts clearly and shows videos in the lecture to demonstrate the symptoms of disorders to us. She encourages in-class discussion. Quite a lot of students answer questions and join the in-class discussion. I would highly recommend you to show up in the lectures as she may cover some concepts and information in classes which do not appear in the Powerpoint. She randomly takes attendance in lectures and in the project presentation days. (FYI: she took 5-6 times throughout the sem)",
+      "comment_grading": "30% midterm1<br />30% midterm 2<br />20% project + presentation<br />10% personal essay<br />10% participation<br /><br />The grading is fair, but since the class size is not that large ( around 40-50 people), it is quite difficult to get A or even A+.<br /><br />Mean for midterm 1: 30.5/40<br />Mean for midterm 2: 33.3/40<br />Mean for presentation: 16/20<br />Mean for essay: 5.9/10<br />Mean for Class participation: 8.4/10<br /><br />I managed to get above mean for almost a SD for mt 1, over a SD in mt 2 and essay, slightly above mean for presentation and 0.1 mark below mean for participation --&gt; A- in total",
+      "comment_workload": "2 midterms in the semester (40 MCS EACH)<br />600 words essay <br />project and presentation: <br />- choose one of the disorders which has not been covered in the lectures as topic ( real life cases from celebrity or friends)<br />- analyze the etiology with multi-path model<br />-treatment for the disorder",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "v34Sys1HHm9d0o0bMey3aa5YEns9czO7",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 659,
+          "name": "LAI, Pui Yee",
+          "rating": 1
+        }
+      ],
+      "author": "Krispy",
+      "date": "Aug 06, 2017",
+      "title": "",
+      "comment_content": "The course focuses on the major mental disorders in the DSM V.&nbsp;&nbsp;Topics include schizophrenia, depression, ADHD, phobias, DID, bi-polar disorders etc. You will learn about the causes of each disorder, the symptoms, and treatment. <br /><br />As this is abnormal psychology, you&#039;ll be learning some biological terms related to the causes of certain disorders. So be prepared to memorise some biological terms. <br /><br />The cases &amp; videos are rather interesting though! Dr Lai usually gives a few cases for each disorder and she&#039;ll show videos of the patients with that particular disorder.",
+      "comment_teaching": "Dr Lai&#039;s classes are more or less the same. I&#039;ve taken her SOSC1980 course before so I was familiar with her teaching style. <br /><br />She usually reads off her slides, but will purposely leave some parts out of the notes, so you have to pay attention to get the missing stuff! She might come off as slightly boring at times, but then again, if you&#039;re genuinely interested in the subject, you&#039;ll be able to pay attention.",
+      "comment_grading": "The grading is rather fair. But its difficult to get a good grade. I&#039;ve managed to get above the mean for both tests. I think my group did alright for the group project, but since the class size is small, and there were only 4 groups in total, it really skewed the grade curve. <br /><br />I ended up with a B range grade (I forgot if its B+/B/B-). So I guess if you want a good grade, you really have to be the best. Her quizzes are in MCQ form so make sure you try to score in those!",
+      "comment_workload": "Very light workload. You only have to do a group project, which is a presentation at the end of the course. And then a 600 word individual essay on your group project.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

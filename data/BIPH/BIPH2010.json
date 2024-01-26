@@ -1,0 +1,218 @@
+{
+  "course": {
+    "id": 1482,
+    "subject": "BIPH",
+    "code": "2010",
+    "name": "Introductory Biological Physics",
+    "description": "This course introduces the use of physical methods in the study of biological systems, including macromolecules, membranes, nerves, muscle, photosynthetic systems and visual systems. The biological systems to which the methods are applied will be surveyed and current interpretations of their structure and function will be discussed. The treatment of biological phenomena will be based on physical principles with appropriate mathematics when necessary. The emphasis will be on the applications of physics in biology.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2030,
+      1930,
+      1830,
+      1730,
+      1630,
+      1530
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"LIFS\" data-code=\"1901\" href=\"/review/LIFS1901\" target=\"_blank\">LIFS 1901</a> OR level 3 or above in HKDSE 1xBiology) AND (<a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1111\" href=\"/review/PHYS1111\" target=\"_blank\">PHYS 1111</a> OR <a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1112\" href=\"/review/PHYS1112\" target=\"_blank\">PHYS 1112</a> OR <a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1312\" href=\"/review/PHYS1312\" target=\"_blank\">PHYS 1312</a>)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.6,
+    "rating_teaching": 3.8,
+    "rating_grading": 4.8,
+    "rating_workload": 4,
+    "review_count": 5,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 630,
+        "name": "PARK, Hyo Keun",
+        "count": 5
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "WfxHgJdXqc1J2rD3iFDHMs305TWUlemM",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 630,
+          "name": "PARK, Hyo Keun",
+          "rating": 0
+        }
+      ],
+      "author": "Minerva07",
+      "date": "Jan 07, 2021",
+      "title": "",
+      "comment_content": "The course introduces basic as well as more advance concepts in biophysics, sometimes covering active area of research.<br />First few classes introduces current knowledge in molecular biology such as organelles, ATP, central dogma, vesicle transport etc, with a focus on the slightly quantitive side.<br />Then he talked about basics of thermodynamics, statistical mechanics, mentioned quantum statistical mechanics.<br />At around midterm, he starts introducing some classical studies in biophysics, such as models for binding induced conformational change, force extension of polymers, diffusion.<br />After midterm:<br />Reynold number, molecular dynamics, neuron models.",
+      "comment_teaching": "Although he is very nice and tries to encourage questions, his answers to those question were usually not satisfactory, often saying you don&#039;t need to know this.<br />He sometimes went through quite deep concepts very fast, without much explanation. In the end though, he did not test on those as he said. But it may be better to structure the slides a bit, so that things appeared in them are explained logically. Then the lecture would be less confusing.<br />Those are indeed very interesting topics, I am a bit disappointed that the lectures are boring.",
+      "comment_grading": "The exam only tests the simplest part of the lecture, and there are even same questions from homework. There is more than enough time in the exam for a few questions, equations are provided. So it&#039;s easy to get high marks.<br /><br />And he is very generous on the grades too. I got A+ even though I skipped a number of homework, and didn&#039;t do the bonus essay. I heard that most students in the class ended up getting&nbsp;&nbsp;A or B range.",
+      "comment_workload": "Weekly graded homework. <br />one optional essay that improves your grade. (you can probably ignore since the grading is good enough already)",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "tzfz4wx3nJmUIVFZtVamO5JhvEMs6gip",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 630,
+          "name": "PARK, Hyo Keun",
+          "rating": 1
+        }
+      ],
+      "author": "Wolf",
+      "date": "Aug 21, 2019",
+      "title": "",
+      "comment_content": "Contents are interesting overall, but for those who are not having LIFS or PHYS as their majors, taking this course could be a bit difficult as it requires quite a bit of basic knowledge. Although the prerequisites of this course are (LIFS1901 / DSE Bio LV3) AND (PHYS1111 / PHYS1112 / PHYS1312), the Professor seemed like expecting more than just that.",
+      "comment_teaching": "The Professor expected most of the students have understood certain parts of the materials, so his teaching was a bit too fast-pacing, and I (not majoring LIFS or PHYS) found the course a bit difficult to catch up.",
+      "comment_grading": "To be honest, I paid pretty much the minimum effort on the assignments and tests, and I got a C grade. If you are really interested in the materials and would pay some time studying, you can probably ace this course easily.",
+      "comment_workload": "There is an assignment each week, which the questions are mainly about the contents taught in the lecture that week. There is a tutorial section when there will be a teaching assistant helping you with the assignment.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "oRiPoyBrjOWoI3eHxi7if7eyegyS26GU",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 630,
+          "name": "PARK, Hyo Keun",
+          "rating": 1
+        }
+      ],
+      "author": "gonjibro",
+      "date": "Jun 05, 2019",
+      "title": "BIPH 2010",
+      "comment_content": "Pre - midterm:<br />1. Life from the perspective of physics<br />2. What&#039;s inside cells: The structure of Biological Molecules<br />3. DNA Replication, Transcription and Translation<br />4. Molecular Driving Forces: Statistical Thermodynamics<br />5. Statistical Thermodynamics of Life<br />6. Biological Macromolecules<br /><br />Post - midterm:<br />7. Diffusion - Random walks of Biology<br />8. Life at low Reynolds Number<br />9. Rate equations and Dynamics in Cells<br />10. Molecular Motor<br />11. Physical properties of cell membrane<br />12. Physics of Neuron",
+      "comment_teaching": "His teaching is little jumbled up to be honest.<br /><br />As a student who didn&#039;t have lot of background in Biology and Physics, I needed to study class materials from external sources in order to fully understand Prof. Park&#039;s lectures.<br /><br />There are lot of frightening calculations in his lectures but Prof. Park tries to explain them with clarity and helpful analogies.",
+      "comment_grading": "Prof. Park generally gives very good grade for students who work hard. <br />He doesn&#039;t release the final exam marks to the students which I found quite confusing.<br />For mid-term, I received 24/30 which is about the mean score of the class.",
+      "comment_workload": "There&#039;s a weekly assignment that needs to be submitted on every tutorial session. In total, there are about 10 to 11 assignments to be submitted.<br /><br />There&#039;s a mid-term exam during the semester which tests on all the class materials taught before mid-term exam.<br /><br />There&#039;s a final exam which tests on all the class materials after the mid-term exam and before the final exam.<br /><br />There&#039;s an optional report that relates to any observations or Biological phenomenon. 5 pages are adequate length for the submission of report.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "uQ5vQ1IHS6GSjJZgBiEUY81sVwCYN9uC",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 630,
+          "name": "PARK, Hyo Keun",
+          "rating": 1
+        }
+      ],
+      "author": "diudiu",
+      "date": "Jun 07, 2016",
+      "title": "Most interesting course I&#039;ve ever taken yet (+nice grading)",
+      "comment_content": "Absolutely stunning with the unique and novel perspectives provided by this course. The interdisciplinary approach taken by Prof Park offers an eye-opening view to biological phenomena via understanding their underlying physical principles.<br />Most of the course content is structured after the textbook Physical Biology of the Cell, covering topics including statistical mechanics, biopolymers, diffusion, fluid dynamics, enzyme kinetics, motor proteins and neuronal transmission.",
+      "comment_teaching": "Prof Park speaks with a pretty heavy Korean accent, but is mostly understandable as his lectures are well-organized (albeit a bit error-prone) and he was quite familiar with the course materials.<br />He actively invites individuals by name to answer his questions, and tries to ensure that everyone on the class is on the same page and fully understand what he just taught. Just a nice professor through and through.<br /><br />An anecdote: so I handed in the essay late, and when he realized that I had not yet submitted the final project, he actually came to the student room where I usually study in to remind me. Really shows how much he cares about his students.",
+      "comment_grading": "40% final exam <br />30% midterm<br />20% assignments (x11)<br />10% project<br />The assignments are weekly homework of 2-3 problems, and the answers are discussed in the tutorial session. As for the final project, the student needs to write up a 3-4 pages long essay about any relevant question in biophysics and solving it with the biophysical principles covered.<br />This is not a huge class, and many classmates did very well, resulting in nearly half of the class getting A range (45%) while the mean grade is B+.<br />As for me, I got 7th in midterm and 1st in final; ended up with an A.",
+      "comment_workload": "Be warned that the learning curve is pretty steep (Roy, 2008) as a great deal of time is needed to understand the course materials, especially if you are a biochemistry major (me). The true prerequisites for the course are not limited to PHYS1112 and LIFS1901, and some of the chapters require prior knowledge of more advanced physical knowledge and mathematical skills. However, it is definitely worth it for the time put in - the eureka moments are certainly very satisfying.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "C46pL1rFE3l6BuEcd4d5a77LA5mIVcxB",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 630,
+          "name": "PARK, Hyo Keun",
+          "rating": 1
+        }
+      ],
+      "author": "varnaiyer",
+      "date": "Jun 06, 2016",
+      "title": "",
+      "comment_content": "The content covered is unique to this course as it provides a nice blend of biological phenomena and the physical principles that govern them. The textbook from which most of the course content is derived is &quot;The physical biology of the cell&quot;. The course provides a broad overview of foundation level topics in biophysics and skims over the mathematical detail.",
+      "comment_teaching": "Prof. Park makes his lectures very organized and covers content coherently. He may sometimes share his insights on developing areas in biophysics which is particularly useful for people interested in the field. He tries to make the class interactive by asking questions periodically.",
+      "comment_grading": "The course is graded quite leniently with many people getting at least a B+. The Professor gives a lot of hints before the exams making it worthwhile to attend the summary sessions.",
+      "comment_workload": "The course includes weekly homework problems (2-3) which are very simple. The tutorial session discusses the answers to the same. The final project involves coming up with a relevant question in biophysics based on provided research material and answering that question using the principles covered in class.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "course": {
+    "id": 1369,
+    "subject": "ELEC",
+    "code": "2600H",
+    "name": "Honors Probability and Random Processes in Engineering",
+    "description": "This course is an accelerated and intensive course on probability and random processes. There will be an introduction to statistical inference and random processes in electrical engineering, including the necessary probabilistic background. The course also covers random variables, distribution and density functions, characteristic functions, conditional statistics, expectation, moments, stochastic processes.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "Grade A- or above in <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1014\" href=\"/review/MATH1014\" target=\"_blank\">MATH 1014</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1018\" href=\"/review/MATH1018\" target=\"_blank\">MATH 1018</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1024\" href=\"/review/MATH1024\" target=\"_blank\">MATH 1024</a>",
+    "corequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2011\" href=\"/review/MATH2011\" target=\"_blank\">MATH 2011</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2023\" href=\"/review/MATH2023\" target=\"_blank\">MATH 2023</a>",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2600\" href=\"/review/ELEC2600\" target=\"_blank\">ELEC 2600</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2421\" href=\"/review/MATH2421\" target=\"_blank\">MATH 2421</a>",
+    "rating_content": 4.83,
+    "rating_teaching": 4.83,
+    "rating_grading": 5,
+    "rating_workload": 4.67,
+    "review_count": 6,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 755,
+        "name": "MCKAY, Matthew Robert",
+        "count": 5
+      },
+      {
+        "id": 177,
+        "name": "ZHANG, Xuning",
+        "count": 4
+      },
+      {
+        "id": 178,
+        "name": "SHI, Bertram Emil",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "pGuNCnQVChXe3nlmDfWJNwsb6cqVac2j",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 178,
+          "name": "SHI, Bertram Emil",
+          "rating": 1
+        },
+        {
+          "id": 177,
+          "name": "ZHANG, Xuning",
+          "rating": 1
+        }
+      ],
+      "author": "cdllab",
+      "date": "Jan 22, 2022",
+      "title": "Worth taking!",
+      "comment_content": "Basic concepts of probability theory required to understand in probability models used in engineering and techniques required to develop probability models.<br />Topics covered:<br />1. Basic Probability Theory<br />2. Single Random Variables<br />3. Multiple Random Variables<br />4. Stochastic Processes<br />(Roughly the same as ELEC2600.)",
+      "comment_teaching": "Professor Shi tends to write everything on the white board and explain at the same time so I would say the speed and pace is quite friendly and not hard to catch up with the important points. Though most examples and concepts he mentions appear in the PPT posted before classes, his writing on board helps me build a clear framework and see links between different points. He also shows detailed computation and proof which is a great help to understand how the concepts work and remember them firmly. Examples shown via Jupyter Notebook aids intuitive understanding and can help you with the multiple choices in exams. He also encourages questions and interaction in class. It was noteworthy that listening to Bert&#039;s speaking English is enjoyable ;p<br /><br />Instruction assistant Zhang Xuning is one of the best TAs I met. She is kind and ready to answer questions. The tutorials are also worth to attend because she tends to mention some useful techniques that aids the computation or common errors that may ease the pain of exams. Other TAs are also responsible and friendly.",
+      "comment_grading": "Quite nice.<br /><br />Grading scheme:<br />10% 4 HWs<br />35% midterm<br />55% final<br /><br />As far as I know, an overall of 94.65 can get A+ and some of my classmates who obtained an overall of 87/88 got an A.",
+      "comment_workload": "Might be a little bit heavier than ELEC2600 since honor version has 1~2 additional advanced questions in each HW. And there are a few additional questions in exams. Each homework has aroud 6 computational questions and 1 coding problem to be done via Jupytor Notebook which can be time consuming but refering to step-by-step hints can help you handle it. Plus there are only four homework sets during the semester so I think the workload is fine. Both exams are close book exams but you are provided with detailed formula sheet and the exam questions are very similar to those in homework. Therefore if you have to be at least familiar with techniques and concepts used in homework to deal with exams.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 3,
+      "comment_count": 2,
+      "attachments": []
+    },
+    {
+      "hash": "6lwhLkApUYieTUqu1MKCnzv5ZGwvFfg5",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 755,
+          "name": "MCKAY, Matthew Robert",
+          "rating": 1
+        },
+        {
+          "id": 177,
+          "name": "ZHANG, Xuning",
+          "rating": 1
+        }
+      ],
+      "author": "J Yang",
+      "date": "Jan 17, 2021",
+      "title": "Everyone should take this course if pre-requisite is met",
+      "comment_content": "Probability taught in engineering background. Topics include the following:<br />1. Basic Probability Theory<br />2. Single Random Variables<br />3. Multiple Random Variables<br />4. Stochastic Process<br />Intimidating as the topics seem, the content and computation is quite straightforward. In fact, the content is exactly the same as the ELEC2600 normal course.",
+      "comment_teaching": "Professer Mckay tries his best to interpret probability theory in a basic level. He adopts a screen-share writing way of teaching. Although the writing is somewhat confusing if you fails to keep up with the lecture, the speed and pace is adequately friendly for most students.<br />It is worth noting that you can stop the professor anytime you want if you are confused. It is highly encouraged by the professor and teaching assistant cause they want everyone to understand what they are teaching by lecture time.",
+      "comment_grading": "Great! Very few non-curved classes in HKUST.<br /><br />Grading scheme:<br />2% attendance<br />8% 5 homeworks<br />3*15% + 5% 3 highest of 4 quizzes + 1 lowest of 4 quiz<br />40% final<br /><br />Obtained an overall score of higher than 90, you are guaranteed with an A+. And as far as I know, some of my classmates who obatained an overall 87/88 are also granted with an A+. Unlike the ELEC2600 where everything is curved, this course does not compete with other candidates. The exact reason why I encourage everyone to give it a shot.",
+      "comment_workload": "A little bit heavier than ELEC2600.<br /><br />Differences are that in honor class, there exists more problems, which are significantly more challenging, in homework, quiz, and even final exam. But that&#039;s all.<br /><br />You are encouraged to work with others when doing homework so no need to worry too much. I personally spent about 1 day or so doing each homework set, 2 days preparing each quiz, and 3 days for the final exam.<br /><br />I have upload the first part of the course if you are interested in what it teaches.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 1,
+      "attachments": [
+        {
+          "key": "kSwfqVLtbmHKzr6nAsidcdfncoawxqhk",
+          "name": "ELEC2600H_Lecture_Part_I",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "GGa03yaZfIt36tgqceWeq3Qrj6vxSMlD",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 755,
+          "name": "MCKAY, Matthew Robert",
+          "rating": 1
+        },
+        {
+          "id": 177,
+          "name": "ZHANG, Xuning",
+          "rating": 1
+        }
+      ],
+      "author": "GUO,JR",
+      "date": "Jan 02, 2021",
+      "title": "Great Course, Great Professor",
+      "comment_content": "Part I: Basic probability theory. (~2-3 weeks)<br />Part II: Single random variables. (~3-4 weeks)<br />Part III: Multiple random variables. (~5 weeks)<br />Part IV: Stochastic processes. (~3 weeks)<br /><br />The topic are very basic at the begining. But in the random process, it need to spend some time on understanding it.",
+      "comment_teaching": "Professor MCKAY is a good lecturer. I can eassily approach to him to ask question through e-mail.<br /><br />And you can reach to ZHANG easily by email. But I think some of the tutorial question are not good examples.",
+      "comment_grading": "I think over a half of the student got A+ at last. (7/13)<br />And I get an A+ for overall 87%<br />quite good grading. Isn&#039;t it?<br /><br /><br />Attendance (2%, lecture and tutorial, the first lecture will be excluded)<br />Homework (8%)<br />Quizzes (50%). The weight of each of the best 3 quizzes is 15%, the weight of the lowest quiz is 5%.<br />Final (40%)<br /><br />The attendence only takes 2%. So..You Know!",
+      "comment_workload": "there are four assignment and it is hard to complete. There are two more questions than the ELEC 2600. <br /><br />Because of this semester is an online semester. So we had no midterm exam, but four quiz. You need to work on it on weekend. But those questions are not too hard.(Most of the people only get one question wrong!) Much Peer Pressure..lol",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "8dlVVODPj3NnT604gOwrpPql6QoscbFW",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 755,
+          "name": "MCKAY, Matthew Robert",
+          "rating": 1
+        }
+      ],
+      "author": "赵欣然",
+      "date": "Jan 19, 2018",
+      "title": "",
+      "comment_content": "Basic knowledge about probability and some of his work. However, statistic material was not covered at all. The course ended with the random process.",
+      "comment_teaching": "Very explicit. The class was very small. So there was much communication between the professor and us.",
+      "comment_grading": "Absolute grading, easy to get A or above. I personally got 95%, which was not hard if you could get a full mark in homework and midterm.",
+      "comment_workload": "Very light. There are only 4 assignments and I spent about 3 hours on each. The tutorial covered some relevant problems but you can just ignore them if you wanted to have your dinner earlier.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "cMdjOUKgQvXPhYDXFqTnlLxYxnRgLD1u",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 755,
+          "name": "MCKAY, Matthew Robert",
+          "rating": 1
+        }
+      ],
+      "author": "MyVarian",
+      "date": "Dec 29, 2016",
+      "title": "",
+      "comment_content": "probability and random process<br />pmf pdf cdf variance covariance mean <br />for <br />single double and multiple <br />random variables",
+      "comment_teaching": "very good teaching <br />handwritten notes and pdf notes are both provided as well as tutorial notes and other supplementary materials<br />the prof is really enthusiastic and he wants us to learn this well so he prepared very carefully and always create some class interaction",
+      "comment_grading": "very good grading<br />seems that 90+ can get a+<br />i guess maybe 50% a+<br />and i am sure that there are over 80% guys can get a and a+",
+      "comment_workload": "it is a 4 credit course so there are some assignments<br />but only 4 and not to hard<br />i think the workload is acceptable",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "4IVOhm5qK7TK9DWurSPxPsJRWwXFA3pl",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 755,
+          "name": "MCKAY, Matthew Robert",
+          "rating": 1
+        },
+        {
+          "id": 177,
+          "name": "ZHANG, Xuning",
+          "rating": 1
+        }
+      ],
+      "author": "Aye",
+      "date": "Dec 26, 2016",
+      "title": "",
+      "comment_content": "The differences between ELEC2600 and ELEC2600H are located in the last two parts<br />Part I: Basic Probability Theory<br />Lecture 1: Course Introduction, Probability Models<br />Lecture 2: Random Experiments and Probability Axioms<br />Out-of-Class Reading: Set Operations<br />Lecture 3: Conditional Probability &amp; Independence<br />Out-of-Class Reading: Counting Methods<br />Lecture 4: Sequential Experiments<br /><br />Part II: Single Random Variables<br />Lecture 5: Discrete Random Variables, Expected Value and Moments<br />Lecture 6: Conditional Mean and Important Discrete Random Variables<br />Out-of-Class Reading: Conditional PMF<br />Lecture 7: Continuous Random Variables, CDF, PDF<br />Lecture 8: Expectation of Continuous Random Variables<br />Lecture 9: Function of a Random Variable<br /><br />Part III: Multiple Random Variables<br />Lecture 10: Pairs of Discrete Random Variable<br />Lecture 11: Pairs of Continuous Random Variable<br />Lecture 12: Independence, Joint Moments<br />Lecture 13: Conditional Probability, Conditional Expectation<br />Lecture 14: Function of 2 Random Variables<br />Lecture 15: Multiple Random Variable and Expectation<br />Lecture 16: Jointly Gaussian Random Variables<br />(Be careful of the formula in L16 and remember to write it on the cheat sheet. It was tested this time)<br />Lecture 17: Laws of Large Numbers<br />Lecture 18: Central Limit Theorem and Characteristic Function<br /><br />Part IV: Stochastic Process<br />Lecture 20: Definition of a Random Process<br />Lecture 21: Mean and Autocorrelation of Random Process<br />Lecture 22: Discrete Time Random Process<br />Lecture 23: Continuous Time Random Process<br />Lecture 24: Stationary Random Process, Ergodic Process",
+      "comment_teaching": "Australian English. Fluent speaking. Teaching is kind of fast. Provide extra materials (such as his research) and promote his PG course (ELEC 6910H - Random Matrix Theory and Applications (3 units)) during class.",
+      "comment_grading": "Grading:<br />• Homework (20%) More problems which involve unique materials learnt<br />• Mid-Term (35%) Same as ELEC2600. One-sided cheat sheet<br />• Final (45%) Some problems are different from ELEC2600. Two-sided cheat sheet<br /><br />Guarantee at least the same grade as ELEC2600 with the same total mark.<br />(e.g. If 90% refer to A in ELEC2600, you will get A or A+ with 90% in ELEC2600H)",
+      "comment_workload": "A little larger than ELEC2600 --- mainly because of the extra questions in homeworks.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "course": {
+    "id": 579,
+    "subject": "HUMA",
+    "code": "2635",
+    "name": "Cultural Diversity in China",
+    "description": "This course examines diverse ethnic cultures and identities in China, and the ethnic relations between the state power and ethnic groups in historical contexts as well as the contemporary situation of the social institutions of ethnic minorities in China. The course lectures and tutorials are designed to introduce the topics to the students and to accelerate students’ intellectual development.",
+    "categories": [
+      "Common Core (H)"
+    ],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2130,
+      1930,
+      1730
+    ],
+    "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1401\" href=\"/review/LANG1401\" target=\"_blank\">LANG 1401</a> OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1402\" href=\"/review/LANG1402\" target=\"_blank\">LANG 1402</a> OR LANG 1403 OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1404\" href=\"/review/LANG1404\" target=\"_blank\">LANG 1404</a> OR LANG 1002 (prior to 2022-23)",
+    "corequisites": "",
+    "exclusions": "CORE 2554, MGCS 5032",
+    "rating_content": 4.5,
+    "rating_teaching": 4.5,
+    "rating_grading": 5,
+    "rating_workload": 4.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 766,
+        "name": "MA, Jianxiong",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "XIVvGGCL3VwmCXthaJrrA34yWuJrcN74",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 766,
+          "name": "MA, Jianxiong",
+          "rating": 1
+        }
+      ],
+      "author": "Avis",
+      "date": "Jun 11, 2020",
+      "title": "",
+      "comment_content": "Content mainly focuses on the cultural development and influences of different parts of China. It is quite interesting if you are impressed by the diverse culture of China.",
+      "comment_teaching": "Professor explains everything in details and you&#039;d better mark down everything he mentioned in classes. The tutorials are quite boring but it is a supplement, giving you a clearer view on the topics taught.",
+      "comment_grading": "To get good grade, you have to read thoroughly the course materials, including the powerpoints, others&#039; presentations and the videos professor showed in classes, it would be even better if you read the readings professor uploaded. <br />Due to the covid issue, we submitted the documentary review instead of the field trip report. Attendance do matters and it will be better if you are attentive in classes. There is a group presentation but most likely you will encounter free-riders..... The final mainly test whether you are familiar with what the professor taught, conceptual understanding is required so that you can make comparisons in a broader view.<br /><br />Continual assessment 50%<br />&nbsp;&nbsp;&nbsp;&nbsp;documentary report (25%)<br />&nbsp;&nbsp;&nbsp;&nbsp;tutorial presentations and participation (16 + 9%)<br />Final exam 50%<br />Bonus 7% ( raise/ answer questions in lesson)",
+      "comment_workload": "Acceptable workload, if you have better time management. I think it is just alright coz you just need to write a report, have a present and prepare for the questions (will be released in the last lesson) in final.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "9p44gCu295cTqhSY9k1M42vfycOKmWyw",
+      "semester": "2017-18 Spring",
+      "instructors": [],
+      "author": "cltsoaa",
+      "date": "Aug 07, 2018",
+      "title": "Best Common Core Humanities Ever",
+      "comment_content": "The course first introduce students a general division of &quot;chinese&quot; as an identity, and further discuss its historic formation and perspective on human values. It later focus into four main &quot;minzu&quot; (chinese race), namely Tibetans, Huis, Uyghurs and Manchus. The content is not hard to grasp and should be easier to handle for student who had an adequate background on Chinese Religion and History.",
+      "comment_teaching": "Professor Zhao Yuzhong is one of the most friendly lecturer I&#039;ve met. He is open to discussion on a lot of political, cultural-related topics on the course; He is willing to share his directions to guide our projects; The course materials and PowerPoint are well-made with examples.",
+      "comment_grading": "The grading is very nice for the course with under 20 enrollment. I was a little skeptical when enrolling to the class given such a small number of students might result in harsh grading and being highly competitive. Turns out most of the students who attend lesson frequently, ask questions in class could get an A range. I got an A+ from the course.",
+      "comment_workload": "Minimal workloads during midterms. A mini presentation with a group of two replaced the midterm exam. An outing to China Folk Village in Shenzhen on a weekend is also really amusing, with a four page summary report to be submitted after the trip.<br />The Exam is a little rush with 6 essay questions to be completed in 3 hours. One of the most exhausted exams that requires indepth understanding on the topics. But the answer are all discussed before as long as you attend most of the tutorials and lectures.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "0BA43sKAdUfDUAnM5xa0CrT8MPzWNON5",
+          "name": "HUMA2635_Syllabus revised in 2018",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

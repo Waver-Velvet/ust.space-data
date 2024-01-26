@@ -1,0 +1,180 @@
+{
+  "course": {
+    "id": 3,
+    "subject": "ACCT",
+    "code": "2020",
+    "name": "Introduction to Accounting for Non-Business Majors",
+    "description": "Overview of accounting issues useful to non-business majors. Topics include an introduction to the uses of accounting information, financial reporting, and financial statement interpretation. For Non-SB&M students only.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ACCT\" data-code=\"2010\" href=\"/review/ACCT2010\" target=\"_blank\">ACCT 2010</a>",
+    "rating_content": 4.5,
+    "rating_teaching": 3,
+    "rating_grading": 4.5,
+    "rating_workload": 4.75,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 3,
+        "name": "SHIEH, Tony",
+        "count": 1
+      },
+      {
+        "id": 1233,
+        "name": "WANG, Emily",
+        "count": 1
+      },
+      {
+        "id": 1234,
+        "name": "PETROV, Evgeny",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "taj0pUAk9BN3XAHR6qsNRQVwjJzBxBkc",
+      "semester": "2020-21 Spring",
+      "instructors": [],
+      "author": "aaanna",
+      "date": "Aug 12, 2022",
+      "title": "",
+      "comment_content": "easy calculation<br />much easier than acct 2010<br />you can easily get answer if you find the pattern and remember the formula.<br /><br />Introduction to Managerial Accounting<br />Job Order Costing<br />process costing <br />activity-based costing &amp; cost management <br />cost behavior <br />cost-volume-profit analysis <br />incremental analysis for st decision making <br />budgetary planning",
+      "comment_teaching": "Arthur Morris<br />very very very very very bad teaching <br />DON&quot;T CHOOSE HIM !!!!!!!!!!!!!!!!!!!!!!!!!<br /><br />1. speak fast and unclear<br />2. always talk about some unrelated examples <br />3. bad at teaching calculation <br />4. almost 100% study by myself <br />5. useless and messy PPT --&gt; need to make all the notes by yourself again<br /><br />the case study is wired. it&#039;s invented by the professor. we are the only class that need to do this. <br />- he will give you a case, you need to write an essay based on your understanding to accounting. <br />takes 30 minutes to bullshit an essay",
+      "comment_grading": "grading is good, <br />I got a B even I didn&#039;t understand most of the concepts cus he is bad at explaining <br />his quiz questions are easy, you can find all the questions on practice papers and textbook examples. <br />practice different question type, and you will get good grade as all the calculations follow the same method",
+      "comment_workload": "very very very very very light <br />2 quiz + 2 case + discussion board interaction per week <br />no midterm, no final<br />no attendance, but interaction is needed <br />quiz are in class, and easy questions.<br />no project <br />no essay <br />no homework",
+      "rating_content": 4,
+      "rating_teaching": 1,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "wTSdSkhPDDadfsQfXjpg4epJdu55geES",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1234,
+          "name": "PETROV, Evgeny",
+          "rating": 1
+        }
+      ],
+      "author": "lliij",
+      "date": "Aug 12, 2022",
+      "title": "",
+      "comment_content": "About management accounting, it&#039;s easy to handle.<br />Ch1-Introduction to managerial Accounting <br />Ch2- Job Order Costing<br />Ch3- Process Costing <br />Ch4- Activity-Based Costing <br />Ch5- Cost Behavior<br />Ch6-Cost-Volume-Profit Analysis<br />Ch7-Incremental Analysis for Short-Term Decision Making<br />Ch8-Budgetary Planning<br />Ch9-Standard Costing and Variance Analysis<br />Ch10-Decentralized Performance Evaluation<br />Ch11-Capital Budgeting",
+      "comment_teaching": "The professor explained concepts clearly.",
+      "comment_grading": "easy course, you don&#039;t need to put many efforts to get a high grade.",
+      "comment_workload": "Total 3 assignments. Just submition can get full marks. And it didn&#039;t count participation, you can skip all classes.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "q83ZjoEaD6jSESouuVbpY9WRtZWgqb67",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 1233,
+          "name": "WANG, Emily",
+          "rating": 1
+        }
+      ],
+      "author": "CasperYKM",
+      "date": "Sep 01, 2020",
+      "title": "Easy A+",
+      "comment_content": "This course is only the introduction to some basic accounting systems like job order costing and activity-based costing. Very easy to handle.",
+      "comment_teaching": "Online teaching.<br />Emily simply read the note, but since all the tests and exams are so easy so that is actually fine.<br />Her voice is so soft that I wanna sleep after 5 minutes every lesson.",
+      "comment_grading": "Very good grading.<br />I AFK every lesson, still get an A+.",
+      "comment_workload": "Very little workload.<br />Only one case analysis and two problem sets.<br />A lot of small quizzes though, each cover 1 to 2 topics, just need to review them once before the test, then it&#039;s fine.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 3,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "28M72oW8ce7SWRKtyFem6VXj5T5shfJX",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 3,
+          "name": "SHIEH, Tony",
+          "rating": 1
+        }
+      ],
+      "author": "Shreya",
+      "date": "Jan 20, 2017",
+      "title": "",
+      "comment_content": "Doable. But slightly challenging for people with no Acct background. Also, you need to supplement your understanding of the notes with the textbook as his textbook is different from the textbook that all other professors use.",
+      "comment_teaching": "Not too in depth.. So I suggest you shouldn&#039;t take his class if you have no acct background.",
+      "comment_grading": "Ok. Mean is pretty low for midterms (68/100) and slightly higher for final. Final exam easier than midterm exam.",
+      "comment_workload": "Not too much workload. In class group activitiedsand 3 individal quizzes. No homework. One midterm and one final.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

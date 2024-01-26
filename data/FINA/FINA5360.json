@@ -1,0 +1,82 @@
+{
+  "course": {
+    "id": 1707,
+    "subject": "FINA",
+    "code": "5360",
+    "name": "Fixed Income Analysis",
+    "description": "Includes techniques in fixed-income portfolio management and introduction of fixed-income derivatives. Topics include term-structure theories, yield-curve fitting techniques and yield curve trading strategies, portfolio performance evaluation, floating rate securities, forward rate agreements, bond and interest rate futures, and interest rate swaps.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2030,
+      1930,
+      1910,
+      1830,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"5210\" href=\"/review/FINA5210\" target=\"_blank\">FINA 5210</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 3,
+    "rating_grading": 4,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1500,
+        "name": "ZHU, Yicheng",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "ImIFLLnzELjVS1xnUsuNweKVeAXmRti6",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1500,
+          "name": "ZHU, Yicheng",
+          "rating": 1
+        }
+      ],
+      "author": "QWERT",
+      "date": "Jan 25, 2024",
+      "title": "",
+      "comment_content": "Foudamentals of fixed income market, covering both theory and practical materials, with a tiny inclination on academic contents. In the second half more maths will be included and may be quite challenging, but hard ones won&#039;t be covered in the final exam. Students shouldn&#039;t anticipate this course to provided a very complete and detailed coverage of FI, but instead focus on intuition and major logics. I have to say it&#039;s not a classical FI course which follows exactly textbooks.",
+      "comment_teaching": "I do like the style, but many of my classmates comment it quite hard to understand. The professor is quite smart and he likes to raise many many questions in the class. Many questions are like <br />philosophical, literary or even IQ questions. To 100% follow the professor&#039;s path you must be quite sharp. <br />But I have to say the professor might be a little bit careless. The slides do have some typos that may mislead students when doing the review. Also, slides are not quite readable. The teaching may be quite different from the slides so that you do need to listen to the class carefully and make some notes. <br /><br />BTW, some comment the course &quot;not fixed income but fix yourself&quot;, which is quite interesting.",
+      "comment_grading": "Fine. Students anticipated the final could be very hard given the depth of the classes, but actually the final is designed quite easy. As long as you can deal with the assignemnts fine, you will be fine. Surprisingly the design of questions is quite comfortable since all the numbers (even the results) are made to be neat. Therefore you can bascially realize whether you get the right results by simiply looking at the numbers you get. <br />As for the grading, since I may be quite subjective, I will comment it as Good.<br />There is marks for class participation, but just for attendence. No credit or punishment on whether you do &quot;parcipate&quot; in the class discussion.",
+      "comment_workload": "Not so much. Assignments are in groups and there are only 3. There is a presentation in the last class but no one cares, including the professor:). But do require lots of efforts preparing for the final since the contents taught in the classes are quite challenging. No extra reading materials.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

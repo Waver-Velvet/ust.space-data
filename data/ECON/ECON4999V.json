@@ -1,0 +1,144 @@
+{
+  "course": {
+    "id": 3512,
+    "subject": "ECON",
+    "code": "4999V",
+    "name": "Applied Machine Learning for Economic and Financial Analysis",
+    "description": "This course uses a case study approach to discuss machine learning for economic and financial analysis. It maps a series of business problems into the relevant supervised and unsupervised learning tasks. It introduces basic machine learning methods and some simple deep learning models. The case study topics include macroeconomic forecasting, property valuation, financial market prediction and anomaly detection, banking applications such as credit default risk prediction and credit card fraud detection, and others. Students will get hands-on experience with machine learning to analyze practical economic and financial problems.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2210,
+      2110
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ECON\" data-code=\"3334\" href=\"/review/ECON3334\" target=\"_blank\">ECON 3334</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4.33,
+    "rating_grading": 4.67,
+    "rating_workload": 5,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1227,
+        "name": "NG, Chi Yung",
+        "count": 3
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "tVRq4ylPy9cbywfXv3BMY5iPRhthcMBI",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1227,
+          "name": "NG, Chi Yung",
+          "rating": 1
+        }
+      ],
+      "author": "JNC",
+      "date": "Jan 12, 2023",
+      "title": "useful, light workload, decent grading",
+      "comment_content": "VERY USEFUL<br />introduced diff ML methods and concepts, with supplementary materials, so if you&#039;re interested you can go further.<br />the right amount of details and maths concepts<br />I love the code examples",
+      "comment_teaching": "normal, but he&#039;s nice and easy to talk with",
+      "comment_grading": "you get what you put <br />overall very decent grading given the amount of workload<br />and the paper satisfies ECON4670 too!!!! (superb)",
+      "comment_workload": "very light as an ECON course<br />or I should say it gives space for students to choose if they want to devote more to the course",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "hItBdpIUOzuV9Lpb4DIBjbHPacBi3Vrg",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1227,
+          "name": "NG, Chi Yung",
+          "rating": 1
+        }
+      ],
+      "author": "helloworld69",
+      "date": "Dec 20, 2022",
+      "title": "A very practical and light workload econ course",
+      "comment_content": "A brief introduction to supervised learning, unsupervised learning, and neural network. No calculation needed<br /><br />The code attached for each topic is very practical and useful. You can make use of it for other future ML projects. <br /><br />Detail content:<br />Topic 1: Introduction (Week 1)<br /> Difference between statistical modeling and machine learning<br /> The machine learning landscape<br /> Installation of ML libraries<br />Topic 2: Supervised Learning: Regression Analysis (Week 2, 3)<br /> Financial Application: Residential Property Valuation<br /> Methods: Linear Regression with Regularization (Ridge, LASSO, Elastic Net)<br />Topic 3: Supervised Learning: Regression with Dimensionality Reduction and Feature Selection (Week 3, 4)<br /> Economic Application: GDP Forecasting<br /> Methods: Principal Component Analysis, SelectKBest, Recursive Feature Elimination, Pipeline in ML<br />Topic 4: Supervised Learning: Classification Analysis (Week 4, 5)<br /> Banking Application: Default Risk Prediction<br /> Methods: Logistic Regression, SGD Classifiers, Decision Trees, Support Vector Machines<br />Topic 5: Supervised Learning: Ensemble Methods (Week 5, 6)<br /> Banking Application: Default Risk Prediction<br /> Economic Application: Recession forecasting<br /> Methods: Ensemble Learning (Random Forest, Extra Tree, Gradient Boosting, XGBoost)<br />Topic 6: Unsupervised Learning: Ensemble and Other Methods (Week 6, 7)<br /> Banking Application: Credit Card Fraud Detection<br /> Methods: Isolation Forest, Local Outlier Factor, One-Class Support Vector Machine<br />Topic 7: Unsupervised Learning: Clustering Analysis (7, 8)<br /> Financial Application: Portfolio Construction<br /> Methods: K-Means,&nbsp;&nbsp;Gaussian Mixture<br />Topic 8: Supervised learning: Neural Network (8, 9)<br /> Financial Application: Volatility Prediction<br /> Methods: Multilayer Perceptron Neural Network, Recurrent Neural Network, Long Short-Term <br />Memory Network (LSTM)<br />Topic 9: Unsupervised Learning: Neural Network (9, 10)<br /> Financial Application: Stock Market Anomaly Detection<br /> Method: LSTM Autoencoder",
+      "comment_teaching": "The professor basically included all the content in the ppt and he also uploaded recordings for us to review. The pacing of his lecture is average, but already much better than other econ professors.&nbsp;&nbsp;<br /><br />The best part about this course is that the professor will answer any queries you have for the final project. So just be more active and ask more questions.",
+      "comment_grading": "Term Paper (Group): 50%<br />Presentation of Term Paper (Group): 20%<br />In-class Quiz: 30%<br /><br />Your final grade really depends on your term paper. So do more research and ask more questions about it. <br /><br />The in-class quiz has 25 questions of mc. The mean is around 14/25. It has some really tricky questions and some questions are even not covered in the ppt/class.<br /><br />Got around the upper quartile for in-class quizzes + they did not release the final score for the term paper = A+",
+      "comment_workload": "Very light workload. The only thing you have to do is to study for the in-class quiz and work on the project. <br /><br />It only took our group around 1 week to complete the project. <br /><br />I also did not attend any tutorial lesson<br /><br />A great course for fulfilling the econ4000 requirement and term paper.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "VLhWFouEVOXEeuY3pcT50mbClf8diAlG",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1227,
+          "name": "NG, Chi Yung",
+          "rating": 1
+        }
+      ],
+      "author": "maec_trash",
+      "date": "Jan 11, 2022",
+      "title": "Useful course for machine learning",
+      "comment_content": "The most useful content is the code example IMO. The concepts are explained in simple manner and no math involved in this course. Basically, this course is similar to those ML courses on udemy or coursera. <br />----------------------------------------------------<br />Course Outline<br />Topic 1: Introduction (Week 1)<br />•\tDifference between statistical modeling and machine learning<br />•\tThe machine learning landscape<br />•\tInstallation of ML open-source software/libraries<br />Topic 2: Supervised Learning: Regression Analysis (Week 2, 3)<br />•\tFinancial Application: Property Valuation<br />•\tMethods: Linear Regression with Regularization (Ridge, LASSO, Elastic Net)<br />Topic 3: Supervised Learning: Regression with Dimensionality Reduction and Feature Selection (Week 3, 4)<br />•\tEconomic Application: GDP Growth Forecasting<br />•\tMethods: Principal Component Analysis, SelectKBest, Recursive Feature Elimination, Pipeline in ML<br />Topic 4: Supervised Learning: Classification Analysis (Week 4, 5)<br />•\tBanking Application: Credit Default Prediction<br />•\tMethods: Logistic Regression, SGD Classifiers, Decision Trees<br />Topic 5:\tSupervised Learning: Ensemble Methods (Week 5, 6)<br />•\tBanking Application: Credit Default Prediction<br />•\tEconomic Application: Recession forecasting<br />•\tMethods: Ensemble Learning (Random Forest, Extra Tree, Gradient Boosting, XGBoost)<br />Topic 6:\tUnsupervised Learning: Ensemble and Other Methods (Week 6, 7)<br />•\tBanking Application: Credit Card Fraud Detection<br />•\tMethods: Isolation Forest, Local Outlier Factor, One-Class Support Vector Machine (SVM)<br />Topic 7:\tUnsupervised Learning: Clustering Analysis (7, 8)<br />•\tFinancial Application: Portfolio Construction<br />•\tMethods: K-Means, Hierarchical (Agglomerative) Clustering, Gaussian Mixture<br />Topic 8: Supervised learning: Neural Network (8, 9)<br />•\tFinancial Application: Prediction of Stock Market Direction<br />•\tMethods: Multilayer Perceptron Neural Network, Long Short-Term Memory Network (LSTM)<br />Topic 9:\tUnsupervised Learning: Neural Network (9, 10)<br />•\tFinancial Application: Stock Market Anomaly Detection<br />•\tMethod: LSTM Autoencoder",
+      "comment_teaching": "Professor&#039;s teaching is fair tho. Since I have prior experience in ML so I didn&#039;t really pay attention to him.",
+      "comment_grading": "Dunno my marks because the instructor didn&#039;t disclose the score, but very good grade probably due to the small class size<br />----------------------------------------------------<br />Grading scheme:<br /><br />Proposal of Term Paper (Group): 10%<br />Term Paper (Group): 45%<br />Presentation of Term Paper (Group): 15%<br />In-class Quiz: 30%",
+      "comment_workload": "Very light. Basically only 1 group project and 1 quiz. <br /><br />Group project: <br />Implement a ML project. Just apply what you&#039;ve learned in class. You can use the datasets provided or your own dataset.<br /><br />Quiz:<br />25 MCQ at the end of the semester. A bit tricky but definitely manageable so long as you read the questions carefully.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

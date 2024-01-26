@@ -1,0 +1,89 @@
+{
+  "course": {
+    "id": 1585,
+    "subject": "ACCT",
+    "code": "5630",
+    "name": "Business Law",
+    "description": "This course is designed for the study of Business Law with practical examples of the application of law in the real business world. The course materials cover  topics highly relevant to the business managers in the decision making process. The end goal is to elevate the student's level of understanding of the surrounding legal environment.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2330,
+      2310,
+      2230,
+      2210,
+      2130,
+      2110,
+      2030,
+      2010,
+      1940,
+      1930,
+      1910,
+      1830,
+      1810,
+      1740,
+      1710,
+      1630,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1270,
+        "name": "TAN, Jing",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "DjZDCfpvIYn9wN0MDcOgfLvCAULuLaoQ",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1270,
+          "name": "TAN, Jing",
+          "rating": 1
+        }
+      ],
+      "author": "roger_ust",
+      "date": "Jan 21, 2021",
+      "title": "great teacher",
+      "comment_content": "It&#039;s quite basic. If you are interested in doing business in common law places, it is helpful. The course talked about what contract is and what happens when the contract was broken. There are also many discussions.",
+      "comment_teaching": "The teacher is very nice and ready to answer questions. There are a lot of cases in the class. They are quite interesting. Amy and Joey are the &quot;old friends&quot; in many scenarios.",
+      "comment_grading": "quiz: 50%<br />report: 30%<br />participation individual+group: 15%<br />assignment: 5%",
+      "comment_workload": "The final report is not that easy. Do spend some time on it.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

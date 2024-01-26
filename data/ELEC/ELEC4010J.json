@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 2421,
+    "subject": "ELEC",
+    "code": "4010J",
+    "name": "Introduction to Neural Engineering and Bio-robotics",
+    "description": "This is an introductory course for neural engineering and bio-robotics. The course introduces the fundamental principles on the neuroscience, the technologies and implementations of neural engineering, as well as the design of the neuromorphic and brain-based robots. The topics include cellular mechanisms, neuroanatomy, sensation and perception, object recognition and action control, neural coding theory, neural network models, plasticity and learning, neural interface and rehabilitation, neuromorphic robots and brain-based robots.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1730
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2111\" href=\"/review/MATH2111\" target=\"_blank\">MATH 2111</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1089,
+        "name": "WANG, Yiwen",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "ODwuIQQU9EtnTY1hcnw16aoQqQIdLGzx",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 1089,
+          "name": "WANG, Yiwen",
+          "rating": 1
+        }
+      ],
+      "author": "mhchanak",
+      "date": "Jun 14, 2018",
+      "title": "Neuroscience and Neuroscience-based Learning",
+      "comment_content": "The prerequisites: Since the later part of this course involves some basic machine learning stuffs, I would say knowing the basic linear algebra is a must before you enroll in this course. <br />In addition to the above, it would be great if you to know MATLAB before because you will be using it for some of the assignments and the final project. In case you are new to MATLAB, there is one tutorial to teach you the basics of MATLAB, but it would be only enough for your assignments. Unless you are an experienced MATLAB user (say, have been using MATLAB for final projects in other courses), it would take you some time to learn MATLAB for the final project in this course.<br /><br />The course contents:<br />Week 1: Introduction<br />Week 2: Cellular mechanisms and cognition, Neuroanatomy and development<br />Week 3: Sensation and perception<br />Week 4: Object recognition<br />Week 5: The control of action<br />Week 6: Neuron and Neurons in Neural Network<br />Week 7&nbsp;&nbsp;Midterm Presentation<br />Week 8: Synaptic Plasticity Rules, supervised Learning<br />Week 9: Reinforcement Learning and reward systems<br />Week 10: Statistic Inference and Learning<br />Week 11: Artificial implants and Neural Prosthesis<br />Week 12: Neuromorphic and Brain-Based Robots<br />Week 13: Neural Interface Challenge (Preparation of final projects)<br /> <br />TL;DR: First half of the course (Week 1-7) was about some pure neuroscience fundamentals, the second half (Week 8-13) mainly focused on learning behaviour on actual neurons (thus neural engineering / machine learning stuffs). <br /><br />The first half of this course was very biological, if you do not like biology, you might have a hard time, including the midterm project. And you will be seeing quite a lot of equations in the second half of the course. Lucky, they were not difficult in the assignments and the final project.<br /><br />Reminder: This course had an alternative course code “BIEN 4000A”, which means you will be learning together with the bioengineering students. But I am not sure whether this course was graded separately or altogether.",
+      "comment_teaching": "Attendance was not necessary but I would definitely recommend you to attend the classes, especially if you are not familiar to neuroscience. Prof. WANG would guide you through the content during the class, which would save you lots of time if you learn by yourself. I would say she did a good job in teaching, as she could explain things concisely and keep the class less boring (especially when talking about the neuroscience stuffs). The lecture notes were organised, but they were mainly for lecturing purpose, which meant you could not just rely on the lecture notes and skip all the lesson, and there were plenty of diagrams and pictures in the notes for an easier understanding. One thing about her teaching style was that most of the announcement were spoken in class, but not written, e.g. making announcement on Canvas or sending emails, which sometimes makes things confusing. <br /><br />There was only one tutorial, which taught the basics of MATLAB. Since I already knew MATLAB, I did not attend the class. After a quick look on the tutorial slides, he certainly did his job. They were just some basic syntaxes and commands for MATLAB, again, enough for handling assignments but not the final project.<br /><br />Note: Prof. WANG’s English is not bad, but she has quite a strong Mandarin accent, and this took me some time to understand her speaking.",
+      "comment_grading": "4x Homework: 20%<br />1x Midterm (Presentation and) Writing Assignment: 30%<br />1x Final Project: 50%<br /><br />The marks were quite transparent as you could know your scores in the homework and the midterm, but not the final project. I got slightly above mean in the homeworks but somewhat below mean in the midterm. Surprisingly I got an A in this course, might be this is because I did decently well for the final project? <br /><br />Note: It seemed that almost one-third of the class was not UG student. There were plenty of PG and even PhD students in this course (I was not realising this until the midterm presentation, when they introduce themselves). If you just want an easy good grade, it might be better to consider other courses. But do not let this stop you from enrolling this course if you want to learn.",
+      "comment_workload": "I think&nbsp;&nbsp;the workload of this course was reasonable, there was no exam after all. It would not take you much time for the homework, as they are quite easy and distributes evenly throughout the course, I would say most of the workload fell onto the midterm and final project.<br /><br />The midterm involved forming a group of two to four people, and choosing a topic in neuroengineering and writing a review (~ 4-5 pages). The presentation was conducted in groups but the review was submitted by individual, in which each individual had their own subtopic to write. Prof. WANG would give advice in the presentation to make sure you are on the right track. If you are not familiar with neuroscience, you might need quite some time to find a suitable topic and review the related papers, before you actually write the review.<br /><br />In contrast to the midterm, I think the final project was more enjoyable and meaningful, as I feel more comfortable for coding rather than reviewing papers. For the final project, you will use the knowledge you learnt in the second half of the course for decoding actual neural recordings. It would be quite an easy task if you have knowledge in machine learning in advance. As said in the above, this project involved coding in MATLAB, and also a report for your implementation. This was quite flexible as it really depends on how much time you want to invest into this project.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

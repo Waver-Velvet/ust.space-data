@@ -1,0 +1,151 @@
+{
+  "course": {
+    "id": 919,
+    "subject": "MATH",
+    "code": "4423",
+    "name": "Nonparametric Statistics",
+    "description": "The sign test; Wilcoxon signed rank test; Wilcoxon rank-sum test; Kruskal-Wallis test; rank correlation; order statistics; robust estimates; Kolmogorov-Smirnov test; nonparametric curve estimation.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2411\" href=\"/review/MATH2411\" target=\"_blank\">MATH 2411</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4.67,
+    "rating_grading": 4.67,
+    "rating_workload": 5,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 543,
+        "name": "LING, Shiqing",
+        "count": 3
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "QV4Fx9bE3IeeRWT8aCPogHpiqSwfzefA",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 543,
+          "name": "LING, Shiqing",
+          "rating": 1
+        }
+      ],
+      "author": "ars",
+      "date": "Jan 25, 2024",
+      "title": "",
+      "comment_content": "Key topics: The sign test; Wilcoxon signed rank test; Wilcoxon rank-sum test; Kruskal-Wallis test; rank correlation; order statistics; robust estimates; Kolmogorov-Smirnov test.<br />The class will also touch upon the parametric correspondences of some of these topics to provide a more comprehensive overview.",
+      "comment_teaching": "Professor Ling may not be the most articulate person in the world, but the ideas are usually presented very clearly with a lot of examples and occasionally accompanied by graphical illustrations that explain the underlying principles. The slides are bite-sized, which is friendly for students who are not super fond of attending lectures and prefer to read the notes independently.",
+      "comment_grading": "I am not sure about the exact grading scheme used, but it is not difficult to achieve a satisfactory grade (&gt;A-). There may be 1 to 2 slightly trickier questions in the midterm and final paper compared to the assignment ones, but if you have a good understanding of the content, you will be fine. Attendance will contribute bonus points towards your final grade, and there were also mention of a few bonus questions in class.",
+      "comment_workload": "There are a total of 4 assignments, all of which are relatively short and straightforward (while sometimes rather tedious).",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "TwD39QXYv5OVC41JNfcNV0U1aNxXTs1c",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 543,
+          "name": "LING, Shiqing",
+          "rating": 1
+        }
+      ],
+      "author": "二汪",
+      "date": "Dec 26, 2018",
+      "title": "Useful statistical course",
+      "comment_content": "Mainly about distribution-free models. For statistics and fina math students, it may be quite useful for your capstone project. It introduces topics like Wilcoxon sign rank test, Mann-Whitney U test, robust statistics, etc. Some of the methods are developed by prof himself, so try not to skip lessons. The content is easy anyway.",
+      "comment_teaching": "Highly recommend NOT to skip lessons.<br /><br />I kinda like the prof, he is really nice, though not good at teaching. He is willing to answer your questions, but you may not understand his explaining. This course involves a bunch of proofs during the lessons. And the MOST important thing is, the proofs in the notes are NOT complete!!!! You have to listen to his explanation (though I felt like those are some dirty proofs). I wrote down the whole proof from the lecture notes in the final exam, and the TA said the proof is not complete, without telling me what the answer should be, and deduced half of marks for the question!",
+      "comment_grading": "It takes attendance since the add-drop period is ended.<br />I believe it is a good grading course. I got overall above mean 1 mark, and got a straight B.<br /><br />Item (Weighting): My marks/Base marks(Mean)<br />Homework 1-4 (15%): 390/400 (373.06)<br />Midterm (35%): 55/80 (62.03)<br />Final (50%): 74/100 (66.29)<br />Attendance (Bonus 2%): 0.8/2 (1.22)<br />Total: 76.49% (75.49%)<br /><br />One important thing: DO NOT make any single mistake in the exam. The TA had deduced 20 marks for my midterm just because I got two wrong answers with correct steps (minus 10 per question). She simply ignored all the step you have written, and looked at your answer straightly.",
+      "comment_workload": "You only get 4-5 assignments which are super easy to handle.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 6,
+      "vote_count": 7,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "eJNUWo0ihA0tVcFgxt9QgEijpZ7CKsZR",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 543,
+          "name": "LING, Shiqing",
+          "rating": 1
+        }
+      ],
+      "author": "Robertgao",
+      "date": "Sep 20, 2016",
+      "title": "",
+      "comment_content": "This course is quite useful for those students who are interesting in statistics. It mainly focus on concept, unlike 2411 which focus on computation.<br /><br />However, if your grade of math2411 is below B, i highly recommend you DO NOT take this course. Because before mid term, it relates to different kinds of test.",
+      "comment_teaching": "Professor is really funny and full of bean. He makes the lesson very funny and u never have a chance to fall a sleep.",
+      "comment_grading": "No comment",
+      "comment_workload": "Workload is quite small since it just give you a few assignment which are not difficult.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 7,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

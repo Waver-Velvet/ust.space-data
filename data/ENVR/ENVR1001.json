@@ -1,0 +1,84 @@
+{
+  "course": {
+    "id": 1520,
+    "subject": "ENVR",
+    "code": "1001",
+    "name": "EVMT Orientation",
+    "description": "This is a year-long seminar series designed to help freshmen year students adapt to university life. Topics such as learning and time management skills, purpose of university education, and planning for personal and career development will be covered. For EVMT students in their first year of study only. Graded P or F.",
+    "categories": [],
+    "website": null,
+    "credits": 0,
+    "semesters": [
+      2130,
+      2110,
+      2030,
+      2010,
+      1930,
+      1910,
+      1830,
+      1810,
+      1730,
+      1710,
+      1630,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3,
+    "rating_teaching": 3,
+    "rating_grading": 5,
+    "rating_workload": 2,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 223,
+        "name": "FORSTER, Paul Whitfield",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "Uh7ma19OrxJeL9pOHwj1lPdHDlpthVNU",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 223,
+          "name": "FORSTER, Paul Whitfield",
+          "rating": 1
+        }
+      ],
+      "author": "Alpine",
+      "date": "Jan 25, 2018",
+      "title": "",
+      "comment_content": "Some talks and EVMT gathering, which is not a must to attend.<br />For example, there will be talks about interview skills and how to write a good resume. There are also two EVMT gathering, one at the beginning of the semester and another one at the end of the semester.",
+      "comment_teaching": "Basically this course is not focusing on academic knowledge.",
+      "comment_grading": "You can get a pass if you attend enough lessons.",
+      "comment_workload": "Since it is a 0-credit course, most of the lessons can be skipped. Therefore, it will not be a problem for most EVMT year 1 students.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

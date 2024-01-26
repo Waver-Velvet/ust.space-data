@@ -1,0 +1,79 @@
+{
+  "course": {
+    "id": 1618,
+    "subject": "CIVL",
+    "code": "5710",
+    "name": "Advanced Soil Mechanics",
+    "description": "Selected topics from recent advances in theoretical and experimental development in soil mechanics; includes stress-strain behavior of soil, consolidation settlement, drained and undrained strength slope stability problems.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 71,
+        "name": "WANG, Yu-Hsing",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "1YWoRjZJov0RA4wbtPJuSEVlgDHTbgYs",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 71,
+          "name": "WANG, Yu-Hsing",
+          "rating": 1
+        }
+      ],
+      "author": "yabayaba123",
+      "date": "May 06, 2022",
+      "title": "Passionate professor",
+      "comment_content": "The topics are basically advanced lessons from the basic soil mechanics. Some of the topics are critical state soil mechanics, clay, flows, consolidation. The topics might seem easy and part of undergraduate topics, but they&#039;re actually more difficult and in-depth than the lessons back in undergraduate.",
+      "comment_teaching": "Professor is very passionate in teaching the class. He also explains difficult concepts very well, especially the Critical State Soil Mechanics. I&#039;ve learned a lot from him. He is very knowledgeable in the topics he&#039;s teaching. He is also always available for consultation and encourages us to think more critically.<br /><br />Every now and then, he would also share inspiring and motivating stories about research and geotechnical engineering.",
+      "comment_grading": "I&#039;m not sure how he graded our assignments because he never returned any of them. The only thing he ever gave feedback on was our midterm exam. He graded the exam fairly. <br /><br />If you know the answer, even if you miss out on a few details, he will give you a perfect score for the problem. But if he senses that you don&#039;t know what you&#039;re saying, you will get a low grade or even 0 for that specific problem.<br /><br />I got a pretty good final grade for the course in the end.",
+      "comment_workload": "The workload is kind of heavy. We had three homework, one midterm exam, one final exam, and one project (presentation + report). <br /><br />The homework takes 2-3 days to complete, depending on the degree of how much you understood the lessons. If you know how to answer the problems, then the homework is fairly short and easy.<br /><br />The midterm exam was a bit difficult. It consisted of essay questions plus a few problem solving. The final exam was also similar.<br /><br />We also had a course project wherein we had to present to the class any geotechnical engineering innovative topic, or even our own research. We also had to submit a report paper on it.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

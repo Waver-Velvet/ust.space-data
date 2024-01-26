@@ -1,0 +1,61 @@
+{
+  "course": {
+    "id": 2364,
+    "subject": "UROP",
+    "code": "4100S",
+    "name": "Undergraduate Research Opportunities Series 4",
+    "description": "This course is developed by the Undergraduate Research Opportunities Program (UROP) and is intended for students who have completed the UROP 1100 - 3100 series under a faculty-led research project to expand their research experience into the fourth term. Enrollment in UROP 4100 requires successful completion of UROP 3100 of the same project. Approval by faculty supervisor(s) is required. Students are required to submit a written report upon completion of the course. Graded P or F.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      1710
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"UROP\" data-code=\"3100\" href=\"/review/UROP3100\" target=\"_blank\">UROP 3100</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": [
+    {
+      "hash": "R8eRlW18xML5zU8gomIw7AsTBNTt31fc",
+      "semester": "2017-18 Fall",
+      "instructors": [],
+      "author": "azhao",
+      "date": "Sep 04, 2017",
+      "title": "Review",
+      "comment_content": "Sorry, I haven&#039;t taken any courses and wanted to read the reviews so I&#039;m reviewing this opportunity for more access. Please don&#039;t ban me.",
+      "comment_teaching": "Sorry, I haven&#039;t taken any courses and wanted to read the reviews so I&#039;m reviewing this opportunity for more access. Please don&#039;t ban me.",
+      "comment_grading": "Sorry, I haven&#039;t taken any courses and wanted to read the reviews so I&#039;m reviewing this opportunity for more access. Please don&#039;t ban me.",
+      "comment_workload": "Sorry, I haven&#039;t taken any courses and wanted to read the reviews so I&#039;m reviewing this opportunity for more access.&nbsp;&nbsp;Please don&#039;t ban me.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 56,
+      "comment_count": 6,
+      "attachments": []
+    }
+  ]
+}

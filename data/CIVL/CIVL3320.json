@@ -1,0 +1,498 @@
+{
+  "course": {
+    "id": 153,
+    "subject": "CIVL",
+    "code": "3320",
+    "name": "Reinforced Concrete Design",
+    "description": "Ultimate limit state design of reinforced concrete beams, slabs, columns, and beam-column joints; serviceability limit states of deflection and cracking.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030,
+      1930,
+      1830,
+      1730,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"2810\" href=\"/review/CIVL2810\" target=\"_blank\">CIVL 2810</a> AND <a class=\"course-link\" data-subject=\"CIVL\" data-code=\"3310\" href=\"/review/CIVL3310\" target=\"_blank\">CIVL 3310</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3.67,
+    "rating_teaching": 3.83,
+    "rating_grading": 3.92,
+    "rating_workload": 2,
+    "review_count": 12,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 87,
+        "name": "DIMITRAKOPOULOS, Ilias",
+        "count": 11
+      },
+      {
+        "id": 60,
+        "name": "KUANG, Jun Shang",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "yZXdmKwBcB0omNNSVYBimKXVEUcuovLA",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 87,
+          "name": "DIMITRAKOPOULOS, Ilias",
+          "rating": 0
+        }
+      ],
+      "author": "Jacksonn",
+      "date": "Jul 03, 2023",
+      "title": "教得一般，學得辛苦，但考試簡單，grade偏好",
+      "comment_content": "大家都知道唔重複啦，主要係教beam, slab, column設計截面鋼筋",
+      "comment_teaching": "講野好快，英文聽力差少少都跟唔到<br />Lecture Notes偏多字同埋難快睇 適合自己搵時間閱讀同思考，上堂果陣節奏快，冇提前睇大機會跟唔到，特別係我嚟d睇notes就聽唔到lecturer講野嘅人，上堂零學到。全靠loop lecture videos學。",
+      "comment_grading": "算係偏好，本人<br />first test 8/100（moment錯方向，炒飯咁炒）<br />second test 83/100<br />final exam&nbsp;&nbsp;82/100<br />B Grade",
+      "comment_workload": "功課五六份難度偏大，但有source就好快做完（我相信自己然後全部below meam咁濟）<br /><br />兩個design test一個final exam（全部open book），<br />第一個test係3月31日，<br />第二個test係五月頭，<br />fianl係五月24左右，後兩個貼得近 相當於多一個final",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "TYRYSRiLK88tEl08dpXdlxeWeFrtJbol",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 87,
+          "name": "DIMITRAKOPOULOS, Ilias",
+          "rating": 1
+        }
+      ],
+      "author": "地方母親",
+      "date": "Jun 06, 2023",
+      "title": "意外靚grade",
+      "comment_content": "詳細就跟其他<br />簡略就 sturctural analysis, design for flexure + shear + slabs + columns<br />内容算有用，做野應該用得著 <br />take attendance, Ilias自有方法打擊挂機黨，要比個like，反正我上足堂<br />quiz同final雖然open book但都要熟steps做得快，如果唔係唔夠時間，安全起見我每次都print pastpaper連solution入去靠",
+      "comment_teaching": "Ilias 自己算有心講，但d notes 有時未必話好幫到你，個人覺得有少少亂<br />TA 們幾好人，email都reply得快, tutorial講得幾好，但有個TA叫hossain, 個人覺得講得比較差<br />Tutorial得閑最好就上，有時會比assignment/quiz tips，都會講notes無但緊要既points",
+      "comment_grading": "Assignment + lab report = 25%<br />Quiz*2 = 35% (each 17.5%)<br />Final = 40%<br />Parti = 10% (bonus, total 110%) <br />My marks (uq,median, mean):<br />Hw1: 100/100 (100, 96, 90.64)<br />Hw2: 97/100 (98, 88.5, 79.92)<br />Hw3: 84/100 (77, 66.25, 62.67)<br />Hw4: 78.5/100 (89, 78, 73.34)<br />Hw5: 100/100 (95, 95, 90.95)<br />Quiz 1: 30/100 (uq: 61.25, median: 45, mean: 46.6, lq: 27)<br />Quiz 2: 79.5/100 (uq: 79, median: 60, mean: 57.17, lq: 36.38)<br />Final: 87.5/100 (uq: 79.63, median: 65.5, mean: 64.81, lq: 52.38)<br />Grade: A- <br />估唔到quiz 1大含都可以追到A range, 有驚喜。",
+      "comment_workload": "幾大<br />每份assignment基本上3個鐘起跳，基本上每年assignment題目都會轉下野，跟source做都要唔少時間去理解，最好提早做。<br />係呢個course homework可以成爲追分關鍵，盡量做好d<br />Lab report 最好就搶容易part黎做，不過都係煩架啦<br />溫書個陣可以整個design flow chart，方便同考個陣可以做得快好多",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ENeZiXECNhEzM3k6Vb9nlvTJYTB0aPtc",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 87,
+          "name": "DIMITRAKOPOULOS, Ilias",
+          "rating": 1
+        }
+      ],
+      "author": "準雷",
+      "date": "Jun 01, 2022",
+      "title": "讀得幾tough但對civil黎講好重要既structural course",
+      "comment_content": "(呢個review比較長, 因為唔想之後讀既人又係希臘professor手上面死多一次)<br />內容全部都係base on HKConcrete2013教<br />可以咁practical而唔係theoretical學野<br />所以都幾重要同難得<br />1. Design of Reinforced Concrete<br />• introduction<br />• Limit State Design<br />• analysis of the structure<br />2. Analysis of Sections of R/C Members<br />• design stress-strain curves<br />• general behaviour of R/C beams in bending<br />• analysis of the structure<br />• singly reinforced rectangular section in bending<br />• doubly reinforced rectangular section in bending<br />• flanged section in bending (T-beam and L-beam sections)<br />• axial load plus uniaxial bending<br />3. Shear, Bond and Torsion<br />• shear strength of beams with shear Reinforcement<br />• sections subjected to torsion<br />• bond and laps<br />4. Serviceability<br />• load Combinations for Serviceability Limit States<br />• detailing requirements<br />• deflection<br />• cracking<br />5. Design of Reinforced Concrete Beams<br />(Revision of 1-4)<br />• preliminary analysis and member sizing<br />• design for bending<br />• design for shear and torsion<br />• design example of RC beam<br />6. Design of Reinforced Concrete Slabs<br />• one-way solid slabs<br />• two-way solid slabs<br />• punching shear<br />7. Design of Reinforced Concrete Columns<br />• types of columns<br />• column classification<br />• reinforcement detailing<br />• design of short columns",
+      "comment_teaching": "Ilias其實教得唔錯<br />雖然係希臘professor<br />但佢既英文都算唔錯<br />堂上會用Zoom polling幫學生清concept<br />亦樂意解答問題同埋重複concept<br />唯一唔好既就係notes經常有typo<br />改完之後re-upload唔會通知<br />所以都比較煩<br /><br />Tutorial方面<br />Notes既example整得幾清晰<br />部分TA解釋得唔錯<br />部分就唔知佢up緊啲咩",
+      "comment_grading": "**唔可以走堂, 因為會用Zoom polling抽查, 走堂唔答題會直接扣participation mark**<br /><br />Participation (10%)<br />答哂所有Zoom polling(唔計正確與否)<br />應該滿分<br /><br />Homework + Lab report (20%)<br />HW1: 96/100 (Mean 90.75)<br />HW2: 68/100 (Mean 70.98)<br />HW3: 87/100 (Mean 66.49)<br />HW4: 100/100 (Mean 84.49)<br />Lab report: Not released (估90/100啦)<br /><br />Quizzes (Open-book, 30%)<br />Quiz 1 (Structural analysis of load combination + Flexural Design): 90/100<br />(Mean 44.48, Median: 38, UQ: 60.5, LQ: 28.5)<br />Quiz 2 (Shear Design): 80/100<br />(Mean 75.01, Median: 80, UQ: 91, LQ: 64.5)<br />Quiz 3 (Slab Design): 94/100<br />(Mean 74.1, Median: 79, UQ: 90, LQ: 66.5)<br />3次quiz入面計2次最高分: (90+94)/200<br /><br />Final Exam (Open-book, 40%)<br />Design problem of slab, beam and column<br />My Score: 97/100 (Highest!)<br />(Mean: 63.38, Median: 65.5, UQ: 77, LQ: 51.63)<br /><br />Overall: 94.04%<br />Grade: A+ (Rank 3/155)<br /><br />雖然讀得幾tough<br />但肯花時間梳理好concept同步驟就okay",
+      "comment_workload": "算大，應該值4 credits<br />有4次assignment<br />但難度算高<br />因為係比較複雜既case<br />跟住notes既步驟做都要花好幾日時間<br />用電腦打step都有十幾版<br />加上lecture同tutorial notes<br />有好多細節位做法唔一致<br />加上好多typo<br />有唔肯定既地方一定一定要經常問TA解釋<br /><br />Lab得一次<br />原本應該係幾個人一組去civil lab親手整<br />R/C beam做test<br />不過因為online teaching<br />所以要睇上年既data同埋片<br />之後一人做一份lab report<br />Workload大過之前<br />建議跟source做<br /><br />Quiz同exam方面<br />反而唔洗用太多時間溫<br />雖然係open book<br />但建議check完homework solution之後<br />自己整一份design notes出黎<br />睇熟之後用自己明白既方法做就得<br />唔好到時先睇notes<br />否則會唔夠時間做題",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 10,
+      "comment_count": 5,
+      "attachments": []
+    },
+    {
+      "hash": "f9EesyHOK6FB0RuWeEqPjC3Y2anPYmIv",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 87,
+          "name": "DIMITRAKOPOULOS, Ilias",
+          "rating": 0
+        }
+      ],
+      "author": "on9Idiot",
+      "date": "May 19, 2022",
+      "title": "terrible",
+      "comment_content": "超多野搞<br />又structural analysis又beam又slab又有好多唔同tests<br />好多野諗<br />好多種situation唔同做法。。。<br /><br />Seviceability個度同埋anchorage 個d講到唔清唔楚<br />又唔知邊d step計分，邊d step可以唔洗寫（個個TA個標準都唔同）",
+      "comment_teaching": "d lecture noes 前後用字、d parameter都唔同<br />TA provide d assignment solution又同lecture notes 唔同<br />一樣既野有成3個版本<br />唔同TA又有唔同做法<br />超級亂<br />lecture notes 同assignment solution一大堆紕漏<br />溫書就係度幫d notes debug<br />不如直接dum HK Concrete 2013 full document 比我地自學就算....<br />Lecture notes 既example 都唔信得過，照跟來做hw都可以step錯曬",
+      "comment_grading": "唔知，未考試，比住C先<br />準備緊陣間4：30個final覺得好不爽來評論下<br /><br />-更新-<br />個grade吾差<br />積返d陰德比返個B啦<br /><br />hw: 全部below mean 大概1-30分<br />quiz：1,2,3過mean，最好兩個係75+90<br />final：過mean 10幾分左右<br />Lab：唔知，我估below mean<br />attendance：後期我決定放棄上堂、tutor，miss 左2個lecture、3-4個tutor<br />final grade B+",
+      "comment_workload": "Each homework costs you several days, writing more than 20 pages of A4 paper...<br />次次做完assignment又發現前面有野錯，砍掉重練<br />仲試過臨交前兩日突然改題目wtfunny???然後就再做一次<br />Doing a bunch of repeating work.<br />One long lab report<br />Three quizzes<br />One final exam<br />attendance for all lectures and tutorials （need to answer poll questions）<br />總而言之workload 最重沒有之一",
+      "rating_content": 2,
+      "rating_teaching": 2,
+      "rating_grading": 4,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 4,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "tyJKE89WdfC8GdLCz3aYaEPWoJWv2kXZ",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 87,
+          "name": "DIMITRAKOPOULOS, Ilias",
+          "rating": 0
+        }
+      ],
+      "author": "FuckUST",
+      "date": "Apr 17, 2022",
+      "title": "CIVL3320 and CIVL3310=Murdering me",
+      "comment_content": "design RCC<br />but way too hard <br />I don&#039;t know why a design course can be that hard <br />Nobody said it was easy<br />No one ever said it would be this hard<br />no kidding and I am crying",
+      "comment_teaching": "No more greek professor (you know who I am talking abt) <br />stop murdering me please= =<br />dude this is insane<br />you can&#039;t have a good performance on assignments if you just read lecture notes and tutorial notes (tho I watched the tutorial video many times)<br /><br />there is no fucking example you can rely on and the details are not mentioned <br />sometimes the formula you don&#039;t know how turns out <br />The lecture note and tutorial note just give the easiest example (let&#039;s say symmetric or square) but the assignment and exam is not like that <br />and you feel like What the fuck? <br />most of the time you don&#039;t know how to deal with it<br />the only tip I can provide<br />don&#039;t be shy and go ask TA<br />I asked TA many times when I do homework<br />the homework question and workload is just fucking terrible <br /><br />sem尾勁多嘢 打算快手做完功課啦<br />咁唔明就預左&nbsp;&nbsp;問完TA都唔明<br />我就問illas算啦<br />問左幾題 佢答得我一題<br />然後話For the other questions let’s talk tomorrow at the end of the lecture<br />on99",
+      "comment_grading": "I don&#039;t know man <br />just hope I can get a good grade= =<br /><br />佢啲功課係難到傻左 冇source的 <br />連負責出soluition嘅TA都話煩到痴線 <br />一份功課計十頁左右<br /><br />quiz計錯momoent/shear diagram<br />後面全部無分 (quiz 1 mean 27/100)<br />on99<br />之後兩個quiz 好少少<br /><br />Final exam<br />he said that the exam questions/problems are similar in style to the questions/problems HW assignments.<br />咁上面都講左功課係難到傻左<br />I mean how can I finish the questions/problems HW assignments without the help of TA?????<br />WTF 真心哭撚左",
+      "comment_workload": "本身諗住design course跟住個flow做應該ok<br />但當你試下做個時 會發現好多嘢煩<br />然後會唔明 唔知點算 <br />一份嘢做十幾頁 問幾次TA<br /><br />唉 依家仲有份lab report要屌<br />點解我細個唔讀好啲書= =",
+      "rating_content": 2,
+      "rating_teaching": 2,
+      "rating_grading": 3,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 6,
+      "vote_count": 6,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "g70tdCNNcS16lQ8sSby8uGBtHYS5TnDa",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 87,
+          "name": "DIMITRAKOPOULOS, Ilias",
+          "rating": 1
+        }
+      ],
+      "author": "SQ Flyer",
+      "date": "Jun 03, 2021",
+      "title": "design philosophy",
+      "comment_content": "I have to admit that this is one of the toughest CIVL compulsory course after the terrifying nightmare made by Mohamed Salah Ben Habib Ghidaoui (that notorious dickhead in Fluid Mechanics class), <br />but I have to admit that although the design content are somehow <br />troublesome and brain-draining (you better have good IQ &amp; EQ or else you will get mad like Ghidaoui), Prof Ilias DIMITRAKOPOULOS managed to make the delivery of the design philosophy clear in most of the time and I think most students appreciate his efforts to make the demanding content understandable and readable by looking up the tailor-made lecture notes, tutorial notes, assignments and quizzes problems. <br /><br /><br />Course Content: <br />1. Design principles under Ultimate Limit States ULS<br />2. Flexural Design for beams (simple beams &amp; flange beams)<br />3. Shear Design for beams, torsion, bond, anchorage &amp; lap<br />4. Serviceability Limit State SLS <br />5. Comprehensive Design for beams <br />6. One-way &amp; two-way slab design, load transfer mechanism, punching shear of slabs <br />7. Column design (braced &amp; unbraced column design under axial, bi-axial and bending) <br />8. (Optional) Design of R.C joints <br /><br />Every lecture notes covered design methodologies, concepts, references from code of practices and examples. Extra annotations and explanations are made during lectures.",
+      "comment_teaching": "The teaching team has tried their very best to make the very first structural design course comprehensible for students and I have to appreciate the efforts made by the professor and TAs. <br /><br />Ilias prepared all the lecture notes comprehensively with reference to the notes prepared by Prof JS Kuang, textbooks, HK Code of Practice on Structural Concrete Design &amp; BS 8110. The notes comprise with design principles, methodologies, structural failure mechanisms, tables and examples. At the first glance, the content are complex and demanding, but the explanations during lectures are illustrative. The lecture polling questions encourage students to pay attention to the lecture explanations and think from what have been covered so far. <br /><br />The 6 TAs have respectively in-charge of the tutorials that they are responsible of, the tutorial covered a brief review of the lecture content, then continued by more comprehensive and complex examples and practices that the lecture notes didn&#039;t cover so far. The tutorial notes are very useful as you will see the TAs efforts to give you a grand picture of how concrete design works in practice. You may easily mess up the contents and details of the tutorial notes due to the rigorous rules and limitations governed by the Code of Practice (e.g. selections of steels, stirrups, calculation steps, reinforcement arrangements, preliminary design etc.) , while decision making is the key component for concrete design, so personally I approached to the TAs through email to seek for more clarifications. The TAs have given a detail reply and illustration very quickly. Due to the tons of technical questions flying all over everyone&#039;s head, the TAs have prepared a detail FAQs list on Canvas and a discussion forum is made for resolving any potential issues. <br /><br />Two TAs were in-charge of the laboratory session. This year the COVID situation was slightly under controlled and on-campus lab sessions were compulsory. Students should sign up the time-slot accordingly and prepared both under-reinforced and over-reinforced beam specimens by tying up the steel bars, stirrups and preparing fresh concrete (just like what you did in PolyU IC Training). After strength development a month later, students are required to conduct several specimens testing and reviewed the data collected. A detail checklist on the questions to be written on the laboratory report is given accordingly. The lab report is a group one with around 12 students in a group, and students are given two weeks to complete so.",
+      "comment_grading": "Grading rubrics:<br />Attendance 10%<br />(Lecture + Tutorial reply to polling questions no matter right or wrong) <br />Assignments * 4 + Group Lab Report 20%<br />Quizzes *3 (choose best 2 out of 3 quizzes) 30%<br />Final Exam (comprehensive design problem) 40% <br /><br />The grading is very strict for most assignments, and I have to say that the assignments are way more difficult and comprehensive than the content covered in the tutorials and quizzes.<br />(every time I need to spend couple of days to review the lecture notes, tutorial notes, source practices and textbooks to figure out the essence of design methodologies, and I have to work every design steps in detail and check if there are any discrepancies). <br /><br />But the assignments are good practice for students to think deep and manage to make decisions according to the code of practice. <br /><br />Quizzes are very strict and rigorous, but still easier than those in assignments, if you manage to revise and revisit the tutorial notes and assignment solutions in great detail and look up for any potential questions to the TAs or just practice more by doing self-practice, then you should be able to work on most steps in the quizzes. <br /><br />I know the time for the quizzes are very tight (1 hour) even the quizzes are open-book, you better look up all the details and prepare a checklist for different design problems. Print out all the notes, tables, calculation steps that you need, checking all the details on the computer is just a waste of time. <br /><br />My grade for your reference:<br />Attendance (by answering all the poll questions) 10/10<br /><br />Assignments &amp; Lab Report 16.54/20 <br />(yes the mean for assignments are just around 80, and for the slab &amp; column assignment is just 70, lab around 90, and man I was fucked by the tedious works and steps in assignments) <br /><br />Quizzes * 3<br />Quiz 1 (Flexural Design of beam)&nbsp;&nbsp;89/100 <br />Quiz 2 (Shear Design of beam &amp; SLS) 93/100 <br />(due to errors made by the professor, most students have their score adjusted accordingly) <br />Quiz 3 (Slab Design &amp; Load Transfer) 91/100 <br />Choose the best 2 quizzes 91, 93 --&gt; take average 92 --&gt; 27.6/30<br /><br />Final (comprehensive design problem on slab, load transfer, beam and column) <br />87/100 --&gt; 34.8/40 (=1SD)<br /><br />Overall 88.94% <br />Grade: A- <br />I would say the grading is quite competitive and disappointing for me, just because many have similar scores in quizzes/exam, as such the professor should have followed a strict grade distribution.<br /><br />** We didn&#039;t receive any statistics for Quiz 3.",
+      "comment_workload": "The workload is very high I have to tell you the truth. Even 學霸 &amp;&nbsp;&nbsp;學弱 feel like the course is very troublesome. If you don&#039;t revise frequently and in great detail with all the notes, textbooks, codes and past source problems, and don&#039;t even seek help from the TAs, you will no sooner find yourself lagging behind the schedule when assignments, tutorials, quizzes and lab reports flying all over your dickhead while you damn useless pig lab groupmates made you angry when they failed to make contributive work on the lab report, and then suddenly 鋪頭 &amp; 叫春話人吾出聲吾比題目人做 at the very last minute of the report submission. <br /><br />Assignments are very tedious and you need to debug and review the steps all the time to ensure the design logic shown are clear. You know the TAs marked the assignments in a very strict manner (especially the first two and final assignment you will need to spend hours of time revisit the notes, think of the questions and answering tactics that you have never encountered in tutorials, and work on the problems for hours and days --- Fuck My Life :)) <br /><br />For quizzes, I recommend you to better revise as early as possible by looking up all the design steps from lectures, tutorials, assignment solution keys, and maybe you find some more practice problems from sources to make sure you are well-equipped to work on the tedious steps within very limited time. I have to tell you that the teaching team intentionally made the assignments and quizzes comprise with different values on loads &amp; dimensions where students are unable to copy the exact design values from one another, and all they care about is your design LOGIC to show the design steps very clear with complete illustrations of reinforcement and cross-section drawings, not the exact numbers you have calculated. Even the values you worked on are wrong, but if you are able to show your work comprehensively, you can still get high marks trust me. <br /><br />The Final is troublesome, I turned out work on a total of 30 pages of design work within 3 hours. The steps are very clumsy. <br /><br />I suggest you to work on the self-practice given on Canvas or looked up the past exam/assignment questions and worked all by hand to make sure that you really know the methodologies. I see someone who had posted last year quizzes problem and final questions right here and I really think those are very useful practice. <br /><br />Don&#039;t give up btw, I know it is hard, but hard work really pays off for this course and the complexity of this course is not the one you have experienced from Ghidaoui, and I think such practice can help you prepare for the following Steel Design Course that most of us will be taking as a CIVL elective (from past experience over 100 students take the Steel Design Course --&gt; saying this is a &quot;Compulsory&quot; course should be the truth), and maybe if you want to get well-prepared for future job interview, the knowledge gained should be useful for solving different technical questions.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "9datc9VjbyQXEnaTYIZJ1oPyoyoQQzHR",
+          "name": "Quiz 1 analysis",
+          "format": "jpg"
+        },
+        {
+          "key": "m9D1h1JMrNLA1CVYzRtHP3uReinl45hs",
+          "name": "Quiz 2 Distribution",
+          "format": "jpg"
+        },
+        {
+          "key": "EwreHY4bhXhs9UbvbQ5ISqrMC0mVYR25",
+          "name": "Quiz 2 Group 2 scaled",
+          "format": "jpg"
+        },
+        {
+          "key": "Gkx9VJT2OpnYP3qz7ogWFrYkXN58Kv9N",
+          "name": "3320 Final Stat",
+          "format": "jpg"
+        },
+        {
+          "key": "WsGrlRV2JI27PXFMqGztIw6iixyxXRiF",
+          "name": "CIVL3320_Outline_Spring2020_2021",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "X6FgWfQ42u2V0gw7NdO5pCelvVe6cix6",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 87,
+          "name": "DIMITRAKOPOULOS, Ilias",
+          "rating": 1
+        }
+      ],
+      "author": "zikk0923",
+      "date": "Sep 01, 2020",
+      "title": "",
+      "comment_content": "The content are useful for all civil engineering students, It is very practical and could always been use in workplace (used in intern)",
+      "comment_teaching": "His teaching is really detail and easy to understand, tbh i am not quick understanding type of person, but if u attend his lecture and listen to his explanation, it is very easy to absorb.",
+      "comment_grading": "I got B overall<br />I thnk it is reasonable <br /><br />Quiz 1: 60/100 (Mean:5X)<br />Quiz 2: Below mean<br />Quiz 3: mean<br /><br />Exam above mean",
+      "comment_workload": "Under COV-19 :<br />3 quizzes (originally 4)<br />6 assignments<br />FInal <br /><br />There will be some pop up quiz during lesson as well in zoom (Polling)",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "gpgM1DH0cO5rHrrXCPe1ZJXCbReYQ5Px",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 87,
+          "name": "DIMITRAKOPOULOS, Ilias",
+          "rating": 1
+        }
+      ],
+      "author": "drew.ng",
+      "date": "Jul 27, 2020",
+      "title": "Ilias makes the hardest semester in BEng CIVL survivable.",
+      "comment_content": "Same as the others. He loves to update/add to his past lecture slides without telling you so don&#039;t print anything until before exams.",
+      "comment_teaching": "Probably one of my favourite teachers in CIVL, very clear presentation slides and doesn&#039;t mind repeating himself if you ask questions. You can try and type some greek phrases and he&#039;ll remember you (which may help with grading). From what I heard, much better than JSK&#039;s teaching. He says he &#039;takes attendance&#039; but I doubt it.",
+      "comment_grading": "Ilias follows university grading scale but he is very leniant - if you have any issues/problems with the grade or your performance, he understands and will adjust the grade accordingly.",
+      "comment_workload": "The online semester resulted us in taking 3 quizzes + final. Best 2 quizzes will be used. Since the semester is packed, the quizzes were continuous and you&#039;re basically f*cked if you&#039;re behind. Assignments for every chapter requied. Quizzes for every 2 chapters.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Zl2fHXgXmQx5zOJQIhR9EfP5sswSQStp",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 87,
+          "name": "DIMITRAKOPOULOS, Ilias",
+          "rating": 1
+        }
+      ],
+      "author": "Brandonn",
+      "date": "Jul 01, 2020",
+      "title": "A tough course but hard work pays off",
+      "comment_content": "A compulsory course teaches RC Design. This course teaches you how to calculate the flexural, shear, torsional reinforcement to beams, slabs and columns which are fundamental for constructing buildings. There are a lot of new materials taught but it is not difficult to understand.",
+      "comment_teaching": "Professor mainly focused on concepts, explanations and some limiting values in concrete code. There are only a few examples in lecture notes. But TAs taught some extra examples in tutorial. For students in case didn&#039;t catch up in lecture, examples in tutorials really can help. Revise lecture and tutorial examples can help you get a at least fair marks in quizzes and final.",
+      "comment_grading": "Professor seemed to give a better grade for online mode. Midterm was changed to 3 quizzes due to online mode. And only 2 quizzes with highest marks were counted to final grade.<br /><br />Assignments: 20%<br />Quizzes: 30%<br />Participation: 10%<br />Final Exam: 40%<br /><br />My marks:<br />Assignments are nearly all full marks<br />Quiz 1: 77 (above more than 1 SD)<br />Quiz 2: 79 (above nearly 1 SD)<br />Marks of Quiz 3 and Finals were not released.<br />Final grade: A+",
+      "comment_workload": "It is the course with highest workload in this semester for me. Every quizzes need much time&nbsp;&nbsp;to prepare and quizzes are nearly impossible to finish all (to prevent cheating) unless you are very familiar with the concepts. So just finish as much as you can. Assignments are not easy to finish. But you can learn a lot and help you prepare quizzes through finishing assignments. Time given for finishing final examination is also tight. Tips for final: have a clear concept on calculating load transfer.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "RFfvry3OPPPFnRBgmhpqZ7qYdmpXqc8e",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 87,
+          "name": "DIMITRAKOPOULOS, Ilias",
+          "rating": 0
+        }
+      ],
+      "author": "Sammmi",
+      "date": "Jun 17, 2020",
+      "title": "好辛苦",
+      "comment_content": "成個course就係Reinforced concrete design, nth else!<br />但勁多野要學, shear reinforcement, moment reinforcement, torsion reinforcement, beam, slab, column. 勁多code勁多野學,好容易撈亂<br />但佢係compulsory course所以做定心理準備<br />structural唔掂既人真係做好準備",
+      "comment_teaching": "eliase……唔講啦上完就明<br />勁strict, 連份手寫計數既hw都放上turnitin, 考試勁多measure防cheat<br />有樣野一定要提,notes solution 勁多typo, 真係多到不得了,有咩唔對路信自己,因為極大可能係typo",
+      "comment_grading": "話就話難同大workload, 但其實幾好龜<br /><br />hw<br />quiz x 3/4<br />final<br />attendance",
+      "comment_workload": "大<br />今個SEM最大既workload就係呢個(難都係其中一個因素令佢Workload大)<br /><br />今個Sem係Online teaching,佢冇MT,但有3個1hour既online quiz, (考核內容&gt;&gt;&gt;1hour), 所以見到d題目真係嚇親,但真係有d人會拎滿分<br />open book, 所以心靈上有d慰值<br /><br />好似5-6份hw咁上下,但一份hw可以做幾日成十張紙,lecture教左d basic野但份hw直接應用所以勁難,真係早一個星期做就差唔多<br /><br />上堂仲要take attendance",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "vJpIYPzbpiXfIshZsUbMpjjAXG8vLUBH",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 87,
+          "name": "DIMITRAKOPOULOS, Ilias",
+          "rating": 1
+        }
+      ],
+      "author": "mhcm138",
+      "date": "Jun 11, 2020",
+      "title": "Very Tough Design Course",
+      "comment_content": "📚 Ilias&#039;s lecture notes mainly based on Prof. JS Kuang Lecture Notes in the last year. (JS Kuang is a retired HKUST professor and advisory member of HK Concrete Code 2013). Prof Ilias turned his whole PDF A4 sizes lecture notes into the presentation slide with more explanations, remarks, and diagrams, which is so colorful and easier to understand<br /><br />✒️The scope of the course is:<br />1️⃣ Design Principles of Reinforced Concrete<br />2️⃣ Analysis of Sections of Reinforced Concrete Members<br />-Rectangular Section<br />-Flange Section<br />3️⃣ Shear, Bond and Torsion<br />4️⃣ Serviceability<br />5️⃣ Design of Reinforced Concrete Beams (Summary of 1-4)<br />6️⃣ Design of Reinforced Concrete Slabs<br />7️⃣ Design of Reinforced Concrete Columns<br />8️⃣ Design of Reinforced Concrete Beam-column Joints (Optional)",
+      "comment_teaching": "Prof Illas and his TAs did an excellent job in teaching<br /><br />✅ Illas was passionate in teaching this course, explained the content well, and spoke fluent English. Annotations on the PowerPoint made things easier to understand. Meanwhile, he was so attentive to the chatbox and addressed those questions during the lecture. It was nice to see he held three additional tutorials to explain some difficult concepts in the graded quiz and demonstrated a past exam question to us. He also shared to us the approach in visualizing a complicated question<br /><br />❌ All lectures were compulsory to attend and attendance contributed into the final grade. He made polling during the lecture to test our understanding and also served as a purpose of taking attendance.<br /><br />❌ This was the first time for him to teach this course. Therefore, there were many typos and amendments to the lecture notes. This was quite inconvenience if you use printed lecture notes.<br /><br />✅ Three TAs held the tutorials, and they were all responsible and handled the sessions with care. They would respond to the chat room frequently and waited for a few minutes after the tutorial sessions to answer additional questions. It was quite easy to reach him through email, as they responded to the emails quickly and gave a detailed, useful explanation. Tutorial materials were helpful, but the graded quiz and final exam were more complicated.<br /><br />❌ I would say sometimes those TAs spoke too fast, so I was not able to follow them during the tutorial.",
+      "comment_grading": "Prof. stated very clear that he will only follow the grade distribution guideline suggested by the university, nothing special.<br /><br />💯Course Grading:<br />1️⃣ Assignments - 20%<br />2️⃣ Quizzes (best 2 out of 3) - 30%<br />3️⃣ Participation - 10%<br />4️⃣ Final examination - 40%<br /><br />👨‍🎓 My performance for your reference:<br />Quiz 1: 20/100 (mean:50, sd:25)<br />Quiz 2: 75/100 (mean:60, sd:22)<br />Quiz 3: 83/100 (unknown stat.)<br />Final Exam: 92.5/100 (unknown stat.)<br />Final Grade: A",
+      "comment_workload": "The workload for this course is substantial. You need to attend every lecture and turn on the camera. Skipping lectures will cost you some participation score. Moreover, we had to prepare for three graded quizzes throughout the semester, which was very demanding to us. It was controversial that professor refused to offer us a single midterm. If you want to get a good grade, you may need to spend much time in understanding the course materials completely and do every example by hand. <br /><br />Optional problem sets were given, but no answer provided. It may be helpful to take a look and slightly think about them so you would not cry in graded quizzes and final exam.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 6,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "rR0vcW0NnvAmi69Pi9WKo8BzfvPyFrEs",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 60,
+          "name": "KUANG, Jun Shang",
+          "rating": 1
+        }
+      ],
+      "author": "Sam Yun",
+      "date": "Aug 17, 2015",
+      "title": "",
+      "comment_content": "The course material covers the basic concept in designing beam, column and joint. It involves a lot of calculation but the most important element is the concept behind those calculation. Having a right attitude in this course is crucial for your success in this course and also the future career. Be sure on what you are calculating and don&#039;t be a machine.",
+      "comment_teaching": "The professor is willing to teach but he may not have enough time to interact with you due to his busy schedule. You may need to look for teaching assistant to find help. Keeping a good relationship with teaching assistant is beneficial in the course.",
+      "comment_grading": "The grading is average in this course. Average mark would give you C+/B- according to unofficial statistic. You should not care too much as it is a required course. Just do your best. If you want to reach A/A+, finish the past papers and also maintain a good result in the mid-term exam.",
+      "comment_workload": "Compared to other courses, this course is having quite large workload. The workload mainly come from the homework for each chapter. Seek help from your classmate and teaching assistant if you find any difficulty.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

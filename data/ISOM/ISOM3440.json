@@ -1,0 +1,29 @@
+{
+  "course": {
+    "id": 688,
+    "subject": "ISOM",
+    "code": "3440",
+    "name": "Applied Network Management",
+    "description": "In an interconnected networked economy, management of networked applications becomes increasingly important. This course gives a general overview of the most basic information and networking management concepts and provides students with both theoretical and practical training in networking management applications, e.g. Cisco.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "ISMT 235 (2003-08), <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3180\" href=\"/review/ISOM3180\" target=\"_blank\">ISOM 3180</a> (after 2007-08)",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

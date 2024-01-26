@@ -1,0 +1,452 @@
+{
+  "course": {
+    "id": 816,
+    "subject": "LIFS",
+    "code": "4200",
+    "name": "Concepts and Issues in Contemporary Biotechnology",
+    "description": "This course will survey the methods and applications of biotechnology, in the aspect related to animals, microbes, agriculture, human health and environment. The consequences of developments in this area will be examined, with emphasis on the aroused great public interest and the increasing demand for the informed debate. For BIOT and BIBU students only.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CENG\" data-code=\"1600\" href=\"/review/CENG1600\" target=\"_blank\">CENG 1600</a> OR <a class=\"course-link\" data-subject=\"LIFS\" data-code=\"2040\" href=\"/review/LIFS2040\" target=\"_blank\">LIFS 2040</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.1,
+    "rating_teaching": 3.9,
+    "rating_grading": 3.9,
+    "rating_workload": 3.4,
+    "review_count": 10,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 772,
+        "name": "NG, Shi Chung",
+        "count": 7
+      },
+      {
+        "id": 492,
+        "name": "TSIM, Karl Wah Keung",
+        "count": 5
+      },
+      {
+        "id": 268,
+        "name": "CHEW, Chiat Thian",
+        "count": 2
+      },
+      {
+        "id": 489,
+        "name": "WONG, Wan Keung",
+        "count": 2
+      },
+      {
+        "id": 1660,
+        "name": "WONG, Wan Keung Raymond",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "8JpCBoXgbGZcH13hbg2i0W2QZq8k7nqs",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1660,
+          "name": "WONG, Wan Keung Raymond",
+          "rating": 0
+        }
+      ],
+      "author": "RIbtSU",
+      "date": "Dec 30, 2022",
+      "title": "Trash and rubbish lifs course but it&#039;s required",
+      "comment_content": "Divided into 2 parts:<br />1st part taught by WK Wong - about biotechnology, plasmids, E.coli., protein expression techniques etc.<br /><br />2nd part taught by Prof. Lee (from cuhk) - about the biotech industry, business, and market examples etc.",
+      "comment_teaching": "Prof Wong teaching is fine. He explained everything by writing and drawing himself during lectures. The teaching is quite good to me<br /><br />Prof Lee part is trash, Nothing can learn from him. His ppts have so many words and his speaking speed is so fking slow that no one is actually listening to him during lectures. You can see people around you are all doing their own stuff.",
+      "comment_grading": "Grading is totally not transparent. <br /><br />Exam: 50%, 25% for each prof&#039;s part<br />Attendance: 10%<br />Group Project: 40%<br /><br /><br />In WK Wong exam: I got 42/47, mean: 32/47<br />In Lee Chi Ming part: unknown<br /><br />Group project: unknown<br /><br /><br />Final Grade: B<br /><br />To get good grade in this course, all you need is luck—the luck of not assigning any free-riders to your group, that&#039;s all.",
+      "comment_workload": "Exams are easy and many people got high marks. I think Grading really depends on the group project. <br /><br />For the project, groupmates are randomly assigned.&nbsp;&nbsp;In my group, there are two Korean girls. <br />Not discrimination but Korean girls are really shit as groupmates. They all freeride and didn&#039;t care about the project. I even do all their parts and write scripts for them for the presentation. But they just dun practice at all and screw up the presentation.<br /><br />If there are Korean girls assigned to your group, what i can say is &quot; Congrats and good luck! &quot;<br /><br />Hope you won&#039;t meet any Korean girls in your group.<br />But you have no choice as this course is Biotech required course.",
+      "rating_content": 2,
+      "rating_teaching": 2,
+      "rating_grading": 2,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Jp5jOTVs5No1yt3AMk4S2sLye9BsIDfe",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 268,
+          "name": "CHEW, Chiat Thian",
+          "rating": 1
+        },
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 1
+        }
+      ],
+      "author": "lifsstudrg",
+      "date": "Jan 10, 2022",
+      "title": "Bad LIFS course but its required",
+      "comment_content": "I learned nothing new in this class... I wished the class would be more collaborative and it being taught 1x a week for 3 hours straight just made the course extra boring.",
+      "comment_teaching": "Prof. Wong taught the lecture containing very similar content to LIFS2700, so we learned nothing new. While Prof. Chew&#039;s PPT contains too many words and when he did the lectures, he just read off of the PPT or paraphrased what he wrote down in the PPT.",
+      "comment_grading": "ITS BAD! I got an overall of 80.39/100 and got a B-. The only score disclosed is the first mid term. The rest of the scores are not disclosed unless you asked for it",
+      "comment_workload": "Workload is ok. 2 midterms and 1 group presentation",
+      "rating_content": 2,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "EsVpOH0qwuef2sB1vVZStcF1i8gcIN1Q",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 268,
+          "name": "CHEW, Chiat Thian",
+          "rating": 0
+        },
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 0
+        }
+      ],
+      "author": "LLLEE",
+      "date": "Jan 04, 2022",
+      "title": "Super BAD grade after changing the lecturers",
+      "comment_content": "Divided into 2 parts:<br />1st part taught by WK Wong - about biotechnology, plasmids, E.coli., protein expression techniques etc.<br />2nd part taught by Prof. Chew - about the biotech industry, business, and market examples etc.",
+      "comment_teaching": "For WK Wong, just copy all the notes during the lecture, everyone knows how he teaches from the LIFS2070&#039;s experience<br />For Prof. Chew, his ppt is full of words and he couldn&#039;t finish his part but all are tested (even the graph is tested!!! crazy). Don&#039;t expect too much from him.",
+      "comment_grading": "I can&#039;t believe an 80.xx% overall score is equivalent to a B-?<br />The worst grading curve for a LIFS course<br /><br />Attendance: 10/10<br />1st quiz: 15.xx/20 (MC and TF and fill in the blanks)<br />2nd quiz: 14.xx/20 (MC and TF)<br />presentation: 40/50<br />**Overall: 80.xx/100<br /><br />Easy exam format means you will lose more marks if you make careless mistakes. Also, they ask about some very minor points which you can hardly recall. Just be careful and be prepared for the minor points.",
+      "comment_workload": "A big part of the grade is contributed by the presentation. So the most workload should be put on the presentation. <br />I would recommend either you do the job for your teammates or else you will get it ruined by them. I have 2 free-riders (4 random people in a team) in my team who got their part done just before the presentation. Our presentation was overrun by 1 min and we did poorly for the Q&amp;A (one of the free-riders bullshitted representing us, how dare her?), though I think the content is not that bad.<br />I think if you did not overrun and were able to answer the Q&amp;A confidently (thinking back it is not hard, we know the answer but can&#039;t think of that at that time), the marks could be higher than average.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 2,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "2Mikxu1UqlawCOsyuo7cFWpQQO1ZTpq2",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 772,
+          "name": "NG, Shi Chung",
+          "rating": 1
+        }
+      ],
+      "author": "lianson",
+      "date": "Jan 23, 2021",
+      "title": "",
+      "comment_content": "The first 2 lecture is taught by professor tsim. <br />Them, professor Ng will assign group and topic. Each group is required to done a presentatioj base ob your selected topic.",
+      "comment_teaching": "Professor will give suggestion on what you should present in your project. So, the teaching is quite good?",
+      "comment_grading": "Good grading. <br />The final exam mark is not released but our group project did quite bas since we submit tge project late and did not receive any feedback.<br />Final grsde: A",
+      "comment_workload": "The workload is ok since we just need to do one project. But the final exam need you to have a image of the 52 present.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "UhDXbsuiwsnXWcWi9UWcdVRwXPl8j6TZ",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        },
+        {
+          "id": 772,
+          "name": "NG, Shi Chung",
+          "rating": 1
+        }
+      ],
+      "author": "chloew",
+      "date": "Jan 20, 2021",
+      "title": "I like it.",
+      "comment_content": "The first two lectures are instructed by Tsim about Traditional Chinese Medicine. It&#039;s just so so... random. Everything else in the course is &quot;taught&quot; by Ng. The reason I quoted that is that he was more like an MC to every student&#039;s presentation topics. <br /><br />53 presentation topics about the latest and most important biotechnology issues/techs/businesses are prepared by Ng. Students will take turns to present in randomly assigned groups. <br /><br />1. Influenza biology: Can 1918 “Spanish” flu virus be resurrected? Why vaccine every year?<br />2. HIV: biology led to drug treatment<br />3. HBV: Vaccines (inactivated, attenuated, protein subunits, VLP), Adjuvant(Heplisav B)<br />4. Covid-19: biology, vaccine development<br />5. Covid-19: diagnostics, therapeutics<br />6. Biotech and Forensics: the Golden State Killer (SNPs)<br />7. Biotech and Society: Zolgensma, the 2.1Mil drug for SMA and Spinoza<br />8. Biotech and Politics: US Eugenics Movement<br />9. Biotech and Politics: Eugenics Movement in Germany (Holocaust)<br />10. G-CSF: Neupogen/Neulasta/Zarxio (first FDA approved biosimilar 2015)<br />11. Recombinant Interferons and Pegylation (Avonex/Intron A/Pegasys)<br />12. Recombinant Interleukin and related drugs (Proleukin/Ontak/Anakinra)<br />13. Remicade and chimeric mAb<br />14. Enbrel and receptor-fusion protein<br />15. Humira (Antibody engineering and human mAb)<br />16. Herceptin and Breast Cancer: Biomarker and beginning of Personalized Medicine<br />17. Rituxan, Venclexta and lymphomas<br />18. Avastin for colon cancer<br />19. Lucentis for AMD (drug re-purposing)<br />20. Eylea and Regeneron<br />21. Yervoy and cancer immunotherapy<br />22. Anti-PD1: Keytruda and Opdivo<br />23. Approved Anti-PD-L1 drugs<br />24. Dolly and Animal cloning: current status<br />25. Midterm Review<br />26. Stem Cells (Yamanaka Nobel paper) and Applications<br />27. IVF and Test Tube Babies: uses and misuses<br />28. Botox: discovery and mechanisms(virus budding, vesicle trafficking)<br />29. Abbvie-Allergan merger<br />30. CRISPR: technology and ethics of germline modifications<br />31. CRISPR: somatic CRISPR progress<br />32. Monsanto and Roundup<br />33. Golden Rice: Nobel laureates vs Greenpeace&nbsp;&nbsp;<br />34. Approved GM food (fish, tomato etc) and safety records<br />35. Biotech in Hong Kong(HKEX)<br />36. Biotech in China (CRO, CMO, Drug Discovery)<br />37. Biotech in US overview<br />38. Oxitech: bio-control of mosquitos<br />39. Landmark Supreme Court case: Prometheus vs Mayo Clinics<br />40. Pharmacogenomics and differential drug responses (Cyp450s)<br />41. ACT Genomics: comprehensive cancer gene profiling<br />42. 23andMe: consumer genomics industry<br />43. BGI<br />44. Illumina and Next Generation Sequencing (NGS)<br />45. Abbvie(US)<br />46. Novartis(Swiss)<br />47. Astra Zeneca(UK)<br />48. Takeda(Japan)<br />49. Superbugs and biologic warfare research<br />50. Abraxane and nanotech(HSA as nanoparticle carriers)<br />51. CAR-T(Chimeric Antigen Receptor) therapy<br />52. Mind-reading chips: Neuralink and others<br />53. Mini-brain and other lab-grown organs<br />54. Impossible Burger and Beyond Meat<br />------------------------<br />55. Final review by Ng",
+      "comment_teaching": "I have no idea what Karl Tsim is here for. <br />But then I am not sure if I have any idea what NG is here for as well. <br /><br />They are both good storytellers, I&#039;ll give them that. Their, very limited, teaching time is enjoyable enough.<br /><br />This course lets the students learn by teaching, through giving and listening to presentations. So, basically, all class content is taught by fellow students. I appreciate this style of learning, tho I can understand if some are opposed to it.<br /><br />NG gives important added information after each presentation, so listen up.",
+      "comment_grading": "Class participation (10%)<br />- attendance, Q&amp;A after each presentation<br />- discussions on CANVAS<br /><br />Group project (40%)<br />-3 randomly assigned students are formed into a group to resent on a topic.<br />- He briefly talked through each topic in the first two to three lessons.<br />- He will give very detailed comments and guidelines if you submit a draft early and ask him through email, so basically no difficulty preparing slides at all.<br /><br />Open book final (50%)<br />- 1.5hr<br />- Matching of topics to statements/technologies<br />-Section 3: Fill in the blanks<br />- VERY easy, too easy.",
+      "comment_workload": "VERY LIGHT.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "t7RPcbCpe4N1vUS57YDPcy0tTxIvad7i",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 0
+        },
+        {
+          "id": 772,
+          "name": "NG, Shi Chung",
+          "rating": 1
+        }
+      ],
+      "author": "chowjai",
+      "date": "Jan 01, 2021",
+      "title": "Little workload but overwhelming contents",
+      "comment_content": "The first two lectures are instructed by Professor Karl Tsim about Traditional Chinese Medicine(TCM), which is not tested in the Final.<br /><br />For Professor Ng&#039;s part:<br />He will teach nothing by himself. He has prepared 53 presentation topics and students will take turns to present in groups, literally students teaching students. Here are the topics:<br /><br />1. Influenza biology: Can 1918 “Spanish” flu virus be resurrected? Why vaccine every year? <br />2. HIV: biology led to drug treatment<br />3. HBV: Vaccines (inactivated, attenuated, protein subunits, VLP),Adjuvant(Heplisav B)Group 25<br />4. Covid-19: biology, vaccine development<br />5. Covid-19: diagnostics, therapeutics<br />6. Biotech and Forensics: the Golden State Killer (SNPs)<br />7. Biotech and Society: Zolgensma, the 2.1Mil drug for SMA and Spinaza<br />8. Biotech and Politics: US Eugenics Movement <br />9. Biotech and Politics: Eugenics Movement in Germany (Holocaust)<br />10. G-CSF: Neupogen/Neulasta/Zarxio (first FDA approved biosimilar 2015)<br />11. Recombinant Interferons and Pegylation (Avonex/Intron A/Pegasys)<br />12. Recombinant Interleukin and related drugs (Proleukin/Ontak/Anakinra)<br />13. Remicade and chimeric mAb<br />14. Enbrel and receptor-fusion protein<br />15. Humira (Antibody engineering and human mAb) <br />16. Herceptin and Breast Cancer: Biomarker and beginning of Personalized Medicine<br />17. Rituxan, Venclexta and lymphomas<br />18. Avastin for colon cancer<br />19. Lucentis for AMD (drug re-purposing)<br />20. Eylea and Regeneron<br />21. Yervoy and cancer immunotherapy<br />22. Anti-PD1: Keytruda and Opdivo<br />23. Approved Anti-PD-L1 drugs<br />24. Dolly and Animal cloning: current status<br />25. Midterm Review <br />26. Stem Cells (Yamanaka Nobel paper) and Applications<br />27. IVF and Test Tube Babies: uses and misuses<br />28. Botox: discovery and mechanisms(virus budding, vesicle trafficking)<br />29. Abbvie-Allergan merger<br />30. CRISPR: technology and ethics of germline modifications<br />31. CRISPR: somatic CRISPR progress<br />32. Monsanto and Roundup<br />33. Golden Rice: Nobel laureates vs Greenpeace&nbsp;&nbsp;<br />34. Approved GM food (fish, tomato etc) and safety records<br />35. Biotech in Hong Kong(HKEX)<br />36. Biotech in China (CRO, CMO, Drug Discovery)<br />37. Biotech in US overview<br />38. Oxitech: bio-control of mosquitos<br />39. Landmark Supreme Court case: Prometheus vs Mayo Clinics <br />40. Pharmacogenomics and differential drug responses (Cyp450s)<br />41. ACT Genomics: comprehensive cancer gene profiling <br />42. 23andMe: consumer genomics industry<br />43. BGI<br />44. Illumina and Next Generation Sequencing (NGS) <br />45. Abbvie(US)<br />46. Novartis(Swiss)<br />47. Astra Zeneca(UK)<br />48. Takeda(Japan)<br />49. Superbugs and biologic warfare research<br />50. Abraxane and nanotech(HSA as nanoparticle carriers)<br />51. CAR-T(Chimeric Antigen Receptor) therapy<br />52. Mind-reading chips: Neuralink and others<br />53. Mini-brain and other lab-grown organs<br />54. Impossible Burger and Beyond Meat<br />55. Final review",
+      "comment_teaching": "The teaching part is done by my classmates, so it depends",
+      "comment_grading": "Class participation (10%)<br />-attendance &amp; discussion board<br /><br />Group project (40%)<br />-3 students per group(he formed for us), each group present for one of those 53 topics. <br />-He will give very detailed comments and guidelines if you submit a draft early and ask him through email, so basically no difficulty preparing slides at all.<br /><br />Open book final (50%)<br />-1.5hr<br />-Section 1&amp;2: 26*26 matching<br />-Section 3: Fill in the blanks<br />(testing your instant searching skills 鬥快㩒F3)<br /><br /><br /><br />Unknown scores for all three parts, overall A+<br />For your reference, I have:<br />-full attended but not paying attention at all :)<br />-asked about 5 questions on discussion board<br />-fulfilled all requirements in the guideline email<br />-minimal presentation skills(just read slides lol)<br />-start watching lecture videos on the day before final<br />-finishing the final just on time (non-stop F3ing throughout the 1.5hr)",
+      "comment_workload": "very low",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "mFlV9PShDh1LkkgArISNiJhsZsGbxxn1",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 772,
+          "name": "NG, Shi Chung",
+          "rating": 1
+        }
+      ],
+      "author": "Kabul",
+      "date": "Dec 21, 2019",
+      "title": "A biotech literacy course",
+      "comment_content": "A series of issues every biotech graduate should know. Everything taught in the course is just fxxking important and is exactly what we need to bluff about in a job interview in a biotech firm. I sincerely wish I&#039;d taken this course before my internship in AZ. If so, I wouldn&#039;t have sounded like a &quot;biotech illiterate&quot; in the job interview.<br /><br />Biotech and Society<br />🔷 Drug pricing debates in China<br />🔷 Drug pricing debates in USA<br />🔷 Bad Blood<br />🔷 M&amp;A: BMS Acquisition of Celgene<br />🔷 Biotech and Culture: GATTACA<br />🔷 Biotech and Forensics: the Golden State killer<br /><br />Legacy Biotech Products<br />🔷 EPO and Amgen<br />🔷 GH and Genentech<br />🔷 Insulin and Novo Nordisk<br /><br />Top Biotech Therapeutics<br />🔷 Remicade (chimeric mAb)<br />🔷 Enbrel (fusion protein)<br />🔷 Humira (human mAb)<br />🔷 Herceptin and Breast Cancer<br />🔷 Rituxan and lymphomas<br />🔷 Avastin for colon cancer<br />🔷 Lucentis for AMD (drug re-purposing)<br />🔷 Eylea and Regeneron<br />🔷 Cancer immunotherapy: Yervoy and Oncolytic HSV<br />🔷 Anti-PD1: Keytruda and Opdivo<br />🔷 Antisense drugs<br />🔷 Vertex and cystic fibrosis drug<br />🔷 Provenge and cancer vaccine<br /><br />Biotech and Politics<br />🔷 Eugenics movement in USA<br />🔷 Eugenics movement in Germany (Holocaust)<br /><br />Key Biotech Developments<br />🔷 Dolly and Animal cloning<br />🔷 Stem Cells<br />🔷 In Vitro Fertilization (IVF)<br />🔷 Preimplantation Genetic Diagnosis (PGD)<br />🔷 Germline CRISPR<br />🔷 Somatic CRISPR<br /><br />Biotech and Laws<br />🔷 US patent laws<br />🔷 America Invent Act (AIA)<br />🔷 Landmark Supreme Court case: Myriad and BRCA1<br /><br />Cancer Biomarkers<br />🔷 Biomarker for Erbitux (Ras)<br />🔷 Biomarker for Herceptin (FISH and IHC)<br /><br />Biotech, Agriculture and Aquaculture<br />🔷 Monsanto and Roundup<br />🔷 Golden Rice: Nobel laureates vs Greenpeace<br />🔷 AquAdvantage and US Food Labeling<br /><br />Biotech in Asia<br />🔷 Biotech in Hong Kong<br />🔷 Biotech in China<br />🔷 Biotech in Korea<br /><br />Clinical Development<br />🔷 Clinical trials: IND and NDA<br /><br />Successful Pharmas<br />🔷 Pfizer (US)<br />🔷 Roche (Swiss)<br />🔷 GSK (UK)<br /><br />Biotech Industry Outlook<br />🔷 Venture capitals (VCs) and career<br />🔷 Botox and cosmetics biotech<br />🔷 Pharmacogenomics and differential drug responses (Cyp450s)<br />🔷 ACT Genomics: comprehensive cancer gene profiling<br />🔷 23&amp;Me: consumer genomics industry",
+      "comment_teaching": "I love this inverted learning mode of instruction. We learn the best by working on projects ourselves and articulating to others what we&#039;ve learnt in our projects. In the meantime, SC Ng will highlight important points in the student presentations, raise important questions for more in-depth discussion, correct our mistakes if we&#039;ve made any. Overall an all-rounded and practical course.",
+      "comment_grading": "✏️ Midterm: 30%<br />✏️ Final: 35%<br />💬 Project: 35%<br /><br />The midterm was a few fill-in-the-blank plus one 26 mix-and-match question. For unknown reason a lot of us didn&#039;t do well (considering that was a rather easy exam). Our score ranged from 3 out of 40 to perfect score, and class average was merely 23/40.<br /><br />Due to the political situation in Hong Kong, the final became an online open-book exam. We were given 3 hours just to complete five fill-in-the-blank questions and one 26 mix-and-match question, and the exam only covered the content taught after the midterm. I believe that was just a special case this year - from what I&#039;ve heard the final exam used to be very difficult in the past years, and it should be cumulative. SC Ng has been very generous in handling the special situation this year.<br /><br />💯 I got 33/40 (Mean = 23.0, SD = 7.8) in the midterm, unknown score in both the presentation and final, ending up in an A.",
+      "comment_workload": "Pretty light workload for a life sciences course. It isn&#039;t about rote memorization of these tedious biochemical pathways and messy information, but rather the understanding of critical biotech issues, and some key facts and figures that every biotech graduate should remember. The group project does take some time to work on, and SC Ng might even ask you to improve your slides (our group had to revise our slides twice after our first submission). But overall it&#039;s a rewarding experience.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "nVdlJI12hlEwZsoAfNoQNNKRLzpxVHEa",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 772,
+          "name": "NG, Shi Chung",
+          "rating": 1
+        },
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        }
+      ],
+      "author": "hoiyan",
+      "date": "Dec 29, 2017",
+      "title": "useful course",
+      "comment_content": "The lecture is updated and informative that includes information of the newest techniques, introduction of top selling drugs and famous biotech companies. The lecture was in the form of group presentations. Every group was responsible for an assigned topic and then we have 20 minutes to deliver the talk within lesson.<br /><br />Topics in 17-18 fall includes: <br />Drugs: Afreeza, remicade,&nbsp;&nbsp;humira, Herceptin, Avastin, Lucentis, enbrel<br />Companies: celgene, abbott, gilead, 23&amp;me, novartis, BGI, amgen, roche<br />techniques: cloning, stem cells, botox, golden rice, cancer immunotherapy, car-T<br />Others: venture capital, etc.<br /><br />I guess the topics will be similar for the upcoming semesters but may change with the trend in market.",
+      "comment_teaching": "Even most lecture content were delivered through students&#039; presentations, NG also told us lots of supplemental information, and most importantly, what he mentioned in lessons are the key points that appear in the exams, so do attend every lessons and mark things down.",
+      "comment_grading": "The grading was quite lenient.<br /><br />Mid-term examination 30%<br />Project 20%<br />Final Examination 50%<br /><br />I got 27/30 for midterm. Unknown for the project and final. Finally i got a B+. i am satisfied.",
+      "comment_workload": "The workload is light up till midterm exam, just one present and the midterm was quite easy and straightforward. About 1/3 students got 90% or above. But for the final, it will be a little bit harder since it is accumulative, you will need to study lots of drugs and companies. But i think it&#039;s okay if u attended lessons coz then you will have some basic ideas before revising. and the final exam was not difficult either.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "VThaZ3g0xe03jJDYz3k8brazbcOQMbMu",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 772,
+          "name": "NG, Shi Chung",
+          "rating": 1
+        }
+      ],
+      "author": "qorhvk",
+      "date": "Dec 23, 2017",
+      "title": "",
+      "comment_content": "Super useful and interesting. It is heavily based on the presentation given by the students. The professor only teaches like 4 lectures (just add and drop), but I hoped he could do more as his lecture was really enlightening.<br /><br />He starts with basic biotech issues and concepts: insulin, genentech and current issues in biotech industry. After that, every lecture is about student&#039;s presentation. It is supposed to be 20 mins per group (2-3 persons, mostly 2), but if the topic is intriguing, he is indulgent with time. The topic covers from movies related to biotech ethics to current biotech companies and top-selling drugs. It was a meaningful lecture to know more and deeper about the biotech in real life.",
+      "comment_teaching": "He is multi-disciplined, kind and intellectual. A bit of disappointment that he gets to teach only 4 lectures. He welcomes students with career woes so feel free to talk with him. He is not reluctant to help and give advice to students at anytime.",
+      "comment_grading": "Not sure about the grading but I think he tried to give as many of A and B as possible. <br /><br />Midterm 30<br />Presentation 20<br />Final 50<br /><br />Final was not shown on canvas so not sure about it but I got pretty good grades.",
+      "comment_workload": "The presentation workload, I believe, depends on what topic you chose and when it is. The presentation is from very first week to very last week, so select the topic smartly according to your schedule. <br />Midterm workload was okay. Actually he gave lots of hints about what would be tested, and a lot of people got almost 100. I think thats why he did not mention anything in the final though. <br />Final workload was huge. All the companies and drugs.. Take some time to study thoroughly.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "2sdWUyVCSlN14j0ZK9ixk21jsfJHF4zI",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 772,
+          "name": "NG, Shi Chung",
+          "rating": 1
+        }
+      ],
+      "author": "fierce_bad_girl",
+      "date": "Nov 30, 2016",
+      "title": "",
+      "comment_content": "Aha! A space virgin course.<br />To be frank even somebody as cynical as I am (see review on LIFS 3160) couldn&#039;t find much to get pissed at over this course. <br /><br />Dr. Ng started with an overview of first generation biotech drugs like insulin and some slightly technical recombinant DNA techniques. He then moved on to student presentations for most of the course, but you could see that he was actually good at what he did - he basically knew everything the presenters were on about off the top of his head and asked critical questions to help us think. <br /><br />The course was more drug development and business-focused than biochemistry-related, which was a great change from all the technical courses you poor suckers have been doing.",
+      "comment_teaching": "He&#039;s great! Multidisciplinary, super fast with emails, business-focused and sharp, he&#039;s awesome. Worked as head of R&amp;D in the States for 30-odd years. Nothing more to be said.",
+      "comment_grading": "He&#039;s super fucking nice. He tried to give half the class an A, the LIFS committee got pissed at him and he crammed absolute grading down their bloody throats. <br />He gave me two hours worth of career advice and agreed to an interview I was doing for a sociology class. <br />I fucking love this dude.<br />The exams were nice and easy, a breeze to blow through, because he says they&#039;re designed that way so we get treated better in the hell that is SSCI, HKUST within the context of the ridiculous grade inflation in HKU and CUHK.",
+      "comment_workload": "Not light, I have to say (although I do respect professors who actually give enough fucks about their students to grade all their work). <br /><br />You can pick to teach an individual or a group (2-3 people) one hour seminar on any aspect of biology you want - lots of people do &quot;Biotech in [insert continent/region]&quot; and present on the big pharma and their drugs and the deals (acquisitions and mergers) that have been made.&nbsp;&nbsp;<br />I did an individual seminar because I did not some freerider to go home crying to mommy. It was pretty awesome.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

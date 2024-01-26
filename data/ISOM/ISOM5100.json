@@ -1,0 +1,80 @@
+{
+  "course": {
+    "id": 1748,
+    "subject": "ISOM",
+    "code": "5100",
+    "name": "Information Strategy and Management",
+    "description": "Examination of economic principles of information systems strategy, highlighting application of economics and management principles to the unique environment of information services and information-enabled competition.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ISOM\" data-code=\"5020\" href=\"/review/ISOM5020\" target=\"_blank\">ISOM 5020</a>",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 384,
+        "name": "JAISINGH, Jeevan",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "T67GgLaFbKZd98Tl9TwxFcN116Us1aHz",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 384,
+          "name": "JAISINGH, Jeevan",
+          "rating": 1
+        }
+      ],
+      "author": "Thomsonlight",
+      "date": "Jan 02, 2020",
+      "title": "Excellent course with outstanding professor",
+      "comment_content": "The content is very interesting. It introduces the trend in business IT and trains our mindset in deciding what to invest. It is not technical and well designed for a businessman.",
+      "comment_teaching": "G1 is always an excellent professor. His class is very interesting. He is very experienced in teaching people. He is able to introduce the concepts in an easy way.",
+      "comment_grading": "The grade is good as long as you have completed all assignments and done enough revisions.",
+      "comment_workload": "The workload is heavy. There are a reading every week and 2 project assignments throughout the course. It also covers lots of topics. So your revision may also be time consuming.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

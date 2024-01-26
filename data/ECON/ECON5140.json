@@ -1,0 +1,80 @@
+{
+  "course": {
+    "id": 1650,
+    "subject": "ECON",
+    "code": "5140",
+    "name": "Macroeconomic Analysis",
+    "description": "Stylized facts about the macroeconomy; microfoundations of macroeconomics; dynamic stochastic models as tools to understand inflation, unemployment, business cycles and growth; fiscal and monetary policies.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ECON\" data-code=\"5250\" href=\"/review/ECON5250\" target=\"_blank\">ECON 5250</a>",
+    "rating_content": 4,
+    "rating_teaching": 3,
+    "rating_grading": 4,
+    "rating_workload": 2,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 138,
+        "name": "COOK, David Edward",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "Io16Rbo2qD0ZGlQmcQll8XWhnyNa3C9l",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 138,
+          "name": "COOK, David Edward",
+          "rating": 1
+        }
+      ],
+      "author": "kkkfighting",
+      "date": "Oct 18, 2020",
+      "title": "",
+      "comment_content": "It is easy to understand and learn the materials provided by the prof.",
+      "comment_teaching": "Teaching is good and he is very nice that allow a A4 cheat-sheet to be taken into the Mid and Final exam. That help me a lot.",
+      "comment_grading": "The grading, to be honestly, is not good enough. Most of student seems only get B+. Really really a small part of students get the A- or A.",
+      "comment_workload": "The workload is too little to finised. You can do the part-time intern. The calss will not record the attendance.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

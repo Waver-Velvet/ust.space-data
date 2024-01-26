@@ -1,0 +1,80 @@
+{
+  "course": {
+    "id": 2994,
+    "subject": "ISOM",
+    "code": "3340",
+    "name": "Developing AI Applications",
+    "description": "This course is intended to train students to learn and develop AI applications by using practical and useful development tools. Students will learn basic AI models and analyze their advantages and disadvantages when they are applied in AI applications. The course is divided into 4-day intensive classes. It consists of two parts. The first part covers basic machine learning models and related tools. The second part introduces the development environment, tools, and hands-on labs for training, testing and evaluating AI applications using AI development tools. Having programming knowledge is a plus. Graded P or F.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2110,
+      2030,
+      2010,
+      1930,
+      1910
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 961,
+        "name": "WANG, Jiying",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "2PLCw8CMsUDNjvksNBojkrq7ga9zgm20",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 961,
+          "name": "WANG, Jiying",
+          "rating": 1
+        }
+      ],
+      "author": "Stellar123",
+      "date": "Mar 23, 2022",
+      "title": "",
+      "comment_content": "AI stuff including Intro to AI and machine learning, Natural language processing, Chatbot development and Deep learning for computer vision.&nbsp;&nbsp;Lab involves use of IBM Watson Studio and Microsoft Azure.",
+      "comment_teaching": "Professor is passionate about the subject and is able to introduce different topics in a clear manner.&nbsp;&nbsp;Sometimes she drops us related links to certain resources and websites which I find useful.",
+      "comment_grading": "Pass/Fail grading.&nbsp;&nbsp;You need to get at least 60% out of 100% for a pass.&nbsp;&nbsp;Not difficult to get a pass since completing all lab assignments correctly will already give you 40%.",
+      "comment_workload": "Workload is adequate.&nbsp;&nbsp;There are 4 lab assignments of 10% each, Attendance and Participation of 10% and a Group Project of 50%.&nbsp;&nbsp;Each lab assignment takes around 1.5 hours to finish.&nbsp;&nbsp;There are also 4 teaching weeks with class every two weeks.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

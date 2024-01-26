@@ -1,0 +1,652 @@
+{
+  "course": {
+    "id": 683,
+    "subject": "ISOM",
+    "code": "3260",
+    "name": "Database Design and Administration",
+    "description": "Fundamental concepts of database management systems and their usage for managing the information resources of an organization; methodologies for designing and managing a database system to support business applications.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2330,
+      2310,
+      2230,
+      2210,
+      2130,
+      2110,
+      2030,
+      2010,
+      1930,
+      1910,
+      1830,
+      1810,
+      1730,
+      1710,
+      1630,
+      1610,
+      1530,
+      1510,
+      1430,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3230\" href=\"/review/ISOM3230\" target=\"_blank\">ISOM 3230</a> OR <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3320\" href=\"/review/ISOM3320\" target=\"_blank\">ISOM 3320</a> OR <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3400\" href=\"/review/ISOM3400\" target=\"_blank\">ISOM 3400</a>",
+    "corequisites": "<a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3210\" href=\"/review/ISOM3210\" target=\"_blank\">ISOM 3210</a>",
+    "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"3311\" href=\"/review/COMP3311\" target=\"_blank\">COMP 3311</a>, <a class=\"course-link\" data-subject=\"IEDA\" data-code=\"3300\" href=\"/review/IEDA3300\" target=\"_blank\">IEDA 3300</a>",
+    "rating_content": 4.4,
+    "rating_teaching": 4.4,
+    "rating_grading": 4.07,
+    "rating_workload": 2.2,
+    "review_count": 15,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 377,
+        "name": "CHEUNG, Yat Ming",
+        "count": 9
+      },
+      {
+        "id": 949,
+        "name": "LAI, Sum Yu",
+        "count": 8
+      },
+      {
+        "id": 400,
+        "name": "THONG, James Yeong Liang",
+        "count": 5
+      },
+      {
+        "id": 374,
+        "name": "TSE, Sheung Hei Chris",
+        "count": 3
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "PQ6UgGXzPNgDM4XHzFrZF4ykbUOpgjf8",
+      "semester": "2022-23 Spring",
+      "instructors": [],
+      "author": "nek",
+      "date": "Sep 21, 2023",
+      "title": "Spend lots of time on python...",
+      "comment_content": "- ER Diagram<br />- Normalization<br />- SQL<br /><br /><br />Online Video:<br />You have to watch some online videos and finish a quiz on canvas before you go to the lecture.<br /><br />Lecture:<br />Prof will go through some key points and give some time for us to do practice questions. <br /><br />Tutorial:<br />This is for your project. TA will show some python codes that you may use in the project.&nbsp;&nbsp;For students who already know python before, you can easily integrate those code to your project.",
+      "comment_teaching": "Sometimes, the prof is unfamiliar with the practice questions, so he might make some mistakes when explaining the answers. <br /><br />TA is helpful and willing to answer student&#039;s question.",
+      "comment_grading": "- Online ex 5%<br />- Lecture and Lab ex 10% (you can get full marks, if you attend and submit something)<br />- Quiz 20%<br />- Exam 30%<br />- Group Project 35%<br /><br />(For Exam, one question is similar to what you did for the group project. So make sure you can write those codes on paper, not typing with keyboard.)",
+      "comment_workload": "The project scope is quite big, and time-consuming. Most of the time are not spent on doing SQL / database structure, but doing the UI / fixing bugs with python.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "tvdyjr0qSe8Iiwe5FcXMsJYl1LRUbBWo",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 377,
+          "name": "CHEUNG, Yat Ming",
+          "rating": 1
+        },
+        {
+          "id": 949,
+          "name": "LAI, Sum Yu",
+          "rating": 1
+        }
+      ],
+      "author": "ikkhy",
+      "date": "May 27, 2023",
+      "title": "A course that needs huge workloads",
+      "comment_content": "If you are interested in database design, this course is useful as it teaches you knowledge in how to create database, draw diagrams and use SQL and Oracle.",
+      "comment_teaching": "Muller is a great professor with clear teaching and presentation. He is also nice and willing to ans your questions.",
+      "comment_grading": "The grading is acceptable. I think the project and final exam matter as you have to handwrite codes in your exam while the project involves lots of coding (I think these two parts should be the areas that scores vary among classmates). If you work hard in these two parts, you will get satisfactory grades.",
+      "comment_workload": "I think the workload is heavy (more than 4 credits in my opinion) as you need to attend a 2-hr lecture and 2-hr lab every week while the project is complicated since you need to build the database from scratch. Coding knowledge from ISOM 2020 is not enough. You need to keep googling it and debugging.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "lB4GHKlWSmddUiUZsxLpNhI7kQWcREue",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 374,
+          "name": "TSE, Sheung Hei Chris",
+          "rating": 1
+        },
+        {
+          "id": 400,
+          "name": "THONG, James Yeong Liang",
+          "rating": 1
+        }
+      ],
+      "author": "Stellar123",
+      "date": "May 19, 2023",
+      "title": "",
+      "comment_content": "Lecture: ER &amp; Enhanced ER diagram, Relations, Normalisation, SQL queries, other stuff related to databases like data security<br />Lab: Oracle sqldeveloper, Oracle datamodeler, creating an interactive UI to manipulate sql databases using python and libraries such as ipywidgets in Google Colab",
+      "comment_teaching": "Both the prof and ta Chris teaches well in their lectures and labs respectively and are helpful.",
+      "comment_grading": "Normal grading, Pay attention to the project",
+      "comment_workload": "The workload should be lighter than the previous years since the tools used in the group project are only Oracle sqldeveloper, Oracle datamodeler and Google Colab now, though it&#039;s still heavy and depends on your groupmates&#039; attitudes and abilities.&nbsp;&nbsp;There are no more “software only available in G005” issues now, which means you can work on your project anywhere on your laptop with your groupmates (even remotely) as long as you have access to the aforementioned applications.&nbsp;&nbsp;Expect to use Python for the project since ipywidgets’ taught during the lab for the interface creation. <br />Speaking as someone who had never touched on python again since ISOM2020, just ISOM2020/basic programming logic knowledge is enough to handle the course and complete the project in python.&nbsp;&nbsp;<br />For the final exam, do not think you can just shit the project and that&#039;s the full extent of your loss, because the very same project python codes taught in labs will come back later to haunt you again in the finals if you don’t understand how they work. And I think you are good to go if you care to spare some time to find some more online exercises to do for your exam preparations (eg. SQL).",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "J7sOvguyrMvXCOovvew2xbxDvervi05J",
+      "semester": "2020-21 Winter",
+      "instructors": [
+        {
+          "id": 400,
+          "name": "THONG, James Yeong Liang",
+          "rating": 0
+        }
+      ],
+      "author": "xxxyyy",
+      "date": "Aug 05, 2022",
+      "title": "",
+      "comment_content": "Database fundamentals<br />==&gt; database environment and development process<br />Database analysis<br />==&gt; entity-relationship (ER) diagram<br />==&gt; enhanced ER diagram<br />Logical database design<br />==&gt; transforming ER diagram into relations; normalization<br />Physical database design<br />==&gt; technical specifications of the database<br />Database implementation<br />==&gt; structured query language (SQL)<br />Data and database administration/security<br />==&gt; data security; database backup and recovery",
+      "comment_teaching": "disrespectful prof always teases students who got the wrong ans. And the prof is kinda annoying during the exam (keep talking)",
+      "comment_grading": "Online Exercises [for video lectures]&nbsp;&nbsp;5% <br />Lecture and Lab exercises&nbsp;&nbsp;&nbsp;10% <br />Exam (Project/Lab content)&nbsp;&nbsp;&nbsp;10%<br />Exam (Lecture content)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;35% <br />Project Progress Demonstration&nbsp;&nbsp;&nbsp;5%<br />Project Demonstration and Final Report&nbsp;&nbsp;&nbsp;&nbsp;35%",
+      "comment_workload": "everyone is rushing for the project in the last 1-2 weeks. it will be quite tough for you if you or your groupmates are not excellent at python / vba.",
+      "rating_content": 3,
+      "rating_teaching": 2,
+      "rating_grading": 3,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "LOvemw2K1qq8W2HiCzhWdObIpv81LxaS",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 400,
+          "name": "THONG, James Yeong Liang",
+          "rating": 1
+        },
+        {
+          "id": 949,
+          "name": "LAI, Sum Yu",
+          "rating": 1
+        }
+      ],
+      "author": "Sfvpcwl",
+      "date": "Jun 13, 2022",
+      "title": "More than Ok",
+      "comment_content": "As others mentioned: Those old stuffs that never changed.<br /><br />Database fundamentals<br />==&gt; database environment and development process<br />Database analysis<br />==&gt; entity-relationship (ER) diagram<br />==&gt; enhanced ER diagram<br />Logical database design<br />==&gt; transforming ER diagram into relations; normalization<br />Physical database design<br />==&gt; technical specifications of the database<br />Database implementation<br />==&gt; structured query language (SQL)<br />Data and database administration/security<br />==&gt; data security; database backup and recovery",
+      "comment_teaching": "Ok la, as this is an online semester. Basically, you just need to watch the online video and use more than half of the lecture time to do inclass exercises. Those difficulties are manageable. James is quite fun and interesting in teaching as well, as he sometimes would ask other students to answer another student&#039;s question.",
+      "comment_grading": "Quite lenient for this professor<br /><br />Total: 81.39% (B+)<br /><br />Individual <br />Online Exercises [for video lectures]&nbsp;&nbsp;5% (5%)<br />Lecture and Lab exercises&nbsp;&nbsp;&nbsp;10% (10%)<br />Exam (Project/Lab content)&nbsp;&nbsp;&nbsp;10% <br />Exam (Lecture content)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;35% (Exam: 35.49%)<br /><br />Group <br />Project Progress Demonstration&nbsp;&nbsp;&nbsp;5% <br />Project Demonstration and Final Report&nbsp;&nbsp;&nbsp;&nbsp;35%&nbsp;&nbsp;(Project:31%)<br /><br />Lab and in class participation (15%) are free and solely based on attendance/completion/ submit some really minor stuff (e.g. what&#039;s the name of Samuel&#039;s dogs)<br /><br />For the project, I think our group finishes 60-70%, with 1 extra functional requirement.<br /><br />For the final exam, I think I manage to finish ~70%, as James mentioned the questions are designed to be too hard to finish all to prevent online cheating.<br /><br />No need to panic and since the grading of your system is very subjective, just accept the fact of your letter grade and don&#039;t bother to argue, you can never/ hardly argue against to one of the inventors of our most user-friendly and functionally competent SIS.<br /><br />4 cred but ok workload to get B range.",
+      "comment_workload": "Our group not even starting the programming 5 days before the progress demo; and we uses around 1.5 weeks to finish the whole project. It may be tough for some excllence-chaser student, but I think 1~2 weeks full turbo is more than enough for finishing the project.<br /><br />Our group does not have a lot of expert in SQL/Python, but of coz it would be even more easier if you can:<br />1. Have some prior project experience on python<br />2. Have the maximum amount of group members",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "9Y20ZqqVWu5YHf3M6jJrtRfPgQ9zmZzl",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 377,
+          "name": "CHEUNG, Yat Ming",
+          "rating": 1
+        },
+        {
+          "id": 949,
+          "name": "LAI, Sum Yu",
+          "rating": 0
+        }
+      ],
+      "author": "chelsea111",
+      "date": "Jan 05, 2022",
+      "title": "Rubbish Project... Make sure you know Python well before registration...",
+      "comment_content": "Advanced ER Diagram<br />Relational Data Model<br />SQL<br />ER Diagrams Transformation<br />Normalization<br /><br />In general, this course teach you how to design a database and bring it to life. It has overlaps with ISOM3210, but only a little.",
+      "comment_teaching": "I would say Mr. Cheung is a great teacher. He is responsible and caring. He is always well-prepared in lectures, and can explain concepts in a clear, understandable, structured and detailed way. If this is a required course for you, then you should register Mr. Cheung&#039;s class.<br />For the TA Samuel, IS students should be familiar with him. He is a cute guy and knowledgable in this area. However, he is always busy, so you should try asking all your questions in labs, otherwise it would be hard to find him....",
+      "comment_grading": "Totally shit...<br />This semester, our assessments are:<br />40% - Project (Demonstration+Code+Final Report)<br />30% - 3 Assignments<br />30% - Inclass submissions, Online submissions (which are before each lecture), Lab submissions<br /><br />I guess everyone can get full mark in all the submissions and receive similar scores in assignments. So, our final grade totally depends on the project. And the problem is that, this should be an SQL course, but the project is actually testing your Python skills instead of proficiency in SQL (which I think is extremely unreasonable). We had to build the user interface in Python and the TA only gave us little reference Python code that was far from enough. I would say you can only receive an F if you solely relied on the TA&#039;s code. <br />And unfortunately, my group only had 5 people (other groups had 6-7 people), and most of us weren&#039;t familiar with Python. Our group tried really really hard, but I still received C range in the end that pulled down my grade a lot.<br /><br />So my suggestions are: 1. Don&#039;t take this course; 2. Find good groupmates; 3. Be proficient in Python.",
+      "comment_workload": "Low workload in the first half, but a lot to do in the second half.<br />We couldn&#039;t start the coding before TA told us the requirements of user interface. But he just talked about that part in the last few labs, leaving little time to students.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "YPh2lSnIFMEwuWkYMllWtDThEsc9Rz4E",
+          "name": "ISOM3260 Syllabus 2021Fall",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "OPiE169dfQ4LdZm7pqA1HzGiRT3D6qzS",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 400,
+          "name": "THONG, James Yeong Liang",
+          "rating": 0
+        },
+        {
+          "id": 949,
+          "name": "LAI, Sum Yu",
+          "rating": 1
+        }
+      ],
+      "author": "kiwifruit",
+      "date": "Jun 20, 2021",
+      "title": "FIND SOME GOOD GROUPMATES",
+      "comment_content": "Database fundamentals<br />==&gt; database environment and development process<br />Database analysis<br />==&gt; entity-relationship (ER) diagram<br />==&gt; enhanced ER diagram<br />Logical database design<br />==&gt; transforming ER diagram into relations; normalization<br />Physical database design<br />==&gt; technical specifications of the database<br />Database implementation<br />==&gt; structured query language (SQL)<br />Data and database administration/security<br />==&gt; data security; database backup and recovery<br /><br />Overall PPT Content is not too hard to follow as a total beginner in SQL. However, the project requires u to have prior programming knowledge to build a &quot;simple&quot; system using Python/ VBA/ Java and utilize the SQL commands to satisfy the project requirements. It may be complicated for some students.",
+      "comment_teaching": "Prof: His ppt is organised and he teaches the concept quite clearly (though his pace is quite fast and he has a strong Singaporean accent). However the way he organises the lectures or project is quite disastrous. He never reveals the solution for exercises and somehow he prohibits the TA to give useful comments to the project. Therefore, students are always confused with the requirements. The project&#039;s sample data was sent 2 days before the deadline (if I&#039;ve remembered correctly), some groups may not have enough time to change the codes to fit the data. Most importantly, idk why he likes to laugh at inappropriate times and it is quite disturbing.<br /><br />TA: Helpful in general and will answer your questions regarding the project promptly.",
+      "comment_grading": "Only the final grade is being revealed. We do not know the exam/project scores.<br /><br />For the project, I believe we satisfied ~80% of the compulsory project requirements + some optional extra requirements.<br /><br />For the exam, just try your best to finish it within the time limit as prof designed long questions to prevent ppl from cheating. Don&#039;t panic.<br /><br />Final grade is within A range.",
+      "comment_workload": "Start the project around 1 month before the deadline and make sure you have weekly progress (unless u are SQL god) because it takes time to type and compile the codes and FIX BUGS. <br /><br />Bless you if you have freeriders/ groupmates who dunno programming languages.<br /><br />For the exam, nothing special, rmb to revise.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "PlrTioNGIJtgAEaPDXLLkYDSZD78r5H4",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 400,
+          "name": "THONG, James Yeong Liang",
+          "rating": 1
+        }
+      ],
+      "author": "chesterwong",
+      "date": "Jun 24, 2020",
+      "title": "A &#039;chur&#039; but insightful course",
+      "comment_content": "It is a practical and technical course. It required many of your own knowledge/ mindset to build a database and a purchase system. This&nbsp;&nbsp;course&nbsp;&nbsp;emphasizes&nbsp;&nbsp;both&nbsp;&nbsp;theories&nbsp;&nbsp;and&nbsp;&nbsp;hands-on&nbsp;&nbsp;experience. It includes&nbsp;&nbsp;a&nbsp;&nbsp;group&nbsp;&nbsp;project&nbsp;&nbsp;in&nbsp;&nbsp;which&nbsp;&nbsp;students&nbsp;&nbsp;design&nbsp;&nbsp;and&nbsp;&nbsp;implement a database system to solve a practical business problem. Oracle will be used as the main software package for students to gain hands-on experience.<br /><br />Usage of software will be taught during lectures which is so useful so make sure you download it before class.",
+      "comment_teaching": "James is a good professor as he was able to answer different kinds of question given some of them are too situational. Samuel is a fun tutor and he always try to interact with students though it is hard through zoom.",
+      "comment_grading": "Individual Lab Submissions 10%<br />Quiz (Lecture and lab materials)40%<br />Group Progress Demonstration 10%<br />Project Demonstration and Final Report 40%<br />In COVID sem, two quiz was merged to one, and that one quiz was hard as hell. The time was inadequate and I only completed 6-70% of it. However, I still managed to get a B+ so I think project was counted heavily.",
+      "comment_workload": "Although the syllabus was already cut. It was still HEAVY in workload. Especially before project demonstration. In our semester, the deadline was postponed since everyone request for more time to work on it. So avoid being a deadline fighter in this course otherwise you will only be able to present a half done system and get a bad grade!",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "PsOJ7MuYXvVx09wxM2ntYgfaub1yURSx",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 377,
+          "name": "CHEUNG, Yat Ming",
+          "rating": 1
+        }
+      ],
+      "author": "avv",
+      "date": "Jun 25, 2019",
+      "title": "Hardest IS course",
+      "comment_content": "Most technical IS course as it requires extensive SQL programming knowledge in order to build a database system for the project. <br /><br />Note that SQL will be taught in lectures, however for the project, PL/SQL will need to be used. So make sure you learn both effectively. <br /><br />For the project, you will need to use 3 software programs, Toad Data Modeler, SQLTools and Oracle Forms. Get familiarized with them asap as the can be confusing to use at the start. <br /><br />Toad Data Modeler will be used mainly at the start of the semester to build the ER diagram. <br />Then you will need to use Oracle Forms to build the actual interface of the database and SQLTools for data validation, testing, debugging etc. <br /><br />This course can be quite challenging at times if you&#039;re not a technical person so it is imperative that you put extra effort into it. Depending on your groupmates&#039; preferences, you can work on the ER diagram, project reports and build the easier functions for the database. If you can get the help of people who are experienced in SQL, that will be very helpful as you can get your work done faster rather than spending ages trying to figure out what is wrong in your code.",
+      "comment_teaching": "As mentioned in other reviews, Muller is a great professor and he is very helpful. <br /><br />I have sat even in James&#039;s classes and he is also pretty good. He tends to explain in a more conversational way and expects students to actually do the exercises beforehand as he will ask volunteers to do the exercises on the board. Whereas Muller would solve it in class one by one. <br /><br />Samuel is a great TA and he explains very well. He has been teaching this course for years now so pay attention to the tips he&#039;d give for the project.",
+      "comment_grading": "Project accounts a large percentage of the grade, so you need to work hard and contribute as much as possible. There will be 2 peer evaluations in the semester, the 2nd one will affect your final project score. Make sure you form a good group as you&#039;ll need to meet your teammates frequently throughout the semester. <br /><br />The midterm and final are more or less straightforward, just do the assigned exercises thoroughly and understand the lecture content well and you&#039;d be just fine.",
+      "comment_workload": "You&#039;d probably know by now. The course is extremely heavy in workload. The reason being that the software that needs to be used for this project is only available in the lab computers. A few people managed to install the software on their personal computers/ laptops. Samuel will probably tell you the details about it in the lab, but this method can be very difficult as personal laptops don&#039;t have the processing power required to handle these software programs.<br /><br />Expect to work on the project about 2-3 times a week assuming nobody in your group has any SQL background and towards the project demo, you could literally be coming everyday to the lab to work on it. I&#039;d advise you do this course in a semester where you don&#039;t have other challenging courses or else your workload will be too much too handle. Otherwise if you can manage to do this course on your Exchange, please do so and avoid the pain that you&#039;d potentially need to experience at UST. <br /><br />Get started on the project once the ER diagram concepts have been taught as this will form the foundation for the rest of your project. There will be 2 project demonstrations in the semester, so as they draw closer, the labs would be full and hard to secure a good computer as some barely work. Plus the lab tends to stink quite bad cuz of the number of people inside and food :P",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "eOan9zoSM2KKSKvzrAPx6MjLjUfjHByd",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 377,
+          "name": "CHEUNG, Yat Ming",
+          "rating": 1
+        },
+        {
+          "id": 949,
+          "name": "LAI, Sum Yu",
+          "rating": 1
+        }
+      ],
+      "author": "xxxxxxx",
+      "date": "Jun 13, 2019",
+      "title": "",
+      "comment_content": "This course covers the basic concepts and principles of database design and implementation. Database management systems that are the foundation of any information systems must effectively store and manage data with integrity and security. This course emphasizes both theories and hands-on experience. The course work includes a group project in which students design and implement a database system to solve a practical business problem. Oracle will be used as the main software package for students to gain hands-on experience.",
+      "comment_teaching": "",
+      "comment_grading": "Since everyone is scoring similarly in the midterm, project and final exam is far more important. The time you spent on your group project reflects your grade the most. Overall the grading is good if you have contributed enough in your project and revise the exam thoroughly.",
+      "comment_workload": "The only thing you have to do is the group project, if you are paying attention to the labs and lectures, you will able to finish your project already.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "vNHxPGTyIYILAqAtdEohTHBJAGM4GGuQ",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 377,
+          "name": "CHEUNG, Yat Ming",
+          "rating": 1
+        },
+        {
+          "id": 949,
+          "name": "LAI, Sum Yu",
+          "rating": 1
+        }
+      ],
+      "author": "Zoe:)",
+      "date": "Jan 10, 2019",
+      "title": "Huge workload but satisfying",
+      "comment_content": "Before Midterm:<br />- Entity-relationship model (a bit similar to class model in ISOM3210 but they are not the same things)<br />- Enhanced ER model<br /><br />After Midterm:<br />- SQL: data definition language (DDL) and data manipulation language (DDM)<br />- Logical Database Design: transforming ER diagram into relations and Normalization<br />- Physical Database Design, Data and Database Administration: some theoretical knowlege of managing a database systems<br /><br />This course teaches you how to design and implement a database system based on some business rules. <br />You will learn how to structure a database such that the data could be stored effectively with integrity (ER model). You will have a taste of drawing ER Model with Toad Data Modeler in a tutorial session.<br />You will also learn a programming language (SQL) that allows you to build a database with Oracle Forms, manipulate it and retrieve data from it. <br />I personally think this course is the most practical and all-rounded IS course of all.",
+      "comment_teaching": "Muller is the BEST professor I have ever met. He is so dedicated and reachable. He is able to explain every concept and logic in a clear manner with lots of examples. The exercise he provided is sufficient for exams preparation. If you are not confident with some topics (for me, it&#039;s writing SQL subqueries) you can also find Muller after class or in his office. He can understand your struggles and teach you in another way that you will eventually get it.<br /><br />Samuel is a SUPER knowledgeable and friendly TA. He is an expert of programming. You should pay a lot of attention in his tutorials, though each session lasts for 3 hrs :( , as he speaks almost no bullshit. Everything he taught in the tutorials is gonna help you with your project. Try to test your program as much as you can, because he is so experienced that he can always spot bugs and tell you which part you can improve to make your systems more user-friendly.",
+      "comment_grading": "Practical Submissions\t6%<br />Project\t33%<br />Midterm Exam\t26%<br />Final Exam\t35%<br /><br />The grade is proportional to your effort. Project means a loooooot to your grade and your understanding in the exams so don&#039;t ever try to, or even think of being a free-rider!!! The exams are straight forward. It should not be a problem, as long as you can do the exercise given by Muller and Samuel on your own. <br /><br />**Tips for final: Be focus when you are transforming the ER diagram to relations and be careful of the answer format in the Normalization, or you may miss out some points. SQL is the BIG BOSS. Make sure you save enough time to do the last part of the paper.",
+      "comment_workload": "This course is infamous for its heavy workload. You are going to build a database system (tea shop point-of-sale system) from scratch with 6 groupmates. Only computers in G005 are equipped with SQL Tool and Oracle Forms, so you can only work on the project when the lab is available, usually on weekends, or you may try to sneak into the lab while people are having other lessons (if you are not kicked out). Our group divided the job evenly and we have no previous knowledge of SQL at the beginning (I suppose). None of us is free-rider, but still, we ended up staying at G005 every night and every weekend. <br /><br />**tips 1: Start the project ASAP! After you have learned how to draw ER model, draw it for your project right away! Better to leave more time to the end to combine your works, test the final product and debug.<br />**tips 2: Sources from previous students might help a little. You can refer to their codes and user interface if necessary but it is not possible to copy their system entirely because no two systems are the same. <br />**tips 3: Separate the job evenly. Do not put all the burden on one groupmate who seems to be better at programming. Not only he/she is going to hate you and score you low in peer evaluation, it is very obvious when you cannot answer Samuel&#039;s questions in progress demonstration.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "7OmMK4YKDzcQPWv825UxWld2giqDtIzr",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 377,
+          "name": "CHEUNG, Yat Ming",
+          "rating": 1
+        },
+        {
+          "id": 949,
+          "name": "LAI, Sum Yu",
+          "rating": 1
+        }
+      ],
+      "author": "Avocado",
+      "date": "Jun 04, 2018",
+      "title": "A very practical course, but be prepared for a lot of debugging.",
+      "comment_content": "This is an introductory course to database design and administration and this is also one the required courses for the IS major. <br /><br />The course content covers topics like entity-relationship diagrams, SQL (mostly data definition language and data manipulation language), transformation of relations, normalisation, data, and database administration.<br /><br />The content is chosen appropriately for beginners to database design, and the topics build upon each other therefore it is important to understand each of the modules thoroughly so that you are not confused in the subsequent chapters. There is a recommended textbook, and while it is not necessary, I would recommend trying to obtain a copy of it as the book does give additional explanations on topics which may be useful to clarify any doubts you may have.",
+      "comment_teaching": "I would say that Muller (Prof. Cheung)&#039;s teaching style is excellent. I really enjoyed all of his lectures, and I found that he presented all of the content extremely clearly and used examples were relevant to elaborate on any points and to illustrate the theories. He was also very to-the-point, such that he doesn&#039;t spend time talking about topics that aren&#039;t assessed. I would advise you to go to all of the lectures because they are extremely useful and can help you to consolidate your understanding. There are also exercises provided after every chapter so that you can test your own understanding of the topic, and these are very useful when preparing for the exams. Although the lectures are almost 2 hours (there&#039;s only one lecture a week), Muller does provide breaks in between so that you have some time to stretch your legs. That being said, don&#039;t sign up for the evening lecture if you&#039;re prone to feeling sleepy on a Friday evening. :)<br /><br />I think most IS major students have had Samuel as a TA during their time at UST, so I won&#039;t spend too long commenting on the lab sections. The lab duration is 3 hours as indicated in the class schedule, however, Samuel only teaches for the first 1.5 hours and the remainder of the time is for you to work on your project (DO actually work on your project as this time is super valuable and you can also ask Samuel for any help with issues you may have). I will say that for implementing some of the project functionality, you may have to go beyond what is taught in lectures and the lab sessions.",
+      "comment_grading": "The course grading scheme includes:<br /><br />— Lab Submissions (6%)<br />— Project (33%)<br />— Midterm Exam (26%)<br />— Final Exam (35%)<br /><br />The grading is relatively fair, although the final project score was not released therefore I cannot comment on how this component is graded.<br /><br />The midterm exam covers the first four chapters, and in this semester, the mean was around 80/100 with an SD of 8. The final exam is non-cumulative and focuses on the topics taught after the midterm. The mean for the final exam was around 69/100 with an SD of 11.<br /><br />The grading for the project is a bit unclear, however, most groups receive pretty much the same score for the progress demonstration (as told by Samuel, the TA). I will say that the project can influence your grade significantly, so I would not recommend taking it lightly (I&#039;ll elaborate on this in the Workload section).",
+      "comment_workload": "This is a 4-credit course, and the majority of the workload comes from the project. Although the case may vary each semester, it typically involves building some sort of database system for a company and implementing various functions for the end user as specified in the project brief. The software for working on the project (mainly Oracle Forms Developer and SQLTools) is only available in G005, and as the demonstration deadlines approach, it&#039;s near impossible to find a free computer (so go early and claim a bunch of desktops if you want to be a deadline fighter). In addition, collaboration is also quite tough therefore you&#039;ll be doing a LOT of compiling of different versions in addition to all the debugging (debug very thoroughly, because you&#039;ll get caught out in the demonstration if you don&#039;t do this). I would also recommend finding groupmates who have strong coding skills as this may make it easier for you to do the SQL coding when building the forms, and a small mistake in the code can take you ages to figure out so be careful.<br /><br />Aside from the project, there isn&#039;t a lot of additional workload. Although Muller provides exercises for each topic, he usually dedicates part of the lecture time to working on these and walking you through the answer, so you don&#039;t necessarily have to do them before class (unless you just really want to test your database knowledge immediately after the class).",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "kZPAoKaXXPqo5Qk66QYMI28wrYgyv5Pc",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 377,
+          "name": "CHEUNG, Yat Ming",
+          "rating": 1
+        },
+        {
+          "id": 949,
+          "name": "LAI, Sum Yu",
+          "rating": 1
+        }
+      ],
+      "author": "Kikiwithcat",
+      "date": "Jan 09, 2018",
+      "title": "Good teammate and SQL background is needed",
+      "comment_content": "This is an introductory course in SQL. If you study ICT - Database module in HKDSE, you can nearly skip most of the class.<br /><br />What we learn in class is useful for lab and exam. Extra stuff learned during lab session will not be examined.<br /><br />Useful for understanding in database management",
+      "comment_teaching": "Muller and Samuel are very good. <br /><br />Muller&#039;s class is very useful because he won&#039;t waste time to say anything that is out of the course requirement. He always hit the main point and he will provide useful examples for us to follow. Even if you never learn SQL before, he is very patient and willing to answer your questions.<br /><br />Samuel is a very nice TA. He is super helpful and will stay with us to help with our project even when it is out of lab session. You can always find him easily in LSK G005. HAHA~",
+      "comment_grading": "Fair grading. You need to work hard on both project and exams. <br /><br />There are 2 easy assignments and mean is around&nbsp;&nbsp;2.7/3. Assignments are similar to exam so remember not to copy from others but really do it to test your understanding.<br /><br />Exams are similar to COMP course, you have to work on SQL to solve some requests. Midterm need to draw ERD, EERD and simple DDL, Final is non-cumulative. Final cover SQL(DML) and normalization(1NF,2NF,3NF). Both exams have MCs and short questions(or long).<br /><br />Grading Scheme<br /><br />Assignment(s)\t&nbsp;&nbsp;6%<br />Project\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;33%<br />Midterm Exam\t&nbsp;&nbsp;26%<br />Final Exam\t 35%<br /><br /><br />My score:<br />Assignment 1&nbsp;&nbsp;2.75/3&nbsp;&nbsp;<br />Assignment 2&nbsp;&nbsp;3/3<br />Project&nbsp;&nbsp;&nbsp;&nbsp;unknown, but I think is below mean<br />Midterm&nbsp;&nbsp;&nbsp;86% (above mean)<br />Final&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unknown, but I think is just mean<br /><br />Final Grade: B",
+      "comment_workload": "The workload is very heavy so please make sure you find your responsible friend (who has the programming background) to study this course with you. <br /><br />6 people in a group and Samuel let us form our own group.<br /><br />As we need specific software that is only available in LSK G005 (you can&#039;t find them in virtual barn) and it is uneasy to install all those software, you need to work in G005 all the time for your project. Before progress demo and final demo, some people will work in G005 until midnight (YES! midnight!)<br /><br />Spare some time every day after class to work on the project might help.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "WH6b2bPLeqJT01ZFxCRJLDNpOwIag8Ow",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 377,
+          "name": "CHEUNG, Yat Ming",
+          "rating": 1
+        },
+        {
+          "id": 374,
+          "name": "TSE, Sheung Hei Chris",
+          "rating": 1
+        }
+      ],
+      "author": "read_homo",
+      "date": "Jun 05, 2016",
+      "title": "All you need is good teammates",
+      "comment_content": "The content of this course can be divided into two main parts. One is technical part, such as ERD, Normalisation, SQL. One is just knowledge part, such as concepts of Data mining, Database Administration. For me, I think the diffcult part would be the technical part. Drawing disgram and Writing programming is actually quite hard for some students since business students are generally not good in this aspect. The concepts learnt in ISOM3210 and 3230 would definietly be helpful in dealing with this course. The course content is actually quite useful when you are dealing IT related jobs in futures. (Personally, I think it would be better to include more topics about open source database.)<br /><br />SQL should spend the most time to learn. ERD and normalisation just be careful of the logic behind and some minor stuff.",
+      "comment_teaching": "Muller and Chris taught the content is a quite good way. Although attendance is not required, they suggested it was good to attend and I did agree with them. It would be better to listen to what they said in lessons. There are something they would explicitly mention during lectures and tutorials. (You will know why it is so important when you are doing the project.) And they are really nice when it comes to answering your questions in project and exam content.",
+      "comment_grading": "Good Grade as ISOM3210, If I remember correctly, median is around B. So all you need to do is study two days before and find yourself a &#039;god&#039; groupmate :)<br /><br />Grading Scheme:<br />Midterm Exam 30%<br />Project 35%<br />&nbsp;&nbsp;Progress Demonstration 10%<br />&nbsp;&nbsp;Finalized Report and System 25%<br />Final Exam 35%",
+      "comment_workload": "Previously, the course has two mid terms and one finals. Now we only have one mid-terms and one finals. It would be quite easy for a 4 credits course. However, the most difficult would be doing a project. This semester we are instructed to construct an online sales system. WARNING: You are suggested to find at least one groupmate who is good at programming (JAVA, VBA, C++,etc.), otherwise you will be in a disaster typing code during any free time in weekend. And you can only test your code in G005/G012 only. Exams&#039; MC part is not very difficult, but writing SQL is the most challenging part.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 6,
+      "vote_count": 6,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "TfQdBbkPEdlCJnDeTfcgAE9rwUsztwQy",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 377,
+          "name": "CHEUNG, Yat Ming",
+          "rating": 1
+        },
+        {
+          "id": 374,
+          "name": "TSE, Sheung Hei Chris",
+          "rating": 1
+        }
+      ],
+      "author": "lychau",
+      "date": "Jan 12, 2016",
+      "title": "",
+      "comment_content": "Very useful course. SQL and database design kind of link content from ISOM3210 and ISOM3230. It ran a throughout process from planning and execution. Overall speaking very good course",
+      "comment_teaching": "Both Mueller and Chris are very passionate and well spoken. Especially Mueller is one of the nicest and helpful lecture I have met.",
+      "comment_grading": "Grading is soso. I got 0.5 SD below mean in both mid term and final and still manage to get a B-. Grading distribution are pretty even:<br /><br />Mid term: 30%<br />Project 35%<br />Final 35%",
+      "comment_workload": "The project is very tough. HKUST only offers Oracle SQL in two rooms. So most of the time you are required to stay very late and packed in the two rooms if you are fighting for deadline. Also finding bugs among codes is a pain in the ass.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

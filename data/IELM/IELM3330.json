@@ -1,0 +1,76 @@
+{
+  "course": {
+    "id": 648,
+    "subject": "IELM",
+    "code": "3330",
+    "name": "Introduction to Financial Engineering",
+    "description": "This course is intended to provide an introduction to important aspects of financial engineering. Specifically, this course will primarily cover fundamentals of the financial system, interest rate and term structure, various financial markets, financial derivatives, option pricing and hedging, risk management, and financial modeling.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"2160\" href=\"/review/CIVL2160\" target=\"_blank\">CIVL 2160</a> OR <a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2600\" href=\"/review/ELEC2600\" target=\"_blank\">ELEC 2600</a> OR <a class=\"course-link\" data-subject=\"IELM\" data-code=\"2510\" href=\"/review/IELM2510\" target=\"_blank\">IELM 2510</a> OR <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"2500\" href=\"/review/ISOM2500\" target=\"_blank\">ISOM 2500</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2411\" href=\"/review/MATH2411\" target=\"_blank\">MATH 2411</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2421\" href=\"/review/MATH2421\" target=\"_blank\">MATH 2421</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2431\" href=\"/review/MATH2431\" target=\"_blank\">MATH 2431</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"3203\" href=\"/review/FINA3203\" target=\"_blank\">FINA 3203</a>, <a class=\"course-link\" data-subject=\"FINA\" data-code=\"4303\" href=\"/review/FINA4303\" target=\"_blank\">FINA 4303</a>",
+    "rating_content": 3,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 351,
+        "name": "CAI, Ning",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "JpwftJaPh1gN6WtuPPT7s2iE2mLC6E5B",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 351,
+          "name": "CAI, Ning",
+          "rating": 1
+        }
+      ],
+      "author": "vs",
+      "date": "Feb 01, 2017",
+      "title": "Pretty basic overview",
+      "comment_content": "Very high-level view of derivatives (options, futures, covers a tiny portion of asset-backed securities) from John Hull&#039;s renowned textbook (chapter 1 - 7). Extremely straightforward if you have introductory finance knowledge / follow market news diligently.",
+      "comment_teaching": "He&#039;s an all around solid professor, but because the content is so shallow / general, he glosses over a lot of the more complex (and more interesting) concepts. <br /><br />Well paced, clear pronunciation, concise slides but ripped (almost entirely, word for word) from the textbook. Read the textbook for more info",
+      "comment_grading": "Really good, less than 10 students take the course on average (I think my session had between 10 - 12 enrolments) <br />30% Homework (extremely easy, make sure you score full marks)<br />30% Midterm (almost carbon copy of homework Qs)<br />40% Final (almost carbon copy of homework Qs), if I am not mistaken<br /><br />1 page double-sided A4 cheat sheet allowed in, no financial calculator allowed, exams are non-cumulative (and asset-backed securities are not covered)<br /><br />Exam Qs are extremely basic, if you know the problem-solving sequence, you&#039;ll ace. No conceptual questions are tested.",
+      "comment_workload": "Very light. More if you want to do the questions in the book &amp; read / research in your own time.",
+      "rating_content": 3,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

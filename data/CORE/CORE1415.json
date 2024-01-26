@@ -1,0 +1,76 @@
+{
+  "course": {
+    "id": 3760,
+    "subject": "CORE",
+    "code": "1415",
+    "name": "Intermediate Reading and Writing for Non-Chinese Language Background Students",
+    "description": "The course is designed for students with non-Chinese language background who have learned Chinese for less than 100 tuition hours. It aims to enhance students’  ability to recognize and write Chinese characters, and to help develop their understanding of written Chinese and writing competence in using Chinese in daily life and social situations. After successfully completing the course, they will be able to recognize and write commonly used Chinese characters, understand narrative, expository and basic argumentative texts, and write short passages for daily life and social purposes.",
+    "categories": [
+      "Common Core (C-Comm)"
+    ],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230,
+      2210
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"CORE\" data-code=\"1412\" href=\"/review/CORE1412\" target=\"_blank\">CORE 1412</a>, <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1413\" href=\"/review/CORE1413\" target=\"_blank\">CORE 1413</a>, CORE 1416, <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1421\" href=\"/review/CORE1421\" target=\"_blank\">CORE 1421</a>, CORE 1422, <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1423\" href=\"/review/CORE1423\" target=\"_blank\">CORE 1423</a>, LANG 1117, <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1123\" href=\"/review/LANG1123\" target=\"_blank\">LANG 1123</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1124\" href=\"/review/LANG1124\" target=\"_blank\">LANG 1124</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1125\" href=\"/review/LANG1125\" target=\"_blank\">LANG 1125</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1126\" href=\"/review/LANG1126\" target=\"_blank\">LANG 1126</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1127\" href=\"/review/LANG1127\" target=\"_blank\">LANG 1127</a> (prior to 2022-23)",
+    "rating_content": 3,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 2,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1329,
+        "name": "CHAN, Crystal",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "6Gf1KMU42UmsyvIRIvOgmSsK5V8k4tu7",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1329,
+          "name": "CHAN, Crystal",
+          "rating": 1
+        }
+      ],
+      "author": "meaniechu",
+      "date": "Dec 09, 2022",
+      "title": "",
+      "comment_content": "CORE 1415 is a three-credit,&nbsp;&nbsp;one semester&nbsp;&nbsp;core course designed&nbsp;&nbsp;for students with a non-Chinese&nbsp;&nbsp;language background who have learned&nbsp;&nbsp;Chinese&nbsp;&nbsp;for less than 100 tuition hours. <br /><br />Week Topics<br />1 –3 Review on Chinese character and daily conversations<br />Daily routines<br /><br />Home visits, Chinese New Year<br />4 –7 Weather, seasons, and clothes to wear<br />Transport, distance, and directions<br />Hotel accommodation, check-in, and room facilities<br /><br />8 Mid-term Assessment <br /><br />9 –12 Museums, history, and cultural relics <br />Eating out, food and drink, and Chinese dishes <br />Seeing the doctor, illness, and healthy lifestyles<br /><br />13 Review and final assessment",
+      "comment_teaching": "Ms Crystal is passionate about teaching and she is open to discussions after class. She usually gives class exercises like answering the questions in the discussion channel on canvas or word document. She encourage us to get to know each other by group discussion.",
+      "comment_grading": "If you want a good grade for this course I suggest to revise early before exams. Ms Crystal gives character writing exercise so that we can be familiarized with the words. She also gave a vocab word list so that we can memorize the meaning of each characters. <br /><br />Finals is much harder than midterms because the characters get more complex and hard to write and the final exam covers all units tested in midterm. She did not specify how the grading goes but I think it is not a curve. Try to get high marks as possible. <br /><br />Fair grading<br /><br />Midterm and Final exam is out of 60<br />Final score: B",
+      "comment_workload": "high workload just like other language courses.<br /><br />1. Coursework<br />-Pre class and post class exercises(20%)<br />-Writing Assignment 1(10%)<br />-Writing Assignment 2(20%)<br />2. Midterm(20%)<br />3. Finals(20%)<br />4. Reflective task(10%)<br />-Reflection about what is learnt throughout the whole course<br />-Citations and proof such as images of you learning will be needed for this reflective task",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "course": {
+    "id": 417,
+    "subject": "ENVS",
+    "code": "3003",
+    "name": "Ocean Science",
+    "description": "Through this course, students will study the origin, structure and dynamics of the ocean. Physical, chemical, and biological processes in the ocean will be covered in the course, with a focus on the ocean’s role in modulating climate, biogeochemical cycling, and productivity which impact human activities. For ENVS students only. Other students should seek instructor’s approval for enrollment in the course.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"LIFS\" data-code=\"1030\" href=\"/review/LIFS1030\" target=\"_blank\">LIFS 1030</a> OR <a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1003\" href=\"/review/PHYS1003\" target=\"_blank\">PHYS 1003</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 230,
+        "name": "CHAN, Kit Yu Karen",
+        "count": 2
+      },
+      {
+        "id": 231,
+        "name": "LIU, Hongbin",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "Dy7V7wz9J70x5fNpkE8gVR1w1ybq6Fli",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 230,
+          "name": "CHAN, Kit Yu Karen",
+          "rating": 1
+        }
+      ],
+      "author": "YSA",
+      "date": "Apr 18, 2016",
+      "title": "",
+      "comment_content": "Course content is very interesting and informative. Topics include:<br />Ocean Exploration, Water budget, Plate tectonic, Ocean basins and ocean sediments, Hydrothermal vents and vent chemistry, Air-sea interactions, Ocean Currents<br />Surface circulation, Physical properties of seawater, Field Methods in oceanography, Waves and Tides, Coastal processes, Ocean chemistry, Introduction to phtyoplankton and spring bloom, Introduction to zooplankton, Introduction to marine bacteria and virus, Biogeochemical cycle, Ocean and human activities, Ocean and human health, Ocean and climate change<br /><br />Basically the course provides an introduction to all the aspects of ocean science: physical, chemical, and biological.<br /><br />There is a field trip included which is really fun and you get a chance to actually try out all the experiments and instruments you learn about on an actual boat in the bay.",
+      "comment_teaching": "Karen is an excellent teacher. She is very passionate about the subject and always shares information from her own work and research.<br />Her teaching is very clear and easy to follow during lectures. She is always open to questions and ready to help with any problems.<br />She arranged 2 guest lectures via video link with her associates from different universities which were very informative and useful.<br />One of the best teachers I have had, and she really gets you interested in the subject.",
+      "comment_grading": "Assignments: 15%<br />Final Project: 10%<br />Mid-term exam: 30%<br />Final exam: 40%<br />In class participation: 5 %<br /><br />Grading is quite fair and balanced. I got ~1 SD above mean in Midterm and Final, and slightly above mean in Assignments and Final project = A grade.",
+      "comment_workload": "Workload is not too high. 4 Assignments in total, best 3 scores are counted (3 x 5% = 15%). The assignments are quite easy and you get a week to complete them.<br /><br />Final Project takes a little time to complete, but it&#039;s quite interesting and fun. Do not wait till the end to start working on it.<br /><br />Exams are pretty straightforward, mostly data response and short answer questions. If you attend lectures regularly and/or revise lecture notes properly it should be fine.<br /><br />Participation is 2-3 PRS questions at the start of each lecture.<br /><br />Optional field trip report for extra credit.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "vLAhb1ztCR9g9hKPHN6DKdxsk1rN36yU",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 230,
+          "name": "CHAN, Kit Yu Karen",
+          "rating": 1
+        },
+        {
+          "id": 231,
+          "name": "LIU, Hongbin",
+          "rating": 1
+        }
+      ],
+      "author": "CathyYipChingYi",
+      "date": "Jan 26, 2016",
+      "title": "",
+      "comment_content": "This course actually covers quite a lot of things from different fields, including microorganisms, biogeochemistry, waves and ocean structures. But some of them overlaps with LIFS3130 marine biology a bit.",
+      "comment_teaching": "Karen is very passionate in teaching and helpful that welcomes you going to her office for questions. She really tries very hard to help us learn! The best teacher in UST for me!:)<br />Liu knows a lot but he always puts a lot of words into ppt slides and then reads them out in the class so it is quite boring while listening to his &quot;reading aloud&quot; in the lesson.",
+      "comment_grading": "I got mean for midterm (30%) and was above 1.5SD for final (40%). I am not sure how well I did for the lab project (10%) but I guess it was about mean. And for assignments (15%) and participation (5%), I think most of the class got similar marks... Anyway I got an A- fortunately.",
+      "comment_workload": "There are totally 4 assignments which can be finished within about half an hour if you can understand the content of lectures. It is allowed to bring a two-sided A4 size cheatsheet for midterm and final but this course highly requires understanding but not memorizing nor copying things from cheatsheet so the cheatsheet can&#039;t really help a lot.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

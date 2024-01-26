@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 3810,
+    "subject": "MARK",
+    "code": "3620",
+    "name": "Marketing Analytics",
+    "description": "This course develops the foundation and integrated framework for understanding marketing analytics. It introduces major applications of data analytics in marketing, including customer analytics, product analytics, pricing analytics, and advertising analytics.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2210
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MARK\" data-code=\"2120\" href=\"/review/MARK2120\" target=\"_blank\">MARK 2120</a> AND <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"2500\" href=\"/review/ISOM2500\" target=\"_blank\">ISOM 2500</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

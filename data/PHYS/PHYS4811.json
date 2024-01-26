@@ -1,0 +1,147 @@
+{
+  "course": {
+    "id": 3044,
+    "subject": "PHYS",
+    "code": "4811",
+    "name": "Contemporary Applications of Physics: Machine Learning in Physics",
+    "description": "Students in this course will apply the basic concepts of physics to the subject of machine learning. Topics include algorithms of supervised learning, unsupervised learning, and reinforcement learning, together with their applications in physics.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2310,
+      2210,
+      2040,
+      2010,
+      1910
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"PHYS\" data-code=\"2022\" href=\"/review/PHYS2022\" target=\"_blank\">PHYS 2022</a> AND (<a class=\"course-link\" data-subject=\"PHYS\" data-code=\"3142\" href=\"/review/PHYS3142\" target=\"_blank\">PHYS 3142</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"3312\" href=\"/review/MATH3312\" target=\"_blank\">MATH 3312</a>) AND <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2023\" href=\"/review/MATH2023\" target=\"_blank\">MATH 2023</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4.33,
+    "rating_grading": 4.67,
+    "rating_workload": 4.33,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 625,
+        "name": "LIU, Tao",
+        "count": 3
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "XLrDJPOYiDjSEtNHq6FlsJ0pHGnCopRg",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 625,
+          "name": "LIU, Tao",
+          "rating": 1
+        }
+      ],
+      "author": "ili",
+      "date": "Jan 16, 2023",
+      "title": "",
+      "comment_content": "Content is interesting. This is only one month of teaching so the time is very limited, but the course is not too stuffy. <br /><br />We discussed the historical profile, the theoretical framework, and briefly touched on some simple physics applications.",
+      "comment_teaching": "The prof is passionate about his teaching. The uploaded lecture notes can be a bit lacking sometimes, as a lot of the discussion happening in class doesnt appear on the pdfs, so be prepared to watch the videos/attend the lectures to make homework easier. He does a pretty good job at expaining the concepts.",
+      "comment_grading": "The grading is kind, as long as you do the assignments and project, it’s hard to fail. <br /><br />The breakdown is as following:<br />20% x 3 for the homeworks and<br />40% x 1 for the project",
+      "comment_workload": "There are three assignments that are pretty easy to do based on solely the lecture notes, and one final project that is meant to be slightly longer. Despite being a light workload course, it’s a bitv frustrating to have a new assignment every week for four weeks for only 1 credit.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "XKecVpOQnvScY8zW8IIsbPUzdzaj7kBT",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 625,
+          "name": "LIU, Tao",
+          "rating": 1
+        }
+      ],
+      "author": "_NattU_",
+      "date": "Nov 01, 2022",
+      "title": "",
+      "comment_content": "The course provides a brief intro to machine learning. 6-7 lectures in total with one tutorial section (for the project).<br /><br />Lecture 1) Overview on Neural Networks and Deep Learning<br />Lecture 2-3) Linear Classifiers and Perceptrons<br />Lecture 4) Support Vector Machines<br />Lecture 5) Gradient Descent<br />Lecture 6) Information Entropy/Gain<br />Lecture 7) XOR problem, Backpropagation<br /><br />The lectures can get pretty mathematical at times but that is to be expected from a 4000-level course. Good coverage of some foundational topics and highlights some of the important algorithms. <br /><br />The project asks you to code a supervised learning neural network&nbsp;&nbsp;on PyTorch using gradient descent and define a customized loss function (plus maybe some other separation functions).",
+      "comment_teaching": "Prof. Liu is enthusiastic about teaching and even cracks a few jokes every once in a while. I only gave him a B for teaching because some students mentioned that the background required for the content is sometimes too high and he doesn&#039;t explain it properly (he expects students to know them already)",
+      "comment_grading": "The course grade is computed using the following scheme:<br /><br />HW: 60% (3 assignments in total)<br />Project: 40%<br /><br />Mean scores:<br />HW1: 8.11/10<br />HW2: 7.41/10<br />HW3: 8.85/10<br />Project: 8.67/10<br /><br />I scored 98.2% overall and got an A. It seems like you need a 100% to achieve A+ (and a couple of students did). What a bummer :(",
+      "comment_workload": "Although it is a 1-credit course, you should treat it like a 3-credit course that lasts for a month. Weekly HWs, and the coding project can be rather demanding if you&#039;re new to neural networks. However, there is a TA that can provide some helpful instructions for the coding part. I took roughly 2 days to work on the project with almost no coding background except COMP1021. Students familiar with coding neural networks might finish it in a few hours.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "hbpnRczb6phc5J1pvhk16ZgWT81j7sPY",
+      "semester": "2020-21 Summer",
+      "instructors": [
+        {
+          "id": 625,
+          "name": "LIU, Tao",
+          "rating": 1
+        }
+      ],
+      "author": "ah yin",
+      "date": "Aug 23, 2021",
+      "title": "Good grade",
+      "comment_content": "Three topics to cover: Historical profile Theoretical framework&nbsp;&nbsp;Some simple applications in physics <br />topics:<br />A Simple Overview on Neural Networks and Deep Learning<br />Linear Classifiers and Perceptrons<br />MAXIMUM MARGIN CLASSIFIERS<br />Soft-Margin Support Vector Machines; FeaturesSOFT-MARGIN SUPPORT VECTOR MACHINES(SVMs)<br />Information entropy <br />XOR problem<br /><br />there is one tutorial for the final project, the content is brief and u just need to follow the example from the tutor and finish the project, some amendment to make to complete the project, it teaches us how to write a neural network.<br />Topic include: <br />Forward propogation<br />Classification with neural networks<br />Loss function<br />Gradient descent and Back propagation<br />training processes<br />testing model",
+      "comment_teaching": "His teaching is understandable and the pace is good, two lecture each week but the teaching content is fairly good, although he has a little bit accent , but his content is easy to understand.",
+      "comment_grading": "Grading scheme (100%):&nbsp;&nbsp;homework (3): 20% x 3 ,projects (1): 40% x 1 <br /><br />I scored 9.5/10 from 3 homework and 35/40 from the final project<br />and overall I got A",
+      "comment_workload": "Workload is not heavy for this 1 credit course, <br />there&#039;s one assignment each week and it gave you 1 week to finish the final project which is a programming assignment for machine learning.<br />homework (3): 20% x 3 projects (1): 40% x 1",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "course": {
+    "id": 1162,
+    "subject": "SOSC",
+    "code": "2210",
+    "name": "Social Psychology",
+    "description": "This course introduces the fundamental concepts and theories in social psychology, a scientific field of study that seeks to understand the nature and causes of individuals' thinking and behavior in social situations.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2110,
+      2010,
+      1930
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"SOSC\" data-code=\"1960\" href=\"/review/SOSC1960\" target=\"_blank\">SOSC 1960</a> OR <a class=\"course-link\" data-subject=\"SOSC\" data-code=\"1980\" href=\"/review/SOSC1980\" target=\"_blank\">SOSC 1980</a> OR <a class=\"course-link\" data-subject=\"SOSC\" data-code=\"1969\" href=\"/review/SOSC1969\" target=\"_blank\">SOSC 1969</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.83,
+    "rating_teaching": 4.83,
+    "rating_grading": 4.83,
+    "rating_workload": 4.83,
+    "review_count": 6,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 658,
+        "name": "CHEN, Eva E",
+        "count": 6
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "1WNyEbIUG7KCstzsH9kHq6jj9IoOyMdK",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 658,
+          "name": "CHEN, Eva E",
+          "rating": 1
+        }
+      ],
+      "author": "USToxicJ",
+      "date": "Jan 04, 2021",
+      "title": "",
+      "comment_content": "Quiz 1<br />Research methods of social psychology<br />Understanding ourselves<br />Understanding the social world<br />Judging ourselves and others<br />Persuasion<br />Social influence<br /><br />Quiz 2<br />The social group<br />Group behavior<br />Intergroup relations<br />Improving intergroup relations<br />Helping others<br />Helping ourselves<br /><br />interesting and easy to catch up",
+      "comment_teaching": "Eva is very good<br />She teaches well and is willing to answer questions<br />She pronunciation is clear and easy to follow",
+      "comment_grading": "Canvas Discussion: 5%x4=20% <br />Quiz 1 and 2: 10%x2=20% (30 MCQs)<br />Paper Assignment 1 and 2: 30%x2=60% (max 800 words)<br />Bonus 0.25 point for joining in-class poll (max 1 pt)<br /><br />Very good grade<br />Discussion and in-class poll full (most of us get full mark here)<br />Quiz 1 and 2 i got mean in both of them<br />Paper assignment 1 8/12 mean: 7.2/12<br />Paper assignment 1 9/12 mean: 7.9/12<br />I got a- at last lol<br /><br />didn&#039;t study for the quizzes as they are open book and don&#039;t count much<br />u can still get a decent grade even if u screwed up all your quizzes (they are a bit tricky sometimes)<br />the paper assignments are the most important in this course<br />But bear in mind that her quiz asks about the poll results in zoom so better cap screen hahaha",
+      "comment_workload": "very light<br />no workload at all<br />no required reading<br />the paper assignment is the only workload for me (but only 800 words each tbf)<br />really chill throughout the whole semester<br />strongly recommended course (I got c- in sosc1980 be4 cuz I didn&#039;t study)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ig6tNnT39oPUe9eUPaaum0WbD9bItHJ0",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 658,
+          "name": "CHEN, Eva E",
+          "rating": 1
+        }
+      ],
+      "author": "LukaModric",
+      "date": "Oct 20, 2020",
+      "title": "",
+      "comment_content": "Quiz 1<br />Research methods of social psychology<br />Understanding ourselves<br />Understanding the social world<br />Judging ourselves and others<br />Persuasion<br />Social influence<br /><br />Quiz 2<br />The social group<br />Group behavior<br />Intergroup relations <br />Improving intergroup relations <br />Helping others<br />Helping ourselves",
+      "comment_teaching": "Interesting<br />In-class poll and psycho test<br />Short video during lecture",
+      "comment_grading": "Canvas Discussion: 5%x4=20% (complete within 24 hours)<br />Quiz 1 and 2: 10%x2=20% (30 MCQs)<br />Paper Assignment 1 and 2: 30%x2=60% (max 800 words)<br />Bonus 0.25 point for joining in-class poll (max 1 pt)<br /><br />Quite strange<br />Quiz questions asking about info from video in class (particularly data) or some poll results LOL<br /><br /><br />Quiz 1<br />Mean: 23<br />Median: 24<br />Max: 30",
+      "comment_workload": "Relatively light<br />Loosely no reading",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ZtIp7JjpGA68i6pBdqiDRw8096iJeOcV",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 658,
+          "name": "CHEN, Eva E",
+          "rating": 1
+        }
+      ],
+      "author": "joanna1234",
+      "date": "Sep 01, 2020",
+      "title": "",
+      "comment_content": "Really interesting, really worthwhile to take the course if you are interested in psychology. You will learn happiness, the connection between people, Persuasion and the list goes on. Really down the earth. And Persuasion is quite fun, will teach you use what methods to persuade people easier. <br /><br />1 Research Method<br />2 Understanding ourselves<br />3 Understanding the social world<br />4 Judging ourselves and others<br />5 Persuasion <br />6 Social Influence<br />7 Social group<br />8 Intergroup relation<br />9 Improving intergroup relation<br />10 Helping others<br />11 The psychology of happiness<br /><br />Each ppt only has 10~20 slides, so it is really easy to go through. And some concepts are connected in each ppt, so it is really understandable.",
+      "comment_teaching": "Really good and nice, everything is so clear and understandable. <br />There would be a short break during the class, and she will play some music. <br /><br />Her lecture notes are really straightforward and clear, but you cannot understand the concepts only by reading her notes, you also have to attend the classes. As some graphs in the lecture notes were not illustrated much. She will illustrate further of it on the classes.<br /><br />If you have any questions, you could just directly email her,&nbsp;&nbsp;and her reply is very fast.",
+      "comment_grading": "If you attend all the classes and understand all the concepts, it is really easy for you to get a good grade. <br /><br />Discussion 1: 5/5 <br />Discussion 2: 5/5 <br />Discussion 3: 5/5<br />Discussion 4: 5/5 <br /><br />paper assignment 1: 8/12<br />paper assignment 2: 7/12<br />quiz 1 : 27/30<br />quiz 2 : 26/30<br /><br />Total: 77.17/102<br /><br />Final grade: b+",
+      "comment_workload": "really low, just have two essay assignments and one midterm and final. And after classes, you have to hand in some discussion in canvas, total 4 discussions in the whole semester.<br /><br />About the paper assignment, there has a word limit that cannot exceed 800 words. Which means you have to be really precise. <br /><br />During the online class, there would have in-class polling for extra bonus. It is random, and max. 2 marks. Each polling would get 0.5 marks. <br /><br />Really, everything is sooooooooo easyy, just attend all the classes is okay for u to get at least b range. No need to memorize lots of things because the quizzes can be open books.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "nFDIOCI9AR8jfB1Ytr9dcmy4yYzNJNFG",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 658,
+          "name": "CHEN, Eva E",
+          "rating": 1
+        }
+      ],
+      "author": "ustdummy",
+      "date": "Sep 01, 2020",
+      "title": "ok course",
+      "comment_content": "Before midterm:<br />1 Research Method<br />2 Understanding ourselves<br />3 Understanding the social world<br />4 Judging ourselves and others<br />5 Persuasion<br />6 Social Influence<br /><br />After midterm:<br />7 Social group<br />8 Intergroup relation<br />9 Improving intergroup relation<br />10 Helping others<br />11 The psychology of happiness",
+      "comment_teaching": "Prof. Chen is a Taiwanese raised in the U.S. There&#039;s a 5-min break and she plays music recommended by students or TA. She explains theories with examples and shows videos, and is willing to answer questions.",
+      "comment_grading": "20% participation <br />60% paper assignment(30%*2)<br />20% quiz(10%*2)<br /><br />full for participation<br />mean for paper assignment1<br />around 0.5sd below mean for paper assignment2<br />Quiz 1: 26/30 (Mean = 23; High = 30; Low = 10)<br />Quiz 2: 25/30 (Mean = 22.8; High = 30; Low = 14)<br /><br />up to 2 bonus points for doing 4 random polling<br /><br />final grade: B+<br />personally think grading is pretty lenient",
+      "comment_workload": "overall ok<br />4 canvas discussion <br />about personal experiences/ discussion with reference from lecture notes(easy to find, easy full mark with reasonable answer for 100+words)<br /><br />2 paper assignment<br />the second one is much harder than the first one<br /><br />2 quiz<br />open book open notes<br />30 Questions 30 minutes for each quiz",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "7JJWB6DRfskv236az9qDIJwr6QzMYTYk",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 658,
+          "name": "CHEN, Eva E",
+          "rating": 1
+        }
+      ],
+      "author": "Hate1012",
+      "date": "Jun 13, 2020",
+      "title": "",
+      "comment_content": "Before midterm:<br />1 Research Method<br />2 Understanding ourselves<br />3 Understanding the social world<br />4 Judging ourselves and others<br />5 Persuasion<br />6 Social Influence<br /><br />After midterm:<br />7 Social group<br />8 Intergroup relation<br />9 Improving intergroup relation<br />10 Helping others<br />11 The psychology of happiness<br /><br />Very good lectures distribution I would say, all topics are quite engaging and really related to daily lives.",
+      "comment_teaching": "Prof. Chen was raised in USA but she&#039;s a Taiwanese. Obviously she has a very impressive education background in psychology as she was graduated from Stanford and Harvard. <br /><br />She is young and energetic, her voice is smoothing. She keeps herself updated about the situation going on in HK and the world. She is patient and laugh a lot during the lectures which is kinda cute, I think? <br /><br />There would be 5-minute break in the middle of every lecture and she&#039;d play some music suggested by herself or other students, so you won&#039;t feel bored or suffered. <br /><br />I especially like her lecture notes as they were explicit, straightforward and useful. I sometimes use what she taught us in daily lives!",
+      "comment_grading": "Discussion 1: 5/5 (Mean = 4.5)<br />Discussion 2: 5/5 (Mean = 4.2)<br />Discussion 3: 5/5 (Mean = 4)<br />Discussion 4: 5/5 (Mean = 4.6)<br /><br />Quiz 1: 23/30 (Mean = 23; High = 30; Low = 10)<br />Quiz 2: 22/30 (Mean = 22.8; High = 30; Low = 14)<br /><br />Paper assignment 1: 11/12 (Mean = 8.4; High = 11; Low = 3)<br />Paper assignment 2: 8/12 (Mean = 7.4; High = 11; Low = 0)<br /><br />Final grade: A",
+      "comment_workload": "4 discussions for participation (20%)<br />- All were about personal experience<br />- You better relate your answer to what you&#039;ve learnt from the lecture notes (Don&#039;t panic, it&#039;s easy for you to find the concepts as her notes are very clear!)<br />- As long as your answers are reasonable, you will get full mark.<br /><br />2 quizzes, just like midterm and final, all in MC (20%)<br />- Open book and open notes <br /><br />2 paper assignments (60%)<br />- Only need to write 800 words or below for each paper, if over 800 words, marks would be deducted (Actually 800 words are not enough for us...most of the students would find themselves exceed the word limitation eventually).<br />- Topics will be given (She will assign us a research paper and you need to analyst it, the research paper was short and easy to read so I strongly recommend you to read through it.)<br /><br />Random in-class polling for extra bonus<br />- No reasons for not getting these extra marks right? <br /><br />These might seem a lot but they are quite easy to accomplish I promise!",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "3LXHgAsk96hXa0YeRapRKiZdS18jALZM",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 658,
+          "name": "CHEN, Eva E",
+          "rating": 1
+        }
+      ],
+      "author": "PTMS",
+      "date": "Jun 10, 2020",
+      "title": "FUN",
+      "comment_content": "1 Research Method<br />2 Understanding ourselves<br />3 Understanding the social world<br />4 Judging ourselves and others<br />5 Persuasion<br />6 Social Influence<br />7 Social group<br />8 Intergroup relation<br />9 Improving intergroup relation<br />10 Helping others<br />11 The psychology of happiness<br />Overall very interesting topics are covered. How social groups are formed, how does racism and sexism is created, how does society influence one&#039;s memory and other aspects etc...",
+      "comment_teaching": "Her voice is very calming, accompanied by her very good and easy-to-hear accent and appropriate pace, it is a very good experience!<br />Also, she knows a lot of current pop cultures and whats going on in the world, which makes her very friendly and amiable and keeps her class very interesting to attend. <br />She also included the &quot;DJ time&quot; that during the 5 minutes break she and other students can play the music, which also created a good pace for the class. <br />Probably one of the best professors in terms of teaching.",
+      "comment_grading": "10% Per Quiz (2 in total) -&gt; 20% <br />30% Per Assignments (2 in total) -&gt; 60%<br />5% Per Discussion (4 in total) -&gt; 20%<br />Additional 0.5% per in-class poll (maximum 2% from in-class poll) <br />Quiz 1 mean 23.3/30<br />Quiz 2 mean 22.8/30<br />Assignment 1 mean 8.4/12<br />Assignment 2 mean 7.4/12<br />Discussions either full mark or zero. <br />My score: <br />Quiz 1 27/30 ; Quiz 2 28/30 ; Assignment 1 and 2 both 9/12<br />Discussions 15/20 <br />Overall 80%, got A-. <br />Very lenient grading I must say as most of my scores are only within 1 sd.",
+      "comment_workload": "2 Assignments (Within 800 words)<br />2 Quiz (30 questions + open book)<br />4 Discussions (Around 100~200 words of short discussions)<br />4 Voluntary in-class poll <br />Pretty light workload, considering the quizzes are open book, you don&#039;t really need to study a lot. <br />Also, the assignments only require 800-words max, which is quite short<br />Discussions are just some very short responses to the prompt, and usually only ask about personal experiences and once you responded to the prompt you will get full mark.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

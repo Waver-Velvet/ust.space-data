@@ -1,0 +1,61 @@
+{
+  "course": {
+    "id": 2327,
+    "subject": "MECH",
+    "code": "4000G",
+    "name": "Introduction to Composite Materials",
+    "description": "This course introduces fundamentals of composite materials, which will cover the definitions of composites, their classifications and characteristics, the reinforcement mechanisms, the basic mechanics of composites and common applications in science and engineering, especially in aerospace engineering. One important objective of the course is to underlie the concepts of rule of mixtures and laws of solid mechanics, by which the composite materials can be designed with desirable characteristics for engineering applications. Also, it prepares students for the advanced study of composites such as mechanical and structural analysis, failure mechanisms and optimal structural design. Knowledge on MECH3020 Solid Mechanics II and MECH3420 Engineering Materials II is recommended.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1710
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MECH\" data-code=\"2040\" href=\"/review/MECH2040\" target=\"_blank\">MECH 2040</a> AND <a class=\"course-link\" data-subject=\"MECH\" data-code=\"2410\" href=\"/review/MECH2410\" target=\"_blank\">MECH 2410</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": [
+    {
+      "hash": "eKKhJjWaHgHFLyl79ccEYCqLWbYoUBN4",
+      "semester": "2017-18 Fall",
+      "instructors": [],
+      "author": "ScareCrow",
+      "date": "Nov 03, 2019",
+      "title": "An interesting course",
+      "comment_content": "This is an introductory course to composite material. It covers what is composite, what are they used for, the different manufacturing process, typical material used for the different constituents, rule of mixtures, parallel model, series model, micromechanic, macromechanic, different composite failure mode and material characterisation.",
+      "comment_teaching": "The lecturer and TA were good. They were open to questions and always willing to help. The course was always keep interesting as there are practical aspect (lab and industry visit) that tight the theory with the practical method.",
+      "comment_grading": "The grading was fair, I think most people got above B",
+      "comment_workload": "Workload is fair. There were 4 homework across the whole semester, No mid term exam. Final exam was an open book exam. The lab and industry visit also didn&#039;t required any report, they only count attendance. The course was fun.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

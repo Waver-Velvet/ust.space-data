@@ -1,0 +1,122 @@
+{
+  "course": {
+    "id": 3000,
+    "subject": "LANG",
+    "code": "4035",
+    "name": "Technical Communication II for Chemical and Biological Engineering",
+    "description": "A one-term, major-specific course for all students in the Department of Chemical and Biological Engineering. The course focuses on Final Year Project report writing and presentations, and communication in professional contexts relevant to chemical and biological engineering. For CBE students in their third or fourth year of study only.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2310,
+      2230,
+      2210,
+      2130,
+      2110,
+      2030,
+      2010,
+      1930,
+      1910
+    ],
+    "prerequisites": "(For DDP only) LANG 1403 OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1404\" href=\"/review/LANG1404\" target=\"_blank\">LANG 1404</a> OR LANG 1003 (Prior to 2022-23); (For all others) <a class=\"course-link\" data-subject=\"LANG\" data-code=\"2030\" href=\"/review/LANG2030\" target=\"_blank\">LANG 2030</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 4.5,
+    "rating_workload": 4,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 442,
+        "name": "CHENG, Wai Yi Rosita",
+        "count": 1
+      },
+      {
+        "id": 464,
+        "name": "CARMICHAEL, Sarah",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "Ble5zdMxMzbwkmiPQASo1wY7OVNBJ7xw",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 464,
+          "name": "CARMICHAEL, Sarah",
+          "rating": 1
+        }
+      ],
+      "author": "LMM",
+      "date": "Oct 29, 2021",
+      "title": "",
+      "comment_content": "writing writing speaking speaking normal lang stuff<br />task&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;task&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;task&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;task<br /><br />mostly how to present thing like that laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa u know la la la la la la",
+      "comment_teaching": "good very good excellent<br />the most goodest english lang tutor<br />the English speech sound or tone is the best one I see in HKUST<br />the English accent is very nice to hear which is the original traditional British accent. one word to say wonderful.",
+      "comment_grading": "attendance<br />1 writing is a white paper<br />1 writing is fyp present <br />1 present for white paper topic stuff to sell ur thing<br />1 present is for fyp",
+      "comment_workload": "normal lang workload",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 7,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "A7zQcoZ0TaHQ5fbe2ArVBPIotfedWXIo",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 442,
+          "name": "CHENG, Wai Yi Rosita",
+          "rating": 1
+        }
+      ],
+      "author": "Shlok",
+      "date": "Dec 24, 2020",
+      "title": "",
+      "comment_content": "The course is divided into two halves: the first part requires you to study and learn how to write &#039;white papers&#039; while the second half guides you on how to write academic papers with an emphasis on your FYP. <br />White papers are common literature made available by engineering and research firms to advertise their services and products. I thought it was a lot of fun to write it and researching for it. It was accompanied with a presentation on an engineering topic to &quot;senior management&quot;, another gimmick but still fun to do.<br />The FYP half will guide you on how to write the introduction and literature review and give you tops on how to form the later chapters. But by that time, you would have already submitted the introduction and literature review to the department, so I did not find this very helpful. But you can just rehash your submission if you want, so makes the workload very light?",
+      "comment_teaching": "Rosita is an amazing teacher. I think a lot of people would agree. I&#039;d recommend switching to her section even if it&#039;s a 9 am. At the end of the semester, trust me you&#039;ll be happier ;)",
+      "comment_grading": "*chef kiss*<br />I mean, I believe all Lang courses are graded, absolutely, so it just matters how many marks is she going to reward you with for each assignment. And the marks are a-plenty. I compared grade distributions by other markers, and it&#039;s basically Rosita all the way. <br />It is an easy course, both you and I know it. Just take a teacher who will not bust your balls. Rosita definitely would not.",
+      "comment_workload": "Requires just two essays and two presentations over the semester. That really is not a lot of work for a 3 credit course. You&#039;ll have to prepare a little for maybe 5-6 lectures in the entire semester, like a quick read up on an article or submitting your opinion on something. But those tasks are trivial and would not take over 10 minutes. I guess attendance is workload too, but you would already know that.<br />The main takeaway is basically take the class with Rosita.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

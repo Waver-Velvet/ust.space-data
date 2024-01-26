@@ -1,0 +1,161 @@
+{
+  "course": {
+    "id": 913,
+    "subject": "MATH",
+    "code": "4326",
+    "name": "Introduction to Fluid Dynamics",
+    "description": "Lagrangian and Eulerian methods for the flow description; derivation of the Euler and Navier-Stokes equations; sound wave and Mach number; 2D irrotational flow; elements of aerofoil theory; water wave dispersion relation; shallow water waves; ship wave pattern; dynamics of real fluid, stokes flow and boundary layer theory.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"4052\" href=\"/review/MATH4052\" target=\"_blank\">MATH 4052</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"2510\" href=\"/review/CIVL2510\" target=\"_blank\">CIVL 2510</a>, <a class=\"course-link\" data-subject=\"MECH\" data-code=\"2210\" href=\"/review/MECH2210\" target=\"_blank\">MECH 2210</a>",
+    "rating_content": 4.33,
+    "rating_teaching": 4.33,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 554,
+        "name": "XU, Kun",
+        "count": 3
+      },
+      {
+        "id": 1057,
+        "name": "CAO, Guiyu",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "k4zn2IB8jahuolE2x02wdKtezdhFfXlD",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 554,
+          "name": "XU, Kun",
+          "rating": 1
+        }
+      ],
+      "author": "_NattU_",
+      "date": "Jun 10, 2023",
+      "title": "",
+      "comment_content": "References: P. Kundu &quot;Fluid Mechanics&quot; , D.J. Acheson &quot;Elementary Fluid Dynamics, G.K. Batchelor &quot;An Introduction to Fluid Dynamics&quot;<br /><br />1) Vector and Tensor Calculations <br />2) Integral theorems/Conservation law<br />3) Thermodynamics and Navier-Stokes Equation<br />4) Special Flow Solutions to Navier-Stokes (Couette flow, Poiseuille flow, Stoke&#039;s problem, Creeping flow)<br />5) Linear Water waves, Ship waves<br />6) Sound Waves<br />7) Gas Dynamics: 1-D Euler Equation, Riemann Invariants",
+      "comment_teaching": "Prof. Xu is extremely passionate about teaching and very knowledgeable in this field. He also often mentions plenty of research and related anecdotes which makes the lectures more engaging. Prof. Xu doesn&#039;t upload lecture notes so you have to attend class and note them down yourself. <br /><br />Besides the lecture, I would strongly encourage the students to attend the tutorials too. The TA (Yuefeng Wei) is Prof. Xu&#039;s PhD student and his tutorials are very helpful for completing HW and preparing for the exams.",
+      "comment_grading": "Two grading schemes:<br />A) HW 15%, Midterm 35%, Final 50%<br />B) HW 15%, Final 85%<br /><br />Midterm is closed-book while Final is Open-book.<br /><br />My midterm score: 95/100&nbsp;&nbsp;(mean: 76.43, median 85)<br />My final score: 162/200 (mean: 90, median:122.5)<br /><br />Letter grade: A+<br /><br />FYI, I got the highest scores on both exams. The class size is generally small(&lt;10) so grading is curved i.e. highest scorer mostly gets an A+ (assuming they performed well enough) and everyone else is graded accordingly. Even if someone performs HORRIBLY, they will usually still at least manage a B-. So grading is good from UG standards.",
+      "comment_workload": "Lecture materials are on par with any other typical 4000/5000 level MATH course. Prof. Xu will announce a couple of HW questions during the lecture every week or so. Some might take quite a lot of effort but TA is super helpful for HW assignments. For students not accustomed to tensor notations or PDE analysis, there might a steep learning curve at the start. I think you can still manage a decent grade without EXTREME effort but in order to get an A+, you&#039;ll definitely have to practice quite often. (I covered all the lecture materials at least twice outside of class for revision + some practice questions from online resources).<br /><br />The midterm exam was relatively easy (assuming you are able to do all the tensor calculations, and equation derivations without referring to notes). For the final exam, since it was open book, the first ~50% of the exam was quite easy (as you can follow the lecture note examples closely) but the latter half consisted of a couple of questions on Riemann Invariants and 2-D Flow which were quite challenging.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "RGucAPlDrXLlPGVzuSlaWoeBDXT05kc3",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 554,
+          "name": "XU, Kun",
+          "rating": 1
+        },
+        {
+          "id": 1057,
+          "name": "CAO, Guiyu",
+          "rating": 0
+        }
+      ],
+      "author": "MATH學渣",
+      "date": "Jun 15, 2020",
+      "title": "",
+      "comment_content": "Ch1: Intro<br />Ch2: Vectors and Tensors<br />Ch3: Integral Theorems and Conservation Laws <br />Ch4: Navier-Stokes Equations<br />Ch5: Solutions of Navier-Stokes Equations<br />Ch6: Linear Water Waves<br />Ch7: Sound Waves<br />Ch8: Gasdynamics<br />Textbook: Fluid Dynamics (4th edition) -- Pijush K. Kunda",
+      "comment_teaching": "prof冇用website upload notes嘅, 所以上堂要自己抄notes. <br />同埋prof好鍾意講講下書突然出1-2題功課, 所以建議上足堂. <br />prof幾nice, 好樂意去解答學生問題. 上堂嘅時候講到差唔多會問下大家聽得明唔明, 如果唔明可以直接講, 佢唔介意再解釋多次.",
+      "comment_grading": "有2個scheme: <br />S1: 0.15 HW + 0.35 Midterm + 0.5 Final <br />S2: 0.15 HW + 0.85 Final<br />我: <br />HW 98.33% (mean: ~6成) <br />Midterm 77% (mean: 68.21%) above ard 1 SD<br />Final 93% (mean: 69.43%)<br />Overall 93.8% (mean: 70.96%) A+ <br /><br />Midterm比想像中容易, 好多題都係關vector tensor, 又或者prove identity. 好煩, 但跟住做就冇咩問題. TA見steps大致上啱都會比7-8成, 甚至full score<br /><br />Final因為停課所以轉左online考24 hrs. 考7題, 頭5題抄書/同功課差不多. 最後2題超難, 加埋佔50%. 做果時好似係有上網睇下paper咁做",
+      "comment_workload": "每個星期都有一份功課, tutorial交. 功課對比起其他course嚟講係難少少, 可以試下上網google下睇下paper就ok, 又或者夠厚面皮去同prof約時間問功課, 佢基本上會教晒你點做, 所以唔洗擔心. <br />一開始試過問TA, TA係唔會答所有有關功課嘅問題, 所以問prof算啦.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "e1deHBwUx38v7Czmyw8A7vAXyrCxO1ck",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 554,
+          "name": "XU, Kun",
+          "rating": 1
+        }
+      ],
+      "author": "Aaron Tsang",
+      "date": "Sep 12, 2018",
+      "title": "",
+      "comment_content": "Lagrangian and Eulerian methods for the flow description; <br />derivation of the Euler and Navier-Stokes equations;<br />sound wave and Mach number;<br />2D irrotational flow;<br />elements of aerofoil theory;<br />water wave dispersion relation;<br />shallow water waves;<br />ship wave pattern;<br />dynamics of real fluid, stokes flow and boundary layer theory.<br /><br />Textbook<br />1. P. Kundu, “Fluid Mechanics”, Academic Press, 1990<br />References<br />2. D.J. Acheson, “Elementary Fluid Dynamics”, Oxford, 1990<br />3. Franz Durst, “Fluid Mechanics: An Introduction to the Theory of Fluid Flows”, Springer, 2008<br /><br />最難應該係樣 based on phyiscal situation set 返 d initial conditon / boundary condition 之後 simpify&nbsp;&nbsp;條 Navier Stokes Equation.",
+      "comment_teaching": "教得唔錯<br />無notes <br />要上足堂同抄 notes<br />notes 深入淺出<br />上完堂, 睇返書會快幾倍",
+      "comment_grading": "可能個topics太難, 個 exam 都比較輕鬆<br />考返既野好多都係堂上教過, 所以唔好走堂",
+      "comment_workload": "6 hw<br />基本上唔係係書度出, 要返 notes 做返 results<br />有 1-2 題 homework 既問題其實都幾難,<br />只能盡人事做功課<br />利申 Math with MP track",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

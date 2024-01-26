@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 4234,
+    "subject": "SOSC",
+    "code": "1969",
+    "name": "Discovering Mind and Behavior",
+    "description": "This course introduces the fundamental scientific knowledge about human thinking and behavior processes and illustrates the relevance of this knowledge to the betterment of human performance and well-being in a wide variety of settings in society.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310
+    ],
+    "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1401\" href=\"/review/LANG1401\" target=\"_blank\">LANG 1401</a> OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1402\" href=\"/review/LANG1402\" target=\"_blank\">LANG 1402</a> OR LANG 1403 OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1404\" href=\"/review/LANG1404\" target=\"_blank\">LANG 1404</a> OR LANG 1002 (prior to 2022-23)",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"SOSC\" data-code=\"1960\" href=\"/review/SOSC1960\" target=\"_blank\">SOSC 1960</a>",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 1,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1683,
+        "name": "SIU, Nicolson",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "9YUKrTT4HCc8M7E0cwXN5Be7lXC939xF",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1683,
+          "name": "SIU, Nicolson",
+          "rating": 0
+        }
+      ],
+      "author": "kkqi",
+      "date": "Sep 04, 2023",
+      "title": "",
+      "comment_content": "Rich content about introduction to psychology, discussing most well-research fields.",
+      "comment_teaching": "He did an amazing job in teaching the content of the course with detailed explanations (videos, real-life examples, etc). Interacting quizzes during lectures will do help students build a concrete understanding of the content. He will answer all the questions you ask during or after the lectures.",
+      "comment_grading": "1 exam at upper quartile<br />1 exam above mean 1 s.d.<br />1 essay at mean<br />1 essay below mean a bit<br />finished all off-class exercises<br /> <br />and I got a B+. -_-",
+      "comment_workload": "2 examinations (midterm+final) 60%<br />2 written essay 30%<br />2 off-class exercise 10%",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 1,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

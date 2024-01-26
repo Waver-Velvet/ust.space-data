@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 3961,
+    "subject": "EMIA",
+    "code": "3500A",
+    "name": "AI and Design in Sci-Fi",
+    "description": "Artificial Intelligence (AI) has been rapidly developing to reshape the world in a myriad of ways and at a planetary scale. While this course does not focus on coding or machine learning from technical approaches. Instead, it sets in a socio-technical and fictional context to guide students, from a critical stance, to discuss futures of technology through experimenting with future projection of technology and design.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2230
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 3,
+    "rating_workload": 3,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1208,
+        "name": "MOK, Luisa",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "m8xWsVVs0EZqElpFaJjtaaLtDC1BNQSl",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1208,
+          "name": "MOK, Luisa",
+          "rating": 0
+        }
+      ],
+      "author": "David Beckham",
+      "date": "Oct 31, 2023",
+      "title": "2-cred English Literature + Arts and Crafts class",
+      "comment_content": "More like a 2-cred English Literature + Artwork class than anything related to &quot;AI and Design&quot;<br /><br />You need to read English excerpts of sci-fi spanning from 1950 to 2021 like Isaac Asimov&#039;s &quot;I, Robot&quot;, Philip K Dick&#039;s &quot;Human Is&quot; and Ted Chiang&#039;s &quot;Exhalation&quot;.&nbsp;&nbsp;Assignment 1 requires you to create an artifact based on either of these stories just like any other Luisa Mok&#039;s classes. Treat it like Book Report in the style of Arts and Crafts.<br /><br />Then write your own 1200-word sci-fi story as a midterm assignment and create another artifact based on your story. This is groupwork-based, just like some other EMIA courses, so wish you luck finding a good friend or two who can help you throughout the course. <br /><br />Even if you got swindled by EMIA2020, I still recommend this course for you because most courses analyse the topic of AI in application and technical perspective, but in this one you can dive into the history of AI and robotics in literature and discuss the morales, ethics and social impacts of AI. You&#039;ll see how the teaching is drastically changed from 2020 to 3500A.",
+      "comment_teaching": "Classes are enjoyable. The whole atmosphere is more relaxing than EMIA2020. Treat it as a literature class in HKUST.<br /><br />Be sure to join the two field trips during class. Back then Luisa and Natalie took us to exhibitions in M+ and HKDI to help us get ideas on how to create an artifact based on a story. Take note of what elements to include for your artifact and how it&#039;s related to the story.<br /><br />Before the midterm assignment, a guest lecturer from another uni will be invited to teach you how to write sci-fi.<br /><br />For the last few weeks of the course, I learnt how to use Blender for 3D modelling and attended a talk from Wired Japan Sci-fi Prototyping Institute that aims to explore technology future through writing a sci-fi story and then creating a tangible artefact (it was supposed to be there before the final but got postponed to exam period goofy ahhh)<br /><br />Feel free to reg the class for the +AI requirement if you have good presentation skills, like to read or make arts and crafts. My other classmates found this course enjoyable, but not me.",
+      "comment_grading": "Sci-fi literature presentation and modelling (Assignment 1)-25%<br />Midterm and presentation-25%<br />The Final: An artefact and presentation-40%<br />Participation score-50% peer review + 50% instructor and TA review. Score ranges from 0 to 5. 2 subgrades down if this score is below 3, 1 down if less than 5, no effect to the LETTER grade if equal to 5.<br /><br />English DSE Level 5, B+ in EMIA2020, got C- in this course...<br /><br />Be ready to receive a horrible grade if you want to take this course. The grading mechanism is very similar to EMIA2020. The competition is less fierce though. If you want to ace in your grades, work hard on writing the sci-fi story and make your beautiful and insightful artifacts based on your readings.",
+      "comment_workload": "You can do solo or form a group of 2-3. Workload may be tedious (not unmanageable) if you want to do it solo. So far others in my class managed to make things right as a team.<br /><br />If you find this topic interesting and inspiring but you can&#039;t handle the workload of making 2 EMIA2020-style artifacts plus writing a sci-fi story, AUDIT the class instead. The workload is DOUBLE what the credit is worth.<br /><br />Don&#039;t make a fuss after the add-drop period unless you&#039;ve sought for medical advice and stuff and can make sure your late-drop application will be approved (go through the procedures yourself) because this course has a tight schedule.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

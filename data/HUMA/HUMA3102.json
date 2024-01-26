@@ -1,0 +1,83 @@
+{
+  "course": {
+    "id": 596,
+    "subject": "HUMA",
+    "code": "3102",
+    "name": "Making Chamber Music A",
+    "description": "Through weekly coaching sessions and public performances, students will learn all facets of chamber music making at a high level. Students will also learn team-building skills and develop attentiveness to partners in an ensemble. This is a course for students who are highly motivated, and sufficiently trained and experienced in classical music performance. Enrollment in the course requires instructor's approval based on audition outcome.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 319,
+        "name": "SZE, Man Lun Amy",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "itkprbMqikz7KCqgiGnfzWaowTPGjyQi",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 319,
+          "name": "SZE, Man Lun Amy",
+          "rating": 1
+        }
+      ],
+      "author": "daydreaming",
+      "date": "Aug 12, 2018",
+      "title": "",
+      "comment_content": "You will just have to work on one chosen piece with your classmate. <br /><br />Professor will discuss with you on the rhythms, style, dynamics.... of the piece.",
+      "comment_teaching": "They have really different styles of teaching. <br />Their focus of teaching also vary due to the different kinds of instruments they play. <br /><br />Amy is super nice and she is a really experienced teacher in chamber music and piano. If you play the piano, she will be able to give you a lot of tips.",
+      "comment_grading": "People normally get good grade, teachers are quite lenient.",
+      "comment_workload": "You are expected to spend extra time to rehearse with your group-mates every week before the lesson time. If you can get along with your group-mates, this should be fun!<br /><br />One midterm and one final performance in the end of the semester.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

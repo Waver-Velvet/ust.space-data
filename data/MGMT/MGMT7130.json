@@ -1,0 +1,34 @@
+{
+  "course": {
+    "id": 2345,
+    "subject": "MGMT",
+    "code": "7130",
+    "name": "Doctoral Seminar in Organization Theory and Strategy",
+    "description": "Presentations and discussions of current research topics in organization theory and strategic management for doctoral students.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2110,
+      1910,
+      1710
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 4031,
+    "subject": "MATH",
+    "code": "6914X",
+    "name": "Reading Course: Perverse Sheaves",
+    "description": "Perverse sheaves are fundamental mathematical objects at the crossroads of algebraic geometry, topology, analysis, differential equations, and representation theory. In this reading course, we will read through lecture notes to the introduction of the topic, and discuss its application to the construction of the canonical basis of quantum groups among others. Students should seek approval from the course instructor to take this course.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

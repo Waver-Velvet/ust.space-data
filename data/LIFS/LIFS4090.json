@@ -1,0 +1,199 @@
+{
+  "course": {
+    "id": 811,
+    "subject": "LIFS",
+    "code": "4090",
+    "name": "Developmental Biology",
+    "description": "Processes of cellular and tissue differentiation, early and late embryonic development spanning from molecular, cellular, organ to organismal levels; reproduction, fertilization, gastrulation, neurulation, axis formation, body patterning, cellular communication, short and long range signaling, sex determination, aging, environmental influence and evolutionary significance of different regulatory mechanisms.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1530,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"LIFS\" data-code=\"2040\" href=\"/review/LIFS2040\" target=\"_blank\">LIFS 2040</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.5,
+    "rating_teaching": 3.5,
+    "rating_grading": 4.25,
+    "rating_workload": 4.5,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 501,
+        "name": "YAN, Yan",
+        "count": 4
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "bZ1C1K96TJTVTqdG2wEyXp6bNSkSbvnY",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 501,
+          "name": "YAN, Yan",
+          "rating": 1
+        }
+      ],
+      "author": "Prabh",
+      "date": "Dec 11, 2023",
+      "title": "Developmental Biology",
+      "comment_content": "The content is interesting. If you&#039;re thinking it&#039;s human embryology, it&#039;s not, you&#039;ll mostly learn about drosophila, mouse, nematode and xenopus development but it&#039;s fun regardless. <br /><br />Topic List:<br />Introduction and Gametogenesis<br />Early Embryo Development: Cell Division<br />Early Embryo Development: Pattern Formation<br />Gastrulation: Morpogenesis<br />Organogenesis: Limb Development<br />Organogenesis: Eye, Heart, Lung, Organoid<br />Organogenesis: Neural Development<br />Stem Cells and Regeneration<br />Growth Control<br />Aging",
+      "comment_teaching": "She&#039;s a good teacher and is knowledgeable. I ended up not going to many classes but I wish I had because she really genuinely cares about teaching people things. It is an intimate class, not too many people so you actually get to learn stuff.",
+      "comment_grading": "There is a midterm, paper presentation and final but this term both the midterm and final was open-book. The exams are super focused on like interpretation of concepts instead of recall of the concepts, so focus on that.",
+      "comment_workload": "Workload is nothing if you show up to all the classes. If you don&#039;t show up to class you&#039;ll need to read the textbook and find your own ways to study the topics and it&#039;s just a lot of work, NOT RECOMMENDED<br /><br />just go to class, it&#039;s actually fun",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "5eQQ44F6x5A3tXlKqGYTjUwEG7aH9WNf",
+          "name": "LIFS 4090 Midterm exam (1)_compressed",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "O5mV0ya69Y26OTC7r9uUyAee1WxCM52P",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 501,
+          "name": "YAN, Yan",
+          "rating": 0
+        }
+      ],
+      "author": "nonameeeeeee",
+      "date": "Jan 07, 2022",
+      "title": "Don&#039;t study it unless it&#039;s your major requirement and please study it after you have studied LIFS3140 and LIFS3010",
+      "comment_content": "1 Introduction and Gametogenesis <br />2 Early embryo development I: Cell division<br />3 Early embryo development II: Pattern formation<br />4 Gastrulation I: Differentiation<br />5 Gastrulation II: Morphogenesis<br />6 Organogenesis I: Limb development<br />7 Midterm project<br />8 Organogenesis II: Eye, Heart, Lung, and Organoid<br />9 Organogenesis III: Neural development<br />10 Stem cells and regeneration <br />11 Growth control<br />12 Aging<br />13 Final review<br /><br />I think the content taught here is not related to what will be examined in the midterm or final, so even if you don&#039;t quite understand the content, no need to be worried. But it will be better if you have the ebook it did help a lot for me to understand since the PowerPoints given by Prof Yan are mainly graphs or diagrams only.",
+      "comment_teaching": "Prof Yan is nice to students but I would say her way of teaching is not suitable for everyone. Personally, I don&#039;t really get a lot from what she taught since she spoke very soft and her accent was not that easy to understand. Taking her lessons require a lot of hard work for me. I have to pay extra attention in class so that I can try to fully understand what she had taught. <br /><br />Hence, she didn&#039;t upload zoom recordings until it&#039;s the last week of the exam, so don&#039;t assume that you can skip her lessons and only rely on watching video recordings. It is not possible for her class as she would like to encourage students to attend her class.",
+      "comment_grading": "Midterm exam (40%), presentation (15%), and final exam (45%)<br /><br />No individual scores or grades for each part is released but in the end, I still got a B even I am clueless on the midterm and final exam.",
+      "comment_workload": "This semester, she changed the midterm exam to a midterm project which I have one month to complete. She originally only gave us one week to complete but many of us send emails to demand for a longer period so she extended it. The midterm project requires students to utilise R programming to create some graphs and data so people who are good at IT skills have an advantage. But I am the kind of person who sucks at computer skills so again I spend a lot of time on this midterm project since we also have to analyse the data to answer some short questions. One of Prof Yan&#039;s TA would give a tutorial on R programming but I don&#039;t find it very useful since the TA just repeat the things on the ppt. <br /><br />The final exam is in an open-book format in which you could bring your laptop. I think it&#039;s not very difficult even it&#039;s an open book exam. Most of the questions can be googled so no worry.&nbsp;&nbsp;Also, I think it is not necessary to memorize every single detail of the content. Just understanding is enough since the content only acts as background information. It will be more useful if you study on lab techniques and experiment design, especially those that have been taught in LIFS3140 and LIFS3010. <br /><br />For presentation, it is a group presentation with 2-3 people in a group depending on the total number of the class. We are required to analyze a paper that is randomly assigned to us and create a ppt presentation to explain to the whole class what the paper is talking about. In my point of view, I think this part it&#039;s not very difficult if you have good groupmates and luck to be assigned on an easy paper.",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ptmrV4RiPpx8IvzV28G9tB1rc2oPxwHs",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 501,
+          "name": "YAN, Yan",
+          "rating": 1
+        }
+      ],
+      "author": "Yuumi",
+      "date": "Dec 25, 2021",
+      "title": "",
+      "comment_content": "Week1: Introduction and Gametogenes <br />Week2: Early embryo development I: Cell <br />Week 3: Early embryo development II: Pattern formation<br />Week 4: Gastrulation I: Differentiation<br />Week 5: Gastrulation II: Morphogenesis<br />Week 6: Organogenesis I: Limb development<br />Week 7: Midterm review/exam<br />Week 8: Organogenesis II: Eye, Heart, Lung, and Organoid<br />Week 9: Organogenesis III: Neural development<br />Week 10: Stem cells and regeneration <br />Week 11: Growth control<br />Week 12: Aging<br />Week 13: Final review",
+      "comment_teaching": "Yan&#039;s teaching is easy to follow and understand if you have some life science background. She speaks in a soft voice with some accent so you probably need to sit very close to her in order to listen very clearly. You may choose to go through the recordings, though. Unfortunately she may uploaded all of them one week before the final break, gd luck:)",
+      "comment_grading": "40% midterm project<br />15% group presentation<br />45% open-book final <br />all marks are unknown<br />but wow! unexpectedly good grading! How come I can still got an A after I left my answers blank for ~10 marks in my final!(total mark is 50) The exam was quite challenging even it&#039;s open book since the ppts and all you have learnt from the lectures are basically useless. You definitely don&#039;t have enough time to do all the questions in 3 hours if you look up every single question regarding to several published papers. But it&#039;s necessary to do so if you don&#039;t even know the background or terms mentioned in those questions.",
+      "comment_workload": "Nearly zero workload compared to other courses I have studied this semester. For the midterm project, you need to do the assignment and analyze the given data with R. You will have no idea what&#039;s going on initially because she supposed that we know how to do with just one tutorial while majority of us don&#039;t have any prior experience in programming. Luckily she extended the deadline for 1 month and indeed it&#039;s not difficult as expected if you follow the step-by-step guideline she gave.<br />As for the presentation, you need to make a powerpoint presenting a paper in 30 minutes. You can just finish it within one week if you have good grpmates. Easy;)<br />Final exam... trust me, you are just wasting your time on revising the lectures. Good enough if you understand which techniques can be applied to different research questions and how to analyze the real data extracted from a study.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ygCR62wMw48d4QoZAJMSsCFXlP6Y2BZ2",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 501,
+          "name": "YAN, Yan",
+          "rating": 1
+        }
+      ],
+      "author": "diudiu",
+      "date": "Dec 21, 2018",
+      "title": "Fun but kind of a niche course",
+      "comment_content": "Animal development from embryo to functioning individual. Covers the current tools and progress in the field, across different model organisms. For more details, see the course syllabus attached below.<br /><br />DBio is not a particularly large field, and it&#039;s pretty research-heavy. For this reason, it occupies an unique niche in the LIFS department, when so many other courses are focused on application and medical implications. You&#039;ll really enjoy this course if you want to do research in developmental biology (no shit), stem cell biology, or genetics, since Yan covers a lot of interesting tidbits and nuanced gaps in research. To others, this might be just too much to bear, since it&#039;s still a lot of information to process.",
+      "comment_teaching": "Yan Yan is a pretty good developmental biologist, but the same thing cannot be said of her teaching. She encourages us to ask strong biological questions, and talks a lot about relevant experimental techniques that might fit well into a developmental biologist&#039;s toolbox. However, her delivery was always a bit disorganized, while her accent and voice left much to be desired. <br /><br />Language abilities aside, she does care about her students and is usually available for questions and other random stuff. I guess the small class size does help a lot with this.",
+      "comment_grading": "Yan actually asked us in class how we&#039;d like our exams to be. We ended up doing a regular closed-book midterm (it&#039;s this or a term paper) and an open-google final. The midterm was just your average remembering-stuff type of assessment, but the open-google exam was easily one of my favorite exams in terms of enjoyability (isn&#039;t saying much). The exam asked you to analyze data and propose experiments in several scenarios; one such scenario was from this preprint paper that was only uploaded to BioRxiv last month (!!). It&#039;s good food for thought.<br /><br />Grading:<br />15% presentation, 35% midterm, and 50% final<br />33/35, 44/50, presentation unknown -&gt; A",
+      "comment_workload": "You don&#039;t have to spend a lot of time studying for this course, as Yan does not mandate rote regurgitation but emphasises understanding the concepts and letting logic guide you to the correct answer. <br />The presentation took a bit of prep, but it&#039;s just like any other journal club presentation.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "CYTNXxo12FD2uYHzYWSLOowNba9Rxc5T",
+          "name": "Course Syllabus",
+          "format": "pptx"
+        }
+      ]
+    }
+  ]
+}

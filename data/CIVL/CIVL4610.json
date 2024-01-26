@@ -1,0 +1,192 @@
+{
+  "course": {
+    "id": 3625,
+    "subject": "CIVL",
+    "code": "4610",
+    "name": "Introduction to Data Analytics for Smart Transportation Systems",
+    "description": "This course covers the role of stochasticity in transport systems and the methods used to account for this within transport infrastructure assessment, with a particular focus on the application of data analysis methods. The course introduces how to analyze the performance of public transport systems and road network using classic queuing theory and travel time reliability concepts. The course will complement skills learnt in the other transport courses to provide a well-rounded knowledge of smart transport planning and management. The focus is on the application of transport models in real world settings using real data. Students have the opportunity to work with large open source data in two experiential-learning projects. The course also develops skills for working with data and managing collaborative projects.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2130
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"1021\" href=\"/review/COMP1021\" target=\"_blank\">COMP 1021</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"1022P\" href=\"/review/COMP1022P\" target=\"_blank\">COMP 1022P</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2011\" href=\"/review/COMP2011\" target=\"_blank\">COMP 2011</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012H\" href=\"/review/COMP2012H\" target=\"_blank\">COMP 2012H</a>",
+    "corequisites": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"3610\" href=\"/review/CIVL3610\" target=\"_blank\">CIVL 3610</a>",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4.75,
+    "rating_grading": 4.75,
+    "rating_workload": 4.25,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 4,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1273,
+        "name": "JIAN, Sisi",
+        "count": 4
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "i6Srag0HLLhdpCFuL1qlUzFjZdGdogzT",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1273,
+          "name": "JIAN, Sisi",
+          "rating": 1
+        }
+      ],
+      "author": "**unknown**",
+      "date": "Jun 08, 2022",
+      "title": "A fundamental course of smart transportation",
+      "comment_content": "This course covers the role of stochasticity in transport systems and the methods used to account for this within transport infrastructure assessment, with a particular focus on the application of data analysis methods. The course introduces how to analyse the performance of public transport systems and road network using classic queuing theory and travel time reliability concepts. The course will complement skills learnt in the other transport courses to provide a well-rounded knowledge of smart transport planning and management. The focus is on the application of transport models in real world settings using real data.<br /><br />Students have the opportunity to work with large open-source data in two experiential-learning projects. The course also develops skills for working with data and managing collaborative projects.<br /><br />This course will cover the following topics:<br />1. Advanced queuing theory<br />2. Discussion of common queuing models<br />3. Application of queuing models in public transport<br />4. Introduction to travel time reliability in road network<br />6. Data analysis approaches which feed into queuing models and road network performance models<br />7. Application of data mining techniques in smart transportation planning",
+      "comment_teaching": "Professor Jian explained the concepts clearly with detailed illustrations, especially in the coding part. Her English was fluent, and students could easily understand the delivery in class. She was also responsive to questions both in and out of class, but occasionally, she might miss your email or take several days to reply.<br /><br />The tutorials were mostly office hours, with no review of the content covered in the lectures. TAs were generally helpful and willing to address our questions and difficulties to the best of their abilities.",
+      "comment_grading": "Grading scheme: 40% individual assignment + 60% group project + 10% bonus components (optional)<br /><br />Results and Statistics<br />Individual Assignment 1 Data Brief: 19/20 (Mean: 15, High: 19)<br />Individual Assignment 2 Model Report: 19.5/20 (Mean: 17.5, High: 20)<br /><br />Group Project <br />Part 1 Project Design: 6/10 (Mean: 7.93, High: 9.5)<br />Part 2 Data Brief: 19/20 (Mean: 18.11, High: 20)<br />Part 3 Model Report: 18.5/20 (Mean: 18.57, High: 20)<br />* Part 3 Bonus: 9/10 (Mean: ?, High: ?)<br />Group Presentation: 9.5/10 (Mean: 8.64, High: 9.5)<br />PS, Group Project is divided into small components,<br />and will be marked individually.<br /><br />Final grade: A+ (91.5% + 9% = 100.5%)<br /><br />It would be biased for me to comment on whether the grade is lenient or not, since my total scores were beyond the perfect score.",
+      "comment_workload": "The workload is still manageable as a CIVL elective, even if you are not proficient in Python. For the individual assignment, you are expected to spend one to two full days working on it, but the coding part is straightforward and usually not a significant issue for students. The group project will require much more time if you fail to define the problem and propose the methodology properly in Group Project Part 1. It is recommended that you consult with Prof. Jian before submitting Part 1. For Parts 2 and 3, the coding becomes more complex and time-consuming compared to the individual assignments. If you are not familiar with Python, you should start working on these two parts well in advance of the deadlines (while also obtaining necessary data files from TAs).<br /><br />Highly recommended to work on the bonus components if you intend to attain an A or A+ in this course. However, this bonus part may take a minimum of three days from formulating a meaningful research question to arriving at an &quot;insightful&quot; conclusion by processing the data using one of the clustering algorithms in machine learning. You may need to enhance your knowledge and programming skills with internet sources, as the coding for the bonus part can be technically challenging in terms of complexity.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 2,
+      "attachments": []
+    },
+    {
+      "hash": "JLKo1AWQoM99HvH1ohOOFjWmbm10a38u",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1273,
+          "name": "JIAN, Sisi",
+          "rating": 1
+        }
+      ],
+      "author": "CyrusL",
+      "date": "Jun 08, 2022",
+      "title": "Hands-on Big Data w/ Python",
+      "comment_content": "This course is pretty light on the theory part. Although quite a few topics are covered, such as travel time reliability, linear regression, queuing theory and KNN, they are briefly explained and it is sufficient to understand the principles behind them. Their implementation is given in the example code so you do not have to worry too much about it.<br /><br />The focus of this course is actually on using Python to perform analysis of transit data. In particular, you will learn how to use the pandas library to process the data, statsmodels and scikit-learn for statistical learning, and matplotlib to visualise your results.<br /><br />Even if you have not touched Python before, this course will provide many code examples for your reference, so you should be OK. However, one thing this course does *not* do is teach you fundamental programming knowledge; if you are looking to use Python for any application outside the narrow scope of data analysis, please first take COMP 1022P/1029P or equivalent.<br /><br />On the flip side, even if you are already proficient in Python for ML, you can still benefit from this course as you can get hands-on experience on transit data, which is quite complex to work with due to various dependencies between different entries.<br /><br />This course is also great for achieving a higher-level understanding of Big Data processes. The individual assignment and group project are designed for students to touch on the major aspects of data analytics, from data processing to model fitting and interpretation. Although it may be too late for your FYP, the group project can stimulate your critical thinking skills as it walks you through the steps for conducting research.<br /><br />The tutorial sessions are just for Q&amp;A. Given that barely anyone goes to them, I would prefer that some of these tutorials provide a deeper dive into the topics covered in the lectures to further enrich our knowledge.<br /><br />Please refer to the attached file for the exact topics covered in this course.",
+      "comment_teaching": "The instructor delivered the theory part of the course quite clearly. Not much to say about that.<br /><br />During the coding sessions, she went through the example code step by step which is great for beginners. However, some of the code was outdated, repetitive, or sub-optimal, which may make more experienced programmers cringe whenever they see it.",
+      "comment_grading": "[Individual Assignment (40%)]<br />In the first month, students are given the task to analyse travel time reliability based on data taken from Google Maps API. Each student is required to hand in two mini-reports: a Data Brief and Model Report.<br /><br />The mini-reports mostly involve writing bullet points and displaying relevant plots to show your results. They have strictly defined requirements and are marked accordingly.<br /><br />This assignment mainly serves to warm you up for the group project as the steps involved are quite similar.<br /><br />[Group Project (60%+10%)]<br />In the remainder of the course, students form groups of 2-3 and are asked to pose a research question related to queuing theory based on smart card data. Each group is required to hand in three mini-reports: a Project Design Brief, Data Brief, and Model Report. At the end of the course, each group is required to conduct a 15-minute presentation introducing their project.<br /><br />Take as much time as necessary to come up with a good research question! Despite the instructor&#039;s reminders, many groups failed to come up with a satisfactory one and thus lost some marks for that component.<br /><br />The mini-reports are similar in format to those for the individual assignment and are graded as such. The total workload is proportional to the number of students in that group, so it is totally fine to be in a group of 2.<br /><br />There is a bonus component worth 10% involving performing clustering on the given dataset. Group members can opt in individually. Those who opt-in are required to collectively hand in a mini-paper which is similar to a mini-report.<br /><br />From comparing my grades to those in the other post, it can be plainly seen that the grade distribution is applied to the score distribution *after* including the bonus marks, so it is highly recommended that you participate in it.<br /><br />[My Grades]<br />A detailed breakdown is included in the other post, so I won&#039;t repeat that here. Here is a brief summary of my results compared to others:<br /><br />Individual Assignment: 33.5/40 (Mean: 32.5)<br />Group Project: (54.0+9.5)/60 (Mean: 53.3+???)<br />Overall: 87.5%+9.5%=97.0%<br /><br />Grade: A<br /><br />It is quite easy to get A-range (~90%) due to the bonus marks and lack of exams, but given the grading curve, I think you probably need a perfect score to get A+.",
+      "comment_workload": "Since you are expected to be concise in the mini-reports, even if you have poor English, it barely takes any time to write them. Most of the workload lies in writing the code for performing the data analysis.<br /><br />The amount of time spent on the individual assignment and group project may vary greatly depending on your programming capability, and in the case of the group project, also your research question and role. Personally, I spent around 1 working day on each mini-report, but that is considering that I have 3 years of experience in Python, most of which on building ML applications.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 2,
+      "attachments": [
+        {
+          "key": "EPy4d9JT7ZG6bbbBFP15Eraf2AwcMNg4",
+          "name": "CIVL 4610 Schedule",
+          "format": "png"
+        }
+      ]
+    },
+    {
+      "hash": "DvCHCFmufAJZT1gEy1mdIO4FfnZTWFtK",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1273,
+          "name": "JIAN, Sisi",
+          "rating": 1
+        }
+      ],
+      "author": "thebusranger",
+      "date": "Jun 08, 2022",
+      "title": "A good course in transport data analytics",
+      "comment_content": "Refer to other post (This course use Python programming)<br /><br />Basically you can neglect the pre-reg of COMP 10xx.<br /><br />I think it is better to study CIVL 4620 together with this course since they have similar content, but Prof Jian will still review the queuing theory since some of the students are in Year 3 (such as me)<br /><br />It is extremely useful if you want to engage in Smart City/Transport field",
+      "comment_teaching": "Prof Jian can speak fluent English!!! (Rarely seen in CIVL dept)<br />She has good teaching skills and lecture notes for students. She will run and explain the code step by step in lecture.<br /><br />She and her TAs will reply email from students and she is willing to answer our questions (but bear in mind pls send email earlier as she and her TAs will not reply email instantly, usually requires me around 1 day to get a reply)<br /><br />There aren&#039;t lecture content reviews in tutorials, basically just office hours and directly solve students&#039; problems related to assignment guidelines and programming issues.",
+      "comment_grading": "Grading is good<br />This year assessment scheme is slightly different than last year<br />40% individual assignment + 60% group project&nbsp;&nbsp;<br /><br />My score<br />Individual assignment 1 Data Brief : 19/20 (Mean:15, highest 19)<br />Individual assignment 2 Model Report: 19/20 (Mean:17.5, highest 20)<br />Group Project Part 1 Project Design Report: 9/10 (Mean:7.93, highest 9.5)<br />Group Project Part 2 Data Brief : 18/20 (Mean:18.11, highest 20)<br />Group Project Part 3 Model Report: 17/20 (Mean:18.57, highest 20)<br />Group Project Presentation: 8.5/10 (Mean:8.64, highest 9.5)<br /><br />There is a bonus component consisting of 10 marks but only a few students engaged (not me)<br /><br />Final grade:A- (90.5%)<br />I screwed up in group project or else I might get A since everyone got extremely high marks in the group project <br /><br />Anyway the grading is good for a student weak in programming.<br />It is extremely easy to get over 80% marks",
+      "comment_workload": "Not very large. You can always ask for TA or professor&#039;s help when you encounter problems in code. The individual assignment and group project use similar approaches. There is no need to worry much in programming, however, I did spend some time in it considering that I obtained C- in COMP 1022P. <br /><br />It is easy to deal with individual assignments, but group project is much more complicated, it is vital to choose a good topic (must be related to queuing theory). My group original topic is too broad (got banned by prof.) and we need to narrow down, which wasted us some time and effort",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 2,
+      "attachments": [
+        {
+          "key": "808exgQ0XsDJtmpYaTig7NuOHJilj0FC",
+          "name": "CIVL4610 Course Outline",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "8glxgRbskzTBFKM4FWMuw25PZVQ8v2ik",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1273,
+          "name": "JIAN, Sisi",
+          "rating": 1
+        }
+      ],
+      "author": "Walhalancs",
+      "date": "Feb 07, 2022",
+      "title": "Good Grade + Interesting Hands-on experience in Transport Data Analytics",
+      "comment_content": "I took CIVL 4100I Introduction to Data Analytics for Smart Transportation Systems in 2020-21 Fall.<br /><br />Reason for me to choose this elective:<br />1. Learn programming and machine learning to enrich my CV.<br />2.&nbsp;&nbsp;Manageable Projects experience with proper guidance (not like the one in Capstone)<br />3. Make some new CIVL friends in final year.<br />4. Professor is kind and good at teaching.<br />5. Get good grade with less workload (no need to revise and remember stuff for midterm and final exam)<br /><br />Course Content:<br />1. Travel Time Reliability Metrics<br />2.&nbsp;&nbsp;Basic Python Programming (with Step-by-Step Instruction)<br />3. Data Pre-processing and visualization <br />4. Queuing Theory (Both Deterministic and Stochastic, i.e. DD1, MM1)<br />5. Regression Model and Statistical Learning (K-means clustering, logistic regression)<br />6. How to manage a team research project (her experience sharing)<br /><br />The content is also suitable for students with very few programming knowledge. So dont be scared by the programming pre-requisites.",
+      "comment_teaching": "Prof Jian is an enthusiastic teacher with good teaching skills. <br /><br />With her academic background in NTU Singapore and University of New South Wales, there is no doubt that her english is fluent. <br /><br />Prof. Jian would replies E-mails from students and very willing to answer questions after class. <br /><br />However, the tutorials did not include any review of lecture contents. Basically, the tutorials are office hours of the tutors, in which would be opened when there is any questions from students. <br /><br />The teaching team replies promptly and their suggestion ususally solves your programming issues.",
+      "comment_grading": "I would say the grading is &quot;Fair&quot;. (Everyone get high marks and it is reasonable for everyone to get good grade)<br /><br />Sisi understands the difficulty for CIVL students to do programming. I think credits are also given on your efforts in attempts to solve the question. <br /><br />As you might know, CIVL electives would not be bad grade at all. If you followed her grading rubrics and finish the required parts carefully, there is no difficulty in achieving 80% score.<br /><br />My experience:<br />Indiv. Assignment 1: 13.95/15 (mean 12.81)<br />Indiv. Assignment 2: 14.25/15 (mean 12.93)<br /><br />Group Project:<br />Part 1 Project Design Report: 9/10 (mean 7.6)<br />Part 2 Data Brief: 19/20 (mean 18.7)<br />Part 3 Model Report: 24.5/25 (mean 23.22)<br />Part 4 Presentation: 15/15 (mean 12.3)<br /><br />Final Grade: A+",
+      "comment_workload": "Workload:<br />2 Indiv. Assignments<br />1 Group Projects (Data Analysis of Sydney Public Transport System with Queuing Theory)<br /><br />The main work load is not on the programming itself, but on how you decide your research topic and how to analyse your data and results obtained.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 2,
+      "attachments": []
+    }
+  ]
+}

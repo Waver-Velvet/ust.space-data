@@ -1,0 +1,79 @@
+{
+  "course": {
+    "id": 3525,
+    "subject": "HUMA",
+    "code": "4620",
+    "name": "Geopolitics",
+    "description": "This course surveys the history of modern geopolitical thinking and its relation to world politics over the past two centuries. What is the relationship between state power and the mastery of geographic space? How does geography both constrain and facilitate the ambition of states? Is geography destiny? Students will read some of the classics of modern Western geopolitical thought, alongside critical commentary and historical contextualization, and consider their relevance for understanding contemporary global affairs.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2110
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 314,
+        "name": "DERMAN, Joshua",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "82dOKVOYpweg6ChZlfklOkHDNhy8ABIw",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 314,
+          "name": "DERMAN, Joshua",
+          "rating": 1
+        }
+      ],
+      "author": "Alan Guo",
+      "date": "Jan 09, 2022",
+      "title": "",
+      "comment_content": "The course covers the history from the late 19th century to the Cold War with heavy concentration on the two world wars.<br /><br />However, this is not to say that this course is simply going through history. This course heavily relies on reading, understanding and analysing materials in class to understand various factors behind certain decisions and outcomes (e.g. Was World War I inevitable? How did Germany manage to lose World War II?)<br /><br />Since understanding is the key here, you are not required to have some knowledge about history as you will have plenty of readings and discussions to do in class.<br /><br />For more details, see the attached syllabus.",
+      "comment_teaching": "Since the course does not involve a lot of lecturing, there is not too much to say here. Your learning experience can vary depending on your activeness. Passion is always a good teacher.<br /><br />The professor is very nice and helpful. He gives very detailed feedback to your essays and you can always find him via e-mail and/or office hour. During class discussion, he will guide the class through the main points of the material, and it is very easy to follow and participate.",
+      "comment_grading": "The grading scheme is like this:<br /><br /> - Attendance (10%) <br /> - Participation (15%)<br /> - July Crisis Simulation (15%)<br /> - Mid-term Essay (30%)<br /> - Take-home Final Essay (30%)<br /><br />1. For attendance, the professor will check attendance at the beginning of every class. As long as you show up, everything is fine. <br />2. For participation, this class focuses primarily on discussion instead of teaching. Raise/answer questions to get your points.<br />3. There are two essays in the course. The topics are pretty much fixed, and you need to refer to the readings and build your points. Material is the key here. For both essays, you have approximately 1 to 2 weeks to finish. <br />4. For July Crisis Simulation, see the attached syllabus. It&#039;s quite intense and fun.",
+      "comment_workload": "See the syllabus, you get reading materials for every class. The workload can be considered heavy if you are not used to reading a lot of materials. Expect putting some decent efforts into reading and understanding materials. Also, you are asked to refer to the readings when you write your essay. Therefore, getting familiar with the materials is very important.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "wztLvbTsy0ynph1Q7NtHbP38ojzzm0CD",
+          "name": "HUMA 4620 Fall 2021 Final Syllabus Revised",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

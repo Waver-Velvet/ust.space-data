@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 1187,
+    "subject": "SOSC",
+    "code": "3330",
+    "name": "Modern Dictatorship: West and East",
+    "description": "This course takes a critical and comparative review of the most significant dictatorships in the 20th century, the Third Reich under Hitler, the Soviet Russian system under Stalin, and the Chinese Party-state under Mao. All the three systems stem from ideologically powerful mass revolutionary movements and produced distinctive political, social and economic results. Many of their legacies are still felt even today and, therefore, studying them from a distance will lead to valuable lessons.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1510,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 662,
+        "name": "DING, Xueliang",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "sTmgpP2RIcyD253BnUlVKR8uzVgs6JHn",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 662,
+          "name": "DING, Xueliang",
+          "rating": 1
+        }
+      ],
+      "author": "kennethchan901",
+      "date": "Sep 05, 2017",
+      "title": "",
+      "comment_content": "This course is focused on dictatorships in both the Eastern and Western world but mainly focuses on Stalin and Mao. Students will need to do a comparative research paper on other Communist dictatorships such as North Korea, Cuba etc.",
+      "comment_teaching": "Teaching is very interesting and not boring, engaging delivery",
+      "comment_grading": "Grading is quite decent, although due to high workload, effort in readings and research is required to get a decent grade",
+      "comment_workload": "High workload, need to write a long mid-term and final paper. There are also a lot of readings on Stalin and Mao which is quite intensive. For the final paper, significant self-research is also required.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

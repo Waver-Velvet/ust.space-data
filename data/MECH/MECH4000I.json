@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 2329,
+    "subject": "MECH",
+    "code": "4000I",
+    "name": "Introduction to Nanosatellite Engineering (Experiential Course)",
+    "description": "This course will introduce the fundamental concepts of CubeSat – a class of nanosatellite with standardized unit size of 10x10x10 cm. As an experiential course, a number of labs have been prepared with a different focus on orbits dynamics, analysis of control and thermal subsystems. Every student should finish fundamental labs (~2 weeks each) individually, and organize a group, select and complete two advanced lab topics (~3 weeks each). The course shall offer students with both hands-on experience software simulation and hardware implementation. The topics in this course are introduced with mathematical derivations and case studies. After taking this course, we hope students will understand the fundamentals of satellite engineering and grasp the usage of common engineering design tools, such as MATLAB Aerospace blockset and CubeSat IMU hardware; and therefore gain the capability to attend astronautics related international competitions, such as GTOC in the near future.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1810,
+      1710
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"MECH\" data-code=\"3610\" href=\"/review/MECH3610\" target=\"_blank\">MECH 3610</a> OR <a class=\"course-link\" data-subject=\"ELEC\" data-code=\"3200\" href=\"/review/ELEC3200\" target=\"_blank\">ELEC 3200</a>) AND (<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2420\" href=\"/review/ELEC2420\" target=\"_blank\">ELEC 2420</a> OR <a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1112\" href=\"/review/PHYS1112\" target=\"_blank\">PHYS 1112</a>) AND (<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2011\" href=\"/review/MATH2011\" target=\"_blank\">MATH 2011</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2111\" href=\"/review/MATH2111\" target=\"_blank\">MATH 2111</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2351\" href=\"/review/MATH2351\" target=\"_blank\">MATH 2351</a>)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 871,
+        "name": "HUANG, Xun",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "GtBe6V2G1LrDdB0QsJSvPJDotLIPGXEA",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 871,
+          "name": "HUANG, Xun",
+          "rating": 1
+        }
+      ],
+      "author": "Novae",
+      "date": "Aug 22, 2018",
+      "title": "SPACE interested people come!!",
+      "comment_content": "Notice, this is a new course, everything is not settled yet, content could be improved next time.<br />This course introduce nano-satellite, more specifically Cubesat. <br />Topic include:<br />Overview of modern space debris environment, Cubesat concept.<br />Basic MATLAB operation. (lab1)<br />Basic orbital mechanics and simulation software (lab2)<br />Space thermal environment.<br />Energy consideration: battery, solar panel, eclipse, etc.(lab3)<br /><br />Lab Options (choose 2 out of 4):<br />1. Space thermal environment<br />2. Halo Orbit (not that mysterious, just orbit around a Lagrange point)<br />3. Tethered satellite control<br />4. Cubesat IMU <br /><br />The course require MATLAB, if you are familiar with MATLAB, that&#039;s good but not necessary, only simple operation is needed and can pick up easily with any programming experience. I feel that MATLAB is the easiest and user friendly language I learned. <br /><br />I was wondering Aerospace Engineering is lacking &#039;space&#039;&nbsp;&nbsp;and here comes one finally. If you are interested in space, make sure you try out the course!!",
+      "comment_teaching": "Indeed Prof. Huang is not the one teaching but the teaching assistant Dr. Pokwang Kwan instead. <br />Dr Kwan&#039;s teaching is so so, not very motivating but can explain thing clearly.<br /><br />2018/08/22<br />Added: This course seems will not be teach by Prof. Huang again, not sure if content made any changes.",
+      "comment_grading": "Grading is fine fine, I dont know my marks for the final presentation but I think I perform not that good. My lab tasks is around 80%&nbsp;&nbsp;and I get B+.",
+      "comment_workload": "The workload is light. There are only 3 compulsory lab tasks and 2 optional lab tasks plus a final presentation. Lab tasks are straight forward and not difficult. <br />Final presentation can be topic chosen from a list or self proposed.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

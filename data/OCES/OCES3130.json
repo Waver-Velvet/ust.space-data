@@ -1,0 +1,88 @@
+{
+  "course": {
+    "id": 2730,
+    "subject": "OCES",
+    "code": "3130",
+    "name": "Marine Biology",
+    "description": "Survey of the major marine living organisms; their habitat and community structures; trophic interactions and the marine ecosystem.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 231,
+        "name": "LIU, Hongbin",
+        "count": 1
+      },
+      {
+        "id": 1673,
+        "name": "WU, Longjun",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "14wPfbjdzxFJ2RIGthgfW95c1mq1KJNU",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 231,
+          "name": "LIU, Hongbin",
+          "rating": 1
+        },
+        {
+          "id": 1673,
+          "name": "WU, Longjun",
+          "rating": 1
+        }
+      ],
+      "author": "wdawa",
+      "date": "Jan 22, 2024",
+      "title": "Not a easy course, but you still can get very good grade",
+      "comment_content": "In this course, you can studied the most common species you can found in the ocean, include:<br />-common oceanic microorganisms like algae, virus and bacteria.<br />-invertebrate: sponge, jellyfish, octopus, sea anemone and&nbsp;&nbsp;etc.<br />-vertebrate: fish and marine mammals.<br />-Different ecosystems: Rocky shore, coral reefs, mudflat etc.",
+      "comment_teaching": "In this year, 2/3 of the course taught by Prof. LIU, including the microorganisms and ecosystem, Prof. WU put his focus on the marine animals.&nbsp;&nbsp;Both of them taught well,&nbsp;&nbsp;but WU&#039;s course is much worthy to attend. He is a very good lecturer who knows how to make the content interesting and easy to understand. LIU makes nice and clean powerpoint for his teaching too, however he is not a really good speaker and it is easy to lose your attention during his lecture.But never mind, you can get a good grade&nbsp;&nbsp;by watching his slides only ;)",
+      "comment_grading": "midterm(45%): 34/40&nbsp;&nbsp;mean:28.3<br />final(55%): 46.5/60&nbsp;&nbsp;&nbsp;mean:37.0<br />letter grade: A-",
+      "comment_workload": "There are only midterm and final exam for this course, the final conducted 10% more because of larger amount of content compared to midterm and the content tested in midterm will not be tested in the final. Both midterm and final conducted 30-40 MC questions, and 2-4 short essay question. There are no attendance requirement.( I skipped almost half of the lectures) , so the workload is quite low compared to other OCES courses",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

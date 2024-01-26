@@ -1,0 +1,278 @@
+{
+  "course": {
+    "id": 2658,
+    "subject": "MATH",
+    "code": "3332",
+    "name": "Data Analytic Tools",
+    "description": "This course will introduce to the students some mathematical analysis tools that are useful for data analysis. The topics include Fourier analysis, wavelet analysis, function expansions, and basic functional analysis (Banach space, Hilbert spaces, linear operators, contract mapping, etc), and basic convex analysis (subgradient, convex conjugate).",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2011\" href=\"/review/MATH2011\" target=\"_blank\">MATH 2011</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2023\" href=\"/review/MATH2023\" target=\"_blank\">MATH 2023</a>) AND (<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2111\" href=\"/review/MATH2111\" target=\"_blank\">MATH 2111</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2121\" href=\"/review/MATH2121\" target=\"_blank\">MATH 2121</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2131\" href=\"/review/MATH2131\" target=\"_blank\">MATH 2131</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2350\" href=\"/review/MATH2350\" target=\"_blank\">MATH 2350</a>)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3.83,
+    "rating_teaching": 3.83,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 6,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 794,
+        "name": "CAI, Jianfeng",
+        "count": 6
+      },
+      {
+        "id": 1359,
+        "name": "WEN, Ruixue",
+        "count": 2
+      },
+      {
+        "id": 1426,
+        "name": "LI, Jingyang",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "L2eb0bFrzwPQIHGKPUSCcZQRsNfdYV2F",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 794,
+          "name": "CAI, Jianfeng",
+          "rating": 1
+        }
+      ],
+      "author": "sleepingbag",
+      "date": "Jan 30, 2022",
+      "title": "",
+      "comment_content": "The course content includes different methods and computation techniques on latent vector space. There are some iteration methods that could be the basics of machine learning. Some application examples are provided. <br /><br />I personally recommend CS students to take this course IFF you have good math background AND you are interested in Machine Learning.<br /><br />For DSCT student, 3322 and 3332 would be a really good direction for you to think of the FYP project realm no matter you are choosing CS project or MATH project.",
+      "comment_teaching": "I think professor CAI is pretty fluent in English and already have a lots of experience in teaching 3322 and 3332. <br /><br />There are very clear proofs to every lemma and theorem and also some really useful real life application example.",
+      "comment_grading": "I think the grading is pretty good. <br /><br />For the exam, if you could understand each topic well, then you could probably get the answer correctly. But if you don&#039;t spend time on understanding all the concept, then probably you would fail to figure the direction of a problem set and be deducted with lots of scores.<br /><br />So if you make ALL the concepts clear to yourself, then A range is not hard. If you miss one, then it&#039;s hard to tell.<br /><br />(Some people keep asking what would be tested, how the questions would be marked in the exam, blablabla IN A REALLY FLATTERING WAY. Also some people cheat in the quiz. I just want to say you guys are stupid.)",
+      "comment_workload": "There is a quiz every three weeks. The quiz is not hard but required to memorize some proofs (which is also useful for the final exam).<br /><br />As for the homework, it&#039;s really light workload I would say.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ftaSGGEAaZNmcJEXB4gAXy7vyBuzF2vn",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 794,
+          "name": "CAI, Jianfeng",
+          "rating": 1
+        }
+      ],
+      "author": "luke_lu",
+      "date": "Jan 06, 2022",
+      "title": "Prof CAI again",
+      "comment_content": "Content this year<br />02 Sep: Introduction ; Vector spaces .<br />07 Sep:&nbsp;&nbsp;Vector spaces, Normed spaces .<br />09 Sep: Normed spaces; Case study: k-means clustering, k-medians clustering .<br />14 Sep: Case study: k-medians clustering; Limit and Convergence in vector spaces. <br />16 Sep: Limit and Convergence in vector spaces. ; <br />21 Sep: Inner products on vector space, Cauchy-Schwartz inequality,&nbsp;&nbsp;&nbsp;&nbsp;<br />23 Sep: Cauchy-Schwartz inequality, Hilbert spaces.&nbsp;&nbsp;&nbsp;&nbsp;<br />28 Sep: Case study: Kernel trick, Kernel k-means clustering.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />30 Sep: Linear functions on Hilbert spaces, Riesz representation theorem, Hyperplanes, Projection onto hyperplanes.&nbsp;&nbsp;&nbsp;<br />05 Oct: Projection onto hyperplanes.&nbsp;&nbsp;&nbsp;<br />07 Oct: Case Study: Linear regression. Case study: Regularization, Kernel regression.&nbsp;&nbsp;<br />12 Oct: Cancelled because of bad weather.<br />14 Oct: Holiday<br />19 Oct: Case study: Support vector machine (SVM).&nbsp;&nbsp;&nbsp;<br />21 Oct: Case study: Kernel SVM.&nbsp;&nbsp;&nbsp;Differentiability of functions on Hilbert spaces, Gradient.&nbsp;&nbsp;&nbsp;<br />26 Oct: Differentiation rules. <br />28 Oct: Case Study: Optimality <br />02 Nov: Case Study: Optimality <br />04 Nov: Case Study: Gradient Descent&nbsp;&nbsp;<br />09 Nov: Case Study: Gradient Descent&nbsp;&nbsp;; Linear operators, operator norm. <br />11 Nov:&nbsp;&nbsp;Operator norms, Adjoint operators. <br />16 Nov: Adjoint operators, Differentiation of operators. <br />18 Nov:&nbsp;&nbsp;More differentiation rules. Hessian. <br />23 Nov: Hessian. Function expansion. Newton&#039;s method. <br />25 Nov: Newton&#039;s method. Case study: Neural Network Training and back propagation. <br />30 Nov: Case study: Neural Network Training and back propagation. <br /><br />There are five chapters, the first four are relatively easy, the fifth suddenly go very hard. Some content overlaps with other math courses.",
+      "comment_teaching": "Typical Prof CAI. Notes are available online before class. He teaches by rewriting the notes in class.<br /><br />You can send email to go to his office hours, he is willing to answer question for you.",
+      "comment_grading": "Official:<br />30% Homeworks (every two weeks), 20% Quizzes (every three weeks), 50% Final Exam.<br />In practice:<br />Mostly full mark for HW and Quiz(I suspect they check your work randomly), 100% final<br /><br />Final Mean is around 78 and sd is 21. I get B with final 1sd in mean. So I think grading is OK?",
+      "comment_workload": "HW has about 5 questions or less<br />Typically finish each in several hours.<br /><br />Quiz has about 3 each, 55min to do<br /><br />Final this year has 4 long Questions(one is actually three sub-questions, so 6 in total I guess)<br /><br />Average math workload I think",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "9OMMd0TbPa8GNGEwDza6sYW9msPXl4Qj",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 794,
+          "name": "CAI, Jianfeng",
+          "rating": 1
+        }
+      ],
+      "author": "H.Y",
+      "date": "Dec 27, 2021",
+      "title": "Interesting",
+      "comment_content": "Basically similar to the previous offering, but we do not cover subdifferential and Fermat’s lemma this semester (maybe this had reduced the difficulty?!).&nbsp;&nbsp;The course material is self-content if one is familiar with Linear Algebra (like math2121). If one really wants to be well prepared for this course, reading “Linear Algebra Done Right” before the semester start will definitely help since it introduces LA from the vector’s perspective which is what we use in this course. <br /><br />In each chapter, the professor will talk about some math concepts and then follow by case studies that utilized the concepts learned.&nbsp;&nbsp;The first few chapters are about how to model a problem (like clustering, regression, classification) to become a minimization problem. The following chapters are about how can we solve the minimization problem (optimization).",
+      "comment_teaching": "The teaching is great! Prof. Cai has very well-organized notes and explains them clearly. The teaching pace is also easy to follow and Prof. Cai is very responsive to answering questions.",
+      "comment_grading": "30% Homeworks (every two weeks)(total 5)<br /><br />20% Quizzes (every three weeks)(total 3)<br /><br />50% Final Exam.<br /><br />The grading for homework, quizzes, and the final are quite lenient this semester, one can get marks as long as the general argument is correct ( don’t need to be as rigorous as some courses like math2033 I believe !?).&nbsp;&nbsp;<br /><br />Overall 98.7% is an A, so I believe quite a few people do very well in this course.",
+      "comment_workload": "The workload really depends on one’s familiarity with Linear Algebra and the course materials. Most questions in the homework require one to utilize techniques taught in class (like techniques the professor used while proving some theorems). Others can be solved more easily if one knows some properties taught in Linear Algebra courses (like the Orthogonal complement of a subspace). That being said, the professor is very willing to give hints if one asked (which is extremely useful) (Once, he basically taught me how to solve the question). <br /><br />As for the Quiz, most questions are directly copied from homework. Some proof in the questions requires some special tricks, so make sure one review proof appears in the homework before taking the quiz. <br /><br />For the Final, the professor will give a sample paper for us to review before the final. Although it is very useful, notice that, unlike the previous year, there are no identical (extremely similar) questions appearing in the actual final this semester.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "4zojurYIJ4UWTJhwMYSW7q40pjmKA4Q1",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 794,
+          "name": "CAI, Jianfeng",
+          "rating": 1
+        },
+        {
+          "id": 1426,
+          "name": "LI, Jingyang",
+          "rating": 1
+        }
+      ],
+      "author": "jz0149",
+      "date": "Dec 22, 2020",
+      "title": "",
+      "comment_content": "Content sacrifices depth for breadth in giving a brief introduction into functional analysis and (very brief) convex optimization, as well as some machine learning algos. Boyd and Vanderberghe’s notes are good if you want to get a more holistic understanding of convexity and optimality (eg epigraphs, supporting hyperplane theorem, etc). <br /><br />Content covered:<br />1. Norms, vector spaces, k-means, limits and sequences in vector spaces, Banach spaces<br />2. Inner products, Cauchy-Schwarz inequality, Hilbert spaces, kernel methods, ridge/LASSO regression<br />3. Linear and affine functions, Riesz representation theorem, Frechet derivative, gradient<br />4. Convexity and optimality: convexity, strict convexity, gradient descent, subgradient and subdifferential, Fermat’s lemma, optimality conditions<br />Also: Constrained smooth convex optimization, proximity operators, convergence of GD etc was scheduled to be covered but cut due to time constraints.",
+      "comment_teaching": "Prof. Cai teaches fairly well and answers questions quickly. He does upload complete lecture notes before class (which he replicates during lectures along with some explanations) so a lot of people do skip. Only gripe is that I prefer typed up notes so I can ctrl+f but his handwriting is very neat and legible, and diagrams are drawn quite nicely too.<br /><br />Not much to do in tutorials except quizzes and the TA going over HW/quiz answers. Can skip if you got full marks on that HW/quiz, recordings are available anyway.<br />The TA Jingyang was very helpful during the exam period.",
+      "comment_grading": "Homeworks (35%) (6)<br />Quizzes (30%) (4)<br />Final (35%) (cumulative)<br /><br />note: covid semester so quizzes and exams are online<br /><br />Worth noting that the TA seems to grade light, so mean might be higher than previous semesters.<br /><br />Homeworks: Usually proofs, some minor calculations. Due date is around one week from time of release. Google/Math Stackexchange is your friend here.<br />Aggregate mean: 555.6/600, me: 580/600<br /><br />Quizzes - Usually 3-4 questions, 2-3 being relatively standard. Quiz 3 and 4 had curveball questions that I wasn’t able to prepare for.<br />Aggregate mean: 345.6/400, me: 375/400<br /><br />Exam is fairly standard, nothing too special. Like math3322 in previous semester, final is open-book for hard copy notes only. I found the practice final to be very similar to the real thing. Shoutout to Jingyang again for checking my answers on the practice final :p<br />Mean: 81.8/100, me: 97/100<br /><br />Important things you need to know:<br />If you’re aiming for A range, you need to be very familiar with all of convexity and optimality, be able to prove a given function is/is not an inner product/norm, calculate gradient of arbitrary functions, etc. You should also know how to calculate the multivariable subdifferential case and Fermat’s lemma and how to apply it to a problem (eg Find deltaF(x) and find the optimality condition for a global minimizer - that means use Fermat’s lemma.)<br /><br />My total: 95.90/100 (A)<br />Idk class mean letter grade but I suspect around B/B-. Maybe a bit higher this semester since on an absolute scale a lot of people did well. I heard from friends that A+ seems to be very difficult to get in this prof&#039;s class.",
+      "comment_workload": "Varies throughout the semester. I found the first 2 hws to be relatively easy, next 2 to be harder but manageable, last 2 to be a pain in the rear (honestly might have gotten A+ if i didn&#039;t mess up hw6). This sem, HW6 was released days before the exam. Other than that, workload is what you want it to be: I revised very little up until the week before the final. If there&#039;s a past paper, I highly recommend doing it - the final was extremely similar (the 25pt question almost copied word for word).<br />Imo, the first big spike in difficulty is the Frechet derivative and gradient calculation, and the second is the calculation of multivariable subdifferentials. If you can get past that, this course is a relative breeze for the beginning 60% of the semester",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "qQoIJVn3uN4c2UFK7HH6Q7BuDLs0V6wO",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 794,
+          "name": "CAI, Jianfeng",
+          "rating": 1
+        },
+        {
+          "id": 1359,
+          "name": "WEN, Ruixue",
+          "rating": 1
+        }
+      ],
+      "author": "walterluk",
+      "date": "Jan 12, 2020",
+      "title": "Not recommended",
+      "comment_content": "Quite easy &quot;before the first quiz&quot;. Attention: BEFORE QUIZ 1! After that, it is very difficult. Only Math Genius can get what are they talking about.",
+      "comment_teaching": "Prof Cai just read his lecture notes and the notes will be sent through Canvas, so not very recommended to attend as it is quite boring. I skipped all lectures after quiz 2.<br /><br />Tutorials are recommended as quizzes are hold are some answers in the homework are written on the board after homework are handed in. But her English tone is quite horrible, so quite difficult to understand.",
+      "comment_grading": "Letter graded, proportion is: 30% Homeworks, 20% Quizzes, 50% Final Exam.<br /><br />Passing grade is 30%, so just try hard in the homework as it is the easiest way to get points.<br /><br />I got D in this course, as I have got around 50% in all homework, 45% in quizzes and 29% (mean= 53.1) in final. (As I have calculated I just need to get 12 marks in the final to get a pass, I just answered 4 questions out of 7.)",
+      "comment_workload": "Homework: one every 2 weeks so total 6 homework in my semester.<br />Not very heavy, but some questions cannot be found in the lecture notes.<br /><br />Quiz: 3 quizzes in total, done in tutorials.<br />Some questions are similar to the homework, so recommend to do homework on the week that hold quizzes for revision. Should get some questions correct, although there are very tough questions.",
+      "rating_content": 2,
+      "rating_teaching": 2,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "5YerIsS3TkkuQheDClO9S6sqRDRPU9bv",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 794,
+          "name": "CAI, Jianfeng",
+          "rating": 1
+        },
+        {
+          "id": 1359,
+          "name": "WEN, Ruixue",
+          "rating": 1
+        }
+      ],
+      "author": "erict",
+      "date": "Dec 14, 2019",
+      "title": "Glory to MATH STACK EXCHANGE",
+      "comment_content": "Data science required course.<br />Much harder than MATH3322.<br />Not recommended to anyone except math gods.<br />Do expect tedious calculations and proofs.<br /><br />Although it is about machine learning, you don&#039;t really need to know anything about computer science. I don&#039;t think the math knowledge in this course can be easily applied in real life. <br /><br />From linear algebra to multi variable differentiation. Be prepared: the spike in difficulty is high. <br /><br />The course covers more or less material depend on the pace of teaching. Course description says it all. Basically, math for machine learning if you will. The differentiation here is Frechet differentiation, which should be new to most students.<br /><br />Elvish language example: what does the (Y) in D(F)(X)(Y) mean? I still don&#039;t know, can&#039;t seem to find any reference about it too.<br /><br />Things you need to know to survive:<br />1. MATH STACK EXCHANGE, otherwise u fail the HWs and the also course.<br />2. Linear algebra about norm and inner product, Example: proving a norm, operation of inner product<br />3. Frechet derivative and gradient (the calculation is the important thing of this course)<br />4. subdifferential calculus (I can calculate the single variable case at the end, the multi variable one is really difficult to calculate)<br />5. proofing linearity and convexity<br />6. RECITE the Algorithm of gradient descent.",
+      "comment_teaching": "Instructor and TA are nice, easily approachable people. But the TA&#039;s English is barely understandable, do ask her questions in Mandarin if necessary (like you don&#039;t know how to do the HW).<br /><br />Didn&#039;t go to most lectures because the instructor just copy and read aloud the lecture note posted online and I see not much difference from reading it on my own. <br /><br />You may want to go to the tutorials tho, the material in tutorials (mostly won&#039;t be posted online) are likely to be in the quizzes. <br /><br />Special arrangement for this semester: online lectures at the last 2 weeks.",
+      "comment_grading": "This prof. gives good grades for most course he&#039;s taught. I hope he will give some mercy this time too.<br /><br />P/F option(this semester): should be irrelevant to later semesters but a pass is easily achievable if you get mean score for homework. and you can even skip the final exam. Alas, I didn&#039;t apply for it.<br /><br />Letter grade: 30% Homeworks, 20% Quizzes, 50% Final Exam.<br /><br />Final grade not published yet. no comment. may update later.<br /><br />UPDATE: I got a B.<br />Did everything around mean, only final 65/100 (mean 53.1)<br />From my fd: if you get mean, it would be a B-.",
+      "comment_workload": "Very similar style to another course MATH3322 from this prof.<br /><br />3 Quizzes ~40min each, ~once in three weeks<br />Content: recite proofs in lecture notes, calculate things like differentiation<br />Just test if you have studied at all.<br />Will be tested in the tutorial session, make you can attend the tutorials when a quiz date is announced.<br /><br />6 Homework, need to submit hard-copies ~once in two weeks<br />Content: some proofs you can hardly even google and find the solution, some easy proofs just by using the lemma in lecture notes. some calculation, usually easy. <br /><br />Final Exam (online for this semester)<br />about the same difficulty as homework. Just that you get way less time to do.<br />Mainly: calculate gradients and copy proofs.<br />Some question look similar to homework questions, but I am not good enough to spot the relationship.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 7,
+      "vote_count": 7,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "course": {
+    "id": 54,
+    "subject": "CENG",
+    "code": "4640",
+    "name": "Biomolecular Engineering",
+    "description": "Students not studying in the Department of Chemical Engineering may enroll in the course upon instructor's approval. Molecular biology, protein engineering, enzyme kinetics, thermodynamics and energetics of biological systems, molecular and cellular processes, bioreaction networks and metabolic engineering.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2030,
+      1930,
+      1830,
+      1730,
+      1630,
+      1530,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CENG\" data-code=\"2210\" href=\"/review/CENG2210\" target=\"_blank\">CENG 2210</a> AND <a class=\"course-link\" data-subject=\"CENG\" data-code=\"3230\" href=\"/review/CENG3230\" target=\"_blank\">CENG 3230</a> AND (Level 3 in HKDSE 1x Biology OR <a class=\"course-link\" data-subject=\"LIFS\" data-code=\"1901\" href=\"/review/LIFS1901\" target=\"_blank\">LIFS 1901</a>)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4.5,
+    "rating_grading": 4.5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 19,
+        "name": "SUN, Fei",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "osnPis514AWsnFTJahKQKKayFGkbfaBJ",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 19,
+          "name": "SUN, Fei",
+          "rating": 1
+        }
+      ],
+      "author": "slysar",
+      "date": "Apr 21, 2021",
+      "title": "A course of research sharing",
+      "comment_content": "Section 1. Introduction <br />Fundamentals of polymer science<br />Section 2. Protein engineering<br />Section 3. DNA engineering<br />Section 4. RNA engineering<br />Section 5. Polysaccharides engineering<br />Section 6. Macromolecular Biosystems (Biomacromolecules in Context)<br /><br />The topic protein engineering has the heaviest weighting among all, a lot of recent research development shared",
+      "comment_teaching": "Professor Sun is a chill instructor. He is extremely nice and very responsive to student&#039;s email.",
+      "comment_grading": "Nice grading. <br />Attendance 10% + Homework 20% + Final Exam 45% + Project 25%<br />Score for presentation wasn&#039;t released.<br />exam half MC and half short questions<br />mean of MC: 30/42",
+      "comment_workload": "Throughout the semester is okay. tho the 15 mins presentation requires a lot of effort, since you have to present a research paper and you have to read a lot.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "a97NWpoaCYu7LXlTZfJDNkbfb5lMoCxn",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 19,
+          "name": "SUN, Fei",
+          "rating": 1
+        }
+      ],
+      "author": "Bohr",
+      "date": "Jun 04, 2018",
+      "title": "Research Course?!",
+      "comment_content": "The course is divided into five sections.<br />Section 1 Introduction<br />Section 2 DNA Engineering<br />Section 3 RNA Engineering <br />Section 4 Protein Engineering<br />Section 5 Polysaccharide Engineering<br />Section 6 Perspectives and Outlook of Biomolecular engineering<br /><br />The content of this course is interesting and inspires CBME students to think about the evolution of biotechnology.",
+      "comment_teaching": "Professor Sun encourages students to read more research papers to taste or learn what is biomolecular engineering.<br /><br />He gave us lots of research papers related to each section which may be useful for homework, presentation, and the final exam.",
+      "comment_grading": "Attendance 10%<br />Homework 20%<br />Final Exam 45% (Open laptop, notes)<br />Project Presentation 25%<br /><br />In the final exam, it consists of MCQ and short questions. The difficulty of the exam is acceptable",
+      "comment_workload": "The workload is light.<br /><br />The use of some programs and websites is required for&nbsp;&nbsp;assignments.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

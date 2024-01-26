@@ -1,0 +1,88 @@
+{
+  "course": {
+    "id": 1406,
+    "subject": "ENVS",
+    "code": "2002A",
+    "name": "Environmental Internship",
+    "description": "This course aims to provide students with hands-on experience in the environmental field. Students will undertake training and supervised internships with our potential collaborators (including government departments, environmental consultants, conservation groups, and research laboratories; either in or outside Hong Kong). Course assessment will be based on students’ reports (written and/or oral) and supervisors’ evaluation. Graded P or F. Maybe graded PP. Cantonese may be used in off-campus trainings and internships, in some situations. Instructor’s approval is required for enrolling in the course. Priority will be given to ENVS students.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      1940,
+      1840,
+      1740,
+      1640,
+      1540,
+      1440
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 227,
+        "name": "KO, Ice Wai Ping",
+        "count": 1
+      },
+      {
+        "id": 228,
+        "name": "LAM, Ka Sin Cindy",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "W5lLBdvlpXWCImQiLKIVTiMjsZpvVc6j",
+      "semester": "2018-19 Summer",
+      "instructors": [
+        {
+          "id": 227,
+          "name": "KO, Ice Wai Ping",
+          "rating": 1
+        },
+        {
+          "id": 228,
+          "name": "LAM, Ka Sin Cindy",
+          "rating": 1
+        }
+      ],
+      "author": "淺水健",
+      "date": "Feb 08, 2021",
+      "title": "reg this if you cannot find intern by yourself",
+      "comment_content": "A summer internship program typically for ENVS major students. <br />Require you at least finish 240 working hours which can finish in 2 months in summer semester.",
+      "comment_teaching": "As this is a internship program, so I difficult tell you how instructor teach us. What you learn depending on the company you apply.",
+      "comment_grading": "P/F only. Finish all task seriously and you must pass the course.",
+      "comment_workload": "During internship, your have to briefly write down what you have done every week (log sheet) for your to easier to prepare the midterm report. The report have to write about 1-2 pages. At the end of August, students in same company will conclusory do a presentation together and present in the last day of the course in front of instructors, staff of different companies and students.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

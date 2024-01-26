@@ -1,0 +1,62 @@
+{
+  "course": {
+    "id": 1359,
+    "subject": "UROP",
+    "code": "1100K",
+    "name": "Undergraduate Research Opportunities Series 1",
+    "description": "This is the first course of a three-course series under the Undergraduate Research Opportunities Program (UROP). The series enables a student to complete a faculty-led research project that can possibly span three terms. UROP 1100 is the first course of such a project series. For projects that span more than one term, successful completion of UROP 1100 is a pre-requisite for proceeding to UROP 2100 of the same project; successful completion of UROP 2100 is a pre-requisite for proceeding to UROP 3100. Approval by faculty supervisor(s) is required. Students are required to submit a written report upon completion of each course. May be repeated for credit under a different project. Graded P or F.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2310,
+      1430
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": [
+    {
+      "hash": "yKhobCuRAqxL2kMme1VNJE1MSVjsTWJD",
+      "semester": "2023-24 Fall",
+      "instructors": [],
+      "author": "tianyu",
+      "date": "Dec 20, 2023",
+      "title": "What am I doing",
+      "comment_content": "NO Content. Yes I am not kidding. After I enrolled in this UROP project, he passed me to his student and gave me some deep learning sources, which is, some online lecture videos on Bilibili. After that, I cannot find him anymore. The final paper is totally done with my own AI knowledge learned in comp2211 ( Desmond!). Oh, btw my project is about image classification using AI ( cant tell u more detail).",
+      "comment_teaching": "My AI knowledge came from Desmond so I would give an A. LOL.",
+      "comment_grading": "N/A.",
+      "comment_workload": "Basically no workload. The week before due day, I suddenly received an email from UROP dept reminding me to submit my paper and I was like &quot;Wait, what? When did I enroll in this UROP and what is my paper about?&quot; I found my groupmate(another victum) to start writing our paper. She search online, finding some paper and reaserch, and write the abstract, intro... And I made use of my CNN knowledge to build a model. Luckily, we are CS students with high CGA so it was quite easy to do it ( hold on, I now know why he asked for my CGA before the enrollment). It spends me one day to build and train and evalute the model. I just spend less than 2 hours to finish my paper.",
+      "rating_content": 3,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "course": {
+    "id": 980,
+    "subject": "MECH",
+    "code": "4610",
+    "name": "Introduction to Aerodynamics",
+    "description": "Irrotational flow, circulation, lift and drag, aerofoil, conformal mapping, lifting line theory, Elliptical wing, swept wing, delta wing, supersonic flow. For science and engineering students in their second year of study or above.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CENG\" data-code=\"2220\" href=\"/review/CENG2220\" target=\"_blank\">CENG 2220</a> or <a class=\"course-link\" data-subject=\"CIVL\" data-code=\"2510\" href=\"/review/CIVL2510\" target=\"_blank\">CIVL 2510</a> or <a class=\"course-link\" data-subject=\"MECH\" data-code=\"3210\" href=\"/review/MECH3210\" target=\"_blank\">MECH 3210</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 562,
+        "name": "LI, Larry",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "7zXNmxTlXU9aKOJ5NoIc8b186BTnv8YN",
+      "semester": "2014-15 Fall",
+      "instructors": [
+        {
+          "id": 562,
+          "name": "LI, Larry",
+          "rating": 1
+        }
+      ],
+      "author": "sadness",
+      "date": "Aug 28, 2015",
+      "title": "",
+      "comment_content": "這一科需要有fluid mechanics的基礎，除了基本的Differential Analysis of Fluid Flow，內容大致上以mach no.作為分界線，低速屬於Incompressible，高速(包括次音速和超音近)屬於Compressible Flow。<br /><br />Incompressible Flow包括2D的Thin Airfoil Theory和3D的Lifting Line Theory<br />Compressible Flow包括Shock Wave，Expansion Fan，Linearized potential flow theory",
+      "comment_teaching": "Prof.是個外表非常年輕的教授，外表像個大學生多過prof.。雖然在香港出生又懂廣東話，不過在加拿大成長，又在劍橋畢業的他對香港是很陌生，不必完全捉到本地學生既需求, 亦未必了解到本地學生的思想，沒有多大教學經驗是一大缺點。雖然如此，但他也很盡力去和學生閒談, 了解他們的大學生活。他明白他有改進的空間所以常常告訴學生不需要擔心，功課可以遲交，midterm和final分別可以拎一張和兩張cheat sheet。而且每一堂都會印notes派，所以學生不必花錢影印。<br /><br />既會有powerpoint, 亦會用白板<br />英文相當易聽<br />上堂又會播video, 比學生visalize不同情況下空氣流動",
+      "comment_grading": "20% HW<br />30% Midterm exam<br />50% Final exam<br /><br /><br />HW 90% full mark<br />midterm, final above mean &lt; 1sd<br />A-range",
+      "comment_workload": "7份HW, <br />midterm和final分別可以拎一張和兩張cheat sheet",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "gN6UHxCP3jTDdNmJ5MYzT0KAv8Mg6zxG",
+          "name": "Syllabus",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

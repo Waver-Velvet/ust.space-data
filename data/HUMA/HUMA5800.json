@@ -1,0 +1,76 @@
+{
+  "course": {
+    "id": 1730,
+    "subject": "HUMA",
+    "code": "5800",
+    "name": "Fundamentals of Chinese Philosophy",
+    "description": "This course is designed to guide students to in-depth researches into important issues in Chinese philosophy. The subject matter of the course may vary from one year to another depending on the particular interests of the instructors.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "HMMA 5007",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 341,
+        "name": "WONG, Simon Man Ho",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "k0tUyewoyiDcZBLJNfj09B3QRsFbQ3Fw",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 341,
+          "name": "WONG, Simon Man Ho",
+          "rating": 1
+        }
+      ],
+      "author": "Jy00",
+      "date": "Jan 31, 2023",
+      "title": "",
+      "comment_content": "这门课主要是围绕陈荣捷先生的哲学选编展开的，课前同学pre，教授进行补充，教授讲的挺有意思的。",
+      "comment_teaching": "我这个毫无哲学基础的听的都晶晶有味。教授讲的真的挺好的，过去同学对教授的评价都挺高的。",
+      "comment_grading": "给分一般般",
+      "comment_workload": "课程很轻松。一次小组pre，一次期末论文，课前你甚至什么都不做，上课听老师讲就行。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

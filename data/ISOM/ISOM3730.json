@@ -1,0 +1,647 @@
+{
+  "course": {
+    "id": 692,
+    "subject": "ISOM",
+    "code": "3730",
+    "name": "Quality and Process Management",
+    "description": "Concepts and strategic importance of quality, organizational aspects, total quality control, quality and productivity improvement programs, quality costs and economics.  Applications in industrial and service sectors.   Second or third year standing preferred.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1930,
+      1910,
+      1830,
+      1810,
+      1730,
+      1710,
+      1630,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"IEDA\" data-code=\"3270\" href=\"/review/IEDA3270\" target=\"_blank\">IEDA 3270</a>",
+    "rating_content": 4.33,
+    "rating_teaching": 4.4,
+    "rating_grading": 4.33,
+    "rating_workload": 4.53,
+    "review_count": 15,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 387,
+        "name": "CHEUNG, Ki Ling",
+        "count": 13
+      },
+      {
+        "id": 964,
+        "name": "SO, Ka Yan",
+        "count": 11
+      },
+      {
+        "id": 382,
+        "name": "GURUMURTHI, Suri",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "n3SvqRCxWpl7Ure5XXZVkzoQwdPDfyR2",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 387,
+          "name": "CHEUNG, Ki Ling",
+          "rating": 1
+        }
+      ],
+      "author": "Hayoha",
+      "date": "Jan 15, 2024",
+      "title": "Good Professor",
+      "comment_content": "Course Objective:<br />The objective of the course is to provide a systematic survey on the theory and implementations of quality control and management activities for different industries (mainly manufacturing and service). The concepts and methodologies of quality management can be implemented by the students in their future careers.<br /><br />Project case: Uber",
+      "comment_teaching": "Well prepared lectures and face to face group exercises. I think the design of hybrid the online lectures and the in-class lectures is great and time-saving. Lecture recordings are given if you skip some lectures.",
+      "comment_grading": "Class Paticipation 2 % <br />On-line Quiz 3 % <br />Simulation Game 5 % <br />Final Project 15 % <br />Quiz 30 % <br />Final exam 45 % <br /><br />You should get full mark for Class Paticipation and online quizzes, they are easy to get.<br />Try to Google for Simulation Game (if still Benihana) and see what is the possible answer. Hint: the combination of the best strategies in the prevoius challenges may not bring you the best outcome in the challenge 5.<br />Quiz = Midterm<br />I think the grade mainly determined by the Midterm and Final.<br /><br />I got full score in Quizzes (will drop the lowest score one/ 2, I forgot the rule, but there should be enough quizzes for you to get full marks), participation and Simulation Game.<br /><br />Group project: 27/30 (UQ: 27.5, Mean: 25.79, LQ:25.5)<br />Midterm: 58/60 (UQ:48, Mean:42.91, LQ:39)<br />Final: 75/90 (UQ:72.25, Mean: 62.57, LQ:55)<br /><br />Final grade: A",
+      "comment_workload": "Open book Open notes exams for Midterm and Final. Just make sure you understand all the content and the calculation. Excel is not allowed and you need to bring your own Z table. The group project really depends on if you meet freeriders or not. Professor said he was strict to freeriders but I have never tried to report so not sure if it is real or not. Try to meet some classmates during the lectures and know them more in the in-class exercises. From my experience, people sitting on the same table usually end up being the final group project members and seldom change the seats. It could be a good chance to meet new friends.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "vNg1lv6JDpBHYf1ZgN03LFCEwGgWBcCU",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 387,
+          "name": "CHEUNG, Ki Ling",
+          "rating": 1
+        },
+        {
+          "id": 964,
+          "name": "SO, Ka Yan",
+          "rating": 1
+        }
+      ],
+      "author": "Jackie0925",
+      "date": "Jun 15, 2020",
+      "title": "",
+      "comment_content": "The content is OK but some of them have been outdated.<br />The course includes both qualitative and quantitative parts.<br />Some basic statistical knowledge has to be known. <br />Detailed content can refer to other comments before.",
+      "comment_teaching": "I felt like the teaching is quite effective. The pre-recorded lecture videos are quite effective in teaching. The class discussion session is also fine. Professor Cheung and Angel So are so responsive in replying emails. In tutorial sessions, the problems can let us gain a stronger understanding of the topics covered in lectures.",
+      "comment_grading": "Class Participation 1%<br />Online Quiz 4%<br />Simulation Game 5%<br />Final project 15%<br />Quiz 30%<br />Final exam 45%<br /><br />The class participation and online quiz are easy points. Everyone should have got the full mark.<br /><br />The simulation game&#039;s deviation is small.<br /><br />The group project has some difference in grading, but not huge difference. <br /><br />The quiz and final exam are the main determinants in the final grading. The mean in both the quiz and final exam are quite low as well. Quiz mean is only 37 marks out of 60 marks (sd=7.33). Final mean is only 66 marks out of 90 marks (sd=12.25). For quiz and final, there are around half of the questions about the qualitative part, don&#039;t miss them.<br /><br />I will say the grading is more lenient than I thought. I got 0.3 sd below mean in both simulation and final project. In the midterm, I got 1.5sd above mean. In the final, I got 0.8sd above mean. I got around 1sd above mean overall. And I got an A at last. The mean grade is B.",
+      "comment_workload": "The workload is low considering it is a 4-credit course. Only one project, midterm and final. The overall workload is just like a normal 3-credit course",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "7R26OpTrynwMtm3ZBTETpuOg52WSM6C1",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 387,
+          "name": "CHEUNG, Ki Ling",
+          "rating": 1
+        },
+        {
+          "id": 964,
+          "name": "SO, Ka Yan",
+          "rating": 1
+        }
+      ],
+      "author": "antgod",
+      "date": "Jan 28, 2020",
+      "title": "",
+      "comment_content": "The content of the course is not that useful. It consists of both qualitative and quantitative materials. The regular school days has been suspended. The final exam has been canceled. There was a final case analysis project. <br /><br />In the online lectures, he goes through all the concepts. In the regular lectures, he goes through the cases. <br /><br />In the exam, you can bring along with your notes and textbook. There will be some questions about the cases. Please print out all the notes about the case. Otherwise, you will not know the answer.",
+      "comment_teaching": "The course is in blended-learning mode. Do watch the online videos weekly and finish the canvas quiz. He just read out the script, he is reading aloud but not teaching.<br /><br />There will be tutorial sessions for quantitative topic.",
+      "comment_grading": "Participation 5 points (5/5)<br />Online Quiz 10 points (10/10)<br />Simulation Game 10 points (10/10)<br />Uber project 10 points (7.5/10)<br />Quiz (Mid-term exam) 60 points (60/60) (Mean: 48\tHigh: 60\tLow: 31)<br />Armarium project 95 points (49.3/60) (Mean: 49.4 High: 55.3 Low: 43) <br />Final exam has been cancelled due to social event<br />Total 190 points<br /><br />Final grade: A+<br />If you get mean, you will get B/B-.",
+      "comment_workload": "The workload is not that high for a 4-credit course.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 2,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "IZC96zvhUPQG9QHrW3L64IJjuDvZVOp4",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 387,
+          "name": "CHEUNG, Ki Ling",
+          "rating": 1
+        },
+        {
+          "id": 964,
+          "name": "SO, Ka Yan",
+          "rating": 1
+        }
+      ],
+      "author": "Jenyyyyyy",
+      "date": "Sep 05, 2019",
+      "title": "",
+      "comment_content": "- Introduction of quality, graphical tools and quality cost<br />- Process control <br />- Capability and six sigma<br />- Acceptance sampling<br />- Economic As and quality theory <br />- QFD overview <br />- Service quality and gap analysis <br />- Reliability <br />- Improvement",
+      "comment_teaching": "Prof just read through the ppt on the video. For in-class discussion, he would talk about some background information and then do group discussion. <br />TA would go through some sample questions during the tutorials (around 6 times). She tried to explain step by step.",
+      "comment_grading": "Normal. <br />You can earn participation marks by answering his questions and do the discussion to get a small card. Every student needs to get 3 cards. <br />One midterm and one final. You can bring notes and cheatsheet. Remember to print out the in-class discussion notes!",
+      "comment_workload": "Blended learning<br />1. Watch the lecture video on Canvas and do the weekly quiz <br />- can google the answer and read the ppt on your own<br />- need to fill in the blanks for the ppt <br /><br />2. Go to the lecture to have the case discussion (only 1 lesson per week) <br /><br />3. project (Airbnb) <br />- do not have many guidelines <br />- answer the questions<br />- need a presentation with 15 slides ppt, but no written report<br /><br />4. Simulation game<br />- Need to try a few times to maximize the profit<br />- Just try different input randomly",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "qsU1wobTaPJ2zvKpN5QoNiZ4HtxZBxZ2",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 964,
+          "name": "SO, Ka Yan",
+          "rating": 1
+        },
+        {
+          "id": 387,
+          "name": "CHEUNG, Ki Ling",
+          "rating": 1
+        }
+      ],
+      "author": "chowbeau",
+      "date": "Aug 20, 2019",
+      "title": "",
+      "comment_content": "The content of this course is quite simple. It can be split into two kind of topics. Quality Theories and Quality statistic calculations.<br />The objective of the course is to provide a systematic survey on the theory of quality<br />control and management activities for different industries (mainly manufacturing and service).",
+      "comment_teaching": "Mr.Cheung is a experienced teacher. He will walk you through every topic with detail. There is a lot of in-class practice so you will understand everything as long as you go to class.",
+      "comment_grading": "The grading is not very good as the exams are too simple and the mean is high, everyone get a good score. My midterm score was around the mean and my final scored slightly above mean. It turned out I only got a C+<br /><br />All quiz and exam are open book/notes.&nbsp;&nbsp;<br /><br />Assessment Scheme:&nbsp;&nbsp;course grade is determined by<br />Participation 5% 10 points<br />Online Quiz 5% 10 points<br />Simulation Game 5 % 10 points<br />Final project 10 % 20 points<br />Quiz 30 % 60 points<br />Final exam 45 % 90 points<br />Total 100% 200 points",
+      "comment_workload": "There is almost no workload besides in-class activities. The project only contribute 10% of the final grade. It only took my group 2 days to finish it.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 3,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "nbCKxaMEvAllgp8KfMf2zee5F1QdCZXb",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 382,
+          "name": "GURUMURTHI, Suri",
+          "rating": 1
+        }
+      ],
+      "author": "NCheng",
+      "date": "Jan 16, 2019",
+      "title": "",
+      "comment_content": "Not something difficult but you have a lot to cover because this is an open-book class. eat the whole book and you will be fine.",
+      "comment_teaching": "sometimes I don’t understand his accent and he is so boring. There will be lecture videos for you so I guess it somehow helps you to understand better.",
+      "comment_grading": "I wish it could be more lenient but now it’s fair enough. If you got mean you can get a B in this course.",
+      "comment_workload": "4-credit course. What do you expect? There are 3-4 assignments and a project. Of course there are midterm and exam. Open-book exams can help lazy people. Sometimes there will be IPRS.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "MyfHl2CAtMTyYxrvOW2NP9JGsz0sabvt",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 382,
+          "name": "GURUMURTHI, Suri",
+          "rating": 1
+        }
+      ],
+      "author": "nocomment000",
+      "date": "Jan 05, 2019",
+      "title": "",
+      "comment_content": "Not much difficult content to be taught during class. You will be fine as long as you buy the textbook because the examinations are open-book.",
+      "comment_teaching": "Lecture video is provided. However, there are some class exercises which count for participation point. So better not miss the class.",
+      "comment_grading": "The grading is quite good. Both midterm and final are multiple choice only and not much calculation is required.",
+      "comment_workload": "There are 3 group homework and 1 end of term project. Tutorial is not compulsory but the TA will provide some extra exercises for us to practice.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "roKstQFTKxoYKMgEFgv9Pul8WX3C3uOy",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 387,
+          "name": "CHEUNG, Ki Ling",
+          "rating": 1
+        },
+        {
+          "id": 964,
+          "name": "SO, Ka Yan",
+          "rating": 1
+        }
+      ],
+      "author": "連登仔",
+      "date": "Jun 02, 2018",
+      "title": "幾好 唔使上堂有lecture video睇",
+      "comment_content": "quality and process management<br />都係集中係manufacturing呢part<br />quality就有講下service business <br /><br />我就覺得大部分教既野唔係太update<br />無咩cover到而家新既business model",
+      "comment_teaching": "notes有既野就係ki ling上堂會講既野。<br /><br />不過當ki ling有預先錄好video，你會發現上堂佢係真係有份稿渣住跟住讀，咁你就明白幾咁尷尬，當你連搞gag都係跟稿讀既時候，你都唔好話唔悲哀。<br /><br />上堂氣氛之沉悶，搞gag既時候得ki ling自己一個哈哈笑幾聲，情況氣氛之尷尬，基本上我上過所有堂入面數一數二。<br /><br />我唔建議大家上堂，首先9點堂，跟住其實我真係好想俾面ki ling，ki ling真係幾nice同埋大病初愈，但係我真係笑唔出。<br /><br />上過幾堂我都係一粒聲都無出，我懷疑係ki ling份稿度，佢問完問題之後有無預學生會答、讀住稿黎講gag我亦笑都笑唔出，最後我開始無去上堂。<br /><br />不過唔止上堂會有lecture video 直頭canvas都有預先錄好既lecture video 唔去上堂都唔驚 有得俾你聽返明<br /><br />唔得仲有書同google",
+      "comment_grading": "3730：<br />Professor話一定會派20-25% a range, 上年派左25% a range, C少派 F直頭話好多年都無派<br /><br />Benihana case (10%): Mean:18.35/20, SD:1.46, Me: 20<br />Uber Project (10%): Mean:15.57/20, SD:1.29, Me: 18<br />MT (30%): <br />Original: Mean:34.4/60, SD:7.61, Max:52, Min:16, 有個excel俾你睇, 我45以上，睇圖應該前三啦<br />Revised: Mean:35.9/60, SD:7.33, 知道我自己加左四分, 無其他野睇了<br />Final (50%): Mean: 76.43/100, SD:9.86, Me: Full<br />未派 咁都唔係A+ 我切 <br />咁如果派出黎都係A我無野好講<br /><br />Update: 唔使切 Yeah~ 大家加油",
+      "comment_workload": "ppt係有留空重要野架，代表你要上堂，睇lecture video，或者canvas既video抄返。<br /><br />MT Final雖然open book open note，不過MT太多題目，一個鐘一定唔夠時間做，我都做漏一條大題，喊出黎；Final都多，不過可能final時間長少少咁都ok。<br />但難度我覺得簡單，係煩唔係難。<br /><br />有兩個simulation game加uber<br />simulation要上網玩同要寫一篇文，uber就要有ppt同present<br />其實都係簡單野，篇文寫一個鐘左右；ppt加練present一組人返黎做兩日就完",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 5,
+      "vote_count": 6,
+      "comment_count": 2,
+      "attachments": [
+        {
+          "key": "838Jt0QuF36Y0Uy7N2oXPKjaZdu4rtwt",
+          "name": "sylab2018_Spring_V2",
+          "format": "docx"
+        }
+      ]
+    },
+    {
+      "hash": "rKUxEqzZH8D0OXogH2jJkvhB9S81SHPz",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 387,
+          "name": "CHEUNG, Ki Ling",
+          "rating": 1
+        },
+        {
+          "id": 964,
+          "name": "SO, Ka Yan",
+          "rating": 1
+        }
+      ],
+      "author": "Lee Hoi Shan",
+      "date": "Jan 09, 2018",
+      "title": "",
+      "comment_content": "The course gave a systematic survey on the theory and implementations of quality control and management activities for different industries. Half with theories and half with calculations. Overall the content is easy-understanding.",
+      "comment_teaching": "The professor explained his points quite clear. Most of time have to fill in the blank in the notes. But he provided lecture video so attendance is not a must. And the TA really helped with the topic involved calculations. So highly suggest to attend tutorial.",
+      "comment_grading": "20%&nbsp;&nbsp;1 simulation + 1 project<br />30%&nbsp;&nbsp;Midterm<br />50%&nbsp;&nbsp;Final<br /><br />Actually the project is just a very light case with so problem analysis and a 10 min presentation with 4 people. The grade mainly depends on your exam marks. Midterm above mean a little bit and final below mean a little bit, finally got B.",
+      "comment_workload": "Very light workload for a 4 credit course.<br />No homework, class exercise and assignment.<br />Not compulsory to go lecture (have lecture video).<br />1 group-based simulation game and short project.<br />Only midterm and final exam, not accumulated scope and open book/notes.<br /><br />Typical Ki Ling course, if you have ever take his course.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "hmVp1EQOcAnJKlWC3tOxtjB5hDhkj9e4",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 387,
+          "name": "CHEUNG, Ki Ling",
+          "rating": 1
+        }
+      ],
+      "author": "XiaoBenDan",
+      "date": "Jan 09, 2018",
+      "title": "Good course with good grade",
+      "comment_content": "The course is well structured. The content is simple, with the minimum math involved. Quantitative part and qualitative parts are about 50-50.",
+      "comment_teaching": "Very clear explanation although sometimes could be boring. Lecture videos were recorded and you don&#039;t have to attend the class. The professor is very nice and responsible. You can always go to his office or email him for any kind of question.",
+      "comment_grading": "Good grading, the professor gave very good grades.",
+      "comment_workload": "Midterm exam and final exam, two cases. For the project, you can form your own team.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "EkRyM8eXkCJElPPp6ga4lW9xSNWdVr2l",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 387,
+          "name": "CHEUNG, Ki Ling",
+          "rating": 1
+        },
+        {
+          "id": 964,
+          "name": "SO, Ka Yan",
+          "rating": 1
+        }
+      ],
+      "author": "V.lylit",
+      "date": "Dec 15, 2017",
+      "title": "",
+      "comment_content": "It has a good balance of quantitative and qualitative content, and is at a level appropriate for an OM required course. Its content is quite broad, encompassing both product and service quality (so it’ll be useful for a service-oriented place like HK). <br /><br />Just make sure you brush up your basic statistics concepts (eg what is type 1/ 2 error, what is z-value) before he starts talking about statistical quality control.",
+      "comment_teaching": "Prof. Cheung teaches in a very straightforward manner, and is a very nice professor as long as you don’t mind his looking a bit emotionless (sorry lol). Angel (the TA) is also very patient with answering your questions.",
+      "comment_grading": "20% - 2 projects<br />30% midterm<br />50% final exam<br /><br />The grading is pretty good: I got ~1SD above average for midterm and ~0.6SD above average for the final exam; I got a 17/20 and 18.5/20 for the 2 projects respectively. My eventual grade is an A- (which got out today!!) <br /><br />Also notice that Angel grades things VERY quickly so if you don’t want to know the results so soon, please refrain from checking the emails.",
+      "comment_workload": "The course content is at a level appropriate for a 4-credit course and so you’ll need to expect to exert more effort to ensure that you understand the content. You can get help completing this part by going to class (or watching lecture videos) and bringing your notes to exam (it’s open book open notes). <br /><br />Otherwise, your workload level depends on your groupmates in the project.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "G0sruDoxZIaPPV9qhxEBXfFwMCa0eyfC",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 387,
+          "name": "CHEUNG, Ki Ling",
+          "rating": 1
+        },
+        {
+          "id": 964,
+          "name": "SO, Ka Yan",
+          "rating": 1
+        }
+      ],
+      "author": "htliab",
+      "date": "Aug 10, 2017",
+      "title": "one of the best course I hv ever taken",
+      "comment_content": "-Overall is not difficult. Just&nbsp;&nbsp;need to be focus on lesson and jot down notes.<br />-syllabus cover both qualitative and quantitative matters.<br />maths problems are not difficult(as long as you understand the concepts)<br />-Prof. provided a lot of real cases for us to understand theories. I think the course is quiet useful to understand how to manage goods/service quality among different industries.",
+      "comment_teaching": "-Prof Ki Ling is a very nice. He is welcome to all questions and answered you patiently. (even silly questions)<br />-Our class was 9am lesson. so he provided lecture video(so not many students present in class)<br />-He also gave us coffee break during lesson time.<br />quite relaxing lesson atmosphere<br />-TA sometimes very rude when you asked her questions(seems your questions are silly). But going to tutorial would be useful as you could do ex. and asked her immediately",
+      "comment_grading": "-I think the grading is acceptable.<br />-forgot detailed distributions, but for final is definitely the most important(50%)<br />-if you perform well in final, your final grade won&#039;t be too bad<br />for simulation and project, mean is quite high. Seems everyone gets high mark.",
+      "comment_workload": "-As a 4 credit course, this course&#039;s workload is definitely not heavy.<br />-basically 2 simulations(only 1 graded), 1 group presentation, 1 midterm, 1 final.<br />-No need to worry about the simulations coz prof. and TA will give you clear instruction and you have unlimited trials&nbsp;&nbsp;to get the optimal strategy.<br />-Midterm is a bit difficult. Final is easier (only my personal comment) <br />-3/4 people in a group to do analysis and present (our case is Uber). project is not demanding. just make sure your answer all questions list on instruction.<br />-midterm and final are open notes",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "YTSsQPnEaxjQpnmW6aHCIBAhNpJ7yYyF",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 387,
+          "name": "CHEUNG, Ki Ling",
+          "rating": 1
+        },
+        {
+          "id": 964,
+          "name": "SO, Ka Yan",
+          "rating": 1
+        }
+      ],
+      "author": "abcde",
+      "date": "Aug 08, 2017",
+      "title": "Good Grade and Low Workload",
+      "comment_content": "Quality Management Tools and Philosophy <br />Quite similar to what you have learnt in ISOM2700<br />More emphasis on statistical tools",
+      "comment_teaching": "Prof Cheung was very lenient and did not take any attendance. Since it was 9am class, the attendance rate was actually quite low. You can just simply watch the lecture videos at home, which is totally fine. What he taught was straight forward and easy to understand.<br /><br />The TA explained the advanced concepts very clearly and shared a lot of exam tips. She was passionate to answer questions from students.",
+      "comment_grading": "Midterm 30% (I got mean) <br />Final 50% (I got above 0.6 sd)<br />Project 20% (I got above 0.2 sd) <br /><br />Final Grade: B <br />Quite Good grading",
+      "comment_workload": "Studying the textbook regularly is a must because many exam questions are actually based on the readings inside the textbook.<br /><br />Attending the tutorial is important, otherwise you will miss a lot of important details regarding the exams. <br /><br />The first project was about UBER and not technical indeed. Just a little bit of research is enough for you to write a report. The another project was about a restaurant and you just had to do a simulation and then find the best result.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "RSc7JKhRjv8juNShLTCjhguELY5fcmrz",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 387,
+          "name": "CHEUNG, Ki Ling",
+          "rating": 1
+        },
+        {
+          "id": 964,
+          "name": "SO, Ka Yan",
+          "rating": 1
+        }
+      ],
+      "author": "Avocado",
+      "date": "Jun 21, 2017",
+      "title": "Interesting and useful!",
+      "comment_content": "The content is very interesting and informative and as a required course for the OM major, the content taught is very applicable and useful for other OM courses. <br /><br />Some of the key topics in this course include total quality management, statistical process control, service quality, reliability, process capability, and acceptance sampling.<br /><br />There are also three cases covered during the semester, as well as two simulation games.",
+      "comment_teaching": "Professor Cheung is really nice, friendly and helpful during class. Although the class was at 9 AM this semester and not many people showed up (the lecture videos are posted on Canvas), Professor Cheung was still really enthusiastic and clear in his teaching. <br /><br />The tutorials are also very helpful and are conducted by the TA. In the tutorials, you get a chance to practice some of the mathematical theories learnt in class and the TA covers everything at an appropriate pace for the students.",
+      "comment_grading": "Grading is pretty decent.<br /><br />The components that make up the final grade include:<br />— Midterm (60 points)<br />— Project (40 points)<br />— Final Exam (100 points)<br /><br />Both the midterm and the final are open-book, open-notes.<br /><br />The mean for the midterm this semester was quite low, and it was 36/60 with an SD of 8 or so. <br /><br />The mean for the final exam was 74/100 or so, again with an SD of 7 or so.",
+      "comment_workload": "The workload is pretty good, there are no homework assignments or anything of that sort. Tutorials are optional as well, and the materials are posted on Canvas afterwards. Students can pick their own group for the project, and even the project isn&#039;t too much work - one report and one presentation.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "vX0IbXPrLBcgQ4LDCq1GOisBdTM7n1Lx",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 387,
+          "name": "CHEUNG, Ki Ling",
+          "rating": 1
+        },
+        {
+          "id": 964,
+          "name": "SO, Ka Yan",
+          "rating": 1
+        }
+      ],
+      "author": "khwongaz",
+      "date": "Jan 05, 2017",
+      "title": "",
+      "comment_content": "Interesting. <br />There are 3 big section in the course. Intro to quality, implementing quality and designing,managing and assuring quality.<br /><br />Prof has also provided some cases for us to read and for the project.",
+      "comment_teaching": "Clear and straight-forward. Always ask if students are clear for a certain topic. If you speak Cantonese, feel free to ask him questions after class in Cantonese.<br />He is nice. He knew some students may not want to attend the late class, so he will provide lecture videos right after the lessons ended.",
+      "comment_grading": "2 projects&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25%<br />Quiz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25%<br />Final&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;50%<br /><br />Projects are nearly the same for everyone, just make sure you answered all the questions provided is OK.<br /><br />I got an overall 85% and that&#039;s an A-. That is quite good. You have to work hard in the final because that counts a lot.<br />The mean is around 80%.",
+      "comment_workload": "As a 4 credit course, the workload is not heavy. Just 2 presentations, quiz and a final.<br /><br />All quiz and final are open books and notes.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

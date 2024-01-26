@@ -1,0 +1,90 @@
+{
+  "course": {
+    "id": 1983,
+    "subject": "ENTR",
+    "code": "4000B",
+    "name": "From Product Innovations to Successful Technology Startups",
+    "description": "This course is intended for students who want to seriously pursue technology startups. We will work with students to identify critical steps and important milestones associated with each step in order to develop a sound business plan for a technology startup. These include team buildups, market identification and research, project proposal, technology and supply chain evaluation and prototype development. Company visits, field trips, trade shows and interactions with experienced entrepreneurs will be arranged. Students with good performance in this course are recommended to proceed to the next course in the series, which is a comprehensive project-based design course to realize major goals set forth in the business plan and eventually to kick-off their own startups. Instructor’s approval is required.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1730,
+      1630
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 184,
+        "name": "LI, Zexiang",
+        "count": 1
+      },
+      {
+        "id": 894,
+        "name": "LEUNG, Suk Wai Winnie",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "I25F8lpWhDvr3cdcKARz8bbLOP81gVtu",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 894,
+          "name": "LEUNG, Suk Wai Winnie",
+          "rating": 1
+        },
+        {
+          "id": 184,
+          "name": "LI, Zexiang",
+          "rating": 1
+        }
+      ],
+      "author": "toxicboi",
+      "date": "Jan 09, 2018",
+      "title": "Take it if you want to start something up",
+      "comment_content": "So this was a very focused and interesting course that delves deep into hardware startups. They will cover everything from team forming, to idea generation, and also market research, design innovation, prototype building, presentation skills. Basically the whole package from start to finish. <br />So if you are really interested in starting up something in HKUST, you should definitely take this course. <br /><br />Many times, some HKUST student who has a startup will drop by to talk about their journey and it&#039;s always nice and inspiring to meet and talk to them. <br /><br />There is a 2 day field trip to Shenzhen and Donguan (accommodation and travel is paid for), where you get to visit the HQ of DJI, and a lot of other HKUST startups. I really enjoyed this trip as it is combined with Robotics Team and TLE students, so you make a lot of friends as well. <br /><br />We then went to a huge incubator park in Dongguan and learn more over there. <br /><br />There was also a trip to Global Sources Electronics Expo, at Asia-World Expo Park where we got a free ticket and travel to go there. (The tickets were really expensive). There we saw thousands of different startups doing demos of their products.",
+      "comment_teaching": "Winnie is the main frontrunner for this course. It is a very casual class, where we will quickly go through the lecture slides, and then spend most of the class in the application of the concept, like brainstorming ideas, forming teams, etc etc.<br />Winnie is really nice and will support you, and help you throughout the course. It never felt like she was the professor, she was just a student with us in class.",
+      "comment_grading": "Participation &amp; activity (20%)<br />This is very flexible, as the class is really small, so if you really have to miss a class, Winnie will allow it. <br /><br />Trip Reports (20%)<br />A simple reflection and report on the 2 field trips conducted during class.<br /><br />Final Report and Prototype (30%)<br />Probably the most important and hardest part. We changed our idea almost every week, so it was hard to stick to one thing and then we actually had to make it. You definitely need a good engineer in your team, thankfully we had an exchange electronics and mechanical student from EPFL to lead that part for us.<br /><br />Project reviews (30%) <br />Final presentation - its a lot of fun and you get good feedback and support from the judges<br /><br />Got an A, I&#039;m pretty sure everyone got an A (7 people class), but grades weren&#039;t the point of taking this class anyway. Sadly didn&#039;t get an A+, because Winnie probably followed the American/Canadian system of grading where A+ and A have same grade points.",
+      "comment_workload": "The workload was not a lot. Just required a lot of physical presence for field trips, group meetings, and lectures. But that was all fun stuff.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "HrH0I8THRkqttdVmv86Q4kqkZCR6tZw5",
+          "name": "0. ENTR4000B Course Intro",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "course": {
+    "id": 1178,
+    "subject": "SOSC",
+    "code": "3110",
+    "name": "Innovation and Technology in Hong Kong",
+    "description": "Exploration of Hong Kong’s technology policy with special focus on government and quasi-government initiatives in research, education, and technology promotion.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 651,
+        "name": "SHARIF, Naubahar",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "2l5rxR8zSeyDA1k4vnGeqk4TlDvWlMiB",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 651,
+          "name": "SHARIF, Naubahar",
+          "rating": 1
+        }
+      ],
+      "author": "llchan",
+      "date": "Jan 12, 2018",
+      "title": "Naubahar is a good professor :)",
+      "comment_content": "I think the course is okay like it talked about Technology and innovation, Technology policy and S&amp;T and innovation (policy) in Hong Kong. It compared Hong Kong situation to four tigers. It is good but it will be better if the course include some guest lecture from different tech startup to talk about the difficulty like finding investment, lack of government support, etc. <br />It will add more fun to the topic.",
+      "comment_teaching": "Naubahar is a good professor, he interacts a lot with the students especially if the class size is small. <br />He used a lot of videos, reading and personal example to support his teaching.",
+      "comment_grading": "Presentations on readings (group): 20%<br />Canvas online discussion (individual): 15%<br />Class Participation (individual): 10%<br />Research Paper (group): 55%<br />Breakdown of (group) Research Paper evaluation:-<br /> 10%—First draft to be submitted in Week 10<br /> 40%—Final paper to be submitted in final class on Thursday 26 November (end of Week 13)<br /> 5%—In-class presentation of research paper in either Week 13 or 14<br /><br />Even though Naubahar gives good grade in this course, still I think group mate and luck are quite important in the course because half of the grade depends on the project that you do. You have to look for the right company and right person to interview. That time, my group interviewed companies from Science Park like Vitargent 水中銀 and I think Naubahar like the interviewees that we chosen because it is something new that time.<br /><br />I get an A in the course.",
+      "comment_workload": "Make sure you come up with the good questions and good content during interview and present.<br />You have to read readings every week and give feedback in class and online. This course would be tough to those shy people.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "WrEdkCa18aRhr9IV8e5CHKmvSbd1T2vI",
+          "name": "SOSC 3110 Syllabus Fall 2015.x",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 587,
+    "subject": "HUMA",
+    "code": "2820",
+    "name": "Chinese Culture and Its Philosophies",
+    "description": "This course provides an introduction to the main streams of Chinese philosophy such as Confucianism, Taoism, Mohism, and Chinese Buddhism aimed at promoting understanding and appreciation of the roots of Chinese culture. While the course puts emphasis on the main streams of Chinese philosophy which shaped the spiritual, social, political and economic lives of Chinese, it will also explore such topics as Chinese religion, political and social aspects of Chinese culture, and the problem of modernization.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 956,
+        "name": "CHAN, Chi Keung",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "wvYHikCoIzBUAJhF1xN9dSD8DI8t15lR",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 956,
+          "name": "CHAN, Chi Keung",
+          "rating": 1
+        }
+      ],
+      "author": "kelmancheung",
+      "date": "Aug 23, 2017",
+      "title": "值得一試的一堂",
+      "comment_content": "內容包括中國比較有影響力的哲學思想，例如有道家、儒家等，深入淺出。相信能夠令你對於人生會有另外的想法。",
+      "comment_teaching": "prof. 聲線比較低沉，有時難以集中精神。不過他仍會努力講下笑話。此外，他亦會舉辦一些與中大同學一起的讀書會或bbq，是一個認識新同好的好機會。另外，他非常願意與同學交流，甚至開whatsapp group。",
+      "comment_grading": "非常好grade<br /><br />讀書報告 － mean<br />mid-term － below mean<br />Final essay － 沒有公開成績<br /><br />Final grading - B+",
+      "comment_workload": "1 x 800字讀書報告 － prof. 會upload上canvas<br />1 x mid-term <br />1 x Final essay －可以選擇一次過一篇5000字或者兩篇2000字<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;－完mid term大約一星期會出題目<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;－ Final 前已經需要submit<br /><br />不過最重要是沒有Final !!!",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

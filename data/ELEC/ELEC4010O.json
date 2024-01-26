@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 4148,
+    "subject": "ELEC",
+    "code": "4010O",
+    "name": "Practical Considerations of Analog Integrated Circuit Design",
+    "description": "Properties of MOSFET are a strong function of its width and length due to short-channel effects. Even two MOSFETs with the same width and the same length, their properties are not identical due to process variations and various non-ideal effects such as layout dependent effects (LDEs) and parasitic elements in CMOS technology. In this course, students will learn about how the above-\u0002mentioned effects affect analog circuit performance, and what kinds of methodologies can be used to minimize their impacts.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"3400\" href=\"/review/ELEC3400\" target=\"_blank\">ELEC 3400</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

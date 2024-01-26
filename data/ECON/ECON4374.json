@@ -1,0 +1,81 @@
+{
+  "course": {
+    "id": 297,
+    "subject": "ECON",
+    "code": "4374",
+    "name": "International Macroeconomics and Finance",
+    "description": "This course will help students understand the macroeconomic and financial linkages between domestic and foreign countries. Topics include the international financial market environment, the impacts of exchange rate fluctuations, the mechanisms of adjustment, the operation of the exchange rate systems in developing and developed countries, the international monetary system, and the relationship among money, output, exchange rates, interest rates and prices.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1410
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"ECON\" data-code=\"3014\" href=\"/review/ECON3014\" target=\"_blank\">ECON 3014</a> AND <a class=\"course-link\" data-subject=\"ECON\" data-code=\"3024\" href=\"/review/ECON3024\" target=\"_blank\">ECON 3024</a>) OR (<a class=\"course-link\" data-subject=\"ECON\" data-code=\"3113\" href=\"/review/ECON3113\" target=\"_blank\">ECON 3113</a> AND <a class=\"course-link\" data-subject=\"ECON\" data-code=\"3123\" href=\"/review/ECON3123\" target=\"_blank\">ECON 3123</a>)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 1,
+    "rating_grading": 4,
+    "rating_workload": 3,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 152,
+        "name": "LAI, Edwin",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "VeAdodjyGPcXzEHoEiWzQyDuQubuCFi8",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 152,
+          "name": "LAI, Edwin",
+          "rating": 0
+        }
+      ],
+      "author": "swaggerjaggerry",
+      "date": "Dec 18, 2020",
+      "title": "Oh boy...just seething every class",
+      "comment_content": "Usual Macro content, with drawing lots of graphs. Just like any other econ class, you don&#039;t really have to memorise anything, but you gotta fully understand the concepts to succeed in the course.<br /><br />National Income Accounting and Balance of Payments<br />Exchange Rates and the Foreign Exchange Market: An Asset Approach<br />Money, Interest Rates, and Exchange Rates<br />Price Levels and the Exchange Rate in the Long Run<br />Output and the Exchange Rate in the Short Run<br />Fixed Exchange Rates and Foreign Exchange Intervention<br />International Monetary Systems: A Historical Overview<br />Financial Globalization: Opportunity and Crisis<br />Developing Countries: Growth, Crisis, and Reform",
+      "comment_teaching": "At first I was really interested in this econ elective because it sounds the most practical and more macro than others... which is true - the content itself is not bad and is as expected. I was also researching his bio / CV and he was actually not bad at first (went to Stanford, worked in Federal Reserve Bank of Dallas, etc). But was I wrong.... let me break it down for you<br /><br />- Lack in general presentation and speaking skills: He will start with a topic and jump around the subject many many times, often leaving students more confused than before. He is not clear / coherent / articulate in delivering the material. Students are better off self-studying using the textbook, slides, and scramble for other external resources that one can find online.<br />- Inadequate teaching knowledge: Following the previous point, students may start to think that his extremely bad teaching skills might be due to hiding the fact that he does not know the material, hence a lot of “uhms, ahs, errs” and other techniques to beat around the bush and waste student’s precious learning time.<br />- Answering students’ questions: When he does ask students if we have any questions, and when someone has a question, he will try to dodge it for the first 3-5 minutes by answering in a very vague / unclear way with non-sense / meaningless explanations of not related subject, and then says that he does not know the answer in a nervous / chuckling manner (when there is really nothing to be laughing about); not only is this disrespectful but also wasting everyone’s time. Mind you, this happens 80% of every time student asks questions. This even happened during add-drop period that caused a student to drop this course immediately. There was also one time where it happened towards the end of the class, and he does not want to spend a couple minutes to finish answering (most likely just hiding his lack of knowledge in the question) and proceeds to tell student to search for the answer and think about it himself...<br />- Coming to class unprepared: Knowing that this is an econ class with many graphs, he wants to share his drawings to class. However, he always did not bring a paper and pen and has to ask students for these resources.<br />- Problem Set: Unlike majority of all ust courses, professor will upload the answer key to problem sets each time after the deadline is passed, to serve as a studying material for students to prepare for exams. I am unsure why the prof did not officially release answer key for problem sets, which is quite wasting time because students can simply screenshot from TA’s screen-share..which is the same thing. Also, his unreasonable deadlines for problem set is pretty frustrating- he had not finished teaching the chapter yet (or even just started) but will test the content in the problem set that is due soon. But luckily, almost all of the questions can be found online.<br />- Teaching Speed: Every time his teaching speed slows down / not in line with his planned schedule, he will try to just skim through the slides and say that we need to self-study everything on our own, with the fact that the content will be tested on both homework and exams. From my understanding of majority of other ust courses, professor won’t test material that has not been taught yet. But i guess this is acceptable given that most students will just self-study anyway.<br />- Respect of our time: I don’t understand how he has the audacity to include Participation and Attendance (5% of grade weighting), when his lectures are more confusing than they are value-adding, and requiring students to attend simply means we have to waste 3 hours per week, when we can use that time to self-study like he always suggested that we should do.<br /><br />Overall, do not expect anything from him. The course content itself is great but expect to self-study for the whole semester. If you&#039;re the type of person who can do this than this is the course for you. Good luck!",
+      "comment_grading": "Midterm 1 MCQ - Mean: 31.5/50<br />Midterm 1 Long Questions - Mean: 27.8/50<br /><br />Midterm 2 MCQ - Mean: 36.9/60<br />Midterm 2 Long Questions - Mean: 21/40<br /><br />Finals MCQ - Mean: 34.3/49",
+      "comment_workload": "Final Examination (open book if done online) 40%<br />Mid-term exam 1 (open book if done online) 22.5%<br />Mid-term exam 2 (open book if done online) 22.5%<br />6 Homework assignments 10%<br />Participation 5%<br /><br />Problem sets are graded upon attempt (not just submission), so as long as you tried your best in doing it you will get a full score.",
+      "rating_content": 4,
+      "rating_teaching": 1,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 10,
+      "vote_count": 11,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

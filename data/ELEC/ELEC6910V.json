@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 2907,
+    "subject": "ELEC",
+    "code": "6910V",
+    "name": "Advance Display Technologies",
+    "description": "Introduction of the human visual system, Colorimetry and photometry, Introduction of the modern TFTs, Modern AMLCD, AMOLED, Fluorescence and phosphorescence, Introduction of Electrophoretic displays, Color electrophoretic displays, Nano-material for displays, Electroluminescence and Photoluminescence, Quantum dot, Quantum rods, State-of-the-art development in the area of display technology: High-resolution displays (4k, 8k, and 10k), Local backlight dimming, Introduction to AR/VR display solutions, Holographic displays, Flexible displays etc.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2030,
+      1830
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1190,
+        "name": "SRIVASTAVA, Abhishek Kumar",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "FE3ImKa9r0pFfy2eu2g1B99Wq0eoEXZ4",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 1190,
+          "name": "SRIVASTAVA, Abhishek Kumar",
+          "rating": 1
+        }
+      ],
+      "author": "Chingyu1",
+      "date": "Sep 26, 2019",
+      "title": "Average workload",
+      "comment_content": "Display technologies<br /><br />Chapter 1.&nbsp;&nbsp;&nbsp;&nbsp;Display Introduction (1)<br />Chapter 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Introduction of TFTs (1)<br />Chapter 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AMLCD (3)<br />Chapter 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AMOLED displays, (2)<br />Chapter 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Electrophoretic displays, (2)<br />Chapter 6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nano-material for displays, (2)<br />Chapter 7.&nbsp;&nbsp;&nbsp;&nbsp;Recent developments in the display technology, (2)",
+      "comment_teaching": "Teach quite fast and discuss a lot of stuff but homework is usually related to books (especially published by faculties of HKUST). The lecture is at night so may get tired.",
+      "comment_grading": "Depends mostly on midterm and project presentation<br /><br />Homework 30% (x4)<br />Midterm 30% (opennotes)<br />Project presentation 40%",
+      "comment_workload": "Not high, complete all homework and revise for midterm would be fine.<br />For midterm having the powerpoint in hand is sufficient",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

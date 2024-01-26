@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 4017,
+    "subject": "MATH",
+    "code": "6914J",
+    "name": "Reading Course: Spectral Theory of Differential Operators",
+    "description": "In this reading course, we give a detailed overview of the techniques and results of the analysis of systems of ordinary differential equations with periodic coefficients, with particular emphasis on the spectral theory of Sturm-Liouville and Dirac operators. Students should seek the course instructor’s approval to take this course.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2230
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

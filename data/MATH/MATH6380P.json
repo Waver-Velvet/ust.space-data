@@ -1,0 +1,32 @@
+{
+  "course": {
+    "id": 2665,
+    "subject": "MATH",
+    "code": "6380P",
+    "name": "Advanced Topics on Deep Learning",
+    "description": "This course is an extension of Stanford Stats 385, Theories of Deep Learning, taught by Prof. Dave Donoho, Dr. Hatef Monajemi and Mr. Vardan Papyan. The aim of this course is to provide graduate students who are interested in deep learning some state-of-the-art mathematical and theoretical understanding of neural networks, in addition to some preliminary tutorials. It includes, but is not limited to, harmonic analysis perspectives on convolutional networks, statistical learning theory on generalization ability, and non-convex  optimization methods. Familiarity on python programming with modern neural networks and mathematical maturity on approximation theory, optimization, and statistics will be helpful.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2010,
+      1810
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

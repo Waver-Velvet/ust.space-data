@@ -1,0 +1,62 @@
+{
+  "course": {
+    "id": 1467,
+    "subject": "SOSC",
+    "code": "3000F",
+    "name": "Gender and Development",
+    "description": "This course will help students to develop an understanding of the interactions between gender and development, through an analysis of theoretical frameworks as well as a discussion of case studies from developing countries. It will study the impact of various development interventions and policies targeted at women - such as micro-credit, conditional cash transfers and reproductive policies.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1630,
+      1530
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3,
+    "rating_teaching": 3,
+    "rating_grading": 1,
+    "rating_workload": 1,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": [
+    {
+      "hash": "RzxQC19fr0NKQmDQlpA4OLaaifoE6wW2",
+      "semester": "2016-17 Spring",
+      "instructors": [],
+      "author": "ykl",
+      "date": "Jun 06, 2017",
+      "title": "BAD GRADE",
+      "comment_content": "Altho it is a sosc course but you would probs do better if you are a busi student",
+      "comment_teaching": "Professor is nice and helpful. However, the lecture materials always seem a bit irrelevant to the readings and the discussion. The discussion is largely based on the readings and has nothing to do with the lectures.",
+      "comment_grading": "Terrible.",
+      "comment_workload": "2 group presentations on reading <br />1 group project (presentation + ~4000 words essay) <br />1 individual research paper (3500 words) <br />Discussion in every class<br /><br />Very chur, has to speak a lot in class to get good impression and choose groupmates carefully or gg",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

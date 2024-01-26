@@ -1,0 +1,114 @@
+{
+  "course": {
+    "id": 1937,
+    "subject": "COMP",
+    "code": "5311",
+    "name": "Database Architecture and Implementation",
+    "description": "Introduction to the relational model and SQL.  System architectures and implementation techniques of database management systems: disk and memory management, access methods, implementation of relational operators, query processing and optimization, transaction management and recovery.  Hands on experience with building the components of a small DBMS.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2030,
+      1930,
+      1830,
+      1730,
+      1630
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 114,
+        "name": "PAPADIAS, Dimitrios",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "HjArWiP0yboY8ZUoHob6aVhQvf75UMT8",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 114,
+          "name": "PAPADIAS, Dimitrios",
+          "rating": 1
+        }
+      ],
+      "author": "F10E",
+      "date": "Dec 14, 2023",
+      "title": "Nice Course",
+      "comment_content": "Basic DB knowledge ranging from the use of SQL to transactions. If you have a CS/SE background, most things should be covered in your UG courses. Some interesting advanced topics were mentioned but not covered in the final exam.",
+      "comment_teaching": "Prof. Dimitris explained everything very well (at least much better than my UG lecturer) and also recalled your memories of other knowledge.",
+      "comment_grading": "50% final exam, 20% presentation, 20% survey, 10% class participation.",
+      "comment_workload": "Only need to prepare for the presentation (with the survey report) and the final exam, which is easy for PG students. No homework, but you may not be familiar with the questions in the final exam if you are not from CSE.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "T8avA5ZKdZAxIMSc7nTR7OgOQPSspu44",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 114,
+          "name": "PAPADIAS, Dimitrios",
+          "rating": 1
+        }
+      ],
+      "author": "Andong",
+      "date": "Jun 03, 2023",
+      "title": "Nice instructor.",
+      "comment_content": "Basically follows the classic DB textbook &quot;Database System Concepts&quot;. The contents covered were quite UG-level (SQL, relational model, query optimization, join algorithms, transactions, and concurrent control...)<br /><br />2/3 of the semester were course lectures and 1/3 were student presentations. Only contents in lectures were examed. No attendance requirement.",
+      "comment_teaching": "Dimitris is good at explaining things in a clear way.<br />Apart from his teaching, he is quite nice. He tries his best to accommodate all your (reasonable) requests on presentation and survey submission arrangements.",
+      "comment_grading": "Have no idea with the final grading scheme, but I think it is fair. My final exam score ranked around top 25%, and I got A-.<br /><br />The exam questions were standard, which covered all aspects I mentioned and focused on basic concepts and approaches.",
+      "comment_workload": "No assignment or project. One survey (around 3000 words required) and one presentation (less than 15min) in a DB-related research area. One final exam.<br /><br />P.S. Dimitris&#039;s advice on the survey and presentation:&nbsp;&nbsp;&quot;Independently of your topic, focus on the general problem and methodologies. Try to avoid technical details and complicated math&quot;",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 5,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

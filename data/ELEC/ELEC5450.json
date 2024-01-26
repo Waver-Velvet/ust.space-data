@@ -1,0 +1,147 @@
+{
+  "course": {
+    "id": 1972,
+    "subject": "ELEC",
+    "code": "5450",
+    "name": "Random Matrix Theory and Applications",
+    "description": "This course gives an introduction to random matrix theory (RMT), which has become a very important tool in communication systems, signal processing and a wealth of (high dimensional) statistical applications. Topics include: introduction to RMT models in engineering; eigenvalue distributions; Wishart and related distributions; finite-dimensional and large-dimensional techniques. Applications include wireless communications, array processing, robust covariance estimation, principal component analysis, signal detection, data analysis applications to financial and biomedical engineering.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2030,
+      1930,
+      1830,
+      1730,
+      1630
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4.33,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 755,
+        "name": "MCKAY, Matthew Robert",
+        "count": 3
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "MJmxrDRZm9wHINKTSwu9SV3k7nyemygj",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 755,
+          "name": "MCKAY, Matthew Robert",
+          "rating": 1
+        }
+      ],
+      "author": "nor",
+      "date": "May 27, 2021",
+      "title": "Great course",
+      "comment_content": "Theories and applications about Random matrix Theory, as it is named.<br /><br />It requires fundamental knowledge of probability, random processes and linear algebra.",
+      "comment_teaching": "Prof writes step by step to take us along every theory, it&#039;s easy to follow the idea in most of the time. The teaching is very smooth and he would like to interact with everyone.<br /><br />There are also plenty of supplementary materials on Canvas, for student&#039;s own interests about this course.",
+      "comment_grading": "Grading is nice and lenient.<br /><br />You would get pretty good marks if you spend efforts digesting the knowledge and thinking about the homework questions carefully.<br /><br />Presentation requires a bit of time management. It is challenging to summarize the work in just 5 minutes.",
+      "comment_workload": "Workload is little heavy in the weeks after homework and project getting released, otherwise it&#039;s normal.<br /><br />Homework is designed very well in the format of real life questions, it is closely related to applications. I have never seen a course that has such an interesting homework.<br /><br />Project is up to your own choice, as long as it is strongly related to Random Matrix Theory.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "sbyS4i6rqSxmMf3khxNMHfGZIzgenShD",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 755,
+          "name": "MCKAY, Matthew Robert",
+          "rating": 1
+        }
+      ],
+      "author": "Neelu",
+      "date": "Aug 22, 2019",
+      "title": "Random Matrix Theory",
+      "comment_content": "The course introduces RMT topics with applications in Signal Processing, Communications, and Finance (Portfolio optimization). The topics include an introduction to RMT models in engineering; eigenvalue distributions; Wishart and related distributions; finite-dimensional and large-dimensional techniques; performance analysis methods in communications and signal processing. Major applications include multi-antenna and multi-user wireless communications, transmit and receive beamforming, statistical signal processing. RMT-based covariance estimation will also be introduced, with application to financial and biomedical engineering.",
+      "comment_teaching": "Prof. Matthew is a very good teacher. He uses the whiteboard to explain the concepts and teaches at a slow pace so that everyone in the class is able to follow the derivations of RMT results. He simplifies the complicated proofs of RMT. He also gives very interesting applications of the RMT topics in engineering through the interesting HWs designed by him.",
+      "comment_grading": "Grading is very lenient. You can easily get A if you complete the two HWs. The project requires literature reviews of some application of RMT to engineering.",
+      "comment_workload": "Very light. No exams. Only 2 HWs which can be easily done if you follow the teaching in class. The project requires literature reviews of some application of RMT to engineering. You can use your research topic as the project and apply RMT results. The final project requires a presentation and report.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "r3F5m8VTZbmyOUiwp2bbyn9K1bgvqXl5",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 755,
+          "name": "MCKAY, Matthew Robert",
+          "rating": 1
+        }
+      ],
+      "author": "Radik",
+      "date": "May 22, 2018",
+      "title": "Random Matrix Theory and Applications",
+      "comment_content": "Very detailed explanation during the class. You will have introduction of Random Matrix Theory and its applications in various fields like engineering, biology, business, signal processing, etc. I suggest that thus who has not good knowledge of probability to postpone this class for future, since many concepts are from ELEC2600 are used.",
+      "comment_teaching": "Teaching is very good, both TA and lecturer will help you any time. Whatever you need for homework and project will be explained in details during the class.",
+      "comment_grading": "you will get what you deserve, i did good in my homework 1 but got worst score in homework 2. my final project presentation and report was average, thus I got B+",
+      "comment_workload": "homeworks are heavy, need to do a lot of Matlab, but no exams. Need to prepare one project in the end of the course related to Random Matrix Theory",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

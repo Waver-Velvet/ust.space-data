@@ -1,0 +1,76 @@
+{
+  "course": {
+    "id": 3474,
+    "subject": "PHYS",
+    "code": "3042",
+    "name": "Structure and Properties of Crystalline Solids",
+    "description": "This course covers material structures and physical properties. Topics include the periodic structure of crystals with basic crystallography, symmetry operations and crystalline structures, diffraction and microscopy techniques to determine Bravais lattices and crystal structures, the imperfections in solid materials and their roles in physical properties, physical and mechanical behavior of solid materials based on different bonding types and common defects, the fundamental concepts of mechanical, electrical, optical and magnetic properties and nanomaterials including nanotubes, nanowires, graphene, and 2D semiconductors.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"PHYS\" data-code=\"2022\" href=\"/review/PHYS2022\" target=\"_blank\">PHYS 2022</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3,
+    "rating_teaching": 2,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 616,
+        "name": "WANG, Ning",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "dQjoyWVI539oBG4n92RcULEQStl3spQ1",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 616,
+          "name": "WANG, Ning",
+          "rating": 1
+        }
+      ],
+      "author": "Lucien▪Evans",
+      "date": "Feb 01, 2023",
+      "title": "good grade but quite boring",
+      "comment_content": "This course covered some knowledge in high school CHEM, focusing on the structure of crystal, lattice and some techniques.<br />Reciprocal lattice is useful but he didn&#039;t spend too much time on its derivation",
+      "comment_teaching": "terrible <br />His oral english is so terrible. Double speed in video recording is actually the normal speed for most courses. Ignoring the accent, the low speed means little content covered in each course.<br />i didn&#039;t want to attend the lecture but he will post some quiz in class",
+      "comment_grading": "He would post some quiz in lecture and 1-2 bonus questions. I got 5 more pts from the second bonus question. Maybe this is the main reason for me to get A+.<br /><br />Midterm is replaced by a small presentation. He gave you a lattice structure one week before and asked you to analyze it. Actually you can discuss it with other students. As long as you attend the presentation, he will give you a score higher than 80. The Q&amp;A part counts little in the presentation score. I gave him a right result of the diagram but can&#039;t answer his question. Got 96. Your presentation skill didn&#039;t matter at all.<br /><br />Considering the online model, Prof.WANG asked us to write a report in final without checking your similarity index. Hence, i read some review for the topic i selected and rewrite it again in my own words.<br /><br />i believe he gave at least 4-5 students a grade in A range among 6 enrolled students. As long as you finished all the HW, attend the lecture and presentation, submit the final report, you would get A.<br /><br />The grading scheme for F2F mode might be totally different.",
+      "comment_workload": "Almost no workload.<br />5 assignment in total and all of them are released before mid<br />Each assignment has 4-5 questions. But someone didn&#039;t submit the HW.",
+      "rating_content": 3,
+      "rating_teaching": 2,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

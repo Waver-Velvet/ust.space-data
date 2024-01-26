@@ -1,0 +1,108 @@
+{
+  "course": {
+    "id": 3894,
+    "subject": "CORE",
+    "code": "1111",
+    "name": "Energy and Related Environmental Issues",
+    "description": "This course will introduce the basic concepts of the physical principles behind energy. Forms of energy (including fossil energy, nuclear energy and various forms of renewable energy) and their use for electricity generation, as well as their impacts on the environment from both global and regional perspectives will be covered. Issues related to energy conservation and related environmental issues in Hong Kong and the rest of the world will be addressed.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230
+    ],
+    "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1401\" href=\"/review/CORE1401\" target=\"_blank\">CORE 1401</a> OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1402\" href=\"/review/CORE1402\" target=\"_blank\">CORE 1402</a> OR CORE 1403 OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1404\" href=\"/review/CORE1404\" target=\"_blank\">CORE 1404</a> OR LANG 1002 (prior to 2022-23)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 3.5,
+    "rating_grading": 4,
+    "rating_workload": 4.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 626,
+        "name": "WANG, Xiangrong",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "JKtObXMhr2ZY1T9w13kXJuMZsO3U63vR",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 626,
+          "name": "WANG, Xiangrong",
+          "rating": 1
+        }
+      ],
+      "author": "Silas_L",
+      "date": "Aug 16, 2023",
+      "title": "",
+      "comment_content": "The basic concepts of the physical principles behind energy. Forms of energy and their use for electricity generation, as well as their impacts on the environment from both global and regional perspectives.<br />Issues related to energy conservation and related environmental issues in Hong Kong and the rest of the world.<br />L1: Introduction <br />L2: Population growth and Energy consumption<br />L3 ~ L10: Fossil fuels <br />L11~ L15: Electircity <br />L16~ L17: Nuclear energy<br />L18: Water energy<br />L19: Wind energy<br />L20: Solar energy<br />L21: Air pollution<br />L22: Global warming and Climate change",
+      "comment_teaching": "Professor Wang spoke very slowly with a strong accent, so sometimes it might be hard to understand what he had said. The Professor usually read the powerpoint and add some of his own opinion. I must say that I haven&#039;t serious hear about any lecture because the ppt shows all points in detail. During the class, IPRS and tutorial questions will be presented. The IPRS question is pretty easy while the tutorial questions are sometimes hard to tackle. However, the answers can be found by looking through the ppt.",
+      "comment_grading": "Final Exam - 50%<br />IPRS quizzes during lecture time - 4% (L5-L22)<br />Multiple-choice questions during tutorial sessions - 10% (L5-L22)<br />Written report of an open-ended question – 18%<br />Group project (oral presentation) – 18%<br /><br />My grades are showed below:<br />Final Exam: 104/120 Mean: 74.9 High: 114<br />IPRS quizzes: 22/22<br />Multiple choices: 39/44<br />Written repot: 91/100 Mean: 79.5 High: 91<br />Group Project: 81/100 Mean: 78.7 High: 88 <br /><br />Final Grade: A+<br />The final grade is astounding nice cause I expect to get an A or A-.",
+      "comment_workload": "The workload of this course is extremely light except the last month of semester because this course have no homework and little assignments. However most assignments are in need to be finished in the last month including written report and group project.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "PHjMgKpRwWCun6nm3qWA1tTwRDSMT4sI",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 626,
+          "name": "WANG, Xiangrong",
+          "rating": 1
+        }
+      ],
+      "author": "Apprenteran",
+      "date": "Jun 02, 2023",
+      "title": "",
+      "comment_content": "L1:&nbsp;&nbsp;&nbsp;\tIntroduction and Review of energy<br />L2:&nbsp;&nbsp;&nbsp;\tPopulation growth and Energy consumption <br />L3:&nbsp;&nbsp;&nbsp;\tFossil fuels<br />L4:&nbsp;&nbsp;&nbsp;\tTemperature and Heat <br />L5:&nbsp;&nbsp;&nbsp;\tThermodynamics of heat engine I<br />L6:&nbsp;&nbsp;&nbsp;\tThermodynamics of heat engine II<br />L7:&nbsp;&nbsp;&nbsp;\tOtto engine and Passenger cars<br />L8:&nbsp;&nbsp;&nbsp;\tDiesel engine and Cargo ships<br />L9:&nbsp;&nbsp;&nbsp;\tJet engine and Air travel <br />L10: \tEnvironmental impacts of burning fossil fuels <br />L11: \tElectricity generation <br />L12:\tElectric power grid<br />L13:\tElectric lighting<br />L14:\tEnergy storage and Home heating/cooling <br />L15:\tEmbodied energy in “stuff”<br />L16:\tNuclear energy I<br />L17:\tNuclear energy II<br />L18:\tWater energy<br />L19:\tWind energy <br />L20:\tSolar energy <br />L21:\tAir pollution<br />L22:\tGlobal warming and Climate change",
+      "comment_teaching": "A bit boring, but the slides are clear.",
+      "comment_grading": "OK for common core courses.",
+      "comment_workload": "Final Examination<br />iPRS quizzes during lecture time<br />Multiple-choice questions during tutorial sessions<br />Written report of an open-ended question<br />Group project (oral presentation).",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

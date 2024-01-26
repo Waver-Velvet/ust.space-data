@@ -1,0 +1,34 @@
+{
+  "course": {
+    "id": 3489,
+    "subject": "SOSC",
+    "code": "6880",
+    "name": "Seminar on Emotion",
+    "description": "This course covers major perspectives on emotion, with an emphasis on a psychological rather than a biological or a sociological level of analysis. It provides an in-depth examination of emotion theories and research to students with different research foci.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2210,
+      2110,
+      2030
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

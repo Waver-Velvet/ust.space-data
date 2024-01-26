@@ -1,0 +1,551 @@
+{
+  "course": {
+    "id": 4185,
+    "subject": "LANG",
+    "code": "1403A",
+    "name": "Academic English for University Studies",
+    "description": "This course emphasises the development of academic literacy skills, in addition to developing students’ language proficiency.Students will learn how to find and evaluate sources for academic tasks and will further develop their abilities to be critical in reading and writing, to synthesise ideas and to develop coherent arguments. Collaboration and leadership skills will also be emphasised to further develop skills and habits for autonomous lifelong learning.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2310
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"LANG\" data-code=\"1401\" href=\"/review/LANG1401\" target=\"_blank\">LANG 1401</a> OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1402\" href=\"/review/LANG1402\" target=\"_blank\">LANG 1402</a> OR Level 5 in HKDSE English Language with all papers at or above level 4 OR Overall bandscore of 6.5 in IELTS with all subscores at or above 6.0 OR equivalence of the above",
+    "corequisites": "",
+    "exclusions": "LANG 1003",
+    "rating_content": 2.62,
+    "rating_teaching": 4.23,
+    "rating_grading": 3.08,
+    "rating_workload": 2.77,
+    "review_count": 13,
+    "single_review": false,
+    "enrollment_status": 2,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 297,
+        "name": "LEE, William Wai Lam",
+        "count": 3
+      },
+      {
+        "id": 1715,
+        "name": "GLOFCHESKI, Maisie",
+        "count": 3
+      },
+      {
+        "id": 881,
+        "name": "FARMER, Rebecca",
+        "count": 2
+      },
+      {
+        "id": 1707,
+        "name": "MAK, Linda Y O",
+        "count": 2
+      },
+      {
+        "id": 330,
+        "name": "FUNG, John",
+        "count": 1
+      },
+      {
+        "id": 423,
+        "name": "YEW, Liza Sook Yee",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "e31m7YgkC0TWjdq32rH0KCPIN3rlCqEi",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1715,
+          "name": "GLOFCHESKI, Maisie",
+          "rating": 0
+        }
+      ],
+      "author": "lme",
+      "date": "Jan 27, 2024",
+      "title": "Better reg another professor if u aim high",
+      "comment_content": "The teaching materials and guidelines for assignments were totally useless. I had no idea on what to do cuz everything was unclear. The content was not too interesting as well.<br /><br />W1 and V1 were not graded<br />W2 and V2 were graded<br />V1 was a mini group project<br /><br />Btw they said they wouldnt assessed video editing skills for V2 but come on, it actually affects the grades. They recommended us to use basic softwares like zoom or powerpoint but Maisie actually said using powerpoint made it look like a preedentation!!! So what do you expect from me??? Professional video editing skills just in 3 months??? At this point, i dont know its a media course or an english course.<br /><br />I don&#039;t feel like my english is improved, i just hate having this academic english course cuz everything was in a whole mess.",
+      "comment_teaching": "She is just a typical passionate foreign teacher with a very pleasant accent. She was friendly to everyone in class but the grading was subjective, depending on whether she could recognize you and how active you are. I wish she could have given more feedbacks, comments and guidance on our assignments.",
+      "comment_grading": "Grading was more subjective compared to other courses.<br /><br />I was rather less active than some of the peers so this may be the reason that i got a bad grade.<br /><br />I attended literally every lesson and she only gave me 88% for roll call attendance. <br /><br />And for the V2 assignment, she gave a lot of good comments during video showcase and only provided 2 to 3 advice for improvements. But at last she gave competent for most of the tested elements which i absolutely do not understand why it was the case.<br /><br />For reference, i got 18/20 for SDL.<br />Mostly Advanced/Competent for W2.<br />Mostly Competent for V2<br />And final grade was C<br /><br />(But i actually got 8.0 for IELTS and level 5 for HKDSE so don&#039;t be too confident that you can get a good grade for 1403A)",
+      "comment_workload": "Workload was heavy<br />SDL every week<br />spent a lot of time on doing W2 and V2 as well yet these assignemnts were not so useful in my perspective and poorly graded",
+      "rating_content": 2,
+      "rating_teaching": 4,
+      "rating_grading": 1,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "hM3U9OQH4U3dRVc6HXWCuVkRBBQNkdJp",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 297,
+          "name": "LEE, William Wai Lam",
+          "rating": 1
+        }
+      ],
+      "author": "nwjnshypeboyyo",
+      "date": "Jan 26, 2024",
+      "title": "Nice Instructor",
+      "comment_content": "Unit 1: Research skills and group working (Not really related to W2 and V2) <br />You will receive a topic list in this period and work in a team on one of the topics, but you can change it in your W2 and V2. <br />Unit 2: Literacy skills: writing summaries and critiques (mostly work&nbsp;&nbsp;in class and pairs); citing, evaluating, and *synthesizing* sources; *coherence*<br />Just keeps writing and typing...<br />Unit 3: Multimodal communication: this is more likely to teach you to add pics and interesting ideas in your future V2.<br />-<br />The content is not abstruse and easy to understand by following the instructor&#039;s advice.",
+      "comment_teaching": "William is a nice instructor ngl<br />He always tries to make the class more interesting and lively, and he loves calling out our names to answer his questions. <br />(((I bet he knows the content is boring, somehow hh<br />He is responsible and willing to advise us, ofc you gotta put some effort into your W1 and V1, just ask him after class. <br />His accent is good and I kinda enjoy taking his lessons hhh.",
+      "comment_grading": "Frankly speaking, not bad:) it&#039;s even better than what I&#039;d expected<br />Course mark distribution:<br />80% project task: [W2] 35% 800± word academic writing (SY, WL, CO) + 3% 300-500 word reflection (by task completion) + [V2] 40% Individual multimodal video (SY, CO, SL, MM) + 2% 300-500 word reflection (by task completion)<br />20% SDL (Online library quizzes and 2 electives)<br />(More details please refer to others&#039; comments) <br />-<br />I got 3 Advanced/Competent in W2, 1 Advanced and 3 Advanced/Competent in V2, a full 20% for SDL. <br />Overall B+<br />-<br />Although attendance is not graded, I believe it still takes a part in the impression mark, I took full attendance for this course this semester.",
+      "comment_workload": "Haha, no<br />I&#039;m kinda sick of this honestly<br />like when having an 800 word essay due after your mid-term week <br />No, I wouldn&#039;t say I like it^^<br />But it seems every lang 1403A student has the same workload <br />(W1+V1+W2+V2)<br />And SDLs ==<br />Just get over it and everything will be fine.<br />bless u",
+      "rating_content": 3,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "lBVvWdtJa2gLIDzXQqijcQ75EDOVOCdQ",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 423,
+          "name": "YEW, Liza Sook Yee",
+          "rating": 1
+        }
+      ],
+      "author": "fakereview",
+      "date": "Jan 24, 2024",
+      "title": "",
+      "comment_content": "LANG 1403 is part of HKUST&#039;s Common Core Program (https://uce.ust.hk/) which aims to broaden the horizon of, to inspire and to empower students. The Common Core program promotes a lifelong pursuit of excellence, to provide a foundation for students’ life-long development through personal growth, preparation for future careers and opportunities to make contributions to the community.<br /><br />To help achieve these goals, this course aims to develop your confidence and skills with communicating well in English throughout your university studies and in your future pursuits. The course emphasises the development of academic literacy skills and language proficiency. You will learn how to find and evaluate sources for academic tasks and will further develop your abilities to be critical in reading and writing, to synthesise ideas and to develop coherent arguments in spoken, written and multimodal communication. <br /><br />Through this course, you will practice 21st century skills to enhance collaboration, creativity, critical thinking, and communication.",
+      "comment_teaching": "The teaching is fine but you have to listen very carefully in class. She will randomly find students to answer her questions so pay attention.",
+      "comment_grading": "This course has one major project which makes up 80% of your course grade. This project comprises 4 assignments: One writing practice assignment (W1), one video-making practice (V2), one writing assessment (W2) and one multimodal video assessment (V2),&nbsp;&nbsp;spread through Unit 2 and Unit 3. This project helps you gradually build up your research into your chosen topic throughout the semester. You will research one particular innovation or development related to the theme of 21st century study and work, and use your research to make recommendations to improve study or work in the future.<br />&gt; You can find out more about the project and its assessments about the project under &quot;Assessment&quot; in this Canvas site.",
+      "comment_workload": "The V2 is time-consuming. Also the are tasks to hand in basically every week. The workload is quite big comparing to other courses in year 1.",
+      "rating_content": 1,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "LYbm1BpQJjnsI2SE9dHG38IVrTcFYMWG",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 297,
+          "name": "LEE, William Wai Lam",
+          "rating": 1
+        }
+      ],
+      "author": "31v12",
+      "date": "Jan 04, 2024",
+      "title": "Gyze check out my video",
+      "comment_content": "3 units over the course of about 3 months. Don&#039;t worry it&#039;s not too bad.<br /><br />First unit gets you understand the &quot;vibe&quot; of the course. Basically let you understand the overview of the course and the purpose of this course. Nothing really crazy here.<br /><br />Second unit where things really begins (and it&#039;s also the longest). It teaches you how to write and present in an academic setting, like how to do synthesis and paraphrasing in your essays, things that make you sound &quot;professional&quot;. There is a list of topics you need to choose, and you choose one to talk about it in your assignments. No gonna lie, kinda borning.<br /><br />Third unit, in one month, make a video out. It doesn&#039;t really teach you how to make a good &quot;watchable&quot; video, but I guess it&#039;s not too bad.<br /><br />Overall, depends on your English. I think you would actually learn quite a lot if you still have improvement space in your English skills, but for me who got level 5 in DSE, half of the content is a bit like common sense, like there&#039;s not really a &quot;oh wow&quot; moment, so kinda boring.",
+      "comment_teaching": "Professor Lee has a British accent, that already says a lot.<br /><br />Jokes aside, I think he&#039;s a pretty chill guy. He definitely makes the course more fun by giving a lot of group activities, and the vibe he creates is just great in a somewhat boring lesson. Totally recommend him if you can.",
+      "comment_grading": "Three things you need to take seriously. The writing, the video and the SDL (Self-Directed Learning).<br /><br />First thing, the writing called W2. 800-word essay (35%) + 300-word reflection(3%).<br /><br />Second thing, the video called V2. 5-minute video (40%) +300-word reflection(2%). Check out my video please. Pretty cool. https://www.youtube.com/watch?v=ODw-EaviU-k&amp;ab_channel=ElvisWong<br /><br />Last thing, SDL. 20% ranging from electives and stuff.<br /><br />I have uploaded the assessment descriptors below to check out yourself.<br /><br />In the end, here&#039;s what I got.<br />W2: 2xAdvanced/Competent 1xCompetent<br />V2: 2xAdvanced 2xAdvanced/Competent<br />SDL: 13xActivities 3xLibrary 2xElective (I think this is full mark)<br /><br />Final grade: B+, what da heck, I clutch out a + sign lfg.<br /><br />I have heard from people the grading depends on the semester, and I guess I got pretty lucky.",
+      "comment_workload": "Kinda suck.<br /><br />There&#039;s a lot of work to put in that aren&#039;t really assessed, like there&#039;s activities you need to do before the lessons, which is quite annoying. <br /><br />Not to mention W1 and V1, 0% overall, but if you want some feedback before doing things that are assessed, it&#039;s best to do them seriously. Also V1 is a group thing, so quite annoying. But hey, at least I get to know new friends (hi Kenny),",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "UCa18eWRvqNzzKc9MUinRwg2YT1BaKGw",
+          "name": "Assessment Descriptors for Multimodal Video 2 (V2)- Students",
+          "format": "pdf"
+        },
+        {
+          "key": "rsN2OoWlGXDaw6xLaMjVfNACeVDQpzDb",
+          "name": "Assessment Descriptors for Academic Writing 2 (W2) - Students",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "naGgqi2cJ8OqIRleJ0ATXp2aw94zFXUm",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1707,
+          "name": "MAK, Linda Y O",
+          "rating": 1
+        }
+      ],
+      "author": "ctruckings",
+      "date": "Jan 03, 2024",
+      "title": "Took a month for releasing grades",
+      "comment_content": "Mainly reflect on materials shown during the lectures. No pressure at all.<br />You should focus on the 2 marked tasks.<br /><br />V1 and W1 are not graded.<br /><br />Lecturers only tell you to make a good video. They can&#039;t teach you how to use tools to make a good video. One&#039;s video editing background holds cutting edge in completing V2. <br /><br />The tasks are quite boring.",
+      "comment_teaching": "The content is boring. (So are the lectures)<br /><br />She requires minimal participation during lectures. <br />Just behave like an educated adult will do.<br /><br />She gives detailed feedback on W1 with good reasoning.<br /><br />She also puts huge emphasis on major content like APA. (you can imagine many students make referencing mistakes)",
+      "comment_grading": "I withdrew my application for 1404. <br />A good decision. It made my life easier compared to my peers.<br /><br />SDL (20%)<br />Submit all = full marks<br />Remember to finish them on time. <br />(You may keep screenshots as evidence of submission for self-protection)<br />Don&#039;t forget about Electives.<br /><br />W2 and reflection (35%+3%)<br />For people who are inexperienced in filming videos, I recommend putting more effort in writing this essay. <br /><br />To be frank, W2 is less time-consuming compared to V2.<br /><br />My score: (4.5/4/4)<br /><br />V2 and reflection (40%+2%)<br />Does not worth the time to learn video editing from square one. <br /><br />My score: (3.5/4/4/3.5)<br /><br />Final Grade: A- <br /><br />You can imagine a lot more input is required for A/A+ <br />Also Mak gave scores identical to what I expected",
+      "comment_workload": "Work smart &gt; work hard<br />I typed my reflection for W2 during the lecture. <br />I must confess that this course isn&#039;t as demanding as others stated.<br /><br />You may use AI for quick content generation.<br />But don&#039;t copy it blatantly without proofreading, they can tell",
+      "rating_content": 2,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "n5gTb1MNZXSfNjdObjwrltK4WmRtr2tu",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 881,
+          "name": "FARMER, Rebecca",
+          "rating": 1
+        }
+      ],
+      "author": "Charles.k",
+      "date": "Jan 03, 2024",
+      "title": "Good instructor, relatively heavy workload",
+      "comment_content": "This course is my first language course in university.<br />According to the website, this course aims at helping us to develop academic literacy skills, in addition to developing students’ language proficiency.<br />However, after this course, I don&#039;t think I completely understand what is synthesis. And most content is not that useful.<br /><br />I still give this course a &quot;B&quot; as this course does help me to learn about citation and how to write academic articles which are very important.",
+      "comment_teaching": "Rebecca is a good teacher. She is nice that give us detailed comments for our writing, recording and even SDLs.<br />And most important, she is not a &quot;killer&quot;.<br />She emphasize the importance of discussion. We have a lot of discussion in lessons. We also got a lot of feedback.<br />I think her teaching&nbsp;&nbsp;is quite clear (except for synthsis part).",
+      "comment_grading": "The grade of this course consists 3 parts:<br />Writing 2 + reflection <br />Video 2 + reflection <br />Self-directed learning<br />% pls read other comments<br /><br />About me, I am good at writing but poor about speaking in DSE.<br /><br /><br />Writing 1 and Video 1 is just for you to practice but still need to do it seriously as these skills are useful when doing the graded tasks.<br /><br />I got all advanced in writing 1.<br />In video 2, I got advanced/competent for spoken language, exceptional for multimodality or synthesis (I forgot which part) and other exceptional/advanced. This course is not testing your editing skill. I only use PowerPoint to record and make the video.<br />SDL 15 mark (forgot the full mark)<br /><br />Final grade: A",
+      "comment_workload": "Workload is quite high compared with other courses I take in this semester.<br />A lot of research is needed if you want a satisfactory grade in your writing and video. I have cited 5 articles for my videos. <br />Forgot about writing, but I use nearly 20 hours for my video including 9 hours of extra research.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "SgeihWT2Mx624Y1ibSOkjvmmNS9hpZVk",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 881,
+          "name": "FARMER, Rebecca",
+          "rating": 1
+        }
+      ],
+      "author": "polyipseity",
+      "date": "Jan 03, 2024",
+      "title": "the mandatory grade lottery machine",
+      "comment_content": "Let&#039;s start with some basic information. Most lessons are face-to-face, while the rest are self-directed lessons (SDL), which you only need to complete the graded SDL tasks online. Then, there are two ungraded group projects, academic blog (writing assignment 1, W1) and group video (video assignment 1, V1). Lastly, there are two graded individual projects, academic blog (writing assignment 2, W2) and individual multimodal video (video assingment 2, V2). The detailed requirements are below:<br /><br />- W1: 400 ± 50 words, unassessed<br />- V1: 1-2 minutes, unassessed<br />- W2: 800 ± 50 words, 35% (written language, coherence, synthesis), reflection 3% by (meaningful) completion<br />- V2: 4-6 minutes, 40% (spoken language, coherence, synthesis, multimodality), reflection 2% by (meaningful) completion<br />- SDLs: complete all SDL lessons (13), two elective modules (2), and two quizzes on the school online library (3), 18 max, normalized to 20%, actual scores on the SDLs does not matter as long as it is not too ridiculous low<br /><br />Overlength writing and video would mean your assignment would be assessed up to the limit, while underlength writing and video would decrease all of your assignment grade by a level. So don&#039;t go underlength and prefably keep your assignment not or slightly overlengthed.<br /><br />The course is split into 3 units. Let&#039;s talk about them individually.<br /><br />Unit 1 is about class logistics and narrowing on a research topic with groupmates. It tries to teach us that researching in a group consists of 8 steps: knowing thy teammates, understanding goals, choosing a topic, brainstorming, narrowing down your topic, developing key points, drafting and editing your work, and publishing your work. It is clearly preparing for the group projects V1 and W1.<br /><br />Very well that you are trying to teach us how to research, but we all know how the actual reseach process looks like: procrastinating, realizing the deadline is tomorrow, burning midnight oil, and submitting your work just in time. Honestly, actual researching takes a lot of work and time and learning it can only be done if you are truly interested in the topic. Try looking up how much work a PhD candidate does.<br /><br />Unit 2 is much longer and talks about academic writing. First, it teaches about summarizing and critizing sources. It tries to do that by pointing key things to note, having you write some summaries and critques of various text and discuss with your classmates. Nice attempt, but if you really want to improve on summarizing and critiquing, the exercises in the course are definitely not enough, and it&#039;s not like you are goint to do it seriously, right?<br /><br />Next, it teaches multimodality. It does so by showing us professional videos and pointing out the techniques used inside. Of course you don&#039;t actually get to practice using those techniques for multimodality because... Well, imagine creating any effects in a professional video. How do I even get started? No, CLE will not teach you anything on this. Though at least they do provide some links to tutorials.<br /><br />Lastly, it teaches us on making coherent arguments. Again, it does the same thing as that for summarizing and critizing sources, so I won&#039;t repeat it here again.<br /><br />Unit 3 is all about making a video from your research. It teaches you on how to make ENGAGING videos. Well, yes, I definitely know videos need to be ENGAGING by adding colorful images and videos and having good scriptwriting and language, but how do I actual make such a video? As mentioned above, CLE just provides links, so either you have to learn some video editing or stick to some tool that you know well, usually a presentation tool. The tools that you know determines the ceiling of your video.<br /><br />It also have some SDL lessons that teaches you on spoken language and synthesizing recommendations, and it&#039;s only marginally more helpful than the above.<br /><br />Lastly, there is a lesson at the end where you get feedback for your V2 draft from your classmate and your teacher. It is ungraded and your best chance to improve your V2 grade. Otherwise, you will need to make those chances at improving your grades yourself by appointing one-to-one meetings with the teacher.<br /><br />For the two graded assignments, there is also a reflection writing for each, carrying a 3%/2% meaningful completion mark. Use almost minimal effort on it, or maybe just write as you think. At least satisify the minimum word requirement. Going over the word limit is aokay.<br /><br />You are allowed to use generative AI. Please do use them so that you won&#039;t be disadvantaged! I think it is best used for paraphrasing your text to be more natural. Especially good if English is not your native language.<br /><br />On top of those SDLs, you also need to complete two elective modules out of four: presentation skills, online resources for language development, academic writing, and research skills. All four are available on Canvas right away, you just need to complete two or more. Mostly useless work except that it provides some links to resources that you can use. If you want the least work, choose online resources for language development and research skills.<br /><br />And there&#039;s also two online library quizzes. It&#039;s mostly about how to use online libraries, citations, and plagiarism. Just more annoying work to do...",
+      "comment_teaching": "Mrs. Farmer is a sweet British teacher... Caring enough to put comments on the CLE feedback website, even for the SDL assignment. Her grading is not too fishy and about normal, neither good nor bad. Though that won&#039;t do for my boringness in the lesson... sleepy 😴",
+      "comment_grading": "In this section, CLS stands for CLE. Because it really is CLS when it comes to grading.<br /><br />FIrst, if you are trying to predict your grade from your current assignment grades by reading reviews, don&#039;t! Or at least you should expect the actual grade to be ±3 subgrades of your expected grade after reading the reviews. For assignment grades and worse course grade compared to others. For example, compare these two reviews (CORE 1403A is the old course code):<br />- https://ust.space/review/CORE1403A/view/8tSlJEW5n5aHV7PdEIlj3214UPQFecCz: all SDL, 5 advanced, 2 exceptional/advanced, gets B+<br />- https://ust.space/review/CORE1403A/view/dj4l29rv2U5fOCf1AAD9xSEUqzv5JvGO: all SDL, 2 advanced/competent, 2 advanced, 3 exceptional/advanced, gets A<br /><br />The reason is that the grades are adjusted for each section. If a section has too many good grades, grades are adjusted downwards, and vice versa. So you can think of the curve is for each section instead of for the entire course. So good luck having a good grade teacher but not a too-good grade teacher.<br /><br />Aside, grading is more subjective than other courses, and perhaps some instructors give their grades based on their perception on you, so even more randomness... which is why it might as well be a lottery machine, it won&#039;t be much different. Maybe try swapping the sections with others, though you probably need to know of USTSPACE before the add-drop period... rare.<br /><br />To conclude, the reason why grading is so CLS is the opposite of that of MATH: the grading for CLS is too adaptive and inconsistent, whereas the grading for MATH is consistent but too unadaptive because of absoute grading.<br /><br />And the grading experience is very bad because it takes so freaking unnecessarily long to release your grade! Like it was released literally the start of the winter semester (2024-01-02) whereas the last assignment was submitted on the first of December (2023-12-01)... AHHHHHHH<br /><br />Anyway, here are some strategies to help you. Complete all SDLs and reflection tasks because basically everyone else with a brain is doing it. Ideally, do them early so that you won&#039;t forget later. Check if you have missed any SDLs tasks like you have OCD. Use ChatGPT to paraphrase your text to make your text more native like. And don&#039;t trust everything what the course content says about grading, like &quot;video editing is not assessed&quot;. Because how the hell do you think you can do multimodality, which is assessed, without any technical skills? And yes, really do improve your video editing skills. And go beyond, like animation (no, not PowerPoint animation), if you for some reason need CLS to pull up your CGA. Lastly, do look at the assignment grading rubrics and understand what CLS expects.<br /><br />As an appendix and for statistical purporses, this is what would one approximately need to get A+ despite CLS grading for sweet LANG 2010H/2030H (in comparison, any passing grade in LANG 1404 can join the honor class):<br /><br />- W2: written language: exceptional/advanced, coherence: exceptional, synthesis: exceptional/advanced, reflection: competent (3%)<br />- V2: spoken language: exceptional/advanced, coherence: exceptional, synthesis: exceptional, multimodality: exceptional, reflection: emerging (2%)<br />- SDL: activities: 13/13, library: 3/3, electives: 2/2",
+      "comment_workload": "In comparison with LANG 1402 and LANG 1404, the workload of this course is comparatively low. Only two graded offline assignments are needed whereas LANG 1404 have 6 or 7 and LANG 1402 have speaking tasks. A bit annoying that there are also reflection for each graded task. However, the workload is high if you want to exert extra effort on each assignment, especially for the V2 assignment.<br /><br />For ungraded ones, you can probably just do them with minimal effort, or not do it at all if you don&#039;t care about impression.<br /><br />The same goes for attendance, you can skip all lessons if you don&#039;t care about impression (though I suspect this makes a much greater impression, so maybe don&#039;t). There is a scary score counter that records your attendance, but it is not graded *officially*. It is a relic from the past when attendance *officially* would affect your grade. It was left here to make people think they need to attend lessons psychologically, hehe. Though if you care about impression, please do attend all lessons so that it won&#039;t affect your grade *unofficially*, i.e. teacher disliking you and giving you worse grade.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 2,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 6,
+      "vote_count": 6,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "HozZGFYnOYdkjZ0tMBqdLmRo8R07dqsx",
+          "name": "Assessment Descriptors for Multimodal Video 2 (V2)- Students",
+          "format": "pdf"
+        },
+        {
+          "key": "SctEBZCVNL9vF19AVXe1NUGiRcBtBzJh",
+          "name": "Assessment Descriptors for Academic Writing 2 (W2) - Students",
+          "format": "pdf"
+        },
+        {
+          "key": "Btt5tOCKOuxn5LNMFiHlH3kPahPDtdOH",
+          "name": "tips to avoid plagiarism",
+          "format": "png"
+        }
+      ]
+    },
+    {
+      "hash": "WaZmyMOAlV0a7Bm7vGYTuC0ezJwMKMy2",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 297,
+          "name": "LEE, William Wai Lam",
+          "rating": 1
+        }
+      ],
+      "author": "Hahaha0123",
+      "date": "Jan 02, 2024",
+      "title": "",
+      "comment_content": "Course Content: <br />Unit 1: Team collaboration skills, communication skills, research skills, narrowing down a topic<br />Unit 2: Synthesis, source citation, criticizing sources, writing summary, multimodality elements, coherence<br />Unit 3: Making educational videos with visuals, spoken language style, synthesizing recommendations, speaking tone<br />Most of the content is highly related to the assignments that you need to submit. Basically, it&#039;s just telling you how to fully utilize your sources and use them appropriately. So they are somehow quite repetitive and boring. But don&#039;t expect that you can fully understand the content of the course, or you can make some improvements in terms of using English. I don&#039;t think the course materials can explain things clearly also. <br />Attendance is taken in every lesson, but it doesn&#039;t count into the grading. Perhaps good attendance can give a good impression to the instructor. But otherwise, it has no use at all.",
+      "comment_teaching": "William is quite friendly. He is not the kind of aggressive instructor who will force you to do something. If you can&#039;t answer his questions, he will give you some help.<br />Sometimes, he can give you some general comments on your assignments. They might be quite useful when you don&#039;t have any ideas on them.<br />Normally, William will divide the class into different small groups (2-3 persons per group) for discussions. Perhaps it would be quite chaotic for introverts (XD), although I think group communication is a main part of this course. Similar to other reviews, I won&#039;t comment on his teaching skills because the course materials are really trash.",
+      "comment_grading": "The assessment plan of the course: <br />W1 Assignment (400-word academic blog, not assessed)<br />W2 Assignment (800-word academic blog, 35%) + Reflection (3%, by completion)<br />V1 assignment (Group project, 4-minute video, not assessed)<br />V2 Assignment (Individual work, 6-minute video, 40%) + Reflection (2%, by completion)<br />SDL homework + Online Library Session + Electives (20%, by completion, 18 tasks in total)<br /><br />The assessment categories in the assignments will be graded using 9 different levels. Every category will have a maximum of 5 marks. My work: <br />W2: Advanced/Competent(3.5) + Advanced/Competent(3.5) + Competent(3) = 10/15<br />V2: Advanced/Competent(3.5) + Advanced/Competent(3.5) + Advanced(4) + Competent(3) = 14/20<br />SDLs: 18/18<br /><br />My final grade is B and I think it is still quite fair. But perhaps it can&#039;t reflect the workload of this course and the time that I spent.",
+      "comment_workload": "The workload is quite heavy compared to other courses. Typically, the SDL homework and the electives are quite annoying and you have to do them every week starting from the middle of the semester. I think it is also necessary to spare a few days, or even weeks to complete W2 and V2 assignments respectively. You would probably spend most of the time to find appropriate sources for your work. For V2 Assignment, editing and recording video would also cost a lot of your time.",
+      "rating_content": 3,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "50RrWdnN3zUpIOOqWKtaCpgZcvyGSYu3",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1715,
+          "name": "GLOFCHESKI, Maisie",
+          "rating": 1
+        }
+      ],
+      "author": "notjerome",
+      "date": "Jan 02, 2024",
+      "title": "good instructor = good grade",
+      "comment_content": "Ngl, i have no idea whats happening but i still enjoy going to the lessons. One of the more fun courses.<br />Mainly talks about multimodality and the course even deviates from its original teaching purpose. <br /><br /><br />Attendance not needed but highly recommend to attend. Impression points.",
+      "comment_teaching": "Maisie is a really good teacher. She tries to lighten up the mood and stuff. Big cool. Big smile. Very energetic and hardworking, she needs more sleep though.",
+      "comment_grading": "There are two graded assignment: W2 and V2 and some SDL.<br />For W2, I only used ChatGPT to give me hinters on what to write, but I dont&nbsp;&nbsp;recommend using it to actually write for you. (Professors know if you are using GPT, they pretend not to notice) It makes your writing boring, yucky. <br />As for V2, just copy the formatting of some youtubers and you should be fine. I highly recommend planning your V2 after you get your specific topic because it&#039;s time consuming.<br /><br />Alas, I got mostly exceptional/advanced in W2 and mostly advanced in V2.<br /><br />Grade = A<br /><br />The grading depends on the professors and sections. Some sections might be more competitive than others and some professors may give more lenient grading. Swapping might be the optimal play if you want A range. Also, I highly recommend being active in class.<br /><br />The grades come out after the year when they have the most time out of any courses.",
+      "comment_workload": "W2 is fine, V2 is hellish.<br />I did everything the night/week before, so everything is super rushed. Submitted everything basically a couple minutes before the deadline. If you cannot finish in time or miss something, just email the professor. If they are nice they may make some exceptions. <br /><br />There is also something called SDL and electives. You can speedrun all of them in an hour or so.<br /><br />Make sure to double check if you did everything.",
+      "rating_content": 3,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "O8vhSujoms3BcH4zWQTIhLGBzYOQxaNR",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1715,
+          "name": "GLOFCHESKI, Maisie",
+          "rating": 0
+        }
+      ],
+      "author": "arkived",
+      "date": "Jan 02, 2024",
+      "title": "",
+      "comment_content": "4 assignments:<br />W1, V1 (not counted towards grade, only given feedback)<br />W2+reflection (35%+3%), V2+reflection (40%+2%)<br /><br />W1: Blog critique on one source (400±50 words)<br />V1: video of 2 mins (group project)<br />W2: Blog critique on 2 to 6 sources (800±50 words) (recommend at most 4 sources)<br />V2: multimodal video of 4-6 mins<br /><br />Do 2 out of 4 electives + library quiz + SDLs (20%) <br />full mark: 18/18<br /><br />tbh no use towards improving your eng after this course",
+      "comment_teaching": "at least lessons are fun to attend in someway...<br />make sure to find friends you can chat with or else it will be quite awkward to find groupmates",
+      "comment_grading": "no attendance checked but make sure to let her &#039;recognize&#039; you such that your grade won&#039;t be too low<br /><br />dk why this term allow some students send email and ask for deadline extension for V2 saying they do not have enough time to complete... (deadline already set at 1/12 in sept) and there seems to be NO mark deduction???<br />(tbh unfair to those who chur their time n completed it before 1/12)<br /><br />getting advanced/competent in all domains for the course already guarantee B+",
+      "comment_workload": "SDLs + library quiz are only ma farn stuff so finish them asap before workload comes (easy 20%)<br /><br />W2 &amp; V2 need to use a lot of time to do!!! (can refer to others&#039; comments cause that&#039;s what i think too)",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 2,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "4PBUCIyG7QIsXjLxVSbS6G2dyZT6cVzq",
+          "name": "Assessment Descriptors for Multimodal Video 2 (V2)- Students",
+          "format": "pdf"
+        },
+        {
+          "key": "4UCehk9JpIkv0YJhhoLjMY0Flrt2ngne",
+          "name": "Assessment Descriptors for Academic Writing 2 (W2) - Students",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "4XBBFbPpXK4uCiFzLV0HjYecDt67nhvj",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1707,
+          "name": "MAK, Linda Y O",
+          "rating": 1
+        }
+      ],
+      "author": "nuclear-c0w",
+      "date": "Dec 31, 2023",
+      "title": "Trash Department, Trash Course, Trash Everything",
+      "comment_content": "Well, it IS a CLE course, so the content is naturally all trash. They&#039;ll briefly cover stuff like how to research, critique articles, support your arguments, how to make an engaging video,... ESPECIALLY THE VIDEO PART, HOW DO YOU EXPECT US TO BECOME PROFESSIONAL VIDEO PRODUCERS IN THREE MONTHS!? THEY RECOMMEND SHIT LIKE POWERPOINT AND ZOOM. ZOOM?! SERIOUSLY? <br /><br />Ahm, pardon my language. The most appalling issue is that they state that “professional” quality is not demanded, but how the hell do you make a good video without being professional? If you&#039;ve watched a lot of (infographic) educational content, like Veritasium, 3B1B, Wendover Productions,... on YouTube you know what a good video looks like. Do you think you can do that without having any background in video editing? Well I certainly couldn&#039;t, so I only made a shitty PowerPoint-esque video with Canva.<br /><br />Basically, in this course you&#039;ll have 4 assignments. Only the latter 2 are graded.<br />W1: Blog critique on one source (400±50 words)<br />V1: Group video of 1-2 mins<br />W2: Blog critique on 2 sources (800±50 words)<br />V2: Individual multimodal video of 4-6 mins<br /><br />You&#039;ll group up in the beginning and no groups can have the same topic, so it&#039;s first come first served.<br />They also added a 300-500 word reflection for both W2 and V2 to replace the GenAI declaration form. Sure! Let&#039;s add more workload to a course that&#039;s already shitty enough, why the fuck not?",
+      "comment_teaching": "Linda is a nice teacher. Nothing to comment on the teaching since the course is inherently trash.<br /><br />You can technically skip all the lessons since attendance is not included in your grade, but you risk leaving a bad impression on the instructor.",
+      "comment_grading": "35%: W2<br />3% : W2 Reflection<br />40% : V2<br />2% : V2 Reflection<br />20% : Online SDL activities, 2 elective modules, and library quiz<br /><br />I forgot what Linda said exactly but each letter grade will have a sample assignment as reference, and they&#039;ll grade according to it. They&#039;ll also apply a modifier to curve the grades of individual instructors, e.g. instructor Timmy&#039;s classes are full of Exceptional//Exceptional/Advanced, then probably students in Timmy&#039;s classes will suffer since they THOUGHT they had achieved an excellent grade, but since everybody got a high grade the curve became shit. <br /><br />W2: 1x Adv/Com, 2x Adv<br />V2: 1x Adv/Com, 3x Adv<br />SDL: 15/18 (I apparently missed one D:)<br />B+<br />indeed a trash course<br /><br />You could say my mistake of not checking SDLs and losing 3.3% of course grade might&#039;ve cost me an A-range, but what&#039;s done is done I guess.",
+      "comment_workload": "ChatGPT is your friend. Use it whenever possible.<br /><br />Remember to do SDLs EVERY WEEK before deadline or you&#039;ll lose free marks.<br />Do the elective modules early. Don&#039;t wait till November or it&#039;ll eat up your time. <br />I did most of W2 with ChatGPT and made some adjustments after.<br />V2 will take a lot of time so REMEMBER TO START EARLY. The last few classes were used for presentation where we play our videos (complete or not) and receive feedback. I didn&#039;t go as I hadn&#039;t even started making it.<br />Just do the reflections with ChatGPT. They&#039;ll give you the 5% if you handed in stuff.<br /><br />Overall, this course is colossal waste of time. I could&#039;ve spend more time on physics and other stuff but no no no, LANG assignments are waiting for you :D",
+      "rating_content": 1,
+      "rating_teaching": 4,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "haRIXWjgg8zD9PyMgbtsw9jOwBHmsz3d",
+      "semester": "2023-24 Fall",
+      "instructors": [],
+      "author": "I_hate_UST",
+      "date": "Dec 19, 2023",
+      "title": "",
+      "comment_content": "The teaching materials are garbage and will not help you in your writing and video. Your writing skills, including structures and vocabs, are the key, try to pick them up during this term.",
+      "comment_teaching": "As I think my professor is attentive and does the best he/she could, I would not criticize on this part.<br />But for your grade, promise me, choose a better professor.",
+      "comment_grading": "If you get 5 in DSE by luck through oral or reading exams, then say goodbye to your grade. Cuz this course merely tests your writing skills and you have to compete with Hemingway in this course. (forgive my shallow knowledge in literature field)<br />I guess getting an average of competent/advanced would be a C, as I remember our lecturer expecting everyone to at least aim for advanced. Your grading will likely be &quot;competent/advanced&quot; if you get 4 in writing, in other words, be ready to get C if you have to study this course in Fall term and compete with writing masters.<br />Oh btw, if you have no experience in making videos, then also C haha, many pro video producers there in Fall term. Try to learn it before your V2 task!",
+      "comment_workload": "Time-consuming W2 and even more time-consuming V2.<br />Do not hesitate to skip W1 and V1 because they are not graded. Oh you wanna &quot;improve your language skills&quot; and &quot;test the grading&quot;? Ha, what a joke. Seriously, no constructive feedback will be given for your futile hard work.<br />Also, you will have to face many annoying SDLs(self-learning lesson, usually will ask you to write something), pre-lesson tasks, electives(self-learning tasks you have to finish before December), as well as in-class discussions, which is a nightmare for introverts like me. In-class interaction does not count for your grade, so don&#039;t be silly and help your groupmates to answer every question. SDLs, electives and pre-lesson tasks are task completion only, no need to be so serious. My advice is to finish electives earlier before you getting busy.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 2,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "0PjJWYxQLTwmi1WQNyZfcVDKFwQj9u49",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 330,
+          "name": "FUNG, John",
+          "rating": 1
+        }
+      ],
+      "author": "don't give up",
+      "date": "Dec 14, 2023",
+      "title": "ChatGPT Learning Experience (CLE)",
+      "comment_content": "&quot;How to write academic articles and produce academic videos&quot;<br />The lessons are blowing water, most of the time just learning how to fulfill the assignments’ requirements, so can&#039;t learn anything useful at all<br /><br />Ungraded: 300-400w writing W1 and 1-2 mins group video V1<br />Graded: 750-850w writing W2 and 4-6 mins individual video V2<br />Don’t hesitate to use ChatGPT<br /><br />Also a bunch of SDL tasks wasting your time every week",
+      "comment_teaching": "A friendly guy, willing to answer any question related to the course<br />Explains stuff clearly, the content is still boring tho<br />Takes attendance but doesn’t care",
+      "comment_grading": "W2 35%+3% reflection by completion<br />V2 40%+2% reflection by completion<br />SDL 20% by completion<br /><br />Me:<br />W2: Advanced, Exceptional/Advanced, Exceptional/Advanced&nbsp;&nbsp;= 13/15<br />V2: Advanced/Competent, Advanced, Exceptional/Advanced, Exceptional/Advanced = 16.5/20<br />SDL: 18/18<br /><br />Grade: A<br />Not bad, not bad (in uncle roger voice)<br /><br />bonus: unlike other lecturers, John doesn&#039;t care if you finish your SDLs late",
+      "comment_workload": "Light workload, especially when compared to 1404 which has presentation<br />SDLs are annoying but easy to do with ChatGPT<br />W2 and V2 are the only things you need to care about in the whole semester<br />For a deadline fighter like me, it’s quite painful to edit V2",
+      "rating_content": 2,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

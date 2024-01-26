@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 1469,
+    "subject": "TEMG",
+    "code": "4950S",
+    "name": "Special Project: Smart Homes for Global Markets",
+    "description": "This is a corporate-sponsored project by Harman Lifestyle Home and Multi-Media Strategic Business Unit, a division of US-based Harman International Industries Incorporated which is headquartered in Stamford, Connecticut, USA. Students will work in multi-disciplined teams to conduct market research, develop product ideation and design communication packages for future product concepts for connected smart homes. Each team will be assigned a different space in the home, target market segment, geography and a mentor from the sponsor. This project does not require knowledge of electronic engineering nor programming, but passion for innovation and learning. Students who successfully complete the course may be offered internship or full-time position with corporate sponsor. Enrollment in the project course requires approval of the course instructor.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      1530
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 2,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 679,
+        "name": "LIN, Betty Fwei-chien",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "7DNKJcOt3wHtiB9v2ZBCbpwoFj4CDF28",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 679,
+          "name": "LIN, Betty Fwei-chien",
+          "rating": 1
+        }
+      ],
+      "author": "sgargaa",
+      "date": "Aug 03, 2016",
+      "title": "Too much work with not-so good grading",
+      "comment_content": "This course is meant to teach us about smart homes and how we can better the different rooms in the home. Top 3 students were supposed to get internship opportunities with Harman International, and they broke the contract and did not give an internship opportunity to anyone in the class.",
+      "comment_teaching": "Decent teacher, but used to change what she says a lot. She would give a particular type of instruction on one day in class and would say something else the next day, mostly based on her instincts.",
+      "comment_grading": "Lowest grade was C+. Since the class had only 20 students, and only top 5 percentile students get A+, only 1 student received an A+. Grading was based on presentations and professor&#039;s judgment.",
+      "comment_workload": "Very heavy workload with a lot of presentations and a lot of group meetings throughout the semester. There was a one-day filed trip to Shenzhen, China. The groups are assigned by the professor based on MBTI results and CV. There were weekly Canvas postings for 6 weeks (week 3-8). Compulsory attendance.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

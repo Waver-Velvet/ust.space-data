@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 3896,
+    "subject": "CORE",
+    "code": "1120",
+    "name": "Chemistry in Everyday Life",
+    "description": "This common core course takes students on a chemical journey, through which they will learn what is chemistry and how chemistry connects with every part of our daily life. Students will engage in an experiential learning study project and a mini-research task; they will also learn chemical concepts through many real-life case studies. The basic ideas and principles of chemistry, as well as many chemical topics of everyday relevance will be discussed in this course: such as air, water, metals, minerals, air pollution, global warming, ozone depletion, batteries, fire and fuels, food and drinks, household chemical products and plastics. Students taking this course are not required to have studied Chemistry before.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230
+    ],
+    "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1401\" href=\"/review/CORE1401\" target=\"_blank\">CORE 1401</a> OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1402\" href=\"/review/CORE1402\" target=\"_blank\">CORE 1402</a> OR CORE 1403 OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1404\" href=\"/review/CORE1404\" target=\"_blank\">CORE 1404</a> OR LANG 1002 (prior to 2022-23)",
+    "corequisites": "",
+    "exclusions": "Level 3 or above in HKDSE Chemistry, a passing grade in GCE-A/AS Level Chemistry, <a class=\"course-link\" data-subject=\"CHEM\" data-code=\"1008\" href=\"/review/CHEM1008\" target=\"_blank\">CHEM 1008</a>, <a class=\"course-link\" data-subject=\"CHEM\" data-code=\"1010\" href=\"/review/CHEM1010\" target=\"_blank\">CHEM 1010</a>, <a class=\"course-link\" data-subject=\"CHEM\" data-code=\"1020\" href=\"/review/CHEM1020\" target=\"_blank\">CHEM 1020</a>, <a class=\"course-link\" data-subject=\"CHEM\" data-code=\"1030\" href=\"/review/CHEM1030\" target=\"_blank\">CHEM 1030</a>, any CHEM courses at or above 2000-level",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 40,
+        "name": "TSANG, Ming Wai Emily",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "vkfRXI54X0IQX6MRxVGYMuvhlHpzZOoh",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 40,
+          "name": "TSANG, Ming Wai Emily",
+          "rating": 1
+        }
+      ],
+      "author": "clyak",
+      "date": "Jun 09, 2023",
+      "title": "",
+      "comment_content": "Chapter 1: What is everything made of?<br />Chapter 2: The Air.<br />Chapter 3: The air and our environment.<br />Chapter 4: The metals in our daily life.<br />Chapter 5: Metals in the industry.<br /><br />(In the course outline but not taught)<br />Chapter 6: Fire and fuels.",
+      "comment_teaching": "Emily is patient and engaging as she tries to explain concepts with experiments conducted in the classroom. If you ask her questions, she will try her best to answer you and provide you with guidance.",
+      "comment_grading": "15% from the Online Quizzes<br />30% from the Study Project<br />55% from the Final Examination<br /><br />My Statistics:<br />Quiz 1 33/45 (mean 34/45)<br />Quiz 2 28/35 (mean 28.6/35)<br />Study Project 25/30 (mean 24.3/30)<br />Final 70/100 (mean 57.3/100)<br /><br />My Grade: B<br /><br />You can get sources for the quizzes and score full marks easily as you only have to do them online before the deadline with a time limit or 2 hours. (I didn’t get the source tho :( ) The class consists of around 32-35 students.<br /><br />Closed books and notes for the final. No cheat sheet allowed but a formula sheet about the reactivity of metals is given.",
+      "comment_workload": "Low or =0 if you’ve taken chemistry before as you can skip some chapters basically. The only workload is the study project where I spent nearly 2-3 days to finish it.<br />A bit high if you never took chemistry before as you have to understand a lot of concepts.<br /><br />I took chemistry in secondary school for 3.5 years and dropped it before DSE so I knew some fundamental knowledge about chemistry already. The course highly overlaps with the DSE syllabus so if you’ve taken chem before you’re advantaged and you can get A easily if you’ve studied.<br /><br />I used to fail chem and I didn’t revise much for the final exam (just a quick scroll of the lecture notes, didn’t have time to go through slides or finish all exercises) as I got 2 business exams the day before so it was surprising that I didn’t fail the exam and even got a B. Prof. Emily is so nice :D",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

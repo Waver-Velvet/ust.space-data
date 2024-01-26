@@ -1,0 +1,223 @@
+{
+  "course": {
+    "id": 2832,
+    "subject": "IEDA",
+    "code": "3250",
+    "name": "Stochastic Models",
+    "description": "Poisson process, Markov process, and Markov decision processes; inventory theory, reliability, queuing theory. Application softwares.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1930,
+      1830
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"IEDA\" data-code=\"2520\" href=\"/review/IEDA2520\" target=\"_blank\">IEDA 2520</a> AND <a class=\"course-link\" data-subject=\"IEDA\" data-code=\"2540\" href=\"/review/IEDA2540\" target=\"_blank\">IEDA 2540</a>) OR (<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2411\" href=\"/review/MATH2411\" target=\"_blank\">MATH 2411</a> AND <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2421\" href=\"/review/MATH2421\" target=\"_blank\">MATH 2421</a>)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.4,
+    "rating_teaching": 4.2,
+    "rating_grading": 4.6,
+    "rating_workload": 5,
+    "review_count": 5,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 361,
+        "name": "ZHANG, Rachel Quan",
+        "count": 3
+      },
+      {
+        "id": 1597,
+        "name": "ZHANG, Rachel Q.",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "4IkEwWwCkJiWtZlNdDXT6f0qEhyRryD5",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1597,
+          "name": "ZHANG, Rachel Q.",
+          "rating": 1
+        }
+      ],
+      "author": "Raingod",
+      "date": "Jan 05, 2024",
+      "title": "This semester quizzes were very hard!! But still good grade.",
+      "comment_content": "MATH3250 (Contents are just maths.)<br /><br />The content is not hard for you if you have good understanding of&nbsp;&nbsp;IEDA2520 (as prerequisite).<br /><br />four big topics:<br />1.) Probability (mainly covered in IEDA2520)<br />2.) DTMC<br />3.) CTMC<br />4.) Queuing Theory",
+      "comment_teaching": "Fair teaching. No PPT but A4 notes instead.<br /><br />Actually I can’t understand what she taught on her lessons.<br />I almost skipped all lessons. Those course content can be found on Youtube.",
+      "comment_grading": "4 Quizzes only (each quiz 25%)<br />Each quiz covers 1 big topic, 1 cheatsheet allowed.<br /><br />My results: <br />(LQ/ Median/ UQ/ Mean)<br /><br />Quiz 1: 77/100 (52 /66 /76.25 /63.8)<br />Quiz 2: 45/100 (29 /44 /63 /45.91)<br />Quiz 3: 62/100 (39.5 /67.5 /77.25 /59.43)<br />Quiz 4: 48/100 (44.5 /61 /74 /58.93)<br /><br />Quizzes are very hard, many questions even didn’t exist in the whole course material.<br /><br />However, the markings are very lenient. As long as you try to attempt, you still get marks. I still got marks even my answers are different from the marking scheme.<br /><br />Final grade: B",
+      "comment_workload": "4 Quizzes only, no homework. Very light workload!!<br /><br />However, if you want to get good grade, it is recommended to read the examples in the notes, do all tutorial and practice questions, although those will not appear in the quizzes. Make sure you have strong understanding of the concepts.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "rjkZdpNHT1OXY6ezBjyoPJdwJisI5z0E",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 361,
+          "name": "ZHANG, Rachel Quan",
+          "rating": 1
+        }
+      ],
+      "author": "Mason Mount",
+      "date": "Dec 16, 2021",
+      "title": "Review by a normal student",
+      "comment_content": "The content is not very crazy. The concept is not very difficult. The examples in the notes are easy and suitable for understanding the concepts. However, the quizs are much harder.<br /><br />Quiz 1: Probability (IEDA2520)<br />Quiz 2: Discrete Time Markov Chain<br />Quiz 3: Poisson Process + Continuous Time Markov Chain<br />Quiz 4: Queuing Theory",
+      "comment_teaching": "The concepts were delivered well. Prof solved the examples step by step.<br /><br />But she always faced technical problems during the lessons. Therefore, the class were always interrupted.",
+      "comment_grading": "I know a lot of students (local) are below mean. But there are really smart students (non-local) scored very high.<br /><br />Quiz 1: min: 40 mean: 69 max: 97<br />Quiz 2: min: 20 mean: 62 max: 100<br />Quiz 3: min: 22 mean: 58 max: 100<br />Quiz 4: min: 24 mean: 62 max: 89",
+      "comment_workload": "No workload.<br /><br />Some practices are provided with solutions. (But the questions are easier than the quizs",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "unEffwxuQHTGCTmUIQmYBSKitb9afBUB",
+      "semester": "2020-21 Fall",
+      "instructors": [],
+      "author": "20000",
+      "date": "Jan 15, 2021",
+      "title": "",
+      "comment_content": "Topics to be discussed include four parts: probability review (Quiz 1), Markov chains (Quiz 2), Poisson processes and continuous time Markov chains (Quiz 3), and queuing theory (Quiz 4).<br /><br />The content is very abstract and I also don&#039;t quite understand when reading the lecture notes. But the applications and questions demonstrated on the notes or exercises are not hard to understand.",
+      "comment_teaching": "I didn&#039;t attend any classes",
+      "comment_grading": "Quiz 1: 100/100, Mean: 87.9<br /><br />Quiz 2: 94/100, Mean: 64.7<br /><br />Quiz 3: 97/100, Mean: 70.9<br /><br />Quiz 4: 90/100, Mean: 82.6<br /><br />Final grade: A+",
+      "comment_workload": "The workload is just those 4 quizzes. As a deadline fighter, it is not hard to handle. For me, I didn&#039;t attend any classes and I don&#039;t use those time to self-study. I just started reading the notes at the night before the quiz for every quiz. Every quiz takes me several hours to study.<br /><br />The key to getting a good grade is to understand the homework and tutorial exercises. Even if you don&#039;t have enough time, at least you need to read those questions and understand them. You don&#039;t need to fully completely understand the abstract mathematical concepts. You only need to know how to do the questions.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "13WgEnbMZaX9WjvstbChKqE2G23hNJMJ",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 361,
+          "name": "ZHANG, Rachel Quan",
+          "rating": 1
+        }
+      ],
+      "author": "pangjai",
+      "date": "Dec 27, 2020",
+      "title": "Stochastic Models",
+      "comment_content": "Chapter 1: Introduction to Probability Theory<br />Chapter 2: Random Variables<br />Chapter 3: Conditional Expectations<br />(Chapter 1-3 are reviews of IEDA 2520)<br /> <br />Chapter 4: Discrete-Time Markov Chain<br />Chapter 5: The Exponential Distribution and the Poisson Process<br />Chapter 6: Continuous-Time Markov Chain<br />Chapter 7: Queueing Theory",
+      "comment_teaching": "Professor Zhang explained the notes clearly, however she speaks a bit slow, you can watch her lectures at x1.5 speed",
+      "comment_grading": "4 quizzes with equal weightings (25% each)<br /><br />Quiz 1 (Coverage: Chapter 1 - 3)<br />94/100<br />Mean: 87.9<br /><br />Quiz 2 (Coverage: Chapter 4)<br />93/100<br />Mean: 64.7<br /><br />Quiz 3 (Coverage: Chapter 5 - 6 )<br />92/100<br />Mean: 70.9<br /><br />Quiz 4 (Coverage: Chapter 7)<br />94/100<br />Mean: 82.6<br /><br />Overall grade: A",
+      "comment_workload": "If you want to get a good grade, then you should do all the homework and tutorial exercises, however, they are not compulsory.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "p6Vh28t0nDMSgxjGTWkaYNNsE2PdPDIb",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 361,
+          "name": "ZHANG, Rachel Quan",
+          "rating": 1
+        }
+      ],
+      "author": "calcguy",
+      "date": "Mar 15, 2020",
+      "title": "Lecture Notes Are Too Advanced",
+      "comment_content": "Chapter 1: Introduction to Probability Theory<br />Chapter 2: Random Variables<br />Chapter 3: Conditional Expectations<br />Chapter 4: Discrete Time Markov Chain<br />Chapter 5: The Exponential Distribution and the Poisson Process<br />Chapter 6: Continuous Time Markov Chain<br />Chapter 7: Queueing Theory<br />-----------------------------------------------------<br />The lecture notes are too complicated in my opinion. The hardest chapter in this course is probably CTMC, and the last chapter can be treated as the pinnacle of this course, as all the contents in earlier chapters will be applied here.",
+      "comment_teaching": "Note that all classes are conducted online using Zoom. <br />The quality of lecture is quite good, but there are some bad things about lectures. For example, the professor almost never looked at the camera. <br />Regarding the method of teaching, she explained things in the lecture notes in quite interesting way. I personally think there will not be too much trouble if you skip the lectures, as it is online; there are cloud recordings available after each lecture. <br />Assuming lecture videos are not available, I think you can still handle this course pretty well, but more efforts are needed if you choose to do so. You may need to refer to external resources from the internet for self-study.<br />For tutorials, I think you don&#039;t really have to attend it, as all the materials will be uploaded to Canvas. The TA’s accent bothers me anyway.",
+      "comment_grading": "4 quizzes throughout the term, held in weeks 4, 7, 11 and 13. No final exam in this course.<br />The quizzes are non-cumulative, but the knowledge from previous chapters serve as building blocks for the next chapters. Quizzes are normally graded in 1 week.<br />-----------------------------------------------------<br />Quiz 1: Chapter 1, 2, 3 (Probability Review)<br />Statistics:<br />Mean = 71.4/100<br />SD = 16.9/100<br />My score = 93/100<br />-----------------------------------------------------<br />Quiz 2: Chapter 4 (DTMC)<br />Statistics:<br />Mean = 73/100<br />SD = 21/100<br />My score = 87/90 ~ 97/100<br />-----------------------------------------------------<br />Quiz 3: Chapter 5, 6 (Poisson Process and CTMC)<br />Statistics:<br />Mean = 68.19/100<br />SD = 17.82/100<br />Median = 72.5/100<br />My score = 95/100<br />-----------------------------------------------------<br />Quiz 4: Chapter 7 (Queueing Theory)<br />Statistics:<br />Mean = 79.9/100<br />SD = 16.7/100<br />Median = 82.5/100<br />My score = 87/100<br />-----------------------------------------------------<br />Overall mean = 73.1225/100<br />Overall SD = 18.18689/100<br />My total = 93/100<br />My grade: A+",
+      "comment_workload": "There is no homework, midterm and final exam in this course. There are only quizzes in this course, so the workload is not high.<br />If you wish to score high in the quizzes, you need to DO THE (ungraded) HOMEWORK. Sometimes a part of quiz problems resemble the ones from homework, so please don&#039;t bottle it. Reviewing tutorials are also necessary. Remember, practice makes perfect.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 7,
+      "vote_count": 8,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "K2WUys4XTNDQdhAssPFFhH70MXSowmFa",
+          "name": "IEDA3250_Quiz1",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

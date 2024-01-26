@@ -1,0 +1,258 @@
+{
+  "course": {
+    "id": 1040,
+    "subject": "PHYS",
+    "code": "3152",
+    "name": "Methods of Experimental Physics I",
+    "description": "This course will cover the techniques of experimental physics in the area of electronics. Students will complete experiments involving ac circuits and input/output impedance, diodes and transistors, operational amplifiers, frequency analysis and digital electronics.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2310,
+      2230,
+      2210,
+      2130,
+      2110,
+      2030,
+      2010,
+      1940,
+      1930,
+      1910,
+      1830,
+      1810,
+      1730,
+      1710,
+      1630,
+      1610,
+      1530,
+      1510,
+      1430,
+      1410
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1114\" href=\"/review/PHYS1114\" target=\"_blank\">PHYS 1114</a> OR <a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1314\" href=\"/review/PHYS1314\" target=\"_blank\">PHYS 1314</a>) AND <a class=\"course-link\" data-subject=\"PHYS\" data-code=\"2023\" href=\"/review/PHYS2023\" target=\"_blank\">PHYS 2023</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.6,
+    "rating_teaching": 4,
+    "rating_grading": 3.4,
+    "rating_workload": 2.4,
+    "review_count": 5,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1484,
+        "name": "XU, Qin",
+        "count": 2
+      },
+      {
+        "id": 614,
+        "name": "TONG, Penger",
+        "count": 1
+      },
+      {
+        "id": 619,
+        "name": "LORTZ, Rolf Walter",
+        "count": 1
+      },
+      {
+        "id": 620,
+        "name": "WEN, Weijia",
+        "count": 1
+      },
+      {
+        "id": 621,
+        "name": "HAN, Yilong",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "Nz79z4anJa5YEwFpya9SfkrioFRX40yO",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 621,
+          "name": "HAN, Yilong",
+          "rating": 1
+        }
+      ],
+      "author": "Lucien▪Evans",
+      "date": "Jun 05, 2023",
+      "title": "Each component is strictly graded, but the final grade is fair",
+      "comment_content": "The experiments are not difficult as long as you understand how to use breadboard.<br /><br />Six experiments in total:<br />Thevenin circuits &amp; AC circuits<br />Diodes and transistors<br />Transistors 2 and operational amplifiers1<br />OPA2<br />Frequency analysis of electronic signals<br />Digital devices",
+      "comment_teaching": "Just like other experimental courses. Prof will teach the theory in the following experiments and TA will tell you some details.",
+      "comment_grading": "6 notebook+2 report+ 6 performance +lecture attendance<br /><br />The grading schemes in each components are very strict. Unlike previous few terms, you have to perform perfectly in order to get a satisfactory grade. Few students could achieve full score in lab performance and notebook.<br /><br />My score: nearly 9/10 in every part.<br /><br />My overall score is roughly 90-92, which translates to an A. I suppose the mean score is around 80, so it is not easy to achieve a good grade.",
+      "comment_workload": "You have to spend plenty of time on writing notebooks and reports although they are not difficult at all.<br /><br />For me, i spend 6-8 hours for each notebook and report to get a score around UQ.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "kk5Em3T7KmmObAjLcFHrF9ZlqZPj1Rko",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1484,
+          "name": "XU, Qin",
+          "rating": 1
+        }
+      ],
+      "author": "_NattU_",
+      "date": "Jan 05, 2023",
+      "title": "Unfair grading and insane workload",
+      "comment_content": "Six labs in total:<br /><br />E1. Thevenin Circuits and AC Circuits<br />E2. Diodes and Transistors I<br />E3. Transistors II and Operational Amplifier I<br />E4. Operational Amplifier II and Positive Feedback<br />E5. Frequency Analysis of Electronic Signals<br />E6. Digital Devices<br /><br />Personally, I find the contents far from interesting. But they still cover a lot of slightly more advanced topics related to electric circuits. I did feel that this was more of an ELEC course than a PHYS one.",
+      "comment_teaching": "7 lectures in total. They provide some basic coverage for each lab. But they are not comprehensive. You need to google a lot to be able to answer questions from the lab manual. Most just go there for attendance. Prof. is friendly and you can ask him questions after class or via email. He replies fairly quickly.",
+      "comment_grading": "Grading scheme:<br /><br />Lab Performance (30%), Lab Notebook (42%), Lab Reports (24%), Lecture Attendance (4%)<br /><br />Lab Performance scores are like a coin toss. They&#039;re scored out of 10 but TA/IA could deduct 1 mark for random things. Just hope that you&#039;re not screwing up your experiment when they pass by to check up on you. The mean score is usually around 9 but it isn&#039;t uncommon for some unlucky students to score 6 or 7 only at times.<br /><br />For Lab Notebooks/Reports, the TAs are usually looking for any mistakes to deduct marks. You can do a hundred things correctly but you&#039;ll lose 5 marks (out of 100) for the most trivial mistake. <br /><br />Lastly, the grading...<br /><br />You need a freaking 93% to even get an A-!!!!! Bruh wth??!! Never seen an advanced course where you can get 90+ and only get a B range This ain&#039;t a Common Core course goddammit!! The amount of work you need to do in this course is outta this world but the least they could do was provide a more generous grading. I thought UST was supposed to provide grades based on ILOs but they literally just curve this shit. They seriously increased the grade threshold by 6% from last year cuz the mean was higher (that&#039;s called curving!!!)",
+      "comment_workload": "You need to complete a HAND-WRITTEN lab notebook for every experiment (so 6 in total). This includes answering lab manual questions, showing calculations, and printing/pasting figures (Sustainability?). <br /><br />You also need to hand in a report for E3 and E5.<br /><br />Besides, you&#039;re also spending 4 hours inside the lab each week.<br /><br />Horrible workload honestly. Definitely not worth 3 credits. On top of this, the grading isn&#039;t all that great. If this was not a major requirement, I would&#039;ve avoided it at all costs.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 2,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "r8MLWxD6EbaE3C1c6ACuzYJ9xj6fJpB0",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1484,
+          "name": "XU, Qin",
+          "rating": 1
+        }
+      ],
+      "author": "ah yin",
+      "date": "Jan 20, 2021",
+      "title": "Phys3152",
+      "comment_content": "There are 6 experiments in total and it usually takes 2-3 week to finish 1 topic. There is also one lecture before the start of each experiment<br />E1. Thevenin circuits and AC circuits<br />E2. Diodes and Transistors 1<br />E3. Transistor 2 and Operational Amplifiers 1<br />E4. Operational Amplifier 2 and positive feedback<br />E5. Frequency Analysis of Electronic Signals<br />E6. Digital Devices<br /><br />Lectures (1 hr each):<br />General introduction and Guide to notebook writing and Lab report writing<br />Thevenin circuits and AC circuits<br />Electronics properties of Diodes and Transistor 1<br />Transistor 2 and Operational amplifiers 1<br />Operational amplifiers 2 and positive feedback<br />Fast Fourier Transform (FFT) and power spectrum of electronic signals<br />Integrated circuits: digital logic and devices<br /><br />Some topic is hard and you have to pay extra time to do research and study.",
+      "comment_teaching": "The TAs is really helpful and nice, you can ask them whenever you encounter difficulties and they give nice feedback.<br />The lecture is fairly good, but the content is not cover all the details in the experiment, there is extra idea you have to do research but his teaching is understandable.",
+      "comment_grading": "The grading is good , I score 85-100 for 6 of the lab note book and lab reports, however the lab attendance is not satisfaction. The lab attendance is based on the discussion , question, answer you raise during the online lab section, there is rarely a chance to speak up as everything is done by TA.",
+      "comment_workload": "Since the course is change to online teaching , all the experiment is carry out by T.A. ( there is exception that you can ask to do face-to-face experiment). What we have to do is just jot down the&nbsp;&nbsp;experiment result and data and hand in the lab notebook one week after the end of the whole experiment. There is also two lab report you have to write",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "u8bt6ZHKB3TeGysFO6qbisVNOwGawjit",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 619,
+          "name": "LORTZ, Rolf Walter",
+          "rating": 1
+        },
+        {
+          "id": 620,
+          "name": "WEN, Weijia",
+          "rating": 1
+        }
+      ],
+      "author": "weißbrot",
+      "date": "Jun 26, 2019",
+      "title": "",
+      "comment_content": "The course covers a variety of electronics topics and circuits, starting with relatively basic ones and gradually increasing in complexity. <br />It covers various AC circuits and input/output impedance, diodes and transistors, op-amps, and frequency analysis as well as one lab you plan in a group on any electronics topic you like.<br />The content is relevant, as it allows you to understand the key components of modern electronics.<br />It may be advisable to read up on some of the basics of circuits and electronics initially, since the course requires at least a basic understanding of circuits containing a combination of resistors, capacitors and diodes etc.",
+      "comment_teaching": "The TAs are extremely helpful during the labs and you are always encouraged to ask if you are stuck with anything.<br />The lectures are nice, but unfortunately did not cover a lot of content relevant to the labs and did not prepare us well for the actual experiments and the questions in the lab manual, so you will need to do some googling yourself.",
+      "comment_grading": "Grading is fair, the labs are all doable and as long as you attend and finish on time you should get 10/10.<br />There are 6 labs, 3 of which only require you to hand in your lab notebook with notes, data, graphs and answers to questions in the lab manual, some of which can be tricky. For two labs you need to also hand in a lab report. Here it is advisable to follow the requirements exactly. It is graded out of 100 points and as long as you stick to the requirements and don&#039;t leave out anything major you can get 90.<br />Lastly, there is lab 6 for which you will form a group of 3 and design your own lab. You hand in a proposal, lab notebook and report. There is also peer-evaluation, accounting for a small percentage.<br />Overall it is not especially difficult and getting above 90% should give A-range.",
+      "comment_workload": "There are 6 labs, each covering 4 sessions and usually it is possible to finish within 3.<br />The lab notebooks and reports take a lot of time, although you do not need to plot as many excel graphs as in 3153. It is best to start early and spread the workload out, as otherwise you may need to pull a few all-nighters.<br />Designing your own lab in a group of 3 can be time-intensive, but there is some support with finding a topic and in the end you have a lot of freedom to do what you find interesting and you are not graded on the success of the lab or even whether you finished all you had planned, but instead on how well you worked as a team and planned it, so it is actually quite fair.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "fHl9ES0QyO3mNIUHKWsp1naognfOsRlI",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 614,
+          "name": "TONG, Penger",
+          "rating": 1
+        }
+      ],
+      "author": "JackM",
+      "date": "Nov 03, 2016",
+      "title": "Interesting. Will teach you a lot. HUGE workload. Can be extremely frustrating at times. Will help a lot if you have a friend also taking the course.",
+      "comment_content": "If you like electronics, which I do, then you will learn a lot. This course covers impedance, diodes, transistors, operational amplifiers, frequency analysis, and digital devices. <br /><br />If you don&#039;t like electronics, don&#039;t take this course. Seriously, it will make you want to kill yourself.<br /><br />My only complaint is it was all done on breadboard, no soldering.",
+      "comment_teaching": "Lectures aren&#039;t great, but the lecturer is friendly which is a plus. My TA was helpful. Lecture notes, particularly for the operational amplifiers part of the course, are woefully inadequate. Often it is very difficult to find the information required to explain your observations online, which can be incredibly frustrating when it comes to the write up",
+      "comment_grading": "If you do all the work, and do the experiment properly, it is easy to get a good grade. The only reason I haven&#039;t given this an &quot;A&quot; for grading is because the workload required for one is enormous<br />The grades aren&#039;t normalized (or so I&#039;ve been told).",
+      "comment_workload": "2 hours of lab, twice a week. One 1 hour lecture every two weeks. Lab report and write up every two weeks. The lab report takes me about 6-8 hours, depending on how well I understand the material. The write up is probably 4 hours if you know the material well, however sometimes you will get stuck trying to explain your observations, and the answers are often difficult to find online which often means this takes twice as long. This will be easier if you have friends on the course, but I&#039;m an exchange student, so I don&#039;t know anyone very well. <br /><br />In short, I cannot stress enough just how much work this is. The lab reports are due in for weeks 4, 6, 8 and 10, so they have an annoying way of clashing with midterms too.<br /><br />If you want a smaller work load, take 3153 instead. The workload is about half as much.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,1317 @@
+{
+  "course": {
+    "id": 317,
+    "subject": "ELEC",
+    "code": "2600",
+    "name": "Probability and Random Processes in Engineering",
+    "description": "An introduction to statistical inference and random processes in electrical engineering, including the necessary probabilistic background. Random variables, distribution and density functions, characteristic functions, conditional statistics, expectation, moments, stochastic processes.",
+    "categories": [],
+    "website": "http://course.ee.ust.hk/elec2600",
+    "credits": 4,
+    "semesters": [
+      2330,
+      2310,
+      2230,
+      2210,
+      2130,
+      2110,
+      2030,
+      2010,
+      1930,
+      1910,
+      1830,
+      1810,
+      1730,
+      1710,
+      1630,
+      1610,
+      1530,
+      1510,
+      1430,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"1003\" href=\"/review/MATH1003\" target=\"_blank\">MATH 1003</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1014\" href=\"/review/MATH1014\" target=\"_blank\">MATH 1014</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1024\" href=\"/review/MATH1024\" target=\"_blank\">MATH 1024</a>",
+    "corequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2011\" href=\"/review/MATH2011\" target=\"_blank\">MATH 2011</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2023\" href=\"/review/MATH2023\" target=\"_blank\">MATH 2023</a>",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2600H\" href=\"/review/ELEC2600H\" target=\"_blank\">ELEC 2600H</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2421\" href=\"/review/MATH2421\" target=\"_blank\">MATH 2421</a>",
+    "rating_content": 4.42,
+    "rating_teaching": 4.52,
+    "rating_grading": 4.61,
+    "rating_workload": 3.94,
+    "review_count": 31,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 176,
+        "name": "SONG, Shenghui",
+        "count": 10
+      },
+      {
+        "id": 177,
+        "name": "ZHANG, Xuning",
+        "count": 10
+      },
+      {
+        "id": 1530,
+        "name": "YU, Xianghao",
+        "count": 5
+      },
+      {
+        "id": 206,
+        "name": "ZHANG, Jun",
+        "count": 4
+      },
+      {
+        "id": 1496,
+        "name": "QUADEER, Ahmed Abdul",
+        "count": 4
+      },
+      {
+        "id": 178,
+        "name": "SHI, Bertram Emil",
+        "count": 3
+      },
+      {
+        "id": 755,
+        "name": "MCKAY, Matthew Robert",
+        "count": 2
+      },
+      {
+        "id": 1847,
+        "name": "QIAN, Jun",
+        "count": 2
+      },
+      {
+        "id": 173,
+        "name": "CHOI, Ricky Yiu Kee",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "lUbpfslZmdzUC5IDkKtuG8re7ngU1mPg",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1847,
+          "name": "QIAN, Jun",
+          "rating": 1
+        }
+      ],
+      "author": "Louis0929",
+      "date": "Jan 22, 2024",
+      "title": "Good course with good grade",
+      "comment_content": "Random variables, pdf, cdf, pmf, conditional statistics, expectation, moments, some random processes, not much hard stuff. Normal DSE students have already learnt the syllabus before the midterm , after that it requires some multivariable calculus(really some of it, quite basic concept) Recommend for self study",
+      "comment_teaching": "I would say poor teaching, just ppt speaker, but she wrote stuff that can enhance your understanding which is not useful for the exams(just some proof). Also, she did not know how to answer the question in tutorial notes... She is a nice person, but not a teacher.",
+      "comment_grading": "mt:35% (mean 65.1)<br />final: 45% (mean: 62.1)<br />Lab: 8%(4% for quiz, 4% for lab assignment)<br />Hw: 12% <br /><br />mt and final are similar to hw, if you understand all, you can easily get an A range.<br /><br />I think the grade is fair. Mt above 1.4x sd, final above 1.1x sd <br />final grade: A ( I want an A+, just my final and lab quiz fked up TOT) And it seems that it has maximized b and c range.",
+      "comment_workload": "Normal workload, one week 1 hw/lab, lab, and hw can copy from source.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "zH1Dl2CymqY0xg3kOQCoZdWqK5Z2J93y",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1847,
+          "name": "QIAN, Jun",
+          "rating": 1
+        }
+      ],
+      "author": "thomeboydontkil",
+      "date": "Jan 03, 2024",
+      "title": "",
+      "comment_content": "Random variables, distribution and density functions, characteristic functions, conditional statistics, expectation, moments, stochastic processe",
+      "comment_teaching": "The teaching is very suck, the professor acts like a reader, and she only read the words on the POWER POINT. But I reckon that it is very reasonable because this professor just obtained her PHD degree and does not have much experience in dealing with students.",
+      "comment_grading": "Homework 8%<br />Lab (assignment + online quiz) 12%<br />Mid 35%<br />Final 45%<br />Homework and lab are almost full percent, I got 90 on the mid(full mark:100)and 95.5(high); I got 91.5 on final (full mark:100) and 91.5(high).<br />The letter grade is A+",
+      "comment_workload": "Just need to understand the basic theories and complete some problems. I recommend doing the self-studying by seeking some online courses.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "WOSAukVv8wfaTxKxV3rUO2ytYlKxF6Bs",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1496,
+          "name": "QUADEER, Ahmed Abdul",
+          "rating": 1
+        },
+        {
+          "id": 173,
+          "name": "CHOI, Ricky Yiu Kee",
+          "rating": 1
+        }
+      ],
+      "author": "asd213kd",
+      "date": "May 25, 2023",
+      "title": "",
+      "comment_content": "before midterm similar to DSE M1, after midterm more forcus on random process",
+      "comment_teaching": "Not taking attendance, Prof speaks with an accent with his english... but overall is good",
+      "comment_grading": "homeworks nearly full<br />lab forgot one lab quiz, overall higher than mean<br />midterm(fogot mean / median mark) +0.6sd<br />final(mean 46 / median 40.5) +1.6sd<br /><br />This semester&#039;s final&#039;s long questions are exactly same as past paper but just changing numbers, which this part is having around 60 marks. So if you do proper revision on past papers, you can at least get this 60% mark.<br /><br />However, there are MCQs, fill in the blanks and matching graphs questions this semester which forcus more on theory, and this is the part to compete. If you want to get an A+, you might need to work more on studying the graph representation on the behaviour of changing with joint pdf of A and B, probability of A given B, etc.<br /><br />final grade A-",
+      "comment_workload": "4 homeworks, 5 labs, just similar to previous years&#039; homeworks and labs, overall workload is normal, actually I think is quite light for a 4 credit course",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "a5xB1zXD13c950wUUGBoUPvpEbJhp3en",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1530,
+          "name": "YU, Xianghao",
+          "rating": 1
+        }
+      ],
+      "author": "断月",
+      "date": "Apr 01, 2023",
+      "title": "",
+      "comment_content": "概率论的入门，pdf，cdf...期中之前内容很简单，期中之后讲多变量的概率，会稍难一些，但是听不懂也不要紧。作业基本上就是套套公式，不怎么考察对lecturenote的理解。考试也基本上就是作业原题，只要你认真做作业，exam 90+ 不成问题。",
+      "comment_teaching": "喻教授真的很nice（但是他好像已经不在科大了），他给所有人准备了每节课的lecturenote，上课超级认真，很在意学生，有一次lab比较难，结束后他还专门发邮件安慰大家说，以后lab都不会像这么难。神中神！",
+      "comment_grading": "这个我不好评价，因为我的成绩不管grading怎样应该都是A+。听同学说只要比mean高一个sd就有A range了。然后mean应该是B+左右。",
+      "comment_workload": "期中期末考试，四次assignment， 5次lab。作为一门4credit course，load中等偏少吧。有一次lab会比较难，其他都很ok。总而言之，这算得上是一门神龟课 :)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "TPEP2e6F5ZvcRibD9hcATFY3TL3Gdb3v",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1530,
+          "name": "YU, Xianghao",
+          "rating": 1
+        }
+      ],
+      "author": "YoggYuk",
+      "date": "Jan 06, 2023",
+      "title": "good course",
+      "comment_content": "probability model<br />different types of Random variables which cheat sheet is provided in both mid-term and final exams.<br />PMF<br />PDF<br />CDF...<br /><br />Midterm is about understanding the content on a cheat sheets and using them well.<br /><br />Final exam is mixing concepts together.",
+      "comment_teaching": "Quit good.<br />Sometimes I think most of us get lost during the lessons.<br />Also, there are handwritten notes provided.<br /><br />Although the course can be done without attending lectures",
+      "comment_grading": "Midterm: +1sd<br />Final: +1sd<br />HW: around mean<br />Grade: A",
+      "comment_workload": "In total 4 assignments,<br />Not much, and some questions are the same as what is shown in the notes.<br /><br />Lab. Challenging if you do not have base knowledge about stat in python, like the panda thing,",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "pr2EXJNgxMhI0CQExXWrOs4nfs3HHSN5",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1496,
+          "name": "QUADEER, Ahmed Abdul",
+          "rating": 1
+        },
+        {
+          "id": 177,
+          "name": "ZHANG, Xuning",
+          "rating": 1
+        }
+      ],
+      "author": "LSLlsl",
+      "date": "May 28, 2022",
+      "title": "",
+      "comment_content": "Content gets harder in later parts of Part III and later parts of Part IV.<br /><br />Part I: Basic Probability Theory<br />- Lecture 1: Course Introduction<br />- Lecture 2: Build a Probability Model<br />- Lecture 3: Conditional Probability &amp; Independence<br />- Lecture 4: Sequential Experiments<br /><br />Part II: Single Random Variables<br />- Lecture 5: Discrete Random Variables<br />- Lecture 6: Expected Value and Moments<br />- Lecture 7: Important Discrete Random Variables<br />- Lecture 8: Continuous Random Variables<br />- Lecture 9: Expectation of Continuous Random Variables<br />- Lecture 10: Conditional PMF/CDF/PDF<br />- Lecture 11: Function of a Random Variable<br /><br />Part III: Multiple Random Variables<br />- Lecture 12: Pairs of Discrete Random Variable<br />- Lecture 13: Pairs of Continuous Random Variable<br />- Lecture 14: Conditional Probability and Independence<br />- Lecture 15: Joint Moments and Conditional Expectation<br />- Lecture 16: Sum of Two Random Variables<br />- Lecture 17: Pairs of Jointly Gaussian Random Variables<br />- Lecture 18: More than Two Random Variables<br />- Lecture 19: Laws of Large Numbers<br />- Lecture 20: Central Limit Theorem<br /><br />Part IV: Stochastic Process<br />-&nbsp;&nbsp;Lecture 21: Definition of a Random Process<br />-&nbsp;&nbsp;Lecture 22: Sum Processes and Independent Stationary Increment Processes<br />-&nbsp;&nbsp;Lecture 23: Mean and Autocorrelation of Random Process<br />-&nbsp;&nbsp;Lecture 24: Stationary Random Process",
+      "comment_teaching": "Dr QUADEER (lectures) and TA Dr ZHANG (tutorials &amp; labs) present ideas clearly.<br /><br />3~4 extra questions and their corresponding solutions are provided for each lecture.",
+      "comment_grading": "HW x 4 (8% total)<br /><br />Lab x 6 (12% total)<br />- Take-home Jupyter notebook (Python code) + In-lab 10-minute short quiz<br /><br />Midterm Exam (35%)<br />- Open book. Calculators and WolframAlpha allowed. Formula sheet provided<br />- Coverage: Lecture 1~11. Python is excluded.<br />- Pure Canvas quiz (MC single answer, MC multiple answers, fill in the blanks)<br />- Mean: 70%<br /><br />Final Exam (45%)<br />- Open book. Calculators and WolframAlpha allowed. Formula sheet provided<br />- Coverage: All lectures, focusing on Part III &amp; IV. Python is excluded.<br />- Canvas Quiz (MC single answer, MC multiple answers, fill in the blanks, matching)<br />+ Long questions (handwritten component that requires scanning your work)<br />- Mean: 54%<br /><br />The teaching team provides mean &amp; SD information for each of the all above assessments. Histogram for midterm exam &amp; final exam is also provided.",
+      "comment_workload": "Fair as a 4 credit course.<br /><br />Lecture (1.5h*2 =3h/week)<br /><br />Tutorial (1h/week)<br />Tutorials cover some problems and the lab Jupyter notebooks.<br />Tutorial notes contain short reviews of the concepts and formulas, and are useful for HW and exams.<br /><br />Lab (3h/week)<br />Lab Jupyter notebooks are released usually 1~2 weeks before due. Tutorials cover them step-by-step quite thoroughly.<br />You only need to attend the lab for a short time to obtain the passcode to a 10-minute Canvas quiz that needs to be completed within lab hours. Lab quizzes contain conceptual questions and lab coding questions.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "GrShpOvrVPmPMmSNYeGltQF4K5mscDra",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1530,
+          "name": "YU, Xianghao",
+          "rating": 1
+        }
+      ],
+      "author": "Teck Kwang",
+      "date": "Feb 06, 2022",
+      "title": "Quite a good course",
+      "comment_content": "If you took A Levels further mathematics with statistic component it will be quite easy for you. Mostly are the same except for the last few chapters where they include multivariable probability however the principles are the same.",
+      "comment_teaching": "Alex is a very detailed professor sometimes he will explain too details, if you were A Levels student you might find it different from what we learnt when he explains it but they are the same but in reverse order.",
+      "comment_grading": "I got on mean for Mid term and 2 SD above mean for finals in the end it&#039;s A-, There&#039;s&nbsp;&nbsp;4 homework mostly on mean as well. PS: For my semester the finals is very similar to the homeworks",
+      "comment_workload": "4 Homeworks and there is significant amount of time for you to complete.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "6R6QlqWqyUSSEBS5aFyXinJiWdgYvDDp",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1530,
+          "name": "YU, Xianghao",
+          "rating": 1
+        }
+      ],
+      "author": "RIPME",
+      "date": "Jan 04, 2022",
+      "title": "",
+      "comment_content": "Course Structure<br />o Part I: Basic probability theory. (~2-3 weeks)<br />o Part II: Single random variables. (~3-4 weeks)<br />o Part III: Multiple random variables. (~5 weeks)<br />o Part IV: Stochastic processes. (~3 weeks)<br />Part I is relatively simple as most of the content is covered in high school. However, from part II onwards, the contents are very hard to understand and quite concrete.",
+      "comment_teaching": "Professor Yu taught very well as he explains everything slowly and clearly. He also has his own handwritten notes which help us to review the contents. He also prints a copy of his notes and distributes them in class.",
+      "comment_grading": "Grading is good compared to other courses. I guess because it is an ELEC course. <br />Homework 10%<br />Midterm 35% Mean: 61.7 SD: 15.33<br />Final 55% Mean: 62 SD: 17.2<br />My score:<br />Homework: about 8/10<br />Midterm: 71/100<br />Final: 73/100<br />Overall about 75% +0.6 SD<br />Grade: A-",
+      "comment_workload": "Quite a low workload for 4 credits course.<br />There are 4 homeworks which have about 5-6 questions per homework. There is 1 python question in every homework which is done in jupyter notebook. The python question is quite hard as it requires you to make a graph and it is hard to find syntax and tutorials online. However, the python part compose about half of the score of each homework which is not really appropriate because it didn&#039;t test the content but rather the data visualization syntax.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "vFQdYUXPM0D7PgGaN3jPvtnrB1AxcfFF",
+          "name": "ELEC2600 Final Exam Score Histogram",
+          "format": "pdf"
+        },
+        {
+          "key": "2Ahfd917tky43xr4B3IlOmZLJAI6K3vL",
+          "name": "ELEC2600 Midterm Score Histogram 2021 Fall",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "65vN79ac34FnYAW611JJuaJi3ePqRB8f",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1530,
+          "name": "YU, Xianghao",
+          "rating": 1
+        },
+        {
+          "id": 177,
+          "name": "ZHANG, Xuning",
+          "rating": 1
+        }
+      ],
+      "author": "xIce",
+      "date": "Jan 03, 2022",
+      "title": "A good-grade and practical probability course",
+      "comment_content": "Course Structure<br />o Part I: Basic probability theory. (~2-3 weeks)<br />o Part II: Single random variables. (~3-4 weeks) <br />o Part III: Multiple random variables. (~5 weeks) <br />o Part IV: Stochastic processes. (~3 weeks)<br /><br />The content is interesting. You will be able to categorize many practical problems into a probability model and use the model for estimation.<br /><br />Before the mid-term (part I and part II), I would say the content is quite easy to follow. But after the mid-term, the content becomes difficult and you will have a hard time if you don&#039;t have sufficient knowledge in multi-variable integration. <br />Although this is not a Math course, you do need to know how to do calculus. <br />MAKE SURE you know how to do integration by parts for both single and multivariable calculus.",
+      "comment_teaching": "The teaching is good. Prof. YU always emphasize that we should understand the physical meanings of each equation rather than memorization. Attending his lectures really help me understand the content. If you can follow his lectures, you don&#039;t need to do much revisions for the exam.<br /><br />Xuning also did a great job. She is good at emphasizing important concepts. <br />Also, she will teach you how to do the homework, especially for the python question. Attending her tutorial is a MUST, especially for the ones that she talks about the homework.",
+      "comment_grading": "The grading is good. This is the only course that I got A+ in UST.<br />I got around 90 for all the 4 homework.<br />82/100 for the mid-term.<br />90/100 for the final.<br /><br />The questions in the mid-term and final are very similar to the homework questions. MAKE SURE that you understand everything in the homework and also the tutorial notes.",
+      "comment_workload": "There are in total 4 homework. I would say the workload is average for a 4-credit course.<br />For each homework, there is a long Python question. You need to use Python to model a practical problem and find out the percentage errors when you use the model. If you don&#039;t have knowledge in Python, be ready to do a lot of google search. But don&#039;t worry, the average score for each homework is just about 70/100.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "JadjqgCnwOH5cUOaODkdscuvuFxCLMUX",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 1496,
+          "name": "QUADEER, Ahmed Abdul",
+          "rating": 1
+        }
+      ],
+      "author": "{Curly Braces}",
+      "date": "May 20, 2021",
+      "title": "Fun course, if you can wake up early (if it is 9AM lecture)",
+      "comment_content": "The content includes:<br />Part I: Basic Probability Theory<br />Probability Model<br />Conditional Probability, Independence<br />Discrete Distribution Models<br /><br />Part II: Single Random Variables<br />Discrete/Continuous Random Variables and their distributions<br />PMF/PDF/CDF<br />Expected Value, Variance, Moments<br />Conditional PMF/CDF/PDF<br />The function of a Random Variable<br /><br />Part III: Multiple Random Variables<br />Pairs/Multiple of Discrete/Continuous Random Variable<br />Conditional Probability and Independence of multiple RVs<br />Joint Moments and Conditional Expectation<br />Sum of Two Random Variables<br />Pairs of Jointly Gaussian Random Variables<br /><br />Laws of Large Numbers<br />Central Limit Theorem<br /><br />Part IV: Stochastic Process<br />Random Process<br />Sum Processes<br />Independent Stationary Increment Processes<br />Mean and Autocorrelation of Random Process<br />Stationary Random Process<br /><br /><br />Basically, everything is fine if you have a foundation in probability and statistics (With calculus), but everything comes downhill at part IV since you are learning something completely new.<br /><br /><br />For CPEG students, if you are good at calculus but bad at proving or would like to be on the ELEC side, you may consider taking this course. If you are not good at calculus or would like to be on the COMP side, taking COMP2711 would be a better choice.",
+      "comment_teaching": "If I don&#039;t remember wrongly, this is the first time Prof. Quadeer teaching this course. Even so, the teaching is clear.<br /><br />The tutorials are very useful. Not only they help with coding questions, but also a good resource for reviewing and referencing for the final exam.",
+      "comment_grading": "The grading scheme is as follows:<br />Attendance: 2%<br />Quiz: 50% (The best 3 takes 15% each, the worst takes 5%)<br />Homework: 8%<br />Final exam: 40%<br /><br />The grading is pretty much fair (If you can wake up early, for this semester).<br />For me, I got nearly a full score on the homework part.<br />Quiz and the final are the places to differentiate the grades the most.<br />For me, Quizzes:<br />Quiz 1: 24/28 (mean: 22.1)<br />Quiz 2: 36/38 (mean: 24.5)<br />Quiz 3: 22/28 (mean: 15.0)<br />Quiz 4: 20/30 (mean: 21.6)<br /><br />Final:<br />Part 1: 33/39 (mean: 22.9)<br />Part 2: 64/68 (mean: 41.2)<br /><br />Final grade: A (Around 88.3%, Assuming I got all 2% attendance)",
+      "comment_workload": "In fact, the workload is quite light. However, this was downgraded to C due to the time of the lecture.<br />In this semester, the lecture time is at 9 AM. Thus, for students who really can&#039;t wake up early for lesson would be a pain to take this course. (of course, it may be different for other semesters.)<br /><br />As the quizzes and final exam dry run are on lesson time, this means that, technically, you may consider that the attendance to lectures technically takes 92% of the grade, where the lectures with quizzes/final dry run take more weighting.<br />(Note: Not taking the final exam dry run this semester will cause your final exam score to become 0!)<br /><br />Other than that, the homework, quizzes and final exam are pretty much okay. Quizzes and final exam is open book, and even allows usage of advanced calculators such as WolframAlpha.<br /><br />For homework, I must say that it is good enough, and they are lenient on the homework grading. I remember that in HW4, I stated a wrong expected value in a question (with signs flipped), and at last come up with a wrong answer. However, the TA marking my homework still takes it as correct.<br /><br />For the final exam, they do not provide us with any past papers. However, I strongly advise finding and download the past papers by yourself.<br />(Edit: According to the school announcement recently, since the next semester will resume the F2F mode, the final exam may get a new pattern, i.e. different from the past papers. Even so, I still recommend finding past papers to get an understanding of how they will ask the questions.)",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "CKgflnLynyVpal7wGVDuEFAMVE3jvrPI",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 1496,
+          "name": "QUADEER, Ahmed Abdul",
+          "rating": 1
+        },
+        {
+          "id": 177,
+          "name": "ZHANG, Xuning",
+          "rating": 1
+        }
+      ],
+      "author": "garbage",
+      "date": "May 18, 2021",
+      "title": "Nice course with pretty much content.",
+      "comment_content": "The content is pretty rich. This semester the syllabus is not cut, which covers all the way to WSS process.",
+      "comment_teaching": "The teaching is pretty clear. <br />Attending tutorials is strongly suggested as the tutorial would teach you how to solve the coding questions in the homework and it also takes attendance.",
+      "comment_grading": "Would update when the final grade comes out. <br />50% quiz (best 3 each account for 15%, the shittiest one accounts for 5%)<br />8% homework<br />2% attendance<br />40% final exam<br />overall I got 97.5% and yielded an A+",
+      "comment_workload": "The workload is DEFINITELY NOT LOW.<br />The quizzes are not hard if you went over the lecture notes once before taking them, but the pain of taking quizzes is ever-lasting as there are four. <br />The coding problem in each homework is not easy to solve. You would find that you have spent lots of time on them but eventually they only account for less than 2% of the final grade. Yeesh. <br />However if you do studied for the quizzes every time, you would not need to spend a lot of time preparing for the final.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "cAAyZViBRDB5kIPWbBi4U64dgA96nZSp",
+          "name": "2021 Spring ELEC2600 Final Exam Score Histogram",
+          "format": "pdf"
+        },
+        {
+          "key": "vgT7S5lQOUPLuvTDq2XK93b3ZWLa31Jg",
+          "name": "Quiz 1 Score Histogram",
+          "format": "pdf"
+        },
+        {
+          "key": "ygQwqlOr7UakCPuYPVHqSMIq3eOwM3yl",
+          "name": "Quiz 2 Score 2021 Spring Histogram",
+          "format": "pdf"
+        },
+        {
+          "key": "TdcQ0cTYmsFPd65tiR2ZlgWrwQ5hSsF2",
+          "name": "Quiz 3 Score 2021 Spring",
+          "format": "pdf"
+        },
+        {
+          "key": "FgZhR5UBhGhSxutfKRjtmCv2GvdkBKil",
+          "name": "Quiz 4 score histogram 2021 Spring",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "B9NKYsnmQu2ogK0ATLH6NcG9qe9T1cy9",
+      "semester": "2020-21 Fall",
+      "instructors": [],
+      "author": "Sunny2001",
+      "date": "Jan 19, 2021",
+      "title": "",
+      "comment_content": "If you had study M1 during high school, then only around half of the topic will be new for you. There are also Python included in this semester, so it would be nicer if you have some prior programming experience (To be honest not much is needed but it would be best if you got it).",
+      "comment_teaching": "If you dare to ask Prof and TA question, they will answer you even with python programming problems.",
+      "comment_grading": "I would say its quite fair.<br />4 Quizzes: 50% (Best 3 each count towards 15% to the total grade, the last one count 5%)<br />Finals: 40%<br />5 Homework: 8%<br />Attendance: 2%",
+      "comment_workload": "4 quizzes are spread across the semester so around one every 2 weeks, which I would say its fair. But 5 homework in total only count towards 8% of your final grade is a little harsh, as each one count about 1.6%, and with all the hassle you have to deal with, I would say it&#039;s not very friendly.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "iy3K2ZFBI1RePXm4IjmCp7cfCDhgIwrt",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 178,
+          "name": "SHI, Bertram Emil",
+          "rating": 1
+        },
+        {
+          "id": 177,
+          "name": "ZHANG, Xuning",
+          "rating": 0
+        }
+      ],
+      "author": "elwc",
+      "date": "Dec 22, 2020",
+      "title": "the hardest thing is python",
+      "comment_content": "DSE maths should cover most of the Part One and some of the Part Two. And fyi, the multivariable calculus stuff involved here are just partial differentiation and multiple integration. Not recommended for programming newbies.<br /><br />Part I: Basic Probability Theory<br />Lecture 1: Course Introduction<br />Lecture 2: Build a Probability Model<br />Lecture 3: Conditional Probability &amp; Independence<br />Lecture 4: Sequential Experiments<br /><br />Part II: Single Random Variables<br />Lecture 5: Discrete Random Variables<br />Lecture 6: Expected Value and Moments<br />Lecture 7: Important Discrete Random Variables<br />Lecture 8: Continuous Random Variables<br />Lecture 9: Expectation of Continuous Random Variables<br />Lecture 10: Conditional PMF/CDF/PDF<br />Lecture 11: Function of a Random Variable<br /><br />Part III: Multiple Random Variables<br />Lecture 12: Pairs of Discrete Random Variable<br />Lecture 13: Pairs of Continuous Random Variable<br />Lecture 14: Conditional Probability and Independence<br />Lecture 15: Joint Moments and Conditional Expectation<br />Lecture 16: Sum of Two Random Variables<br />Lecture 17: Pairs of Jointly Gaussian Random Variables<br />Lecture 18: More than Two Random Variables<br />Lecture 19: Laws of Large Numbers<br />Lecture 20: Central Limit Theorem<br /><br />Part IV: Stochastic Process<br />Lecture 21: Definition of a Random Process<br />Lecture 22: Sum Processes and Independent Stationary Increment Processes<br />Lecture 23: Mean and Autocorrelation of Random Process<br />Lecture 24: Stationary Random Process<br /><br />5 HW<br />4 Quizzes<br />No Midterm<br />No textbook required<br />Attendance counts for 2% but you can still skip the lessons.<br /><br />Make sure you learn the PYTHON part well because the python problem counts for 30 points in each homework.",
+      "comment_teaching": "Prof. Shi teaches quite well. He gives a lot of concrete examples to illustrate the concepts. He helps you &quot;feel&quot; the maths that you are learning and you will be more familiar with the maths stuff after listening to his lecture. He also answers to students&#039; questions.<br /><br />His speech is excellently clear. If you are watching lecture recordings, you can try to speed up to 2x. It&#039;s so amazing that I have no problem in following the content.<br /><br />Some deadlines were extended a few times so I guess it&#039;s fine to negotiate stuff with the teaching team.",
+      "comment_grading": "Attendance (2%, lecture and tutorial)<br />Homework (8%, hw1-5)<br />Final (40%)<br />Quizzes (50%).<br />The best 3 quizzes count for 15%<br />The worst one counts for 5%.<br />All open book<br /><br />HW1 (Full: 69) Mean: 57.3 SD: 12.3<br />HW2 (Full: 84) Mean: 55.36 SD: 18.34<br />HW3 (Full: 83) Mean: 57.44 SD: 16.78<br />HW4 (Full: 76) Mean: 40.98 SD: 19.18<br />HW5 (Full: 75) Mean: 46.82 SD: 19.07<br /><br />Quiz 1 (Full: 28) Mean: 20.48 SD: 6.32<br />Quiz 2 (Full: 35) Mean: 22.31 SD: 7.18<br />Quiz 3 (Full: 28) Mean: 15.7 SD: 6.2<br />Quiz 4 (Full: 30) Mean: 19.3 SD: 6.1<br /><br />Final Exam (Full: 105) Mean: 53.4 SD: 20.9",
+      "comment_workload": "Should be fair so it is C :)<br />HW is quite frustrating. Each should cost you over 4 hours. If you are bad at Python or those libraries, it may take so much time to finish the coding part. So be aware, deadline fighters.<br /><br />You will do fine in quizzes as long as you master the homework problems. The difficulty is pretty much the same.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "LidoMt9LJH2SUIlVo6TyatIopG2FtyI1",
+          "name": "ELEC2600 Quiz 1 Score Histogram",
+          "format": "pdf"
+        },
+        {
+          "key": "Hz4CXyIXTS5lJMVs7tp0q0AUGGiBhqZp",
+          "name": "ELEC2600 Quiz 2 Score Histogram",
+          "format": "pdf"
+        },
+        {
+          "key": "6rWTFuZWn4JkpCE1eGfXh3XzMtWrLxuC",
+          "name": "ELEC2600 Quiz 3 Score Histogram",
+          "format": "pdf"
+        },
+        {
+          "key": "6eWLvx2h0RPcZILEWgjhIGkzMk2FGsD3",
+          "name": "ELEC2600 Quiz 4 Score Histogram",
+          "format": "pdf"
+        },
+        {
+          "key": "dyuVV3ysSPwRNMps0JbJxV1u18D4wyiP",
+          "name": "ELEC2600 Final Exam Score Histogram",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "95OrmIbEMTnxWysDPz1xFy9hnSYQf7G8",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 178,
+          "name": "SHI, Bertram Emil",
+          "rating": 1
+        },
+        {
+          "id": 177,
+          "name": "ZHANG, Xuning",
+          "rating": 1
+        }
+      ],
+      "author": "DennisTheMenace",
+      "date": "Dec 21, 2020",
+      "title": "Pretty Good Grades for a 4-Credit course",
+      "comment_content": "Course Structure:<br />Part I: Basic probability theory. (~2-3 weeks)<br />Part II: Single random variables. (~3-4 weeks)<br />Part III: Multiple random variables. (~5 weeks) <br />Part IV: Stochastic processes. (~3 weeks)<br /><br />This is basically a MATH class so treat it like a math class! Do the homework, do the pass year papers and you will score. The contents in the first few weeks were stuff you probably had learned previously in high school, Binomial Distribution, Geometric Distribution that kinda stuff. After that things start to get more complicated. After like half the semesters things start to extra complicated and if you don&#039;t understand the lectures or the tutorials then you will find the homework hard to tackle. Last few weeks are the hardest, about random processes and the content is so abstract and uninteresting.",
+      "comment_teaching": "Professor Bert is good, but his teaching can be a bit uninteresting for me personally, i tend to find it hard focusing on what he said because his voice is this monotone that puts me to sleep. The TA in charge for weekly tutorials is ZHANG, XUNING. She knows the course well and can definitely help you get through assignments and exams, if you can&#039;t understand course contents, take advantage of her&#039;s and Professor Bert&#039;s office hours. AND GO TO THE TUTORIALS - I have to stress this as the tutorials are just as important as the lectures, not only do tutorials reinforce the calculation of problems that is being taught in class, it also contains (sometimes) contents that are similar to the homework!",
+      "comment_grading": "Here&#039;s how this course is graded:<br />2% Attendance<br />8%Homework<br />50%Quizzes<br />40%Final Exam<br /><br />Grading is awesome. <br />I personally had been slacking off the entire semester, when i realise my grades were slipping i started working harder and thankfully I didn&#039;t screw up big time. In the end got B-.<br /><br />ALL homeworks below mean.<br />2 Quizzes below mean.<br />Finals slightly below mean.",
+      "comment_workload": "Workload for this course is reasonable. It is a math class(well kinda like one cause alls you do is calculate) after all.<br />If you had learned Math2011 previously then homework should be a-o-kay.<br />For me i was also taking Math2011 alongside this course so, had been struggling for a bit.<br /><br />5 Homeworks-1 every two weeks;<br />4 Quizzes: Quizzes normally take place soon after deadline for homework.<br />1-Final Exam<br />Final Exam isn&#039;t that hard, make sure take the time to understand the materials. <br />Good luck in your studies ;)",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "UxkENvuDaK03bILgjXtacTqHj5de98h6",
+          "name": "ELEC2600 Final Exam Score Histogram",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "g6fD1k241jqOsfY2gykFe5zP7V6bH3Vp",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 178,
+          "name": "SHI, Bertram Emil",
+          "rating": 1
+        }
+      ],
+      "author": "L.LP",
+      "date": "Dec 20, 2020",
+      "title": "open book quiz and exam.",
+      "comment_content": "Same as before.",
+      "comment_teaching": "Teaching is good since prof Shi will draw pictures and give real life example to explain the concepts. And most importantly his English is good.<br /><br />I recommend you to review the tutorial video before doing your homework which is quite helpful.",
+      "comment_grading": "The grading is quite good, since I got &lt; 1 sd above the mean to get A.<br />2% attendance<br />8% hw<br />50% 4*quiz,<br />(3 of the highest score counted as 15% and the worst one counts 5%.)<br />40% Final exam<br /><br />quiz 1: mean 20.5/28<br />quiz 2 : mean 21.9/35<br />quiz 3: mean 15.1/28<br />quiz 4:mean 19.2/28<br /><br />HW1: mean 56.6/69<br />HW2: mean 52.4/84<br />HW3: mean 50.8/83<br />HW4: mean 35.7/76<br />HW5: mean 39.9/75<br /><br />Final : mean 52.8/105, containing canvas exam and written exam.<br />Mainly focus on lecture part 3-4, which is quite appropriate.<br />(you can use wolfram alpha and it is open book)<br />You can see mean is not very high, so you dont need to spend a lot of time to get mean score.<br /><br />quiz and homework is the most important part, since according to the syllabus quiz is 50% while final exam counts only 40% in the final grading.<br /><br />TA can finish grading just after few hours that we finish our final exam which is quite efficient.",
+      "comment_workload": "Workload is quite heavy since you have to take 4 online canvas quizzes and finish 5 homeworks. <br /><br />However, quiz is similar to the homeworks. My recomendation is that you should handle your homework seriously and understand how to do the calculation and review the lecture video before the quiz.<br /><br />The most difficult part in hw is Python, since the tutorial wont teach a lot, you have to search the syntax of it on the internet or go to TA office hours.<br /><br />PS: Not suggest asking TA through email, since they will reply only in short answer even if you ask a lot of questions.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "b2URN55R1DVwUU5BfVqrD1pcoQa4fk9d",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 176,
+          "name": "SONG, Shenghui",
+          "rating": 1
+        },
+        {
+          "id": 177,
+          "name": "ZHANG, Xuning",
+          "rating": 1
+        }
+      ],
+      "author": "C-Yiu",
+      "date": "Dec 26, 2019",
+      "title": "",
+      "comment_content": "Just normal Probability, easy but with some calculation.<br />Just see others description, I saw there are clear and detailed description on the USTSPACE already;)",
+      "comment_teaching": "Prof SONG is very kind and can always explain all the things in great detail and good examples. He also provides students with handwritten notes and an outline for every class which is very useful. <br />In short, he can explain the boring things into very interesting ones and he would tell you many things about himself and the industry as well.",
+      "comment_grading": "The Grading is fine, but I would say not as great as I thought before.<br /><br />Homework Grading Scheme:<br />4 HW in total.<br />Plan One: 5% each;<br />Plan Two: 2.5% for the first three, and 12.5% for the last one.<br /><br />Midterm:<br />84.5/100 mean:54 sd:17.46<br />rank No.5;<br /><br />Final:<br />80.5/100 mean:47.9 sd:15:49<br />rank No.7-8;<br /><br />Grade: A; ( I thought I would get an A+ though...)",
+      "comment_workload": "It is fine with 4 HW in total, each takes you maybe around 2-3 hours and when you figure out all the concepts, it will take you less time to finish.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "8Os72hl5VS4NNOjdxFwOM8jVEHPjPX2Y",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 176,
+          "name": "SONG, Shenghui",
+          "rating": 1
+        },
+        {
+          "id": 177,
+          "name": "ZHANG, Xuning",
+          "rating": 1
+        }
+      ],
+      "author": "clsied",
+      "date": "Dec 23, 2019",
+      "title": "",
+      "comment_content": "This course will introduce you four part<br />Part I: Basic probability theory<br />Part II: Single random variables<br />Part III: Multiple random variables<br />Part IV: Stochastic processes<br /><br />Part I and Part II will be covered in the midterm<br />Part III and Part IV will be taught after midterm<br />All the chapter except some topics covered in ELEC2600H will be test in final",
+      "comment_teaching": "Professor Song is really an enthusiastic lecturer .Even though you did not ask question in class, he still know who you are. Needless to say his teaching style, he is like a warm-hearted father to every children.<br /><br />TA is responsible and her teaching materials are quite helpful. Though sometime she looks serious, she is pretty nice actually. Also, she mark the exam paper effieciently, you can know the result within 24 hours.",
+      "comment_grading": "Assignment (20%, 5% each or 2.5%,2.5%,2.5%,12.5%)<br />Homework1 23.4 / 31<br />Homework2 46.3 / 64<br />Homework3 46.4 / 86<br />Homework4 30.9 / 48 <br /><br />Midterm (45%)<br />Mean: 52 SD: 17.46<br />Final (35%)<br />Mean 47.91 SD 15.49<br /><br />My score<br />Homework 18.5 out of 20<br />Midterm above 1 SD<br />Final above 1 SD<br />both around 15th among the class<br />Finally get A- <br /><br />Generally speaking, the course grading is not as good as mentioned in previous reviews. It is lower than my expectation. I guess the change is owing to the new grading policy (because of online teaching) and low examination mean(mean is 10 points lower than the previous semester).",
+      "comment_workload": "Fair enough, it will give you more than 10 days for each assignment, and some problem solving techniques are taught during the lecture, so I think it is not difficult to finish in few hours. Besides, the lecture material are clear enough for you to review and extra questions can help you review efficiently. For me, it took me 3 to 4 hour per week finishing all ELEC2600 jobs.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "10MbjbdkYXXCwpkAVQzTD9EiuNx5buD9",
+          "name": "ELEC2600 midterm histogram",
+          "format": "pdf"
+        },
+        {
+          "key": "jBHbBk958vKd69kxwJPK5BgDuENjpO89",
+          "name": "ELEC2600 Final Exam Score Histogram",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "GFR5rMn4Ru6V8M82zrPYBEGwwtzTj2SI",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 176,
+          "name": "SONG, Shenghui",
+          "rating": 1
+        },
+        {
+          "id": 177,
+          "name": "ZHANG, Xuning",
+          "rating": 1
+        }
+      ],
+      "author": "Umanilliti",
+      "date": "Jan 25, 2019",
+      "title": "",
+      "comment_content": "You are not going to learn a lot. But the things you learn is quite interesting.",
+      "comment_teaching": "Some of the content is quite hard. I suggest people who take this course to ask IA if there&#039;s any problem while doing your homework. Xuning would teach you and help you consolidate your concept. Prof. Song also very kind, just ask him anything you want to know, even if that&#039;s not something inside the class.",
+      "comment_grading": "Midterm: 90%+ mean: 65 SD: 20<br />Final: 90%+ mean: 67 SD: 20<br />And at last, I got A+.<br /><br />But I think the most important point is the midterm and final isn&#039;t that hard at all. It may differ every year but this year the midterm and final were a lot like the question from homework. Could be partially due to the reason that the homework question is actually quite difficult. But once you fully understand the homework, you should have no problem getting a high mark in the midterm and exam.",
+      "comment_workload": "It depends on how you look at it. I would say it&#039;s actually not that heavy. Consider there&#039;s only 4 homework, one midterm, and one final exam. It&#039;s not a lot. There will be four chapters, and there will be homework after each chapter. Remember to attend the tutorial as there usually will mention some questions that are quite similar to the question in homework. Though you can still ask questions on homework IA after the tutorial.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "qqSGJmZy3NM2eIHsAL8yKpDvyr9sxfqB",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 176,
+          "name": "SONG, Shenghui",
+          "rating": 1
+        }
+      ],
+      "author": "NGTing",
+      "date": "Jan 11, 2019",
+      "title": "",
+      "comment_content": "Probability Models<br />Random Experiments and Probability Axioms<br />Counting Method<br />Conditional Probab<br />Independence<br />PMF,cdf,pdf<br /><br />after MT = Pairs of the above",
+      "comment_teaching": "Did you hear that any problems about&nbsp;&nbsp;Prof.SONG? <br /><br />He will explain all of the concept and the whole story about the topic and write down all of the note on the whiteboard. After the lesson you can find his handwritten note and video for the lesson record on a web. You will be joyful if you are a hardworking student or maybe you have been study M1 or Probab. Otherwise, you can only focus on the Tutorial because most of the HW/MT/Final are come from the tutorial note. So that if you only take care of the grading you can just sit in the tutorial session or even just practice it at home.",
+      "comment_grading": "MT below 2.5SD<br />FT below 1SD<br />Final C<br />Better than what I predict",
+      "comment_workload": "4 credit course but no lab, only 3 hw, 1 MT and 1 Final. <br /><br />I don&#039;t think it is easy to humble even I had 18credit in this semester. This course is good for you who have 18credit or more.(I know some of the student have 21 credits.)",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "7xvEtBQKUc26qSVJ4L7dhXdzATlxPWRs",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 176,
+          "name": "SONG, Shenghui",
+          "rating": 1
+        }
+      ],
+      "author": "HokJa",
+      "date": "Dec 21, 2018",
+      "title": "Good grades!!!",
+      "comment_content": "Probability models... random variables and processes...<br />Many calculations<br />As a student with no m1/m2 background and bad at maths, the content is more difficult than COMP2711 as this course has much more calculation than what you expect",
+      "comment_teaching": "The lecturer is the best lecturer I have encountered in HKUST, song is responsible, funny and he is like a father to every children<br />But it’s a 9am course, so....",
+      "comment_grading": "Never thought it can be that good<br />Midterm below 1 sd and final below 0.5 sd and all hw above mean<br />= B-",
+      "comment_workload": "Ummm just 4 homework , midterm and final<br />But I think the homework especially the last two ones are quite difficult",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "MxcyqAmIO061LRkgSaKFFR3nOi9tapwu",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 206,
+          "name": "ZHANG, Jun",
+          "rating": 1
+        }
+      ],
+      "author": "Luoshu",
+      "date": "May 28, 2018",
+      "title": "Probability and random process",
+      "comment_content": "The course is mainly about the probability and random processes. The overall content is relatively easy to understand (compared with other 2-level engineering courses or math courses offered in UST). The content is not really theoretical. Instead, it mainly focus on practical aspects.",
+      "comment_teaching": "Prof. Zhang is a good instructor. He illustrate the concept clearly and inform us what we need to focus during lecture. However, his pace is somehow slow, so the lecture is relatively boring.",
+      "comment_grading": "Super good grade. The exam is not difficult at all and all of the problems are reflected in the assignment and the examples in the lecture and tutorial. There is no tricky problems in the exam.<br /><br />Midterm mean: 64/100<br />Final mean: 58/100<br /><br />In terms of myself, I have 100/100 in midterm and 97/100 in final. The overall grade is A+.",
+      "comment_workload": "The workload is not really tensive. The course only requires to accomplish the four assignments. The format of the assignments is really close to the midterm and final exam, so it is important to understand them.<br />The midterm and final exams are relatively easy. All we need to do is to understand all the tutorial problems.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "AxBMGppBlxqkufN3TUVj14HRGRjlVjPA",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 176,
+          "name": "SONG, Shenghui",
+          "rating": 1
+        }
+      ],
+      "author": "Ah Mo",
+      "date": "Feb 07, 2018",
+      "title": "",
+      "comment_content": "成個course分4part<br />Part I: Basic probability theory<br />Part II: Single random variables<br />Part III: Multiple random variables<br />Part IV: Stochastic processes<br />如果有M1底會好好多",
+      "comment_teaching": "song教得好好<br />有咩問題佢都肯答<br />如果上堂捉到佢錯會有bonus mark",
+      "comment_grading": "midterm,final都比帶cheat sheet<br />Homework (10%)<br />Mid-Term (35%)<br />Final (55%)<br />mid-term基本上都好易拎高分<br />個mean大概係70-80分以上<br />mid-term同final都around mean<br />hw就差唔多full mark<br />最後B-左",
+      "comment_workload": "得4份homework每份2.5%",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "9xMWgOGReHXZTbTeDd4V5aeKGmXN14Eb",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 176,
+          "name": "SONG, Shenghui",
+          "rating": 1
+        }
+      ],
+      "author": "mokkenny",
+      "date": "Feb 02, 2018",
+      "title": "",
+      "comment_content": "mostly basic dse m1 content.<br />experiences in dse m1 can easily understand the content of 70%~ of the course(eg: poisson distribution, bernoulli distribution, binomial distribution...)",
+      "comment_teaching": "song is a very good passionate teacher.",
+      "comment_grading": "GOOD GRADE<br />4 HWS, 1 midterm, 1 final. HWs can easily get above 80%<br />didnt finish half of the hws<br />got about 1 sd above mean in both midterm and final, eventually get a B+ in the course<br />PS: Prof Song says grade is absolute grading.",
+      "comment_workload": "4 homework<br />all questions have example in tutorial.<br />with any problem you may een whatsapp prof song and get helps",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "oL8YNsjpqT40B9cVzoVTpRSHrnDJKbNp",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 176,
+          "name": "SONG, Shenghui",
+          "rating": 1
+        },
+        {
+          "id": 177,
+          "name": "ZHANG, Xuning",
+          "rating": 1
+        }
+      ],
+      "author": "app_Sci",
+      "date": "Jan 16, 2018",
+      "title": "",
+      "comment_content": "Attached is a Weekly Schedule for the course. The weekly schedule says a lot about the content of the course.<br />course have 4 parts: Basic Probability, probability in 1 random variable, probability in multiple random variables, and random process.",
+      "comment_teaching": "The lecturer is Prof Song, enough said.",
+      "comment_grading": "The course&#039;s grade is good, compared to other UST courses.<br />There are 4 HWs and a midterm and a final.<br />Almost all HWs have a mean of 80%<br />I got slightly below mean in 1st HW, 50% marks in 2nd and 3rd HW, and 10% marks in 4th HW.<br />Mean for Midterm and final are both around 60%, SD around 20%, prof will not give the stastistics, but he will give a grade distribution, I got the stats from grade distribution.<br />Got below 0.5 SD for midterm and below 1 SD for final<br />Miraculously got a C+ despite my VERY crappy marks.<br />PS: Prof Song says grade is absolute grading.",
+      "comment_workload": "The workload is alright. You need to do HWs and thus do lots of reviews.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "0U3xY7xmE08gf9nYbQhaAMfNI6MXtid9",
+          "name": "Weekly Schedule for ELEC 2600",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "iZh5O0OMImMNqHYXglrRzMJ91tqeyopA",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 755,
+          "name": "MCKAY, Matthew Robert",
+          "rating": 1
+        }
+      ],
+      "author": "jjjjjjjjjjjjjjj",
+      "date": "Aug 06, 2017",
+      "title": "",
+      "comment_content": "everything before midterm is DSE level M1, and stuff after midterm is just built up on that so its simple if you took M1 in DSE. good luck if you took m2.",
+      "comment_teaching": "Matthew Mckay is a super chill prof, illustrates concepts/ theories with simple examples.",
+      "comment_grading": "good grade, as mentioned, if you took M1 in DSE, you will at least have a B-. <br />you can bring in a cheat sheet to exams, will help a lot if you write down some examples.",
+      "comment_workload": "assignments are easy, have sources. midterm and final have similar format.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "fFRzkOOFU4V2StqkkXldmVCKvFiwfpfF",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 176,
+          "name": "SONG, Shenghui",
+          "rating": 1
+        },
+        {
+          "id": 177,
+          "name": "ZHANG, Xuning",
+          "rating": 1
+        }
+      ],
+      "author": "EJY",
+      "date": "Jan 06, 2017",
+      "title": "Good Instructors, Good Course",
+      "comment_content": "The content covers the basic requirements of the probability in engineering, from single-variable probability to random process.",
+      "comment_teaching": "The professor was enthusiastic and warm-hearted. He not only cared us about our academic performances but also our emotion and feedback. Plus, he would like to provide us with free lunch when we&#039;re able to come up with some suggestions about the course. The TA was also very kind and helpful. She liked to answer our questions and give us further advice.",
+      "comment_grading": "Quite fair. If you can do well, you can get in A range.<br />The grading is also quite fast. The midterm finished at 1:30 p.m. and we got our grades and the statistics at 6:00 p.m. The final exam ended at 11:30 a.m. and the scores were sent to us individually at 4:50 p.m. on the same day.",
+      "comment_workload": "The workload is quite fair. All the homework questions had similar ones in the lecture and tutorial notes. The exams are based on the homework and some definition. If these two things are done, you can have a reasonable grade.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "1ktgSw7dKeQfShvXMuPs3rx2G5jiAyee",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 206,
+          "name": "ZHANG, Jun",
+          "rating": 1
+        }
+      ],
+      "author": "Ansonlau23",
+      "date": "Aug 23, 2016",
+      "title": "",
+      "comment_content": "quiet interesting if you like probability.<br />the knowledge are useful.<br />if you like maths, this would be a great course.<br />However, the probability in this course is much harder then those you lean in secondary school.",
+      "comment_teaching": "prof. teach quiet good<br />he explain the concept very detailed.",
+      "comment_grading": "Midterm: about mean 0.5 sd<br />final: mean<br />assignments: ~mean<br /><br />grade: B<br /><br />the mean is quite high, (about 80%)",
+      "comment_workload": "totally 4 assignments&nbsp;&nbsp;, each of them containing around 6-7 questions. Not very hard to complete if you review the notes.<br />one midterm<br />one final<br /><br />if you pay attention in class and do you homework by yourself, the exam are quite easy.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "xHqJz1At0LxQ2af6LZcPQhNUiw9cb02p",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 206,
+          "name": "ZHANG, Jun",
+          "rating": 1
+        }
+      ],
+      "author": "Annabelle He",
+      "date": "Jul 19, 2016",
+      "title": "",
+      "comment_content": "Pretty useful contents that cover most of the basic probability theory, including several typical kinds of random variables, pmf, pdf, cdf, Central Limit Theorem, Chebyshev&#039;s Inequality, and a bit about random process.<br />The course is not very closely related to engineering concepts, so it can be recommended for students from science and business schools as well if they are interested in probability theory.",
+      "comment_teaching": "The in-class teaching of the instructor is a bit boring, but he prepares clear and logical slides, and posts his written notes on Canvas after class. <br />Students can easily understand the materials even if they skip some of the classes.<br />The TAs are all pretty kind and willing to answer students&#039; questions, and the tutorials can help to further understand the class materials as well.",
+      "comment_grading": "Exams are close to the questions in assignments and past papers provided by the instructor, so they are relatively easy for those who work hard through the class materials.<br />Students are allowed to bring one cheatsheet with them and don&#039;t have to recite the formulas.<br />The overall grading is pretty generous, as long as students understand the concepts.",
+      "comment_workload": "The workload is acceptable with 4 assignments in a semester, each of them containing around 6-7 questions.<br />Most of the questions are pretty easy, but the last 1-2 question will be a bit difficult and require some efforts.<br />Be careful and it&#039;s not hard to get good marks.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "TvSqaxeDFTZzX8sYSHYdGFztbXm76wPV",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 206,
+          "name": "ZHANG, Jun",
+          "rating": 1
+        }
+      ],
+      "author": "Jonas",
+      "date": "May 30, 2016",
+      "title": "The course that you can learn a lot",
+      "comment_content": "Probability",
+      "comment_teaching": "Boring teaching. Only 20 students attended the lesson regularly.",
+      "comment_grading": "mid term mean 75.6 sd 20.4<br />final mean 69.1 sd 21.2<br />hw1 full mrak:41 mean 38.5 sd 5.4<br />hw2 full mrak:60 mean 40.857 sd 17.674<br />hw3 full mrak:72 mean 56.68 sd16.88<br />hw4 full mrak:60 mean 37.5 sd 19.7<br /><br />The mid term and final is easy. The question is nearly the same as your homework. Most of the difficult part of the lecture notes will not be examined. <br />The grading is good. The mean is B",
+      "comment_workload": "The workload is heavy. There are 4 homeworks in a semester.<br />Some of the questions are very challenging.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "8LroXgTAUtFM1n6yucmqL6PuEG8Ht6yP",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 755,
+          "name": "MCKAY, Matthew Robert",
+          "rating": 1
+        }
+      ],
+      "author": "Low Jin",
+      "date": "Jan 27, 2016",
+      "title": "",
+      "comment_content": "Mid term, final and assignments. A lot of formulas and theories, but we have cheatsheet so no worries.",
+      "comment_teaching": "A really passionate instructor in delivering the course content. He welcomed any question from the students and he is patient in explaining the concepts to us. Sometimes it may get a bit awkward when he threw questions at us and all of us ignored him haha ;)",
+      "comment_grading": "I personally feel that the grading is not bad, as long as we understand the concepts, review the assignments and complete the tutorials. One A4 sized cheatsheet is allowed for mid term and final.",
+      "comment_workload": "4 homework/assignments. 2.5% and 5~6 questions for each assignment. Usually we are required to answer the first 4/5 questions, the last question is a bonus question.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "MyA2t1Zp0SQsKuZuqEhZuCaIbIgjOdXv",
+      "semester": "2014-15 Fall",
+      "instructors": [
+        {
+          "id": 176,
+          "name": "SONG, Shenghui",
+          "rating": 1
+        }
+      ],
+      "author": ":oo",
+      "date": "Aug 16, 2015",
+      "title": "",
+      "comment_content": "pmf, pdf, discrete cdf, continuous cdf, CLT, law of large no., random process, 有d syllabus太theory都唔會考, 因為有d人反映過唔知同EE有咩關係, 後尾就加左d practical既例子, 唔夠時間教所以cut左d syllabus, 應該會留返3100先教返",
+      "comment_teaching": "Prof Song不用說吧?",
+      "comment_grading": "Mean應該係B, midterm final mean 6x<br />overall above &lt;1sd A-<br />midterm final都有cheat sheet, 好多都唔洗記",
+      "comment_workload": "Total 4份assignment, 年年唔同, 所以唔洗旨望source救到你, 3份mean 8成到,有份得6成",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 4,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

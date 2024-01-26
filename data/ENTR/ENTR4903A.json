@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 1567,
+    "subject": "ENTR",
+    "code": "4903A",
+    "name": "Student-led Entrepreneurship Acceleration Project",
+    "description": "Many successful IT startups begin in university years. This is a project course led by students to accelerate their entrepreneurship endeavor under the guidance and advice of a faculty member. Students work in team of size 2 to 3 to develop an idea from its scratch to become viable in market. In the process, students work on ideation, prototyping, making presentations, developing operation strategies, conducting experimental trials, designing market survey, collecting user feedbacks, writing business plan, and soft-launching and pivoting the product or services.\nWritten reports, presentations, and/or business/operation plan are required. May be repeated for credits if different topics are taken. Instructor's approval is required for enrollment in the course.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 893,
+        "name": "HUANG, Erwin",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "zyZsxb8y5tql4iXdYDje7mjyLkplGiax",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 893,
+          "name": "HUANG, Erwin",
+          "rating": 1
+        }
+      ],
+      "author": "PP",
+      "date": "Feb 13, 2019",
+      "title": "Self-driven project where you can have a taste of real startup",
+      "comment_content": "Taking your ideas into reality and more<br /><br />Design Thinking, Planning, Operational Management, Risk Embracing, and Getting into the real market and dealing with real customers.<br /><br />You will receive:<br />1. Guidance/ advices<br />2. Support (resources, networks)<br />3. Valuable knowledge and experiences of running a startup",
+      "comment_teaching": "Mostly learning from our own failure and mistakes, but it is great to have someone who believe in you and support you like Professor Huang and 2 TAs (Aki and Johnathan).<br /><br />Professor encourages us to always try and fail as much as possible. We have gained the spirit of &quot;Trying&quot; whenever we have a new idea, and never fear of failing or rejection again after this semester.<br /><br />We also have learnt how to use the resources wisely and how to work with different types of people.",
+      "comment_grading": "Fairly graded based on the progress made during the semester. <br /><br />Our group actually changed the direction of the project half-way through the semester and we started everything from scratch. It was totally fine since it is startup and what entrepreneurs do.<br /><br />Don&#039;t be afraid to take risks and fail to achieve the KPI set, and don&#039;t lose your values and yourself.",
+      "comment_workload": "If you already have an idea of what you want to do, that is perfect to take it to another step with this. Since it is a course, it is a mean of make everyone in the team to be fully committed.<br /><br />If you do not have any idea yet, you may consult with Professor.<br /><br />Weekly meetings with Professor and TAs for updates and feedback. Professor guided us with some directions when we were indecisive and lost. <br /><br />Weekly meeting minutes/ reports on Canvas to keep track of our progress against our own Timeline.<br /><br />Reflection report or video on our journey with the startup/ project",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 3,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "course": {
+    "id": 1652,
+    "subject": "ECON",
+    "code": "5210",
+    "name": "Microeconomic Theory I",
+    "description": "Theory of the firm, theory of consumer behavior, duality; theory of the market, game theory; neoclassical and alternative approaches.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 2,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1115,
+        "name": "KAWAGUCHI, Kohei",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "3LurSUoMaBPZmeF2zVc8Mp2K9rJo3VQe",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1115,
+          "name": "KAWAGUCHI, Kohei",
+          "rating": 1
+        }
+      ],
+      "author": "wen moon ser",
+      "date": "Jan 02, 2021",
+      "title": "",
+      "comment_content": "如果你係ug學生而打算讀mphil/phd econ嘅話，可以考慮讀呢個course去幫自己準備下，同時睇下自己夠唔夠料。一個UG學生想reg呢個course可以喺registration之前連埋transcript send email俾prof 問。如果佢覺得你夠料就會俾你讀。<br /><br />如果你想讀呢個course嘅話，以下嘅知識係我認為你一定要具備同埋掌握（分先後次序）：<br />1. Real Analysis<br />2. Multivariable Calculus<br />3. Linear Algebra<br />4. Probability Theory<br />5. Basic Microeconomic Theory<br /><br />呢一個course主要就係用一啲Axioms開始用數學同logic去推一啲intuitive嘅economic theory，例如law of demand/ law of supply。之後再進一步rigorously推一啲唔intuitive嘅result，例如roy&#039;s identity之類。成個course係比較abstract同rigorous，就算係講application都會係好mathematical同theoretical，好少真係講empirical嘅case同application。呢個course主要係一個framework俾學生去做research嘅時候follow。呢個course主要分做三parts，demand theory、firm theory同埋game theory。原本suppose要教埋market theory，但時間唔夠就無教到，用UG嘅course做比較嘅話就係3113+3133+4124嘅advanced版，教嘅野會比較classical。<br /><br />Course Content:<br />1. Demand Theory:<br />&nbsp;&nbsp;1.1. Preference<br />&nbsp;&nbsp;1.2. Choice and choice-based demand<br />&nbsp;&nbsp;1.3. Utility and preference-based demand<br />&nbsp;&nbsp;1.4. Utility maximization<br />&nbsp;&nbsp;1.5. Expenditure minimization and duality<br />&nbsp;&nbsp;1.6. Extra results about demand<br />---------------------Midterm----------------------<br />&nbsp;&nbsp;1.7. Choice under uncertainty<br /><br />2. Firm Theory:&nbsp;&nbsp;&nbsp;<br />&nbsp;&nbsp;2.1. Production technology<br />&nbsp;&nbsp;2.2. Profit maximization and cost minimization<br />&nbsp;&nbsp;2.3. Extra results about supply<br /><br />3. Game Theory:<br />&nbsp;&nbsp;3.1. Game setup and notation<br />&nbsp;&nbsp;3.2. Simultaneous game and rationalizable strategy<br />&nbsp;&nbsp;3.3. Nash equilibrium and correlated equilibrium<br />&nbsp;&nbsp;3.4. Dynamic game and sequential rationality<br />&nbsp;&nbsp;3.5. Subgame perfect equilibrium<br />&nbsp;&nbsp;3.6. Bargaining game<br />&nbsp;&nbsp;3.7. Incomplete information game and perfect Bayesian equilibrium",
+      "comment_teaching": "Kawaguchi 係日本人，佢嘅accent會相對地比較重同埋難明少少。但係佢係極之熱心去教明你。你有任何問題都可以上堂問佢問題/去佢office hour/用slack問佢。佢都會盡力答你嘅問題。但呢個course嘅schedule真係好tight同埋好深下，所以佢有時難免都會講到一舊舊，咁就將就下，最好每堂完左之後review返。<br /><br />呢個course嘅content主要係用返&quot;Microeconomic Theory&quot;, Mas-Collel, A., M.D. Whinston, and J.R. Green, Oxford, 1995 。呢本書喺圖書館都幾搶手但又好必要。網上會有pdf，但如果你係嗰啲一定要用實體書嘅人，最好一早上網買返本。至於點樣寫proof，prof.會recommend你去睇baby rudin學，呢個就見仁見智。<br /><br />上堂都會以prove返啲classical result為主，pure math 嘅theory就只會略略講下點樣嚟，例如hyperplane separating theorem、Kuhn tucker theorem之類。同埋會講少少classical 嘅application同example，例如insurance、cournot model之類。",
+      "comment_grading": "PG course就好似B-先算pass嘅，所以一定係比較靚grade的。一個midterm，一個final同7份assignment。考試就會係computational question比較多，少少proof。但係一啲都唔易，因為好多時都幾tedious，我考試考到唔想計落去。佢話就話final係cumulative，但考落其實無考midterm前嘅野。<br /><br />Grading Scheme:<br />Assignment 20%<br />Midterm 30% <br />Final 50%<br /><br />General Performance:<br />Assignment: 70/70<br />Midterm: 34.6/70<br />Final: 41.9/80<br /><br />My Performance:<br />Assignment: 70/70<br />Midterm: 49/70<br />Final: 46/80<br /><br />Final Grade: A",
+      "comment_workload": "Workload係極重，一嚟呢個course有極多內容同埋啲野極深奧，要Spend好多時間去理解同埋review。另外呢個course有assignment，係Mas-Collel嘅exercise同埋一啲tutor set 嘅extra question，全部都require好多嘅思考同理解先寫得到個solution，一份都有幾多題下，我諗大概都要兩三日不停做先做得完一份，所以如果你打算讀就唔好同時reg太多科，因為呢科會佔左你幾多時間下。",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 14,
+      "vote_count": 14,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

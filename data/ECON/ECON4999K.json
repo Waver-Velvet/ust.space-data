@@ -1,0 +1,79 @@
+{
+  "course": {
+    "id": 2152,
+    "subject": "ECON",
+    "code": "4999K",
+    "name": "Public Economics",
+    "description": "This course covers the economics of the public sector and how it interacts with the rest of the economy. Among the topics we will cover are: theories of optimal taxation and impact of taxes on economic activity; effects of taxes on resource allocation and welfare; theories of tax incidence; fiscal and equity implications of alternative tax schemes; the nature of public goods; theory of public expenditure; fiscal dynamics and growth; intergovernmental fiscal relations.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      1630
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ECON\" data-code=\"3014\" href=\"/review/ECON3014\" target=\"_blank\">ECON 3014</a> OR <a class=\"course-link\" data-subject=\"ECON\" data-code=\"3143\" href=\"/review/ECON3143\" target=\"_blank\">ECON 3143</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 962,
+        "name": "BRUSCO, Sandro",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "w2Yw7YGhdW6zo0hQr0EGITeYdVxdOiuw",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 962,
+          "name": "BRUSCO, Sandro",
+          "rating": 1
+        }
+      ],
+      "author": "TCheung",
+      "date": "May 30, 2017",
+      "title": "Good grade but learning only a little",
+      "comment_content": "Very similar to several chapters in ECON3014. Basically two big topics:<br /><br />1) Taxation and Redistribution<br />- Tax incidence<br />- Labour Income Taxes and Transfers<br />- Capital Income Taxation<br /><br />2) Role of the government<br />- Externalities <br />- Public Goods<br />- Social Insurance",
+      "comment_teaching": "Very nice professor but with heavy Italian accent. <br /><br />Not much interaction in class, maybe because of the small class size. (The possible reason for small class size is the time crash with ECON3024 and many other elective courses)<br /><br />Usually, less than 10 people (sometimes only 5 - 6 people) would attend the lesson, so quite boring.",
+      "comment_grading": "Probably because of the small class size (16 people), he could give a huge A range. I scored around the mean in the midterm, but still got an A.<br /><br />Midterm (30%) - Mean: 77; SD: 12<br />One A4-double-sided cheat-sheet was allowed. In-class. There are 3 questions, but only the best 2 questions would be counted. The questions are very similar to those in the practice midterms. <br /><br />The questions are very simple, but since I misread one of the questions, I scored 10/50 for that question even the other steps were correct. As well as you have done the practice midterm, &quot;copy&quot; the questions into the cheat-sheet, and look at the exam questions carefully, you should be able to score very high.<br /><br />Final Exam (50%) - No statistics<br />Similar to midterm, one A4-double-sided cheat-sheet was allowed. There are 4 questions, and the best 3 questions would be counted. The questions were still very similar to those in the practice exams.",
+      "comment_workload": "The lightest workload course I have ever had. No attendance, no tutorial, no project, little homework, and even little revision required. <br /><br />Homework (20%)<br />4 homework in total, 4 questions for each homework.<br /><br />The TA was not marking the homework seriously. As well as you have submitted them on time, you should be able to get 9/10 or above for each homework.<br /><br />Tutorial<br />No tutorial except one for midterm paper checking.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "uFH3vcdxGfw1sD3bZKxI3RRNmfWNuvKq",
+          "name": "SyllabusEcon4999K",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

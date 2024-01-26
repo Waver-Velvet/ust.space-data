@@ -1,0 +1,109 @@
+{
+  "course": {
+    "id": 3146,
+    "subject": "ELEC",
+    "code": "4230",
+    "name": "Deep Learning for Natural Language Processing",
+    "description": "This course covers the basic theories and applications of natural language processing including speech processing using deep learning. It also introduces the topic of ethics in Artificial Intelligence. Topics include distributional semantics with word embeddings, text classification, emotion recognition, sentiment analysis from text and speech, language modeling, machine translation, and question answering. We will also cover multi-linguality and multi-modality, end-to-end chatbots, and task-oriented dialogue systems. The topics in Deep Learning ranges from feed forward neural networks, convolutional neural networks, recurrent neural networks, sequence-to-sequence neural networks, and the latest architecture in DL. Students will learn about various natural language processing (NLP) topics, how to design and build a deep learning model using PyTorch and Python, and the basics of software engineering. At the end of the course, students will work alone or in pairs to implement a deep learning model for various NLP research tasks, and describe their methods and results in a conference paper format. Successful groups will be able to submit their papers to an international conference.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2030,
+      1930
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012\" href=\"/review/COMP2012\" target=\"_blank\">COMP 2012</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012H\" href=\"/review/COMP2012H\" target=\"_blank\">COMP 2012H</a>) AND (<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2600\" href=\"/review/ELEC2600\" target=\"_blank\">ELEC 2600</a> OR <a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2600H\" href=\"/review/ELEC2600H\" target=\"_blank\">ELEC 2600H</a>)",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"4901I\" href=\"/review/COMP4901I\" target=\"_blank\">COMP 4901I</a>",
+    "rating_content": 4,
+    "rating_teaching": 2.5,
+    "rating_grading": 4.5,
+    "rating_workload": 3,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 188,
+        "name": "FUNG, Pascale",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "140ZelqYYeZHnsr4zSylS07YMFbNjjGx",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 188,
+          "name": "FUNG, Pascale",
+          "rating": 0
+        }
+      ],
+      "author": "2020survivor",
+      "date": "Apr 08, 2021",
+      "title": "IRRESPONSIBLE TEACHING, TA very nice, hw1 ~ hw3 well designed, but hw4 = WTF???",
+      "comment_content": "Lecture 1: Artificial Intelligence and Natural Language Processing<br />Lecture 2: Regression and Neural Networks<br />Lecture 3: Linguistic Essentials<br />Lecture 4: Lexical Semantics and Word Embeddings<br />Lecture 5: Convolutional Neural Networks and Applications <br />Lecture 6: Language Modeling and Recurrent Neural Networks<br />Lecture 7: Sequence-to-Sequence and Attention<br />Lecture 8: Transformers and BERT<br />Lecture 9: Introduction to Task-oriented Dialogue Systems <br />Lecture 10: Neural Conversational AI Systems",
+      "comment_teaching": ":)<br />The kahoot quizzes in class were pretty nice, and that&#039;s... pretty much all the good things about her teaching. <br /><br />:D<br />The teaching is trash. Obviously professor let the TA make the majority part of the slides. There were times during lecture when the TAs&#039; got flamed by the professor for designing the slides poorly, which in fact from my perspective I only think the professor is pretty irresponsible for her own teaching. Poor TA&#039;s.<br /><br />Again, teaching was REALLY BAD. She couldn&#039;t explain the math fundamentals part well. She failed to explain the linear algebra basics, differential basics and probability part in the slides, and sometimes called out the TA&#039;s when she&#039;s stuck (another proof of making the TA&#039;s design the slides. I don&#039;t believe professors put stuff that they cannot explain in their own slides). OK, never mind she&#039;s a computer science professor. She spent almost 3 lectures demonstrating her HARDCORE machine learning skills by just adjusting the parameters on this https://playground.tensorflow.org website in front of my zoom screen. If professor you are looking at this review, i want to let you know that every time you feel proud you can finish a huge topic in one lesson, it doesn&#039;t mean that your teaching is good or the students are smart. It just means that your teaching is NOT INSPIRING. Even though we had questions, we&#039;d look it up ourselves or ask the TA&#039;s instead of asking you. <br /><br />You can find so many online machine learning resources WAY BETTER than her teaching. Compared with other universities open source, HKUST&#039;s NLP course is pretty outdated. A lot of good ML courses online not only cover the basics, but also introduced the very state-of-the-art applications and architectures. Some professors even share their own discoveries and experiences in the field of training different machine learning models and projects. Seriously I didn&#039;t learn ANYTHING from her lecture. Literally nothing. Wouldn&#039;t attend one class if it weren&#039;t for the PARTICIPATION (yes trash class requires participation otherwise promise you no one would appear in the zoom lecture). <br /><br />If you wanna self learn ML and the really recent applications, I recommend you Prof. Hung-yi Lee&#039;s youtube channel. The following is the link of his introduction video of ML: https://youtu.be/Y87Ct23H3Kw<br /><br />如果你听得懂普通话/国语，想自学ML，推荐去查李宏毅教授的youtube。以下附上他教bert / Transformer的影片：<br />https://youtu.be/ugWDIIOHtPA<br />然后如果你还不信邪想上pascale的nlp，记得等到他上到语言模型的时候，来比较一下什么是好教授什么是烂教授，体会一下差距。",
+      "comment_grading": "Maybe good due to small class. PG mix UG. Not transparent so&nbsp;&nbsp;just guessing its good.<br /><br />UPDATE: <br />Midterm dont know standard dev, but somewhere at the middle between high and mean.<br />PA1 to PA4 most full marks, but didn&#039;t do the bonus part. <br />PA Bonus RNN 5 point bonus -&gt; completed, but score not released. I think I did ok.<br />Final Project, score not released. We think we did good.<br /><br />Letter Grade: A-",
+      "comment_workload": "Moderate. hw1 - hw3 were pretty well designed. From this course you only learn from doing the homework. Hw1 is a taste about Machine learning so we have to implement back-propagate, training steps, gradient by ourselves. Hw2-3 is using pytorch to implement the really fundamental NLP applications. (hw2: word embeddings, hw3: CNN)<br /><br />But hw4? WTF??????????????<br />Hw4 is so meaningless. Actually hw4 really triggered me to start writing this comment. SO TRASH. Not kidding, you let any junior high school student do it he/she can get full marks. If I not mistaken, in hw4 we need to imagine ourselves as AI machines and chat with another partner in the class who pretends they are the user chatting with a AI bot. YES. I&#039;m not insane. This is hw4! CHAT with one of your dummy classmate wondering why you enrolled in the course!<br /><br />WTF????????<br /><br />OK I give it a B because hw4 was too trash. hw1, 2, 3 deserves A. <br /><br />Also there is also project work. Just saying if you are still interested in taking this trash course. <br /><br />“订阅我的切no，分享，开启小铃铛，duke就教你怎么浪 漫 突 进”",
+      "rating_content": 3,
+      "rating_teaching": 1,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 12,
+      "vote_count": 12,
+      "comment_count": 3,
+      "attachments": []
+    },
+    {
+      "hash": "dZirMNWuoLU88p3nvFQD38ivRORuO2we",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 188,
+          "name": "FUNG, Pascale",
+          "rating": 1
+        }
+      ],
+      "author": "Zori",
+      "date": "Jun 15, 2020",
+      "title": "High workload, Ordinary teaching, Good grade",
+      "comment_content": "This course is very suitable for people who look forward to learning more about the neural network (NN in abbreviation) if they only have a sense of it in the very beginning and the ones who are interested in natural language processing as a beginner.<br />Covering the general topics in natural language processing (NLP in abbreviation). The content is thoroughly explained in the course description. So there are basically three dimensions in the course content: NLP functions, NN architecture, and code implementation.<br />For the NLP functions, it basically demonstrates the various functions achieved by current NLP tech, such as emotion detection and so on.<br />For the NN architecture, it introduces the basic structure of NN, CNN, RNN, Seq to Seq, and transformer. Meanwhile, it also introduces the word2vec, word embedding concepts, which are critical in NLP.<br />For the code implementation, you need to construct a complete model structure to fulfill a specific task in every homework, such as sentiment classification and so on.",
+      "comment_teaching": "Ordinary.<br />The Prof would elaborate on the content she teaches based on the notes. But the teaching is prone to academic and not that attractive.",
+      "comment_grading": "The grading is very good.<br />It is a course with mixed UG and PG students.<br />The grading scheme:<br />Attendance - 10%<br />Homework - 40% ( 4 x 10%)<br />Midterm - 25%<br />Report - 25% ( You would first need to form up a 2-people team. Then, you need to select a topic related to NLP. The prof would provide alternatives for you, but you may feel free to select others that interest you. My team selects a topic relating to fake news detection)<br />The last two homework and report grading is not released. I got about 1 sd above mean in midterm and the first two homework, ending in A+. The prof said the grading can be good given that it is a small class.",
+      "comment_workload": "The workload is pretty heavy.<br />Spending about 6-10 hours for one piece of homework every two weeks.<br />The midterm also requires review.<br />The report involves research and a lot of model tuning.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 3,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

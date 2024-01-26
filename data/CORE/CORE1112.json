@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 3895,
+    "subject": "CORE",
+    "code": "1112",
+    "name": "Quantum Information for Everyone",
+    "description": "Information cannot exist without a physical system to represent it. Quantum physics enables some fundamental new ways of information processing. In recent years, quantum information processing (QIP) has emerged as one of the “most fiercely competitive in today’s world of technology”. This course offers an introduction to the past, present and future of QIP. The theme is to explain the major ideas and issues in QIP, and how this new technology will change our understanding of information processing. The course starts from a gentle introduction to quantum theory without assuming any physics background, then moves to the key applications of QIP including quantum computing, quantum cryptography, and quantum communication. Besides theory, demonstrations and hands-on experiences with quantum hardware will also be given. Students will benefit from learning quantum information technology in an interdisciplinary environment, with knowledge and skills for comprehending the fast-paced developments in today’s technological world.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230
+    ],
+    "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1401\" href=\"/review/CORE1401\" target=\"_blank\">CORE 1401</a> OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1402\" href=\"/review/CORE1402\" target=\"_blank\">CORE 1402</a> OR CORE 1403 OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1404\" href=\"/review/CORE1404\" target=\"_blank\">CORE 1404</a> OR LANG 1002 (prior to 2022-23)",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"PHYS\" data-code=\"4812\" href=\"/review/PHYS4812\" target=\"_blank\">PHYS 4812</a>",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1461,
+        "name": "ZENG, Bei",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "yArJn2qRFFW4aGwDMhoTZMHd2WigqLVR",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1461,
+          "name": "ZENG, Bei",
+          "rating": 1
+        }
+      ],
+      "author": "yoshin",
+      "date": "Aug 03, 2023",
+      "title": "An inspiring course. Good grade.",
+      "comment_content": "This course covers the basics of quantum information theory:<br /><br />Week 1 (Lec1-2): A brief history of computers<br />Week 2 (Lec3-4): A brief introduction to quantum computers<br />Week 3 (Lec5-6): Matrix representation of quantum gates<br />Week 4 (Lec7-8): Quantum circuits, search algorithm<br />Week 5 (Lec9-10): Complex numbers, single qubit gates<br />Week 6 (Lec11-12): Universal circuits, quantum Fourier transform<br />Week 7 (Lec13-14): Quantum mechanics, quantum entanglement<br />Week 8 (Lec15-16): A brief introduction to building quantum computers<br />Week 9 (Lec17-18): Breaking RSA encryption<br />Week 10 (Lec19-20): A brief introduction to quantum cryptography<br />Week 11 (Lec21-22): A brief introduction to quantum communication<br />Week 12 (Lec23-24): A brief introduction to quantum error correction",
+      "comment_teaching": "The professor annotates her PPT slides during lectures. She tries very hard to explain the concepts and pitfalls. However, I do think some parts when she attempts to dumb down the math, it became even more confusing for some students.",
+      "comment_grading": "Although the material itself is challenging, the exams are easy (almost identical to the practice exams). Getting an A range wouldn&#039;t be hard if you master the practice exams.<br /><br />20% Homework<br />10% Lab report<br />25% Mid-term<br />35% Final",
+      "comment_workload": "Light workload overall. Only four graded assignments submitting bi-weekly. As long as you can do the homework questions well, you should be fine in the exams.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

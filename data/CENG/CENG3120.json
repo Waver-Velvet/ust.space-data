@@ -1,0 +1,79 @@
+{
+  "course": {
+    "id": 36,
+    "subject": "CENG",
+    "code": "3120",
+    "name": "Process Design and Integration",
+    "description": "Conceptual design of chemical processes. Flowsheet synthesis, selection and analysis. Short-cut methods, steady-state simulation, computer-aided design tools. Heat-exchanger networks, energy integration. Batch and continuous process design. Case studies and non-traditional applications.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2030,
+      1930,
+      1830,
+      1730,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CENG\" data-code=\"2110\" href=\"/review/CENG2110\" target=\"_blank\">CENG 2110</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 2,
+    "rating_grading": 5,
+    "rating_workload": 2,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 30,
+        "name": "HUI, Chi Wai",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "k6uILQ15jSft96VqoUsPog3jq3HexXzh",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 30,
+          "name": "HUI, Chi Wai",
+          "rating": 1
+        }
+      ],
+      "author": "Kongdal",
+      "date": "Aug 05, 2019",
+      "title": "",
+      "comment_content": "The contents of this course are essential for a chemical engineering student, as you learn how to design a process as a whole based on the things you have learned so far. <br /><br />It could be described as a combination of Reactor Engineering + Heat&amp;Mass + Separation Processes, the 3 courses you take in the previous semester. You will utilize the theories that you have learned in these 3 courses to make a complete process through Aspen+. If you don&#039;t have any of these 3 courses it might be difficult for you to understand what&#039;s going on. <br /><br />In overall the contents are difficult and you need to study hard.",
+      "comment_teaching": "The lectures were basically useless in my opinion, lecturer does not give answers, only questions. While most other lecturers teach you a concept and show you some examples of how to use the concept, this professor likes to teach you the theory but not how to use it to solve problems. Plus lecture is uninteresting and it is hard to pay attention. <br /><br />Since the materials covered are not easy I recommend going to TAs and the professor a lot personally to ask questions.",
+      "comment_grading": "In-class / home assignments 10%<br />Design projects 60%<br />Final Exam 30%<br /><br />Attendance is not required but there are random in-class exercises so keep out for these. There are some home assignments as well, maybe one in every 2 weeks. There are also 3 tutorials throughout the semester, these are also graded and you will need them for your project. <br /><br />Project is the most important part of the course, you will need to find a partner to work on a project using MS excel and Aspen+. If you are unfamiliar with Aspen+ don&#039;t worry, you can ask the TAs and self-learn and that is enough. <br /><br />Final Exam is extremely difficult, and if you score less than 30/100 you could fail the course, even if you did well in other areas. There is no partial credit so writing down formulas won&#039;t get you any points, unlike in most other CENG courses. Grading however is very lenient, so focus on doing well on the project and surpassing 30/100 on final exam.",
+      "comment_workload": "Workload is quite heavy. Home assignments are given out once in 2 weeks, they&#039;re difficult and very time-consuming. You will constantly need to be working on the project as it is also very time-consuming, plus you will have to write a report as well based on your results. To understand the project and the results you will also have to meet TAs from time to time, and this slows down the progress a lot too.",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

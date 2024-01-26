@@ -1,0 +1,144 @@
+{
+  "course": {
+    "id": 3388,
+    "subject": "CIVL",
+    "code": "4100K",
+    "name": "Multi-agent Decision-Making in Smart Cities",
+    "description": "This course will focus on multi-agent decision making problems in Civil Engineering. We will formulate and analyze the interactions among multiple strategic decision makers using mathematical tools from optimization and game theory. In the context of Smart Cities, we will primarily focus on decision makers in modern power and transport systems, such as energy consumers (buildings, electric vehicles), energy producers, mobility-on-demand customers, etc. Through lectures, assignments and reading, students will learn state-of-the-art models and tools to identify, formulate, and address emerging challenges in the smart city development.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2130,
+      2030
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.67,
+    "rating_teaching": 4.33,
+    "rating_grading": 4.67,
+    "rating_workload": 5,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1465,
+        "name": "LI, Sen",
+        "count": 3
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "155bgY3irIugGvTWYSBT00v1VGEpoVTt",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1465,
+          "name": "LI, Sen",
+          "rating": 1
+        }
+      ],
+      "author": "nicknameee",
+      "date": "Jun 08, 2022",
+      "title": "Intro to Game Theory",
+      "comment_content": "- Zero-sum games<br />- Mixed policies<br />- Bimatrix games, N-player games<br />- Mixed Nash Equilibrium<br />- Potential games<br />- Auction<br />- Mechanism design, VCG<br />- Routing, information braess paradox",
+      "comment_teaching": "Li Sen is very nice and willing to answer questions quickly. His lectures are very easy to follow and understand.",
+      "comment_grading": "Attendance: 10% (+3% bonus)<br />Homework (x4): 40%<br />Final (Open Book): 50%<br /><br />[My Scores]<br />Homework: 40/40 (Mean: 35.36)<br />Participation: 13/10 (Mean: 12.49)<br />Final Exam: 46/50 (Mean: 34.15)<br />Overall: 99.0%<br />Grade: A+<br /><br />The highest score for the final exam is 48/50, and the median is 37/50.<br />The cutoff for A+ is 95%, the cutoff for A- is 89%, and the cutoff for B- is 72%.",
+      "comment_workload": "very very light workload<br />4 HW and one final exam",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "xX5spsoRgu50WrbKrjZQ28FwZypGjxgL",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 1465,
+          "name": "LI, Sen",
+          "rating": 1
+        }
+      ],
+      "author": "CyrusL",
+      "date": "Jun 16, 2021",
+      "title": "Gentle Introduction to Game Theory",
+      "comment_content": "This course is split into two parts:<br /><br />[Theory (~60%)]<br />This covers the fundamentals of game theory, which is similar to what you expect in a MATH course but less in-depth. The syllabus can be summarized as follows:<br />- Overview<br />- Zero-sum games<br />- Mixed policies<br />- Extensive form games<br />- Bimatrix games<br />- N-player games<br />- Mechanism design<br /><br />Most of the focus is put on solving different types of games from the perspective of the players, starting from the most basic form then becoming increasingly abstract through the removal of governing constraints. Afterwards, we switch roles and instead consider the game from the designer&#039;s perspective.<br /><br />[Application (~40%)]<br />The remainder of the course is dedicated to walking through examples where game theory can be used in designing a Smart City, namely:<br />- Sharing of electricity storage in smart grid<br />- Informational Braess paradox in traffic routing<br /><br />The content here is based on a number of research papers that were published recently.<br /><br />[Comments]<br />You do not have to worry too much about mathematical logic, though it helps. Most of the homework and exam questions are calculation questions. The few that require proofs have a similar format as those shown in the lecture slides.<br /><br />You should already be familiar with multivariable calculus and matrix operations.<br /><br />Overall, the content is fine but I wish that more emphasis was put on the second part of the course to better connect to the CIVL aspect.",
+      "comment_teaching": "The professor demonstrated his passion for the subject and explained the concepts in great detail; however, this also slowed down the teaching progress. Consequently, the theory part took considerably longer than expected to complete, giving rise to uneven pacing, especially towards the end of the course.<br /><br />The TAs were quite fast in marking our homework, but the marking scheme was far from transparent. Whenever there was an error in my homework, all I got is a mark deduction without any reason, forcing me to compare my solution against the official one to find my mistake. They did make up for it somewhat by hosting a special tutorial section during the final lecture which highlighted common mistakes in each homework.",
+      "comment_grading": "[Homework (40%)]<br />There were a total of four assignments, spaced 3 weeks apart except for the second and third ones which were spaced by a month to account for the mid-term break and exams. We were given approximately 2 weeks to complete each homework, which consists of 4 questions. The majority of questions were quite simple (it took me an average of 30 minutes to complete one question).<br /><br />[Participation (10%)]<br />Attendance was mandatory for each lecture unless exempted. Since everyone got full marks, it is unclear exactly how this part is graded.<br /><br />[Final Exam (50%)]<br />A two-hour open-book final exam consisting of six questions, with one of the questions being extra difficult. The rest were of similar difficulty as the homework. Personally, I do not believe that students were expected to finish the exam in time.<br /><br />Due to poor performance, the extra difficult question may have been converted into a bonus question, which is supported by the fact that the maximum mark was 50 instead of the expected 60.<br /><br />[My Scores]<br />Homework: 39/40 (Mean: 36.4)<br />Participation: 10/10 (Mean: 10.0)<br />Final Exam: 34/50 (Mean: 33.8)<br />Overall: 83.0%<br />Grade: B+<br /><br />Since I messed up in the final exam, getting a B+ was well within my expectations. I would say that the grading is average for this course.",
+      "comment_workload": "Very light workload - only 4 assignments to submit and 1 final exam to prepare for.<br /><br />(Refer to the Grading section for more information on each task.)",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "kUKbUtV24ucgQqhngSW66YG5qjXHnehL",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 1465,
+          "name": "LI, Sen",
+          "rating": 1
+        }
+      ],
+      "author": "つち",
+      "date": "May 29, 2021",
+      "title": "Nice teaching, Interesting content (Recommend!!!)",
+      "comment_content": "An easier version of MATH4321, with applications of game theory in the context of Smart Cities (Smart Grid, traffic routing). <br /><br />Interesting content with normal difficulty.<br /><br />First, there was an overview of games, introducing different types of games (e.g. zero-sum vs non-zero sum, cooperative vs non-cooperative, discrete vs continuous, etc.)<br /><br />Then, pure Nash Equilibrium of Two-Person Zero-Sum games was discussed.<br /><br />After that, we had mixed policies (minimax theorem, mixed Nash Equilibrium), followed by extensive form games (with behavioral Nash Equilibrium), bi-matrix games (Prisoner&#039;s Dilemma), N player games.<br /><br />The concept of potential games was also introduced.<br /><br />Then, it went to the game designers&#039; view, which is mechanism design. We looked into the cases of first-price auction, second-price auction, bridge building project, electric vehicle charging, etc. Vickery-Clarke-Groves Mechanisms was also discussed.<br /><br />Finally, we studied the applications of game theory in Smart Grid (sharing electricity storage) and traffic routing (Informational Braess&#039; Paradox is also discussed).",
+      "comment_teaching": "Professor Li&#039;s English is not bad and he can explain the concepts clearly. The lectures are not boring and I really enjoy his teaching.<br /><br />When I had questions about homework problems, he usually replied very fast and provided clear and detailed explanation.",
+      "comment_grading": "Participation: 10%<br />Homework (x4): 40%<br />Final (Open Book): 50%<br /><br />Participation: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;everyone got full marks (10/10)<br />Homework: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;all very high mean (&gt;9/10, except 8.15/10 for HW3)<br />Final: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mean: 33.4/50 (low: 22 ; high: 44)<br /><br />I got overall 93/100, final grade is A.<br />There&#039;s no A+ for this sem because no one can solve the last question in the final exam……",
+      "comment_workload": "not much workload<br /><br />just 4 HW (around 2 weeks to finish, 4 problems each) <br />and 1 Final (open book, 2 hours)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 4,
+      "comment_count": 3,
+      "attachments": []
+    }
+  ]
+}

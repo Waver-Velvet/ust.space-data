@@ -1,0 +1,113 @@
+{
+  "course": {
+    "id": 2661,
+    "subject": "MATH",
+    "code": "5285",
+    "name": "Applied Analysis",
+    "description": "Contraction mapping theorem, Fourier series, Fourier transforms, Basics of Hilbert Space theory, Operator theory in Hilbert Spaces, Basics of Banach space theory, Convex analysis.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 2,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 775,
+        "name": "ZHANG, Hai",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "RkUNLoarzJnx4GJ5GmIjzrXHFHrxj7HS",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 775,
+          "name": "ZHANG, Hai",
+          "rating": 1
+        }
+      ],
+      "author": "UnconMarketeers",
+      "date": "Dec 09, 2022",
+      "title": "Shall be more demanding if renamed as &quot;Applied Functional Analysis&quot;",
+      "comment_content": "1. Official textbook: &quot;Applied Analysis&quot; by John Hunter.<br />However, I don&#039;t think it will be very rewarding solely by reading this textbook, or reading the instructor&#039;s hand-written notes. <br /><br />2. Short comments regarding course content:<br />-&gt; The whole course structure is systematic in overall.<br />-&gt; The major framework is functional analysis, with some applications in Numerical analysis, data analysis, PDE, real analysis and Ergodic theory.<br />-&gt; But I don&#039;t think one can really learn Ergodic theory systematically in this course (or in this university...)<br /><br />3. Course content - I personally chop off the course content into the following:<br /><br />======Part One: Contraction Mapping Theorem========<br /><br />TL;DR: Covers half of MATH3312 Numerical Analysis in a few lectures, except that you are not going to do stupid numerical iteration by hand.<br /><br />1. Banach Contraction Mapping theorem (Existence, uniqueness of fixed point in complete metric space)<br />2. Other criterion for local contraction (Say, given fixed point, identify contraction on some neighborhood)<br />3. Application: Logistic equation (A taster to dynamic system)<br />4. Application: Numerical algorithms<br />-&gt; Fixed point iteration<br />-&gt; Newton&#039;s method<br />-&gt; Secant method (Homework)<br />-&gt; Gradient descent algorithm<br />-&gt; Gauss-Seidel method (Homework)<br />5. Application: Existence and uniqueness of (special type of) integral equation<br /><br />=======Part Two: Hilbert Space Theory=========<br /><br />TL;DR: Standard Hilbert Space theory. Some interesting applications (Radon-Nikodym theorem; Lax-Milgram theorem) are discussed. This serves as theoretical foundation for the theory of Fourier series in next chapter.<br /><br />6. Inner product in Linear space, and induced geometric concepts (norm, angle, orthogonality, convexity...)<br />7. Closed convex subset in Hilbert Space (Unique minimizer, induces projection map, contraction of projection...)<br />8. Direct sum decomposition via closed convex subset<br />9.&nbsp;&nbsp;Existence of O.N. basis<br />10. Some remarkable properties regarding orthonormal basis (Example: Parseval identity, convergence of partial sum...)<br />11. Riesz Representation theorem and Radon-Nikodym theorem<br />12. Lax-Milgram theorem (Homework)<br /><br />==========Part Three: Fourier Series===========<br /><br />TL;DR: Concentrated in convergence criterion instead of calculation. Some famous applications (Isoperimetric inequality, Equidistribution...) are discussed.<br /><br />13. Two important uniform approximations:<br />-&gt; The convolution K_n * f uniformly approximates f itself (in C^0(T) norm)<br />-&gt; Trigonometric polynomials are dense in C^0(T)<br />14. Smallest completion of space C^0, namely L^2<br />15. Gibbs phenomenon: Fourier series of discontinuous function has overshoot/undershoot<br />16. Definition of Sobolev space via Fourier coefficeint<br />17. Convergence criterion of Fourier series in terms of Sobolev space<br />18. Applications:<br />-&gt; Solve heat equation and wave equation in the periodic space domain<br />-&gt; Isoperimetric inequality (Circle encloses largest area)<br />-&gt; Weyl&#039;s ergodicity (&quot;Open/closed orbits&quot; in classical mechanics)<br />-&gt; Equidistribution<br /><br />==========Part Four: Fourier Transform===========<br /><br />TL;DR: Since there are no undergrad math courses with Fourier transform, it makes the course essential.<br /><br />19. Construction of Fourier transform (From Schwarz space to L^1 to L^2) and Inverse transform<br />20. Remarkable properties of Fourier transform:<br />-&gt; Riemann-Lebesgue theorem (in L^1)<br />-&gt; Unitarity and isometry (in L^2)<br />21. Tempered distribution (Continuous linear functional in Schwarz space)<br />22. Derivative, convergence and Fourier transform in distributional sense (Along with introduction of Delta functional and &quot;principal value&quot;)<br />23. Payley-Wiener theorem<br /><br />==========Part Five: Compact operator===========<br /><br />TL;DR: Almost the same as the related part in this year&#039;s MATH4063. Many advanced concepts in linear algebra is generalized in infinite-dimensional Hilbert Space.<br /><br />24. Direct sum decomposition via kernel and range space of projection map<br />25. Equivalent statements of orthogonal projection<br />26. Compact operator<br />27. Fredholm Alternative theorem<br />28. Spectrum of bounded/compact/self-adjoint operators (complex spectrum; only real spectrum is discussed in MATH4063) <br />29. Applications:<br />-&gt; Singular value decomposition (infinite dimensional)<br />-&gt; Sturm-Liouville equation<br />-&gt; Mean ergodic theorem",
+      "comment_teaching": "The teaching style is not desirable. <br /><br />1. Remarkably bad English accent.<br />2. Flaws in hand-written notes.<br />3. Mistakes when writing on whiteboard, from spelling mistakes to mistakes in deduction.<br />4. Sometimes skip proofs due to time constraint - But who wants to look at the hand-written notes to check the proof?",
+      "comment_grading": "Presentation and final exam. Presentation is officially said to be counted toward grade, but I&#039;m not sure if the instructor really grades the performance.<br /><br />Update: Around 10 days after exam, the grade is released. It turns out that the grade is also decent, given that I am not confident about my attempt for some of the questions (say, 2 questions out of 5 - Because I unluckily did not prepare them... For future students of this course, do prepare all questions carefully in the question bank!)",
+      "comment_workload": "Ungraded homework problems per chapter. Actually they are graded in some sense - In final exam you will meet the homework problems again. <br /><br />Also, there are presentation sessions for homework, so there is no reason not to finish those problems.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 5,
+      "vote_count": 5,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "MBOXltLvPWVUYAMtIhsRbHFtHLUQifC0",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 775,
+          "name": "ZHANG, Hai",
+          "rating": 1
+        }
+      ],
+      "author": "Rainforest",
+      "date": "Mar 01, 2020",
+      "title": "interesting material vs poor teaching",
+      "comment_content": "5 topics:<br />Banach contraction mapping theorem;<br />Basic Hilbert space theory;<br />Fourier transf. and Series;<br />Compact Operator theory in Hilbert Space;<br />convex analysis.<br />Textbook: John Hunter Applied Analysis. Very clear presentation and adquate exmples.",
+      "comment_teaching": "Pretty bad. His Eng is so bad that...not easy to follow. He didnt distribute any lecture notes so you need to take your own. He wrote on whiteboard, basically another copy of John Hunter&#039;s book. So many typos, be careful!<br />He gave no motivation or deep explanation to the theorems.",
+      "comment_grading": "Nice grade. Everybody should get an A. See workload section.",
+      "comment_workload": "Very light workload. 2-5 problems per 2 or 3 weeks. The final all came from his homework so please do the homework. Before the final, you can go to his office and discuss the homework with him to guarantee an A.",
+      "rating_content": 5,
+      "rating_teaching": 1,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 4,
+      "vote_count": 7,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

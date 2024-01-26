@@ -1,0 +1,110 @@
+{
+  "course": {
+    "id": 1479,
+    "subject": "IELM",
+    "code": "2100S",
+    "name": "Computing in Industrial Applications",
+    "description": "Introduction to microprocessor technologies and computer hardware with industrial applications. Computer systems for industrial control. Digital communication, mobile computing and RFID technology.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1730,
+      1630,
+      1530
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.5,
+    "rating_teaching": 4.5,
+    "rating_grading": 4.5,
+    "rating_workload": 4.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 348,
+        "name": "SO, Richard Hau Yue",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "sxn2RZiAZUYiw4ddIQiNUAchLC37CaRb",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 348,
+          "name": "SO, Richard Hau Yue",
+          "rating": 1
+        }
+      ],
+      "author": "Anthony ho",
+      "date": "Jun 05, 2018",
+      "title": "It is an interesting subject",
+      "comment_content": "This subject is difficult if you don&#039;t have any background knowledge in physic and computer.&nbsp;&nbsp;IELM students with the knowledge of micro-processor controls and automations so that you are confident to work in high value added industries such as RFID systems, medical devices, and high end consumer products.",
+      "comment_teaching": "Proff and TA s is very helpful and help you to solve you problem.<br />The teacher will provide the lecture video for you so that you may study at home.",
+      "comment_grading": "Mid-Term Exam20%(Open-book exam.)<br />Final Exam34%(Open-book exam.)<br />Lab.work35%<br />Class &amp; Lab Participation5% (get it by answer the question)<br />Assignment 24%",
+      "comment_workload": "Its workload is not much two easy homework and labs.<br />the lab is not difficult because the TA can help you a lot.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "JxAU5miggIYNwyul6nermlAqUXXkN3PJ",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 348,
+          "name": "SO, Richard Hau Yue",
+          "rating": 1
+        }
+      ],
+      "author": "eleeag",
+      "date": "Oct 21, 2016",
+      "title": "",
+      "comment_content": "To equip IELM students with the knowledge of micro-processor controls and automations so that you are confident to work in high value added industries such as RFID systems, medical devices, and high end consumer products.",
+      "comment_teaching": "Lecture videos provided",
+      "comment_grading": "Depending on the size of the class Eg. Out of 20 students, top 3 will get A+, subsequent 3 students get A, etc... <br />Course Grading:Mid-Term Exam20%(Open-book exam.)Final Exam34%(Open-book exam.)Lab.work35%(NO copying *)Class &amp; Lab Participation5%AssignmentsAssignment 1 2%(NO copying *)Assignment 24%(NO copying *)100%",
+      "comment_workload": "Low workload but labs can be quite time consuming",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

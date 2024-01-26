@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 2503,
+    "subject": "MECH",
+    "code": "4000J",
+    "name": "Robotic Manipulation and Mobility",
+    "description": "This course provides an overview of the techniques that enable robots to interact with the world, that is, robotic manipulation and locomotion. Fundamental theories and models regarding the two important problems will be introduced. The practice of robotic manipulation and mobility will be investigated through real robot systems including industrial robot arms and multifingered grippers. Hands-on experience with some of the topics in the class will also be provided through term projects and assignments. No formal prerequisites needed, but knowledge in control (for example, ELEC 3200 or MECH 3610) can help.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1830,
+      1730
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 2,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 946,
+        "name": "SEO, Jungwon",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "mMCIsacxWSdMJqsaevVUjHrBqxLQQs0J",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 946,
+          "name": "SEO, Jungwon",
+          "rating": 1
+        }
+      ],
+      "author": "potat0",
+      "date": "May 22, 2018",
+      "title": "Get ready for some serious workoad",
+      "comment_content": "Content heavy course. Not compulsory but highly recommended prerequisites:<br /><br />Matrix algebra (seriously), control systems, statics/dynamic<br /><br />1) Foundations<br />degrees of freedom, configuration space, planar and spatial rigid body motion, 3D rotational matrices, Euler angles, quaternions, homogeneous transformations, forward &amp; backward kinematics, jacobians, actuation, DC motors, gearing, power electronics<br /><br />2)Manipulation<br />error dynamics, motion control with velocity/force/torque input, feed forward and feed backward actions, coulomb friction model, force closure, mathematical optimization, <br /><br />3) Mobility<br />- simple pendulum analysis, stability (Lyapunov, asymptotic, exponential), cart-pole systems, linearized dynamics, control for babalncing, control for swing up, passive dynamic walking, limit cycle, robotic running<br /><br />NO TEXTBOOK, but since class time is not enough to deeply cover each topic, much of the content is similar to &quot;the Modern Robotics&quot; book <br /><br />kind of wished there was more stuff on the electronics or programming part rather than just mechanical analysis, especially for the last part of the course",
+      "comment_teaching": "Refreshing! <br />no powerpoint, all notes are from the white board, actual explanation, well paced, english. Prof pulls out up to date recent examples to complement his classes. He focuses a lot on &quot;working knowledge&quot; so nothing to memorize but you are expected to understand. <br />Always open to answer questions outside of lecture, and can be good advice for eventual interest in research. <br />Pro: you understand the content and get to actually know the prof. <br />Cons: don&#039;t skip lectures, especially if you don&#039;t have buddies in class cause notes are not upladed.",
+      "comment_grading": "dunno yet",
+      "comment_workload": "- 5 Homeworks (30%) roughly 2h each max<br />- Project 1, in pairs (35%) (about using arduino + IMU, report, code, video, interview) <br />- Project 2, individual (35%) (about writing a program to check for force closure, report, code, interview) <br /><br />Projects are specific but leave a lot of room for customization, so you can basically build anything you want as long as it does at least the required set of tasks. <br /><br />You are encouraged but not forced to use Matlab for the projects, but since the school doesn&#039;t give personal licences, computer barns are sad and lets not mention virtual barn, just get a free trial of matlab every month. down side: no fancy toolboxes.<br /><br />you&#039;ll also need time to self study lecture materials that were not covered in depth in class",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

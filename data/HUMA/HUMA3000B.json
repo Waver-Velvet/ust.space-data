@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 1270,
+    "subject": "HUMA",
+    "code": "3000B",
+    "name": "The Bible in Film",
+    "description": "This course both (1) surveys some of the most well-loved and most interpreted stories of the Bible, which we will read closely together, and then (2) examines how Hollywood films engage, appropriate, and interpret biblical figures, concepts, and narratives. Each class will focus on a biblical text—for example, the story of the Garden of Eden, Cain and Abel, Noah or Moses—and a film that relates to that text. No background knowledge of the Bible is required.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1440
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 343,
+        "name": "HALVORSON-TAYLOR, Martien Alexandra",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "KyfapPBa4xkY8UUrZljYfKSzPuvCWCwf",
+      "semester": "2014-15 Summer",
+      "instructors": [
+        {
+          "id": 343,
+          "name": "HALVORSON-TAYLOR, Martien Alexandra",
+          "rating": 1
+        }
+      ],
+      "author": "llchan",
+      "date": "Jan 21, 2016",
+      "title": "An inspiring course",
+      "comment_content": "Attendance is a must. I took the course in summer, on every Mon, Wed and Fri of July, each lecture last for 3 hours.<br />Weekly Quizzes.<br />Film journal for every 2 lessons.<br />Active participation can allow you to build up a thorough understanding on the text.<br />I think I learn a lot in her teaching and in Christianity though I am not a Christian. <br />Despite the course included much bible reading, it does not require you to be a Christian in order to attend the course.",
+      "comment_teaching": "Excellent teaching:<br />She put much effort to encourage students to think. The atmosphere is good, students are generally love to raise profound and thoughtful questions.<br />She will ask each student on their thought towards the reading and raise questions towards their view. She is not a strict teacher, don&#039;t worry even if you cannot answer her questions.",
+      "comment_grading": "Weekly Quizzes (20%)<br />Class Participation (30%)<br />Assignments and Final Paper (50%)<br />If you want to have a good grade, please ensure you hand in your assignment, and fully attentive to what the professor has told you as her words could be a hint to your assignment",
+      "comment_workload": "There are readings for each lecture. All the readings on class are from the bible, so the reading are quite short. It will help your discussion on class and the weekly quizzes. <br />For alternative lecture, she will play a film that related to your reading and you have to finish a film journal in class or as an assignment.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

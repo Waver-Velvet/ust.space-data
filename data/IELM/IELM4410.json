@@ -1,0 +1,111 @@
+{
+  "course": {
+    "id": 659,
+    "subject": "IELM",
+    "code": "4410",
+    "name": "Global Supply Chain Management",
+    "description": "An introduction to the design, development, and management of integrated logistics supply chain systems, including inventory management, distribution channels, and information systems. Emphasis on the impact of e-business on companies and industries, especially how the Internet changes the way in which goods and services flow through the value chain from manufacturers to customers.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"IELM\" data-code=\"4100\" href=\"/review/IELM4100\" target=\"_blank\">IELM 4100</a>",
+    "corequisites": "",
+    "exclusions": "EEMT 5300, <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"4770\" href=\"/review/ISOM4770\" target=\"_blank\">ISOM 4770</a>",
+    "rating_content": 4.5,
+    "rating_teaching": 4.5,
+    "rating_grading": 4.5,
+    "rating_workload": 4,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 360,
+        "name": "QIU, Xuan",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "ff2YPEGHDfVPTCcZJoyd6ZoDlAbwVTwn",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 360,
+          "name": "QIU, Xuan",
+          "rating": 1
+        }
+      ],
+      "author": "Sakura",
+      "date": "Feb 01, 2018",
+      "title": "",
+      "comment_content": "Analyze global supply chain strategies.<br />After each topic, there are case studies of famous companies regarding the topic.",
+      "comment_teaching": "The professor is very young. She is also very nice.<br />She like to ask questions in class.<br />Since there are no tutorials, we won&#039;t see the tutors basically.",
+      "comment_grading": "Some say good, some say bad<br />I would say your performance both in midterm and final are critical to the grade",
+      "comment_workload": "Very light, only 2 assignments<br />Got some case studies throughout the semester in which you need to do 10-15 pages of readings<br />Also a project presentation",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "10ibMbbPGUDpjxyhw76ByHdj4gYxPIYl",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 360,
+          "name": "QIU, Xuan",
+          "rating": 1
+        }
+      ],
+      "author": "loulou",
+      "date": "Dec 20, 2017",
+      "title": "Overall, good course",
+      "comment_content": "The content is very interesting, with a mix of concepts on global supply chain management learned in lecture notes and application of these concepts in &quot;real&quot; companies through case studies.",
+      "comment_teaching": "The professor is great, probably one of the most interesting in the entire IELM department. Her way of teaching is very captivating. Since there are no tutorials, we never really got to see the TAs, and they weren&#039;t really helpful too when asked to explain something.",
+      "comment_grading": "The grading is pretty good. We had 2 homework in total, 1 project, 1 midterm and 1 final exam. The exams have a mixed of exercises (very similar to homework or exercises given in lecture notes) and questions on case studies.",
+      "comment_workload": "Workload is really okay, not crazy. We have a few case studies that we discuss in class and we are then required to write a report every time we study a case. Other than that, workload is not huge as we don&#039;t have a lot of homeworks (we only had 2 homeworks I think) and we have 1 group project (presentation + report)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "course": {
+    "id": 418,
+    "subject": "ENVS",
+    "code": "4001",
+    "name": "Environmental Impact and Risk Assessment",
+    "description": "This course gives an overview on the relationships between human health, environment, and sustainable development. Topics include the development and objectives of environmental impact and risk assessment; impacts of environmental quality (including air, water, wastes, ecology) and health risks; assessment and mitigation, public participation; sustainable development. Case studies and guest lectures will be included. For ENVS, LIFS and CHEM students in their third and fourth year of study only.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"1030\" href=\"/review/CHEM1030\" target=\"_blank\">CHEM 1030</a> OR <a class=\"course-link\" data-subject=\"LIFS\" data-code=\"1030\" href=\"/review/LIFS1030\" target=\"_blank\">LIFS 1030</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 2.25,
+    "rating_teaching": 2.5,
+    "rating_grading": 3,
+    "rating_workload": 1.75,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 229,
+        "name": "CHENG, Jinping",
+        "count": 2
+      },
+      {
+        "id": 231,
+        "name": "LIU, Hongbin",
+        "count": 2
+      },
+      {
+        "id": 1090,
+        "name": "YAU, Sin Ting Cynthia",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "8VMvrmnnGTqyCfPTvLePxXRHQFfQbNGR",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 231,
+          "name": "LIU, Hongbin",
+          "rating": 1
+        },
+        {
+          "id": 1090,
+          "name": "YAU, Sin Ting Cynthia",
+          "rating": 0
+        }
+      ],
+      "author": "淺水健",
+      "date": "Jan 20, 2021",
+      "title": "bad grade course",
+      "comment_content": "a basic introduction to environmental impact assessment (EIA) and the EIA process in Hong Kong. The components of an EIA study will be taught, with particular emphasis on ecological impact assessment (EcoIA), fisheries impacts, air and water quality impact assessment, and environmental risk assessment. Comparisons of the EIA system with mainland China and other countries will be made. The objective of the course is to equip students with a working knowledge of EIA for future careers in consultancy engaged in EIA projects or non-governmental organisations reviewing EIA reports.",
+      "comment_teaching": "zoom lesson, in the lecture there are a lot of ordinance information but you don&#039;t have to care it so much. They teach something that is common sense but in the exam you don&#039;t know how to utilize them<br />There have one guest lecture on the last 2 weeks of the course. Just provide information for you to learn that content not cover on the exam.",
+      "comment_grading": "bad <br />original we have several assignments to accomplish, however because of one of the instructor Cynthia sickness thus the tasks reduce till two. The weighing of assignment to whole grade is unknown. They only released one task result and I got full mark.<br />In final examination I got below mean. <br />The grade is C+ finally",
+      "comment_workload": "low, just attend lecture heard what instructor taught. Assignments are easy to do. But the grade is horrible in this major.",
+      "rating_content": 1,
+      "rating_teaching": 3,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "GGRJzhns8cTHBbLrLvlF81F0oPxUnYqu",
+          "name": "ENVS 4001 EI & Risk Assessment_course schedule_2020",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "OpjJ54iVFiiahQBGGk09AkUEQRCC7Smb",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 231,
+          "name": "LIU, Hongbin",
+          "rating": 1
+        },
+        {
+          "id": 1090,
+          "name": "YAU, Sin Ting Cynthia",
+          "rating": 1
+        }
+      ],
+      "author": "LukaModric",
+      "date": "Oct 20, 2020",
+      "title": "",
+      "comment_content": "Course Introduction to EIA. The history of EIA.<br />Impacts of population and development on the ecology of Hong Kong<br />EIA in mainland China and other countries – the international perspective<br />The EIA process in Hong Kong<br />EIA Ordinance and Legal Framework. <br />Stakeholders and Public participation<br />Case Study 1: Artificial Bathing Beach in Lung Mei<br />Ecological Impact Assessment I: baseline surveys<br />Ecological Impact Assessment II<br />Ecological Impact Assessment III<br />Fisheries Impacts<br />Guest lecture OR No lecture but Field trip 1 (on Sat 17 Oct)<br />Case Study 2: Sheung Shui to Lok Ma Chau Spur Line (Long Valley)<br />Case Study 3: HK International Airport Third Runway<br />Air quality impact assessment I<br />Air quality impact assessment II<br />Water quality impact assessment I<br />Water quality impact assessment II<br />Case Study 4: Hong Kong – Zhuhai – Macao Bridge<br />Environmental risk assessment - Guest lecture by Prof. Frank L.Y.<br />Lam (Dept. of Chemical and Biological Engineering, HKUST)<br />Culture heritage impact assessment<br />No lecture but Field trip 2 (on Sat 21 Nov)<br />Social Economics aspect<br />After the approval of the EIA report (EM&amp;A)<br />Environmental impact assessment case study OR Q&amp;A",
+      "comment_teaching": "Cynthia: Quite boring but really nice",
+      "comment_grading": "Continuous assessment (case studies and assignments): 50%<br />Final exam (online proctored) : 50%",
+      "comment_workload": "Light",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 2,
+      "comment_count": 2,
+      "attachments": []
+    },
+    {
+      "hash": "BRPtTsABBDMuwaogfVCE2b6XYBoik08N",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 229,
+          "name": "CHENG, Jinping",
+          "rating": 0
+        }
+      ],
+      "author": "envskindasucks",
+      "date": "Jan 02, 2020",
+      "title": "Forget this if it&#039;s not a major requirement",
+      "comment_content": "Course Format: two Lectures (80 minutes each) per week<br /><br />The following topics were included in the syllabus<br />- Course Introduction, historic background of EIA<br />- Overview of EIA process, screening and scoping of a project<br />- Case study introduction and grouping<br />- Contents of EIA Report &amp; environmental baseline studies<br />- Water Quality and baseline monitoring in Hong Kong <br />- Water Quality Impact Assessment<br />- Case study: Water Quality Impact Assessment<br />- Air Quality and baseline monitoring<br />- Air Quality Impact Assessment<br />- The ecology of Hong Kong and International and local treaties<br />- Hong Kong Biodiversity &amp; Ecological survey: Birds of HK (guest lecture)<br />- Ecological Impact Assessment<br />- Online reading and learning, with online reading report<br />- Case study: Ecological Impact Assessment <br />- Noise fundamentals and Noise control in Hong Kong<br />- Noise Impact Assessment<br />- Waste Management in Hong Kong<br />- Waste Management and Implications in EIA<br />- Project Monitoring &amp; Auditing<br /><br />They also provided extra reading materials and references for students and I would recommend reading them or at least skim through the pages. It helps when you do the presentation and the term paper.<br /><br />Despite the richness of the content, the organization was rather confusing and the topics covered were almost too bland. I would even say the information was overloaded, to the point that it&#039;s pleonastic. It was basically of no use to anyone, except for students who REALLY aspire to pursue their careers in this field.",
+      "comment_teaching": "Ridiculous. <br />The professor has a heavy accent with weird breaks and pauses in her speech, which makes it difficult to understand what she&#039;s trying to convey. <br />The content was repetitive, yet useless. She kept stressing the importance of EIA but she almost never mentioned how the predictions and other EIA processes are done properly. Also, the content was too much such that most of the time she skips it and tells us to read them by ourselves.<br />In addition, the instructions given were not clear. Whenever we ask her questions about the report or presentation, she gives us ambiguous answers. <br />Basically, I taught myself everything by reading the technical memorandum and by gathering information from EPD.",
+      "comment_grading": "Under special circumstances in this semester, the course assessments have been adjusted as the school canceled the final exams and adapted an online mode of study.<br /><br />Original course assessment:<br />Term paper for case study: 20% (group work, in groups of 4-5)<br />Presentation for case study: 20% (also group work)<br />Final Exam: 50% (with 10% from online reading report)<br />Continuous assessment (attendance of lectures, group discussions and presentations): 10%<br /><br />Adjusted course assessment:<br />Continuous assessment: attendance: 5%<br />In-class Quiz: 10%<br />Project presentation: 30%<br />Term paper: 30% <br />Online reading report: 15%<br />One more online essay: 10%",
+      "comment_workload": "Heavy workload. Spent way too much time for a single course that doesn&#039;t even deserve it. <br />20-25 pages for the term paper; 30 minutes group oral presentation; 2 online essays with confusing formats; in-class discussions and quiz... Did I mention the reading?",
+      "rating_content": 2,
+      "rating_teaching": 1,
+      "rating_grading": 4,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "FHD4sdDitfo8FhaCHOtEogo67Sl2LTN8",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 229,
+          "name": "CHENG, Jinping",
+          "rating": 0
+        }
+      ],
+      "author": "2535",
+      "date": "Dec 30, 2019",
+      "title": "Heavy workload",
+      "comment_content": "Useful content but not well organised",
+      "comment_teaching": "Boring, just read out the slide<br />There are too much slides on each powerpoint, she has to go through it very quick and sometimes ask us to read by ourself",
+      "comment_grading": "Not transparent<br />Scores of everything are not released<br /><br />Original grading scheme<br />10% Continous assessment (Attendance and quiz)<br />10% Online reading report<br />20% Project presentation<br />20% Mock EIA report<br />40% Final exam",
+      "comment_workload": "Very heavy<br />Writing the mock enviornmental impact assessment report and preparing for the presentation takes a long time<br />Also, there are quite a lot of readings",
+      "rating_content": 2,
+      "rating_teaching": 2,
+      "rating_grading": 3,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

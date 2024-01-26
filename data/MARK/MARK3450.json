@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 850,
+    "subject": "MARK",
+    "code": "3450",
+    "name": "Analytical Techniques for Product Marketing",
+    "description": "This course deals with marketing of new product and product management. The topics include concept generation, concepts testing, and test marketing.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MARK\" data-code=\"2120\" href=\"/review/MARK2120\" target=\"_blank\">MARK 2120</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

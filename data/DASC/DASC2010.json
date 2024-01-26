@@ -1,0 +1,109 @@
+{
+  "course": {
+    "id": 3772,
+    "subject": "DASC",
+    "code": "2010",
+    "name": "Calculus for Data Analytics in Science",
+    "description": "A concise introduction to multivariable calculus using numerical computing software. Fundamental concepts from multivariable calculus with emphasis on applications and calculations using software. Topics from vectors, curves and parametric equations, differentiation in several variables, applications in approximation, optimization and gradient descent algorithm, and integration in several variables.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"1014\" href=\"/review/MATH1014\" target=\"_blank\">MATH 1014</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1024\" href=\"/review/MATH1024\" target=\"_blank\">MATH 1024</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2011\" href=\"/review/MATH2011\" target=\"_blank\">MATH 2011</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2023\" href=\"/review/MATH2023\" target=\"_blank\">MATH 2023</a>",
+    "rating_content": 4.5,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 535,
+        "name": "LEUNG, Shing Yu",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "ILgn8InayVDE6FdB4bG0f6GgXYjePMwG",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 535,
+          "name": "LEUNG, Shing Yu",
+          "rating": 1
+        }
+      ],
+      "author": "BoscoLam1311",
+      "date": "Dec 29, 2023",
+      "title": "Mathematically challenging yet straightforward in terms of computer-literacy",
+      "comment_content": "Basic mathematical concepts including vectors, differential and integral calculus of multivariable. Knowledge ranging from gradients, directional derivatives, arc length of curves, area of surfaces, and volumes of solids. Moreover, techniques to solve problems involving maxima and minima, line integral and surface integral, and vector calculus are required.<br /><br />Conceptualizing the above mathematical computation is moderately difficult to understand. However, it is not necessary to understand every part of the mathematical explanation as all things will be done by the computer through Python and ChatGPT (Manipulation of ChatGPT is part of the syllabus so don&#039;t get surprised)",
+      "comment_teaching": "Lectures:<br />Dr.Leung is cheerful and friendly and is happy to answer any questions, no matter if it is the mathematical concept from the lectures or coding from the assignments. Though I mentioned the mathematical knowledge in this course might be confusing and frustrating to understand, Dr.Leung can deliver the key concepts and most of the codes in Python if you concentrate and take notes during his lectures. <br /><br />It will not be hard to follow as his English is fluent and clear. Eventually, a good grade shouldn&#039;t be hard to achieve.<br /><br /> Tutorials:<br />Mr.Lee helps further explanation of the computation of the mathematical knowledge from the lectures and works them in Python. He will prepare tutorial material in an external Notion which allows the students to follow up, such as different deadlines and the class&#039;s overall marks in a table. It is wise to attend all tutorials as Mr.Lee will teach different computation of mathematical concepts with Python ( which is an important part of this course) so try not to skip the tutorials as part of the code in the assignment will also be explained.<br /><br />Also, all the quizzes will arranged in the tutorials so you must attend them. <br /><br />He responds to emails quickly, even on Sat and Sun, to solve students&#039; questions regarding the code in the assignments or other aspects (most likely to solve the error codes encountered).",
+      "comment_grading": "Although the grading method has never been mentioned, presumably the grading is according to a normal distribution of the class as the TA implied that only a few will get A-range and C-range and most people will end up in B-range.<br /><br />The final exam is comprehensive including those already tested in the midterm exam. However, the focus will be on those topics not covered in the midterm. Quizs, Midterm, and Final are open-booked.<br /><br />ChatGPT is optional for most of the questions and is required for GPT-Question. <br /><br />There will be a special marking scheme for GPT-Question. If the solution from ChatGPT is correct you get full marks for that question (let&#039;s say 10 points). But if the solution from ChatGPT is wrong and you don&#039;t make any corrections to it, you will receive -10 points for that question. If you attempt to correct the solution from ChatGPT but it&#039;s still wrong, you may get partial point or 0 point.<br /><br />Your final score for the course will be calculated based on the following formula,<br /><br />Scheme A = 25% HW + 10% Quiz + 25% MT + 40% Final<br /><br />Scheme B = 25% HW + 10% Quiz + 0% MT + 65% Final<br /><br />Grade = max(Scheme A, Scheme B) <br /><br />Your lowest score from the HW and Quizzes will be dropped.<br /><br />Homework Score (25 marks) (Overall):<br />Mean: 16.841<br />SD: 6.361<br />Median: 18.025<br />My score:22.15<br /><br />Quiz (10 marks) (Overall):<br />Mean:7.531<br />SD:2.878<br />Median:8.75<br />My score:9.25<br /><br />Midterm (30 marks):<br />Mean:12.031<br />SD:6.533<br />Median:14<br />My score:22<br /><br />Final (40 marks):<br />Mean:18.656<br />SD:9.298<br />Median:20.5<br />My score:27<br /><br />Total Score (100 marks):<br />Mean:55.831<br />SD:21.999<br />Median:60.288<br />My score:76.73<br /><br />Grade: A<br /><br />I barely understood the mathematical concepts taught in the lectures but still managed to get an A. I would say attending the lectures and tutorials is crucially important as the techniques (or shortcuts) you need when you are doing your assignments or exams will only be learned during face-to-face lessons. You might learn the concepts and coding techniques by reading the course materials but&nbsp;&nbsp;you would learn better by attending the lectures and tutorials<br /><br />Also, I would say understanding how to code and manipulate ChatGPT is more important than practicing doing math on paper if you aim to get into the A range. No need to search for past papers as this is a new course. There will only be 2 years of past paper and Dr.Leung will probably assign those questions as part of the assignments.",
+      "comment_workload": "-One assignment every 2 weeks (each assignment covers around 5-6 questions from the note), 6 assignments in total (the one with the lowest mark will be dropped)<br /><br />-One quiz every 2 weeks (each quiz covers around 1-3 questions)<br /><br />*The deadline of the Assignment and the Quiz date will be arranged on alternate weeks so there will not be crashes between those two * <br /><br />For details of Midterm and Final&nbsp;&nbsp;please refer to the description from&nbsp;&nbsp;*Grading*",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "pzJIlCX6r6zEL2u6IjP479WXfHYOouD2",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 535,
+          "name": "LEUNG, Shing Yu",
+          "rating": 1
+        }
+      ],
+      "author": "DFG",
+      "date": "Feb 04, 2023",
+      "title": "",
+      "comment_content": "Very interesting topic",
+      "comment_teaching": "The professor is really friendly, his English was good and easy to understand, and he is able to teach the course correctly that if you pay attention to his sayings you will be able to get a good grade.",
+      "comment_grading": "The grading is pretty fair, although the material was hard, the grading will be taken from your score compared to the whole class, so bell curve grading. Overall if you study hard enough and understand the concept, you will get a good grade. <br /><br />Got an A+ because I understood the concept only and did practice questions.",
+      "comment_workload": "- Homeworks to program a code to answer the question<br />- Midterm exam<br />- Final exam<br />no quizzes",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 2,
+      "attachments": []
+    }
+  ]
+}

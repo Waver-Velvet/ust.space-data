@@ -1,0 +1,92 @@
+{
+  "course": {
+    "id": 106,
+    "subject": "CHEM",
+    "code": "4150",
+    "name": "Biomolecular Synthesis Laboratory",
+    "description": "This course provides hands-on experience for students in the biomolecular chemistry option. It focuses on synthesis of molecules of biological relevance, such as small-molecule drugs, peptides, and DNA. For CHEM students under the four-year degree only. Students with minor in CHEM may seek instructor’s approval for enrollment in the course.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2030,
+      1910,
+      1810,
+      1740,
+      1710,
+      1610,
+      1510
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"3550\" href=\"/review/CHEM3550\" target=\"_blank\">CHEM 3550</a>",
+    "corequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"4155\" href=\"/review/CHEM4155\" target=\"_blank\">CHEM 4155</a>",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 10,
+        "name": "CHAN, Dennis Ho Wai",
+        "count": 1
+      },
+      {
+        "id": 1569,
+        "name": "TSE, Veronica Wai Pui",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "DiqEHaYqcjMaudgqpwtksKxExxPvYpcE",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 10,
+          "name": "CHAN, Dennis Ho Wai",
+          "rating": 1
+        },
+        {
+          "id": 1569,
+          "name": "TSE, Veronica Wai Pui",
+          "rating": 1
+        }
+      ],
+      "author": "yo~",
+      "date": "Dec 20, 2023",
+      "title": "Lab Course should not be missed",
+      "comment_content": "This is the required lab course for Biomolecular Chemistry Option.<br />Expt 1(a): Synthesis and Characterization of Platelet Aggregation Inhibitor<br />Expt 1(b): Determination of protein concentration by Spectrophotometric Assay<br />Expt 2(a): Preparation of polyacrylamide gel for electrophoresis<br />Expt 2(b): Electrophoresis of protein: SDS-PAGE<br />Expt 3(a): DNA extraction and DNA synthesis by PCR<br />Expt 3(b): DNA analysis by Agarose gel electrophoresis<br />Expt 4(a): Carbohydrate Chemistry: Protection &amp; Regioselective Nucleophile Substitution<br />Expt 4(b): Stereoselective Synthesis of Glycoside<br />Expt 4(c): Characterization: IR, MALDI-MS, GC-FID &amp; High resolution 1H-NMR",
+      "comment_teaching": "The pre-lab videos are mainly done by Dennis and the in-lab teaching is mainly done by Veronica. The pre-lab video explanations are very clear. The instructors and technicians are very patient in helping us to do the experiments and keen to answer our questions whether related to the lab procedures or lab quizzes. As the class size is small, they can also chit chat with us when we are waiting for the instruments.",
+      "comment_grading": "10% Attendance and Risk Assessment<br />20% Lab Quiz<br />25% Lab Performance<br />10% Product<br />35% Lab Reports<br />4 big experiments in total, submit 4 lab reports, take 4 lab quizzes throughout the semester. Lab quizzes are half on synthesis and half on characterization.<br />My lab reports mostly above mean and lab quizzes half above mean and half below mean. Still manage to get one A- and one A. The grading is very good!",
+      "comment_workload": "Not much workload, I only watch the lab tutorial video twice to prepare for the lab quizzes. Some lab report questions are more difficult than CHEM255X/355X, chit chat with your lab partner will be ok for them. Still the workload is quite light, I think.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

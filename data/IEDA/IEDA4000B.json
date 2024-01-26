@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 4311,
+    "subject": "IEDA",
+    "code": "4000B",
+    "name": "Decision Making with Machine Learning",
+    "description": "This course introduces students to the fundamental concepts, techniques, and applications of machine learning algorithms in the context of decision making. Through a combination of theoretical lectures, hands-on programming assignments, and real-world case studies, students will gain a comprehensive understanding of how machine learning can be leveraged to enhance decision-making in various domains. Topics covered include data-driven decision-making, integration of prediction and optimization, and reinforcement learning. Students will develop practical skills in implementing and evaluating machine learning models using popular frameworks and tools. By the end of the course, students will be equipped with the knowledge and skills to apply machine learning techniques to make informed decisions, optimize outcomes, and navigate the challenges associated with machine learning-enabled decision-making processes.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"IEDA\" data-code=\"3010\" href=\"/review/IEDA3010\" target=\"_blank\">IEDA 3010</a> AND <a class=\"course-link\" data-subject=\"IEDA\" data-code=\"3560\" href=\"/review/IEDA3560\" target=\"_blank\">IEDA 3560</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

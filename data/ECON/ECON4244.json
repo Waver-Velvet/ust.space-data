@@ -1,0 +1,196 @@
+{
+  "course": {
+    "id": 290,
+    "subject": "ECON",
+    "code": "4244",
+    "name": "Economics of Human Behavior",
+    "description": "This course applies economic principles to understand various aspects of human behavior that have usually been considered to be outside the realm of economics. Topics include irrational behavior, crime, marriage, divorce, family, and philanthropy. Both theoretical and empirical analyses will be emphasized.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"ECON\" data-code=\"3014\" href=\"/review/ECON3014\" target=\"_blank\">ECON 3014</a> OR <a class=\"course-link\" data-subject=\"ECON\" data-code=\"3113\" href=\"/review/ECON3113\" target=\"_blank\">ECON 3113</a>) AND <a class=\"course-link\" data-subject=\"ECON\" data-code=\"3334\" href=\"/review/ECON3334\" target=\"_blank\">ECON 3334</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4.5,
+    "rating_grading": 4.25,
+    "rating_workload": 3.75,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 154,
+        "name": "LEUNG, Siu Fai",
+        "count": 4
+      },
+      {
+        "id": 1045,
+        "name": "FOK, Pik Lin",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "X86lnneGD9iNtGV7gC9kkvySIj3BJ4Pd",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 154,
+          "name": "LEUNG, Siu Fai",
+          "rating": 1
+        },
+        {
+          "id": 1045,
+          "name": "FOK, Pik Lin",
+          "rating": 1
+        }
+      ],
+      "author": "Ged",
+      "date": "Sep 11, 2023",
+      "title": "A good course to fullfil major requirement and have fun.",
+      "comment_content": "This course is not a course about Behavioral Economics. It mainly talks about some social and cultural phenomena using knowledge from Siufai&#039;s version of ECON 3113. Siufai had a good control of the class because some of the topics are somehow sensitive today like marriage. Be sure to understand that this is an economics class and not a class for debate and expressing political opinions, then you will find these topics very interesting because it really applies what you have learnt from ECON 3113.<br />But I feel sorry that this course cannot equip you with skills and knowledge which are helpful for further economics studies and economics research.",
+      "comment_teaching": "Siufai is a very kind and experienced professor. He is a good listener. Students can challenge him and discuss the topics about the course materials.",
+      "comment_grading": "Three Homework <br />(Maybe 2 according to the time of final exam)<br />An essay, can be a group work<br />Final Exam (the most important one)<br />Participation in lecture and tutorial (trivial)<br /><br />Only scores for first 2 hw are released, so I don&#039;t know the distribution for final grade. But I can tell the exams are really similar to the style of Siufai&#039;s version of ECON 3113. So honestly, BSc students who have taken Siufai&#039;s 3113 may have some advantages. <br />The final exam is a very extremely difficult and lengthy one. Please be prepared mentally and physically. Nobody can finish the final exam in 3 hrs (at least this is the case in this semester). You can see the confusing faces of students when Siufai and the TA announced the exam is over and started to collect exam papers. No Cheatsheet is allowed.<br />My advice: have a nice sleep on the night before the exam, review carefully, please don&#039;t do any entertainment before the exam, be calm and meticulous.<br />I got A in the end according to the strategies mentioned above.",
+      "comment_workload": "It depends on how much you want to pay.<br />If you want to do a good research and write a strong essay, then the workload can be tremendous because time is quite tight for undergraduate students to write an essay supported either by econometrics proof or real data collected from interviews and investigations.<br />The final exam may clash with the essay deadline. Please arrange your time schedule so you have enough time to review the exam and write the essay.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "gntfPnpnpVM3mOUb31wG1SLzdyDJaERc",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 154,
+          "name": "LEUNG, Siu Fai",
+          "rating": 1
+        }
+      ],
+      "author": "JNC",
+      "date": "Jun 22, 2023",
+      "title": "happy ECON course",
+      "comment_content": "Use economic model to explain practices like marriage, family etc",
+      "comment_teaching": "prof is the BEST!!!!<br />You can definitely see his effort in making the course more interesting to students. The topics he chooses to explore with us are relevant and interesting. His lectures are NOT BORING at all!!!!!<br />He will always give fun facts and tell jokes during lectures.",
+      "comment_grading": "fair ~ good",
+      "comment_workload": "Fair ~ Light for a 4-credit course.<br />The essay was a bit messy but prof is lenient and the point is showing your effort.<br />The exam is not difficult too, but it does require you to have good understanding about course materials",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "DCwAnxkqjaLpvsMnnRLmJqFYu0IV0rrE",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 154,
+          "name": "LEUNG, Siu Fai",
+          "rating": 1
+        },
+        {
+          "id": 1045,
+          "name": "FOK, Pik Lin",
+          "rating": 1
+        }
+      ],
+      "author": "ci_5z2",
+      "date": "Jun 23, 2022",
+      "title": "教到成個HUMA course咁，派grade都成個HUMA course咁",
+      "comment_content": "簡單啲尼講就係用Econ theory去解釋人嘅行為,例如點解女人要減肥、點解人要結婚,動物點樣optimize自己生存嘅環境等等<br />以下為syllabus節錄:<br />Week 1 (Feb 7, 9): Introduction and Rational Behavior<br />Week 2 (Feb 14, 16): Irrational Behavior, Animal Behavior<br />Week 3 (Feb 21, 23): Methodology of Positive Economics, Suicide<br />Week 4 (Feb 28, Mar 2): An Economic Analysis of Chinese Family Customs<br />Week 5 (Mar 7, 9): Chinese Family Customs, Economics of Marriage<br />Week 6 (Mar 14, 16): Economics of Dating and Marriage<br />Week 7 (Mar 21, 23): Benefits of Marriage<br />Week 8 (Mar 28, 30): Marriage Market, Types of Marriage<br />Week 9 (Apr 4, 6, 7): Polygamy and Monogamy,&nbsp;&nbsp;India&#039;s Dowry Problems<br />Week 10 (Apr 11, 20, 21): Divorce<br />Week 11 (Apr 25, 27, 28): Divorce<br />Week 12 (May 4): Economics of&nbsp;&nbsp;Crime and Punishment<br />Week 13 (May 11): Becker&#039;s Model of Criminal Behavior",
+      "comment_teaching": "佢似係用ECON嘅model去解釋一啲HUMA會學到嘅習俗同行為，例如婚姻、罪行，特別啲嘅有童養媳、紥腳，我有時會以為自己聽緊HUMA嘅內容<br />佢課程嘅節奏大概係用幾堂時間解Econ theory, 例如rational behavior, cost-benefit, utitlity,呢啲3113,3133,3014有學過嘅，然後就會用幾堂講實例，例如用CBA分析童養媳，用3113嘅utility analysis去分析結婚嘅好處，再用1堂講著名例子，例如係一夫多妻嘅名人、信仰等<br />佢習慣一步一步去解內容，而唔似某啲prof講完theory唔講example，或者theory同application冇脈絡，只要你有心聽,你一定會覺得佢講嘅有趣，而且比絕大部分ECON course實用，至少學完你可以話番比人聽你學咗咩，一啲都唔虛<br />呢個course要寫paper，雖然佔分唔多，但佢會肯比課外時間同你consult，你可以搵佢傾成個鐘，佢唔介意，甚至如果你嘅topic引發到佢興趣，佢會好開心喺堂上同大家分享",
+      "comment_grading": "佢第一堂講過grading based on effort，而佢唔係得個講字，因為佢真係好好grade，好grade到我懷疑佢會俾department鬧<br /><br />Class participation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3% <br />佢話想同學上堂多啲發言，但3%其實唔係好明顯，我估大多數人都會有1-2%，甚至可能全部都滿分<br />當然，佢鐘意同學開cam，開cam可能高分啲，因為佢真係會記得你叫咩名，唔係全名，而係佢睇你全名會記得你preferred name<br /><br />Tutorial participation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1% <br />其實全個sem得一堂tutorial，其餘tutorial timeslot都係變咗lecture，我諗佢parti係based on attendance, 頭2堂嘅小survey，9成人都有分<br /><br />Three homework assignments&nbsp;&nbsp;&nbsp;18%<br />3份功課嘅題目數字題其實唔難，因為notes有曬template，佢可能會改啲數字，不過一定要上堂先明佢份notes嘅flow<br />難嘅反而係文字題，因為你唔知佢點俾分，而且marking scheme只係good sample集成，所以我諗係寫得詳細，argument+example就最好，例題: 女人點解比起男人更鐘意洗手<br />HW1: 92/100 (Mean: 82.36, High: 95, Low: 0)<br />HW2: 97/100 (Mean: 93.02, High: 100, Low: 40)<br />HW3: 92/100 (Mean: 82.23, Hight:100, Low: 0)<br /><br />Essay&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15%<br />完全自由發揮，你想寫咩就寫咩，根據你生活中見到嘅大小事物用ECON theory去解釋，最好做個regression analysis，佢幾鐘意<br />Sample Topics:<br />Economics of Reincarnation <br />An Investigation into Pirated CD selling Behavior <br />Where the &quot;MK guys&quot; go? <br />Economics of Languages in Hong Kong <br />The Role of Virginity in Chinese Marriage Market <br />佢要求至少10版紙，會俾曬instructions你，會同你consult(只要你肯約)，有個唔計分嘅present(要搵日假期present，可能浪費少少時間)，4分鐘，講你嘅draft，佢再俾comment，最後考曬試先交 (31/5)<br />你可以用尼fulfill ECON4670，我諗俾起其他ECON paper易好多好多，因為你可以揀貼地嘢寫<br />Me: 85/100 (Mean: 82, High: 95, Low: 20)<br /><br />Final exam&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;63%<br />3個鐘，Open Book，出咗180分嘅題目，好chur，同assignment有啲唔同嘅係佢比較少計數，我冇用過計數機，主要係prove and explain，有一條特別深刻，佢先問根據某個經濟學家，偷嘢有咩social cost，再問離婚有咩social cost，最後叫你argue既然兩者都有social cost，即係佢會損害社會，咁點解離婚唔係犯法嘅行為，點解唔洗ban離婚。呢條講嘅唔係淨係要你記起邊個學家講過crime and social cost，而係要你反思社會上有咩行為係同Econ嘅邏輯有矛盾，好有深度。第一次覺得做考試卷會學到嘢，而會深深記住。<br />Me: 123/180 (Mean: 117.86, Median: 121, SD: 16.32, High: 152.5, Low: 70)<br /><br />Final Grade: A-<br />我所有大%嘅tasks都係僅僅過mean，本身未出分先出grade已經覺得好grade，因為以為自己得B/B+，以往所有ECON course我都係B range，出grade嚇一嚇，出埋分再嚇三嚇，突然覺得佢真係知我有努力過。有時ECON真係睇天資，但如果佢見到你係有心做，佢都會肯靚grade，多謝SF Leung!<br />BTW根據觀察Mean大概係B+，信就信，唔信就祝你好運",
+      "comment_workload": "你要做嘅嘢就係<br />1. 上堂: 跟足notes，佢一講數學嘢就抄，因為比較難明，一講經濟學家就簡低，因為考試考好多theory(文字上)，佢好鐘意討論，好歡迎人challenge佢，佢唔係固執嘅人，肯聽<br />2. 做功課: 每1個月1份，要用3-4日做，主要係做功課做到買大細咁成日唔知寫嘅答案合唔合佢心意，不過係TA改，而Astor鐘意人解釋多啲，所以盡你所能寫啦<br />3. 溫書: 其實你有上佢堂，考前睇番1-2次係應該可以，因為open book，所以可能要準備一份雞精應考<br />4. 考試: 2個字，加油。份卷水蛇春咁長，仲要考8半，真係想死<br />5. Essay: 一定一定要寫自己鐘意嘅嘢，咁先寫得爽啲，可能都會高分啲掛",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 8,
+      "vote_count": 8,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "YrwxblyIbVvpinMQaBd7ybQL7t831coo",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 154,
+          "name": "LEUNG, Siu Fai",
+          "rating": 1
+        }
+      ],
+      "author": "wen moon ser",
+      "date": "Jun 02, 2021",
+      "title": "",
+      "comment_content": "睇到個course title 可能十個有九個會以為呢個course係講behavioral economics。但係，呢個course並唔係關於behavioral economics。Behavioral economics 主要會引用好多psychology嘅theory入economics model去解釋現象，但呢個係停留喺economics 嘅rationality入面。所以呢個course其實只係 applied microeconomics，只不過係focus喺人嘅action上面。如果你有讀過Prof. Leung嘅3113，呢個course會似係佢個3113嘅純application版。<br /><br />而喺眾多唔同唔同嘅action入面，Prof. Leung 主要係會教Family 同 marriage。所以其實呢個course應該係要叫 Economics of family and marriage，只係後面講多左少少crime。如果你有讀過佢嘅3113，應該對佢對marriage嘅觀點角度唔陌生，例如marriage只係insurance contract。呢個course會讀得更deep更details only。數學喺呢個course係極少出現，最多都係計下first order condition，更重要係個economics intuition。<br /><br />Course Content:<br />1. Introduction and Rational Behavior<br />2. Irrational Behavior, Animal Behavior<br />3. Methodology of Positive Economics, Suicide<br />4. An Economic Analysis of Chinese Family Customs<br />5. Reasons of Marriage<br />6. Benefits of Marriage<br />7. Marriage Market<br />8. Types of Marriage<br />9. Polygamy and Monogamy<br />10. India&#039;s Dowry Problems<br />11. 100 Million Missing Women<br />12. Economics of Divorce<br />13. Economics of Crime and Punishment<br />14.&nbsp;&nbsp;Becker&#039;s Model of Criminal Behavior",
+      "comment_teaching": "Prof. Leung 教書會好似講故仔咁，佢會知好多例子同故事去帶你入個topic。之後就會問好多問題引起討論。呢個course啲問題好多時都係生活中常見但你從來無諗過問點解嘅問題，更加唔會諗到要用economics去解答呢啲問題。例如佢會問點解以前結婚後係女方去男方屋企住？點解結婚男方要俾禮金女方？點解仔女要跟爸爸姓？ 佢上堂模式都幾interactive，唔想討論就最好唔好讀呢個course。我覺得呢啲問題都相對open-ended，討論先係最多input嘅方法。",
+      "comment_grading": "一個final，一份essay，三份assignment。考試主要係考IQ題，計數係佔好少好少。佢會俾一啲case你，之後問點解會咁？或者叫你用economics嘅方式interpret一啲日常生活嘅事，例如結婚誓言。如果有上堂聽足，捉到用咩方向去諗都唔算太難嘅。3份 assignment 唔算長但要俾啲時間思考/搵下資料，佢好興問啲奇怪問題，例如問你點搣蕉，點先係正確嘅方法？你要睇得穿佢想問啲咩之後再寫一個economics answer俾佢。Essay就係每人諗一個topic，要有趣又要無人做過，之後你用啲economics model做analysis同埋run下regression，同埋做literature review，完左成個exam period之後交，總共8-10 pages，可以用嚟做埋4670。<br /><br />Grading Scheme:<br />participation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />Tutorial participation&nbsp;&nbsp;&nbsp;&nbsp;1%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />assignments&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />Essay&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15% <br />Final&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;63%",
+      "comment_workload": "我覺得workload還好嘅，啲assignment一日之內其實都做得晒，同埋佢得三份。Final平時有聽書其實都唔洗點溫。但佢都幾多paper要睇，但睇唔睇唔會影響你識唔識做final，所以就自己揀。最辛苦應該係篇essay，recommend早啲開始做，邊做邊問Prof. Leung advice。整體workload就一般般，唔太輕又唔太重。",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 11,
+      "vote_count": 11,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

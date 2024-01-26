@@ -1,0 +1,78 @@
+{
+  "course": {
+    "id": 2713,
+    "subject": "IEDA",
+    "code": "5170",
+    "name": "Production and Operations Management",
+    "description": "The course introduces concepts, principals and techniques related to the design, planning, management and improvement of both manufacturing and service operations. Topics include demand forecasting and estimation, inventory management, production control and process improvement, queueing systems, procurement and supply chain management.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2010,
+      1910,
+      1810
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ISOM\" data-code=\"5700\" href=\"/review/ISOM5700\" target=\"_blank\">ISOM 5700</a>",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 354,
+        "name": "LIU, Qian",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "fEGLbzmkpKnZv0DOHCVO5HhTdWqm4BAE",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 354,
+          "name": "LIU, Qian",
+          "rating": 1
+        }
+      ],
+      "author": "blue rabt",
+      "date": "Nov 16, 2023",
+      "title": "Good Class",
+      "comment_content": "Prof Liu is a very gentle teacher. The content is closely related to operation management.",
+      "comment_teaching": "Nice content. Inventory management, Ss policy, dynamic programming, which will help us to explore the om field.<br /><br />Suggestion: some notations are confusing.",
+      "comment_grading": "Neither too high nor too low. I got A. Don&#039;t know whether there is any A plus.<br /><br />Midterm and final term has a proper difficult degree. Neither too difficult nor too easy. Around 70 on average.",
+      "comment_workload": "easy. Several homework with midterm and final term. <br />Homework is related to several classical papers.<br />No programming homework.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

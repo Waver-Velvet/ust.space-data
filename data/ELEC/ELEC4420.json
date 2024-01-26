@@ -1,0 +1,119 @@
+{
+  "course": {
+    "id": 1245,
+    "subject": "ELEC",
+    "code": "4420",
+    "name": "Analogue Integrated Circuits Design and Analysis",
+    "description": "Multiple-stage operational amplifiers, frequency response, feedback analysis, stability and compensation, Slew rate, advanced amplifier design techniques, analog VLSI building blocks.",
+    "categories": [],
+    "website": "http://course.ee.ust.hk/elec4420",
+    "credits": 4,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      1730,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"3400\" href=\"/review/ELEC3400\" target=\"_blank\">ELEC 3400</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 2.5,
+    "rating_grading": 4.5,
+    "rating_workload": 4,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 170,
+        "name": "YUAN, George Jie",
+        "count": 1
+      },
+      {
+        "id": 183,
+        "name": "LUONG, Howard Cam",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "qRaszPbiMF294a7fn1YjWBVzKC1uGynK",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 170,
+          "name": "YUAN, George Jie",
+          "rating": 1
+        }
+      ],
+      "author": "A random name",
+      "date": "Jan 03, 2024",
+      "title": "",
+      "comment_content": "Just advanced ELEC 3400 (maybe 10 times harder with this prof), content is not extremely hard, but become harder under his teaching. Especially when he assumed that we knew everything.<br /><br />The ppt slides are simple, textbook will be more helpful. <br /><br />L1: CMOS Integrated circuits<br />L2: Analog IC chip process<br />L3: CMOS device models and basic amplifiers<br />L4: Frequency response <br />L5: Feedback<br />L6: Stability and compensation <br />L7: Two-stage OPAMP design<br />L8: Voltage reference <br />L9: Oscillators",
+      "comment_teaching": "Razavi is the best teacher ever. You will learn from the book more than from lessons. Going to lecture is meaningless, maybe you want to find a place to take some rest, you can attend the lecture, ensure you can fall asleep in 15 mins",
+      "comment_grading": "Idk how the grading works, cuz the ta only give you the mark, but never talk about which part you did wrong, you have to figure it out by yourself. But he gives high marks, I suppose. And the final project is quite straightforward, easy to get good grade.",
+      "comment_workload": "5 assignment, midterm exam, individual final project<br /><br />The final project is easy if you finish all assignments<br />No need to revise for midterm exam, if you know the knowledge , then you will know how to do during the exam",
+      "rating_content": 4,
+      "rating_teaching": 1,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "xS0lH9px5STK238r7NqncgSlRvgTZJMN",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 183,
+          "name": "LUONG, Howard Cam",
+          "rating": 1
+        }
+      ],
+      "author": "Klcvv",
+      "date": "Jan 24, 2022",
+      "title": "",
+      "comment_content": "1: Frequency Response<br />2: Feedback Analysis <br />3: Stability and Compensation <br />4: Advanced Amplifier Design <br /><br />More advanced content from ELEC3400. And some new contents",
+      "comment_teaching": "Same as ELEC3400.",
+      "comment_grading": "If you just do what you did in ELEC3400, I think you will get the same grade in ELEC4420.",
+      "comment_workload": "4 homework<br />1 midterm exam<br />1 final project<br /><br />Just similar to ELEC3400.<br /><br />About the final project, I think you can apply the same circuit which you used in ELEC3400 final project, it almost does the same requirement in 3400, but also has some new requirements.<br /><br />Overall, just as same as ELEC3400.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

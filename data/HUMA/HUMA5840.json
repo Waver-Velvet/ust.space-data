@@ -1,0 +1,114 @@
+{
+  "course": {
+    "id": 2290,
+    "subject": "HUMA",
+    "code": "5840",
+    "name": "Chinese Buddhism",
+    "description": "This course provides a critical survey of the basic problems and ideas of various schools of Chinese Buddhism based on an analytical study of their writings. It includes an exposition of the characteristics of Chinese Buddhism through a comparative study with Indian Buddhism.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2030,
+      1710
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4.5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 326,
+        "name": "NELSON, Eric S",
+        "count": 1
+      },
+      {
+        "id": 341,
+        "name": "WONG, Simon Man Ho",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "0R4D26gmdtscmVwCPxYk6PPdJVbmDiw1",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 326,
+          "name": "NELSON, Eric S",
+          "rating": 1
+        }
+      ],
+      "author": "Wai99",
+      "date": "Jan 19, 2022",
+      "title": "",
+      "comment_content": "课程规划的很完善了<br />需要什么材料都能找到<br />本来好像还有演讲但是这学期没有 好像只有学哲学的需要做演讲",
+      "comment_teaching": "教授的课程安排其实一个人就能讲整整一节课了 <br />教授很佛系 人很好",
+      "comment_grading": "尝试跟教授交流可能会更好因为很少会有人跟教授沟通<br />论文分了十分给poposal只要不是特别跑题等于十分拿到手了<br />提前写poposal也可以让论文那么大分值别跑题",
+      "comment_workload": "不强制要求上课参与讨论和发言 <br />期中一篇论文期末一篇论文<br />每篇论文会有10分是poposal分让教授看看你的想法怎么样 再去准备论文<br />没有额外作业和任务",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "YzwysozNp8g8JahUMr3rVSzNorguxymp",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 341,
+          "name": "WONG, Simon Man Ho",
+          "rating": 1
+        }
+      ],
+      "author": "Laricto",
+      "date": "Mar 18, 2021",
+      "title": "",
+      "comment_content": "This course aims at a survey of the fundamental issues in Chinese Buddhism. Through the selection and discussion of some important texts of significant schools of Chinese Buddhism, namely, the Three Treatise school, the Consciousness-only school, the T`ien-tai school, the Hua-yen school, the Ch`an school, and some philosophical debates in the modern period, students are expected to familiarize themselves with the main doctrines and arguments of the Chinese Buddhist philosophy. It is also expected that a comprehensive understanding of the selected materials will provide a solid foundation for students to have further research on the subjects concerned.<br />吉藏，《中觀論疏》選<br />僧肇，＜物不遷論＞<br />吉藏，《二諦章》及《三論玄義》選<br />......",
+      "comment_teaching": "老师很耐心，教的很好，语速也很合适，人真的超级超级好！",
+      "comment_grading": "给分可以",
+      "comment_workload": "pre一次，外加一篇期末essay。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

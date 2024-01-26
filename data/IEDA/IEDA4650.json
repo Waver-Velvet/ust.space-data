@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 3178,
+    "subject": "IEDA",
+    "code": "4650",
+    "name": "Engineering Psychology",
+    "description": "Introduction to cognitive engineering and human performance. Perception, psychophysics, attention, time-sharing, workload and their implications on human performance.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1930
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 3,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 345,
+        "name": "GOONETILLEKE, Ravindra Stephen",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "YUJXwblm7HtzOgGsJjvHqD7ncVuzc1zV",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 345,
+          "name": "GOONETILLEKE, Ravindra Stephen",
+          "rating": 1
+        }
+      ],
+      "author": "(-^_^-)",
+      "date": "May 28, 2020",
+      "title": "READ BOOKS !!!!",
+      "comment_content": "Engineering Psychology:<br />1.Introduction<br />2.Scientific Investigation<br />3.Perception and Psychophysics<br />4.Signal Detection Theory<br />5.Vigilance and Information Theory<br />6.Spatial Perception<br />7.Memory, Learning, and Training<br />8. Manual Control<br />9.Action Selection<br />10.Attention, Time-Sharing, Workload<br />11.Stress and Human Error<br /><br />The content is a little bit too much for one semester, Prof will not cover everything, so you need to read the whole book by yourself out of class, which can take some time.",
+      "comment_teaching": "The prof is good indeed, but the book seems to be more useful since there is a lot of knowledge in the quiz that prof. will not mention in class or ppt because of the time limitation. So the teaching actually doesn&#039;t really matter. You can simply just read the whole book. I called this blended learning which I really do not like.",
+      "comment_grading": "Reasonable. I didn&#039;t spend time reading books so I have a low grade in quizzes. and result in a low grade. But it is still reasonable.",
+      "comment_workload": "The workload is a little bit big. (Probably for all Ravi&#039;s class). Basically revision for the quiz (Every class), and the lab report. You need to learn Processing (Java) coding in the first few weeks. Despite the 2 hour lecture. Labs will take around 3 + 2 hours and 2 hours left per week for reading books.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

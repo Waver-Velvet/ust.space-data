@@ -1,0 +1,115 @@
+{
+  "course": {
+    "id": 337,
+    "subject": "ELEC",
+    "code": "4210",
+    "name": "Control System Design",
+    "description": "In the lectures, the following topics will be covered: time-domain and frequency-domain system modeling and analysis, optimal control, robust control, computer aided control designs, digital control. In the experiments, the students will be asked to design and implement controllers for a magnetic suspension system, an inverted pendulum system, and a tower crane system.",
+    "categories": [],
+    "website": "http://course.ee.ust.hk/elec4210",
+    "credits": 3,
+    "semesters": [
+      2130,
+      2030
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"3200\" href=\"/review/ELEC3200\" target=\"_blank\">ELEC 3200</a> OR <a class=\"course-link\" data-subject=\"MECH\" data-code=\"3610\" href=\"/review/MECH3610\" target=\"_blank\">MECH 3610</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 1.5,
+    "rating_teaching": 1.5,
+    "rating_grading": 2,
+    "rating_workload": 2,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 193,
+        "name": "QIU, Li",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "IKeGmYpTmdKYWaILQZ8hA7Hy257bdXmX",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 193,
+          "name": "QIU, Li",
+          "rating": 1
+        }
+      ],
+      "author": "Wai Yan",
+      "date": "May 23, 2022",
+      "title": "4210 is actually my course CGA dropping from 4 to 0 by the month",
+      "comment_content": "The content is based off the textbook which the professor wrote himself, but class-time made it feel like he was reading the textbook with us as he taught.<br />(Chapter 1: Overview)<br />Chapter 2: Modeling and Simulation<br />3: Stability and Stabilization<br />4: Time-Domain Analysis<br />5: Root-Locus Method<br />6: Frequency-Domain Analysis<br />7: Classical Design in Frequency Domain<br />8: Optimal Control<br />9: Robust Control<br />It&#039;s the same textbook as ELEC3200, so if you took that course and are planning to take this one; firstly, don&#039;t, and secondly, do start reading the textbook to help yourself out.",
+      "comment_teaching": "I&#039;ll start off by saying this professor probably is the most knowledgeable man in this world to teach this course. I&#039;m quite sure that he really knows this subject through and through. However, the nicest way to put it perhaps is that his brain works much faster than his mouth. Some stutters here and there, and some minute long pauses of nothing where he&#039;s just looking at the slides. It&#039;s a 3 hour long lecture so you need the focus of a sniper to sit there (online). If you were unable to focus, then good luck, because most of the materials covered in the course cannot be found online easily; you can choose whether to spend 3 hours online looking for help or spend 3 hours looking at the textbook and slides for help, either way, you&#039;re spending 3 hours to finish any question.",
+      "comment_grading": "There were only 5 assignments and a mini project (weighed all the same grade-wise) to do. Hopefully, you&#039;re already some form of a master with MATLAB and SIMULINK because half the homework questions involved those.",
+      "comment_workload": "There&#039;s only 5 assignments and a mini project (weighed all the same grade-wise) to do, but boy I hope you&#039;ve been paying attention in class. Whether it be my stupidity or whatever other reasons, the homework is quite hard to do. Like a couple days for two questions kinda hard. I don&#039;t have that time, especially when I have my other courses and FYP to work on.<br />Trying to search for help online resulted in a lot of research papers, so don&#039;t bother searching the homework online. <br />Additionally, the project was released approximately one week before it is due, DURING FINALS PERIOD. I suffered greatly is an understatement because I had another final on the same day the project is due.",
+      "rating_content": 2,
+      "rating_teaching": 2,
+      "rating_grading": 2,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 2,
+      "attachments": []
+    },
+    {
+      "hash": "XeDVSKrIyRQMHZf41umOosQSRHKi3BFx",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 193,
+          "name": "QIU, Li",
+          "rating": 0
+        }
+      ],
+      "author": "AceOfSpades",
+      "date": "May 10, 2022",
+      "title": "Trap course, don&#039;t take.",
+      "comment_content": "The syllabus is poorly organized as the Canvas page was a blank canvas (no pun intended) with nothing that would explain the course content in detail. However, the so-called textbook includes the following chapters:<br /><br />- Modeling and Simulation<br />- Stability and Stabilization<br />- Time-Domain Analysis<br />- Root-Locus Method<br />- Frequency-Domain Analysis<br />- Classical Design in Frequency Domain<br />- Optimal Control<br />- Robust Control<br /><br />Introduction to Feedback Control (Li Qiu, Kemin Zhou) is the main and only textbook used in this course. According to the professor, 50% of Chapter 8 and 90% of Chpater 9 are not well-written, and thus need to be revised at the end of the semester.<br /><br />This is the supposed course syllabus, but most of the assignments requires you to learn MATLAB and SIMULINK on your own from the crappy documentation online.",
+      "comment_teaching": "It seems that the professor was not well-versed in the textbook he wrote as well as the lecture notes.<br /><br />There is only one lecture per week, and 2 hrs 50 mins per lecture. Since lectures are conducted online, you can hear him talking very well in a rather slow manner, but he stutters a lot, often making it difficult to understand.<br /><br />What ultimately drives me into writing this review is Homework 5, in which we were told to wait for him for a full week to update one of the chapters: <br /><br />&quot;This part of the textbook is not well written at this moment, probably you can wait until next week for my updated chapter 9 of the textbook.&quot;<br /><br />What else are we supposed to refer to if some of the theories taught exclusively in the textbook isn&#039;t even accurate?<br /><br />TLDR: If you don&#039;t know how to teach, don&#039;t become a lecturer.",
+      "comment_grading": "There were 5 pieces of homework in total, with a final project which will ask you to design a control system. The grading of all 6 assignments are evenly distributed. Some of the later problems will be associated with previous homework, as shown in the assignment attached here. Only the solutions for the first two pieces of homework were released.<br /><br />The professor is obsessed with problems involving MATLAB and SIMULINK. You might want to familiarize yourself with both programming languages before the course. Only vague concepts and theories were taught in lectures, and it can be difficult to search for related materials online on using SIMULINK in particular.<br /><br />Grades have not been finalized at the time of writing this review. Only the scores of the first three out of five HW assignments were released by the end of the semester.",
+      "comment_workload": "As mentioned in the grading section, there were only 5 pieces of homework in total as well as a final project which will ask you to design a control system. You will be given 2 weeks to complete each homework. Although the workload doesn&#039;t sound too heavy, many of the problems involves SIMULINK which is taught nowhere in lectures, so it may eat up most of your time by just searching up on the web.<br /><br />The deadline of the last homework is set during the final exam period, and is overlapping with the &quot;project&quot;, which is not yet released on the final day of the semester and can be finished in one day according to him. I am fortunate to have only one final exam in the semester which also happens to be after said deadline, but it can be time-consuming for others who want to prepare themselves for other courses.<br /><br />Update: I&#039;m changing this from C to a solid D because of the &quot;mini-project&quot;. It was scheduled right at the last week of the final exam period. I struggle to understand why the professor would think we have all the time to focus on his course and not others.",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 2,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 5,
+      "comment_count": 4,
+      "attachments": [
+        {
+          "key": "HUUDu7pmSklalblnX2lF6YbOeSMdBzxh",
+          "name": "hw5",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

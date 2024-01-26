@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 1466,
+    "subject": "SOSC",
+    "code": "2960",
+    "name": "Educational Psychology",
+    "description": "The course introduces students to the field of educational psychology, examining the theories, research methods, and research findings on human development, learning, and instruction. Topics covered include cognitive, language and literacy, moral, and socioemotional development; effective teaching and learning strategies; individual differences in learning; assessment of learning; and broader educational issues currently relevant in the Hong Kong society. The course is appropriate for those who are interested in a career in teaching, but also for those who are interested in understanding how development occurs across the lifespan and becoming more efficient learners, both insider and outside of the classroom.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1730,
+      1530
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"SOSC\" data-code=\"1960\" href=\"/review/SOSC1960\" target=\"_blank\">SOSC 1960</a> OR <a class=\"course-link\" data-subject=\"SOSC\" data-code=\"1980\" href=\"/review/SOSC1980\" target=\"_blank\">SOSC 1980</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 658,
+        "name": "CHEN, Eva E",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "ImbNpjQC9MT5IQblfEQ54Q0CZkwE8ve6",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 658,
+          "name": "CHEN, Eva E",
+          "rating": 1
+        }
+      ],
+      "author": "Toxick",
+      "date": "Jun 27, 2018",
+      "title": "Eva is the best",
+      "comment_content": "Topics covered: <br />Cognitive and Language Development <br />Socioemotional and Moral Development <br />Understanding and Addressing Bullying <br />Behavioral Theories of Learning<br />Reinforcement and Punishment in Education<br />An Effective Lesson<br />-------------------------------------------------<br />Motivating Students to Learn<br />Constructivist Approaches to Instruction<br />Standardized Testing and Assessments<br />Grouping and Differentiation<br />Learners with Exceptionalities<br />Teaching Children with Autism<br />Student Diversity<br />Implementing Multicultural Education<br /><br />The content are interesting if you are keen in learning how to be a better educator and human-being in general. These are essential knowledge for teachers and parents to better understand different ways in teaching youngsters. There&#039;s no one-size-fit-all solution in education. The point is to learn to step in the a child&#039;s shoes and think on their side. And never be a selfish teacher or parent who seldom question their doings in teaching.",
+      "comment_teaching": "If you have taken Eva&#039;s course before, you will like her. How the course is taught is basically the same as mentioned in the top course review of SOSC1960. As an instructor who teaches education related topics, Eva planned out the lessons really well. You will see how see applies the knowledge she teaches you.",
+      "comment_grading": "Grading:<br />5% Class Participation<br />20% + 20% Midterm &amp; Final<br />20% Paper Assignment<br />35% Individual Project<br /><br />Eva will tell you when will there be a class participation activity. There&#039;s nothing to worry about.<br /><br />The two exams contains only MC questions. Make sure you understand the topics well. Try to connect the PPT points and form a story to test your understanding. And make sure you take notes on the videos shown in class. There will be questions related to them.<br /><br />The paper assignment is like a giving a consultation to a teacher on how to approach his/her students. You need to write 500 word essay with proper citations. The basic way of answering is to include the key terms taught in class and explain how they are related to your issue.<br /><br />The individual project would be the most hardcore part of the course. You need to plan a 80-minute lesson by writing a course outline, a post-learning activity outline and a short paper justifying your plans. It&#039;s fun in some sense because you can choose to teach whatever you like. You only have to write 1 page each for the course and post-learning activity outline. These are easy and they count 15%. The short paper is the main part of the project. You have to write 500 words again and it counts 20%.<br /><br />Exam 1 below 0.5 SD, Exam 2 below 1 SD<br />Above 2 SD in paper assignment, mean in project<br />Overall B+, so the grading is awesome!",
+      "comment_workload": "I did the assignment and project the day before the deadlines. And I still manage to score above mean. For the exams, the content are not accumulated. You only have to study half of the PPTs for each exam.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

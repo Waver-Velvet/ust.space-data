@@ -1,0 +1,1074 @@
+{
+  "course": {
+    "id": 143,
+    "subject": "CIVL",
+    "code": "2160",
+    "name": "Modeling Systems with Uncertainties",
+    "description": "Identification and modeling of non-deterministic problems in civil engineering, and the treatment thereof relative to engineering design and decision making. Development of stochastic concepts and simulation models, and their relevance to real design and decision problems in various areas of civil engineering.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"1014\" href=\"/review/MATH1014\" target=\"_blank\">MATH 1014</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1024\" href=\"/review/MATH1024\" target=\"_blank\">MATH 1024</a>",
+    "exclusions": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2411\" href=\"/review/MATH2411\" target=\"_blank\">MATH 2411</a>",
+    "rating_content": 3.54,
+    "rating_teaching": 3.58,
+    "rating_grading": 4.08,
+    "rating_workload": 3.81,
+    "review_count": 26,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1171,
+        "name": "LEUNG, Anthony",
+        "count": 17
+      },
+      {
+        "id": 65,
+        "name": "HU, Wei Chung",
+        "count": 15
+      },
+      {
+        "id": 66,
+        "name": "WANG, Jui Pin",
+        "count": 6
+      },
+      {
+        "id": 1121,
+        "name": "WANG, Jui-pin",
+        "count": 2
+      },
+      {
+        "id": 609,
+        "name": "CHEUNG, Man Fung",
+        "count": 1
+      },
+      {
+        "id": 1635,
+        "name": "ZHANG, Jize",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "pbOCbdGffaGwahnjLUuqLRSlZd7l0Vkb",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1171,
+          "name": "LEUNG, Anthony",
+          "rating": 1
+        },
+        {
+          "id": 1635,
+          "name": "ZHANG, Jize",
+          "rating": 0
+        }
+      ],
+      "author": "lmhayden",
+      "date": "Jan 10, 2024",
+      "title": "",
+      "comment_content": "Statistics stuff<br /><br />Part I (Weeks 1 – 6) taught by Anthony<br />1. Uncertainty in Engineering<br />2. Fundamentals of probability models<br />3. Analytical models of random phenomenon<br />4. Choice of probability models<br />5. Functions of random variables<br />Part II: (Weeks 7 – 12) taught by ZHANG, Jize<br />6. The Central Limit Theorem<br />7. Interval estimation<br />8. Hypothesis testing<br />9. Regression and correlation analysis<br />10. Monte Carlo simulation",
+      "comment_teaching": "Anthony&#039;s teaching is good and not boring. He sometimes tell jokes while teaching.<br /><br />ZHANG, Jize&#039;s teaching is ... I cannot understand very well what he taught in the lecture. After lectures, I have to watch YouTube to understand the things. This may be becasue he is new? However, he replied email very fast and I feel that he really want us to learn something from him.",
+      "comment_grading": "Part 1 (50%):<br />1. Assignments: 18% (6% x 3)<br />2. Mid-term examination: 32%<br />Part 2 (50%):<br />1. Assignments: 18% (6% x 3)<br />2. Final examination: 32%<br />Final exam is solely focused on Part 2.<br /><br />If you spot a mistake made by Anthony, you can get 1-point bonus.<br />I don&#039;t know whether this course is leng grade becasue the instructor sometimes did not disclose the mark of exam.",
+      "comment_workload": "You only need to summit 6 assignments in total. The difficulty and style of questions in part 1 assignments are similar to the midterm. However, this is not the case for part 2. Exam and homework are two different worlds.<br /><br />For me, finishing the assignments is not enough. I also try to finish the problems in textbook so that I can be more familiar with knowledge.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "GADMkKUeTV5jmSpwtqGr54R9bGcp1uhF",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1171,
+          "name": "LEUNG, Anthony",
+          "rating": 1
+        }
+      ],
+      "author": "SamuelCHAN",
+      "date": "Feb 01, 2023",
+      "title": "Medium workload and difficulty, content are interesting",
+      "comment_content": "This course is divided to two parts. In first part, course contents are easy to understand, and lots of calculation are involved in assignment and midterm exam. It is suggested to do more sample practices before exam.<br /><br />In second part, the difficulty was not high, but it takes time to study and digest. In final exam, all calculation are easy with the help of calculator.",
+      "comment_teaching": "Anthony Leung&#039;s teaching style and pace is perfect for me, interesting and not boring at all, I enjoyed the study in first part.<br /><br />Dr.Hu&#039;s teaching is not bad, but I personally don&#039;t like his style, so it was tedious for me in the second part.",
+      "comment_grading": "My overall grade was A-<br /><br />The sample practices I did was so difficult. By contrast, the midterm and final are not difficult for me.",
+      "comment_workload": "Students are given one week to do each assignment, the workload is not heavy. But if you want to get a good grade, you should do so many sample practice by yourself, which takes lots of time.<br /><br />I am a bit unsatisfied that it is difficult to find the answer when I do Dr.Hu&#039;s assignment.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "O9cUf97QUH5XTK8ZlNmxtQfHMa7wLjmx",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 65,
+          "name": "HU, Wei Chung",
+          "rating": 1
+        },
+        {
+          "id": 1171,
+          "name": "LEUNG, Anthony",
+          "rating": 1
+        }
+      ],
+      "author": "Dericklaw",
+      "date": "Jan 27, 2023",
+      "title": "Nice course if you have stat background",
+      "comment_content": "This course mainly teach how to use normal distribution.<br />Also, this course is separated into two parts.<br />Here are some related topics:<br />-Uncertainty in Engineering<br />-Fundamentals of Probability Model<br />-Analytical models of Random Phenomenon<br />-Choice of probability<br />-Function of Random Variables",
+      "comment_teaching": "Anthony is a funny person. He always try to make some jokes on lessons, so you seldom feel bored on his lesson.",
+      "comment_grading": "It is great if you did pay effort. I didn&#039;t go for any lesson but I get a B+ at last by watching videos and reviewing those homework given by both professors.",
+      "comment_workload": "Not much workload. Only hw is required to complete.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "E5gLS4CUvFeuqRFOAbvXgDfVx70dgfgx",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 65,
+          "name": "HU, Wei Chung",
+          "rating": 1
+        },
+        {
+          "id": 1171,
+          "name": "LEUNG, Anthony",
+          "rating": 1
+        }
+      ],
+      "author": "EdmondTam",
+      "date": "Jan 13, 2023",
+      "title": "fair grade course",
+      "comment_content": "Part1:<br />1.Uncertainty in Engineering AL <br />2. Fundamentals of probability models AL <br />3. Analytical models of random phenomenon AL <br />4. Choice of probability models AL <br />5. Functions of random variables AL<br /><br />Part2:<br />6.The Central Limit Theorem TH <br />7. Interval estimation&nbsp;&nbsp;TH <br />8.&nbsp;&nbsp;Hypothesis testing TH <br />9. Regression and correlation analysis TH <br />10. Monte Carlo simulationTH",
+      "comment_teaching": "AL teaches in funny way,at least not so boring,many stds attend his class.<br />TH teaches likes a normal teacher ,but note is sometimes messy.(So many red words on one page).I saw that less stds attend the lecture compared it with AL&#039;s lesson.",
+      "comment_grading": "6%*3*2 assignment=36% 2 midterms for 2 parts with 32%*2=64%<br />In Part 1,if you tell mistakes or special question related to the content,you may get bonus point from AL.<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mine<br />1st HW&nbsp;&nbsp;9.4/10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10/10<br />2nd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.15/10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10/10<br />3rd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.49/10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9/10<br />4th&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;84.xx%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;98.xx%<br />5th&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unknown&nbsp;&nbsp;&nbsp;&nbsp;i guess almost 100<br />6th&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unknown&nbsp;&nbsp;&nbsp;&nbsp;iguess almost 100<br />midterm 1:unknow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i guess above mean 0.5-1sd<br />midterm2: ~ 70%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;88%<br />grade=A,should be a fair grade,grading may be b+",
+      "comment_workload": "Only Hw,I would suggest people can read the textbook because there are lots of eg. and concept.Some HW just like question in textbook.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "APo1Oz53GSFNhChmU9hgi8uq4Dm69kPu",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1171,
+          "name": "LEUNG, Anthony",
+          "rating": 1
+        },
+        {
+          "id": 65,
+          "name": "HU, Wei Chung",
+          "rating": 0
+        }
+      ],
+      "author": "ffskw",
+      "date": "Aug 11, 2022",
+      "title": "喜出望外",
+      "comment_content": "Part I - Probability<br />1 - Introduction<br />2 - Fundamentals of Probability Models<br />3 - Analytical Models of Random Phenomenon<br />4 - Choice of Probability Models<br />5 - Functions of random variables<br /><br />Part II - Statistics<br />1 - Central Limit Theorem, Estimation<br />2 - Hypothesis Testing<br />3 - Regression<br />4 - Correlation<br />用CAS上堂",
+      "comment_teaching": "Part I - Anthony<br />Anthony教得幾好 手寫notes令我哋好容易跟到佢講到邊<br />本身佢唔會淨係教書 會簡中講吓自己啲故事 講吓笑咁 上堂氣氛好輕鬆 所以好多人上佢堂<br /><br />Part II - Thomas<br />Thomas就... 我會咁形容:<br />part I 嗰陣最好早到霸靚位坐 part II 可以唔使急 你幾時到都係包場咁坐<br />咁你明啦 好多人走thomas堂<br />佢成日照讀powerpoint 教得好快 好難跟到佢講咩<br />之後佢canvas啲file放得超亂 就咁放落個unfiled就收工 要揾佢啲notes嚟睇超難 <br />份finals幾特別<br />入到考場 見到張紙就咁放喺櫈到 以為係formula sheet 點知原來已經係份final試題嚟 32條mc<br />program都唔哂撳 直接畀哂啲data你做<br />份final應該都大部份人嚟講幾簡單因為好多人早走",
+      "comment_grading": "Part I - Probability<br /><br />Assignment * 3 (18% , 6% * 3)<br />Assignment 1 : 6/6 ; Mean : 5.65/6<br />Assignment 2 : 6/6 ; Mean : 5.63/6<br />Assignment 3 : Unknown<br /><br />Midterm Exam (32%)<br />Scores: Unknown<br /><br />Part II - Statistics<br />Assignment * 3 (18% , 6% * 3)<br />Assignment 1 : 94/100 ; Mean : 76.07/100<br />Assignment 2 : 120/120 ; Mean : 97.66/120<br />Assignment 3 : 100/100 ; Mean : 85.82/100<br />Final Exam (32%)<br />Final : 24/32<br />No Attendance Taken<br /><br />My Grade: B+<br />我覺得幾好grade 雖然midterm冇分睇 但係我當初唔係好識做 應該唔高分",
+      "comment_workload": "有6份功課 part I通常3-4題 唔太難做<br />part II 就識用program就會做得快<br /><br />overall我覺得workload唔大",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Ad3BMOSkXk9WftqUkGNJvreMJ42TwFlq",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 65,
+          "name": "HU, Wei Chung",
+          "rating": 1
+        },
+        {
+          "id": 1171,
+          "name": "LEUNG, Anthony",
+          "rating": 1
+        }
+      ],
+      "author": "Jck2",
+      "date": "Dec 31, 2021",
+      "title": "",
+      "comment_content": "Part one<br />1. Uncertainty in engineering<br />2. Fundamentals of probability models<br />3. Analytical models of random phenomenon<br />4. Choice of probability models<br />5. Functions of random variables<br /><br />Part two<br />1.Central Limit Theorem<br />2.Interval estimation<br />3.Hypothesis testing<br />4.Regression and correlation analysis<br />5.Monte Carlo simulation",
+      "comment_teaching": "Lecture<br />Part one由Anthony教，上堂用紙筆做lecture notes入面啲examples去step by step解釋concept同theorem，好畀心機炒熱現場氣氛，唔會冷場同悶到想瞓，個人認為喺朝早十點半呢個timing唔走堂都抵得諗；Part two由Thomas教，會用graphing calculator app去輔助教學，基本上全程跟住ppt lecture notes啲content教，間中會有啲位詳盡少少解釋，但因為講嘢冇咩抑揚頓挫，而且到後尾係咁重複講同一個topic嘅examples，所以會比較悶同好易瞓著，但係Part two嘅content真係唔多所以都冇計，佢啲堂就將就上啦，反正有zoom recording<br /><br />Tutorial<br />Part one嘅tutorial係lecture content嘅brief revision加少少extra examples，TA都算有解釋到重點，不過當然冇Anthony教得咁有趣，所以中規中距；Part two嘅tutorial就主要教用Thomas上堂會用嘅graphing calculator app，不過啲TA畀人好嚴重嘅準備不足感，聽佢哋講係要跟返上堂嘅進度，所以有啲tutorial超快講完所有examples，同冇上過冇分別，再加上佢哋唔用mic、講嘢細聲、英文又唔算流利，上Part two嘅tutorial可以話係痛苦，建議自己諗吓去唔去，唔係盞嘥時間",
+      "comment_grading": "Part one (50%)<br />Assignment*3 (18%, 6%*3)<br />Mid-term exam (32%)<br /><br />Part two (50%)<br />Assignment*3 (18%, 6%*3)<br />&#039;Mid-term&#039; exam 2 (32%)<br /><br />Part one<br />(Known)<br />Assignment 1: 5.65/6 Mean: 5.65<br />Assignment 2: 6/6 Mean: 5.63<br />(問Anthony攞嘅分，Canvas上面冇)<br />Assignment 3: 5.5/6 Mean: unknown<br />Mid-term exam: 78/100 Mean: unknown<br />-&gt; Part one total: 42.11/50<br />據Anthony話呢個分唔超過mean加一個s.d.<br /><br />Part two<br />Assignment 1: 5.16/6 Mean: 4.56 s.d.: 1.18<br />Assignment 2: 5.85/6 Mean: 4.88 s.d.: 1.31<br />Assignment 3: 5.64/6 Mean: 5.15 s.d.: 1.642<br />&#039;Mid-term&#039; exam 2: 29/32 Mean: 23.28 s.d.: 5.498<br />-&gt; Part two total: 45.65/50 Mean: 37.875 s.d.: 7.558<br />(呢度嘅mean同s.d.全部用Thomas公佈嘅excel計)<br />呢個分如果跟excel計出嚟嘅mean同s.d.只係掹車邊過mean加一個s.d.<br /><br />final grade: A- <br />個course算易讀，肯畀少少心機清清concept就比較容易攞到高分，要到A range競爭有啲大，所以靚唔靚grade見仁見智",
+      "comment_workload": "全個course夾埋得6份功課而且唔算難做，每一份都有一個禮拜做，workload算輕",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "lMZtogQcRM6SW95Q6d9puQJu6NesKzn6",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 65,
+          "name": "HU, Wei Chung",
+          "rating": 1
+        },
+        {
+          "id": 1171,
+          "name": "LEUNG, Anthony",
+          "rating": 1
+        }
+      ],
+      "author": "Watermelon",
+      "date": "Dec 29, 2021",
+      "title": "",
+      "comment_content": "Part 1<br />1. Fundamentals of Probability Models<br />2. Analytical models of Random Phenomenon<br />3. Choice of Probability Models<br />4. Functions of Random Variables<br /><br />Part 2<br />1. The Central Limit Theorem and Estimation Theory<br />2. Hypothesis Testing<br />3. Regression and Correlation Analysis",
+      "comment_teaching": "Part 1 係由Anthony教。<br />Anthony 英文唔錯，聽得入耳。有powerpoint，上堂手寫教書，好鍾意同大家互動。<br /><br />Part 2 係由Thomas教。<br />得powerpoint，基本上都係照powerpoint教，同埋示範點樣用計數機。相對地悶。",
+      "comment_grading": "Part 1:<br />Assignment: 18% (6%x3)<br />Midterm: 32%<br /><br />Part 2: <br />Assignment: 18% (6%x3)<br />Final: 32%<br />/<br />Part 1: <br />Assignment 1: 5.8 / 6 (mean: 5.65)<br />Assignment 2: 5.75 / 6 (mean: 5.63)<br />Assignment 3: unknown<br />Midterm: unknown<br /><br />Part 2: <br />Assignment 1: 85 / 100 (mean: 76.07, S.D.: 19.60)<br />Assignment 2: 104 / 120 (mean: 97.66, S.D.: 26.12)<br />Assignment 3: 100 / 100 (mean: 85.82, S.D.: 27.29)<br />Final: 25 / 32 (mean: 23.28, S.D.: 5.48)<br />Part 2 Overall: 41.3 / 50 (mean: 37.88, S.D.: 7.54)<br /><br />Overall: A-<br />/<br />分數唔係高mean好多，但係唔知點解都有A range。大家加油！！",
+      "comment_workload": "每part 3份功課，total 6份。<br />每份功課都有一星期時間俾大家做。<br /><br />P.S. Thomas出題唔會出舊題目，所以上網查係查唔到。(包括功課同考試)",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "rmCb3URzVejeLwO8nGtqHQ8JrWr7RzAs",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 1171,
+          "name": "LEUNG, Anthony",
+          "rating": 1
+        }
+      ],
+      "author": "Terence369",
+      "date": "Jul 08, 2021",
+      "title": "",
+      "comment_content": "The content is easy to understand.<br />There are two part in this course. The first part include more calculation and concept. The second part is about practical application on the calculator to calculate about probability.",
+      "comment_teaching": "There are two professor in this course. The course is divided to two part. Both of the professor are nice and patient to answer all of the questions. Their teaching pace is moderate and acceptable. You can catch up easily in the lesson.",
+      "comment_grading": "Good grading<br />my score in both part are above mean around 1 sd <br />My final grade is A.",
+      "comment_workload": "There are two exam. Each part of the course has exam which involve the content in that part only. There are some quiz in the lesson and count as final grading. If you revise the lecture, the quiz will be easy to complete.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "GXwzf4TkSBA1ec6fhWaAjxv4ZDcZsgL2",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1171,
+          "name": "LEUNG, Anthony",
+          "rating": 1
+        },
+        {
+          "id": 65,
+          "name": "HU, Wei Chung",
+          "rating": 1
+        }
+      ],
+      "author": "準雷",
+      "date": "Jun 08, 2021",
+      "title": "名為&quot;Modeling System&quot;實為&quot;Statistics for Civil Engineering&quot;既course",
+      "comment_content": "此course分為兩部分<br /><br />Part I 主要係probability, 由Anthony Leung教<br />Introduction<br />Uncertainty in Engineering<br />Fundamentals of Probability Models<br />Analytical models of Random Phenomenon<br />Choice of probability models<br />Functions of Random Variables<br /><br />Part II 主要係statistics, 由Thomas Hu教<br />Regression, Least Square<br />The Central Limit Theorem and<br />Estimation Theory<br />Hypothesis Testing",
+      "comment_teaching": "就Part I而言<br />Anthony既解說都唔錯<br />堂上跟唔到手寫notes可以睇返電子版notes<br />不過notes既example有D太簡單<br />唔係太貼近quiz既難度<br /><br />就Part II而言<br />Thomas既解說就好一般<br />因為係用CAS approach教<br />所以堂上分分鐘教用計數機既時間多過教concept<br />notes既解說都算清晰<br />都有比足夠既exercise我地",
+      "comment_grading": "Part I<br />Assignment x3&nbsp;&nbsp;24%<br />My Score: 8/8 + 6.8/8 + 8/8<br />Quiz x2&nbsp;&nbsp;26% (All MCQs)<br />My Score: 6/11 + 9/13<br /><br />Part II<br />Quiz x 3&nbsp;&nbsp;50% (MCQs + Fill in numbers)<br />My Score:<br />Quiz 1: 13/17 (Mean 13.07, SD 2.78)<br />Quiz 2: 11/17 (Mean 9.77, SD 2.33)<br />Quiz 3: 14/16 (Mean 12.6, SD 2.25)<br /><br />Overall: 78.5% (Mean 72.16, SD 11.54)<br />(Median 73.35, UQ 78.93, LQ 67.69)<br />With above mean 0.55 SD, grade = B+<br />正常grading, 識用計數機就贏一半",
+      "comment_workload": "算細, 得quiz所以無任何exam<br />不過如果無讀M1開頭就會難D跟<br />始終對我黎講probability都有D抽象<br />做多D題都有幫助<br />去到Part II就做哂Thomas比既exercise<br />再記得點用計數機就可以輕鬆above mean",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ic6DPNButwus1RCkn9FskUVqGDeBg1cM",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 65,
+          "name": "HU, Wei Chung",
+          "rating": 1
+        },
+        {
+          "id": 1171,
+          "name": "LEUNG, Anthony",
+          "rating": 1
+        }
+      ],
+      "author": "PeggyLai",
+      "date": "Apr 24, 2020",
+      "title": "",
+      "comment_content": "Part 1<br />Uncertainty in engineering <br />Fundamental of probability model<br />Analytical model of random phenomenon<br />Choice of probability model<br />Function of random variable<br />Part 2<br />Statistical interferences<br />Progression and correlation analysis<br />Monte Carlo simulation <br /><br />Part 1 Focus on basic probability concept<br />Part 2 focus on using calculator",
+      "comment_teaching": "Anthony 同Thomas 都教得Ok<br /><br />Anthony 有d悶 very sleepy（可能因為9點堂）<br /><br />Thomas嗰part幾難教得好<br />都係要自己練下點用部cal",
+      "comment_grading": "Part 1 50%<br />Part 2 50%<br /><br />Part 1 考得難<br />點知拉curve 都有78.5/100<br />Part 2 pass/fail<br /><br />最後grade 有A-<br />算靚",
+      "comment_workload": "普通workload<br />都係做下assignment<br /><br />Test 前温下ppt, assignment, past paper",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "rqRqQ3D66FUj3lRa4NuSt8LMF2QowREQ",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 1171,
+          "name": "LEUNG, Anthony",
+          "rating": 1
+        }
+      ],
+      "author": "Jason Wan",
+      "date": "Feb 17, 2020",
+      "title": "All about probability",
+      "comment_content": "Topics<br />Part 1<br />■Uncertainty in Engineering<br />■Fundamentals of probability models<br />■Analytical models of random phenomenon<br />■Choice of probability models<br />■Functions of random variables<br /><br />Part 2<br />■Statistical interferences–Interval estimation–Hypothesis test<br />■Regression and correlation analysis<br />■Monte Carlo simulation",
+      "comment_teaching": "The whole course is divided into two parts. The first part was taught by Prof. Anthony Leung while the second part was taught by Prof. Thomas Hu (Part II).",
+      "comment_grading": "Course assessments<br />■Part I (50%)<br />–Coursework x 2 (7.5% each; i.e., total 15%)<br />–Mid-term examination (35%) <br />■Part II (50%)<br />–Quizzes x 2 (7.5% each; i.e., total 15%)<br />–Final examination (35%) <br /><br />Midterm: 88/100<br />Final: Pass (the course allow us to choose pass or fail option in my year of study)<br /><br />Final grade: A (not bad at all)",
+      "comment_workload": "The workload is actually not that heavy as I expected. The first part is all about probability which is already covered in DSE Mathematics and M1 syllabus. (I&#039;d taken M1 in my secondary school so this course would be relatively easy for me). <br />While for the second part, each student is assigned with a TI NspireCAS CX calculator. The final examination is actually testing how well you are using the calculator. Therefore, your score in second part will not be bad as long as you know how to use the calculator.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "sYV08ThzMx58lAerZ7FhI2o52Q5vcahw",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 1171,
+          "name": "LEUNG, Anthony",
+          "rating": 1
+        },
+        {
+          "id": 65,
+          "name": "HU, Wei Chung",
+          "rating": 0
+        }
+      ],
+      "author": "SQ Flyer",
+      "date": "Dec 19, 2019",
+      "title": "Fundamental probability &amp; statistics for Civil Engineers 合理Grading",
+      "comment_content": "The content covered in the Statistics part taught by Thomas Hu was slightly reduced due to the unprecedented social unrest. For Anthony&#039;s part, topics about probability were just the same as last year. The course focused on applications in different civil engineering disciplines more than mathematical deductions and theories. <br /><br />PART I Probability taught by Prof Anthony (Week 1-5)<br />1. Uncertainty in Engineering <br />2. Fundamental Probability Concepts (Set Theory, Venn Diagram, Union and Intersection, basic operations, Mutually Exclusive and collectively exhaustive events, statistical independence, conditional prob, theorem of total prob)<br />3. Bayes&#039; Theorem <br />4. Expectation, Variance, SD, cov, Mean, Mode,Median, PDF, PMF CDF etc.<br />5. Continuous random variables and distributions (Normal, Lognormal, Exponential) <br />6. Discrete random variables and distributions (Bernoulli, Binomial, Geometric, Negative Binomial, Poisson, return period)<br />7.Joint PMF, choice of probability model(use of probability paper, goodness of fit using chi-square test)<br />8. Function of RV and reliability calculations <br /><br />PART II Statistics taught by Thomas Hu (Week 7-13)<br />1. CLT, sampling distributions, estimating population proportion and population mean, confidence intervals, t-distribution<br />2. Regression and correlation analysis <br />Least-square matrix formulation and calculator applications <br /><br />Note that topics like Monte Carlo Simulation,Bayesian Approach, <br />Hypothesis Testing, Decision Analysis etc were omitted this semester. So the topics covered by Thomas Hu were greatly reduced but these are the key topics which should be addressed according to the original schedule. It was a bad news if you really want to learn statistics in detail and made good use of such concepts in other disciplinary applications like hydrology, transportation engineering etc. <br /><br />I think M1 students should have some advantages in this course since all the topics covered in M1 appeared again and you should pick up easily comparing to other students although there were new concepts in later topics in Part I and regression in Part II.<br /><br /><br />結論： Anthony 比 Thomas Hu 好得多 <br /><br /><br />Thomas Hu D 堂真係好悶又無重點 Notes 將Concepts求其Address下感 無足夠Explanation Examples D 難度同形式極奇呢唔常見 得閑上到悶就Hea 我地走去放Break D 課題已經相對比之前難搞 簡直慘不忍睹 <br /><br />奉勸大家 Thomas Hu 不可再 Elective Courses 都最好避開",
+      "comment_teaching": "Part I Probability (Week 1 to 5)<br /><br />Anthony&#039;s lectures were relaxing and sometimes with fun. A friendly and approachable professor. He prepared power-point slides for each topics and uploaded before lectures. He generally used the visualizer to address the concepts and examples covered in the slides and adopted chalk &amp; talk teaching approach with quite clear explanations and visualizations. I think students should come to his lectures since he explained the things quite well and some topics like chi-square test and usage of probability paper, he did demonstrate with examples in a step-by-step approach. And indeed, the midterm did consist a question about this topic ! But the assignment problems didn&#039;t require plotting but the exam did require! So pay attention! <br /><br />Generally I think the examples given in lectures were not the advanced one so maybe check out from the textbook for more complex and detailed examples with additional self practices given. <br /><br />For tutorials, the two TAs Annie and Charlie were responsible. Annie conducted the first three tutorials with some concepts review and basic examples given. <br /><br />Charlie then conducted the following three tutorials. He is a Mainland student with some accent, funny but understandable. He provided some more advanced examples with concept reviews. He demonstrated how to use the probability paper and conducting chi-square test in Week 6&#039; tutorial which was quite essential and useful for exam preparation. The other tutorials he eventually gave some long and detail demonstrations of examples on function of RV and probability distributions. <br />One funny thing is once a student asked him how to formulate Power Series for a Poisson distribution problem he just opened Symbol-lab to demonstrate and everyone was teasing. But eventually next tutorial he managed to clarify our doubts so not bad at all. <br /><br />For Week 6 lectures, the two TAs spent the lecture time to demonstrate additional examples in order to prepare for the midterm in Week 8. <br /><br />For Part I, I would give a B grade. <br /><br />Part II Statistics&nbsp;&nbsp;(A great dependence on graphing calculator) <br /><br />Thomas Hu&#039; teaching was a nightmare. He was boring and indifferent to his lectures. He spent the lecture time mostly on the graphing calculator to hard-sell us how the calculator reduces calculation time. He spent very limited time addressing the concepts, reading out loud the lecture slides and drawing on the slides with disgusting handwriting, which is not appreciated and eventually not a lot of students came to his classes compared to Anthony&#039;s one especially when the lectures started at early 9 am with most students falling asleep. <br /><br />It was like if we fail to manage how to operate the graphing calculator, we will fail to work on the problems which are out of reality and weird. So the first thing to learn from Thomas&#039; lectures is to know how to use the functions in the calculators and the programming steps, i.e. plugging calculators in order to become a &quot;master&quot; .Yet the calculator can reduce calculation time, however in reality, students didn&#039;t learn much from the concepts. Such an approach should not be encouraged in engineering education. I wondered why he managed to receive the Common Core Excellence Award last year with such tedious teaching manner. <br /><br />The calculator should serve as an aid but not a must or reliance for learning purpose. Concepts learning and applications with engineering context should always come first. And the fact is that we have to return the calculator after course completion. Thomas claimed that he paid for hundreds of calculators with limited financial assistance from the department and each calculator cost ~$1200 which is crazily expensive and not economically affordable for most students. The calculator functions indeed can be operated on personal notebooks.&nbsp;&nbsp;<br />One thing to add is Thomas Hu spent some of the lecture time recalling the past &quot;great&quot; memories of a decedent, Prof. Wilson Tang, praising himself that he spent the great time with the Professor working on the editing of textbook and how superb the calculator operations are, and imagine how the professor would appreciate his way of teaching in heaven.<br /><br />He omitted a whole bunch of topics this semester but failed to upload the respective slides for self-study. What a shame in consideration of learning and explorations of statistical applications. <br /><br />For the tutorials, I didn&#039;t attend so I can&#039;t judge the performance of TA Zhihao. But all the TAs will eventually upload the tutorial notes on Canvas.<br /><br />For Part II, I would give a D grade.",
+      "comment_grading": "Each part contributes 50% of the course grade respectively. See below. <br /><br />Part I 50%<br />Assignments x2 15%<br />Mid-term 35% <br /><br />The two assignments consist of several long questions which were not too difficult to be done. Most people scored high marks. <br /><br />For midterm, it consisted of four long questions with sub-questions, 2 hrs were given for completion.<br /><br />Q1 20 marks <br />Exponential distribution to find mean and variance, normal distribution to find required probability, return period etc,<br /><br />Q2 30 marks Antenna Problem <br />Poisson distribution , baye&#039;s theorem, cond. prob, total prob. thm <br /><br />Q3 30 marks (Moment problem need simple statics knowledge)<br />Function of RV for answer set-up <br />Probability distributions and calculations <br /><br />Q4 20 marks (play with your FX50FH/3650p, plugging numbers and sequencing frequently, need good eye sight when plotting the paper and drawing the best fit line to obtain slope and intercept) <br /><br />Choice of probability model using probability paper <br />Conduct chi-square test to evaluate goodness of fit and check Z-value from table and make good use of degree of freedom! <br /><br />I think Q2 was the most difficult question which required more thinking and using the venn diagram for better clarification , Q1 and Q3 were not too difficult. Q4 required more patience during calculations and I wondered why people said steps in Q4 were harsh?! Just a bit clumsy but manageable ! <br /><br />Score Distribution out of 165 students <br />Mean 65.5 <br />SD 15.0<br />Median 68 <br />Max 98 (crazy guy, the second highest score was already 90)<br />Min 28 <br /><br />Most people scored between 65 to 75. <br /><br /><br />Part II 50% <br />Quiz 15% (but cancelled finally) <br />Final Exam 35% (eventually changed to 50% due to&nbsp;&nbsp;quiz cancellation) <br /><br />Due to class suspension, topics covered in final were greatly reduced comparing to previous semester. You just needed to score 40 then the whole 50% score will be guaranteed and automatically transferred. So probably this semester, the performance of mid-term decided your fate and your grade. <br /> <br />Final included 40 MCs/ True or False with two hours given which was quite sufficient. The essence of final exam was to know how to operate the graphing calculator efficiently and precisely. Making good use of the calculator can reduce some time for clumsy calculations for regression analysis and probability checking from Normal Distribution and t-distribution tables. <br /><br />Note that two questions scored 12 marks respectively and the other 38 questions scored 2 marks respectively. But the 12 marks questions were not too difficult indeed ...... <br /><br />Score Distribution <br />Mean 68.6<br />SD 16.0<br />Median 68<br />Max 100<br />Min 0 <br />(6 students scored below 40 and are required to resit the final)<br /><br />Personal score <br />Midterm 79/100<br />Final 90/100 <br />Assignments x2 100/100 90/100 <br /><br />Grade A-&nbsp;&nbsp;(just standard grading)",
+      "comment_workload": "The main workload this semester were generally came from Prof Anthony&#039;s part. He provided two assignments(just a few long questions) which were just the same as last year. Apart from that, you just need to do regular revision of the lecture notes and tutorial examples and find some self-practice from the reference textbook (Probability Concepts in Engineering - Emphasis on Applications to Civil and Environmental Engineering) for better understanding and consolidations with detail examples. <br /><br />For Thomas part, the workload was pretty low. Just need to revise his notes and learn how to use the &quot;superior&quot; graphing calculator efficiently.&nbsp;&nbsp;Find some self practices yourself for better consolidations and training.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "6KrIlOfbY3YocUMBnEg082fvytWkkxqm",
+          "name": "Lecture 1a-Introduction-1",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "dzasaSw5HpfeA2hKG8ikA8ovL4nVEmtg",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 65,
+          "name": "HU, Wei Chung",
+          "rating": 1
+        },
+        {
+          "id": 1171,
+          "name": "LEUNG, Anthony",
+          "rating": 1
+        }
+      ],
+      "author": "tommyhatcher",
+      "date": "Jan 23, 2019",
+      "title": "",
+      "comment_content": "The content is rather interesting. The course is divided in two parts, each taught by a different teacher. There was a problem with specific calculators we needed to buy for this course, but the teacher managed to tackle it by generously buying one for everyone.",
+      "comment_teaching": "The teachers are very pedagogue, spending a lot of time explaining each new concept. However, there are plenty of information on the slides which means it is not necessary to go class.",
+      "comment_grading": "The grading was overall fair.",
+      "comment_workload": "There are 6 assignments counting 5 percent each. The first one of each part is really easy, the other ones are a bit harder but similar to the examples seen in the slides.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "VMXxXlz0UIxG7qlYfbam7vX2XGekTtVv",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 65,
+          "name": "HU, Wei Chung",
+          "rating": 0
+        },
+        {
+          "id": 1171,
+          "name": "LEUNG, Anthony",
+          "rating": 1
+        }
+      ],
+      "author": "chpoonag",
+      "date": "Jan 20, 2019",
+      "title": "Be careful not to make careless mistakes in exams.",
+      "comment_content": "",
+      "comment_teaching": "Anthony Leung:<br />Stay alert in his lecture as there can be something wrong in his lecture slides or in his writings. Mistakes ranged from grammatical to conceptual. However, I really appreciate his effort in maintaining an interesting atmosphere in class. So, even though what he taught was just similar to the lecture slides, it was worth to attend his lectures, and some parts in the lecture slides were not included in the exam.<br /><br />HU:<br />His teaching progress may be too slow. Yet, I suggest you not skip his classes as you might lose some hints for the exams.",
+      "comment_grading": "4 x Coursework: 7.5% each<br />Midterm, Final: 35% each<br /><br />(Originally 3 coursework @5% each before misterm exam. But in the end, last assignment was made elective)<br /><br />Midterm exam questions were from the reference book seemingly.<br /><br />In addition, reviewing your paper is strongly suggested. I (and so did some of the other students) got 3 marks after checking the paper as I succeeded in a debate over the answer of a T/F question (+2 marks for correct answer, -1 for wrong one). Do not trust some direct answers which can be against your thoughts, on the Internet. Try to use definitions of the words to support your thoughts to persuade the professor. <br /><br />For those aiming range A, make sure you DO NOT MAKE ANY CARELESS MISTAKES as questions might be too easy in the exams.<br /><br />The final exams were 2 papers. Each contains 20 MC questions. There were nearly half of the questions in the last paper talking about the tree diagram in decision analysis, in which I lost many marks. And, remember, the picture on the cover of the suggested reference book (for course part 2 taught by HU) is a BRIDGE!! It is one of the MC questions...<br /><br />For reference,<br />Midterm 76/100, mean 68.03, sd 15.71<br />Final 82.5/100, mean 81, sd 11.7<br />All homework score above 90%<br />Grade B+",
+      "comment_workload": "Light. Just 4 assignments, though you may need to spend some hours for each.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "iZ7lG6jghdIUYyEMjSTyVDKBwrXcp3OO",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 1171,
+          "name": "LEUNG, Anthony",
+          "rating": 1
+        },
+        {
+          "id": 65,
+          "name": "HU, Wei Chung",
+          "rating": 0
+        }
+      ],
+      "author": "Gibson",
+      "date": "Jan 12, 2019",
+      "title": "[貼地review] 完全唔civil嘅civil course",
+      "comment_content": "Part 1 (Anthony Leung)<br /><br />1. Set theory: union, intersection, de morgan&#039;s rule, conditional, bayes thm<br /><br />2. Random variables and distribution: PMF, PDF, normal, lognormal, Poisson<br /><br />3. Choice of probability models: prob. paper, chi-square test<br /><br />4. Function of random variables: linear combination, 1st and 2nd order approximation<br /><br />Part 2 (Thomas Hu)<br /><br />1. Regression analysis: least square matrix, SSE, SST, R^2<br /><br />*Ti Nspire is needed<br /><br />2. Central Limit Thm: application, normal approximation to binomial<br /><br />3. Decision analysis: decision tree, EMV, value of information<br /><br />關於Ti Nspire計算機:<br /><br />可買可唔買。其用途在於計regression嘅least square，如果人手計嘅話會好亂好唔準，佢亦可以計R^2，plot graph (普通function, histogram, distribution)。Thomas會系tutorial及final提供私人珍藏Ti Nspire比大家用。課金後除咗部機本身，仲有電腦software，可配合excel使用。利申非打手。",
+      "comment_teaching": "Anthony Leung:<br /><br />(+)<br /><br />- 上堂果時會用手寫notes，容易follow<br /><br />- 有時候會攪下笑，輕輕鬆鬆<br /><br />- lecture notes (ppt) 清晰，唔上堂都睇得明<br /><br />- Canvas啲learning materials整齊，容易揾<br /><br />(-)<br /><br />- 手寫notes比較凌亂 (配合ppt效果更佳)<br /><br />- 上堂只會講啲理論同簡單啲嘅例子 (建議睇埋textbook examples)<br /><br />- 有時ppt會有bug，錯數字、sign 等等<br /><br />Thomas Hu<br /><br />(+)<br /><br />- 每堂早十分鐘放<br /><br />(-)<br /><br />- 上堂比較沉悶，跟著ppt讀<br /><br />- ppt內容甩皮甩骨，得嗰幾隻字幾幅圖，需花費大量時間理解，睇textbook仲好<br /><br />- 寫白板都唔知寫乜，坐前排都睇唔到，睇到都唔知噏乜<br /><br />- 教用Ti Nspire果時太快，跟唔到，建議上tutorial練手速<br /><br />- Canvas 啲嘢雜亂無章，放哂系unfile嗰度<br /><br />- 上堂有時會講啲完全無關嘅嘢<br /><br />結論: Anthony第一次教2160，上堂生動有趣算唔錯，performance踩mean。其實Thomas又冇下面啲review講得噤差嘅，好過唔教gum lor，無疑performance係below mean。總括而言teaching都係below少少mean，故得C。",
+      "comment_grading": "靚grade，CIVL courses之中比較好grade (好過lambros 2110)，mid term兩個鐘考3題，final全mc，可能踩mean都有B/B-。",
+      "comment_workload": "Anthony有三份功課，其中一份因唔夠時間而改為optional。Mid term同功課相似。<br /><br />Thomas有兩份，一份要用Ti Nspire。最大workload基本上源自理解ppt嗰啲內容。",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ZrGTPGMVwv3Ip01T898keeGqlxqUlimw",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 1171,
+          "name": "LEUNG, Anthony",
+          "rating": 1
+        },
+        {
+          "id": 65,
+          "name": "HU, Wei Chung",
+          "rating": 1
+        }
+      ],
+      "author": "I Want 1st Hon!",
+      "date": "Jan 05, 2019",
+      "title": "Too many things to improve for this course",
+      "comment_content": "They have changed the syllabus by a lot! It is the first time for them to teach this course! Hence, there MUST be a lot to improve in the future. The topics are useful, but quite boring...<br /><br />They teach by following the textbook. However, they skip some details that SHOULD be known, e.g. how small if the lognormal parameter zeta can be approximated to the c.o.v? As some of the details that weren&#039;t covered, the HW solutions OR the tutorial questions may be confused...I am one of them who are confused...<br /><br />The course is divided into two parts, probability &amp; statistics. However, some concepts from the 1st part are used in the 2nd part. <br /><br />1st Part:<br />L1 Uncertainty<br />L2-L4 Fundamentals of Probability Models<br />L5-L8 Analytical Models of Random Phenomenon<br />L9 Choice of Probability Models<br />L10-L11 Functions of Random Variables<br />Midterm (8 MCs (2 correct, 0 unanswered, -1 if wrong); 2 LQs)<br /><br />2nd Part: <br />L12-L16 Regression (Paper A)<br />L17-L19 Central Limit Theorem (CLT) &amp; Estimation (Paper B)<br />L20-L23 Decision Analysis (Paper B)<br />Final (All MCs, two papers: CAS-based &amp; Non-CAS based)",
+      "comment_teaching": "For Anthony, he teaches by following the lecture slides (which he posts after the lecture), with a little more explanation (but not too much). He is quite passionate and talkative. He is quite friendly and sometimes chats with us. <br /><br />However, I personally think he should post the lecture slides before a day of teaching, since I think there is not much difference between listening to his teaching and reading the lecture slides by ourselves. Besides, there were some mistakes in the lecture slides and he updated it repeatedly, and we had to find where he updated it. Several slides were even updated before the day of midterm, which I think it is not appropriate. <br /><br />For Thomas, he can either be good or bad in different perspectives. For the good perspective, he teaches us in a very very casual way (as how he dresses up like having a holiday), he sometimes makes jokes in Cantonese (though I don&#039;t find it funny)...He tells the students who attend the lecture that which pages he will skip and questions that may examined; He also changes the quizzes (which originally will be tested in tutorial sessions) to take-home quiz, i.e. HWs.<br /><br />For the bad perspective, he DOES NOT change his way of teaching and the exam. He forces every students learn to use the Ti-CAS calculator to do the HW &amp; the exam requires a handheld calculator. Many students do not have enough time to practice on the handheld. Even though there is a 30-day trial of Ti-CAS software and handheld sessions, it is still not enough to get used to using the calculator...<br />Besides, as Thomas did not have enough calculator for everyone, he had to divide the paper into two parts (CAS-based &amp; Non-CAS-based), and he collected the calculator for another 40-50 students in other room. We have to wait for ~30 minutes after Paper A (CAS-based) and start the Paper B after.",
+      "comment_grading": "Part 1 HW (15%)<br />HW1: 100/100<br />HW2: 100/100<br />HW3: optional (not counted in grade)<br />Part 2 HW (15%)<br />HW1: 92/100; Mean: 83.5<br />HW2: 89/100; Mean: Unknown<br /><br />Midterm (35%): 60/100; Mean: ~68, SD: ~17<br /><br />Final (35%): 31/40-&gt;77.5/100; Mean: 81, SD: 11.7<br />[Paper A (CAS-based) 15/20 + Paper B (Not CAS-based) 16/20]<br /><br />Grade: B<br />As you can see, I got below mean by ~&lt;0.5SD in midterm &amp; final, but I still got B.",
+      "comment_workload": "Light workload if you have understood the content (which I don&#039;t...). For me, I have used a lot of time to go through the lecture slides and tried to understand. Then, I try the HWs...and I still don&#039;t know what I am doing, especially in the 2nd part:<br /><br />HW1 in the 2nd part is time consuming as many of us (without Ti-CAS calculator) have to go to CIVL Barn and complete the HW...<br />HW2 in the 2nd part is very confusing...<br /><br />Hence, for me, the workload for READING &amp; UNDERSTANDING the lecture contents is the most!",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "awq9OLObW7NahOLxUv58Msk13ptWQTaK",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 65,
+          "name": "HU, Wei Chung",
+          "rating": 0
+        },
+        {
+          "id": 1171,
+          "name": "LEUNG, Anthony",
+          "rating": 1
+        }
+      ],
+      "author": "gavinwu12",
+      "date": "Dec 23, 2018",
+      "title": "Pay-to-win bad grad course",
+      "comment_content": "The course is about general statistics and is divided into two parts. The first half was basically secondary school M1 content such as Bates theorem and distribution models, so ppl who have taken M1 will have a big advantage. The second part is of more computational content like regression and central limit theorem. Boring content but will be useful in the future.",
+      "comment_teaching": "The first part of the course was taught by prof Anthony. His teaching is mildly interesting with somewhat nonsense random jokes, but considering it’s his first time teaching the course it’s more than acceptable. A very vibrant and passionate professor I would say.<br />The second half of the course was where the real “fun” begins. thomas hu was of stark contrast to prof Anthony as he is boring and indifferent towards teaching the course. The only reason of him teaching the course was to hard sell us the TI graphical calculator,whom the distributor he have affiliation with. During lectures, he rarely touches on the actual course content, but spend most of his time shit talking about his “memories “ with another now deceased professor. All u will learn in his lectures is to use that calculator, rather than the principle behind those calculations.",
+      "comment_grading": "Grading is quite average, u got what ur effort’s worth<br /><br />Assignment grading is weird and somewhat irrational, this is especially tru in the second part of the course, where questions are out of reality.<br /><br />Copy it rather than vainly trying to figure it out, trust me it’s not worth your precious brainpower on this bullshit course",
+      "comment_workload": "Next to none, homework is just copying",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 7,
+      "vote_count": 8,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "aNupVIAk6BhcL3k71Yrwgwv94c4JajFI",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 609,
+          "name": "CHEUNG, Man Fung",
+          "rating": 1
+        }
+      ],
+      "author": "kellychuuuuu",
+      "date": "Oct 27, 2018",
+      "title": "Heavy workload but learn something",
+      "comment_content": "Really learn something, but I think you can really study at home alone instead of getting into lecture since it is clear enough to see the lecture notes.",
+      "comment_teaching": "Prof. Cheung teaching is interesting! He provides some movies and do some funny demonstrations!",
+      "comment_grading": "2 quizzes one mt and one final, all at mean and get B-... but I think it is quite difficult for the students who come up from phy1001.",
+      "comment_workload": "Every weekend need to submit online exercise. Have midterm and final. But final all MC. And I get 23/40 even though I just know to to do 10 mc only.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 11,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "O9ltaM2euml4SP3JmUw7Ujt5XuTjlL1v",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 1121,
+          "name": "WANG, Jui-pin",
+          "rating": 1
+        },
+        {
+          "id": 65,
+          "name": "HU, Wei Chung",
+          "rating": 0
+        }
+      ],
+      "author": "balabababa",
+      "date": "Jan 28, 2018",
+      "title": "完全唔覺得有學過野",
+      "comment_content": "基本STAT<br />由普通PROB去到BAYESIAN 好多野都係睇下就算<br />M1都難過佢多多聲<br />讀完成個COURSE我完全唔知自己有咩得著",
+      "comment_teaching": "超超超超超悶 <br />自從上左第一堂之後就無過上過Lecture/Tutor<br />其實D野唔上堂自己睇都識",
+      "comment_grading": "好GRADE到癲 <br />可能係全個CIVL DEPT最靚GRADE既COURSE<br />MEAN應該有B+ <br />GRADING應該係呢個COURSE唯一既優點 <br />Midterm Final都係溫左一晚就A左<br />同埋一定要check paper<br />midterm條友改錯左我30分仲要我催左佢幾次先幫我加番真係不可思議",
+      "comment_workload": "課業上既WORKLOAD無乜 <br />HW都有SOURCE抄但係有D係錯既<br />最大既WORKLOAD係上課時間同埋錢<br />先唔講一個COMPULSORY既課要放係1900-2150呢個咁弱智既時間<br />最莫名奇妙係有條友昆曬成班人買左部千幾蚊但一d用都無既caltor<br />開頭以為考試要用先買 點知最後完全無用過 <br />好多人同dr hu講話要refund 點知佢仲要發爛渣話唔用係我地傻",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 5,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "JZX7qDGugwVuRoSED41NByrfmopRT2kq",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 66,
+          "name": "WANG, Jui Pin",
+          "rating": 1
+        },
+        {
+          "id": 65,
+          "name": "HU, Wei Chung",
+          "rating": 0
+        }
+      ],
+      "author": "smiling",
+      "date": "Jan 28, 2018",
+      "title": "JP is a good instructor!",
+      "comment_content": "Ch 1 Uncertainty<br />Ch 2 Probability<br />Ch 3 Probability distributions<br />Ch 4 Multiple random variable<br />Ch 5 Monte Carlo Simulation<br />Ch 6 Estimation<br />Ch 7 Hypothesis testing<br />***Ch 8 Regression analysis (taught by Dr. Hu)<br />Ch 9 Bayesian approach<br /><br />Ch2 前半教嘅Venn&#039;s diagram, union and intersection, conditional probability Form 5 時學過，但要留意點分statistically independent and statistically dependent。Ch2 後半嘅Total probability and Bayes&#039; theorem係新野，留意條equation點derive，要記得Bayes&#039; theorem條式(好重要)。Ch3 教CDF, PDF, E(X), V(X), Normal distribution, Lognormal distribution, Poisson distribution等。<br /><br />教完Ch3後，因為JP有一堂absent，所以由Dr. Hu代左一堂。但佢就跳左去教Ch8 (The most difficult chapter)，Ch8嘅content我評論唔到，原因請看Teaching。<br /><br />Ch4講multiple RV，同Ch3差唔多，但多左個variable，Ch4會用到MATH2011學嘅double in。<br /><br />Midterm考Ch 1-4,8&nbsp;&nbsp;&nbsp;Final考Ch 5-7,9<br /><br />Ch5-7,9我唔逐一介紹喇，用心聽，呢幾個chapter都唔難嘅。",
+      "comment_teaching": "&#039;A&#039; is given to JP while &#039;D&#039; is given to Dr. Hu.<br />JP follows powerpoint 去教，有時佢會用projector畫圖、寫字去解釋，上堂時最好抄低佢，總會有幫助。JP教書係慢啲，但佢explain得幾清楚，main points佢會repeat。有時佢會講明考咩，例如佢上堂講過midterm會考screen test嗰題，結果佢midterm真係有出，佔20/115分。JP又會講明咩formula唔會given，提你要記得。JP唯一令我不滿嘅係佢好遲先upload lecture notes，到後期佢上今堂先upload上一堂嘅notes。<br /><br />至於Dr. Hu，佢都係follows powerpoint 去教，但就講得好快，都未理解到個slide就next，佢冇好似JP咁有心教。Ch8係CIVL2160最難嘅chapter，有好多野都應該要explain，但佢就講得超快，一堂finish Ch8。佢都有示範過點用個TI NSpire CAS student software，嗰堂佢仲提我地帶laptop，但一樣係超快示範...成為我上CIVL2160中唯一一堂唔知instructor教咩嘅堂！<br /><br />p.s. 本年度CIVL2160 lecture 上堂時間係 Fri 19:00-21:50，聽講JP只教埋本年度就唔教 :(",
+      "comment_grading": "18% homework <br />40% midterm<br />40% final<br />2% tutorial (take attendance in the last lecture this year)<br /><br />Statistic:<br />4 homework mean : &gt;90%<br />Midterm mean : 79.7/115<br />Final mean : 84.5/100<br />Tutorial mean : unknown<br /><br />My results:<br />4 homework full marks<br />Midterm : 94/115<br />Final : 88/100<br />Tutorial : unknown<br />Overall : ~87.9%&nbsp;&nbsp;&nbsp;A-",
+      "comment_workload": "There is little workload in this course. Only 4 homework. The 3 homework assigned by JP are relatively easy while the only homework about regression which is assigned by Dr. Hu is very very time consuming. I spent 1.5 day to finish it!!! You need the software &#039;TI NSpire CAS student software&#039; to finish that homework.<br /><br />盡可能都要上JP堂，因為佢嘅notes有唔少錯處，上堂佢有時會改lecture notes content，而且JP嘅notes簡潔唔易明(冇咩complete sentences)，所以都係上堂好啲。後期Canvas有lecture videos。",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "AtF6sNpj57Ncmorr265RE4PeXRKwWLLo",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 1121,
+          "name": "WANG, Jui-pin",
+          "rating": 1
+        }
+      ],
+      "author": "dannyho1998",
+      "date": "Jan 28, 2018",
+      "title": "",
+      "comment_content": "This course covers the content of probability , which is not so hard. However, it is a compulsory course for civil engineering student, and I can&#039;t find any relation. <br />Ch1 Uncertainty <br />Ch2 Probability <br />Ch3 Probability Distributions<br />Ch4 Multiple RV and Functional RV<br />Special Ch. Regression analysis <br />Ch5 Computer-aided probability analysis<br />Ch6 Estimation<br />Ch7 Hypothesis Testing<br />Ch8 Bayesian approach",
+      "comment_teaching": "JP&#039;s pronunciation is unclear and made us hard to understand. Moreover, some parts of the content have been changed , but they still taught in the tutorials. Therefore, the communication between prof. and tutors should enhance.感覺上係prof 有prof自己教 tutors 有另一種教法 有幾課教的方法唔統一<br /><br />Btw remember that the calculator is not useful in the exam",
+      "comment_grading": "聽說有20-30%都A range<br />但好難會A+<br />Midterm 40%<br />Final 40%<br />Assignment&nbsp;&nbsp;total 18%<br />Attendance 2% <br />For example ,<br />Midterm : 91/115<br />Final : 100/100<br />Assignment 1 : 70/70<br />Assignment 2 : 100/100<br />Assignment 3 : 72/80<br />Assignment 4 :&nbsp;&nbsp;90/90<br />Grade : A",
+      "comment_workload": "only homework and exams <br />the only workload comes from lecture , because we took the lecture on Fri 7:00-9:50.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "LzcJJWFvjujEVhRdF8oKmgEdJcFtsjZU",
+          "name": "Powerpoint 2017",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "bMQDDksOydaWP7vzbnAFcJd63buhhCi7",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 66,
+          "name": "WANG, Jui Pin",
+          "rating": 0
+        }
+      ],
+      "author": "HALOHALOHALO",
+      "date": "Jan 17, 2018",
+      "title": "即使我拎到B,我都會Fxxx佢 even though I got a B, I still F him.",
+      "comment_content": "Probi<br />You can go to search MIT course(u can learn more/deeper/better from MIT)<br />CIVL2160 doesn&#039;t teach enough. You might feel good because u perform well in exams. But u actually waste your time as u don&#039;t know the probi well.",
+      "comment_teaching": "Rubbish teaching. his accent is not clear to hear. always make me confused.<br />Rubbish lecture notes. He didn&#039;t update the lecture notes. he just gives us the notes of the last year.<br />and, the lecture notes always always always miss some words and mislead me.",
+      "comment_grading": "good grade but I think we should not praise him<br />everyone can get a good grade by doing past papers.<br />It seems that he never change the questions.<br />want to get a good grade, then recite.<br /><br />But, there are some unfair things. I hope u could read to know:<br /><br />1)his tutors didn&#039;t check the paper well.<br />they give me a wrong evaluation 2 times. Every time I must check the paper 3times before I report my case to them.<br />In fact, they don&#039;t know how to use a calculator. they can sum up the wrong marks 2 times. If I didn&#039;t check my paper well, I would lose about 15 marks(it is about 1SD I think. the total marks is 115)<br /><br />2)this course attendance is of 2% marks.<br />however, he never take attendance.<br />In the last lesson, one student reminds him of this thing, then he goes to take attendance. You are not blind. just take attendance one times, then you can get all 2%.<br />If you are busy and hv no time to attend the course at that time, then u will lose it.<br />佢用一張紙比所有學生去take attendance,有出席ge 就自己去寫低個名,但係佢唔會理你寫幾耐,你可以寫十分鐘,可以寫十幾個名,幫frds take attendance.即使佢知都唔會理你<br />More ridiculously,he just uses a paper to take attendance.students leave their name on it=take attendance. He allows students &quot;help&quot; friends take attendance, no matter whether his friends attend the course or not.<br /><br />3)he recommend us to buy a calculator at HKD$1200. and said that we could use it in the exams.BUT no questions are complicated. the calculators are of no use in this exam.Why do I need to buy this calculator? My family is very poor.I need to work three days every week. Why do I buy this useless calculator?",
+      "comment_workload": "not too much homework",
+      "rating_content": 2,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "E93XKe2GqNHrOxRSfzUdx1I8G7n7vyS0",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 66,
+          "name": "WANG, Jui Pin",
+          "rating": 1
+        }
+      ],
+      "author": "yy盈",
+      "date": "Sep 04, 2017",
+      "title": "JP is the best!!!",
+      "comment_content": "Source of uncertainty<br />Fundamentals of probability<br />Probability functions<br />Function of random variables<br />Monte Carlo simulation<br />Statistical inference: estimation<br />Statistical inference: hypothesis testing<br />Regression analysis<br />Bayesian approach<br /><br />good，但是非常非常非常非常非常非常非常非常非常非常非常非常非常",
+      "comment_teaching": "okay,经常讲well",
+      "comment_grading": "内容简单大概只有拿满分才能拿a plus<br />19% homework <br /><br />40% midterm<br /><br />40% final,&nbsp;&nbsp;to be determined by the University<br /><br />1% tutorial",
+      "comment_workload": "workload小但是很无聊",
+      "rating_content": 2,
+      "rating_teaching": 4,
+      "rating_grading": 1,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "JZ4hUZA2XrzQrRmG0EuVxay1TqSUIuVO",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 66,
+          "name": "WANG, Jui Pin",
+          "rating": 1
+        }
+      ],
+      "author": "omg123456",
+      "date": "Dec 21, 2016",
+      "title": "Probability",
+      "comment_content": "Before mid term: normal distribution, lognormal, possion, exponential<br />After mid term: t, Z, chi square, F distribution, least square problems<br />The most important: MCS ! Computer can do everything, even I don&#039;t know how to do the question, the computer can have the solution if the sample size is large enough!!!!",
+      "comment_teaching": "Jp&#039;s teaching is not that good during lecture. Asking him after lecture is better.<br />The TAs are not that",
+      "comment_grading": "Full mark doesn&#039;t mean an A+ <br />Remember to answer questions during lectures<br />But total A range is high (about 10%)<br />Mean is B+",
+      "comment_workload": "Four assignments only, workload is not that high.<br />Mid term and final.",
+      "rating_content": 3,
+      "rating_teaching": 2,
+      "rating_grading": 2,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "SD8W7sOv1NX3ItjVzkIa25oM9ZYOhexD",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 66,
+          "name": "WANG, Jui Pin",
+          "rating": 1
+        }
+      ],
+      "author": "SnaKe",
+      "date": "Jan 24, 2016",
+      "title": "exam鬥高分",
+      "comment_content": "--source of uncertainty<br />--fundamentals of probability<br />--probability distributions(normal distribution)<br />--multi-variate and joint probability functions<br />--monte carlo simulation and applications<br />--estimating:point estimate and interval estimate<br />--statistical hypothesis testing<br />--regression analysis<br />--the Bayesian approach<br />dse有讀過m1會有優勢，因為有d課程係學過eg point estimation, interval estimation。個人覺得Bayesian approach係成個course裏面最難，其他課程都容易follow(利申：讀過m1)",
+      "comment_teaching": "notes簡潔易明，走堂淨睇notes都跟到，如果唔明就上堂啦，JP的presentation都幾好，除左英文唔難聽，簡唔中都搞下gag，最重要係d concept都解釋得幾清楚。不過佢唔鍾意人地傾計同埋遲到(佢會停低唔講野，直至坐低)。",
+      "comment_grading": "幾好，普遍都有b或以上，不過mean都好高&nbsp;&nbsp;midterm mean:77(full mark:95)&nbsp;&nbsp;sd:10，錯兩題就below mean。final stat冇公佈",
+      "comment_workload": "唔大，因為concept都算易。exam題又易，short q就咁答個keyword就有分，long q同notes相似，所以好易，要睇清楚notes先去考。每次assignment有10-15題，睇住notes就識做，唔會花好多時間",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "lEDZ0XUWJAKNTrXVOxGE8gJHP4bsp5XM",
+      "semester": "2014-15 Fall",
+      "instructors": [
+        {
+          "id": 66,
+          "name": "WANG, Jui Pin",
+          "rating": 1
+        }
+      ],
+      "author": "JC",
+      "date": "Aug 10, 2015",
+      "title": "輕鬆超好grade",
+      "comment_content": "CIVIL入門course之一，主要内容系probability同statistics。其中包括分辨幾種statical distribution，然後根據distribution搵翻probability，midterm前比較簡單同直接。midterm之後教hypothesis test同regression analysis，concept比較難明。都會教用excel計probability同plot graph，不過exam唔會考。<br /><br />考試題目主要係short Que同Long Que，同assignment題目相似，format同past paper差不多。",
+      "comment_teaching": "睇得出JP好用心教書，除左上堂用既ppt，佢都有整好多notes，多到基本上睇notes唔上堂都明佢講乜。不過JP有時候都會搞下d好笑既爛gag，同埋本身佢都幾靚仔，所以得閑我都會去上下堂。<br />（P.S.佢唔中意有人上堂講野同食野，自己執生啦！）<br /><br />我個年既Tutorial系一個好高講野好快同埋好細聲既女TA教，通常佢會講幾題example，重覆下lecture上面既重點。佢會系white board寫好多野，都會perform一次用excel點計，個人覺得都幾有用。",
+      "comment_grading": "超好grade，大半班有A、B range，係civil算好難得。<br /><br />2% tutorial and lecture quiz<br />18% homework：唔難，有時要用excel<br />40% midterm：唔難，一半人差唔多滿分<br />40% final：難過midterm，但唔算太難，題目好straight forward，有2 sided-A4-cheat sheet",
+      "comment_workload": "完全輕鬆",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

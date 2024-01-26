@@ -1,0 +1,77 @@
+{
+  "course": {
+    "id": 2502,
+    "subject": "MECH",
+    "code": "3110",
+    "name": "Materials for Energy Technologies",
+    "description": "The societal energy transition from fossil fuels to renewable sources requires novel energy technologies, with material design and engineering at the center of the innovation process. In this course, we will explain the enabling materials science and engineering behind advanced energy technologies by answering questions such as why lithium powers our batteries and why it takes silicon to make a solar panel. Major material challenges of emerging energy technologies will also be discussed. During the course, the students will be exposed to 1) the knowledge of material structure-property correlations used in energy technologies, 2) materials synthesis and fabrication techniques for their incorporation into energy devices, and 3) material evaluation principles in energy applications. After taking the course, students will be able to identify desirable material properties and potentially propose new materials and manufacturing methods for specific energy technologies.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2110,
+      1910,
+      1830,
+      1730
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1002,
+        "name": "CHEN, Qing",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "02qMczEcUhjXvD8JKw4Hipi5YTyFAvKx",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1002,
+          "name": "CHEN, Qing",
+          "rating": 1
+        }
+      ],
+      "author": "SamuelLee",
+      "date": "Dec 13, 2021",
+      "title": "Not too hard even for y1",
+      "comment_content": "First covered about some material basics, such as defects and phases, then there are discussions on various energy technologies, such as fossil fuels, wind, PV, battery. Easy to understand even for a year 1.",
+      "comment_teaching": "The explanations are clear but I may not understand his accent sometimes, such as saying &quot;methane&quot; as &quot;messane&quot; every time.",
+      "comment_grading": "Found some HW challenging and sometimes fell below mean for them (normal for Y1, against Y3-4). This with the quizzes count up to 40% (I got 32/40).<br />For midterm, I got 83/100 with the mean being 78. There are MC and calculations. I bombed the last question but the MC is easy. This is worth 30%.<br />For the final report, it is worth 30%, about an energy technology. I got the bonus as my chosen technology was not covered in the course.<br />I ended up with a B+, which is called as an underdog success.",
+      "comment_workload": "Just 6 assignments, midterm and report. Still manageable.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

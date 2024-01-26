@@ -1,0 +1,80 @@
+{
+  "course": {
+    "id": 1663,
+    "subject": "ELEC",
+    "code": "5070",
+    "name": "Microelectronics Fabrication Technology",
+    "description": "Process technologies in IC fabrication: epitaxial growth; chemical-vapor and physical-vapor deposition of films; thermal oxidation; diffusion; ion implantation; microlithography; wet/dry etching processes; process integration of MOS and bipolar technologies.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 182,
+        "name": "WONG, Man",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "HfvAejKGv9dspCpN5KhFJrioRQPFbaIj",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 182,
+          "name": "WONG, Man",
+          "rating": 1
+        }
+      ],
+      "author": "Chase Cheng",
+      "date": "Jan 15, 2021",
+      "title": "",
+      "comment_content": "Focus on the theories of semiconductor processes (oxide growth model/diffusion model/implantation model etc). It is a pity that the novel CMOS technologies are not involved in the course. The content&nbsp;&nbsp;is kind of old-school compared with the similar course given in other university. The course is a prerequisite to work in NFF.",
+      "comment_teaching": "Easy to understand. Some difficult content would be skipped.",
+      "comment_grading": "A is easy to get.",
+      "comment_workload": "The questions in bi-weekly homework and final exam rarely change in years. Final essay is an essay, and its topics are given by the instructor. First come, first choose.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

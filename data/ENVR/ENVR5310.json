@@ -1,0 +1,79 @@
+{
+  "course": {
+    "id": 2529,
+    "subject": "ENVR",
+    "code": "5310",
+    "name": "Atmospheric Dynamics",
+    "description": "The study of atmospheric motions is essential for a better understanding of the relevant meteorological phenomena. This course introduces the conservation laws for primitive equations and classical concepts in fluid dynamics, which will allow students to gain physical insight into the fundamental nature of atmospheric motions. This course is suitable for students who require the foundation of fluid dynamics for advanced study in meteorology, oceanography, atmospheric and climate sciences.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1830,
+      1730
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 973,
+        "name": "IM, Eun Soon",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "mYpJWxDJRd3llYKPXtfvIAiZHFh2J26G",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 973,
+          "name": "IM, Eun Soon",
+          "rating": 1
+        }
+      ],
+      "author": "Baab",
+      "date": "Jan 21, 2021",
+      "title": "",
+      "comment_content": "Some basic mathematics background is required, such as vector, integration, etc. <br />Uses mathematical approach to understand some basic weather/climate concepts. <br />Advanced concepts are also introduced.",
+      "comment_teaching": "Quite strong Korean accent but acceptable. Will get used to it. Very detailed explanation. Very willing to answer questions from student",
+      "comment_grading": "Mid-term Exam 40%<br />Final Exam 40%<br />Homework 10%<br />Attendance 10%<br /><br />Overall good grading. Exam is not hard if you do every example questions and hw questions before exam.<br /><br />Note: Do not copy the homework from other classmates, or copy directly from the textbook. Professor will check every single homework and ask the &#039;suspect&#039; in the lessons.",
+      "comment_workload": "No reading.<br />4-6 calculation questions per week. Some are difficult but will mostly be explained by Professor in the lesson.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

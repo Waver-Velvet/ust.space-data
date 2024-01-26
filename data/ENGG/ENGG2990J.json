@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 2266,
+    "subject": "ENGG",
+    "code": "2990J",
+    "name": "Systems Design Engineering",
+    "description": "Introductory course focusing on multidisciplinary design process (problem definition, life-cycle design, design specification, concept/design generation and evaluation, design for manufacturing and assembly), systems modelling and analysis, as well as human factors through user-centric industrial design. Instructor's consent is needed.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1730
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 894,
+        "name": "LEUNG, Suk Wai Winnie",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "yzVRMUaiGHVqd2IZ2Q0vtZurvCbBL7Pc",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 894,
+          "name": "LEUNG, Suk Wai Winnie",
+          "rating": 1
+        }
+      ],
+      "author": "MSA",
+      "date": "Aug 21, 2018",
+      "title": "good journey anyway",
+      "comment_content": "The content is good to let you have introduce you the fundamental concepts in systems design, and how to put theory in practice. The course is some-how project-based, you need to put what you have learnt in lesson in yr project.",
+      "comment_teaching": "Teaching is good and detailed, Winnie is good!!",
+      "comment_grading": "As this is a new course grading that is unclear, I got a B+ at the end.",
+      "comment_workload": "The workload varies across semester, it only be easy if you follow the steps and advise tutor from time to time.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

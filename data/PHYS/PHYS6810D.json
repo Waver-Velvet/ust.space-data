@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 2513,
+    "subject": "PHYS",
+    "code": "6810D",
+    "name": "Introduction to Quantum Field Theory",
+    "description": "Lorentz invariance; Canonical quantization for scalar, vector, spinor; Path integral; Scattering amplitudes; Feynman diagrams; Loop correction; Symmetries; Effective field theory.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1730
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 625,
+        "name": "LIU, Tao",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "hI7OYyDlBNjl1oMPmt9KTFvW8arYC2CG",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 625,
+          "name": "LIU, Tao",
+          "rating": 1
+        }
+      ],
+      "author": "liwingyankobe",
+      "date": "Jul 30, 2018",
+      "title": "Must-take",
+      "comment_content": "This course is quite a rush. It introduces much basic QFT in particle physics perspective. It basically follows the route in Part I and II in the QFT textbook by Peskin and Schroeder. Topics include basic classical field theory, canonical quantization of scalar and spinor fields (but no vector fields due to insufficient time), scattering amplitudes, Feynman diagrams, tree level and one-loop level QED, basic path integral, renormalization and renormalization group. All are essential to understand the principles of QFT. Solid knowledge on undergraduate classical (Lagrangian) mechanics, special relativity (with tensors) and quantum mechanics (especially harmonic oscillator), as well as basic knowledge on complex analysis, group theory etc. are assumed. Personally I do not like the textbook by Peskin, and prefer another textbook by Schwartz with clearer logic and more details. For earlier topics, the lecture notes and problem sets by David Tong are also good references.",
+      "comment_teaching": "Prof. Liu is passionate on teaching. He liked to ask many questions in the lessons. Some were about what he taught and some were about extra knowledge on particle physics (also a little cosmology). He was also willing to answer students&#039; questions. His explanation was clear. However, he assumed students knowing much preliminary knowledge, or even some basic QFT while this course is an introduction. He also only talked about basic things in the lectures and expected us to read textbooks ourselves. Therefore it is indeed hard to follow the pace if you are completely new to QFT.",
+      "comment_grading": "80% homework: best 10 out of 11 assignments carrying the same mark (8)<br />20% final exam: take-home, lasted for one week<br />All are problems in Peskin&#039;s textbook with many solutions online. Actually I am a bit disappointed since I expected the final exam to have something different.<br />I am not encouraging others to look for solutions, but I should emphasize that those solutions are unclear and usually full of errors. You may not get full marks even you follow the solutions. Meanwhile, many students (especially hard-working UG students) get almost full marks due to the same reason, so it is quite hard to get really good grades (A+). I do not know the grade distribution, but I believe it is not bad as a PG course.",
+      "comment_workload": "Approximately one problem from Peskin&#039;s textbook as assignments and one chapter in the same textbook as reading each week. Sometimes the problems are very long and challenging that you may take several days to finish one assignment. Therefore the workload is very high, but it is definitely worth since knowledge on QFT is essential in many fields in physics research. The final exam is not in the final exam period, but at the end of semester. We choose 4 out of 6 textbook problems to work on, that is equivalent to doing four assignments within one week. It may be a pain especially for UG students.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

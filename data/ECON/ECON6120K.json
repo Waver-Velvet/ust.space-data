@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 1657,
+    "subject": "ECON",
+    "code": "6120K",
+    "name": "Topics in Microeconomics: Cheap-Talk: Theory and Experiment",
+    "description": "This course introduces the basic concepts of game theory. The emphasis is on the unifying perspective that game theory offers to questions in economics, other disciplines, and everyday life. It will enable students to view social interactions as strategic games, to use game theoretic concepts to predict behavior in these interactions and to conceive of ways in which altering the game affects social outcomes.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      1610
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ECON\" data-code=\"5210\" href=\"/review/ECON5210\" target=\"_blank\">ECON 5210</a> AND <a class=\"course-link\" data-subject=\"ECON\" data-code=\"5220\" href=\"/review/ECON5220\" target=\"_blank\">ECON 5220</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

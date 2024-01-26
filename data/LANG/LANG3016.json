@@ -1,0 +1,112 @@
+{
+  "course": {
+    "id": 758,
+    "subject": "LANG",
+    "code": "3016",
+    "name": "Laboratory Report Writing for Environmental Science Students",
+    "description": "This course focuses on developing Environmental Science students' ability to produce effective laboratory reports with appropriate organizational structures, vocabulary, language and style. For ENVS students only.",
+    "categories": [],
+    "website": "http://cle.ust.hk/courses/lang3016",
+    "credits": 1,
+    "semesters": [
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"LANG\" data-code=\"2010\" href=\"/review/LANG2010\" target=\"_blank\">LANG 2010</a>",
+    "corequisites": "<a class=\"course-link\" data-subject=\"ENVS\" data-code=\"3001\" href=\"/review/ENVS3001\" target=\"_blank\">ENVS 3001</a>",
+    "exclusions": "",
+    "rating_content": 3.5,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1049,
+        "name": "CHEUNG, Colin",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "wTgmsPUN5SWDehrzebmEdTfjWsBqW9Um",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 1049,
+          "name": "CHEUNG, Colin",
+          "rating": 1
+        }
+      ],
+      "author": "YSA",
+      "date": "Dec 26, 2017",
+      "title": "",
+      "comment_content": "Lab report writing for the ENVS3001 labs.<br /><br />Topics:<br />Overview of lab reports and writing style<br />Writing the introduction<br />Discussing your findings<br /><br />The course is easy but not very relevant or helpful for the ENVS3001 lab reports, as they are only graded based on the content of the reports, not language or writing style.",
+      "comment_teaching": "Colin is an excellent instructor. Very clear, helpful, enthusiastic, and funny. There is only a 50-minute lesson every week, but he covers a lot of material very quickly.",
+      "comment_grading": "Report 1: 30%<br />Report 2: 60%<br />Preparation before class: 10%<br /><br />Got 20/21 in Report 1, don&#039;t know the score for Report 2. Final grade A+.",
+      "comment_workload": "Only 2 reports. Both are from the ENVS3001 course (Lab 1 - Water quality and Lab 3 - ICPMS). The submission dates of these 2 labs for this LANG course are few weeks after the submission of ENVS, so the lab reports are already written. But the criteria and requirements for LANG and ENVS are very different, so it&#039;s not possible to get a good grade by just submitting the same report for both courses.<br /><br />Attendance 80% required. The lessons are only until week 7, no lessons after that.",
+      "rating_content": 3,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "P6FEAnyh1HDVn9BkQIvzasZBcWnJPsVD",
+          "name": "syllabus",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "mJuRBNAPTF2mjfqVfeNfZZRIP8oy6ep9",
+      "semester": "2016-17 Fall",
+      "instructors": [],
+      "author": "Polo",
+      "date": "Jan 31, 2017",
+      "title": "",
+      "comment_content": "This course focuses on developing Environmental Science students&#039; ability to produce effective laboratory reports with appropriate organizational structures, vocabulary, language and style. For ENVS students only.",
+      "comment_teaching": "The tutor was not familiar with the lab report writing and the laboratory terms. He often asked for some scientific terms and the format of the lab report. However, he is passionate in teaching.",
+      "comment_grading": "The grading is good is good in terms of a language course. You may grab an A range if your assignments have overall 5.5/7.",
+      "comment_workload": "The workload is very light. Only 2 lab reports needed to be handed in throughout whole semester",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

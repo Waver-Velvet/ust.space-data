@@ -1,0 +1,78 @@
+{
+  "course": {
+    "id": 2716,
+    "subject": "IEDA",
+    "code": "5270",
+    "name": "Engineering Statistics and Data Analytics",
+    "description": "The course introduces advanced concepts and mathematical principles in statistical  inference (e.g., estimation theory, hypothesis testing, and regression models) and machine learning (e.g. classification and tree-based models, support vector machines, model selection, and unsupervised learning). This course assumes the knowledge of multivariable calculus and probability.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1310,
+        "name": "YOU, Wei",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "GOS8UmpmKYQGjlejHWGy1ZCXriMcYPyd",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1310,
+          "name": "YOU, Wei",
+          "rating": 1
+        }
+      ],
+      "author": "Summer123",
+      "date": "Jan 25, 2024",
+      "title": "content and grade are good",
+      "comment_content": "content is rich,full of statistic knowledge, maybe&nbsp;&nbsp;it is more difficult for the student who is the first time to reach these statistic content.",
+      "comment_teaching": "The teaching method is quite satisfactory. because of the rich content, he had to focus on the slides of the course, but it is very well-organized.",
+      "comment_grading": "I have to say the grade is good ! Homework grade is almost 100/100! and abpout the exam, TA and Teacher will try to give you more points if you write the right process but comput wrong.",
+      "comment_workload": "every week has a homework, if you want to do it perfectly. it needs time! mabe a little heavy for me.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

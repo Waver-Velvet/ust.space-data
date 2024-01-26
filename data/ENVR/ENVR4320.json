@@ -1,0 +1,162 @@
+{
+  "course": {
+    "id": 408,
+    "subject": "ENVR",
+    "code": "4320",
+    "name": "ESG Management and Reporting",
+    "description": "This course examines key frameworks for organizations to report their ESG performance. Following a flipped classroom (blended learning) approach, students are guided to collect corporate ESG data, comment on quality of ESG reporting, discuss issues on ESG disclosure, and study real-world cases of how various organizations manage their climate related financial risk. Throughout the course, the emphasis is on collective learning via division of labour: each student group presents their findings on ESG reporting and management in a specific industry, so that the whole class learn about a wide array of industries from their peers.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2010,
+      1930,
+      1830,
+      1730,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ACCT\" data-code=\"3630\" href=\"/review/ACCT3630\" target=\"_blank\">ACCT 3630</a>",
+    "rating_content": 4.33,
+    "rating_teaching": 2.67,
+    "rating_grading": 3.33,
+    "rating_workload": 1.67,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 222,
+        "name": "GIBSON, J Robert",
+        "count": 3
+      },
+      {
+        "id": 1583,
+        "name": "CHAN, Keith",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "ENCnjFbFydMcBQkhJTGP9wyapLzLBaF7",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 222,
+          "name": "GIBSON, J Robert",
+          "rating": 1
+        },
+        {
+          "id": 1583,
+          "name": "CHAN, Keith",
+          "rating": 1
+        }
+      ],
+      "author": "ust survivor",
+      "date": "May 24, 2022",
+      "title": "take this if you wanna lose brain cells! do it!",
+      "comment_content": "actually really good overview of all esg topics - too bad they&#039;re all useless in actually making an impact in the space LOL",
+      "comment_teaching": "terrible teaching. literally the worst I&#039;ve ever seen. the slides are messy, there is never a clear point, first 8 lecs rush through all the concepts, don&#039;t take away anything from it, then drone on and on about specific aspects of esg ratings without any clear takeaway. Lovely, can I have my time back please?<br /><br />As an example - For the final, I pushed through to rewatch all the lectures, understand all the concepts, and literally quoted the prof and concepts he said for the definition section - still got below mean. They don&#039;t even think what they taught in class is the correct answer AHAHHA",
+      "comment_grading": "Absolutely terrible. Vague instructions, completely biased. You will spend more time trying to understand what it is they want than actually learning anything. <br /><br />I was so frustrated I asked the teaching team why I got so many marks deducted for &#039;presentation of ideas&#039; they said, I should explain more clearly. Thanks, that is very unhelpful.&nbsp;&nbsp;<br /><br />As mentioned above, they don&#039;t even know what they want. If you do badly in this course, its actually a compliment, it means you won&#039;t end up doing data entry at a big four for minimum wage, congrats!",
+      "comment_workload": "you spend a lot of time doing bullshit projects of little consequence - projects, midterm, group assignment, individual assignment, group presentation, individual presentation -&nbsp;&nbsp;if you care about stupid things that don&#039;t matter this is THE course for you.",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 1,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 3,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "vWyXYDUuc4bDGy9PSEENSn4WNWMOXgM2",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 222,
+          "name": "GIBSON, J Robert",
+          "rating": 1
+        }
+      ],
+      "author": "poisonous",
+      "date": "Jun 06, 2020",
+      "title": "Useful but extremely high workload",
+      "comment_content": "Contents are very useful for EVMT students/those who want to find a job in the envr sector. Basically a crash course on all the ESG/sustainability report guidelines/standards + related concepts<br />Because everything&#039;s included the whole course is very packed and rushed",
+      "comment_teaching": "Either he&#039;s not a very good teacher overall or he has bad planning in teaching. His ppt are messy af and he always rushes through everything within the lecture, no explanation whatsoever. But he is very willing to talk to you after class and generally a helpful guy, just not so good while teaching in class.",
+      "comment_grading": "I will let you decide with the statistics, I got A-<br />Item/mean/SD/percentage of overall grade/my score:<br />Tool Presentation/8.547619/0.542732/10/8.7<br />Midterm/3.171429/0.683694/5/3.5<br />Group Project/29.63953/3.128463/35/32.2<br />Individual Essay/7.568571/1.549151/10/6<br />Final Exam/27.21714/5.312912/40/32.03<br />Course Total/76.14429/8.029206/100/82.43",
+      "comment_workload": "I consider this as a 4-cred course. The Group project is very intense and he requires a lot of work. There are also a lot more to do (see Grading) and I can&#039;t see the value of some tasks (eg tool presentation/individual essay)",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "OcizA8KC7zb4VMLUtAc6OypJfjuL8mhg",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 222,
+          "name": "GIBSON, J Robert",
+          "rating": 1
+        }
+      ],
+      "author": "chung yeung",
+      "date": "Nov 29, 2018",
+      "title": "Most useful course for EVMT students",
+      "comment_content": "It has a strong focus on environmental aspects. It looks at:<br /><br />Assessing an organization’s impact on society and the natural environment.<br />Governance, management and reporting of environmental and social issues.<br />How information reported informs investment decisions by asset owners and managers.",
+      "comment_teaching": "A bit boring and repetitive. However professor is willing to answer your answer with good supporting evidence.",
+      "comment_grading": "It really depends on your group performance. Don&#039;t screw it.",
+      "comment_workload": "Quite tough.<br />Work in group and analyse a company&#039;s ESG report. You need to meet with the corporate representatives and utilise Bloomberg Terminal to get the ESG index. <br />At the end you need to make a poster and you will be questioned by the professors and external judges.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "course": {
+    "id": 3042,
+    "subject": "OCES",
+    "code": "5001",
+    "name": "Introduction to Oceanography",
+    "description": "An introduction to the fundamentals of physical, chemical, geological, geochemical, and biological oceanography. It unveils the mystery of the oceans including the formation of the continents, oceanic circulation, and formation of precious minerals in the deep oceans; discovers ocean resources from phytoplankton to fish. The course will lay the foundation for sustainable use of the oceans and discuss human threats such as global warming, overfishing, and coastal pollution.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ENVR\" data-code=\"6050\" href=\"/review/ENVR6050\" target=\"_blank\">ENVR 6050</a>",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 549,
+        "name": "GAN, Jianping",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "1xLMHCG6TpxjjZzEyCzPCH7ClEqGeZOb",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 549,
+          "name": "GAN, Jianping",
+          "rating": 1
+        }
+      ],
+      "author": "Broccoli",
+      "date": "May 23, 2022",
+      "title": "",
+      "comment_content": "It deals with the general field of oceanography. There are various chapters including physics, chemistry, biology, and geological oceanography.<br />Since the professor&#039;s major is physical oceanography, the curriculum is focused on a physics approach.",
+      "comment_teaching": "The professor is pleasant. If you ask a question, it is kindly accepted. He is not enthusiastic about the class, but he teaches with sincerity.",
+      "comment_grading": "Grades are given strictly. They don&#039;t seem to give good grades. But that&#039;s why, in accordance with the midterm and final grades, he treats them neatly.",
+      "comment_workload": "The midterm exam was included in the final exam. The amount of classes is quite large. There is a lot to study and the scope is wide. It is recommended to study continuously. There were no homework or reports.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,998 @@
+{
+  "course": {
+    "id": 2815,
+    "subject": "HUMA",
+    "code": "1000D",
+    "name": "Cultures and Values: Community, Conflict and Resolution",
+    "description": "Even in the age of globalization and highly advanced communication and transportation technologies, human beings still belong to different groups, each with its own set of identifying markers and priorities. These human identities and groupings are fundamentally informed by their historical past. This course is an exploration of human society through a historical analysis of the roots of these broad categories that we use to organize ourselves. The first value of “identity and community” examines the formation and changes in basic categories of differences in human society. These categories include ethnic, religious, and linguistic differences that gave rise to varying layers of identities that each individual may possess. Exploring the second value, “contact and conflict,” entails analyzing how these differences in identities caused competition over ideologies and resources. Finally, understanding the value of “justice and resolution” is an investigation of the ways through which human beings have devised ways to resolve conflicts and disputes within and between groups.",
+    "categories": [
+      "Common Core (SSC-H)",
+      "Common Core (H)"
+    ],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230,
+      2030,
+      1830
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.16,
+    "rating_teaching": 3.8,
+    "rating_grading": 4.04,
+    "rating_workload": 3.92,
+    "review_count": 25,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 990,
+        "name": "ZHANG, Lok Cheung Lawrence",
+        "count": 24
+      },
+      {
+        "id": 1147,
+        "name": "LAW, Chun Yin",
+        "count": 2
+      },
+      {
+        "id": 293,
+        "name": "FREEMAN, Danyal Jonathan",
+        "count": 1
+      },
+      {
+        "id": 300,
+        "name": "LI, Angie Eugenia",
+        "count": 1
+      },
+      {
+        "id": 327,
+        "name": "TSANG, Perseus",
+        "count": 1
+      },
+      {
+        "id": 466,
+        "name": "ENGLAND, Graham James Fisher",
+        "count": 1
+      },
+      {
+        "id": 623,
+        "name": "FOREMAN, Bradley Alan",
+        "count": 1
+      },
+      {
+        "id": 883,
+        "name": "TSANG, Shuk Ching Elza",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "uhPLy6CzGPKcl24GJMxHeU0WAU8iy5Jy",
+      "semester": "2022-23 Spring",
+      "instructors": [],
+      "author": "isc",
+      "date": "Sep 04, 2023",
+      "title": "",
+      "comment_content": "Identity and Community: Family<br />Identity and Community: Villages, Cities and States<br />Identity and community: Ethnicity and Nation<br />Identity and community: Religion<br />Identity and community: Class<br />Contact and conflict: Trade and Taxation<br />Contact and conflict: War<br />Contact and conflict: Rebellion<br />Justice and resolution: Democracy",
+      "comment_teaching": "The slides are mainly visuals (pictures only) and his pace of speech can be quite fast so it would be challenging to capture all the details for people who are new to this area of study.",
+      "comment_grading": "Online discussion (10%) - It&#039;s a bit unclear how they grade this part. Just try to engage as much as you can.<br /><br />Quiz (20%) - Not too challenging, especially if you&#039;re keeping up with lectures. <br /><br />Writing workshop (20%) - Not anything extraordinary, but do make sure you attend, as your attendance counts.<br /><br />Essay (50%) - The essay is the big one. A tip here: a quarter of the essay score comes from how well you respond to feedback on your drafts. So, when you revise, make sure you&#039;re really taking in the TA&#039;s advice and showing that you&#039;ve made changes accordingly.",
+      "comment_workload": "Here&#039;s what to expect:<br /><br />Assigned readings - Don&#039;t stress too much about them. Only one or two questions in the final quiz touch upon these readings.<br /><br />Online discussions - Need to chime in occasionally<br /><br />Workshops - Must-attend<br /><br />Essay - Around 1000 words",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "dNWjLBPU941pwQ9cJ3QmMvFASoJeue0k",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 0
+        }
+      ],
+      "author": "qqbaby",
+      "date": "Aug 04, 2023",
+      "title": "Light Workload but Hard to Understanding",
+      "comment_content": "Identity and Community: Family<br />Identity and Community: Villages, Cities and States<br />Identity and community: Ethnicity and Nation<br />Identity and community: Religion<br />Identity and community: Class<br />Contact and conflict: Trade and Taxation<br />Contact and conflict: War<br />Contact and conflict: Rebellion<br />Justice and resolution: Democracy",
+      "comment_teaching": "Lawrence has a strong understanding on different topics. But he speaks really fast and are unable to follow. His PPT only contains photo so you would not be able to understand without going to class or watching the video. I need to use 0.5 speed to really get what he talks about.",
+      "comment_grading": "Easy B range but hard to get A range as he is very demanding",
+      "comment_workload": "Have assigned reading every week but no need to read, only one or two questions about the reading in final quiz <br /><br />Need to participate in online discussion from time to time<br /><br />Attendance for workshops required <br /><br />Essay of about 1000 words",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "MlGiQFLjqTeGnnkNKZErCNYaKUrL1YdV",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        }
+      ],
+      "author": "Hot soy milk",
+      "date": "Jun 23, 2023",
+      "title": "Good Storytelling",
+      "comment_content": "You can go through other comment la :)",
+      "comment_teaching": "Ummmm Don&#039;t expect too much from the lecture as this is an introductory course. You can literally skip all the lecture and watch the video at home. <br /><br />But I think Lawrence is always a good storyteller so listening to his 2 hour lecture every week would be a leisure rather than torture.",
+      "comment_grading": "Essay: Listen to Your Lang Instructor<br />Writing a &quot;good&quot; essay is super important as it costs 50% your grade. To gain higher marks in the essay, you should be the teacher pet of your workshop instructor. Follow his comment on how to &quot;improve&quot; your essay even you do not agree with him sometime. Lawrence would just see if your essay sounds logical so I guess catering your lang instructor super important. So sometimes I wonder the course code of this course should change to LANG1000D lmao. <br /><br />Remember to use the concept Lawrence taught in the lecture and you don&#039;t need to read the reading material (save your time :)",
+      "comment_workload": "For me, the workload is far from heavy. I think the discussion part is a little bit overwhelming as many classmates type so much that is not necessary Haiyaa :(((((<br /><br />Remember to start for essay earlier so you have more time to improve your essay by receiving more feedback from your instructor. (they are not allowed to answer any your questions on feedback after the last writing workshop) <br /><br />The quiz is simple. Just go through all the lecture, take some note, then I am sure you would be fine. Just some common sense. You have enough time to Google or ask Chatgpt too. (This sem quiz was held online)",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Jcs6PhHB8W8VWGf6XQmpmfMzz1uJmg1q",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        }
+      ],
+      "author": "mikehuntisbald",
+      "date": "Jun 08, 2023",
+      "title": "aim B range就唔建議擺時間落去",
+      "comment_content": "唔重要",
+      "comment_teaching": "冇上堂，有嘗試睇video不過slides 9成係圖，要jot大量notes，個人認為唔值得，上堂影響到嘅quiz都係20%仲要MC，最後video都冇上。Professor教書聽落舒服嘅，對內容有興趣可以去聽下故仔。",
+      "comment_grading": "quiz before the workshop 10%<br />writing workshop 10%<br />lecture quiz 20%<br />online discussion 10%<br />final essay 50%<br /><br />quiz before workshop: 10/10<br />writing workshop: 8/10 (相信9成人都full)<br />lecture quiz: 17/20 (mean:15.02)<br />online discussion: unknown<br />final essay: unknown<br /><br />Final grade: B",
+      "comment_workload": "10% quiz: 12個無限attempt quiz，可以sem頭一次過做曬，唔啱做到啱，有需要先睇materials做quiz<br /><br />10% workshop: 5個workshops，平均每兩星期一個，5%出席，5% workshop homework，內容係逐步要你砌篇essay，第一個workshop揀題目寫thesis，跟著寫introduction...如此類推。個人miss咗一次workshop同一份hw，所以8/10。hw有交有分，fyi我喺交draft essay(workshop 4)先改題目砍掉重練，只能怪自己懶，前3份hw交垃圾只求過骨<br /><br />20% in-class quiz: sorry幫唔到你地，但唔好意思Lecture notes都幫唔到你地<br /><br />10% Discussion: 我剩係參與咗2/3個discussion，有參與嘅discussion都留咗一個300-400字嘅言，冇覆人，另外syllabus寫臨近deadline先留言會斟酌扣分<br /><br />50% essay: 交draft essay用咗兩日做，900字求過骨，重頭戲係收到instructor feedback後要改曬佢要你改嘅嘢，佢要咩就比咩佢，因為當中有25%係計你收到feedback後，要解釋你根據個feedback改咗乜。final submission都用咗兩日做，接近maximum字數<br /><br />總結: workshop相關20%要執曬，workshop hw建議認真做；lecture quiz唔評論；Discussion有興致都可以同其他同學投入討論；essay要花時間滿足instructor要求，如果workshop有認真做hw應該會比我用更少時間完成。好似我咁B range就滿足就只需要sem尾努力下，但望返轉頭自己hw同discussion努力啲結果可能會更好，不過是但啦",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "BTgwtuO1gEF5vuS3OKZPWGLaRz3llQ2f",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        }
+      ],
+      "author": "科大波佬",
+      "date": "Jun 07, 2023",
+      "title": "very relax course and good grade",
+      "comment_content": "Week 1a: Course Introduction<br />Week 1b: Family 家族對identity 既影響<br />Week 2: Villages, Cities, States<br />Week 3: Ethnicity and Nation<br />Week 4: Religion 宗教係人類歷史既作用<br />Week 5: Class 階級，馬克思主義係咩<br />Week 6: Trade and Taxation<br />Week 7: War 美國內戰，戰爭對人類的意義<br />Week 8: Rebellion<br />Week 9: Holiday (No Lecture)<br />Week 10: In-class Quiz (20%)<br />Week 11a: Mid-Term Break<br />Week 11b: Delivery of Justice<br />Week 12: Political Mediation<br /><br />********<br />interesting conetent, I regret skipping all class and only watch video at home. If you like 老高video, u probably also like this class.<br />********",
+      "comment_teaching": "Lawrence always shout at the student to not talk in class. However, no one talks actually , does he has 幻聽???",
+      "comment_grading": "A- <br />essay very important <br />essay very important <br />essay very important <br />quiz:18/20",
+      "comment_workload": "0 workload<br />just go to tutorial class and hand in the essay on time and your are good.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "6cizSjAXE79IbLV4rvVndFKbTU8ZD1iW",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        }
+      ],
+      "author": "ChloeYu",
+      "date": "Jun 07, 2023",
+      "title": "Tutorial teacher determines everything",
+      "comment_content": "The contents are fruitful and interesting.<br />Week 1 <br />Course Introduction: Environmental forces and human society – location, climate, and people<br /><br />Week 2 <br />Identity and Community: Family<br />Family is the most basic unit of social organization, but what exactly constitutes a family? Who “belongs” to a family, and why? What are the different ways through which human beings organize themselves into kinship units? <br /><br />Week 3<br />Identity and Community: Villages, Cities and States<br />Moving beyond the family, we start developing tribal organizations that may be local or regional but transcend the immediate family. <br /><br />Week 4 <br />Identity and community: Ethnicity and Nation<br />Ethnic groups and nations as “Imagined communities” that nevertheless have people believe they all belong together in one natural grouping.<br /><br />Week 5 <br />Identity and community: Religion<br />Deity worship, supernatural beliefs, and how these concepts bind and divide humanity and helped organize human society. <br /><br />Week 6 <br />Identity and community: Class<br />Who owns the means of production? Who gets the lion’s share of income in a given society? Why did class become an issue and how has that changed the way we view our world?<br /><br />Week 7 <br />Contact and conflict: Trade and Taxation<br />From barter to global free trade, the exchange of goods and government taxation of production is one of the fundamental pillars of government. <br /><br />Week 8 – March 27, 2023<br />Contact and conflict: War<br />War is the continuation of politics by other means. Fighting over resources, people, and beliefs is also one of the fundamental drivers of human change.<br /><br />Week 9 – April 3, 2023<br />Contact and conflict: Rebellion<br />Whether from within or without, rebellions (and revolutions) often had tremendous impact on the societies in which they took place.<br /><br />Week 10 <br />Justice and resolution: Delivery of justice<br />One of the primary functions of a government is the deliverance of some form of justice – to arbitrate disputes and resolve differences.<br /><br />Week 11 – April 24, 2023<br />Justice and resolution: Democracy",
+      "comment_teaching": "Boring teaching<br />But with a great accent",
+      "comment_grading": "The grading is not transparent.<br />The Online Discussion (10%) and Final Essay (50%) score was not released<br />I got 19/20 on the final quiz, a full score in the workshop part, but only got a B.<br />You need to choose a good tutorial teacher. They are from CLE. Do not choose killers. And they did not know what had been taught in the lecture. Anyway, a really bad experience with the tutorials. You will not learn anything useful. Just a waste of time.<br /><br />Grading Scheme:<br />Writing Workshop (Online) 10% (Completion)<br />Writing Workshop (Classroom)10% (Attendance)<br />Final Essay 50%<br />In-class Lecture Quiz 20%<br />Online Discussion 10%",
+      "comment_workload": "Not high. No attendance for the lecture. <br />Only need to get prepared for the workshop tasks and attend every workshop.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 1,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 2,
+      "attachments": []
+    },
+    {
+      "hash": "Psp05HUNgHs34xTNG8gi2fO2JplWKR0F",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        },
+        {
+          "id": 883,
+          "name": "TSANG, Shuk Ching Elza",
+          "rating": 1
+        }
+      ],
+      "author": "Oliver Kenobi",
+      "date": "May 23, 2023",
+      "title": "A compelling course with low workload",
+      "comment_content": "Week 1 - Introduction<br />Week 2 - Identity and Community: Family<br />Week 3 - Identity and Community: Villages, Cities and States<br />Week 4 - Identity and Community: Ethnicity and Nation<br />Week 5 - Identity and Community: Religion<br />Week 6 - Identity and Community: Class<br />Week 7 - Contact and conflict: Trade and Taxation<br />Week 8 - Contact and conflict: War<br />Week 9(i) - Contact and conflict: Rebellion<br />Week 9(ii) - No Lecture (Easter Monday)<br />Week 10 - Justice and resolution: Delivery of justice<br />Week 11 - Justice and resolution: Democracy<br />Week 12 - No Lecture (Labor Day)<br />Week 13 - In-class Lecture Quiz (Arrangement Details)<br /><br />As you can see the content of the course is mainly about",
+      "comment_teaching": "The PowerPoint is mainly pictures and bullet points, it&#039;s encouraged that you attend the lectures, write down some important points.<br />Prof Lawrence speaks at a moderate pace, easy to understand.",
+      "comment_grading": "Online discussion&nbsp;&nbsp;10%<br />Quiz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20%<br />Writing workshop&nbsp;&nbsp;20%<br />Essay&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;50%<br /><br />The grading was extremely ambiguous, you don&#039;t know how they&#039;d grade the online discussion.<br /><br />The quiz wasn&#039;t that difficult, if you attend all the lectures, you are gonna do fine, I remember there was a question specifically asking about one of the slides in the PowerPoint.<br /><br />The Workshop was nothing special, please do go, attendance matters.<br /><br />Finally, the essay, one important thing, a quarter of the score goes to the response to your previous draft, try to write more to show that you listen to the instructions given by the TA. The response part definitely wasn&#039;t worth 25% of the final essay, stupid",
+      "comment_workload": "Mainly the essay, the online discussion is a pain in the butt, everyone writes so many words, forced me to write an entire essay just to catch up.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "M0BGGUDFZ1sGQWElRZSqb9jo5hf5RDXX",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        },
+        {
+          "id": 293,
+          "name": "FREEMAN, Danyal Jonathan",
+          "rating": 1
+        }
+      ],
+      "author": "TheodoreYuen",
+      "date": "Feb 09, 2022",
+      "title": "",
+      "comment_content": "Lecture 1: Family<br />Lecture 2: Villages, Cities, States<br />Lecture 3: Ethnicity and Nation<br />Lecture 4: Religion<br />Lecture 5: Class<br />Lecture 6: Trade and Taxation<br />Lecture 7: The Myths of Meritocracy<br />Lecture 8: War<br />Lecture 9: Rebellion<br />Lecture 10: Delivery of Justice<br />Lecture 11: Democracy<br /><br />Somewhat interesting, personally didn&#039;t find them to aspiring but at least it&#039;s not bad",
+      "comment_teaching": "Both are pretty friendly<br /><br />Professor Zhang&#039;s lecture wasn&#039;t bad, at least I don&#039;t feel bored listening to him. <br /><br />Dr Freeman was in charge of the essay workshop, the consultation section can be helpful, make sure to utilise that to the fullest, especially since he would be the one grading your essay (if I remember it correctly)",
+      "comment_grading": "20% Quiz (Act as the final exam)<br />10% Online discussion<br />20% Online writing workshop<br />50% Essay<br /><br />The grade is mostly determined by your essay as you can see, mine was pretty shit IMO but somehow manage to get an A range in the end, the score for the essay was not available so I can&#039;t tell what I got from it, and without any reference to class performance and statistics, based only on my perception, pretty lenient",
+      "comment_workload": "The quiz acted as the final exam, it&#039;s pretty easy, just pay attention in class and run through the notes once before it and you will be fine. The online writing workshop are free as you have infinite attempts for all of them, just make sure you submit them on time. The online discussion is troublesome, I just put some random things that marginally connect to the topic to the thread and probably only got the minimum score on that part, though it&#039;s just 10%. The timeline for the essay is the most demanding, and speed up way too fast by the end and basically expect you to finish your essay within 2 weeks. Of course, that&#039;s only based on my experience and better planning may help for you.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "yubqtpr9Fb6LI6i7WkxyRXQvrj50N3EH",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        }
+      ],
+      "author": "guesswho",
+      "date": "Jun 27, 2021",
+      "title": "Interesting course, just be careful when choosing your tutor",
+      "comment_content": "Week 1: Course Introduction + Food and Living<br />Week 2: Family<br />Week 3: (Holiday)<br />Week 4: Villages, Cities, States<br />Week 5: Ethnicity and Nation<br />Week 6: Religion<br />Week 7: Class<br />Week 8: Trade and Taxation<br />Week 9a: War<br />Week 9b: (Holiday)<br />Week 10: Rebellion<br />Week 11: Delivery of Justice<br />Week 12: Democracy<br />Week 13: In-Class Quiz<br /><br />Pretty interesting content as it covers issues and concepts in different countries and regions, so I find it quite interesting to learn these and also gained some insights from the course.",
+      "comment_teaching": "The reason why I give a C for teaching is because of the tutor. Lawrence is a really nice professor, and he is a very knowledgeable professor and personally I quite like his teaching. He also got decent accent so you can easily understand his English. However, he only puts pictures in the ppt so you will have to rewatch the video recording for revision.<br /><br />Yet, the tutorial is horrible. My tutor is Mike, and he seemed to be mad all the time. Always questioning your approach but not giving constructive feedback. When you try to ask him questions regarding the essay he never answer you. So don&#039;t expect him to really help you with the essay. My advice would be choosing another tutor if possible",
+      "comment_grading": "Quiz 20%<br />Online discussion 10%<br />Writing workshop 20%<br />Essay 50%<br /><br />I would say the grading is not really transparent, as the only score you know is your quiz score, which only takes up 20% of your final grade. Quiz is not really hard as long as you watch back lecture videos during revision. The grading on the essay is also quite subjective in my opinion. But I guess the overall grading is reasonable.",
+      "comment_workload": "Heavier than expected. The workshops are fine as it is bi-weekly. The worst part is the canvas discussion. People tend to type really long response on canvas (400 words up) and if you want a good grade for the online discussion, you will need to write quite a lot each time. And you will also have to include reference, so it takes quite some time for only 10% of the score (well of course you can just give it up but obviously not a suggested approach)",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "8RiNKV3xFBtUpsNwA33fOscjun2dDRBG",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        },
+        {
+          "id": 327,
+          "name": "TSANG, Perseus",
+          "rating": 1
+        }
+      ],
+      "author": "a piece of cake",
+      "date": "Jun 10, 2021",
+      "title": "Interesting HUMA course",
+      "comment_content": "Three big modules? but I don&#039;t think there is a clear borderline between each chapter, they can be correlated. <br />the content is just like the course name, nothing special so it is hard to give you a specific thing to be taught. Please check other reviews for the titles of each lecture.<br />most of the thing I can learn from this course is how history can affect the group identity, it is fun to read the chatbox during the lecture on zoom. You will see locals and non-locals arguing some cool things with each other and within the group.<br />One of the most interesting things I saw is that they argued shd ppl who don&#039;t wear mask being punished, and one of the ppl related it to smoking. See you will meet ppl with a very special thought in this course, this should be one of the contents of this course lmao.",
+      "comment_teaching": "Lawrence accent is good, but I feel sleepy during his lecture when he talks about history. He is a good storyteller, and his ppt is full of picture and very few words. I merely see a complete sentence in his ppt unless he wanted to talk about the definition of some words.",
+      "comment_grading": "quiz: 16/20 (mean:14.36)<br />workshop full marks <br />canvas discussion -&gt; unknown but I speak once only for each discussion<br />essay -&gt; unknown<br />B+ at the end<br />I know why I got a B range because my essay is not well written in terms of elaboration? And some apparent grammar mistake I think lmao",
+      "comment_workload": "bi-weekly workshop, not heavy but helpful for your essay<br />the workshops are provided with the answer<br />the canvas discussions are like pieces of a short essay, around 250 words on average? I wrote one when I am drinking alcohol so)<br />essay is the main part of the course so you have to spend time on doing researches",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "yJyLvD7Vu1sath9yx2eccSp7mtrAcKxf",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        }
+      ],
+      "author": "{Curly Braces}",
+      "date": "Jun 09, 2021",
+      "title": "Course with Somewhat Interesting Content",
+      "comment_content": "The schedule of this semester is as follows:<br />Week 1: Course Introduction + Food and Living<br />Week 2: Family<br />Week 3: (Holiday)<br />Week 4: Villages, Cities, States<br />Week 5: Ethnicity and Nation<br />Week 6: Religion<br />Week 7: Class<br />Week 8: Trade and Taxation<br />Week 9a: War<br />Week 9b: (Holiday)<br />Week 10: Rebellion<br />Week 11: Delivery of Justice<br />Week 12: Democracy<br />Week 13: In-Class Quiz<br /><br />The content is somewhat interesting, from what you see in daily life to some history on how identities are formed, to how people come in contact and conflict, and lastly to justice and resolution.<br /><br />The daily-life example used is actually quite up-to-date. For example, in the Rebellion lecture, Lawerence used the BLM movement and Capitol Siege as examples.",
+      "comment_teaching": "Lawerence actually doesn&#039;t have much accent problem in the lecture.&nbsp;&nbsp;<br />He is open to students&#039; questions, either about the essay or the lecture.<br />However, there are two things that you may find not appealing about his teaching:<br />Firstly, his PowerPoint slide used are mainly only images, and seldom text. Therefore, you may want to review lecture videos again after the lecture/before the quiz to understand what is happening.<br />Secondly, he teaches at a rather slow pace. This one is quite neutral, since some students may take time to understand. If you think you can understand everything quickly, you may turn on 2x in lecture recording.",
+      "comment_grading": "Grading Scheme:<br />Quiz 20%<br />Online discussion 10%<br />Writing workshop 20%<br />Essay 50%<br /><br />The grading is so-so, as the score on essay and online discussion is lack transparency (We don&#039;t know exactly how we do on each part).<br /><br />For me, I got 15/20 on the quiz (Mean: 14.36)<br />Final Grade: B+",
+      "comment_workload": "The workload of this course is generally fine.<br /><br />For the online discussion, just put your idea as soon as possible so that you are not repeating others&#039; idea. Reply to others regularly, and maybe try to reply the replies to your post.<br /><br />For the Writing Workshop, make sure you do your work and listen to your tutor&#039;s feedback (unless they are really bad lol). There is not much I can say here.<br /><br />For the Essay, you can actually finish the draft early and modify it progressively as the semester goes on, according to your tutor&#039;s feedback. Of course, this really depends on your motivation to do so.<br /><br />For the Quiz, have fun doing HUMArathon before and note down what Lawerence said. As I said in the teaching section, his slides are mainly images so you have to watch lecture videos to understand better and refresh your mind. The quiz is 20 MCQs with no turning-back policy on Canvas.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "gYrSA4hiSWh91NSY3SIsNETu3pASttup",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        },
+        {
+          "id": 623,
+          "name": "FOREMAN, Bradley Alan",
+          "rating": 0
+        }
+      ],
+      "author": "yellow object",
+      "date": "Jun 09, 2021",
+      "title": "",
+      "comment_content": "Introduction<br />Identity and Community: Family<br />Identity and Community: Villages, Cities, States<br />Identity and Community: Ethnicity and Nation<br />Identity and Community: Religion<br />Identity and Community: Class<br />Contact and Conflict: Trade and Taxation<br />Contact and Conflict: War<br />Contact and Conflict: Rebellion<br />Justice and Resolution: Delivery of Justice<br />Justice and Resolution: Democracy",
+      "comment_teaching": "The lecture is fine, it doesn&#039;t really help the essay but still suggest you to attend them so you won&#039;t need to study much for the quiz. The tutor seem fine but I have no idea how he grade my essay.",
+      "comment_grading": "Quiz 20%<br />Online discussion 10%<br />Writing workshop 20%<br />Essay 50%<br /><br />My grade: <br />quiz 10/20<br />others ?<br />B-<br /><br />I suggest you take HUMA1000A or B if you want a better grade, I just took this because it fits in my timetable.",
+      "comment_workload": "Remember to complete all tasks and attend workshop, follow the tutor&#039;s instructions and comments. I have completed all tasks and participated much in discussions, corrected all parts that the tutor suggested and even went to every consultation session, but still couldn&#039;t get an A range. Good luck.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "8AQtkWe7jMmOANqqpgE4270YcqCiuHZ4",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 0
+        }
+      ],
+      "author": "淺水健",
+      "date": "Jun 09, 2021",
+      "title": "a course you must to equipped with international view",
+      "comment_content": "common sense stuff, but if you do not care about international issues such as BLM, Euro history etc.. You must not register this course!",
+      "comment_teaching": "Lawrence only put a few things in his ppt. you have to pay much attention at the lecture. The workshop tutor was very strict. If your work had done and submitted but not fulfill the tutor, he would record your task as 0 mark. So, read the assignment instruction carefully. Also, sometime I did not understand the comment of essay from tutor.",
+      "comment_grading": "bad grade, c range",
+      "comment_workload": "high, in canvas have to do lot of quiz for the workshop. everyone aim to be full mark.",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 9,
+      "comment_count": 2,
+      "attachments": []
+    },
+    {
+      "hash": "OE0IEIBnAOCl4ZhOAnfnSS7YUUaCZIfi",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        }
+      ],
+      "author": "神月 godmoon",
+      "date": "Jun 09, 2021",
+      "title": "One of the most fruitful course in this semester",
+      "comment_content": "Week 1a: Course Introduction<br />Week 1b: Family<br />Week 2: Villages, Cities, States<br />Week 3: Ethnicity and Nation<br />Week 4: Religion<br />Week 5: Class<br />Week 6: Trade and Taxation<br />Week 7: War<br />Week 8: Rebellion<br />Week 9: Holiday (No Lecture)<br />Week 10: In-class Quiz (20%)<br />Week 11a: Mid-Term Break<br />Week 11b: Delivery of Justice<br />Week 12: Political Mediation<br /><br />The content of the lecture is interesting, especially under the current political situation. There are so many social phenomena that you didn&#039;t realize but did happen in your daily life. <br /><br />For example, how do we draw our boundaries? Would prefer to describe yourself as a son, student of HKUST, a citizen of HK V.S. China, or Asian? Even do we migrate into Japan, will we be accepted by the foreigners even though we are politically defined as Japanese? In Hong Kong, there are many races of people such as the Pakistanis, Indians, and the mainlander. Why still many Hong Kongers did not accept them? What makes us classify someone as an &quot;outsider&quot;?<br /><br />In terms of culture, the lecture content covers different cultures, ranging from Eze, France, Shirakawa-go, Fujian tulou, Regensburg, Venice, Qingming shanghe tu. It also covers the way culture transmit across the physical boundaries and the economic cycle of the ancient world, the function of the village, class, government, races, cities, states.<br /><br />Not only the historical events, but it also covers some current social issues. For example, the nuclear waste of Japan, WWII, nationalism, BLM, covid-19, and the US election, which will definitely make you have a better understanding and the way we look at our world.",
+      "comment_teaching": "Trust me. Professor has a beautiful accent and you will not feel bored at all. The professor will sometimes explain words in Cantonese and I can feel he is very passionate and professional in the Hong Kong culture and some social issues.<br /><br />However, you should always attend the lecture as the professor only put pictures in his PowerPoint slide with no details. My advice is to drop your own notes on your paper to record what he said in the lecture. You would be fine.",
+      "comment_grading": "I would say the grading is very generous.<br /><br />Canvas Discussion * 3 ( total 10%)<br />Writing workshop online activities (Canvas writing workshop quizzes) 10%<br />Writing workshop homework submission &amp; attendance 10%<br />Course Quiz with 20 MCQs 20%<br />A term essay 50%<br /><br />My grade:<br />Quiz 14/20 (Mean 14/20)<br />Other: did not release<br /><br />Grade: A<br /><br />************<br />From the above, you can see that the essay part matters a lot. &quot;Please focus on your essay writing. The essay grading could very subjective. Since the tutor is the one who grades your essay, you should follow his/her instruction even though you think those suggestions are not useful.&quot;<br /><br />************",
+      "comment_workload": "The workload here is the attendance part (5 tutorial sessions in the semester), canvas discussion, the quiz, and the essay part.<br /><br />I would say the workload is fair as you don&#039;t need to pay much effort in the classroom activity and the canvas discussion. The quiz questions will be related to the lecture content. Please pay attention to both the essay part and the quiz as it counts 70% of your total grade given that everyone should be able to get full marks for the remaining 30%.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "AUZmmGtpzHW6giNxvSIR0qOwamJ4WslQ",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        },
+        {
+          "id": 466,
+          "name": "ENGLAND, Graham James Fisher",
+          "rating": 1
+        }
+      ],
+      "author": "SQ Flyer",
+      "date": "Jun 08, 2021",
+      "title": "Having a societal &amp; ideological sense matters",
+      "comment_content": "For the entire course content, a total of three major parts is included.<br />Identity and community is the key focus for the course and the quiz, also for your term essay. <br /><br />For details please refer to the attachment.<br /><br />I would say some of the lecture content are quite interesting and inspiring given that you have some background knowledge or sense on them. Identity conflicts between ethnic groups around the world in the past are still quite relatable to today&#039;s global affairs. You can see well the examples are quite all-rounded and carefully selected, like the Israel-Palestine conflicts last month, the US Parliament incident this year can show how identity in different aspects influence the ideological competition in these days.",
+      "comment_teaching": "I think Prof. Lawrence Zhang provide a detailed insight on different aspects of identity issues, the associated historical &amp; ideological conflicts of the medieval and post-modern times, and the respective resolutions and trends. <br /><br />The course is somehow like a social science or history class rather than a rigorous humanities class I would say, since the topics are more like related to the historical development of the civilized society in medieval China &amp; Europe, viewing the topics from a historical and socio-political point of view may help. <br /><br />I would say the topics chosen are fine, the problem is the professor loves to show lots of picture (without words) in the class presentation and somehow the examples illustrated like those European Empires, Chinese royal states (he talks so much on the 康熙皇帝 清朝官廳 those stuffs) may find unfamiliar for most local students. If you follow the real-time lectures, you may find difficult to follow given you need to jot extra notes and listen to what he says (especially he often uses very specific terminologies &amp; uncommon vocabularies), and see the naughty kids kept yelling in the chat box !! so I suggest you to watch the after class lecture videos instead. <br /><br />For the writing tutorial, my tutor Graham is quite supportive and he often provides useful feedbacks on your essay progress. I worked on a quite distinctive case and we found it enjoyable.",
+      "comment_grading": "Like the other HUMA 1000 courses, your essay almost defines your grade. See below.<br /><br />Canvas Discussion * 3 10%<br />Writing workshop online activities (Canvas writing workshop quizzes) 10%<br />Writing workshop homework submission &amp; attendance 10%<br />Course Quiz with 20 MCQs 20%<br />A thousand word term essay 50%<br /><br />My grade:<br />Quiz 15/20 (Mean 14/20)<br />For other components I have no idea on the score. <br />Turns out an A. <br />I am quite satisfied with this. <br /><br />Remark: I chose Prompt 1 (Identity politics demonstrating inclusiveness) as my essay topic. <br />(only I myself and another student in my tutorial group chose Prompt 1)<br /><br />Most students chose Prompt 2. <br /><br />I suggest students to take this course if you just can&#039;t get registered to 1000A/B, this course is comparatively less competitive or if you have some sense on social matters, then choose this course my majesty.",
+      "comment_workload": "The workload really depends on the efforts you have placed on the term essay and the Canvas Discussion forum, and also your preparation for the course quiz in the final teaching week. <br /><br />For me, I watched part of the lecture videos consecutively during Easter break, and some of the remaining videos I watched them around a week before the quiz. Because the quiz is open-book Multiple choice questions, you better prepare a tailor-made notes to jot down the definitions and examples illustrated during lectures. <br /><br />For Canvas discussion forum, a total of three forums was assigned which lasted for two weeks each. You just shared your views promptly with supporting arguments and references, and replied to your tutorial students regularly. I saw someone replied crazily but I think it&#039;s just not necessary. For me, I posted 3 feeds on the first forum, 7 feeds on the second forum (about meritocracy) and only 2 feeds on the final forum. Not replying too late would be fine. <br /><br />Your essay depends on how you defined the topic you would like to focus on from the essay prompts given. Before each writing tutorial, you were supposed to submit the Canvas workshop quizzes and should have submitted a partial contribution of your essay. The tutor then provided you the feedbacks. Just don&#039;t make silly mistakes and submit all on time will be fine. <br />The tutor and professor would send you timely emails on how you can work on your essay, and they are likely to discuss with you by appointment. <br /><br />Suggestions on essay: <br />You better choose a topic focus and case that you are very familiar or confident with (for local I suggest working on local identity issue or those you have well heard of). <br />Don&#039;t bother defining your thesis in a very vague and unrealistic manner. There are lots of flexibility for you to show your views and supporting arguments promptly. <br /><br />Or else you will be someone who always complain you are a revision jj and no nuinui, while that guy ends up very poor grade, delivering goods all day long and got brainwashed with sinovac",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "MN6p53bfd6m9sCmO8Xh3Tfc5RfXehw6O",
+          "name": "HUMA1000D Spring 2021 Course Syllabus",
+          "format": "pdf"
+        },
+        {
+          "key": "8FuJS6YaHZltLe2Vt40zfudhCBHAZ14q",
+          "name": "HUMA1000D Spring 2021 Essay Prompts",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "LkBaNuIo2QbUP2zeN0oNCQ5c6W7SSF2u",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        }
+      ],
+      "author": "feichai",
+      "date": "Oct 22, 2019",
+      "title": "",
+      "comment_content": "Week 1a: Course Introduction<br />Week 1b: Family<br />Week 2: Villages, Cities, States<br />Week 3: Ethnicity and Nation<br />Week 4: Religion<br />Week 5: Class<br />Week 6: Trade and Taxation<br />Week 7: War<br />Week 8: Rebellion<br />Week 9: Holiday (No Lecture)<br />Week 10: In-class Quiz (20%)<br />Week 11a: Mid-Term Break<br />Week 11b: Delivery of Justice<br />Week 12: Political Mediation<br /><br />There are lectures every week. I think those taught before the in-class quiz are important because they are the materials tested in the quiz and some of them would be the in-class citation of your essay(you need to cite 5 things, anything taught in the lectures).<br /><br />Since you should have decided your blueprint of your essay early when the course just start, you should have more ideas on lectures taught earlier. And the lectures after the quiz will not be tested them (There&#039;s no FINAL in this course). So those after the quiz are useless.",
+      "comment_teaching": "Prof. Zhang is a Hong Kong people although his surname looks like Pinyin. <br /><br />Smooth English. Clear presentation. PPT a bit few wordings, so you may need to jot knots during lectures. <br /><br />Sometimes funny, but most of the time quite boring due to the materials. But it still depends on whether you like Chinese traditional culture(quite a number of the lecture materials are related to it).",
+      "comment_grading": "In-class Quiz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(20%)<br />Essay + Attendance of compulsory workshop&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(80%)<br /><br />Go through lecture PPTs and in case you skip class (which everyone would) there are lecture videos uploaded to Canvas. So no worries.<br /><br />All MC, but the testing method is quite tricky:<br />They&#039;ll show you PPTs with questions and choices of it on the lecture hall&#039;s screen, and would change to the next question. Each Q is around 1m20s.<br /><br />Most important is too follow the essay-workshop&#039;s tutor&#039;s teaching! Meet as many as requirements the tutor give and you&#039;ll get good grade. He/She control 80% of your grades! Prof. won&#039;t know your essay.<br /><br />My result:<br />Quiz (14/20)<br />Essay (doesn&#039;t show)<br /><br />Final grade: B+",
+      "comment_workload": "Not hard.<br /><br />You can skip class as there&#039;re lecture videos.<br /><br />Just one in-class quiz &amp; one essay.<br /><br />Workshops will help you and give a force for you to finish the essay right in time. So you won&#039;t feel harsh :)",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "A3d325JTPnyQf4vYKpLZWmH0foC4XkMb",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        }
+      ],
+      "author": "Maxlee",
+      "date": "Oct 17, 2019",
+      "title": "A good grading course",
+      "comment_content": "Content is good but I got almost fallen asleep because the content is so long. There are lecture videos on canvas and optional reading for each module.",
+      "comment_teaching": "Lecture Teaching is good and explained well. Prof. Zhang usually gives 5-10 minutes breaks in the midst of class so u can refresh urself first. He is also open to questions too",
+      "comment_grading": "Syllabus<br />20% 1 In-Class Quiz<br />10% 3 Canvas Online Discussions<br />10% of Canvas Online Writing Workshops<br />10% In-Class Writing Workshops<br />50% Term Essay - submitted through Turnitin",
+      "comment_workload": "Overall, the workload is pretty heavy. However, as long as you manage time well and work consistently on the assignment due deadline dates through beginning to mid of course, you will be able to catch up on revising the final essay during the end of the term.<br /><br /><br />There are 2 Online Discussions throughout the semester which&nbsp;&nbsp;each discussion&#039;s deadline is approximately 12 days<br /><br />5 In-Class Writing Workshops (Compulsory Attendance) and for my tutorial section it was actually split into 2 groups (1st session comes earlier and 2nd section comes later).<br /><br />Final essay - The most influential impact on your grade.&nbsp;&nbsp;Make sure to not miss any assignments bc you need to revise it in a short time before the final draft and exact final essay submission date. And you need to list your revision efforts in the front of final essay&#039;s cover page.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "zVirv3o50qX13ijyknB5lqsuey3ppkgv",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        },
+        {
+          "id": 1147,
+          "name": "LAW, Chun Yin",
+          "rating": 1
+        },
+        {
+          "id": 300,
+          "name": "LI, Angie Eugenia",
+          "rating": 1
+        }
+      ],
+      "author": "vanessapriss",
+      "date": "Aug 25, 2019",
+      "title": "Good Course as long as you can manage the workload",
+      "comment_content": "Lecture Content:<br />Content is good but heavy memorization and very loong content. Myself got almost fallen asleep because the content is soo loong loll <br />There are lecture videos on canvas and optional reading for each modules. Basically it talks mostly about types of communities (families, villages, states, nations).<br /><br />Essay writing content is also good bc its pretty easy if u like writing/reading and explained very clear. There is the materials of writing attached too in Canvas. There are 3 topic questions u can choose to answer for your essay",
+      "comment_teaching": "Lecture Teaching is good and explained well. Prof. Zhang usually give 5-10 minutes breaks in the midst of class so u can refresh urself first. He is also open to questions too<br /><br />My Class TA is Ms. Angie LI. She is a good professor and willing to answer questions from students. She also explains the essay making steps very well, so that I understand easily.",
+      "comment_grading": "The grading is overall good as long as you keep track of the online discussion and online workshop deadlines in Canvas. Be careful to not miss any deadlines or it will cause a significant impact on your final grade.&nbsp;&nbsp;<br /><br />Syllabus<br />20% 1 In Class Quiz <br />10% 3 Canvas Online Discussions<br />10% Canvas Online Writing Workshops<br />10% In Class Writing Workshops<br />50% Term Essay - submitted through turnitin same like LANG1002/3<br /><br />Luckily there are no midterm or finals",
+      "comment_workload": "Overall, the workload is pretty heavy, given last semester I also had to take other heavy-workload courses such as MGMT2010 and ISOM2010. <br />However, as long as you manage time well and work consistently on the assignment due deadline dates through beginning to mid of course, you will be able to catch up on revising the final essay during the end of the term.<br /><br /><br />There are 3 Online Discussions throughout the semester (you have to post frequently bc your TA is going to check and review your comments, each discussion&#039;s deadline is approximately 12 days);<br /><br />5 In Class Writing Workshops (Mandatory Attendance and make sure to come no more late than 15 minutes, otherwise you will lose your attendance mark), and for my tutorial section it was actually split into 2 groups (1st session comes earlier and 2nd section comes later). And you have to bring your own laptop too<br /><br />Online Writing Workshops, do not submit late bc it may decrease your final grade. <br /><br />Final essay - The most influential impact on your grade (it weighs for the half of final grade!). Make sure to not miss any assignments bc you need to revise it in short time before the final draft and exact final essay submission date. And you need to list your revision efforts in the front of final essay&#039;s cover page. If u submit the final essay late from the deadline, you may not get A range.<br /><br />Quiz - This is the only part that is acceptable i think (and the small percentage so it is not that impactful as final essay). (I did poor on the quiz :(( ) But make sure u prepare the materials bc there is a lot of memorization cuz the quiz has many trapping questions. Quiz structure is informed through last lecture class bfr quiz and itsc email.<br /><br />btw for my lecture class, the lecture attendance is not needed.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "wfxCHBJ25QmkfmSmy1ikMaGkzvcUXYgv",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        }
+      ],
+      "author": "Mikado",
+      "date": "Aug 20, 2019",
+      "title": "",
+      "comment_content": "Identity and Community, Contact and Conflict, and Justice and Resolution<br />simply is about this<br />it has a variety things that was covered.",
+      "comment_teaching": "i don&#039;t know very clear because i usually skip the lessons but it is quite interesting for prof.&#039;s teaching. however, his PowerPoint has only pictures and a few words. So if you want a good marks in quiz, you better go to the lectures.",
+      "comment_grading": "Quite ok if you finish all the assignments and discussion and go to all the tutorials. but most important is your english have to be quite good and also have some points in your mind. it is quite difficult to get good grade when you are not interested in any of the problem happening around the world.",
+      "comment_workload": "a lot of assignments but very easy and are all mcs.<br />the quiz is also not very difficult if you watch the lecture video.<br />the heaviest workload is the essay. You always don&#039;t know why the tutor said you are wrong.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "MDVlKdIfeTeH1fb6iDETcUOu8YuZXID1",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        }
+      ],
+      "author": "JKL",
+      "date": "Aug 17, 2019",
+      "title": "interesting class, cool professor",
+      "comment_content": "Covers a variety of topics, all which are very interesting. It gave me a new perspective on life and the way I view history and the future. I was able to understand my identity better, as well as others, and understand why people act the way they do. All the topics were somehow related back to our own experiences, which I enjoyed because it made understanding the content a lot easier. The prof would relate the content back to Hong Kong issues and society, which definitely makes people a lot more aware. <br /><br />The tutorial content is unnecessary and a waste of time, especially if english is your first language. you go through a few classes just to learn how to write something persuasive... from introduction to conclusion. As an english speaking university this a waste of time and should only be offered to those who need it.",
+      "comment_teaching": "Very interesting to listen to! He&#039;s very well-spoken and relaxed. He makes a few jokes here and there, which lightens the mood. He&#039;s very straight to the point, which I appreciate about him since he doesn&#039;t write notes on his powerpoints, so you have to listen to him speak. All in all, I really appreciated the way he presented information.<br /><br />I also hate when people start talking during his lectures, so I appreciate that he tells them to be quiet. Feels nice to have people called out. <br /><br />He also plays music during breaks, which makes the atmosphere a lot nicer.",
+      "comment_grading": "Grading was okay. As long as you listen to the key points and focus on what he emphasizes on, you&#039;re good! The quiz was very fast and simple, if you listen during the lectures you&#039;ll remember a few things here and there, so it doesn&#039;t require much memorisation.",
+      "comment_workload": "The essay was really easy to write, but the required readings were shocking. There are some that are just one page, whereas others with 10+. I gave up near the end, and it didn&#039;t really matter because the content there wasn&#039;t tested on much. Even if it was, it wouldn&#039;t impact your grade that much. Just go to the lectures, it&#039;s the most efficient way to get a good grade. The readings were interesting though! <br /><br />Discussions are also very straight forward, you just talk about your opinion on certain topics and reply to a few others, which may lead to some very interesting conversations! <br /><br />The online quizzes that you have to submit is crazy simple... you don&#039;t even need to read the supporting document to understand how to answer the questions. What&#039;s annoying is the deadline - once you miss it you miss it. So I suggest doing all the online quizzes in one go.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "n9MIOZxOuZvwvLBk38Z8QDzc76nCdEkg",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        }
+      ],
+      "author": "Finger",
+      "date": "Aug 16, 2019",
+      "title": "",
+      "comment_content": "content on identity and community",
+      "comment_teaching": "Professor&#039;s lecture are great. In depth and interesting discussion on identity topic in lectures. No attendance require lecture and lecture video provided. Therefore I basically skipped all the lecture and watched them at home at 2x speed to save time.<br /><br />However, the TA is horrible!!!! My TA is HO, Susanna Pui San. She only focus on her schedule and do not care about student&#039;s need and opinion. Whenever she is asked about the final essay writing, she will reply &quot;You should ask the professor about that&quot; and give no help on the writing. Yet she always heavily comment on student&#039;s work while not providing any feasible solution to help students. Overall, it feels like she has this fixed mind set on how to do the essay and do not value student&#039;s own opinion and perspective. Basically whole class don&#039;t like her and everyone roll eye as freak during her class. Reminds me of sh** English teacher from HK local schools.",
+      "comment_grading": "- attendance for tutorial class<br />- mc questions on canvas before each tutorial class<br />- at simple quiz that can easily be done if you gone through the lecture video<br />- final essay take a huge portion of the grading<br /><br />Overall, I think students who are good at argumentative essay writing would not find any problem getting high grade in this course. Little effort is needed to complete parts other than essay. Yet this course do require a more international perspective to discuss the topic of identity and community.<br /><br />I am bad at writing argumentative essay, therefore despite I did rest of the stuff decently, I only got an C+",
+      "comment_workload": "light workload overall, one tutorial class every 2 weeks. The lecture itself is quite long, 2hrs each. Not really a problem if you skip it and watch lecture video at a higher speed",
+      "rating_content": 5,
+      "rating_teaching": 2,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "FaRvE1QT5GVwJ0Istpq1AdhoWX7RQrDO",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        }
+      ],
+      "author": "Sarah7",
+      "date": "Aug 12, 2019",
+      "title": "",
+      "comment_content": "Week 1a: Course Introduction <br />Week 1b: Family<br />Week 2: Villages, Cities, States<br />Week 3: Ethnicity and Nation<br />Week 4: Religion<br />Week 5: Class<br />Week 6: Trade and Taxation <br />Week 7: War<br />Week 8: Rebellion<br />Week 9: /<br />Week 10: Quiz<br />Week 11b: Delivery of Justice <br />Week 12: Political Mediation",
+      "comment_teaching": "Prof Zhang is a nice professor, he includes inclusive contents in class and explains them in detail, which makes students easy to get what he means. He also posts a great many reading materials for each week, which is a good chance to expand our reading scope and look for fresh ideas.<br /><br />The instructor of tutorial is also very helpful and patient, she provides lots of opportunities for us to discuss and share and I could always learn a lot from each lesson. good!",
+      "comment_grading": "This course takes a quiz, a final essay, tutorial work, 3 online discussions into consideration.<br /><br />For the quiz, it is important to pay attention to each detail in the slides, including those which seem to be very easy, better read them all before the quiz.<br /><br />For the essay, I think as long as you follow what is taught in the tutorial and do enough individual thinking (take advantage of the online discussions), it is not hard to get A range. <br /><br />For the tut, do attend each one and listen carefully to the instructor!!",
+      "comment_workload": "I think workload is reasonable for a HUMA course, not that heavy.<br /><br />lectures deliver all the important and basic concepts of this course while tutorials is a very good platform to learn how to write a perfect essay, especially useful for mainland students who didn&#039;t have much essay writing practice in the past.<br /><br />Personally, I find the &#039;online discussion&#039; extremely useful as it stimulates me to explore wider and deeper under one simple topic, by reading other students&#039; comments, I was inspired by many unique ideas and some language techniques, which help me to come up with many personal ideas. <br /><br />Even though some people write thousands of words under one single discussion, which makes it a huge work and takes a long time, I strongly think this process is necessary and you won&#039;t feel the time passing by while you write it because you will definitely have a lot to share on that platform!! enjoy it!",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "KBhnT13JVfnKxZ4afOfCG1HzkKVM73PC",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        }
+      ],
+      "author": "Kellyccw",
+      "date": "Jun 19, 2019",
+      "title": "",
+      "comment_content": "Better pay attention to the content of the lecture/ lecture video before mid-term exam.&nbsp;&nbsp;After midterm, the content won&#039;t be tested anymore.",
+      "comment_teaching": "Using daily example to explain theories. Fun.<br />If your English proficiency is not good, you will feel lost. <br />Two ways to solve this problem:<br />1. sit at the front seat of the lecture theater<br />2. study with a helpful friend with good English proficiency<br />It helps you establish your essay and complete the mid-term",
+      "comment_grading": "Mid-term exam (called Quiz) contains 20 MC on the screen of the lecture theater. You have definitely enough time for each question. My score: 18/20 , Max:20 Min:4 Mean:13.6<br />I missed a submission of class-activity on Canvas.<br />Essay should be no worry because the tutor in workshop will point out your problem of your essay and try her best to help you score A range.<br />I got A- at the end.",
+      "comment_workload": "Workload is evenly distributed over the semester.&nbsp;&nbsp;Not heavy.&nbsp;&nbsp;But many small deadlines so you should double-check whether you have submitted your stuff on Canvas.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "W8STxbh9p0Kk2mxcWcZQVi2DqFS6mwTv",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        }
+      ],
+      "author": "therock",
+      "date": "Jun 06, 2019",
+      "title": "easy A for experienced essay writers",
+      "comment_content": "Interesting content, even though kinda all over the place. We cover sooo many topics and case studies that it&#039;s kinda annoying, but you&#039;re bound to learn something that interests you and will stick. If you&#039;ve taken history/politics before, a lot of the case studies will be semi-review, though Lawrence goes in greater depth so you still need to pay attention as he brings up the dumbest small details in his midterm (ex. a question we had was &quot;Hong Xiuquan thought he was: a) jesus&#039; brother, b) jesus&#039; cousin, etc.)",
+      "comment_teaching": "Lawrence is an interesting species of his own. After about 10 mins of him talking you can tell he went to Harvard (don&#039;t worry, if you don&#039;t figure it out yourself, he&#039;ll manage to remind you in every lecture, talking about his &#039;colleague from Harvard&#039;, &#039;professor from Harvard&#039;, etc). Half of the time it feels like he&#039;s flexing his knowledge rather than trying to actually teach you something useful. That being said, he is clearly very intelligent and a good lecturer. Still can be annoying though, especially when he trails off. I once saw the TA asleep during this kind of rambling session. Oh and don&#039;t think about talking in his lecture, he&#039;ll be sassy about it and call you out. Every. Single. Time. Better to sleep :)",
+      "comment_grading": "Half of the grading is based on your essay, so if you can write a decent essay you&#039;re good. The one I wrote was definitely not one of my best, and I still got an A+, so clearly the standards aren&#039;t crazy high. International students have an edge here, as we&#039;ve written a lot more essays in high school. Midterm I got 18/20 (mean was around 13). Full workshop attendance + full marks on the online tasks. Not sure what I scored in the discussions, but I posted around 7-8 comments for each one.",
+      "comment_workload": "Not that bad, lecture is only once a week and attendance isn&#039;t taken. Workshops were every 3ish weeks, and our tutor let us out early each time. Most work went into the canvas discussions to be honest. Studying for midterm and writing the essay don&#039;t take too much time if you&#039;re efficient about it. Don&#039;t bother with the reading material by the way, no one reads it and it&#039;s pointless. There was 1/20 question on the midterm from the readings, but it was quite logical so people who didn&#039;t even read it could have guessed it easily.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "qdHOtFA4RPoyAbn8qQj4DELPgmbLj4de",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        },
+        {
+          "id": 1147,
+          "name": "LAW, Chun Yin",
+          "rating": 0
+        }
+      ],
+      "author": "ccwl.lam",
+      "date": "Jun 01, 2019",
+      "title": "HUMA 1000D - Cultures and Values",
+      "comment_content": "Week 1a: Course Introduction <br />Week 1b: Family<br />Week 2: Villages, Cities, States<br />Week 3: Ethnicity and Nation<br />Week 4: Religion<br />Week 5: Class<br />Week 6: Trade and Taxation <br />Week 7: War<br />Week 8: Rebellion<br />Week 9: /<br />Week 10: Quiz<br />Week 11b: Delivery of Justice <br />Week 12: Political Mediation",
+      "comment_teaching": "Lawrence is a good lecturer that he would like to make the lectured more interesting and interactive. There are lots of pictures, maps and videos included in the PowerPoint. Therefore, revising the PowerPoint doesn&#039;t help to prepare for the in-class quiz.",
+      "comment_grading": "-An argumentative essay is very important since it weighs nearly half of the course. <br />-Quiz weighs about 20% of the course. If you want to get a good grade, you need to attend all the lecture/ watch the lecture at home.",
+      "comment_workload": "Not that heavy. There are some workshops that can help you to write the essay",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

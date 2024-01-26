@@ -1,0 +1,158 @@
+{
+  "course": {
+    "id": 2236,
+    "subject": "BIEN",
+    "code": "5040",
+    "name": "Introduction to Neural Engineering",
+    "description": "This course will provide a survey of Neuroscience and Neuroengineering research areas to provide our research postgraduate students a broad appreciation of interdisciplinary research in context. The course aims to help student recognize and understand how knowledge from science and engineering interface in this interdisciplinary application. Concepts such as neural interfacing and neural prosthesis will be introduced so that students can understand the impact of the latest technologies. The course will enhance the vision of the students and encourage them to work in future inter-disciplinary research fields.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.33,
+    "rating_teaching": 4.33,
+    "rating_grading": 4.67,
+    "rating_workload": 5,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1084,
+        "name": "SEMMELHACK, Julie",
+        "count": 2
+      },
+      {
+        "id": 1089,
+        "name": "WANG, Yiwen",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "deCFZ8ecA6tmmoLecVF57JT3wegPDU9P",
+      "semester": "2023-24 Fall",
+      "instructors": [],
+      "author": "Chong",
+      "date": "Jan 24, 2024",
+      "title": "",
+      "comment_content": "The class introduce the contents about Neural Engineering. However, the contents didn&#039;t special useful",
+      "comment_teaching": "",
+      "comment_grading": "My grading is A.",
+      "comment_workload": "1. Write a review about Neural Engineering. Julie will evaluate the content, which is generally expected to achieve a score of 90 or above (at least 45% of the final grade).<br /><br />2. Present a simple group presentation on a specific topic. Then, write an essay related to the topic, which should be around two pages long. The essay presents some challenges for students, as they need to not only introduce the development but also express their own opinions about the topic. Failure to do so will result in a significantly lower grade. Additionally, the grading criteria for the essay is not fixed, to some extent it depends on your luck.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "YXPoUkzAzw4hNtbiUYrzGQfInjpdIJZZ",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1084,
+          "name": "SEMMELHACK, Julie",
+          "rating": 1
+        },
+        {
+          "id": 1089,
+          "name": "WANG, Yiwen",
+          "rating": 1
+        }
+      ],
+      "author": "MyNameIs",
+      "date": "Jan 22, 2024",
+      "title": "",
+      "comment_content": "Interesting course. The course consists of 2 parts: The first part of the course is neuroscience, and the second is neural engineering. Teaching is good. The material is interesting. Enjoyed it",
+      "comment_teaching": "Both professors are good at teaching. Especially compared to other professors in SENG.",
+      "comment_grading": "Grading is excellent. Most people get very good grades. I got A. I do not know the grades of individual assignments, but our group project was good.",
+      "comment_workload": "Very light and easy. One review paper. 6-10 pages. The final is a group project. Consists of 2 parts: group presentation and individual write-up.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "dVkF8T4vEbnUqOwUiZr6dtSHmeYqZf93",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1084,
+          "name": "SEMMELHACK, Julie",
+          "rating": 1
+        },
+        {
+          "id": 1089,
+          "name": "WANG, Yiwen",
+          "rating": 1
+        }
+      ],
+      "author": "ontimegrad",
+      "date": "Aug 10, 2023",
+      "title": "Find good teammates",
+      "comment_content": "Essentially some walkthroughs of neuroscience and neuroengineering. As a non-biology guy, these are fairly interesting, but I cannot memorize anything afterwards.",
+      "comment_teaching": "The teaching is attracting. The concepts are clearly explained with adequate introduction of the backgrounds so that laymen can follow.",
+      "comment_grading": "It depends on your teammates. The first project is individual one, but the second one requires collaboration. The whole team should collaborate together to form a clear and up-to-date story. Otherwise, the grades would not be high. I score 98/100 for the first project (upper quantile is 96). But the cooperation of second project was not good. Prof. Wang was very unhappy with that. Although she said my part is fair enough, I got A- eventually.",
+      "comment_workload": "Individual assay: less than 6 pages, around several thousand words. <br />Group assay: ~1000 words + 2.5-4 min presentation, depends on the number of people in your group. <br />No attendence",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

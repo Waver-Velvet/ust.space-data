@@ -1,0 +1,76 @@
+{
+  "course": {
+    "id": 2662,
+    "subject": "MATH",
+    "code": "5450",
+    "name": "Stochastic Processes",
+    "description": "Theory of Markov processes, second order stationary theory, Poisson and point processes, Brownian motion, Martingales and queueing theory.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2030,
+      1810
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 959,
+        "name": "BAO, Zhigang",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "3ehhPsOhw8awsUZPLsxM6Sy6us4kczq8",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 959,
+          "name": "BAO, Zhigang",
+          "rating": 1
+        }
+      ],
+      "author": "UnconMarketeers",
+      "date": "May 26, 2023",
+      "title": "A rigorous treatment of applied stochastic process",
+      "comment_content": "The coverage is Durrett&#039;s probability book chapters 4,5,7, basically discrete-time martingale theory, Markov process theory and Brownian motion. <br /><br />For this textbook, I have a &quot;superposition feeling&quot; of liking and hating this textbook. On one hand, this textbook provides uniquely many examples with somewhat rigorous treatment (unlike those applied probability book without measure theory), but I don&#039;t like its style of storytelling. <br /><br />I like the textbook &quot;Measure theory, probability and stochastic process&quot; from Jean Francois Le Gall more for the equivalent level of this course. It&#039;s quite a new textbook that it is published in 2022. After reading this, one may proceed to read &quot;Brownian motion, Martingales and Stochastic calculus&quot; by the same author. Please see my MATH4985E review if interested. <br /><br />Course content:<br /><br />-&gt; By my understanding, the theory of stochastic processes can be divided into the following levels:<br /><br />--&gt; Level one: Applied stochastic process. A representative is MATH3425 or those which are applied in reinforcement learning. <br /><br />--&gt; Level Two: A more rigorous treatment of stochastic process using measure theory, but in discrete time (martingale) or discrete /countable state space (for Markov process). One advantage over the more general theory in this level is to classify state space or discuss ergodicity easier. <br /><br />--&gt; Level Three: Stochastic calculus. The continuous time martingale and general-state-space Markov process should be discussed in this level. In such theory, concepts like quadratic variation, Ito&#039;s formula (and its consequential theorems) is uniquely available here. <br /><br />--&gt; Level Four: It refers to those very advanced topics like Malliavin calculus, rough path theory and stochastic differential equation.<br /><br />(This course belongs to Level Two according to my classification)<br /><br />1. Conditional expectation. In martingale and Markov process theory, the concept of conditional probability (conditioning on processes/filtrations) frequently appears. Some key takeaways are:<br /><br />-&gt; Recognize conditional expectation as a random variables<br />-&gt; Various formulas for evaluating and simplifying conditional expectation<br /><br />2. Discrete-time martingale theory<br /><br />-&gt; Key inequalities: Upcrossing inequality, maximal inequality, martingale convergence theorem<br />-&gt; Key examples: Random walk, branching process, gambler&#039;s ruin, infinite monkey problem...<br /><br />3. Discrete/general state space Markov process theory<br /><br />-&gt; The key theoretical rationale of existence of Markov process is Kolmogorov extension theorem, where the instructor spents 3-4 lectures solely discussing its proof. <br />-&gt; Some key examples: Time of return, reflection principle<br />-&gt; Classification of states and state space<br /><br />4. Brownian motion<br /><br />-&gt; Since the instructor got several injuries and dieseases when he started the discussion on Brownian motion, he made lecture videos instead of teaching it in lecture, so officially the course has ended after teaching Markov process theory. Now I still cannot find the related videos anyway.<br /><br />[Update 24/12/2023]<br /><br />I suddenly realize that I should fill in this part! Unluckily I am too lazy to watch the supplementary videos, perhaps it will also be good to summarize important points in chapter 7 here (Also as my revision of stochastic theory):<br /><br />-&gt; Equivalent definition of (pre)-Brownian motion: Independent Gaussian increment, or zero mean with variance min{s,t}. <br />-&gt; Existence of modification (Durrett&#039;s book doesn&#039;t use this wording!) with Holder continuous sample path <br />-&gt; But sample paths of Brownian motion is a.s. non-differentiable!<br />-&gt; Weak/strong Markovian property<br />-&gt; Blumenthal zero-one law<br />-&gt; ...",
+      "comment_teaching": "Although the instructor teaches the course for the first time, he shows familiarity on the course content. This time he provides zoom recording and class notes written on iPad so that revision can be done more conveniently.",
+      "comment_grading": "Homework plus 2-hour final (scheduled originally). But because of time clash, the final becomes 2-week takehome final, which can somehow be treated as another homework with higher difficuity.",
+      "comment_workload": "The 2 homework problems are from the main textbook, 10 problems from each set of homework. The take-home final is more difficult. The most remarkable problem for me is the discrete-time Burkholder inequality which I once thought only available for continuous-time theory... The online resource for this theorem is so inadequate that I have to read the original paper. If someone figured out the proof by himself/herself, then he/she is a genius. However, it seems that the proof in discrete case is not as difficult as the continuous counterpart because in continuous case, several complicated discussions in terms of index p should be elaborated.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

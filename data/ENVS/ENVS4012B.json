@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 3256,
+    "subject": "ENVS",
+    "code": "4012B",
+    "name": "Geographic Information System (GIS) for Environmental Applications",
+    "description": "Geographic information system (GIS) is an information system designed for environmental management. With the rapid development of Internet and geospatial technology, tremendous amount of environmental data become easily available at our fingertips. GIS has become an essential tool for us to better understand, manage and conserve our environment. This course provides students with fundamental concepts of GIS and a chance to gain some hands-on experience in GIS application (through computer exercises, case studies and a site visit). For ENVS students in their third and fourth year of study only.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1940
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ENVR\" data-code=\"4330\" href=\"/review/ENVR4330\" target=\"_blank\">ENVR 4330</a>",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

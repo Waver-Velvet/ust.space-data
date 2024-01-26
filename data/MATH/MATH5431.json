@@ -1,0 +1,160 @@
+{
+  "course": {
+    "id": 1807,
+    "subject": "MATH",
+    "code": "5431",
+    "name": "Advanced Mathematical Statistics I",
+    "description": "Theory of statistical inference in estimation. Topics include: sufficiency, ancillary statistics, completeness, UMVU estimators, information inequality, efficiency, asymptotic maximum likelihood theory. Other topics may include Bayes estimation and conditional inference.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.67,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 888,
+        "name": "JING, Bing-yi",
+        "count": 1
+      },
+      {
+        "id": 1543,
+        "name": "WANG, Wenjia",
+        "count": 1
+      },
+      {
+        "id": 1614,
+        "name": "GUO, Xinzhou",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "KdrotcgN1XETwayhEVCPDEddIEyxqxlr",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1614,
+          "name": "GUO, Xinzhou",
+          "rating": 1
+        }
+      ],
+      "author": "Mr_Steeeve",
+      "date": "Jan 24, 2024",
+      "title": "",
+      "comment_content": "Quote from the Class Schedule &amp; Quota website: <br />Theory of statistical inference in estimation. <br />Topics include: sufficiency, ancillary statistics, completeness, UMVU estimators, information inequality, efficiency, asymptotic maximum likelihood theory. Other topics may include Bayes estimation and conditional inference.<br /><br />In practice, all these topics are covered, Bayesian statistics is also covered, in class and in final, but not very much. <br /><br />Prof. Guo uses lecture notes of Prof. Jing Bing-yi mainly, and made amendments in the content or order during his own lecture.",
+      "comment_teaching": "",
+      "comment_grading": "There are only two exams, period. <br /><br />If you performance is better in final, then the overall grade would be your final score purely. If otherwise, the grade would consists of 30% of midterm and 70% of final.<br /><br />According to canvas record, my score and ranking in both exams are merely around median, but my final grade was still rather satisfactory.<br /><br />I think that one should be more care of what you ACTUALLY have learned in class during a RPG course in UST",
+      "comment_workload": "As this course has no TA, Prof. Guo decided that no mandatory homework would be assigned and graded in this course.<br /><br />But I have to say that, if one want to have a thorough understanding of topics in this class, quizzes provided in the lecture notes can be very helpful.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "79bjbLUYVwqDMcvvrWO7SeYt6JU4mf6E",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1543,
+          "name": "WANG, Wenjia",
+          "rating": 1
+        }
+      ],
+      "author": "ruozhilaji",
+      "date": "Dec 28, 2021",
+      "title": "Good Introduction, but not theoretical",
+      "comment_content": "Principles of Data Reduction: Sufficient, Complete, Ancillary;<br />UMVUE;<br />MLE and Efficient Estimation;<br />Transformation;<br />Quantiles;<br />M-Estimation (exam does not test this);<br />U-Statistics;<br />Jackknife;<br />Bootstrap;<br />Bayes Estimator.<br /><br />I think Prof. Jing&#039;s lecture notes are not well designed. Sometimes there are typos. Sometimes the orders are not appropriate.<br /><br />It seems this year more topics are covered. And some seminar-style lectures are given this year. Please see the &quot;Teaching&quot; part.",
+      "comment_teaching": "Prof. Wang is a new AP from GZ. He said he only teaches this course once since Prof. Jing is not in HK this semester. He somehow rearranges the lecture notes and gives generally clear lectures. He is also easy to approach by email. He gives 4~5 lectures on some more popular statistic topics, eg, SVM.",
+      "comment_grading": "The assignments are graded this year and the prof discusses some common mistakes during the lecture.<br /><br />The final is mainly about the first several chapters, which emphasizes asymptotic efficiency a lot this year. <br /><br />The grading should be fine since getting very slightly above the overall mean is enough for an A. But if you aim at A+, you cannot lose too many marks in the final.",
+      "comment_workload": "Again, if you only want an A/A-/pass, you do not need to do too much. Reading thoroughly the lecture notes including the examples is enough.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "qJQzPfAeVI1UM4z4L42QHnMbhjmNAUxN",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 888,
+          "name": "JING, Bing-yi",
+          "rating": 1
+        }
+      ],
+      "author": "everglow",
+      "date": "Jan 21, 2021",
+      "title": "",
+      "comment_content": "There are lots of useful and practical statistical methods that have been introduced in this course.<br />For example, Data reduction (Completeness, Sufficiency, M-S, Ancillary), Unbiased estimation (UMVUE, Fisher information matrix), Maximum likelihood estimation, Asymptotic efficiency, Transformation (multivariate delta-method, variance stabilization), Quantiles, M-estimation, U-statistics, V-statistics, Jackknife, Bootstrap,&nbsp;&nbsp;Bayes estimation, and empirical Bayes.<br />The latter part of the chapters is not the classic Math Stat, which is more difficult and less likely to be put the exam. But they are equally important.",
+      "comment_teaching": "Prof.Jing is very humorous, not rigid in class. <br />And he is handsome~",
+      "comment_grading": "Everyone seems to be in A range.",
+      "comment_workload": "Very little homework.<br />But if you want to learn it well, you need to spend a lot of time.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "course": {
+    "id": 2789,
+    "subject": "ELEC",
+    "code": "3450",
+    "name": "Introduction to Smart Electric Power Systems",
+    "description": "This is an introductory course for electric power systems and smart grid. The course includes the following topics: power concepts for ac systems, generation, transmission, distribution, and utilization of electric power, system aspects of synchronous machines, transmission lines, transformers, and motors. Power flow and contingency states. Smart grid concepts, role of information technology in smart grid applications, smart metering, smart buildings and homes.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2030,
+      1930,
+      1830
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"1100\" href=\"/review/ELEC1100\" target=\"_blank\">ELEC 1100</a> OR <a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1114\" href=\"/review/PHYS1114\" target=\"_blank\">PHYS 1114</a> OR <a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1314\" href=\"/review/PHYS1314\" target=\"_blank\">PHYS 1314</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 187,
+        "name": "TSANG, Danny Hin Kwok",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "bWm32tkFCOzGRZKYzx064TjXdW4SBSI2",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 187,
+          "name": "TSANG, Danny Hin Kwok",
+          "rating": 1
+        }
+      ],
+      "author": "我愛樓主",
+      "date": "Jun 07, 2022",
+      "title": "",
+      "comment_content": "Introduction<br />Power Industry History &amp; Review of Phasors<br />Complex power, three-phase<br />Per phase and per unit system<br />Transformers<br />Synchronous machines<br />Transmission lines<br />======Content covered in Midterm======<br /><br />Induction motors<br />Power flow analysis<br />Economic dispatch<br />Electricity market<br />Blackout, contingency and protection<br />Distribution system<br />Smart grids<br />======Content covered in Final======<br /><br />Content in final exam would not include the content covered in midterm exam.<br /><br />Make sure you have basic knowledge about ac circuit before studying this course. For example, you need to familiar with conversion of rectangle form and polar form.<br /><br />Maths skill in this course is needed, such as<br />$ Complex number<br />$ Matrix multiplication<br />$ Solving system of linear equations<br />$ Numerical analysis<br />-- Fixed-point Method<br />-- Newton-Raphson Method<br />$ Lagrange multiplier",
+      "comment_teaching": "Great teaching, the professor goes over the concepts clearly. <br /><br />As with most ELEC courses, the TAs are amazing.",
+      "comment_grading": "Homework (x 4) 20%<br />Midterm Exam 40%<br />Final Exam 40%<br />The mean is about B.I got slightly above mean that get a B+",
+      "comment_workload": "Zero workload<br /><br />Although HW was quite hard, TA would teach you to step by step.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "xZKBzFc4usirCNBQQESFW8oPCrBkMP6u",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 187,
+          "name": "TSANG, Danny Hin Kwok",
+          "rating": 1
+        }
+      ],
+      "author": "#####",
+      "date": "Jun 08, 2020",
+      "title": "This is an introductory electrical course !",
+      "comment_content": "Introduction<br />Power Industry History &amp; Review of Phasors<br />Complex power, three-phase<br />Per phase and per unit system<br />Transformers<br />Synchronous machines<br />Transmission lines<br />======Content covered in Midterm======<br /><br />Induction motors<br />Power flow analysis<br />Economic dispatch<br />Electricity market<br />Blackout, contingency and protection<br />Distribution system<br />Smart grids<br />======Content covered in Final======<br /><br />Content in final exam would not include the content covered in midterm exam.<br /><br />Make sure you have basic knowledge about ac circuit before studying this course. For example, you need to familiar with conversion of rectangle form and polar form.<br /><br />Maths skill in this course is needed, such as <br />$ Complex number<br />$ Matrix multiplication<br />$ Solving system of linear equations<br />$ Numerical analysis<br />-- Fixed-point Method<br />-- Newton-Raphson Method<br />$ Lagrange multiplier",
+      "comment_teaching": "",
+      "comment_grading": "Homework (x 4) 20%<br />Midterm Exam 40%<br />Final Exam 40%<br /><br />Exams are open paper-based lecture note.",
+      "comment_workload": "Very light workload<br /><br />Although HW was quite hard, TA would teach you how to handle it in tutorial lesson.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "course": {
+    "id": 2255,
+    "subject": "COMP",
+    "code": "4461",
+    "name": "Human-Computer Interaction",
+    "description": "This course is a broad introduction to Human-Computer Interaction (HCI), with an emphasis on techniques, models, theories, and applications for designing, prototyping, and evaluating current and future interactive systems for human use. HCI is an interesting and important area of study, providing the human perspective to computing. Besides technology and innovation, it also touches on issues like ethics and social responsibilities related to technologies in the real world. Selected topics include multimodal interaction design, usability evaluation, computer-supported cooperative work, assistive technologies, social computing, crowd computing, ubiquitous/mobile computing, virtual/augmented reality and gaming, agents and robots, and HCI applications in various domains such as education, health, urban sustainability, scientific discoveries, etc.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2010,
+      1910,
+      1810,
+      1710
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"2011\" href=\"/review/COMP2011\" target=\"_blank\">COMP 2011</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.25,
+    "rating_teaching": 4.25,
+    "rating_grading": 4,
+    "rating_workload": 3,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 805,
+        "name": "MA, Xiaojuan",
+        "count": 4
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "ApmFOiKxTYP0Hu2EX4RWG6qf6pkXaGYE",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 805,
+          "name": "MA, Xiaojuan",
+          "rating": 1
+        }
+      ],
+      "author": "江湖夜雨十年燈",
+      "date": "May 30, 2023",
+      "title": "Drop this course unless you are super hardworking",
+      "comment_content": "Same as the previous years, in fact I don&#039;t think I learned a lot.<br />Lecture\tDate\tTopic\tPresenter\tNote<br />1\tMon Feb 6\tIntroduction to COMP4461 and to HCI\tXiaojuan Ma\tP1.0 Topic release<br />2\tWed Feb 8\tFundamental: Human-Centric Design\tXiaojuan Ma\t<br />3\tMon Feb 13\tFundamental: Understanding Humans I\tXiaojuan Ma\t<br />4\tWed Feb 15\tFundamental: Understanding Humans II\tXiaojuan Ma\t<br />5\tMon Feb 20\tDesign: Empathize\tXiaojuan Ma\t<br />6\tWed Feb 22\tDesign: Ideate\tXiaojuan Ma\t<br />7\tMon Feb 27\tTopic: Multimodal Interaction\tXiaojuan Ma\t<br />8\tWed Mar 1\tProject: P1 Design Pitching\tClass\tP1.1 P1 prototype submission; P1.2 Peer evaluation; P1.3 P1 personal diary submission<br />9\tMon Mar 6\tTopic: Human-Robot Interaction (HRI)\tXiaojuan Ma\tP2.0 Topic release<br />10\tWed Mar 8\tDesign: Prototyping\tXiaojuan Ma\t<br />11\tMon Mar 13\tTopic: Ubiquitous Computing\tXiaojuan Ma\tMon 3:00pm HRI Programming Lab I (by TA)<br />12\tWed Mar 15\tEvaluation: Preparation and Questionnaire\tXiaojuan Ma\tFinal Video Paper Topic release<br />13\tMon Mar 20\tTopic: Extended Reality\tXiaojuan Ma\tMon 3:00pm HRI Programming Lab II (by TA)<br />14\tWed Mar 22\tEvaluation: Heuristic Testing\tXiaojuan Ma\t<br />15\tMon Mar 27\tTopic: CSCW and Social Computing\tXiaojuan Ma\t<br />16\tWed Mar 29\tEvaluation: Usability Testing\tXiaojuan Ma\tP3.0 Topic release<br />17\tMon Apr 3\tProject: P2 Demonstration\tClass\tP2.1 P2 prototype submission; P2.2 Peer evaluation; P2.3 P2 personal diary submission<br />18\tWed Apr 12\tEvaluation: Result Analysis\tXiaojuan Ma\t<br />19\tMon Apr 17\tTopic: Computing for Good\tXiaojuan Ma\tMon 3:00pm XR Programming Lab (by TA)<br />20\tWed Apr 19\tMid-term Exercise\tClass\t<br />21\tMon Apr 24\tFinal Video Paper Showcase I\tClass\tVideo Paper Submission by 8pm on Sunday, Apr 23<br />22\tWed Apr 26\tFinal Video Paper Showcase II\tClass\t<br />23\tWed May 3\tHCI: From Lab to the Real World\tXiaojuan\t<br />24\tMon May 8\tProject: P3 Presentation\tClass\tP3.2 P3 Peer Evaluation; P3.3 P3 Personal Diary Submission",
+      "comment_teaching": "Maybe ok, but this course doesn&#039;t really teach you anything.",
+      "comment_grading": "Three group projects 55%<br />– Project 1 15%<br />– Project 2 20%<br />– Project 3 20%<br />• Midterm Exercise: 20%<br />• Video Paper: 15%<br />• Participation + Bonus: 10%<br /><br />I repeat here again: group projects and video paper: nearly everyone gets the same score. Only midterm can differ you from others.",
+      "comment_workload": "Tooooooooooo High!<br />Each group project will ruin your weeks, time consuming and poor outcome, everyone gets a similar score because of the meaningless peer review. The STD is nearly 0, wtf? I cannot see the point of working hard on these things.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "yEYCeO2Ig2UWYGwaLZtqltj7Yej9Na1a",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 805,
+          "name": "MA, Xiaojuan",
+          "rating": 1
+        }
+      ],
+      "author": "sam-c",
+      "date": "Jan 22, 2020",
+      "title": "Great group-project-based course! Highly recommended.",
+      "comment_content": "2019 Fall Projects<br />- project 1: interactive ad<br />- project 2: VR/AR<br />- project 3: robot (program Pepper/Nao robot to be used for educational purpose)<br />- video paper: collective well-being<br /><br />This course is super hands-on. You get a chance to try out different much-hyped techs. This is great in two ways: you get to find out whether you are interested in these fields, and you can have a rough idea of the power and limitation of these techs.<br /><br />This course is also a good chance to build your portfolio.",
+      "comment_teaching": "Killer Features<br />- Design Process Drill: for each project, we went through the process of selecting user group, identifying problems, brainstorming solutions, creating storyboards, speed-dating with users, prototyping, getting user feedback, etc. Gradually helps me build up a good habit.<br />- Teamwork Training: each project is a chance to practice and improve my teamwork skills. How do we come to an agreement? How do we divide up work? How do we keep track of progress? These soft skills, unlike hard technical knowledge, will be valuable no matter what job you do in the future.<br /><br />Also<br />- teacher: friendly, interactive<br />- lecture: lots of videos and pictures, no equations<br />- classmates: stacked; and lots of international students",
+      "comment_grading": "Grading is fair. <br />Not easy grade, but fair.<br />Reflects quality of my projects.",
+      "comment_workload": "- high workload (many hours)<br />- they are enjoyable hours though (if you enjoy project more than assignments and exams)<br />- better take it when your other courses are not heavy",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "8iJMPRIrPm5s798bNdadCUQZn3xVvY1B",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 805,
+          "name": "MA, Xiaojuan",
+          "rating": 1
+        }
+      ],
+      "author": "weißbrot",
+      "date": "Dec 03, 2019",
+      "title": "Interesting course with a lot of group work",
+      "comment_content": "The content is interesting and covers all the basics of HCI. It provides a solid overview and explains things like prototyping and user testing as well as more advanced concepts later on. It covers a lot of ground, but is not really able to go in depth.<br />The projects allow students to put everything into practice.",
+      "comment_teaching": "The lectures are nice. Not particularly exciting, but usually interesting and relevant.",
+      "comment_grading": "Feedback and grading of assignments and presentation is very unclear. Since it depends mostly on peer evaluation of a short presentation, oftentimes it is not so much about the work that was actually put into the project but simply whether the presentation was funny. And while it is of course important to present results well, I think it is sometimes hard to put a&nbsp;&nbsp;lot of work into user testing and prototyping only to briefly glance over all that in favor of making a few jokes to get good peer grades.<br />Essentially, to get a good grade the presentation needs to be fun and interesting, while the content is somewhat secondary.",
+      "comment_workload": "The group projects require a lot of teamwork and efficient planning is key. It is very easy to spend many hours on small things that will hardly impact your final presentation, since you have very limited time to present and the grade for the project only relies on the presentation.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "cKWsiyH7RIllHIbGocgGJhBXXBme5x3n",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 805,
+          "name": "MA, Xiaojuan",
+          "rating": 1
+        }
+      ],
+      "author": "toxicboi",
+      "date": "Dec 31, 2018",
+      "title": "Great course for Product Managers and designers",
+      "comment_content": "The content mainly focuses on how you can take a humanistic approach while designing tech products. <br /><br />There is a lot of idea generation, brainstorming, market research and the prototyping. <br /><br />There is a lot of interesting course content, but it is not very applicable to the projects that we do in class, good for future reference though if you are interested in this field.",
+      "comment_teaching": "Professor Ma is very experienced in HCI and has put in a lot of effort to design this course. The project prompts are always interesting. <br /><br />Classes are fun with a lot of videos and image-based content, sometimes there are activities like design thinking, brainstorming etc. <br /><br />My only contention would be that professor does not give feedback on the projects. A lot of students worked very hard on their projects, and they never get any feedback, only ambiguous scores from the audience (other students), which is never reflective of whether your idea was actually good or not.",
+      "comment_grading": "Three group projects 60% – <br />Project 1 15% – Redesign a restaurant ordering app<br />Project 2 20% – Mixed Reality<br />Project 3 25% - Human-Robot Interaction for typhoon situation<br /><br />Midterm: 15% - Open notes, quite easy and interesting<br />Video Paper: 15% - Create a video on a product that gives happiness&nbsp;&nbsp;<br />Participation + Bonus: 10% - self explanatory<br /><br />The whole course is peer evaluated, so make sure whatever you do, it appeals to the audience",
+      "comment_workload": "Quite doable if you have a good team.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

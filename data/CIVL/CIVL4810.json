@@ -1,0 +1,79 @@
+{
+  "course": {
+    "id": 185,
+    "subject": "CIVL",
+    "code": "4810",
+    "name": "Construction Materials Technology",
+    "description": "Constituents of concrete; failure mechanisms and mechanical properties; advanced cementitious composites: high strength, fiber, polymer, high performance; fibrous composite materials: composition, anisotrophic behavior, engineering constant, failure criteria; non-destructive evaluation: wave, scan, ultrasonic, acoustic emission, infrared thermography.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"2810\" href=\"/review/CIVL2810\" target=\"_blank\">CIVL 2810</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"5840\" href=\"/review/CIVL5840\" target=\"_blank\">CIVL 5840</a>",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 82,
+        "name": "LEUNG, Christopher Kin Ying",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "99sLM1Xa6KN2ClqwoAXOSKjNg0KslL3D",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 82,
+          "name": "LEUNG, Christopher Kin Ying",
+          "rating": 1
+        }
+      ],
+      "author": "engineIsGood",
+      "date": "Dec 02, 2022",
+      "title": "",
+      "comment_content": "1. Green Concrete<br />2. Concrete Rheology and Construction Processes<br />3. Concrete Durability<br />4. Non-destructive Evaluation of Concrete<br />5. High Performance Concrete and Self-Compacting Concrete<br />6. Lightweight Concrete<br />7. Fiber Reinforced Concrete and Strain-Hardening Cementitious Composites<br />8. Applications of Polymers and Polymeric Composites in Civil Engineering<br />9. Anisotropic Mechanics of Laminated Polymeric Composites<br />10. Basic Properties of Bituminous Materials<br />11. Durability of Bituminous Materials<br />12. Pavement Design<br /><br />I think that the content is very useful for future jobs, especially in the civil or structural field.",
+      "comment_teaching": "He teaches well. I can understand the content easily. He is also very nice. Don&#039;t know why only 9 people took this course in this semester. Maybe because it is a 9:00 am class and there was no review about this course before.",
+      "comment_grading": "1. 5 homework (25%)<br />2. 2 Lab report (15%)<br />3. Final exam (60%)<br /><br />The score of the final exam was not released. Nevertheless, I think the grade is quite good.",
+      "comment_workload": "I think the workload is lighter than normal 3-credit course.<br /><br />No mid-term.<br /><br />There is 4 lab. 3 was held in tutorial times and 1 of them was held in the lecture time. Although there were 4 labs, we only need to write one report for lab 1, and 1 report for lab 3 and 4. The reports were done by a group of 4 or 5 people. It did not take much time to complete.<br /><br />The final exam is open-booked and professor allowed us to bring our computer to the exam venue to read notes so that we don&#039;t need to print out the notes.<br /><br />No attendance was needed (except lab sessions). And he provided recordings for lectures and tutorials.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

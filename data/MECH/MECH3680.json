@@ -1,0 +1,149 @@
+{
+  "course": {
+    "id": 1397,
+    "subject": "MECH",
+    "code": "3680",
+    "name": "Avionics Systems",
+    "description": "This course covers avionic systems and communications, including analog and digital systems, aviation bands and frequencies, satellite and aircraft communications, selective calling, emergency locator transmitter, omni-directional range, instrument and microwave landing systems, and automatic direction finder. Other relevant topics may also be discussed in the course.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030,
+      1930,
+      1830,
+      1730
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2420\" href=\"/review/ELEC2420\" target=\"_blank\">ELEC 2420</a> AND (<a class=\"course-link\" data-subject=\"COMP\" data-code=\"1021\" href=\"/review/COMP1021\" target=\"_blank\">COMP 1021</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"1022P\" href=\"/review/COMP1022P\" target=\"_blank\">COMP 1022P</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"1022Q\" href=\"/review/COMP1022Q\" target=\"_blank\">COMP 1022Q</a> (prior to 2020-21) OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2011\" href=\"/review/COMP2011\" target=\"_blank\">COMP 2011</a>)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3.67,
+    "rating_teaching": 1.67,
+    "rating_grading": 4,
+    "rating_workload": 3,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1176,
+        "name": "YU, Hongyu",
+        "count": 3
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "pxjJIGndnPfjM805aiEpVJNKQEAQowca",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1176,
+          "name": "YU, Hongyu",
+          "rating": 1
+        }
+      ],
+      "author": "An225 Mriya",
+      "date": "Jun 18, 2023",
+      "title": "Altered Curriculum",
+      "comment_content": "The course&#039;s contents were purported to be avionics-related, although its extent was much broader, including stuffs like the electrical generation systems and so on.<br /><br />Contents:<br />1. Introduction to avionics<br />2.1. Control surfaces<br />2.2. General principles of avionics<br />3. Helmet-mounted display<br />4. Head-down display<br />5. Radar and radar navigation<br />6. Radio navigation<br />7. GNSS/GPS<br />8. Inertial sensors<br />9. Inertial navigation<br />10.1. Sensors<br />10.2. Multi-hole probe (project promotion by some PG lads that were included in the curriculum)<br />11. Electrical systems: Generators and motors<br />12. Solar power, battery, electric aircraft<br />13. Other sensors<br />14. Fly-by-wire<br />15. Databus<br />16. Endnotes and ethics (aka waterblowing and gibberish)<br />*The syllabus was changed in the middle, and stuffs related to Kalman filter was removed.<br /><br />Some contents like the inertial sensors, fly-by-wire and databus could be a little bit hard, but in general the contents are rather superficial, if not woefully and (Wednesburily) oversimplified, such as using the unrealistic rolling-bar linear machine (yup, the one taught in DSE Physics) when analyzing motors.<br /><br />As correctly described by previous reviewers, the course&#039;s contents are nothing related to ELEC2420. As long as there&#039;s no time clash, you are therefore strongly advised to fulfill this course&#039;s requirement upon finishing ELEC2420 (in which you have 3 credits that are not assigned to any pre-enrolled courses).",
+      "comment_teaching": "Professor Yu Hongyu was disorganized: his lecture notes/Powerpoints were written in a disorganized manner, often copying large chunks of text from the textbook. While he&#039;s better than the average Powerpoint readers, his lectures were also quite disorganized as well by hopping through different points on the notes. This was only hampered by his thick accent. Though his accent was not the worst in HKUST, one definitely needs some time to digest his teaching.<br /><br />As a side note, Professor Yu accept no email enquiry. Every questions had to be asked at his office hour or by appointment.<br /><br />The tutorials were conducted by Chen Ziming, a typical engineering Chinese TA in HKUST. In teaching how to solve questions, he usually conduct the tutorials in the heaest way possible by reading out the questions and answers, without leaving any time for us to solve. Nevertheless as the questions were so easy, I often had enough time to finish off everything before he revealed the answers.<br /><br />Ultimately a cumulative rating of D.",
+      "comment_grading": "Attendance: 3% (Full)<br />Assignments (x6): 15% (All over 90%)<br />Flight simulator project: 12% (92/100, mean 88.07/100, median 90/100)<br />Midterm: 30% (47/52, mean 42.13/52, median 42.5/52)<br />Final: 40% (101/116, mean 92.47/116, median 95/116)<br />→Final percentile: 90.95%, mean 83.66%, median 85.42%<br /><br />Attendance was recorded randomly in lectures by releasing quizzes. Those who return their answers (irrespective of whether they&#039;re correct) gain attendance points. The assignments were very similar to tutorial contents, so one can expect how easy they were and how high were the mean.<br /><br />This semester&#039;s project was based on Microsoft Flight Simulator, a consumer grade computer flight simulator. You were required to record the experience of a flight, write a report on it and state what avionics components did you used, and what did you observed. When compared with the previous coding projects, this year&#039;s project is literal entertainment. That said, the project was criticized by students for lacking a rubric, which led to arbitrary grading.<br /><br />The midterm and final were closed book exams that allowed 2 and 4 pages of cheat sheets. They were divided into short questions and calculation questions, the former scored much more than the latter one. The calculation problems were largely based on the assignments, and revising the assignments should be sufficient in dealing with the calculation questions.<br /><br />At the end due to the course&#039;s simplicity, the mean for everything was really really high. Please be extremely careful with your answers, as any stupid mistakes could slump yourself below the mean.<br /><br />The course adopted absolute grading, in which:<br />A+&gt;=90.5%<br />90.5%&gt;A&gt;=89%<br />89%&gt;A-&gt;=87.5%<br />87.5%&gt;B+&gt;=86%<br />86%&gt;B&gt;=84%<br />84%&gt;B-&gt;=82%<br />82%&gt;C+&gt;=80%<br />80%&gt;C&gt;=75%<br />75%&gt;C-&gt;=70%<br />70%&gt;D&gt;=60%<br />Ultimately get A+ for the course, which is quite reasonable for a water course.",
+      "comment_workload": "In a nutshell, the workload was very low. As mentioned before the assignments were largely based on tutorial notes, so they could be dealt quickly as long as if you attended tutorials or understood them well. Exams were also easy: a few days spent on revision was found quite sufficient for me.<br /><br />For the latter part of the course you would need to spend 8 hours to fly MS Flight Simulator for your project. If this is continued and you&#039;re a noob for the game (I&#039;ve seen plenty of masters who treat the project sessions as vacation), you are advised to fly outside of the tutorial scenarios once you grasped the basics of takeoff and landing. Initially it could be a very short flight using general aviation aircraft. You could then try larger aircraft with fly-by-wire, which could greatly help with control and stability.",
+      "rating_content": 3,
+      "rating_teaching": 2,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "baritcK13Qj1uRJvPxi2GlBNq2RPD7wy",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 1176,
+          "name": "YU, Hongyu",
+          "rating": 1
+        }
+      ],
+      "author": "Yeet1259",
+      "date": "Jul 14, 2020",
+      "title": "Good luck and really don&#039;t leave the project til last minute",
+      "comment_content": "Despite having ELEC 2420 as a prerequisite, the majority of course content are not THAT related. Course content and project content were not highly relevant hence extra work has to be done.<br />Course Topics:<br />(1)&nbsp;&nbsp;Electronic and electrical systems<br />(2)&nbsp;&nbsp;Navigation systems and other sensors<br />(3)&nbsp;&nbsp;Radar system<br />(4)&nbsp;&nbsp;Human-machine interface with an emphasis on display<br />(5)&nbsp;&nbsp;Data systems<br />(6)&nbsp;&nbsp;Flight control system",
+      "comment_teaching": "Professor tried to encourage us to turn on our web cam to make it more interactive(which no one did, as expected). There were 2 tutorial sessions about the BASIC function in Matlab to start us off for the final project. However the functions used for simulation were much different. You have to find your way through the project by looking online.",
+      "comment_grading": "Homework sets (15%, including 4-5 homeworks), Midterm (25%), Project lab: MATLAB flight control modeling (25%), Final exam (35%)",
+      "comment_workload": "3 pieces of homeworks, midterm, final exam along with a 2000 words minimum project report regarding use of Matlab to simulate flight control.",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "idlqWfBxs43Jx0oa3HmVqlfdso5vmYvN",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 1176,
+          "name": "YU, Hongyu",
+          "rating": 1
+        }
+      ],
+      "author": "Spring Ho",
+      "date": "May 10, 2020",
+      "title": "Absolutely awful",
+      "comment_content": "This course has 1000000000000000 problems but the content is actually not one of them, it is kind of interesting to learn about radar, flight control ,etc. <br /><br />Although the content is good, the organization of it is absolutely atrocious.",
+      "comment_teaching": "There is minimal support from the course instructor, whether it is for homeworks, or the final projects, they expect you to know everything but never really taught jackshit! like wtf, why the fuck am I taking your course if I already know how to model everything?<br /><br />TBH, he seems like a nice guy, and I can tell he has great passion in aviation, but god wtf was that teachiing, lecture notes are so unorganized, you probably spend more time finding out what is in the exam than actually studying, and you still would not know fuck all in the exam because half of the shit they put in, they never even talked about it!",
+      "comment_grading": "I am so angry that I am writing this review before I even complete the course, this is such a bullshit course.<br />Although the grading is actually not bad, but just the bullshit you have to put up with, makes it not worth it at all.",
+      "comment_workload": "if the support from them is actually adequate, I actually think the workload would be fine, however they dont teach anywhere near enough, that makes it very hard to get through all the assignments and projects.",
+      "rating_content": 4,
+      "rating_teaching": 1,
+      "rating_grading": 3,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

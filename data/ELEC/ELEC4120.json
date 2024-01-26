@@ -1,0 +1,225 @@
+{
+  "course": {
+    "id": 331,
+    "subject": "ELEC",
+    "code": "4120",
+    "name": "Computer Communication Networks",
+    "description": "Overview of computer networks: network architecture and switching techniques. Introduction to the Internet, network programming, and layer architecture. Application layer: HTTP, FTP, SMTP, and CDN. Transport layer: TCP and UDP. Network layer: IP routing, NAT, and DHCP. Data link layer and local area networks: MAC protocols, Ethernet, and hubs/bridges/switches.",
+    "categories": [],
+    "website": "http://course.ee.ust.hk/elec4120",
+    "credits": 3,
+    "semesters": [
+      1910,
+      1830,
+      1810,
+      1730,
+      1630,
+      1530,
+      1430,
+      1410
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"COMP\" data-code=\"1021\" href=\"/review/COMP1021\" target=\"_blank\">COMP 1021</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"1022P\" href=\"/review/COMP1022P\" target=\"_blank\">COMP 1022P</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"1022Q\" href=\"/review/COMP1022Q\" target=\"_blank\">COMP 1022Q</a>) AND (<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2100\" href=\"/review/ELEC2100\" target=\"_blank\">ELEC 2100</a> OR <a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2400\" href=\"/review/ELEC2400\" target=\"_blank\">ELEC 2400</a> OR <a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2600\" href=\"/review/ELEC2600\" target=\"_blank\">ELEC 2600</a>)",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"4621\" href=\"/review/COMP4621\" target=\"_blank\">COMP 4621</a>",
+    "rating_content": 4.8,
+    "rating_teaching": 4.6,
+    "rating_grading": 5,
+    "rating_workload": 4.2,
+    "review_count": 5,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 209,
+        "name": "LEA, Chin-Tau",
+        "count": 4
+      },
+      {
+        "id": 187,
+        "name": "TSANG, Danny Hin Kwok",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "YGXX6AfzkxwkacQGd8OuhDE8bjUHzaMD",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 209,
+          "name": "LEA, Chin-Tau",
+          "rating": 1
+        }
+      ],
+      "author": "Tommy Li",
+      "date": "May 30, 2019",
+      "title": "An inspiring intro course",
+      "comment_content": "This is a standard networking course which covers four out of five layers of networking:<br /><br />1. Application Layer (HTTP, DNS, CDN)<br />2. Transport Layer (TCP, UDP)<br />3. Network Layer (IP, ICMP, routing)<br />4. Link Layer (CRC code, ALOHA, CSMA, MAC)<br />5. Physical Layer (Not included)<br /><br />The content are mostly some introduction and simple math calculations. It&#039;s more like a 1000-level intro course than a 4000-level course.<br /><br />The order is different from other standard networking courses. Most networking courses cover the layers top-down: from the top application layer, and move downward. In this course, we cover the network layer (in the middle) first because the professor thinks the concept of address is important. It is weird but it makes sense somehow.",
+      "comment_teaching": "I truly enjoyed Prof. Lea&#039;s classes throughout the semester. He has been enthusiastic, and the content is thought-provoking. He often ask us questions to let us think more before he gives out the answer. He did a good job stimulating our interest to the topic.<br /><br />Never he read out the PowerPoint directly. But he focuses on some of the main points and do elaboration. He often tries to repeat the points if those are important. He will do some demos like using the traceroute program instead of going through lots of text.<br /><br />It is funny that he tries to draw picture using MS paint to explain things. Quite cute lol.<br /><br />One downside is the powerpoint slides and HWs are quite messy, in terms of the formatting (typesetting). Some of the slides has their orientation wrong, some figures are not aligned with the question. Once I got a question in my HW wrong because I misread the figure from another question......<br /><br />Also, the TAs make LOTS of mistake. So, be aware. I believe they are nice people tho.<br /><br />I took COMP 3511 in the same semester. It really makes a good contrast.",
+      "comment_grading": "I don&#039;t know exactly the grading curve of this course. But it should be quite nice (plz refer to other reviews). If you have attended all the lectures and go through some of the sources (past HW and exams), it would be no problem to be above mean.<br /><br />What I can say is the A+ cutoff is not high compared to other courses. My performance in some of the HW are quite bad. And in the midterm, most people got full score or 38/40. I thought A+ would not be possible. <br /><br />HW: 38/39, 32/32, 35/36, 28/36, 32/32, 32/36, 26/34 (Lowest score HW will be dropped)<br />Midterm: 36/40 (Mean: 32.6, Max: 40)<br />Final: 54/58 (Mean: 37.4, Max: 56)<br />Project: completed<br />Overall: A+<br /><br />SD is not released.",
+      "comment_workload": "The workload comes from the weekly/biweekly HW. Most answers are given in the tutorial in a form of &#039;hints&#039;, or can be copied directly from past HW. But still, it may take a bit of time complete them by yourself.<br /><br />The project is sending an encrypted e-mail to the professor. Don&#039;t worry. There is unlimited tries and the professor will help you out if you got any problems.<br /><br />The midterm and exam are open-book so you don&#039;t need to do a lot of preparation. Midterm questions comes from HW and past HW problems, so it is easy to get full unless you got the calculations wrongly. Exam questions are new, but you will find them familiar if you have attended the lectures. Most of them are points being emphasized by the professor during lecture time.<br /><br />So, go to coursehero and get every source that you can get. Attend all lectures and try to understand the content. Then, you will be good to go.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "LnR6m7jIzDvyQkcN9nJ0d2RcU821Bcsr",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 187,
+          "name": "TSANG, Danny Hin Kwok",
+          "rating": 1
+        }
+      ],
+      "author": "Parker",
+      "date": "Jan 16, 2019",
+      "title": "",
+      "comment_content": "This course would talk about the architecture of computer network from top to bottom: <br />Application layer<br />Transport layer<br />Network layer<br />Link layer<br />Physical layer (will not talk about in this course )<br /><br />After this course you would know how network (eg internet) works fundamentally.",
+      "comment_teaching": "I am enjoy in Prof Tsang class, he would explain those concept in a clear and easy way.",
+      "comment_grading": "good grade course, <br />mean in midterm and final<br />above mean in assignments<br />I got b",
+      "comment_workload": "workload is not too hard<br />there are 4 written assignment and 2 programming assignment<br />written assignment is bit hard to do<br />programming assignment is quite easy if you familiar with python",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "GuZqgwvhxTvEoQyltstzud37ys8ipheY",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 209,
+          "name": "LEA, Chin-Tau",
+          "rating": 1
+        }
+      ],
+      "author": "almen",
+      "date": "Aug 07, 2018",
+      "title": "Good and Hea",
+      "comment_content": "Its about computer network, need to calculate simple mathematics. Not difficult. If you don&#039;t understand, you can search youtube to learn.",
+      "comment_teaching": "The professor and the TA always make mistake, but they are nice. The lecture notes are a bit messy.",
+      "comment_grading": "Super good grade. Ard mean in MT and nearly full mark in final. Nearly full mark in all assignment (easy).",
+      "comment_workload": "There is homework on every week but if you attend the tutorial, you will know how to do it. There is a project but super easy. The professor will teach you how to do it.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "fdXoCcD6MU1hErsPJRqRe23M0kN9t20e",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 209,
+          "name": "LEA, Chin-Tau",
+          "rating": 1
+        }
+      ],
+      "author": "iamwildcat",
+      "date": "Jun 19, 2017",
+      "title": "EZ",
+      "comment_content": "Basic networking structure (7 layers), protocols, data transfer methods. If you took ICT in middle school you would have been familiar with most of the stuff before midterm.<br />Network security, encryption and authentication are taught after midterm. You will need to be very familiar with the concepts (but you don&#039;t need to memorize much).",
+      "comment_teaching": "Very clear and understandable teaching, English pronunciation is decent.<br />From time to time he will create illustrations on MS Paint to better&nbsp;&nbsp;explain the subject taught (although the drawing is not what you call professional).<br />Whenever a student asks a question he will repeat and rephrase it to the whole class before giving a solution. If some student happens to enquire something during his office hour, he will also tell the class the solution via email, very thoughtful.",
+      "comment_grading": "Midterm above mean.<br />Final above mean.<br />6/7 assignments submitted, near full marks.<br />Small Project completed.<br />Final Grading B+.",
+      "comment_workload": "Really not much to do.<br />7 total assignments, each composing 4-5 long questions.<br />Assignments focuses more on understandings, the questions may be long but they only require simple answers and calculations.<br />I&#039;ve never been to tutorials (they will give homework instructions there) but I never found it difficult to complete them, unlike most ELEC courses never did I require sources.<br />Midterm and final questions were based on assignment questions, usually the same wordings apart from slight data changes. Remember to print homework solutions to bring in as all exams are open book.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "K2t5sszFcNjI74HXImmWtmcRMSki6yeK",
+      "semester": "2013-14 Fall",
+      "instructors": [
+        {
+          "id": 209,
+          "name": "LEA, Chin-Tau",
+          "rating": 1
+        }
+      ],
+      "author": "Chirag",
+      "date": "Jan 21, 2016",
+      "title": "",
+      "comment_content": "Really liked the content. It was mostly about understanding rather than memorizing.",
+      "comment_teaching": "Good teaching style with many examples. If you don&#039;t want to attend class, make sure you go to the tutorials. They were really very helpful and would help clear all the concepts.",
+      "comment_grading": "Decent grade if you try to understand the contents of the course.",
+      "comment_workload": "5 Hws but most of their solutions were found online or behind the text book. As he ran out of time, our only assignment was to send an email. Others might have to write a code in QT about socket programming.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

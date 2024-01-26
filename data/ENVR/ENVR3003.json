@@ -1,0 +1,147 @@
+{
+  "course": {
+    "id": 1373,
+    "subject": "ENVR",
+    "code": "3003",
+    "name": "Green Buildings and Energy Efficiency",
+    "description": "This is an introduction to Green Buildings and their Energy Management. The course will consider Green Building attributes together with their economic, social and environmental impacts. Emphasis will be given to their energy conservation and resulting Carbon Dioxide emission reductions. For students in their second year of study and above.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1910,
+      1810,
+      1710,
+      1610,
+      1510
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.33,
+    "rating_teaching": 4,
+    "rating_grading": 3.67,
+    "rating_workload": 2.33,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 760,
+        "name": "BROWN, David James",
+        "count": 3
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "72LwjTIdjfCfwmq8cPmAd7IwjArhiiWB",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 760,
+          "name": "BROWN, David James",
+          "rating": 1
+        }
+      ],
+      "author": "packnfly",
+      "date": "Aug 19, 2019",
+      "title": "No exams",
+      "comment_content": "Useful if you want to work in related field at work. Three projects are about BEAM and Energy Audit which are practical and you are likely to learn something useful from this course.",
+      "comment_teaching": "Boring and requires a lot of preparation before class. Professor expect you to have read through all the readings before class. Teaching does not relates to the projects that much.",
+      "comment_grading": "Grading is okay. Not much student enrolled last year and the difference between scores are small from group to group. <br />Got a sd above mean for first project, mean for the second and third one and finally I got a B+. Not bad for me.",
+      "comment_workload": "No exams but have assignments online or readings to read every week. These weekly assignments are easy. Three projects throughout the semester but as long as you have good group mates, it would not be that difficult. Project content is not as difficult so it is considered light workload to me.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "0X929xNLJiDUvOm0ax02zrlo25LWjUxd",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 760,
+          "name": "BROWN, David James",
+          "rating": 1
+        }
+      ],
+      "author": "poisonous",
+      "date": "Dec 19, 2018",
+      "title": "Huge workload",
+      "comment_content": "Contents are somewhat interesting and useful if you are interested in the field.",
+      "comment_teaching": "Blended learning. You will need to watch the pre-learning on canvas before going to class (and to do the online quizzes). David teaches alright: he is very knowledgeable and generally gives not boring lectures, except when he read from the ppt. But we are usually doing discussion in class so it&#039;s fine.",
+      "comment_grading": "Grading is very strict. Less than 1% difference in total score would mean a difference in sub-grade.<br />REMEMBER to do all online quizzes and try to get full marks in all of them then you can secure 24%<br />For the assignments, I can only say good luck.",
+      "comment_workload": "Huge workload with a very short time frame:<br />One assignment on assessing a UST building with BEAM+, write a report according to the BEAM+ template. It&#039;s not hard but you will need time to interview staff and do research so it&#039;s very rushed with the given time.<br />One assignment on conducting an energy audit at a household, write a 4 pages report and do a presentation. Personally, I think this is easier than the BEAM assignment but the time given is even shorter so it&#039;s still very rushed.<br />Final assessment at Zero Carbon Building. The morning session will be a guided tour plus your own exploration time, then you have around 2 hour to formulate a 10 minutes presentation on an assigned topic. I would say this is the least stressful work.<br /><br />There are also online quizzes and discussion, make sure you don&#039;t forget to do them.<br /><br />I would advise not to take this course if you are doing 15/18 credits.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "vJqmQHOSs4WzYK3wxnov9THtzSUeU0BC",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 760,
+          "name": "BROWN, David James",
+          "rating": 1
+        }
+      ],
+      "author": "janni",
+      "date": "Dec 05, 2016",
+      "title": "Intense assignments but useful course",
+      "comment_content": "Blended learning.<br />Sit in groups and discussion driven<br />Mainly talks about BEAM manual and how to assess a green building",
+      "comment_teaching": "Very professional<br />Mainly self-learn from canvas",
+      "comment_grading": "Grading is not very clear for all assignments maybe for its file size. <br />You can see online quizzes&#039; grades immediately",
+      "comment_workload": "Three big assignments<br />1. Assessing residence halls according to BEAM <br />&nbsp;&nbsp;&nbsp;- 77 areas or items to check <br />(Group)<br />2.&nbsp;&nbsp;Energy Audit <br />&nbsp;&nbsp;&nbsp;- report writing and searching for area for improvement in a residential flat <br />3. Final assessment in Zero Carbon Building <br /> - immediate assessment for the building and dig out different aspects&#039; features e.g. how the building makes use of impervious material to maximise indoor natural lighting<br /><br />Apart from big assignments, <br />online quizzes must be completed before the day of class which is tricky because sometimes you might forget",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

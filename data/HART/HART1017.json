@@ -1,0 +1,80 @@
+{
+  "course": {
+    "id": 475,
+    "subject": "HART",
+    "code": "1017",
+    "name": "Introduction to Contemporary Dance",
+    "description": "This course introduces contemporary dance  as a departure from dance traditions, and as an art that focuses strongly on  personal creativity. Contemporary dance is thus not only about art making but also exploring personal and social meanings. Through examining a range of texts and videos from different parts of the world at lectures, students will learn to appreciate different ways in which significant practitioners make dances. They will also  be introduced  to the historical, social or political contexts, and the ideas that inform these practices. In practice sessions, a range of physical, experiential approaches will be introduced to help students create with movement. Students interested in furthering the artistic skills and gaining hands-on experience with this art form may enroll in a separate non-credit co-curricular course.",
+    "categories": [
+      "Common Core (Arts)"
+    ],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2130,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 3,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 277,
+        "name": "TANG, Cheong Wai",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "SEvYyzv6kuNaYIxLX7wkn9G8cjSPWjSh",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 277,
+          "name": "TANG, Cheong Wai",
+          "rating": 1
+        }
+      ],
+      "author": "Priyanshi",
+      "date": "Sep 07, 2017",
+      "title": "Intro to Contemporary Dance",
+      "comment_content": "The Instructor introduces a good range of different styles of dance and questions that different boundaries of dance itself. The content is well researched, though the instructor is heavily influenced by American Works. It provides, what I feel is a good introduction to Contemporary dance. <br />The Practical part of the lesson was more engaging. The instructor introduced motions of different levels of difficulty. There is also a lot of emphasis on strengthening the core and thigh muscles.",
+      "comment_teaching": "The instructor is passionate and loves the art form. He has good knowledge and has researched adequately about Contemporary dance. He is aware that there are non-dancers who take the course and makes sure that he introduces a wide range of motions and exercises to strengthen core.",
+      "comment_grading": "The Grading is pretty lenient. There weekly diary entries that are graded at the end. Together with a presentation and a performance demo at the end, makes up the full grade.",
+      "comment_workload": "For a 1 credit course, its a fun course, where I spend may be 15 minutes writing the reflections. It is more relaxing and it enables the student to do most of the work in class.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

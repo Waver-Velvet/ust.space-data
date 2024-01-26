@@ -1,0 +1,76 @@
+{
+  "course": {
+    "id": 3359,
+    "subject": "SOSC",
+    "code": "4300",
+    "name": "Computational Social Science",
+    "description": "The increasing use of the Internet and online communities in the last decade has led to an explosion of social data capturing every aspect of our daily activities. The new digital data have in turn led to the rise of Computational Social Science, an emerging field that aims to empirically study social behavior by applying computational methods, algorithms, and models on \"big data\". This course introduces the methods and ideas of computational social sciences. Students will learn and evaluate the new possibilities and challenges that digital data have created for studying social phenomena. They will also learn and practice essential methods that are needed to analyze digital data, from data collection to techniques and methods to analyze big data.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2010
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2411\" href=\"/review/MATH2411\" target=\"_blank\">MATH 2411</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2421\" href=\"/review/MATH2421\" target=\"_blank\">MATH 2421</a> OR <a class=\"course-link\" data-subject=\"SOSC\" data-code=\"2400\" href=\"/review/SOSC2400\" target=\"_blank\">SOSC 2400</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3,
+    "rating_teaching": 3,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1806,
+        "name": "ZHOU, Titi",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "1ry4YMmTvJKuN3WG8Tt08YVxxJfXYqig",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1806,
+          "name": "ZHOU, Titi",
+          "rating": 1
+        }
+      ],
+      "author": "zzzzz1234",
+      "date": "Dec 30, 2023",
+      "title": "SOSC 2400",
+      "comment_content": "The content of the course is useful, Problem Sets (20%):<br />– There will be three take-home problem sets. The purpose is to practice data analysis skills<br />using R and learn key statistical concepts.<br />– Problem set will be posted on Canvas by 6:00pm, Wednesday (see ”Schedule” at the end).<br />– Submission deadline is 10:00am, Tuesday (see ”Schedule” at the end).<br />– Late submission will cause a grade deduction by half. Six hours late submission will not<br />be accepted.<br />• In-class Quizzes (30%):<br />– There will be three closed-book quizzes in our class meetings. The purpose is to assess<br />how well you are understanding the key concepts covered in the lecture videos.<br />– Only the two highest grades will count towards your final grade.<br />• Final Exam (30%): The closed-book final exam will cover the content learned throughout the<br />semester. Specific arrangements will be announced later.<br />2",
+      "comment_teaching": "teaching is not good, easy to get bord",
+      "comment_grading": "grading is very good.<br />a very nice instructor",
+      "comment_workload": "workload is normal.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "course": {
+    "id": 429,
+    "subject": "FINA",
+    "code": "3104",
+    "name": "Investment Analysis and Portfolio Management",
+    "description": "An introduction to the fundamental aspects of investment.  Topics include: functions of capital markets; applications of modern portfolio theory for personal and institutional investment; pricing of financial securities; options and futures.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      1530,
+      1510,
+      1430,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"2203\" href=\"/review/FINA2203\" target=\"_blank\">FINA 2203</a> or <a class=\"course-link\" data-subject=\"FINA\" data-code=\"2303\" href=\"/review/FINA2303\" target=\"_blank\">FINA 2303</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.83,
+    "rating_teaching": 4.67,
+    "rating_grading": 3.33,
+    "rating_workload": 4,
+    "review_count": 6,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 241,
+        "name": "BENZ, Entela",
+        "count": 2
+      },
+      {
+        "id": 242,
+        "name": "CHOI, Darwin",
+        "count": 2
+      },
+      {
+        "id": 812,
+        "name": "BHATTACHARYA, Utpal",
+        "count": 1
+      },
+      {
+        "id": 895,
+        "name": "YU, Jialin",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "94NGh5IicuH99n940lNOJ25Aj4IA4hsG",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 895,
+          "name": "YU, Jialin",
+          "rating": 1
+        }
+      ],
+      "author": "Poe",
+      "date": "Jun 12, 2019",
+      "title": "",
+      "comment_content": "Professor not only covered the text book materials but also spend a good amount of time to illustrate how real world trading and investment is done (though not tested in exam)",
+      "comment_teaching": "Dr. Jialin Yu is a really good teacher, chill, humorous, class isnt boring.",
+      "comment_grading": "The curve is quite competitive.<br />Exam isnt too hard, materials are mostly covered in assignments, therefore i assume everyone does pretty well.",
+      "comment_workload": "Only 2 group assignment problem sets, one trading game (5%, basically just be present in that particular class) , and one final exam. <br />No midterm, no attendance,",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "H0qDailSN5TQGoB9tN49geanYhvCyDBh",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 812,
+          "name": "BHATTACHARYA, Utpal",
+          "rating": 1
+        }
+      ],
+      "author": "GuoXiaoyang",
+      "date": "Jan 03, 2019",
+      "title": "",
+      "comment_content": "The teacher is very good. Willing to answer questions. Total 25 quizs(each class for 1), similar to attendances. choose best 20 to account for 20%. 4 assignments, midterm and final",
+      "comment_teaching": "Teaching is good. Notes are clear. But you&#039;d better read the textbook.",
+      "comment_grading": "A range is not so big, and all classmates are hardworking. Grading not so good. Mean is very high. Midterm mean is 170/200. Questions are not so easy but it seems that everyone get high marks.",
+      "comment_workload": "Workload is not so big, except for the 25 quizs. Need to prepare before each class.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "VGGMiw5NOigASclDS0K76O7HvdMZcSDw",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 241,
+          "name": "BENZ, Entela",
+          "rating": 1
+        }
+      ],
+      "author": "patricia-vv",
+      "date": "Feb 06, 2017",
+      "title": "",
+      "comment_content": "The content was interesting and relevant to the course. An introduction to the financial markets is given, different analytical techniques are thought as well as evaluation methods.",
+      "comment_teaching": "The professor was engaging and definitely kept me interested. The tutorials were less helpful but all the same a good revision of the class content.",
+      "comment_grading": "Very competitive, the mean is very high for mid-term, final exam and the project. Despite getting the highest grades for the project and the final exam, since I screwed up the mid-term I got a C.",
+      "comment_workload": "There is a project, which I thought was quite fun to do. At least better than weekly homework. It&#039;s a group project done in three parts. Besides the group project, there&#039;s the occasional quiz, which are easy to do and 1 small side assignment which you must also complete with your group, but doesn&#039;t take much time.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "I3yFpkQjX1L0OBhUuaPzHjgcLSFgKHxq",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 241,
+          "name": "BENZ, Entela",
+          "rating": 1
+        }
+      ],
+      "author": "ft",
+      "date": "Jan 12, 2016",
+      "title": "",
+      "comment_content": "Project &amp; assignments 既instructions係唔算清晰<br />至於ppt都算係user-friendly<br />加埋TA既tutorial應該唔難理解",
+      "comment_teaching": "benz其實識好多野, 特別係教bonds<br />不過可能悶到訓著<br />唔想上可以睇lecture video<br />唔想睇video直接溫ppt都ok<br />因為唔會出ppt以外既topic",
+      "comment_grading": "1. Tutorial attendance 5%<br />2. Participation in class discussions and quizzes 5%<br />3. Peer evaluation 5%<br />4. Project (3 parts) &amp; Assignments 25% (5+10+5+5)<br />5. Mid-term Exam 30%<br />6. Final Exam (Non-cumulative) 30%<br /><br />Peer evaluation 5%係要比同組唔同人都唔同rank, 拉curve出黎低1sd就1%, 高1sd就5%, within 1sd就3%, 個人就唔係幾滿意呢個制度, 而且完全唔合理, 因為4至6人一組, 4人組比rank就係比1至3, 6人組就係比1至5, 我都唔知佢點樣拉條curve出黎<br />雖然可以自由分組，但係最影響你final grade亦都係你既groupmate, 因為如果peer evaluation高人地2%可能已經令你由B升到A-, vice versa<br />非官方數據: overall相差約4%已經跌左1個大grade (低4%已經可以由A-變左B-甚至C+)<br /><br />midterm同final都係佔30%, 所以是但死一個都幾乎肯定c range, 就算你其他全部full mark都拉唔返, 因為多數mean都係9成",
+      "comment_workload": "最大既workload就係group project<br />不過4 cred course黎講唔算大workload<br />只要你唔係成組freerider",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 2,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "lDPXZncnIS0zf9L20lSfI1GG8h0jKk1B",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 242,
+          "name": "CHOI, Darwin",
+          "rating": 1
+        }
+      ],
+      "author": "Sean",
+      "date": "Jan 11, 2016",
+      "title": "Nice professor plus adequate workload",
+      "comment_content": "Content is relatively easy to follow and understand.<br />Main topics includes: <br />1. The Basics: Asset classes and financial markets<br />2. Money Allocation: Allocate across assets/securities<br />3. Asset Pricing: Determine the fair price<br />4. Market Efficiency &amp; Portfolio Evaluation<br />5. Other securities: Bonds and derivatives",
+      "comment_teaching": "His English is easy to understand. Course content and notes are well-designed with a clear flow. Easy to approach and he is very willing to help students with any question.",
+      "comment_grading": "• Participation: * [Only upgrade, no downgrade!]<br />• Homework: 15%<br />[Three group assignments, four to six students (same<br />registered tutorial section) per group formed after the add/drop period]<br />• Peer Evaluation: 5%<br />[Evaluate teammates at the end of the semester]<br />• Tutorial Activities: 5%<br />• Midterm Exam: 30%<br />• Final Exam: 45%",
+      "comment_workload": "Quite light if you follow his lectures closely and pay attention. Assignments weren&#039;t hard and marks are given quite generously.<br />Tutorials are useful for review.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "60o9MDsG9YqZEXj1GNZQHbiqVZT1DE3n",
+      "semester": "2014-15 Fall",
+      "instructors": [
+        {
+          "id": 242,
+          "name": "CHOI, Darwin",
+          "rating": 1
+        }
+      ],
+      "author": "Zeta",
+      "date": "Aug 25, 2015",
+      "title": "",
+      "comment_content": "Topics include:<br />-Risk and Return<br />-Porfolio mathematics and capital allocation<br />-Markowitz selection<br />-CAPM<br />-Index Model<br />-Arbitrage Pricing Theory<br />-Multi-factor models<br />-Porfolio performance evaluation<br />-Efficient Market Hypothesis and behavioral finance<br />-Bonds (and its management)<br />-Term structure<br />-Futures and Options<br /><br />Basically FINA3104 is an overview of all important concepts appearing in finance, from the perspeective of investment. If you only took FINA2303 before (my case), most likely over half of the content in this course would be new to you. So it is not recommended to skip lessons, as each topic only spends ~1.5 weeks to go through.<br /><br />By the end of the course, you should be very familiar with the relation between risk &amp; return, because you will have drawn countless times the mean return-risk diagram. Although the course covers a wide range of knowledge, you must not fail in the following important topics: Capital allocation, Markowitz, CAPM, and APT. These topics require your full understand before taking the exams.",
+      "comment_teaching": "Darwin is an excellent presenter. He gave his lecture in a professional way. To me, his english speaking skills is the best among the professors I met. Darwin is also very nice and willing to answer your concerns.",
+      "comment_grading": "15% Group assignment<br />5% Peer evaluation<br />5% Tutorial activities<br />30% Midterm<br />45% Final<br /><br />Exam styles are similar for midterm and final. Your understanding in the concepts are critial and the calculations are very simple. Darwin likes giving true or false questions (5 marks each) in both exams, each question requires your explanation of choice.<br /><br />I got mean in the MT but work much harder in the final. I don&#039;t know my final exam result but I got B+.",
+      "comment_workload": "Fair. The assignments are done by the whole group so actually each time you only need to answer 1-2 questions and then check with your goupmates.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 2,
+      "attachments": []
+    }
+  ]
+}

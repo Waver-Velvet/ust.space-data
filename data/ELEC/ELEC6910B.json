@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 4150,
+    "subject": "ELEC",
+    "code": "6910B",
+    "name": "RF Microsystems: Devices and Applications",
+    "description": "The goal of this course is to develop students’ design, analysis, and evaluation skills at microwave/radio frequencies where lumped elements (e.g., resistors, capacitors, inductors) are no longer appropriate. Students will receive the following knowledge: Electromagnetic fields & waves, transmission line theory, Smith Chart, S-parameters, and Network Analysis; RF wireless communication systems; Properties of passive components; Impedance Matching network, RLC networks, and 2-port parameters; Microwave measurement and calibration; Simulation methods for EM passive devices: HFSS & PathWave Advanced Design System (ADS); Micron passive acoustic wave devices: resonators, filters, delay lines; Simulation methods for multi-physic devices: COMSOL; MEMS technologies for RF microsystems. This course discusses methodologies to synthesize and model the operation of several key passive components currently employed in commercial Radio Frequency (RF) microsystems. The operation, design methodologies, and equivalent circuit representations relative to RF devices will be presented.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1578,
+        "name": "YANG, Yansong",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "dl3slOcL9U1ibtZer0OednKOr5qSdBbP",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1578,
+          "name": "YANG, Yansong",
+          "rating": 1
+        }
+      ],
+      "author": "Jason7 XU",
+      "date": "Jan 25, 2024",
+      "title": "RF Microsystems: Devices and Applications",
+      "comment_content": "The course gives a comprehensive background knowledge of RF MEMS principles, design, and fabrication. The lectures are straightforward. The interactions are thought provoking and interesting.",
+      "comment_teaching": "Straightforward and detailed. Even if you don&#039;t understand the background theory or principles, you can enjoy a smooth lecture.",
+      "comment_grading": "A is easy.<br />Grading is primarily based on assignments, term papers, and presentation.&nbsp;&nbsp;<br />1. Assignments and term papers are based on lecture content. The professor will provide several topics and students need to choose one and write no more than three to five pages. For example: RF MEMS and satellite communication.<br />2. The presentation adopts peer review mode. Grades need to be given by other students.",
+      "comment_workload": "The load is not too high. Two assignments, a term paper and a presentation. No quiz, no final exam.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

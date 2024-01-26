@@ -1,0 +1,293 @@
+{
+  "course": {
+    "id": 11,
+    "subject": "ACCT",
+    "code": "3880",
+    "name": "Professional Excellence Program",
+    "description": "Introductory-level seminars and workshops on the accounting/auditing professions; development of life-skills including writing and other communication skills; and individual thinking skills; ethics for accountants. For SB&M students only. Graded P or F.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.33,
+    "rating_teaching": 3.67,
+    "rating_grading": 4.5,
+    "rating_workload": 4.33,
+    "review_count": 6,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 2,
+        "name": "MAK, Kelvin P",
+        "count": 4
+      },
+      {
+        "id": 8,
+        "name": "LAI, Tai Wai David",
+        "count": 4
+      },
+      {
+        "id": 1271,
+        "name": "KWOK, Terry",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "24aWa7ZPN28EdmwjAu1t8MnSZLRxRI5J",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1271,
+          "name": "KWOK, Terry",
+          "rating": 1
+        }
+      ],
+      "author": "Pinball",
+      "date": "Jan 17, 2021",
+      "title": "",
+      "comment_content": "** This is a zoom class.<br /><br />In the form of a talk, by alumni<br />1. Introduction to ACCT 3880 &amp; Accounting Society<br />2. Bank Industry<br />3. Tax work in Big4 (EY)<br />4. Consulting work in Big4 (EY)<br />5. Digital Audit in Big4 (EY)<br /><br />Details include the hot topics of the industry (e.g. fintech for bank), promotion of EY, what does the staff do in that area of work.<br /><br />Good venue for you to ask for more information, especially for preparing for the interview. Good chance to ask them questions.",
+      "comment_teaching": "Fair. Sharing tends to be general, and wether you find them useful depends.",
+      "comment_grading": "Grading is P/F.<br /><br />Rules clearly mentioned in the first class, note the don&#039;ts that would lead to &#039;F&#039; grade:<br />- not paying attention/ doing other things in class<br />- missing the class for the 2nd time.",
+      "comment_workload": "Only presentation is requiring effort, which does not take much time:<br />- 15 minutes, shared by 5 people<br />- Some thoughts relating to the topics appear in the semester<br />- Do some research and share some of your thought would be ok.<br /><br />The class only lasts for half a semester.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "X9zCkJXjy2TeUVTDh0P9S8WdqL3sHvQp",
+      "semester": "2019-20 Fall",
+      "instructors": [],
+      "author": "thyc0309_",
+      "date": "Nov 14, 2019",
+      "title": "This year we had a presentation",
+      "comment_content": "1. Introductory lecture<br />2. lecture from career center about CV writing and decoding job ads<br />3. three professional talks from Deloitte partners on: IPO, international tax and tax technology, and valuation and modelling<br />4. final presentation which consists of three parts: key takeaways from the professional talks, roles of a CPA and capabilities a CPA need to possess in addressing challenges in the 21st century",
+      "comment_teaching": "I think the most useful lecture was the one from career center lol, the three professional talks were... well, they just gave you tons of information within the lecture time which was quite hard to digest and basically if you were not interested, you would totally forget about them after class...",
+      "comment_grading": "Attendance: for the 5 lectures you are allowed to miss at most 1 of them<br />Final presentation: on 9 Oct for 15 mins<br />That&#039;s all",
+      "comment_workload": "Just attend the lectures on time.<br />For the presentation, I prepared my script three hours before the actual presentation.<br />It&#039;s very easy. Just start preparing the day before it.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "0YHpX0UKNHjoFH067jPvCYhlr55TqQq2",
+          "name": "Fall 2019 Course Outline-1",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "LBg0uaAsVnpYzdlTvmpjEMmTHZkXpgBK",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 2,
+          "name": "MAK, Kelvin P",
+          "rating": 1
+        },
+        {
+          "id": 8,
+          "name": "LAI, Tai Wai David",
+          "rating": 1
+        }
+      ],
+      "author": "連登仔",
+      "date": "Jun 01, 2018",
+      "title": "Account狗加油 大家前路一片光明(假)",
+      "comment_content": "https://lihkg.com/thread/586634/page/1",
+      "comment_teaching": "聽talk都係為左俾你知讀完呢個major之後可以做咩者<br /><br />請下EY PwC partners，請下compliance、company secretary、再請多個CPA Australia既話埋俾你知最好考咩<br /><br />不過近排發現讀account 原來黨主席都有得你做:)",
+      "comment_grading": "A- <br />CV Cover Letter 一早有 改下D keywords key sentence<br />文亂寫 因為只係要寫文 直頭去都唔去 求其搵個frd問下大概講過D咩然後自己作<br /><br />分就無出既 不過我見我CV Cover Letter滿分仲以為有A+ 可能兩篇文俾人睇穿我無去聽都唔定",
+      "comment_workload": "聽talk、寫幾篇文計兩篇文、再寫CV Cover Letter<br /><br />由幾年前開始，account狗既溫書時間越黎越少，其他major既人就話唔緊要最多咪retake<br /><br />點知出完grade之後一個retake既account狗都冇，其他major既人就X，喂，你班account狗，唔好同我9up喎，信唔信我柄你呀拿。account狗就同佢地講，最近唔知點解，溫書果時時間好似過得特別慢，果時候，佢地先知道，account狗既智商越黎越高",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 7,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "uyGJburdz6bXxo6fu64dKs0mapOndUsQ",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 2,
+          "name": "MAK, Kelvin P",
+          "rating": 1
+        },
+        {
+          "id": 8,
+          "name": "LAI, Tai Wai David",
+          "rating": 1
+        }
+      ],
+      "author": "Arange",
+      "date": "Dec 01, 2016",
+      "title": "",
+      "comment_content": "A meaningless course. <br />All accounting student must take this course.<br />The first lecture will be the course introduction and the faculty meeting<br />The second lecture will be the teaching of the writing of CV<br />The following four lectures will have guest speakers from different industries to to have a talk.<br />After each lecture, you can choose to write a personal reflection on what the guest speaker says within a week. You need to submit at least two but not more than three personal reflections.",
+      "comment_teaching": "There is no teaching from Prof Mak and David.",
+      "comment_grading": "Assessment:<br />Two reflective journals, each for 35%, total 70 %<br />Attendance and class participation (6 marks X 5 times), total 30%<br /><br />The attendance and class participation basically does not count much and everyone gets full mark for this. Reflective journals grade are based on 5-point scale. It will greatly determine your grade.<br />The mean of each personal reflection is roughly 3.5, depending on the mood of the TA<br />Grade is basically determine based on:<br />Reflection 1 score: 4.5 Reflection 2: 4.0 or above --- A+<br />4.0 4.0 --- A<br />4.0 3.5 --- A-<br />3.5 3.5 ---B+ ---Mean Course Grade<br />3.5 3.0 ---B<br />3.0 3.0 ---B-",
+      "comment_workload": "Workload is not very huge as the course ends at the middle of the semester. You only need to submit two personal reflections.The reflection is above 400 words each. The key is to relate what the guest said to your personal experiences, and you learn something important.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "xc1GLpLVhZT7pkoAaii1tWrs4SjSgmJE",
+          "name": "ACCT3880 Fall 2016 Course Outline (Updated)-1 (1)",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "4wedszjth9PUa8Wpn75rZ4smWQ57Ejzj",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 2,
+          "name": "MAK, Kelvin P",
+          "rating": 1
+        },
+        {
+          "id": 8,
+          "name": "LAI, Tai Wai David",
+          "rating": 1
+        }
+      ],
+      "author": "Qwer1234",
+      "date": "Dec 07, 2015",
+      "title": "",
+      "comment_content": "Members of the accounting profession are expected to demonstrate high professional standard. Thus, professionalism is important to your career success. Your professional training begins in the undergraduate study at university. The course aims to deepen students’ understanding of the accounting profession and facilitate their career planning. An emphasis is also placed on ethics and the development of professionalism.",
+      "comment_teaching": "一個幾輕鬆,&nbsp;&nbsp;主要係聽 Talk (Department 每堂都 invite 左 guest)既 course,&nbsp;&nbsp;有座位表會每堂點名",
+      "comment_grading": "Great. <br />Assessment<br />CV and cover letter writing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;35%<br /> Weekly reflective learning journals (2 x 20%)&nbsp;&nbsp;40% Attendance and class participation&nbsp;&nbsp;&nbsp;&nbsp;25%",
+      "comment_workload": "Light. Only need to finish one CV + Cover Letter plus two reflection log.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "YArl3FupDSNpP1neX56turjiuAloxcIa",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 2,
+          "name": "MAK, Kelvin P",
+          "rating": 1
+        },
+        {
+          "id": 8,
+          "name": "LAI, Tai Wai David",
+          "rating": 1
+        }
+      ],
+      "author": "Van_",
+      "date": "Dec 02, 2015",
+      "title": "Some guest lectures were fun and informative, some drove you to sleep",
+      "comment_content": "Throughout the program, you are required to attend all workshops and talks organised by the faculty every week. The faculty invited business leaders to come to lectures to give you some insights on accounting industry and your career path, examples of guests were EY audit partner, CPA Australia representative, mediator, etc.",
+      "comment_teaching": "No teaching at all",
+      "comment_grading": "Not yet released, but only 1 credit, doesn&#039;t really affect your overall CGA lol",
+      "comment_workload": "Attendance is taken every class, so not recommended to skip lessons though there is one quota for you to skip without deducting your participation point.<br />Asking guests questions help you gain participation point.<br />You need to submit a reflective paper for at least 2 talks, max 3 talks, before the next week class began.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

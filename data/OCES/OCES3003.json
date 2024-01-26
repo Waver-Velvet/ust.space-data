@@ -1,0 +1,81 @@
+{
+  "course": {
+    "id": 3552,
+    "subject": "OCES",
+    "code": "3003",
+    "name": "Field Methods in Marine Studies",
+    "description": "Through this course, students will be equipped with the knowledge and skills for sample collection and in situ measurement in various marine habitats. The topics will include (i) the design of scientifically robust sampling plans, (ii) safety precautions for field activities, (iii) proper collection and preservation of field samples, (iv) proper measurement and recording of in situ environmental parameters, and (v) post field trip sample storage and data management.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1295,
+        "name": "YUNG, Charmaine",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "UFzttCipL7thex209tLhPcqXDXRm223o",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1295,
+          "name": "YUNG, Charmaine",
+          "rating": 1
+        }
+      ],
+      "author": "from OST",
+      "date": "Jan 05, 2022",
+      "title": "Good",
+      "comment_content": "7 lab<br />2 field trips <br />presentation<br />1 report (same content as present)<br /><br />most of them related to marine bio <br />useful lab experience <br />fun",
+      "comment_teaching": "TAs are helpful<br />Charmaine is so nice and hardworking<br />she finished marking 40 reports within 12hrs<br />feel free to email them and ask them questions",
+      "comment_grading": "super leng<br />lab report no need to write so long <br />easy to get high marks<br /><br />Individual written assignment 48/50<br />present 46/50<br />continuous_assessment (participation) 10/10<br />field 1 80/80<br />field 2 40/40<br />lab 1&nbsp;&nbsp;76.5/80<br />lab 2&nbsp;&nbsp;98/100<br />lab 3&amp;4 99/100<br />lab 5&nbsp;&nbsp;80/80<br />lab 6&nbsp;&nbsp;70/80<br />lab 7&nbsp;&nbsp;78/80<br /><br />Worksheets x 8 (50%)&nbsp;&nbsp;including lab and field<br />Project Presentation (20%) <br />Written Project Report (20%) <br />Continuous Assessment (10%) <br /><br />I got A+&nbsp;&nbsp;(my first A+ in ust)<br />there should be quite many A range",
+      "comment_workload": "honestly, this is a lab course so the workload must be large<br />Need spend time to read lab manual (important!)<br />almost 1 week 1 lab report<br />and need to prepare group present <br />Written Project Report is easy I just spend the half-day for it since I need to prepare for exam",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "hQsde8R0eFwfB6prY19xgxmTPN6vbzsd",
+          "name": "OCES3003_Course_outline_updated",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

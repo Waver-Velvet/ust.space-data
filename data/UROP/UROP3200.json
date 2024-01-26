@@ -1,0 +1,33 @@
+{
+  "course": {
+    "id": 4120,
+    "subject": "UROP",
+    "code": "3200",
+    "name": "Undergraduate Research Opportunities with Mini-conference Experience",
+    "description": "This course provides a platform on which students can gain hands-on research experience and have a continued Undergraduate Research Opportunities Program (UROP) experience by taking the same research project or different project led by the same faculty supervisor. Students are required to participate in a mini- conference to deliver project presentations and to submit a final report. Approval by faculty supervisor(s) is required. Graded P or F.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2330,
+      2310,
+      2240
+    ],
+    "prerequisites": "(TWO passing grades in <a class=\"course-link\" data-subject=\"UROP\" data-code=\"1100\" href=\"/review/UROP1100\" target=\"_blank\">UROP 1100</a>) OR (a passing grade in <a class=\"course-link\" data-subject=\"UROP\" data-code=\"1100\" href=\"/review/UROP1100\" target=\"_blank\">UROP 1100</a> and <a class=\"course-link\" data-subject=\"UROP\" data-code=\"2100\" href=\"/review/UROP2100\" target=\"_blank\">UROP 2100</a>)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

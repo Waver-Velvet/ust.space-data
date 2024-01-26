@@ -1,0 +1,117 @@
+{
+  "course": {
+    "id": 827,
+    "subject": "LIFS",
+    "code": "4820",
+    "name": "Entrepreneurship in Biotechnology",
+    "description": "Students will be guided to understand the complexities of biotechnology entrepreneurship with focus on convergence of scientific, technological, regulatory and commercial factors. The course will take a case study approach by interaction with guest speakers who have experience in starting and managing biotechnology companies. Site visits to local company with specialty product development will also be arranged. For BIOT students in their fourth year of study and students with instructor’s consent only.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4.5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 492,
+        "name": "TSIM, Karl Wah Keung",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "E3Cwk2NUaF35babrRwiciLpz2SGJmOkH",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        }
+      ],
+      "author": "lhtam",
+      "date": "Jan 06, 2021",
+      "title": "Atypical LIFS course",
+      "comment_content": "Pre-midterm: Taught by Karl Tsim and his friend Dr. Law <br />1. An overview <br />2. Biotechnology industry-an engine of innovation <br />3. Essential elements for growing biotechnology cluster <br />4. Biotechnology in Hong Kong and Greater China <br />5. Establishing a business in Hong Kong <br />6. Commercial landscape of HK biotech <br />7. Spin-off companies from HKUST <br />8. How to prepare for your business venture <br /><br />Post-midterm: Guest lecture series <br />9. Personal cosmetics industry in Hong Kong/China <br />10. Establishing a business (Health Drink) in Hong Kong <br />11. Hong Kong/China pharmaceutical company and VC <br />12. Establishing a business (consulting) in Hong Kong <br /><br />Project Presentation <br /><br />There are company visit in previous years but cancelled this year due to COVID-19",
+      "comment_teaching": "Karl&#039;s teaching is fun and chill as always. He also has strong interaction with us during lecture (only 19 students this year) so you won&#039;t feel bored.&nbsp;&nbsp;<br /><br />However, some teaching materials i.e. some data are quite outdated.",
+      "comment_grading": "Midterm (40%):<br />- 1.5hr short essay exam, choose 4 out of 5 questions to answer <br />- Open-book exam and allows internet searching<br />- Thinking-based, memorising PPT is not useful at all <br />- Questions like &quot;Should you invest in this company/product&quot; &quot;How will you transform their business&quot; etc. Knowing about how&#039;s the market going on and recent news are important <br /><br />Group Project (60%): <br />- Presentation (30%) including 1-min elevator pitch, 15-mins presentation about your start-up company and 4-mins Q&amp;A session <br />- Business Plan (30%), basically a more in-depth version of your presentation. To be submitted 1 week after final exam period (There&#039;s a month apart the presentation and report due date). <br /><br />No marks were disclosed. I think I did poorly in midterm but ended up with A range. Karl is very lenient in terms of grading if you know him well so don&#039;t worry.",
+      "comment_workload": "No memorisation of hardcore science is needed. Every lesson is like listening to a talk because this course will not require you to recite everything like other LIFS courses but let you know how to develop a business mindset. So it&#039;s quite relaxing in general. <br /><br />The only workload is the project but you will have plenty of time to complete it.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "kGe4n9fcpxhRHHEnmblKd5DwogjOitRw",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 492,
+          "name": "TSIM, Karl Wah Keung",
+          "rating": 1
+        }
+      ],
+      "author": "tony321654",
+      "date": "Jan 24, 2018",
+      "title": "",
+      "comment_content": "Learn how to write a business plan<br />Learn how biotech relate to business<br />Group up to do group project<br /><br />Not very deep in Biotech. But 70% business 30% Biotech",
+      "comment_teaching": "Karl Tsim is very very good!<br />Best teaching<br />You can ask him with your project in non-office time<br />Also he invite his friends to help us<br />Also the TA is very responsible and nice.",
+      "comment_grading": "Mid term: open book open computer. Thinking-based exam <br />Presentation: About your startup project<br />one minute speech<br />Business plan",
+      "comment_workload": "not so much <br />nearly none workload if you enjoy thinking about how to make a start up",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "course": {
+    "id": 86,
+    "subject": "CHEM",
+    "code": "2418",
+    "name": "Physical Chemistry I",
+    "description": "Thermodynamics, chemical equilibrium electrochemistry.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [],
+    "prerequisites": "A passing grade in AL Chemistry",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"2411\" href=\"/review/CHEM2411\" target=\"_blank\">CHEM 2411</a>",
+    "rating_content": 4,
+    "rating_teaching": 2,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 48,
+        "name": "YANG, Shihe",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "7EY3RnoOetFM9zv5MCfNMc5V0DGMh5tv",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 48,
+          "name": "YANG, Shihe",
+          "rating": 1
+        }
+      ],
+      "author": "Heddy",
+      "date": "Jan 09, 2018",
+      "title": "",
+      "comment_content": "This course motivates me to learn by myself. Dun expect to learn much during the lectures.",
+      "comment_teaching": "The professor tried his best to explain when we encounter difficulties in understanding some of the complicated mathematical derivations, but he just read the slides instead which made me hopeless and helpless during the lectures although I had tried my best to pre-learn the lecture notes before each lecture. Also, he sometimes will get confusions as well. For example, he cannot distinguish work done &quot;by&quot; and work done &quot;to&quot;",
+      "comment_grading": "The grade is acceptable.<br />mid term(50%): 79/110<br />final(50%): 67.5/110<br />Total: 73.25%<br />final grade: B+",
+      "comment_workload": "The workload depends on how much effort you do. Since you dun need to submit all the assignment. (However, 40% of the exam questions will be included in the hw)<br />-better to have some mathematical background knowledge before taking this course (especially multivariable calculus)",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

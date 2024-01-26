@@ -1,0 +1,360 @@
+{
+  "course": {
+    "id": 891,
+    "subject": "MATH",
+    "code": "3043",
+    "name": "Honors Real Analysis",
+    "description": "The MATH 2043 and 3043 is a rigorous sequence in analysis on the line and higher dimensional Euclidean spaces. Differentiation and integration in higher dimensions, implicit function and inverse function theorem, Stokes theorem, and Lebesgue measure.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "Grade A- or above in <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2043\" href=\"/review/MATH2043\" target=\"_blank\">MATH 2043</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"3033\" href=\"/review/MATH3033\" target=\"_blank\">MATH 3033</a>",
+    "rating_content": 4.75,
+    "rating_teaching": 4.75,
+    "rating_grading": 5,
+    "rating_workload": 3.63,
+    "review_count": 8,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1203,
+        "name": "IP, Ivan Chi Ho",
+        "count": 3
+      },
+      {
+        "id": 534,
+        "name": "YAN, Min",
+        "count": 2
+      },
+      {
+        "id": 776,
+        "name": "FONG, Tsz Ho",
+        "count": 2
+      },
+      {
+        "id": 556,
+        "name": "HU, Jishan",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "WLGQPJTvE3SFbd7UqrZTK5CgMLk16MH3",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        }
+      ],
+      "author": "mark_",
+      "date": "Dec 22, 2023",
+      "title": "Interesting content, but quite rushed :(",
+      "comment_content": "As mentioned in my 2043 review, Yan Min teaches multivariable functions/differentiation in his 3043 instead of 2043. This means there is less time for the juicy stuff :P<br /><br />- Multivariable limit, differentiation<br />- Measure<br />- Lebesgue Integration<br />- Product Measure (Lebesgue-Stieltjes, Lebesgue in R^n)<br />- Differentiation of Measure (Radon-Nikodym theorem, Fundamental Theorem) <br /><br />Very interesting and important content, but the last two chapters were very rushed. Losing five lectures to public holidays and bad weather didn&#039;t help.<br /><br />The content is far less rich than FF or Ivan&#039;s 3043 though.",
+      "comment_teaching": "After having taken Yan Min&#039;s 2131 and 2043, I think Yan Min can be a great teacher when he is not rushing. He took his time in the first few chapters, which were the chapters I understood the best immediately after the lecture.<br /><br />However, due to time constraints, he had to rush the last two chapters (Product Measure, Differentiation of Measure) and I honestly felt quite lost in these chapters.<br /><br />Regardless, it&#039;s clear he&#039;s passionate about teaching. What&#039;s for sure is I much prefer his analysis teaching to his linear algebra teaching.",
+      "comment_grading": "Grading was very good this semester with 58.3% A-range given. Data is attached.<br /><br />I do have a few things to say however:<br />- The midterm contained a question which required content taught in a later course, Calculus on Manifolds.<br />- The final scores do not really differentiate students -- the lower quartile is 57, while the upper quartile is 62.5. The midterm had a much larger spread.<br />- The exams are not as &quot;failsafed&quot; as other professors like FF or Ivan. What I mean by this is that, in FF or Ivan&#039;s exam, you are often first asked to prove a useful lemma before proving a main result to guide you in the right direction. This is not only nicer for the students, but it is also instructive. It tests whether you understand how to prove, interpret and apply a new fact. With Yan Min&#039;s exams, you are just often just given the result you need to prove without further hints. If you can find the trick, then the proof is trivial. Otherwise, you are possibly doomed.",
+      "comment_workload": "You will probably need to spend a lot of time to understand the content, especially in the later chapters where the teaching is quite rushed.<br /><br />There are 8 homeworks given weekly, most of which can be finished in a day. I feel like the workload is even lighter than MATH 2043 because there are far fewer exercises per homework.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "AMTMg70erBAeRx7d5aRV4Zj53NdQ15xy",
+          "name": "grades",
+          "format": "png"
+        }
+      ]
+    },
+    {
+      "hash": "AFSXqp8u4MeIHoaaR3xBJKVlLDBQYLhP",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 776,
+          "name": "FONG, Tsz Ho",
+          "rating": 1
+        }
+      ],
+      "author": "Ming12",
+      "date": "Dec 29, 2022",
+      "title": "",
+      "comment_content": "Using the same syllabus, material and even homework for MATH5011 almost everywhere.<br /><br />canvas page https://canvas.ust.hk/courses/44858<br /><br />The note is in the attachment.<br /><br />References:<br />(1) Real Analysis: Measure Theory, Integrations, &amp; Hilbert Spaces by Stein and Shakarchi<br />(2) Real Analysis by Royden and Fitzpatrick<br />(3) Measure Theory and Fine Properties of Functions by Evans and Gariepy<br />(4) Geometric Measure Theory: An Introduction by Fanghua Lin and Xiaoping Yang",
+      "comment_teaching": "There is no doubt that Prof. FONG&#039;s teaching is one of the best in the MATH department. He always uses jokes (most of them are about the best Prof. in UST) to let students be attached and the giving examples are easy to understand and helpful.",
+      "comment_grading": "The grading is excellent.<br /><br />Grading is using: Total score = sup{λ homework + μ midterm + ν final : λ∈[0,0.2], μ∈[0,0.4], ν∈[0.4,0.7], λ + μ+ ν= 1}. to compute.<br /><br />And getting a total of 75% or above for A-/A/A+ and about 50% or above for B-/B/B+.&nbsp;&nbsp;The course will not be graded on a curve.<br /><br />I think the exam and homework are unbiased and can reflect the true level of your knowledge. <br /><br />In our class, we have about 70% A-range.",
+      "comment_workload": "If you have never learned real analysis before, the workload may be quite heavy. <br /><br />For me, HW always needed to use at least 4h to think and write. If you want to get the bonus, you need to use 2-3h to make LaTeX. Even though there are only four problem sets, I still think the workload is not light. <br /><br />Also, it is hard to understand all the knowledge in lectures. You may need more time to really understand what he taught and do some exercises.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "YtvzwBMZIkzeZsD7Euxo5wkZTwRZta9Y",
+          "name": "Lecture Notes",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "hVkBY8FmzXIPlmMM1Bz0e3tywA255eKZ",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 776,
+          "name": "FONG, Tsz Ho",
+          "rating": 1
+        }
+      ],
+      "author": "DORMICE17",
+      "date": "Dec 22, 2022",
+      "title": "Honors Real Happiness :P___review by a phytoplankton",
+      "comment_content": "***New Syllabus*** (MATH3043=MATH5011 a.e. ?)<br /><br />Canvas: https://canvas.ust.hk/courses/44858<br /><br />Chapter 6. Lebesgue Measures<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.1. Lebesgue measures on the real line<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.2. Lebesgue measures on R^n≥2<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.3. σ-algebra<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.4. Abstract measure spaces<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.5. Non-measurable sets<br /><br />Chapter 7. Hausdorff Measures<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.1. Definition of Hausdorff measure<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.2. Outer measures<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.3. Rectifiable curves and H^1<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.4. Hausdorff measures on R n<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.5. Hausdorff dimensions<br /><br />Chapter 8. Integrations of Measurable Functions<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.1. Measurable functions<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.2. Definition of integrals<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.3. Convergence theorems of integrals<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Monotone Convergence Theorem<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Fatou&#039;s Lemma<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Lebesgue Dominated Convergence Theorem<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.4. Convergence modes<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Completeness of L^p space<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Egorov&#039;s Theorem <br /><br />Chapter 9. Product Measures<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.1. Pre-measures <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.2. Carathéodory extension theorem<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.3. Fubini’s Theorem<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Monotone Class Theorem<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Tonelli&#039;s Theorem<br /><br />Chapter 10. Lipschitz Continuous Functions<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.1. Functions of Bounded Variation on R<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Jordan&#039;s Theorem<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Vitali&#039;s Covering Theorem<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Cantor-Lebesgue Function<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.2. Absolutely Continuous Functions on R<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Hardy-Littlewood Maximal Inequality<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Lebesgue Differentiation Theorem<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Newton-Leibniz&#039;s Formula<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.3. Rademacher’s Theorem<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.4. Area and Coarea Formulae<br /><br />Chapter 11. Radon-Nikodym’s Theorem<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11.1. Signed Measures<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11.2. Lebesgue-Radon-Nikodym’s Theorem<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Riesz&#039;s Representation Theorem<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Radon-Nikodym’s Theorem<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11.3. Applications of Radon-Nikodym’s Theorem<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Dual space of L^p",
+      "comment_teaching": "FF&#039;s personal blog --- teaching: https://frederickfong.me/teaching/<br /><br />*** FF ***<br />Same as my MATH2043 Review a.e., I encourage you to take any course taught by FF. FF&#039;s lectures are rewarding. You don&#039;t need to worry about the grading cuz the grading is generous...(For 1013 L1...well...depends...⌓‿⌓)<br /><br />FF is a humorous professor and I like his teaching (and peanuts) so much :D. He sometimes proves the same direction for equality and I can never forget he mixed up the direction of Fatou&#039;s Lemma in class after saying &quot;come on! primary school stuff~~&quot; and &quot;if you know about the proof, you will still remember which one is which (direction of ≥)&quot; (＾v＾).<br />(Please don&#039;t tell FF otherwise my career will GG :P)<br /><br /><br />*** Our TA, Jeff York YE ***<br />We have the same TA in 2043 and I have to emphasize again, he is a GENIUS. I think the majority difference between 2043 and 3043 tutorials is that there are more solvable problems in his tutorial, ​***Relatively _(:з」∠)_***...(I am pretty sure that 3043 tutorial is easier than the 2043 one).<br /><br />Meanwhile, there are some challenging problems that make me feel like my IQ is equivalent to a fungus or phytoplankton. Some tutorial problems are too challenging so hilariously, FF told us a joke like &quot;yeah...should be easier than Jeff&#039;s tutorial&quot; in his lecture (≧▽≦).<br /><br />And thx god, FF didn&#039;t give us sth. like Jeff&#039;s tutorial in his exams (otherwise, at least half of the class will jump mushroom???). But I still encourage you to take a look at the tutorial problems, at least you should know what&#039;s going on cuz the results in the tutorial are useful for our homework and exams sometimes.",
+      "comment_grading": "Same as 2043 a.e.<br /><br />Total score = sup{a*homework + b*midterm + c*final: a \\in [0, 0.2], b \\in [0, 0.4], c \\in [0.4, 0.7], a+b+c=1} + Bonus<br /><br />Bonus (sup{Bonus} = 1)<br />- Latex per Homework = +0.25<br /><br />&quot;Whoever doesn&#039;t understand this formula, how did you survive from 2043?!?&quot; ---- Edit by me :P<br />FYI: Original sentence is credited to FF (see 2043 post)<br /><br />Total score &gt;95% will guarantee an A+<br />Total score &gt;80% will guarantee an A<br />Total score &gt;75% will guarantee an A-<br /><br />FF told me the cut-off score is depending on his mood<br />( ͡° ͜ʖ ͡°)<br /><br />Exams are all open notes, and FF brought Stein&#039;s + Royden&#039;s Book and a lecture note written by a professor whose office is located nearby room 3488 to the exam venue for our reference. That lecture note...probably the most &quot;useful&quot; one so FF gave a seat for that lecture note (which is very FF (￣y▽￣))<br /><br />***Disclaimer***<br />I haven&#039;t mentioned who is the author of that lecture note, maybe the author is prof. IP (which also teach 3043 :P) <br />***Disclaimer***<br /><br />EXTRA: 3043 r grade 現場:<br />&quot;A+ la&quot; ---- Me<br />&quot;點解要俾 A+ 你? 3043 A+ 會令你個人變囂&quot; ---- FF<br />Correct a.e. fk me lol",
+      "comment_workload": "Same as 2043 a.e.. l spent most of the time reading proofs and doing homework. Reading the proofs in FF&#039;s lecture note is time-consuming because there are too many technical proofs after midterm. (Completeness of L^p space, Egorov&#039;s Theorem, Carathéodory extension theorem, Tonelli-Fubini&#039;s Theorem, Vitali&#039;s Covering Theorem, Hardy-Littlewood Maximal Inequality, Lebesgue Differentiation Theorem, Radon-Nikodym’s Theorem).<br /><br />Looking at the proofs is not enough after midterm, you have to really understand the common tricks for some of the proofs, especially for those proofs in product measure (eg. Cross-Section Method, using Monotone Class Theorem, Distributional Method).<br /><br />You may also put less emphasis on the proofs and focus on the application for some of the theorems (eg. Tonelli-Fubini&#039;s Theorem, Vitali&#039;s 5-Covering Lemma, Area and Coarea Formulae, Radon-Nikodym’s Theorem).<br /><br />FINALLY...I think the most disgusting thing about 3043 is that there is NO intuition behind some of the proofs. Especially for Vitali&#039;s Covering and Radon-Nikodym’s Theorem...I am literally speechless...idk how mathematicians can propose such creative and talented proofs...Maybe I have to integrate more 陰德 before enrolling into 3043 (-̩̩̩-̩̩̩-̩̩̩-̩̩̩-̩̩̩_-̩̩̩-̩̩̩-̩̩̩-̩̩̩-̩̩̩)<br /><br />EXTRA: Ivan IP&#039;s happiness (homework) appeared in our Final exam. :P<br /><br />Good luck :D<br /><br />(點解咁睇唔開讀數?)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 14,
+      "vote_count": 14,
+      "comment_count": 1,
+      "attachments": [
+        {
+          "key": "7kLXl41Ps1alO2Q8NK2r6eMzVyQfWFsK",
+          "name": "MATH3043 Gradebook",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "e5igSENPtwjbdsP8KOFKIOTyCY8IZzXn",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1203,
+          "name": "IP, Ivan Chi Ho",
+          "rating": 1
+        }
+      ],
+      "author": "agoti",
+      "date": "Jan 22, 2022",
+      "title": "null set := {x \\in \\R: Ivan is a killer}",
+      "comment_content": "(Sorry, I came here just to make that joke in the title)<br /><br />This is a continuation of MATH2043, with the following topics:<br />- Metric spaces and topology (continuation of Limits in R from MATH2043)<br />- Multivariable functions and derivative (continuation of Continuous and Differentiable functions in R from MATH2043)<br />- Measure Theory<br />- Lebesgue Integration, L^p space, Fubini&#039;s Theorem (continuation of Riemann integral from MATH2043)<br />- Fundamental Theorem of Calculus for Lebesgue Integrals<br />- Hilbert space (briefly, but still tested)<br /><br />This course also expects you to have taken MATH2131 and MATH2023, although not being a prerequisite (fortunately for me who took neither)<br /><br />I know too few about MATH courses to judge whether this is a lot or not, but it was definitely fun while it lasted. Probably has to do with the teaching.<br /><br />Everyone else here seems to have some reference books or something, but I don&#039;t unfortunately. Probably explains why my score is that low lol",
+      "comment_teaching": "Real Good.<br /><br />Like mentioned by others already, Ivan&#039;s teaching is very clear and intuitive. This is different from &quot;very understandable&quot; though, this course is hard after all, but he definitely puts a lot of effort in making sure students can follow his steps, such as visualizing some of the more &quot;abstract&quot; (this course is abstract enough) statements and proofs, like that for the Vitali&#039;s 3-Covering lemma.<br /><br />He also provides a discord server for answering student inquiries and some other chit-chat(?), which helped with understanding the lesson material and homework questions a lot.",
+      "comment_grading": "The grading, like MATH2043, is more lenient than normal courses. <br /><br />Above mean guarantees an A- (which is not easy at all tbf), which Ivan further extended to cover 60% of the students. Quoting him from the discord server, it&#039;s a &quot;privilege of honor course&quot;.<br /><br />Exams are generally very very hard (revising the lecture materials is far from enough), but the finals provide &quot;hint systems&quot; that deducts some points in change for useful hints for finishing the problem.<br />In Hint System we trust.<br /><br />At the end I got A- (didn&#039;t buy enough hints), but it is honestly surprising I got here in the first place with insufficient foundation, and close to no preparation for the course materials.",
+      "comment_workload": "Singlehandedly made my low-credit semester relatively hectic.<br /><br />The workload isn&#039;t that much of an increase compared to MATH2043 (4 hw with 10 questions each), but rest assured you will need quite an amount of time to think of each question.<br /><br />Especially for some questions, which are basically like &quot;extra corollaries/theorems&quot; very related to but not covered by the course materials, while they are really good &quot;self-learning&quot; materials, they usually took me the longest time to think of (and while some of them have solutions online, making sense of them is still really hard)<br /><br />I did not start my assignments that late, but there are 2 hws where I had to give up sleeping on the day before deadline to finish them barely on time.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "JAUAj80MLPKlwm93udMbwhq4xxhIa6zs",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1203,
+          "name": "IP, Ivan Chi Ho",
+          "rating": 1
+        }
+      ],
+      "author": "UnconMarketeers",
+      "date": "Dec 27, 2021",
+      "title": "An all-rounded real analysis course",
+      "comment_content": "Multivariable Calculus: Point-set topology in R^n, Continuity/differentiability of functions F: R^n -&gt; R^m, Baire Category theorem, Implicit/Inverse function theorem...<br />(I read Spivak&#039;s Calculus on Manifold as reference, Baby Rudin Ch9 also covers most of the content)<br /><br />Measure theory and Lebesgue Integration: Follows the flow of Stein&#039;s Real Analysis Ch1-3, including important contents like <br /><br />1. The construction from outer measure (closed cube covering) to Lebesgue measure (open covering) to abstract measure (Caratheodory conditions)<br />2. Nonmeasurable set (Vitali set)<br />3. Littlewood Three Principles (Approximation of measurable set using finitely many disjoint cubes/Lusin theorem/Egorov theorem)<br />4. Construction of Lebesgue integration (simple functions -&gt; functions with Bfs -&gt; Nonnegative -&gt; General -&gt; Complex)<br />5. Interchange of limit and integration (BCT, MCT, LDCT), which are proven through the process of construction above<br />6. L^p Space, L^p norm (inequalities like Jensen inequality, Cauchy-Schwarz, Minkowski, Holder have already covered in homework of previous course)<br />7. Fubini-Tonelli&#039;s theorem <br />8. Lebesgue differentiation theorem<br />9. Vitali 3-covering lemma<br />10. Relation between bounded variation, absolute continuity, differentiability of F and integrability of F&#039;<br />(Optional class) Axiom of choice - History and relation to analysis (used in BCT and those constructions involving equivalence class, and construction of Vitali 5-covering)<br /><br />and he surprisingly included part of chapter 4 (Hilbert space) which echoes some contents in 2131. I checked that the remaining untaught part of this chapter is perfectly those involving functional analysis (bounded and continuous linear operator, Riesz representation theorem...)<br /><br />UPDATE: After reading Folland and Royden&#039;s real analysis textbook in this winter I found that sticking on Stein&#039;s textbook is rather insufficient... Some content appeared in midterm and final like convergence in measure (midterm) and convergence modes (final) can be directly found in both textbooks but absent in Stein&#039;s book...",
+      "comment_teaching": "Wonderful. I can&#039;t believe that with that short period of teaching time, such an adequate amount of content is included. <br /><br />One of the most appreciated things for me is that when he started a module (mul cal/measure theory/integration/FTC/Hilbert space) he will introduce the motivation for discussing them. He also sometimes briefly talked about the motivation behind the steps for each proof.<br /><br />Also he (smartly and deliberately?) put some advanced but less applicable theorems like generalized Lagrange multiplier, converse of Lusin theorem, Steinhaus theorem, strong-type inequality... to homework, which motivated me to self-learn them through finishing the related problems.",
+      "comment_grading": "Although I only got a B range (well, in both 2043 and 3043) given that I have already read the textbook once in summer, I found that my understanding for real analysis is still not all-rounded (I am too focused on the big picture instead of the technical stuff) and I think I deserve this grade.",
+      "comment_workload": "Although there&#039;re only 4 hws with selected problems (4 out of 10) graded, the other ungraded ones are also important because they usually include advanced theorems (see above). Some of them are also essential contents that should study to prepare for exams.<br /><br /><br />For exams, the understanding to the contents is much important than reciting them (c.f. Kin Li&#039;s analysis according to other&#039;s reviews?) because there is even an official cheatsheet for students. Also, self-learning the contents taught in the future (well if you know) also makes you advantageous in the exam because he DID test untaught stuff that was going to teach like absolute continuity (2043), Lebesgue number lemma (2043), convergence in measure (3043) in the midterms of both courses.<br /><br />Studying counterexamples is also important for exams, but it seems that the emphasis on counterexamples is slightly deeper in 2043.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "jey31rtslhS2ht9oWTm0saFywcixNYdv",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1203,
+          "name": "IP, Ivan Chi Ho",
+          "rating": 1
+        }
+      ],
+      "author": "vert178",
+      "date": "Dec 27, 2021",
+      "title": "Fast-paced course with a wide coverage of topics",
+      "comment_content": "The course roughly divides into 3 parts<br />Multivariable part (2023 materials, rigorously, and Baire Category)<br />Measure theory (Only Lebesgue measure)<br />--------------------------------------------------------------------<br />Integration Theory (Dominated convergence, Lebesgue differentiation, Fubini-Tonelli (on R^n), Fundamental theorem of Calculus on Lebesgue integral)<br />Also touches a bit on Hilbert space (4061/4063) materials. <br /><br />There were a lot of materials but given this is what Professor FF calls &quot;the hardest course in HKUST undergraduate maths&quot; and even thought of having first year PGs to take this course in place of 5011 as the Analysis foundation course, you should not expect this course to be easy. You are recommended to spend at least 5-8 hours reading and doing exercises every week. Some materials to self-study would be:<br /><br />(Multivariable part)<br />Advanced Calculus by Loomis and Sternberg<br />Advanced Calculus by Fitzpatrick<br /><br />(Measure and Integration)<br />Real Analysis by Stein and Shakarchi (official)<br />Measure, Integration and Real Analysis by S. Axler (most concise and clear for first-timers)<br />Real Analysis (4th ed.) by Royden and Fitzpatrick (approaches everything in a different way so if you got stuck with the above books you can try this)",
+      "comment_teaching": "Pretty much one of the best professors you can ever encounter in HKUST. His teaching were very clear, and everything is presented precisely, with many explanations, examples and intuitions. However, Ivan&#039;s pace is quite fast so you are quite recommended to self-study beforehand; if you have read the materials before, you will get a much deeper understanding of the materials during lecture.",
+      "comment_grading": "Optimizes your grades based on a linear programming optimization scheme. It takes whatever is best out of 0-20% homework, 20%-50% midterm, and 40%-70% finals. The grade distribution is roughly 6A4B. So basically if you paid any form of consistent effort throughout the course, you should expect at least a B+/A-.<br /><br />(I believe the same goes for Professor Fong too)<br /><br />Midterm mean 40.9<br />Finals mean 43.1<br />Cutoff for A- is 50% total course grade and for A it is 60%",
+      "comment_workload": "Fair. 4 homework sets, each take about 5 hours to 1 day to complete, and 1-3 additional hours to typeset in TeX (Latex is pretty much a requirement for Prof. FF and Prof. Ip&#039;s classes)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 8,
+      "vote_count": 8,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "yLluqJu9jjm6UinXG6tTDF43JQYt0R5l",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        }
+      ],
+      "author": "Mauricio",
+      "date": "May 17, 2019",
+      "title": "",
+      "comment_content": "This course covered almost 6 chapters from Professor Min Yan&#039;s. Before the midterm it covers analysis on topics analogous to the first half of MATH2023. After the midterm the class took a drastic change and covered an introduction of measure theory(chapters 9 onwards).<br /><br />6. Multivariable Function<br />8. Multivariable Differentiation<br />9. Measure<br />10. Lebesgue Integration<br />11. Product Measure<br />12. Differentiation on Measure",
+      "comment_teaching": "Professor Min Yan usually teaches at a fast pace and for the last chapter he covered topics even faster than usual. I personally like the way he teaches although not everyone I know is fond of it.",
+      "comment_grading": "This semester the grading was extremely good, with more 15A&#039;s, 9B&#039;s and 2C&#039;s. But getting that A range still takes a considerable amount of effort, I still got a B+. Would be a lot easier to do so in the non-honors version.",
+      "comment_workload": "Every week there is homework consisting of around 10~16 problems from the lecture notes. The time you take on these exercises will depend on your understanding of the topics. Professor also offers his previous exams for practice for the midterm and final.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "bZCx6129lHfyOHsMjQXkvUGJj0Vobwkw",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 556,
+          "name": "HU, Jishan",
+          "rating": 1
+        }
+      ],
+      "author": "kcirtap",
+      "date": "Feb 07, 2018",
+      "title": "",
+      "comment_content": "Policy: Mid term cancelled, almost all on final exam<br />Material: mainly on Rudin&#039;s Analysis, covering uniform convergence, power series, fourier series, inverse function thm, implicit function thm. Self made notes on measure.<br />Skipped the convergence theorem but not a issue as the proofs are straight forward",
+      "comment_teaching": "Faster pace than Kin Lee&#039;s for sure.<br />Easy to follow as he follows the flow of Rudin&#039;s book and notes. His notes on measure moves on from Lebesgue measure to generalized case which is easier to understand than rudin&#039;s approach.",
+      "comment_grading": "4 questions in final,<br />i answered 3 perfectly and the remaining one is just so so.<br />Got an A finally. Personally feel that it&#039;s a very good grade.",
+      "comment_workload": "Nearly no workload, except ~3 questions per week.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

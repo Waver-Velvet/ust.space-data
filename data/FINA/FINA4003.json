@@ -1,0 +1,217 @@
+{
+  "course": {
+    "id": 2231,
+    "subject": "FINA",
+    "code": "4003",
+    "name": "Wealth Management",
+    "description": "This course focuses on a broad understanding of financial and investment issues arising in the context of personal wealth management. Students will gain an understanding of the nature and use of various financial products and legal instruments for developing a financial plan. It covers topics such as client financial status and expectations, portfolio management, securities trading, managed funds, insurance, and tax and estate planning.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2210,
+      2130,
+      1930,
+      1810,
+      1710
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"3103\" href=\"/review/FINA3103\" target=\"_blank\">FINA 3103</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 2,
+    "rating_teaching": 2.4,
+    "rating_grading": 3.2,
+    "rating_workload": 2.6,
+    "review_count": 5,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 237,
+        "name": "PI, Lynn",
+        "count": 4
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "huHVrSrD4Tliz4Kwlgs3YdAX58r9SGMK",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 237,
+          "name": "PI, Lynn",
+          "rating": 1
+        }
+      ],
+      "author": "chung_wck",
+      "date": "Dec 22, 2022",
+      "title": "Very easy course.",
+      "comment_content": "It is a LANG course. You learn presentation skills more than financial knowledge. There are some risk profiling, personal accounting and loss measurement knowledges taught which are somewhat useful, but the majority is not.<br /><br />This course is super unorganised, there aren&#039;t much connections between lectures, but I think it is not as bad as what other reviews commented.<br /><br />Maybe useful if you want to enter Private Banking (PB). Well, you may argue you don&#039;t need to take this course to work in PB, yes, because that&#039;s how bullshit Private Bankers are.",
+      "comment_teaching": "PI Lynn is very nice. She always walk around and encourage participation. Some said she is not knowledgeable, I agree. But this course is more about presentation skills rather than solid finance knowledge, so I think it&#039;s fine.<br /><br />However, some discussions are really useless like discussing about what should we do in client presentation (how to dress up, make eye contacts.......)<br /><br />But, indeed if you attend her classes, you will &quot;get&quot; what she expects for each tasks. She is consistent on her own, just that you need to digest from her.",
+      "comment_grading": "10% Participation + 10% In-class exercises<br />15% Present 1 - A topic of your choice<br />10% Morningstar terminal<br />20% Present 2 - A simulated financial advisory case<br />35% Final Exam<br /><br />The grading scheme is fine although too much breakdowns. However, how it is graded is pretty not transparent. Sometimes you receive parti card when answering questions but most of the times you don&#039;t. Whether she gives out cards on a particular day depends on her mood.<br /><br />Totally not sure how presents are graded. The best presenter receives bonus points. But it is seemingly every group receives similar scores on presents and exercises. Therefore, I will recommend don&#039;t skip a single IPRS because it may determine your grade at the end of the day.<br /><br />Final Exam is like DSE LS paper, long and vague. You need to prepare a cheatsheet where some definitions and formula you put down will be useful for some questions, but for most of them are simply blowing water. Write as fast and as much as you can and you will do well.<br /><br />Note 1: Since this course is too shit, almost all of the remainder class are exchange students (maybe they don&#039;t know how to use USTSpace), and some even early left in final exam for catching a flight, so..., it should be somehow easy grades if you are a local Fina major like me.<br /><br />Note 2: The grading seems not bad, but I can&#039;t say it is fair nor transparent. I got A+ at last but my groupmates got very different grades.",
+      "comment_workload": "Quite chill at all. Some workloads towards midterm and end-term when we have presentations. <br /><br />Also, it is Mon. 130 and Fri. 9am class. IPRS is taken every single class. I consider this is a workload too because of the attendance.<br /><br />You don&#039;t need to study much for the final exam because I believe you have already learnt &gt;60% of the contents in other classes. For the remaining 40%, most are common senses that won&#039;t make a difference if you study or not.",
+      "rating_content": 3,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 1,
+      "attachments": [
+        {
+          "key": "toxfOMLZZTXCEtuoPhHVj5GJgdaHnMaq",
+          "name": "syllabus_FINA4003",
+          "format": "docx"
+        }
+      ]
+    },
+    {
+      "hash": "ZRHKuuJ6XpYKOqv1KDMu5AaMqxPEOhyT",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 237,
+          "name": "PI, Lynn",
+          "rating": 0
+        }
+      ],
+      "author": "Brian.ust",
+      "date": "Jan 14, 2019",
+      "title": "Super unorganized course",
+      "comment_content": "The content is explicitly copied from CFA Level III. Basic wealth management techniques such as Investment Policy Statement and asset allocation were covered. 2 Morningstar certificates will be awarded toward the end of the semester. That is the only takeaway I can think of.",
+      "comment_teaching": "She just read the lecture notes without detailed elaboration. Some content of lecture notes were wrong and was realized 3 days before the final exam. Nothing constructive teaching on using the Morningstar terminal, especially she constantly changed the lab and assignment menu before the deadline. Significant part of the course requires subjective thinking and you will need to guess what she wants.",
+      "comment_grading": "The grading was in fact better than other FINA courses although I don&#039;t understand what takeaway this course has brought to me. <br />Class Participation 5%<br />Morningstar exercises 20%<br />Midterm 20% (Mean: about 60%, S.D: about 6%)<br />Final Exam (comprehensive) 35% (Mean: 72%, S.D: 8.6%)<br />Group Assignments 10%<br />Presentation 10%<br /><br />Both my midterm and final were slightly higher than mean within 1 sd and I got B+.",
+      "comment_workload": "The workload was not very high in fact. However, the workload was significantly high at the last 2 weeks of the semester.&nbsp;&nbsp;At the first one month, except some in-class exercises were given, there was only one Morningstar assignment deadline. However, all the group projects, presentation (if your topic was to present at the last month), 2 Morningstar group assignments were done at the last 2 weeks. You would expect to stay at the lab for several nights waiting the stubborn Morningstar terminal to load.",
+      "rating_content": 2,
+      "rating_teaching": 1,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "4xTjDn9dYaHZTDUet1Q6Fc8hAYBUwZSn",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 237,
+          "name": "PI, Lynn",
+          "rating": 0
+        }
+      ],
+      "author": "Alun",
+      "date": "Jan 03, 2019",
+      "title": "Not Recommended",
+      "comment_content": "Very Subjective. You are studying a lot ppt but you don&#039;t gain anything solid.",
+      "comment_teaching": "She just taught according to what the ppt written.",
+      "comment_grading": "Very bad. There are no clear guidelines for how the assignment, mid terms and finals were graded. Many numbers in the answer were basically come up from no where.",
+      "comment_workload": "Very heavy. Morning Star is the worst system I even heard and used. There are 3 morning star assignments throughout the whole semester. Each assignment toke me like more than 5 hours (only if you are lucky to figure out the answer). And there are 1 presentation in the course. It was on group base. After the assignment, you still have 1 to 2 group assignment need to finished (even you don&#039;t have to present)",
+      "rating_content": 1,
+      "rating_teaching": 3,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "oUNFVK5TfE6OXltqaar5rTMRYxUIEVii",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 237,
+          "name": "PI, Lynn",
+          "rating": 0
+        }
+      ],
+      "author": "oatmeal",
+      "date": "Jan 01, 2019",
+      "title": "Wealth Management",
+      "comment_content": "The contents were mostly copied from CFA Level III. The course is largely qualitative and theory-based. If you expect to learn about wealth management, you will only learn about how bad this course is.",
+      "comment_teaching": "I wish there are more options further below E... <br />To sum up, she was the worst professor ever. The lecture notes and her teaching were so ambiguous. Her time management skills were very poor, since she never (I mean, never) finished classes on time and uploaded answers for in-class exercises only a few hours before the actual exam (while she had promised to upload them asap). The list can go on and on.",
+      "comment_grading": "To my surprise, the grading was quite generous in the end. Although I think I didn&#039;t do that well in the exams, I ended up with B. But even with the generous grading, I still wouldn&#039;t take this course if I were you.",
+      "comment_workload": "1. Attendance (PRS and in-class exercises) + Participation<br />2. Morningstar exercises<br />3. Midterm<br />4. Final (comprehensive)<br />5. Three group assignments<br />6. Group presentation",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 4,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ADyS6ZhMlteAUDNRnvGt1yfIpwOQhxw6",
+      "semester": "2017-18 Fall",
+      "instructors": [],
+      "author": "Wiki",
+      "date": "Aug 22, 2018",
+      "title": "",
+      "comment_content": "The content was really really really introduction level. I was surprised that this was a 4000 level course. The most useful skill of this course was probably how to use Morningstar at a, well, preliminary level.",
+      "comment_teaching": "Sorry to say that, if Prof is still Mrs Lynn Pi, I highly recommend you not to take this course. Too much content on the slides and the discussions were pointless. I felt even the TAs were more professional than Prof.",
+      "comment_grading": "One participation card for each question you answered in the class. Well done.",
+      "comment_workload": "Not much workload tbh.",
+      "rating_content": 3,
+      "rating_teaching": 2,
+      "rating_grading": 2,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

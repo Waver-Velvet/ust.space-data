@@ -1,0 +1,29 @@
+{
+  "course": {
+    "id": 348,
+    "subject": "ELEC",
+    "code": "4640",
+    "name": "Modern Optics",
+    "description": "Advanced topics in optics and optoelectronics. Polarization effects and polarization manipulation, wave interference, diffraction, Fourier optics, optical signal processing, optical coatings, lasers and applications, LED and solar cells.",
+    "categories": [],
+    "website": "http://course.ee.ust.hk/elec4640",
+    "credits": 3,
+    "semesters": [],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"3600\" href=\"/review/ELEC3600\" target=\"_blank\">ELEC 3600</a>",
+    "corequisites": "",
+    "exclusions": "ELEC 692X",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

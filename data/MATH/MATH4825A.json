@@ -1,0 +1,84 @@
+{
+  "course": {
+    "id": 1293,
+    "subject": "MATH",
+    "code": "4825A",
+    "name": "Financial Economics",
+    "description": "This course provides an understanding of the basic concepts of financial economics including interest rate models, rational valuation of derivative securities and risk management techniques. It covers the syllabus of the Society of Actuaries MFE Exam. Topics include: call-put parity; identifying arbitrage opportunities; pricing European and American options using binomial model; the Black-Scholes option-pricing model; option Greeks; Asian, barrier, gap and exchange options; lognormal distribution; Brownian motion and Ito's Lemma; risk control with delta/gamma hedging. Interest rate models: Black-Derman-Toy binomial model, Vasicek and Cox-Ingersoll-Ross bond price models.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1530,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2411\" href=\"/review/MATH2411\" target=\"_blank\">MATH 2411</a> AND <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2511\" href=\"/review/MATH2511\" target=\"_blank\">MATH 2511</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"4511\" href=\"/review/MATH4511\" target=\"_blank\">MATH 4511</a>",
+    "rating_content": 2,
+    "rating_teaching": 1,
+    "rating_grading": 2,
+    "rating_workload": 1,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 553,
+        "name": "WU, Lixin",
+        "count": 1
+      },
+      {
+        "id": 725,
+        "name": "ZHANG, Dawei",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "k9swpI3ElJtmsVxqLUnoLnqeHjzgVoBJ",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 553,
+          "name": "WU, Lixin",
+          "rating": 0
+        },
+        {
+          "id": 725,
+          "name": "ZHANG, Dawei",
+          "rating": 0
+        }
+      ],
+      "author": "Arange",
+      "date": "May 30, 2016",
+      "title": "",
+      "comment_content": "Topic:<br />Introduction to Derivatives<br />An Introduction to Forwards and Options<br />Insurance, Collars, and Other Strategies<br />Introduction to Risk Management<br />Financial Forwards and Futures<br />Swaps<br />Parity and Other Option Relationships<br />Binomial Option Pricing: Basic Concepts<br />Binomial Option Pricing: Selected Topics\t<br />The Black-Scholes Formula<br />Market-Making and Delta-Hedging<br />Exotic Options: I<br />Financial Engineering and Security Design<br />The Lognormal Distribution<br />Monte Carlo Valuation<br />Brownian Motion and Ito&#039;s Lemma<br />The Black-Scholes-Merton Equation<br />Exotic Options: II<br />Volatility<br />Interest Rate and Bond Derivatives<br /><br />There are quite many topics in this course which is similar to FINA3203. Due to time limit, he only covers the topics up to exotic options II",
+      "comment_teaching": "Prof Wu uses the powerpoint provided by the textbook publishers for teaching. He justs read the powerpoint and sometimes he even doesn&#039;t know what he is teaching such as &quot; let me think&quot;, &quot; have i confused you?&quot;. It is not necessarily go to the lecture as at least i didn&#039;t. <br />The teaching of TA is okay, and he would post the solutions of the materials on his website. But i didn&#039;t go to any tutorials as i could revise myself.",
+      "comment_grading": "There are one midterm, one final and five pieces of homework.<br />Midterm: 30%<br />Final: 50%<br />Homework: 20%<br />Midterm mean 27/40, sd 9.32<br />Final mean 48.63/100, sd 20.64<br />I get 35/40 in midterm, 81.5/100 in final, full mark for all homework, and finally get A<br />The grade is not that good<br />It seems that the grade is just given by the TA and not by the professor.",
+      "comment_workload": "The workload is quite heavy as there are lots of topics to be covered. <br />As professor and TA cannot help you, you need to revise them yourselves by printing the textbook out. <br />If you pay more efforts in reading the textbook, your midterm should be okay as most of them are basic calculation problems.<br />But in final, the most shocking part is the first 15 questions are not calculation problems such as<br />&quot; What is forward contract? 2 marks&quot; , &quot; What is butterfly spread? What is the motivation of buying this? 4 marks&quot;<br />This short questions weighs 40/100 marks of the final exam, the exam becomes a memory challenge rather than a mathematics exam.<br />In short, the workload is quite huge.",
+      "rating_content": 2,
+      "rating_teaching": 1,
+      "rating_grading": 2,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

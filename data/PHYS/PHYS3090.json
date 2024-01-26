@@ -1,0 +1,88 @@
+{
+  "course": {
+    "id": 1038,
+    "subject": "PHYS",
+    "code": "3090",
+    "name": "Directed Studies in Physics II",
+    "description": "This course covers special topics selected by the instructor on the basis of individual student's request.  For students in their third year of study under the four-year degree only. The instructor's approval is required for taking this course. May be repeated for credits.",
+    "categories": [],
+    "website": "http://teaching.phys.ust.hk/phys2090",
+    "credits": 1,
+    "semesters": [
+      2130,
+      2110,
+      2030,
+      2010,
+      1910,
+      1840,
+      1830,
+      1810,
+      1730,
+      1710,
+      1630,
+      1610,
+      1530,
+      1510,
+      1430,
+      1410
+    ],
+    "prerequisites": "CGA at 2.70 or above",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 627,
+        "name": "WONG, Kam Sing",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "UlEBOrMJiX6Sa8eHPnWDbGgJZxvovyBm",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 627,
+          "name": "WONG, Kam Sing",
+          "rating": 1
+        }
+      ],
+      "author": "_NattU_",
+      "date": "Jan 06, 2022",
+      "title": "",
+      "comment_content": "Expect a UROP theme for this course. The level and volume of content you cover are heavily dependent on what kind of project you&#039;re doing and under whose supervision you&#039;re under. You can approach a faculty member and join an existing project (visit their research website or see if they have any UROP projects) or in some cases, request them to set up a new one for you.",
+      "comment_teaching": "You learn individually (sometimes, in a research group) under the supervision of a professor. I suppose the grade for this section is really dependent on who your supervisor is. In case of doubt, give it an A grade. (I really wish this was the case for all of my UG courses lol)",
+      "comment_grading": "You&#039;re graded on a written report and a f2f presentation.<br /><br />Unlike UROP, this course is graded from A+ to F. The grading is good though. You don&#039;t need a scientific breakthrough or anything close to non-trivial in your project. (Of course, don&#039;t just BS your way through lmao, you still need a respectable project, not just something you can simply find from a UG course textbook).<br /><br />A well-organized and detailed summary of your study/findings in PRL or PRB format (max 10 pages, including figures and references) should do the trick. The more unfamiliar aspect of this course might be the f2f ppt presentation (10-12 mins, don&#039;t go over the time limit!). Prof. WONG has a tendency to ask some super penetrative and thoughtful questions and you&#039;d better be able to answer them properly. I saw a few students use a script and Prof. WONG wasn&#039;t against it but idk if he docked some points for that. <br /><br />In Prof. WONG&#039;s words, &quot;If you able to present it in a fun way and still able to pass the main message and science to the audience, this will be excellent.&quot;<br /><br />I got an A+ on this course. IMO, my report was standard, nothing super exceptional but ticked all the necessary boxes while my presentation was probably on the better side compared to my peers. (Fellas, practice your presentation skills!)<br /><br />Edit: I took another directed study next sem and my report and presentation performance was more or less similar with the exception that I couldn&#039;t answer one of the questions posed by the instructor properly after the presentation (this was accounted into the presentation score) so I got an A.",
+      "comment_workload": "Officially speaking, you only need a report (roughly 8-10 pages) and a presentation at the end of the course. In that sense, the &#039;workload&#039; isn&#039;t much. However, the real workload is determined by the nature of your project (and your supervisor). Since the theme of this course is mostly in line with research projects, you can think of this as another UROP project, specified for PHYS majors. From what I&#039;ve experienced myself and seen amongst my peers, you should expect weekly meetings with your supervisor and a respectable (by which I really mean reprehensible) amount of literature studies/review. Some professors are nice and like to keep the pace slow but I guess it is really circumstantial.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

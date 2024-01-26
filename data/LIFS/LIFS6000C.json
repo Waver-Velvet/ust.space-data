@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 3199,
+    "subject": "LIFS",
+    "code": "6000C",
+    "name": "Biostatistics: Theory and Application in Life Science Research",
+    "description": "Statistical analysis has become an essential component in life science research for analyzing experimental data, experimental design, and exploratory analysis. This course is tailored to an audience of graduate students and researchers working in biological sciences and more broadly disciplines working with experimental or simulated data. We will introduce some widely used methodologies in contemporary research, such as hypothesis testing, nonparametric approaches, cross-validation and bootstrapping. To ensure the correct use of these statistical tools and to be able to generalize to new scenarios, we will also discuss some of the fundamental theories behind these methods. The students will gain practical experience from homework problems including programing and use of packages.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2030,
+      1930
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1253,
+        "name": "HU, Yu",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "te1MpALkvh2UkeQuS2VmZpwHyeEnkX8M",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 1253,
+          "name": "HU, Yu",
+          "rating": 1
+        }
+      ],
+      "author": "niwakkoki",
+      "date": "Oct 22, 2021",
+      "title": "Very good course",
+      "comment_content": "I use the syllabus here for the arrangement of every week. The lecture here covers a lot of basic and application of biostatistics, which helps me a lot with the lab work and reading the related details in the article.<br /><br />Week 1 Introduction, basic concepts<br />Week 2 Hypothesis testing, t test and p-values<br />Week 3 Analysis of variance (ANOVA)<br />Week 4 Two-way ANOVA and multiple testing<br />Week 5 Experimental design<br />Week 6 Model assumptions and nonparametric tests<br />Week 7 Linear regression<br />Week 8 Conditional dependence and partial correlation<br />Week 9 Model selection<br />Week 10 Logistic regression and generalized linear model<br />Week 11 Bootstrapping<br />Week 12,13 Additional topics",
+      "comment_teaching": "As you know, this is a math course and it is difficult to concentrate on the contains. However, Prof. HU teaches us very clearly and logically, which makes me concentrate on the math contains and the deeper thoughts. In the class, the interaction with Prof. HU will also help me know more about the biostatistics and learn it well.",
+      "comment_grading": "The grading is very good. If you would like to get good grades (A+), please do the homework with the full grades. The exam and the homework are take-homes so that you can think deeper about the questions. All the classmates I know have satisfying grades.<br /><br />Homework 50%<br />In-class discussion and participation 15%<br />Final exam 35%<br />Homework includes derivations, proofs, and numerical (programming) problems<br />Final exam format: 24 hour, open book, take-home exam",
+      "comment_workload": "The homework is weekly and maybe a little high. For the questions, you need to review the notes and the videos to think deeper about the questions.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

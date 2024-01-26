@@ -1,0 +1,120 @@
+{
+  "course": {
+    "id": 415,
+    "subject": "ENVS",
+    "code": "3001",
+    "name": "Pollution Monitoring and Measurement",
+    "description": "Students will learn the science background and monitoring techniques of environmental pollutants, which include the behavior of contaminants in water, sample collection, biological and chemical analyses, experimental design, and data analysis. Students will also be introduced to the advanced research infrastructure on campus. Through the course, students will gain essential background and skills for conducting environmental research or pursuing a career in the environmental field. Students are required to have sufficient background of life science and chemistry. For ENVS students only.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2030,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"1030\" href=\"/review/CHEM1030\" target=\"_blank\">CHEM 1030</a> OR <a class=\"course-link\" data-subject=\"CHEM\" data-code=\"2311\" href=\"/review/CHEM2311\" target=\"_blank\">CHEM 2311</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 1.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 229,
+        "name": "CHENG, Jinping",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "S2jwEU56ewl5TsHEn6ZWIyEUGnKD2zsX",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 229,
+          "name": "CHENG, Jinping",
+          "rating": 1
+        }
+      ],
+      "author": "淺水健",
+      "date": "Feb 08, 2021",
+      "title": "heavy workload course",
+      "comment_content": "Just same as the people in the review before. Not so much change among these years.",
+      "comment_teaching": "TAs will lead students finish lab session every lesson. You can ask them if you are doubt. After November 8, change to zoom mode. The last lab session TA make a ppt with voice recording on each page.",
+      "comment_grading": "The grade is fine. B range. <br />Everyone lab report got high score. <br />In final exam I did not finish all questions. Especially calculative questions still got b+",
+      "comment_workload": "Very high, after each lab session you have to submit lab report within 7 days. Each report need to write 1000 to 2000 words. The reports will check by turnitin. Don&#039;t direct copy from your groupmates. Jinping seen we had high workload and so she postponed deadline several times.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "49FS68f3pj3AoDde4ufPY8oxHqRyP7te",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 229,
+          "name": "CHENG, Jinping",
+          "rating": 1
+        }
+      ],
+      "author": "YSA",
+      "date": "Dec 30, 2017",
+      "title": "Interesting lab course, heavy workload for lab reports",
+      "comment_content": "Interesting lab course about different pollution monitoring and analysis techniques. 6 labs and 1 field trip. Topics:<br /><br />Strategies in examining water quality: salinity, pH, DO, BOD5, TSS, TBC<br />Total bacterial count<br />Plankton sampling<br />ICP-MS<br />GC-MS<br />E. coli membrane filtration<br />Bacteria PCR, gel electrophoresis<br /><br />The topics and lab work are quite advanced, but they are explained well from the basics. CHEM2311 is a helpful prerequisite for the 2 chem labs in this course - ICPMS and GCMS. If you have done some previous CHEM/LIFS lab courses, it would be helpful.",
+      "comment_teaching": "The professor does not instruct the lessons, she coordinates the dates and times of labs, assignments, field trip, etc. and helps with any questions.<br /><br />Each week there is a ~1 hour lesson taught by a different TA, followed by 1-2 hours lab work about that topic. The TA are helpful with any questions about lab work or lab reports.<br /><br />All students are divided into groups of 5 students at the start of the course, for the rest of the course. All lab work is done in these groups, and each group has a TA assigned for the entire course. The TA is very helpful with all lab work.",
+      "comment_grading": "Lab work + field trip + lab reports = 55%<br />Final exam = 40%<br />Attendance, teamwork, etc. = 5%<br /><br />Each lab report is worth 7-8% of the final grade, so it is not necessary to get 100% or a very high grade in the lab reports. 80-90% in each lab will get you a very good grade.<br /><br />Final exam is not too hard. MCQs, true and false, short questions, and long questions with calculations based on the lab work. Some questions are about different instruments displayed in the lab during the exam.<br /><br />Final exam mean = 73.9%, high = 84.5, low = 60.5.<br /><br />I got 76.7% in final, average 80% in each lab, final grade B+.",
+      "comment_workload": "The workload has reduced from last year, but still 5 lab reports (lab number 6 has no report, only a short quiz) + 1 field trip report. Each report is around 5-10 pages long, takes 4-6+ hours to complete. Some labs are very difficult and include complex calculations and methods not explained in detail during the lecture. But there is enough time given, 2 weeks for each report.<br /><br />Final exam preparation is not too much. Just ~80-100 slides of notes about each topic, and read all the lab reports.<br /><br />Attendance is required every week because of lab work. The official lesson duration is 3 hours 50 minutes every week, but the class usually ends in 2-3 hours, depending on how fast you finish the lab. The final exam is during the start of the study break, so no final during the exam period.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "EKjgj7iNo7WETE1smtSTyMRSZD2YulYj",
+          "name": "envs3001 syllabus",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

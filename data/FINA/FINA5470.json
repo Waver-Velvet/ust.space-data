@@ -1,0 +1,40 @@
+{
+  "course": {
+    "id": 1873,
+    "subject": "FINA",
+    "code": "5470",
+    "name": "Mergers, Acquisitions and Restructuring",
+    "description": "Focuses on the design, analysis, and implementation of financial strategies aimed at repositioning and revitalizing companies.  Corporate value creation by restructuring a company or by undergoing a business combination.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2330,
+      2230,
+      2210,
+      2130,
+      2110,
+      2010,
+      1930,
+      1840,
+      1640,
+      1610
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"5120\" href=\"/review/FINA5120\" target=\"_blank\">FINA 5120</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

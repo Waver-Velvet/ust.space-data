@@ -1,0 +1,113 @@
+{
+  "course": {
+    "id": 2709,
+    "subject": "IEDA",
+    "code": "4200",
+    "name": "Design of Logistics and Manufacturing Systems",
+    "description": "Facility location, process and material flow analysis, space allocation and plant layout, computerized layout planning, material handling equipment, material handling system design.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2110,
+      2010,
+      1910,
+      1810
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"IEDA\" data-code=\"3010\" href=\"/review/IEDA3010\" target=\"_blank\">IEDA 3010</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 4.5,
+    "rating_workload": 4.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 360,
+        "name": "QIU, Xuan",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "ae2gDYGUdCzW04w8tToPwd4V5j6OYkuA",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 360,
+          "name": "QIU, Xuan",
+          "rating": 1
+        }
+      ],
+      "author": "饮茶",
+      "date": "Aug 13, 2023",
+      "title": "",
+      "comment_content": "Cover Following Topics:<br />1 Introduction to Facilities Planning<br />2 Facility Location Models<br />3 Machine Layout &amp; Group Technology<br />4 Flow &amp; Activity Relationships<br />5 Layout Design<br />6 Warehouse Operations &amp; layout<br />7 Product, Process and Schedule Design<br /><br />* Include one section of company visit, which is a meaningful tour",
+      "comment_teaching": "The content has been arranged in a reasonable way, providing enough examples/sample questions for each concept/method.<br /><br />Prof. QIU is patient and has a good delivery in the lecture, and the tutorial(lab) instruction is also clear.",
+      "comment_grading": "Homework + Lab reports 15% <br />Project 15% <br />Participation(in short quiz after class) 5% <br />Mid-term exam 25% <br />Final Exam 40%<br /><br />Pretty well for me. You can get an A range if you understand the lecture content. The questions given in the exam are reasonable and similar questions are usually covered in lectures.",
+      "comment_workload": "Homework+Lab reports: 4HW and 6 Lab. HW takes around 30-60 min if you have fully understood the lecture content. Lab reports submit the code (Excle+Facility Planning Software) result.<br /><br />Project (Group): Presentation+Report, analyzing an existing facility layout and giving advice. The workload is mainly on data collection and can significantly reduce if you have a reliable team. (higher workload if working alone)<br /><br />Participation/Quiz: Prof.QIU will tell us, &#039;We have a quiz today&#039; at the beginning of a lecture. The quiz usually includes one question, whose concept has been explained in the last few lectures.<br /><br />Mid-term exam 25%: cover Topic 1-4 + 5.1<br />Final Exam 40%: cover Topic 2,5,6,7",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "RP3SATrSaOFJHsqPI6dq51GHSJ0EkfmF",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 360,
+          "name": "QIU, Xuan",
+          "rating": 1
+        }
+      ],
+      "author": "Mason Mount",
+      "date": "May 30, 2023",
+      "title": "",
+      "comment_content": "1 Introduction to Facilities Planning<br />2 Facility Location Models<br />3 Machine Layout &amp; Group Technology<br />4 Flow &amp; Activity Relationships<br />5 Layout Design<br />6 Warehouse Operations &amp; layout<br />7 Product, Process and Schedule Design",
+      "comment_teaching": "Normal<br /><br />Provided enough practice questions which are similar to exams and hws.",
+      "comment_grading": "Homework + Lab reports&nbsp;&nbsp;15%<br />Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15%<br />Participation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5%<br />Mid-term exam&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25%<br />Final Exam&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40%<br /><br />The grading is not transparent, only scores of homeworks, labs and mid-term exam are shown.",
+      "comment_workload": "4 Homeworks<br />3 Quizs<br />6 Labs (copying ppt to excel or other software)<br />1 Group Project (simple in general, but you can make it into a fancy work if you have time. can&#039;t tell how prof and ta graded because no strict grading scheme and no score shown)",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 3728,
+    "subject": "SOSC",
+    "code": "4000K",
+    "name": "Experiments and Quasi-Experiments in the Social Science",
+    "description": "This course explores the statistical methods used for causal inference in the social sciences. Working within the potential outcomes framework, we discuss how the logic of inference for randomized experiments is the same as for non-randomized (observational) studies under certain additional assumptions. Though randomized experiments serve as the gold standard for causal inference, we note how it may sometimes be reasonable to treat non-experimental data as if it had been drawn from an experiment. Usually, this involves some knowledge about how the natural world produced the data through a quasi-random process. Research designs and methods covered include randomized experiments, matching, instrumental variables, difference-in-differences, synthetic control, and regression discontinuity designs. In turn, we discuss how all of these methods require a unique set of assumptions to allow us to make valid casual inferences. Throughout the course we will draw examples from across the social sciences to illustrate the vast range of applications of these methods. Furthermore, the course will include computing sessions during which students are taught how to implement the techniques using modern statistical software.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2130
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1627,
+        "name": "HENDRY, David James",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "1racemczZ6JBMqNuiAJOhBvvC4DRcezs",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1627,
+          "name": "HENDRY, David James",
+          "rating": 1
+        }
+      ],
+      "author": "BBC",
+      "date": "Jun 13, 2022",
+      "title": "Excellent course",
+      "comment_content": "Experiments and quasi-experiments in social science.<br /><br />Methods such as instrumental variables, matching and weighting, regression discontinuity, difference in difference and synthetic control were discussed.<br /><br />Apart from concepts of these methods, there are tutorials using R to teach you how to actually implement them for social science research.",
+      "comment_teaching": "He is a very hard-working professor. For each problem set, presentation and final paper he wrote 2-page feedback on what can be improved and why some marks were deducted.<br /><br />I guess he also made the R programming tutorial materials himself, which are very professionally made.<br /><br />When is the last time another professor in another course writes 2-page feedback with about 1000 words for each assignment and final paper for you and tells you what can be improved?<br /><br />I assume he did this to every student as well and this tells you how much he cares about teaching and how hard-working he is. (Also maybe because we were in a small class this semester.)",
+      "comment_grading": "10% Fundamentals Problem Set<br />10% Group Presentation in Experiment Workshop<br />50% Computing Problem Sets<br />20% Final Paper<br />10% Attendance<br /><br />Very good grade for a course like this. Much better than I expected. The computing problem sets are mostly the same as the materials in the tutorial, so it is not difficult to get a good grade for them. <br /><br />The final paper is to work on any social science topic using the methods introduced in the course, which is also graded quite leniently.",
+      "comment_workload": "Fair for a 4000-level course. The problem sets are very similar to the tutorial materials so nothing really complicated. He also response to questions about the problem sets very quickly if you have any.<br /><br />The presentation is a few pages of PPT introducing some previous papers on their methodology, background, results, etc.&nbsp;&nbsp;Not really difficult at all.<br /><br />The only challenging part is the 4000 words final paper, but I think it is a reasonable workload and it is only 20% of the overall grade. Just refer to some previous tutorials on how to use those methods introduced in class should be fine.<br /><br />No mid-term no final. I would say this is a pretty fair workload, especially considering that this is after all a 4000-level course, not a 1000-level introductory course.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

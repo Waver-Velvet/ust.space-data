@@ -1,0 +1,110 @@
+{
+  "course": {
+    "id": 3138,
+    "subject": "ECON",
+    "code": "4999P",
+    "name": "Macroeconomic and Financial Risk Management",
+    "description": "Macroeconomic and financial risks refer to unexpected changes in macroeconomic conditions or movements in financial variables that would have an adverse effect on the economic profit or investment return of an entity. If the central bank increases interest rates, it reduces profits for firms which rely on debt financing. If a country devalues its currency or defaults on its sovereign debt, foreign creditors or investors realize investment losses. This course introduces fundamental concepts of macroeconomic and financial risk management. It comprises both quantitative and qualitative tools to identify, measure, and manage risks. Challenges in risk management processes are also addressed.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2110,
+      2010,
+      1930
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"ECON\" data-code=\"2103\" href=\"/review/ECON2103\" target=\"_blank\">ECON 2103</a> OR <a class=\"course-link\" data-subject=\"ECON\" data-code=\"2113\" href=\"/review/ECON2113\" target=\"_blank\">ECON 2113</a>) AND <a class=\"course-link\" data-subject=\"ECON\" data-code=\"2123\" href=\"/review/ECON2123\" target=\"_blank\">ECON 2123</a> AND <a class=\"course-link\" data-subject=\"ECON\" data-code=\"3334\" href=\"/review/ECON3334\" target=\"_blank\">ECON 3334</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 4.5,
+    "rating_workload": 4.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1227,
+        "name": "NG, Chi Yung",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "7uMeZL6mujaYfguHv63Kw5tay2yEApj7",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1227,
+          "name": "NG, Chi Yung",
+          "rating": 1
+        }
+      ],
+      "author": "清香檸檬",
+      "date": "Nov 05, 2021",
+      "title": "A bit boring but much to learn",
+      "comment_content": "Another review has included the details of the topics. I am not going to type them again.<br /><br />This is a 8-week course with the final quiz on week 9. It is also a small class with only five students this semester.<br /><br />Comments: Quite a lot for a 2-credit course if you do not have financial mathematics background. Some parts contains a lot of concepts as well, and you have to recite all of them (300+ slides) for the quiz.",
+      "comment_teaching": "He teaching is not bad. Prof NG is willing to answer all your questions raise during the lesson. However, honestly his lessons are a little bit boring as he is just reading or sometimes paraphrasing his PPT, which is very very wordy. I think he should make it a lecture &quot;notes&quot; instead and reduce the number of words in the PPT to make the lectures a bit less mundane. All in all, the slides are informative but the classes are not at all interactive.",
+      "comment_grading": "10% attendance, 45% case analysis, 45% &quot;Quiz&quot;<br /><br />Attendance is taken by his eyes. He does not have any written record in most of the lesson afaik. I showed up in almost all lectures and get 10/10. Tutorials are not necessary.<br /><br />Case analysis is a 5-paged report on a financial disaster, for example, SocGen trading loss in 2008. The resources given are useful and 2-3 days will be more than sufficient to wrap this up.<br /><br />The &quot;Quiz&quot; is like a final exam of this course, in the format of 39 MCQs in 2 hrs closed-book. The difficulty is not too high if you have some background in actuarial / financial mathematics. Personally I revised for one whole day only with almost no effort continuously paid during the semester.<br /><br />My scores: 10+45+?? = A<br />The quiz score is not revealed.",
+      "comment_workload": "The workload is quite low if you a student with some MATH45XX background, and have a bit of prior knowledge about risks.<br /><br />Just make sure you go to class every lecture, and reserve approx. 2 days for each assessment.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "tQF0O1mWWx8CD4wA52X0M4auBnUrb15o",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1227,
+          "name": "NG, Chi Yung",
+          "rating": 1
+        }
+      ],
+      "author": "economist",
+      "date": "Oct 30, 2020",
+      "title": "Beneficial for non-FINA student to gain some derivative knowledge but quite a lot material",
+      "comment_content": "[Long time no write reviews since Year 1 lah]<br />Caveat: Don&#039;t register if you are FINA student as you will waste 2 credits for sure.<br />1. Foundation of Risk Management (Week 1)<br />•\tIdentification of Macroeconomic and Financial risks<br />•\tIntroduction to Risk Measurement and Management tools<br />•\tCapital Asset Pricing Model<br />•\tRisk-Adjusted Performance Measurement<br />2. Valuation of Derivative Securities (Weeks 2-3)<br />•\tDetermination of Forward and Future Prices<br />•\tMechanics and Properties of Options<br />•\tOptions Pricing: Binomial Model, Black-Scholes-Merton Model, Greek Letters<br />3. Risk Management Models for Macroeconomic and Financial Risk (Weeks 4-7)<br />•\tValue-at-Risk and Stress Testing<br />•\tHedging Strategies Using Futures Contracts<br />•\tRisk Metrics and Hedges for Fixed Income Securities<br />•\tManaging Foreign Exchange Risk<br />•\tManaging Credit Risk<br />•\tManaging Operational Risk<br />•\tCountry and Sovereign Risk Measurement",
+      "comment_teaching": "Nice instructor in UST. I think he is a Hong Konger.<br />As the class size is very small, you can always ask questions in the chatbox and he will answer at once during the lecture.<br /><br />The content might be too theoretical as there are not any practical labs for you to apply the knowledge (e.g. using the Bloomberg terminal). Thus, I suggest you should go to Bloomberg by yourself as it is essential in the workplace.",
+      "comment_grading": "Online Class Attendance\t10% (easy, right?)<br />Case Study Analysis\t45% (choose ONE from several cases provided, not hard as you can find a lot of references online)<br />Online Quiz\t45% (don&#039;t believe in the practice exercise, actual quiz will be 3 times more difficult than that, but you might finish all question though they are wrong lol)<br /><br />My score <br />Online Class Attendance\t10/10<br />Case Study Analysis\t92/100 (no statistics released)<br />Online Quiz\t32/39 (highest: 32, mean: 25)<br /><br />Caveat: only 8 people enrolled in this course, so the university grading scheme is not applied here<br /><br />Letter grade: A",
+      "comment_workload": "Quite high for a 2 credit course since the content is too much.<br />I do little revision every week. And spend a day to prepare for the final quiz.<br /><br />Prepare your own cheat sheet as you will not have time to go back to lecture notes (though it is an open book quiz). Copy all the formula on the cheat sheet and this might save your grade!",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

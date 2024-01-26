@@ -1,0 +1,80 @@
+{
+  "course": {
+    "id": 1616,
+    "subject": "CIVL",
+    "code": "5610",
+    "name": "Urban Transportation Networks Analysis",
+    "description": "Reviews transportation planning models and traffic analysis; examines the assignment of traffic flow on a network according to user-equilibrium and system optimal objectives; addresses formulation methods and solution techniques.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 91,
+        "name": "LO, Hong Kam",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "MTzvEjJzwOHPXbtX0VaThoonkCwE12oX",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 91,
+          "name": "LO, Hong Kam",
+          "rating": 1
+        }
+      ],
+      "author": "CyrusL",
+      "date": "Jan 07, 2023",
+      "title": "",
+      "comment_content": "This course focuses on the formulation and solution of user equilibrium for traffic networks, which is critical to urban transportation planning.<br /><br />[Outline]<br />Chapter 1: Urban Transportation Planning Model / Traffic Assignment Principles<br />Chapter 2: Basic Concepts in Minimization<br />Chapter 3: Solving Minimization Problems<br />Chapter 4: Nonlinear Complementarity Problem (NCP) / Variational Inequality Problem (VIP)<br />Chapter 5: Formulating User Equilibrium (UE) Assignment<br />Chapter 6: Solving UE Assignment Formulation<br />Chapter 7: Assignment with Elastic Demand<br />Chapter 8: Distribution-Assignment <br />Chapter 9: Stochastic UE<br />Chapter 10: Stochastic Network Loading Models<br /><br />The contents are pretty math-heavy, but you don&#039;t need any background in mathematical optimization to take this course since the first part of the course is dedicated to teaching you that. Later on, once you understand how to solve user equilibrium, the same intuition can be applied to its other variants, some of which are also taught in this course.<br /><br />Note that there is some overlap in the contents between CIVL 5610 and CIVL 5620 relating to utility choice models. However, the two courses focus on different aspects, so you should still find the topic interesting.<br /><br />Since we finished the contents earlier than expected, for the last lecture, Prof. invited one of his students to present his research on this topic.<br /><br />[Attendance]<br />There is no mandatory attendance; however, to encourage a physical presence, Prof. will only release recordings to those with a proper reason for absence. Therefore, you should attend every lecture if possible.<br /><br />[Assignments]<br />There are two assignments for this year, one about optimization and another about solving UE. Most of the questions are calculation-based; you are not expected to provide complicated proofs.<br /><br />[Group Project]<br />The group project is designed for groups of 2-3. It has a significantly broader scope than the course itself: apart from the basic task of computing UE of a transportation network, you are also required to evaluate the network performance, and finally, make use of a limited budget to improve the network.<br /><br />The focus of the project is squarely placed on improving the given network. Since there is no known method to find a global optimum, most people just apply heuristics to this problem. I personally find this part quite fun to work on.<br /><br />In forming your group, it is recommended to have someone with a background in transportation engineering (to evaluate the network performance), and another in programming (unless you want to manually come up with a good network design).<br /><br />This project is due towards the end of the course, and you have to submit a report as well as present your findings to the class.<br /><br />[Midterm Exam]<br />This is an in-class exam which takes place near the end of the course, after all of the regular lectures (contrary to the name). The exam is calculation-focused; however, you should make use of intuitions to simplify the problem when possible, or else you may not finish on time.",
+      "comment_teaching": "Prof. explained the concepts clearly and provided examples to illustrate the underlying logic. While his tone is not particularly engaging, you won&#039;t feel bored due to the focus required to understand the mathematical content. The week before the exam, he made the lecture a Q&amp;A session to help us revise.<br /><br />The lecture slides are uploaded to Canvas. However, he will not upload the annotations to Canvas (to encourage physical attendance), so you&#039;ll have to copy them down in case you need to refer to them later on.<br /><br />The TAs are responsible for marking the assignments. After the deadline, you can expect to get your score in a few days, which I find quite fast.",
+      "comment_grading": "[Grading]<br />Homework: 20%<br />Group Project: 40%<br />Midterm Exam: 40%<br /><br />The grading is not that transparent as only the results of the homework are released, and even then, the mean is unknown.<br /><br />[My Results]<br />Homework: 197/200<br />Group Project: Unknown (my group found the best network out of the class)<br />Midterm Exam: Unknown (didn&#039;t manage to finish ~20% of the paper)<br />Grade: A",
+      "comment_workload": "[Assignments]<br />There are only two assignments this year. The questions are quite easy but there are many of them; personally, it took me a full day to finish each one.<br /><br />[Group Project]<br />The workload really depends on how much you want to achieve. Personally, I spent an entire week mostly writing code to implement and experiment with our method to improve the network.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

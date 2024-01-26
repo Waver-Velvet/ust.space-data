@@ -1,0 +1,182 @@
+{
+  "course": {
+    "id": 785,
+    "subject": "LIFS",
+    "code": "2240",
+    "name": "Cell Biology Laboratory",
+    "description": "Exploration and understanding of both theories and practical techniques in cell biology through tutorials and hands-on experiments. Microscopy, cell culture, cell fractionation; and their applications in studying cell division and gene expression will be covered. Graded P or F.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030,
+      1930,
+      1830,
+      1730,
+      1630,
+      1530,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"LIFS\" data-code=\"1902\" href=\"/review/LIFS1902\" target=\"_blank\">LIFS 1902</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 4.33,
+    "rating_workload": 3.33,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 481,
+        "name": "LAM, Yeung",
+        "count": 3
+      },
+      {
+        "id": 482,
+        "name": "YIM, Bobby Tsz Kin",
+        "count": 1
+      },
+      {
+        "id": 1419,
+        "name": "LI, Laam",
+        "count": 1
+      },
+      {
+        "id": 1788,
+        "name": "AMIN, Aftab",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "5pbp7Jj9qg6RPfFEmcJwdteGqGdvvTs2",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 1788,
+          "name": "AMIN, Aftab",
+          "rating": 1
+        }
+      ],
+      "author": "ggg_",
+      "date": "Jun 16, 2023",
+      "title": "Basic Cell Biology Lab",
+      "comment_content": "5 laboratories in total this semester<br />(1) Microscopy<br />(2) Membrane Permeability<br />(3) Cell Culture<br />(4) Cell Fractionation and Quality Checking<br />(5) Complementation of beta-galactosidase in E. coli by transformation<br />Very basic cell biology laboratory techniques.",
+      "comment_teaching": "The tutorial is held by LAM and the lab session is taught by AMIN. <br />The tutorial is clear and informative, just like that of LIFS2820. Dr. LAM also provides guidelines for writing reports and some hints/tips for the final exam. Dr. Amin is quite humorous and makes vivid explanations.<br />Students are divided into groups of 6 by the instructor (yes you cannot choose your teammates), which made the bench quite crowded. While this allows teamwork and cooperation, it may also cause chaos, and you may not have the chance to participate in each part of the experiment. (can be either good or bad)<br />Another thing worth mentioning is that maybe because of there are too many people, some operations are really not standard... In most of the experiments, we are not even given gloves... (even when doing cell culture) (is ust that poor?) And some TAs doesn&#039;t seem to know what we are doing, although they are supposed to help and guide us.",
+      "comment_grading": "graded P/F<br />Tutorial Quizzes 12% (just one quiz at the middle of the semester)<br />Laboratory Write-ups 25% (2 reports and 3 worksheets)<br />Laboratory Performance 14%<br />Final Exam 49% (Multiple choice, short questions and long questions)<br />I think most people get a pass?<br />As long as you write the reports and worksheets following the instruction from Dr. LAM and analyze your result carefully, it should be fine.",
+      "comment_workload": "The workload is generally ok...?<br />Two reports and three worksheets besides lab session and tutorial session. The report is kinda annoying because you really don&#039;t have many things to write for such a simple experiment of observing cells...&nbsp;&nbsp;And the TAs deducted my mark because I didn&#039;t include references...<br />Just a suggestion, reading the lab manual and doing a bit of research on things you don&#039;t know should be helpful for knowing what you are doing in the lab session and in completing the writeups.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "G6T6pEwuixx0tTwwny5r7JYmttjKPsTT",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 1419,
+          "name": "LI, Laam",
+          "rating": 1
+        }
+      ],
+      "author": "Leon2002",
+      "date": "Jun 01, 2022",
+      "title": "Pay attention in tutorial and lab sessions.",
+      "comment_content": "Lab#1 Microscopy<br />Lab#2 Membrane Permeability<br />Lab#3 Cell Culture<br />Lab#4 Cell Fractionation and identification of Mitochondrial Fraction<br />Lab#5 Activation of Beta-glatactosidase Gene in Transformed Escherichia Coli.<br /><br />Comment: a comprehensive introduction to cell biology laboratory techniques.",
+      "comment_teaching": "Lam: Good at explaining concepts<br />Li: Good at making PowerPoints to illustrate procedures. Clearly has more passion in teaching lab course than in LIFS1902.<br /><br />Both are willing to answer students’ questions in class and email.",
+      "comment_grading": "2 Tutorial Quizzes — 12%<br /><br />5 Laboratory Write-ups — 25%<br /><br />Laboratory Zoom Meeting Attendance — 14%<br /><br /> Final Exam — 49%<br /><br />P/F",
+      "comment_workload": "Quite heavy. The lab reports and worksheets take time to finish. I split the assignments into smaller parts and finish them in 2 to 3 days.<br /><br />The final exam is a take-home assessment which takes me 12 hours to finish. <br /><br />Study the PowerPoints and you will be fine.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "OnbiVPlUm9t479rCvZLTOWkwoTYjrQPk",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 481,
+          "name": "LAM, Yeung",
+          "rating": 1
+        },
+        {
+          "id": 482,
+          "name": "YIM, Bobby Tsz Kin",
+          "rating": 1
+        }
+      ],
+      "author": "Danson",
+      "date": "Aug 24, 2017",
+      "title": "",
+      "comment_content": "The course covers the most basic cell biology laboratory techniques, including the use of microscope, tissue culture, bacterial transformation, differential centrifugation, etc. <br />The course might not be very useful to those who have prior research experience.<br /><br />One drawback is that the bench was so cramped with 6 students arranged in a group. It&#039;s difficult for every group member to be able to take part in the experiments and learn out of it.",
+      "comment_teaching": "Both instructors&#039; teachings were well organised and prepared. <br /><br />Dr. Bobby Yim nicely employed schematic illustrations on his slides to explain the workflow of each experiment during the pre-lab session.<br /><br />Dr. Philip Lam was very enthusiastic and always went from the very basics. He was also very willing to help when asked.",
+      "comment_grading": "As long as you have read all of the slides and understood them all, you will do fine in the quizzes and exam.<br /><br />Weighting:<br />Tutorial Quizzes 12% <br />Laboratory Performance 12%<br />Laboratory Write-up 24% <br />Final Examination 52%",
+      "comment_workload": "As the coverage of the course is quite little, workload should be light. There are in total 6 experiments, some of which would take more than a lesson to work on. <br /><br />Lab report x 3<br />Lab worksheet x 3 <br />Quiz x 4 (MC x 10)<br />Final Exam <br /><br />All assessments do not require much memorisation but your understanding of the calculations involved and the rationale behind those important steps in an experiment. <br /><br />To prepare for the quizzes, reading the tutorial slides is sufficient. As for the final exam, the tutorial instructor would kindly offer hints the week before the end of semester.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

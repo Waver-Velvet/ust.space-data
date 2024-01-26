@@ -1,0 +1,272 @@
+{
+  "course": {
+    "id": 191,
+    "subject": "CIVL",
+    "code": "4950",
+    "name": "Civil Engineering Capstone Design Project",
+    "description": "This course transforms engineering students into student engineers through execution of a full-scale authentic design project, under the direct guidance of a team of professional engineers. The capstone project involves the integration of prior design knowledge, teamwork and communication skills to make competent design decisions in civil engineering workplace. Design topics may include project planning, feasibility studies, environmental impact assessments, site development, foundation design, structural design, transportation engineering, cost estimating, contract document preparation, and construction project management. Students should have successfully completed the third year of undergraduate study.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1430
+    ],
+    "prerequisites": "",
+    "corequisites": "<a class=\"course-link\" data-subject=\"LANG\" data-code=\"4033\" href=\"/review/LANG4033\" target=\"_blank\">LANG 4033</a>",
+    "exclusions": "",
+    "rating_content": 1.83,
+    "rating_teaching": 1.5,
+    "rating_grading": 2,
+    "rating_workload": 1,
+    "review_count": 6,
+    "single_review": false,
+    "enrollment_status": 4,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 86,
+        "name": "CHAN, Yui Bun",
+        "count": 6
+      },
+      {
+        "id": 84,
+        "name": "PANG, Paul Tat Choi",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "CRNlnal91PBuWAejjOLyOpy05RE4N8dO",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 86,
+          "name": "CHAN, Yui Bun",
+          "rating": 0
+        }
+      ],
+      "author": "準雷",
+      "date": "Jan 19, 2023",
+      "title": "咩都要自學 無點學野workload又大嘅shit course",
+      "comment_content": "呢個course要CIVL year 4設計一幢HKUST宿舍大樓<br />現實已經起好咗<br />要CIVL year 4分成10個consultant teams<br />每team 15-16人 要揀一個人做group leader<br />再分成3個sub-teams<br />分別係structural/geotechnical/environmental<br />Structural team需要完成大樓設計<br />要計算唔同load combination<br />以及幢樓入面嘅設計同埋材料運用<br />Geotechnical team需要完成土地平整<br />地盤要整一個海拔133米高嘅臨時工作台<br />以及臨時車輛通道<br />要諗點樣cut slope同埋保證factor of safety過關<br />Environmental team需要完成EIA同埋TIA<br />EIA要評估工程嘅噪音同下水道影響<br />以及碳足印計算 要諗埋點減低影響<br />TIA要設計成個臨時車輛通道嘅設計<br />以及周邊嘅交通燈同埋車流分配<br />每個sub-team完sem之後要交一份report<br />以及成team人拍片完成20分鐘presentation<br /><br />**sem中會有一個情境解決題**<br />成team人會模擬成contractor<br />當日打風發生事故<br />有山泥傾瀉同埋斷電<br />要第一日夜晚完成一份探究報告<br />講事故嘅成因同埋臨時措施<br />第二日朝早前要交到",
+      "comment_teaching": "好似年年都係夜晚堂三個鐘<br />開頭都係briefing<br />Ben會講吓要做啲咩<br />同埋簡單講吓點用ginfo同埋Geostudio<br />但其他大部份內容<br />例如係睇code, 點設計等等<br />都係要自己去探索<br />所以堂上無教學可言<br />好似當你咩都要識咁<br />尤其是情境解決題<br />要成team人毫無準備之下<br />唔夠24小時要完成一份report比Ben<br />係完全唔合理同埋折磨緊同學嘅睡眠時間<br />(識就唔識take course啦, 一早係consultant做緊GradE啦)<br />11月左右要去一次project meeting<br />講吓自己team進度<br />有問題嘅話可以當場問佢<br />之後會簡單講吓情景解決題做得好唔好",
+      "comment_grading": "Attendance: 10%<br />要出席指定嘅lecture同埋project meeting<br /><br />SBPS Report: 30%<br />就係情境解決題 最攞命就係佢<br /><br />Project Report: 40%<br />20%係每個sub-team獨立比分<br />20%係全部sub-teams一樣 睇consistency<br /><br />Project Presentation: 20%<br />20分鐘拍片交上去就得<br /><br />Grade: B-<br />唔難B但超難A嘅course, 對本身高GPA嘅人相當不利",
+      "comment_workload": "好辛苦<br />基本上要由零開始做<br />三年學嘅野一定唔夠應付<br />開頭仲要唔知實際上有咩要完成<br />所以sem頭-中無咩野可以做<br />但之後要自己自學好多野<br />要識用AutoCAD/ETABS(Structural team)<br />同埋Geostudio(Geotechnical Team)<br />如果本身intern無底就會非常辛苦<br />所以一定一定要有source<br />同埋搵啲有sense做得野嘅人<br />雖然要求/內容每年都有少少唔同<br />但大體結構都係差唔多<br />起碼有個框架跟住做<br />只係要哂好多時間自己用software整model<br />否則會全軍覆沒<br /><br />情境解決題係最唔合理<br />夜晚先開始做已經好遲<br />3-4個鐘都唔可能交到靚貨<br />如果思路唔清晰又hea<br />可以準備係UST過夜通宵完成<br />最好最核心嘅野係11/12點之前做完80%<br />返到屋企再執埋手尾<br />起碼個個人都有車返先<br />總之就係一個折磨<br /><br />Capstone不可一不可再……",
+      "rating_content": 2,
+      "rating_teaching": 1,
+      "rating_grading": 2,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 2,
+      "attachments": []
+    },
+    {
+      "hash": "XuLiv8RBC6riqnVmLbts6cY5x0JL3joe",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 86,
+          "name": "CHAN, Yui Bun",
+          "rating": 1
+        }
+      ],
+      "author": "源",
+      "date": "Jan 19, 2023",
+      "title": "don&#039;t copy!!!",
+      "comment_content": "a quite interesting course (personally think)<br /><br />you will cooperate with 15 other students, and form 3 sub-groups. It should be noted that the 3 sub-group will have different grading in the end, based on your report, presentation and scenario-based problem. <br /><br />I will highly suggest have some relationship with your intern-supervisor (if possible). They may provide some insightful suggestions (when they are free). Besides source, you also suggested to read other real reports/ self-learn. According to my experience, based on prof. Ben&#039;s suggestion, there are lots of problem in previous source (e.g., EIA noise, noise barrier is not feasible in GGT tower case/ no. of equipment are highly underestimated).&nbsp;&nbsp;so please be aware of those traps...",
+      "comment_teaching": "Ben is a quite nice prof. but he is too busy, so his class are a bit messy. If you want to get a better grade, please, find him in person and ask for suggestions. you are also required to self-learn as he cannot cover all content in his lecture. just a simple example, how come a prof. can teach student about noise, waste, sewerage and TIA in only 3 hours...... <br /><br />Well, he is also a bit messy and sometimes haven&#039;t updated his notes. just stay alert in his class.",
+      "comment_grading": "our sub-group performed quite well, A range (I am EIA group)<br />but at the same time, my friends who are in other group performed not satisfaction. I think this course has an average grade of B ~ B+.<br /><br />According to Prof. Ben Chan, the busiest team is structure team; the most important team is Geo team; and Environmental team is the hardest team to get a good grade.",
+      "comment_workload": "Very terrible. well, expected.&nbsp;&nbsp;(as it is a group project.)<br /><br />you need so many cross-group discussion to discuss the EVA design, and there are so many model/ words document to adjust.&nbsp;&nbsp;you even need the geo team completed their EVA design before you can work on the waste production during construction. <br /><br />For scenario-based problem, I don&#039;t think need any discussion. I can barely catch the last train...... <br /><br />For the project, we can submit in early January, but there are so many works to do. So, my Christmas holiday is full of capstone project. Nice job, Prof. Ben Chan. Highly recommend all of you to start work in October, and double check in mid-December, unless you want something to rush on 31/12. Just some joke/fact, my teammate work on this capstone project in London (during his holiday).",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "h46llERZzQ6NTWWo8FAmWvjKeHotqF6A",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 86,
+          "name": "CHAN, Yui Bun",
+          "rating": 0
+        }
+      ],
+      "author": "GaryW",
+      "date": "Jan 04, 2023",
+      "title": "Dont copy source directly!!!",
+      "comment_content": "This project requires a group of 16 students. Each group divide into 3 sub-teams, including structural, geotechnical and environmental. I am in geo team. In this project, you can learn many practical knowledge and skill, such as using Slope/W to estimate slope stability. These skills are useful for your future career. Choose the team that you are interested in.",
+      "comment_teaching": "Poor. All the lessons are after 7pm and can be ended at 10pm. It is hard to maintain high attention in class. Not to mention Prof. Bun Chan taught without any organization. He&nbsp;&nbsp;could teach slope and then suddenly talk other irrelevant topics. He will not teach any really useful skills that is necessary to your project. You have to ask him by yourself. If possible, you may take internship and ask some graduate engineers from UST for some advices.",
+      "comment_grading": "The grading is&nbsp;&nbsp;bad. My final grade is B+. But I do not think the grade can reflect your hard work, especially free-riders can share the same grade with you. By the way, all sub-teams in this year have the same grade.",
+      "comment_workload": "High. Very high. Most workloads are came from other teammates. Even is your friend, do not expect them will work hard. You have to attend the lessons that related to your team and participate to the attendance quiz. The quiz is based on a team, so even 1 person join will be fine.<br /><br />If you want to reduce workload, you may find reports from previous students. But Prof Bun Chan will change some details and conditions of the project each year. Previous reports are not suitable to use. Moreover, there are many mistake in the previous report. So try your best to do the report by yourself.",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "bElziVHKQ95DgYGjxM2n35ivLtiz0Vib",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 86,
+          "name": "CHAN, Yui Bun",
+          "rating": 0
+        },
+        {
+          "id": 84,
+          "name": "PANG, Paul Tat Choi",
+          "rating": 1
+        }
+      ],
+      "author": "shirayuki653",
+      "date": "Jul 03, 2021",
+      "title": "Remove this course plox",
+      "comment_content": "TLDR: this course is teaching you how to make infeasible design and why this is good to be a bastard. The course content is worthless to mention again, as others have provided in their review.<br /><br />The main reason is that the course is ill-structured. Even HKU spread this course to two semesters. Completing this project like a 3 credit course is basically making average students crazy. As someone mentioned before, at the time we are doing the report, we shouldn&#039;t have learnt the essential design concepts from the particular 4000 level electives. If we can produce that design scheme, we should be in the consultant&#039;s office rather than in the lecture hall. <br /><br />The stupid FYP tutorial, this mindless capstone and its co-requisites LANG 4033 will contribute about 12 hours per week. In total, in that semester, I have wasted about 160 hours in doing unproductive coursework. This is more than enough to clear 3 to 4 PC games, at least computer games give me pleasure rather than torture. <br /><br />Furthermore, if this course and the LANG4033 can be transferred by some sandwich/co-op program, I think no one wants to take this course that deserves a &quot;F&quot; in content.",
+      "comment_teaching": "Although I am not the structural team member, I have found that Pang&#039;s teaching is inspiring, albeit he is just telling us how the industry practising codes. <br /><br />Ben Chan is a nice professor, but in this course he is&nbsp;&nbsp;definitely <br /> unable to make a smooth course delivery. He instilled us a lot of chicken soup in our soul, but can never help us to solve any difficulties encountered in the course. He is in charge of replying the email spams of 170 people by himself. At last, he gave up responding to the emails. Then, everyone rush to his office to ask question. I wonder why the department make such a teaching assignment that makes everyone unhappy. Besides, it is a mystery why none of our alumni, possibly the AE/Es,&nbsp;&nbsp;are involved in the project. They can not only provide some help with our project, but also a chance to mingle with some real person working in the industry.<br /><br />At last, the software tutorials are simply a joke, a random Indian YouTuber will definitely make a better tutorial.",
+      "comment_grading": "Not strict, but I really don&#039;t know how the grades are released. I guess it is just a random decision, since it doesn&#039;t reflect how well is your report or your effort in the course. <br /><br />Originally, there would be a feedback section at the spring semester. However, if everyone is asking why they deserve such a letter grade, it would be embrassing scene to see someone lose his/her temper at last.",
+      "comment_workload": "If you have sources, the workload is high but still manageable.<br />If you don&#039;t, prepared for staying overnight for some days with&nbsp;&nbsp;5L of Red Bull/monster.",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 10,
+      "vote_count": 10,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "v1Stqf7aLXTEw55YPGo4bptcFzN5JQ68",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 86,
+          "name": "CHAN, Yui Bun",
+          "rating": 0
+        },
+        {
+          "id": 84,
+          "name": "PANG, Paul Tat Choi",
+          "rating": 1
+        }
+      ],
+      "author": "Small__Potato",
+      "date": "Feb 03, 2021",
+      "title": "",
+      "comment_content": "就好似之前嗰位Ching講，呢個course分咗做 Scenario Based Problem Solving (SBPS) 同final report。大家應該要喺開sem之前搵定自己嘅 groupmate，唔係嘅話 ben chan 會係第一堂亂咁幫你分組，另外啲勁人都比其他team 搶曬。<br /><br />SBPS 同上年差唔多都係要 work as a contactor to remove the soil in the excavation and the road after a landslide caused by typhoon。今年因為我哋用 zoom 上堂，可以由第一日嘅1800 做到第二日嘅 1200。呢個 SBPS 需要一啲有 geo 又或者 traffic 經驗嘅人 carry。如果你哋嗰team冇人知道究竟要做啲咩嘅話，大家返學校一齊做會好啲。我自己就 str team 嘅。str team 嘅人應該係做打雜同埋做ELS。咁所以str team 入面都要有個熟 geo 野同 ELS 嘅人。<br /><br />Final report 有 str, geo, 同 EAT(EIA and TIA) team，每個team 都要完成自己份report。建議大家可以搵一個好嘅 source 跟佢嘅layout 同 organisation，之後具體內容就自己做又或者參考其他source，通常一份report 都會超過50頁。我覺得ben chan會比較鍾意份report 有多啲野係自己寫，所以如果可以嘅話都係唔好成日都抄source。最後會有presentation。<br /><br />呢個capstone其實最重要嘅係搵啱groupmate。如果個 team 有 freerider嘅話係會 chur 死其他人。不過就算好多唔識做嘢嘅人都係會死。強烈建議str team 嘅大家應該要有以下幾類人：<br /><br />Leader:<br />我自己個team就冇呢一類人，咁不過如果有嘅話可以令做 report 嘅 schedule 好好多。建議大家可以喺開始嗰陣時睇2-3 份 source，研究下要做啲咩，然後分配工作。唔係嘅話就會出現 chur 死一個人，然後其他人只可以圍觀嘅情況。<br /><br />ETABS 專家<br />str team 一定要有呢一類人。最好有兩個，淨係得一個人會做死佢，有唔識嗰陣時都可以搵另外個人搞搞佢。上完ben chan嗰啲垃圾lecture 又或者睇youtube 係唔夠嘅，要搵啲真係喺intern 做過 structural 同知道點樣build etabs 嘅人。因為佢哋要負責埋 design framing， iterative design，根據gen 出嚟嘅 shear/ moment result 改 framing（例如條beam唔應該有超過 2000kN shear，否則 beam depth 超過 1000mm, internal beam 唔應該咁高）。要留意下 lintel beam 唔好太短，唔係嘅話shear 會爆錶。最後佢哋都要喺report嗰度寫唔少嘢，cap 好多圖，係真正carry成份report嘅人。<br /><br />foundation 專家<br />上面都講咗str team應該要有一個人識做geo 嘢，咁先可以 design ELS 同 foundation system。理論上佢要同geo team夾埋geo嗰啲嘢，不過由於今年str team 同其他team 生活喺平行時空，做緊兩個唔同嘅building （我哋要design 24/36 層，不過佢哋要照做舊年嗰座8層嘅 building)，咁所以今年我哋同其他team冇咩野要夾。<br /><br />wind load 達人<br />佢應該係最早開始做嘢嗰個，因為只要有 archi plan 就已經可以計 wind load，唔使等其他人做嘢。大家做 str intern嗰陣時可以偷定嗰間公司嘅wind load spreadsheet，咁嘅話會輕鬆好多。不過要留意啲spreadsheet 可能係錯嘅，亦有可能唔適用於你嗰棟building （例如今年做36層嘅要考慮埋 dynamic wind effect)，做 wind load嗰個要小心睇清楚，真係要明張spreadsheet up mud。另外今年只需要跟 wind code 2004, 如果出年要跟 wind code 2019 嘅話你哋真係要自求多福。因為做intern嗰陣時都未必偷到wind code 2019 嘅 spreadsheet，2019 亦都多咗好多嘢要考慮，好難自己整張spreadsheet。祝出年嘅人好運<br /><br />Slab/Column/Beam/Transfer beam designer<br />佢要根據etabs 個result 搵最critical嗰個element 黎 design，所以基本上係最尾做嘢嗰個人，咁不過佢做嘅嘢其實又會影響etabs 個 framing，會令到做etabs 嘅人想屌鳩佢。最好搵下有冇source，又或者喺intern 公司度偷啲 spreadsheet 出嚟啦，唔係點樣啱啱學完3320 就由頭整 spreadsheet 出嚟？<br /><br />Presenter<br />最後你嗰組三個team夾埋會有一個20分鐘嘅presentation，今年我哋錄片 upload 上 canvas 就得，唔使搞咁多嘢<br /><br />冗員<br />其實喺做完etabs之前其他人都冇咩好做，只可以做冗員。另外，一個team其實唔會個個都係以上提及過嘅奇人異士，都有唔少人係咩都唔知咁入咗str team。咁不過佢哋都可以負責下其他野。例如寫下introduction，design specification，compare design schemes。最後要做 cost estimate。一個盡責嘅冗員其實都好辛苦。<br /><br />社交花<br />做capstone一定要有source。如果你個組全部都喺毒撚嘅話咁可以坐D 望 fail。淨係有source 都唔夠，最好喺業界都識啲人可以問下自己個design對唔對路，唔識又可以問下佢。亦都可以同其他組嗰啲人比較下自己個result。",
+      "comment_teaching": "今年淨係得 ben chan 同 paul pang 教。 paul pang 只會同str team 上一堂 lecture,其餘都係 ben chan 負責。lecture 我覺得除咗 paul pang 果堂 lecture 真心學到野之外，其餘ben chan 教嘢都係廢嘅。佢上堂主要都係解答下問題，同大家吹下水，分享下經驗，唔係真係教capstone 有關嘅知識，所以如果你個team 冇人carry嘅話真係死得。如果想學 etabs 嘅話都係上youtube搵啲印度 tutorial 自學喇。而且由於ben chan係 CM Wong structural grad e 出身，所以佢未必好識其他team嘅嘢。不過就算係 str 都有啲野同而家業界做緊嘅唔同。不過照佢講做，佢開心就得啦。",
+      "comment_grading": "我斷估正正常常都有b range 嘅。啲叻人可能會覺得capstone爛grade，因為好難上 A，咁不過我又覺得grade 係唔差嘅。大組長會比其他人高一個subgrade，不過做組長嘅都要 chur 嘅。",
+      "comment_workload": "就算你嗰組冇freerider都係會overload，特別係當你真係識，而要carry好多野果時。我哋嗰team喺11月尾開始做嘢，咁不過個schedule已經好繃繃緊。考完試果幾日仲要chur fyp first interim report, 所以最好早啲開始做啦。 wind load calculation 應該要開始先，之後就要 build etabs, design framing, 中間嗰陣其他人可以執頭執尾，之後再計 Slab/Column/Beam/Transfer beam，foundation。exam period做咁多嘢真係好chur。另外好難就曬咁多個人嘅exam schedule，所以最好完咗midterm比較得閒嗰陣時就開始啦。",
+      "rating_content": 2,
+      "rating_teaching": 2,
+      "rating_grading": 3,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 18,
+      "vote_count": 18,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "iY9ANDNrsNlwPdSiqpryKKzrWDjTgRxK",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 86,
+          "name": "CHAN, Yui Bun",
+          "rating": 0
+        }
+      ],
+      "author": "balabababa",
+      "date": "Jul 23, 2020",
+      "title": "當堂嚇一跳﹐然後得啖笑。",
+      "comment_content": "2Part<br />1. Scenario Based Problem Solving<br />身份係Contractor, 同你講個site打風作為contractor要點樣應變同解決。24小時內交。<br /><br />2. Structural, Geo, Envir, Traffic Design<br />每team做一份report出黎<br />Structural:新hall大樓design<br />Geo:Site formation + ELS <br />Envir:做waste+drainage+EIA+TIA<br /><br />其實呢個Course嘅時間點大部分人都係乜都唔識的。例如GEO方面要做Site Form同ELS然而3730同3740嘅知識基本上係無用。<br />又例如STR要做Building Design (Superstructure+少量foundation design)。但係UST唯一一個Building Design Course係Spring Sem先開。<br /><br />話就話HKIE要Graduate有一定design經驗﹐但係結果係好多人完左呢個course都仲係乜都唔識。見個course involve嘅野睇落幾有用﹐真係當堂嚇一跳﹐然後得啖笑。",
+      "comment_teaching": "無咩Teaching可言 <br />上堂係分Team上﹐話就話大約會教你點做﹐事實上係接近乜都無教過。所以點解話分組要搵學霸隊友。",
+      "comment_grading": "唔出分唔知佢點派Grade<br />不過我覺得呢個course嘅grade無參考意義。<br />事實上大家都係睇source做而個design其實都唔會好遠﹐亦都無咩空間比你天馬行空。<br />見過有人d野計錯曬但係Grade又OK<br />有D人真係識做嘅但係得隻B<br /><br />至於點解呢﹐就係分組要搵學霸隊友之外仲有要搵英文好/presentable嘅人﹐Prensent佔好多分﹐搵d英文好嘅人去先會包好Grade。",
+      "comment_workload": "主要係個report, 個report好浪費時間。如果唔識做會搞好耐。呢個時候就要睇intern學到幾多野。如果番intern有接觸過design (structure, geo, envir whatever), 同埋有用FEM software (ETABS, SLOPE/W)嘅經驗會輕鬆好多。<br />如果只係做過Contractor intern而讀書又唔係好有熱誠果d就祝你好運啦﹐如果無人Carry 9成都會完全唔識搞。<br /><br />好多人都會私底下問ben chan要點做﹐佢會同你講唔使乜唔使物﹐又唔使用slope/w﹐RC design做幾條﹐drawing畫幾幅就得。<br />但係結果係個個都會做齊曬﹐成棟樓d slab beam column都design曬/畫曬出黎。<br /><br />所以話分組一定要搵學霸隊友。一年一定會有人有幫手入design submission嘅經驗﹐佢地絕對會係成個report嘅mvp。即使個report話就話叫你入份積﹐但係現實根本完全唔係咁做。",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 13,
+      "vote_count": 14,
+      "comment_count": 2,
+      "attachments": []
+    }
+  ]
+}

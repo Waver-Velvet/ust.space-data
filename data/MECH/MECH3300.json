@@ -1,0 +1,192 @@
+{
+  "course": {
+    "id": 960,
+    "subject": "MECH",
+    "code": "3300",
+    "name": "Energy Conversion",
+    "description": "Thermodynamics of combustion, chemical equilibrium, refrigeration and mixtures of gases.  Analysis of power generation, propulsion systems.  Performance of modern steam plants, gas turbines, internal combustion engines and refrigeration plants.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1630,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MECH\" data-code=\"2310\" href=\"/review/MECH2310\" target=\"_blank\">MECH 2310</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3.5,
+    "rating_teaching": 3,
+    "rating_grading": 4.25,
+    "rating_workload": 4.5,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 565,
+        "name": "MA, Lok Wang",
+        "count": 3
+      },
+      {
+        "id": 903,
+        "name": "XU, Jianbo",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "GxAABvrYXcjyuKJnMhXqdgQrB2vhWsoA",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 565,
+          "name": "MA, Lok Wang",
+          "rating": 1
+        }
+      ],
+      "author": "CKL",
+      "date": "Dec 20, 2018",
+      "title": "",
+      "comment_content": "1. Review of Thermodynamics<br />2. Exergy and Entropy<br />3. Gas power cycles<br />4. Vapor and combined power cycles<br />5. Refrigeration cycles<br />6. Thermodynamic property relations<br />7. Gas‐Vapor mixtures and Air‐conditioning",
+      "comment_teaching": "The teaching of Prof. Ma is quite good. He will not rush the schedule. Also, he explains the concepts clearly and solve the problems in a step-by-step approach on a paper.",
+      "comment_grading": "Assignments: 15%<br />Quiz: 10% x 3<br />Final exam: 55%<br /><br />Since the course content is quite easy, the mean of quizzes are quite high. It is difficult to stand out from others.<br /><br />Final grade: A-",
+      "comment_workload": "The workload is light. There are only 4 assignments.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "j1ydHyAXoZcNKCkA53SHGFYUWbiO2UZl",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 565,
+          "name": "MA, Lok Wang",
+          "rating": 1
+        }
+      ],
+      "author": "MS01",
+      "date": "Dec 29, 2017",
+      "title": "Simple Course!",
+      "comment_content": "•Review of Thermodynamics<br />•Exergy and Entropy<br />•Gas power cycles <br />•Gas turbines and propulsion systems<br />•Vapor and combined power cycles<br />•Refrigeration cycles<br />•Thermodynamic property relations<br />•Gas mixtures <br />•Gas-Vapor mixtures and Air-conditioning<br /><br />Basically, it is just the second part of MECH2310 and use the same textbook.",
+      "comment_teaching": "Teaching speed is OK I would say. He provided a lot of examples during lessons. But he spent too much time on reviewing basic thermodynamics, causing the teaching in the last part of topics a bit rush.",
+      "comment_grading": "Assignment:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15%<br />Quiz (Total: 3):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45%<br />Final Exam:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40%<br /><br />Assignment is easy, you can easily find solution in google.<br /><br />Quizzes and Exam are closed book. But cheat-sheet is allowed for Quiz 2, Quiz 3 and Final Exam. A one side of A4 hand-written cheat-sheet (no figures and diagrams) is allowed.<br />-------------------------------------------------------------------<br />My Score:<br /><br />Assignment: 100%<br />Quizzes: 100/100, 92/100, 100/100<br />Final Exam: Unknown, I guess I only get 70%~80%<br /><br />Final Grade: A-<br /><br />P.S.: Apart from the calculation problem, there are also questions required you to write some explainations related to the principle or equations. Therefore, pay attention to the wordings in the powerpoint!",
+      "comment_workload": "5 easy assignments in total. The workload is quite light compare with other MECH courses. The workload is the cheatsheet only.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "t8RNDx55J9k4apxs3F79eaA6vcGjmIt3",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 903,
+          "name": "XU, Jianbo",
+          "rating": 0
+        }
+      ],
+      "author": "so9sad",
+      "date": "May 14, 2017",
+      "title": "",
+      "comment_content": "Mainly focus Review of thermodynamics for the first few weeks<br /> The First Law of Thermodynamics<br /> Enthalpy<br /> The Second Law of Thermodynamics<br /> Entropy<br /><br />Then, it talks about several type of gas power cycle, Vapor and Combinded Power Cycles, Refrigeration Cycles, Gas mixtures, Gas-vapor mixtures and air-conditioning",
+      "comment_teaching": "the information is basically based on the book... going to the lecture didn`t help a lot<br /><br />the english of Prof. Xu is really bad.... I can`t even understand what she say during the lecture",
+      "comment_grading": "quite good, the exam and final is quite easy<br /><br />Homework (15%) <br />Mid-term (35%)<br />Final examination (50%)",
+      "comment_workload": "only 4 homework during my year",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "whfqJ59URE94eHPKndHMqvGd5YZISk7v",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 565,
+          "name": "MA, Lok Wang",
+          "rating": 1
+        }
+      ],
+      "author": "potat0",
+      "date": "Feb 05, 2016",
+      "title": "Thermodynamic 2 basically",
+      "comment_content": "- Review of thermodynamics (until entropy)<br />- Exergy<br />- Gas power cycles<br />- Vapor power cycles<br />- Refrigeration cycles<br />- Gas mixtures<br />- Gas vapor mixtures<br />It&#039;s the continuation of MECH 2310 thermodynamics, uses the same textbook and same style of questions/way of studying (Yes, you still have to use all the data tables...). Apart from exergy that can be a bit tricky, the rest of the content is not complicated and the exercises are ok.",
+      "comment_teaching": "Meh. Not that bad of a prof but I personally didn&#039;t find any value added in the teaching. He is very nice and ready to answer questions but he didn&#039;t seem very comfortable teaching and didn&#039;t really explain things as much as he would go through example questions (which are much easier to go through by yourself in the textbook). He was also very slow paced in reviewing content of thermodynamics 1 and rushed through the last few chapters. I found it more efficient to self study and go to lecture to clarify some points instead of attending the slow and non- engaging lectures.",
+      "comment_grading": "Quite easy grade, the curve is not harsh at all.<br />- Homework (15%) (5 assignments)<br />When I took the course, 2 TAs gave easy questions and another one gave horrible, but really, really horrible questions (even the prof couldn&#039;t solve them). I wish you never happen on that TA :)<br />- Midterm (35%) and final exams (50%)<br />NO FORMULA SHEET ALLOWED OR PROVIDED FOR THE EXAMS. So you better memorize the formulas, and there are quite a lot of them ( and honestly they are similar...)",
+      "comment_workload": "Relatively light workload (especially for the easier homework) not much reading to do, in general a chill course. Just need to memorize all the formulas before the exam :P",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

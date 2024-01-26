@@ -1,0 +1,115 @@
+{
+  "course": {
+    "id": 1847,
+    "subject": "PHYS",
+    "code": "5260",
+    "name": "Advanced Quantum Mechanics",
+    "description": "Discussion of various applications of quantum mechanics, such as collision theory, theory of spectra of atoms and molecules, theory of solids, second quantization, emission of radiation, relativistic quantum  mechanics.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1830,
+      1730,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.5,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 626,
+        "name": "WANG, Xiangrong",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "e7fyNANMpTsXnU25PjRiXbZhwd0jLYaE",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 626,
+          "name": "WANG, Xiangrong",
+          "rating": 1
+        }
+      ],
+      "author": "PeterLin",
+      "date": "Dec 17, 2021",
+      "title": "Advanced Revision on UG Quantum Mechanics",
+      "comment_content": "The book J. J Sakurai: Modern Quantum Mechanics is used as the textbook for this course. I would like to say the book is well-written with adequate explanations, examples and exercise. The lecture covers the first four chapters of the book (and last lecture on chapter 5, but not in the scope of exam):<br />Chapter1：Fundamental Concept<br />Chapter2：Quantum Dynamics<br />Chapter3：Theory of Angular Momentum<br />Chapter4：Symmetry in Quantum Mechanics<br />Chapter5：Approximate Methods<br /><br />So don&#039;t trust the description (Discussion of various applications ... collision theory... second quantization, ...relativistic quantum mechanics.) of this course, it&#039;s the complement set of the content covered...<br /><br />Lecture notes are more or less paraphrase or copying of the book, so directly going through the textbook seems a better choice.",
+      "comment_teaching": "Going through PPT, a standard way of teaching @ UST. With some explanations with marker pen and paper.",
+      "comment_grading": "In this semester, the grading scheme is as follows:<br />Homework 30%<br />Midterm 30%<br />Final term 40%<br />Midterm (100 points, convert to 600 for simplicity of statistics)<br />Mean: 130.29 <br />High: 390 <br />Low: 0<br />Final (100 points, convert to 800 for simplicity of statistics):<br />Mean: 353.71\t<br />High: 744\t <br />Low: 40<br /><br />There are 6 assignments in total, with problems number congruent to 3 (like problem 1.3,1.6,1.9...) in each assignment. On average, each assignment consists of six questions. Because there are online access to slolutions, everyone gets high score although some questions are not that trivial.<br />It seems that the professor made questions himself for midterm and final this year, so the mean is not high. He sticks to second quantisation (midterm) and commutator things (mt and final), there&#039;s also a question in quantum information entropy in finals. So in my perspective they are not much related to the content covered in the lecture (although they are in the book, but as what I&#039;ve discussed in the content part, they are not covered in the lecture).<br /><br />As a UG student, I score at mean in mt and ~100 (in converting unit) higher in final, ending up a B+. I heard before that PG courses always yield a better grade, but it seems not in my case. I should have read the book by myself instead of taking this course and hoping it could decorate my transcript....<br /><br />So to secure an ok grade (like B or something) is not that difficult as you can check hw by yourself after you&#039;ve completed and mean for exams is not high. <br />But getting an A range seems hard if you merely have 3037 knowledge and only follow what he teaches (I guess some PGs scored high are more exposed to the quantum mechanics or are doing research in CMP, but as you may infer, they can hardly learn something new in this course and they take it only because it&#039;s a requirement). <br />So actually I am a little bit confused about the targeted student of this course and the motivation of my taking this course seems vague (because not much content and not very good grade, plus not a requirement for me)",
+      "comment_workload": "Because the exam questions are not much related to the content covered (at least this year), finishing all questions in the book (as what previous comments have mentioned) are not that useful in terms of getting a good grade (but of course you can learn more by solving questions).<br />If he continues to adopt this way in the future, I recommend going through later chapters (like chapter 6) and some additional materials (like commutator or those matrix exponential identities, properties and questions) to prepare for exams.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "3znUFv8zYcvZblmJsScRJjNwkFCIvNen",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 626,
+          "name": "WANG, Xiangrong",
+          "rating": 1
+        }
+      ],
+      "author": "John Ding",
+      "date": "Jan 07, 2017",
+      "title": "A Good Introductory Course of PG Level Quantum Mechanics",
+      "comment_content": "The lectures follow the famous textbook of Sakurai, from chapter 1 to 4 with some extra discussion on the Berry phase. The pace of teaching is slow and each step of derivation in the book is explained. In this sense, the lectures may be sort of boring for someone who have already read the textbook.",
+      "comment_teaching": "The teaching is careful and clear and the PPT files are well made. However, as described in the content part, most of the lecture notes are simply restatements of the textbook.",
+      "comment_grading": "The grading scheme is good. If you work hard and do well in the final,&nbsp;&nbsp;you can easily get a good grade.",
+      "comment_workload": "There are 8 written homework, each with 3-6 problems in the textbook. It is recommended that student should finish all the problems in the textbook. Since there are really very few of them in the book, each chapter has around 20-30 problems, finishing them all is not a heavy workload. It should be noted that the mid-term exam is replaced by a project. Although the project can be simply an review on related topics, it may take some efforts to do it well.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

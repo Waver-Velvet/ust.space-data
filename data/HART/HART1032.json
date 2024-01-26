@@ -1,0 +1,109 @@
+{
+  "course": {
+    "id": 490,
+    "subject": "HART",
+    "code": "1032",
+    "name": "Experimental Figure Drawing",
+    "description": "Through drawing a human figure, students can examine the elements of drawing a human form and explore observational drawing skills by investigating proportion, forms and gestures. Student will also learn experimental approaches which emphasize on rendering, mood, expression, and abstraction. Various conventional and unconventional media, such as charcoal, pencil, markers, will be taught and used during the course.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      1610,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3.5,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 3.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 280,
+        "name": "WONG, Wai Yin",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "GEQv9bn6gH4tt7GAzagHmwDjAta850d6",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 280,
+          "name": "WONG, Wai Yin",
+          "rating": 1
+        }
+      ],
+      "author": "wah",
+      "date": "Sep 06, 2017",
+      "title": "",
+      "comment_content": "就是Experimental Figure Drawing, 不是傳統畫人體那種<br />對畫畫底子需求不大，可以輕鬆畫",
+      "comment_teaching": "很自由，教學也不錯<br />local會先用廣東話教，接著non local會用英文教",
+      "comment_grading": "大部份功課都在堂上畫，沒有花很多時間在課後<br />Final Project 也沒有去Present<br />最後有B+<br />Grading不錯",
+      "comment_workload": "因人而異，總共要畫６—９張畫（看你final project想畫幾多張）<br />如果不是完美主義者，或是畫速快，可以用堂上時間畫完，workload是很低的<br />如果對自己要求很高，或是畫得很慢，要額外用課外的時間畫，workload自然就多點",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "TAxvvEBzcofb1ySAb4hjwDU6egQZcC69",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 280,
+          "name": "WONG, Wai Yin",
+          "rating": 1
+        }
+      ],
+      "author": "Chermagpie",
+      "date": "Jan 27, 2017",
+      "title": "Very opinionated and biased review",
+      "comment_content": "Not as experimental as I would have liked.<br /><br />Each class starts with some blind drawing and continuous line drawing to warm-up. Then the drawings you work on will be whatever idea the instructor has for you to try. The whole idea is just to let you think/draw out of the box, nothing concrete is taught.<br /><br />I like experimenting in art on my own anyway so this course was slightly dull; I&#039;ve seen the book the instructor was using for ideas in my local bookshop. If you&#039;ve only been drawing specific things like realism or animes or just kind of unexperimental, then this course will be more challenging and different.<br /><br />For our semester we did greyscale pixel drawing, motion drawing, drawing a figure using shapes etc. The instructor is quite free though, not requiring us to follow the original idea exactly (that would kind of ruin the point).",
+      "comment_teaching": "Your typical art teacher. She&#039;s very free and will tell you not to force yourself to do something. Will flexibly change the content and pacing according to the class.<br /><br />Best part of the teaching is that she still made me realise that there is more to explore, that I can push the boundaries more, but all that came from one-to-one talks and not the class. Did I mention the class was a bit dull for me?<br /><br />So yeah, typical art teacher.",
+      "comment_grading": "Good. I took this class for fun and didn&#039;t put a lot of effort in the final project and got a B. I would like to note that I&#039;m not actually very good technique-wise.<br /><br />Final project was an (experimental) self portrait (you don&#039;t have to draw your face if you don&#039;t want to).<br />Other than the final project, some of the drawings you turn in over the course will also be graded. They will also be put into your final presentation board, which you arrange yourself and give a little presentation on. Both Chinese or English is ok.<br />I&#039;m actually not sure on the weighing, I checked the curriculum on canvas and it doesn&#039;t even look like what we ended up with.",
+      "comment_workload": "Finishing drawings outside class takes up some time, especially since I work slow. The C is just my personal experience, the workload is not super heavy, just average, please don&#039;t be scared, your experience may vary.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 4147,
+    "subject": "ELEC",
+    "code": "3810",
+    "name": "Data Science for Neural Engineering",
+    "description": "This is an introductory course on data science and its applications in neural engineering. The course introduces the fundamentals of data science, principles of  neuroscience, and the technologies and implementations of neural engineering. The  topics include probability, random variables, statistical detection and estimation, random process, structure and function of the nervous system, encoding and  decoding, population coding, neural network, plasticity and learning, neural interfaces and rehabilitation.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"BIEN\" data-code=\"2310\" href=\"/review/BIEN2310\" target=\"_blank\">BIEN 2310</a> OR <a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2600\" href=\"/review/ELEC2600\" target=\"_blank\">ELEC 2600</a> OR <a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2600H\" href=\"/review/ELEC2600H\" target=\"_blank\">ELEC 2600H</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2111\" href=\"/review/MATH2111\" target=\"_blank\">MATH 2111</a>) AND (<a class=\"course-link\" data-subject=\"BIEN\" data-code=\"3300\" href=\"/review/BIEN3300\" target=\"_blank\">BIEN 3300</a> OR <a class=\"course-link\" data-subject=\"CENG\" data-code=\"3300\" href=\"/review/CENG3300\" target=\"_blank\">CENG 3300</a> OR <a class=\"course-link\" data-subject=\"LIFS\" data-code=\"3150\" href=\"/review/LIFS3150\" target=\"_blank\">LIFS 3150</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2411\" href=\"/review/MATH2411\" target=\"_blank\">MATH 2411</a>)",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"BIEN\" data-code=\"4310\" href=\"/review/BIEN4310\" target=\"_blank\">BIEN 4310</a>, <a class=\"course-link\" data-subject=\"ELEC\" data-code=\"4830\" href=\"/review/ELEC4830\" target=\"_blank\">ELEC 4830</a>",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1089,
+        "name": "WANG, Yiwen",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "FdfIftmkKDswPD0lSIvdwayhnf7pzf4l",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1089,
+          "name": "WANG, Yiwen",
+          "rating": 1
+        }
+      ],
+      "author": "tttts",
+      "date": "Jan 19, 2024",
+      "title": "",
+      "comment_content": "This course is a comprehensive journey through the intersection of neuroscience, statistics, and machine learning. The syllabus is thoughtfully structured, starting from foundational concepts in probability and statistics, before delving into the complexities of neural signal processing and, ultimately, cutting-edge topics in machine learning and neural engineering.<br />Week 1: Introduction<br />Week 2: Probability and Random Variables<br />Week 3: Statistical detection (MAP, MLE)<br />Week 4: Statistical estimation (Linear regression)<br />Week 5: Random Process<br />Week 6: Structure and Function of the Nervous System (review of basic knowledge of<br />neural signals)<br />Week 7: Encoding and Decoding (Bayesian estimator)<br />Week 8: Population Coding (vector space)<br />Week 9: Neural Networks<br />Week 10: Supervised Learning<br />Week 11: Reinforcement Learning<br />Week 12: Neural Prosthesis and Rehabilitation<br />Week 13: Review and Neural Interface challenge (Preparation of final projects)<br />Textbook：<br /><br />Gray, Robert M., and Lee D. Davisson. An introduction to statistical signal processing. Cambridge University Press, 2004.<br />Dayan P, Abbott L F. Theoretical neuroscience: computational and mathematical modelling of neural systems, Cambridge, MA, USA: MIT Press. 01 December 2001.<br />Reference：<br /><br />Leon-Garcia Al., Probability, Statistics, and Random Processes for Electrical Engineering,. 3rd Edition, Pearson Prentice Hall, 2008.<br />Michael S. Gazzaniga, Richard B. Ivry, George R. Mangun, Cognitive neuroscience: the biology of the mind, 3rd ed,New York : W.W. Norton, 2009<br />Kandel E R, Schwartz J H, Jessell T M. Principles of Neural Science[J]. Ion channels, 2000, 4: 5.<br />Trappenberg T. Fundamentals of computational neuroscience[M]. OUP Oxford, 2009.<br />Akay, Metin, ed. Handbook of neural engineering. Vol. 21. John Wiley &amp; Sons, 2007.<br />Sanchez J C, Principe J C. Brain–machine interface engineering[J]. Synthesis Lectures on Biomedical Engineering, 2007, 2(1): 1-234.",
+      "comment_teaching": "Firstly, Prof. Wang is super clear and understandable, even though the course covers everything from stats to how the brain works to AI. Big plus, her English is on point, so you won&#039;t get lost in translation.<br /><br />Now, this course? It&#039;s like a marathon that starts with the basics of probability and takes you all the way through to the mind-bending world of neural networks and reinforcement learning. You&#039;ll even get a peek into Prof. Wang&#039;s own research, and let me tell you, her excitement about the topic is infectious.<br /><br />What&#039;s really cool is how she ties together math stuff, neuro science, and computer whiz-bangery. She&#039;s got this knack for making tricky things make sense, even if you&#039;re not a genius in all those fields (yet!).",
+      "comment_grading": "homework (20%), <br />mid-term exam (30%) <br />final project (50%)<br /><br />HWs are easy and each one takes about 3 hours, 4 Assignments in total.<br />HW1, HW2: MATH problem(e.g. Probability, Stochastic Process)<br />HW3: open question about biology<br />HW4: programming(Matlab) questions<br /><br />Midterm is so similar to HW1 and HW2 that you don&#039;t need to worry once you&#039;ve understood these two HWs.<br /><br />HW1: 94/100<br />HW2: 95/100<br />HW3: 98/100<br />HW4: 98/100<br />MT: 95/100<br />Final Project: not disclosed<br /><br />Final grade: A+",
+      "comment_workload": "Yo! If you&#039;re stressing about the workload for Prof. Wang&#039;s course, you can chill a bit. It&#039;s actually pretty doable. Seriously, each homework assignment is a one-night stand – you can knock it out in an evening.<br /><br />The midterm? It&#039;s like déjà vu if you&#039;ve done the homework. No need to burn the midnight oil cramming for it.<br /><br />Now, the final project sounds intense but it&#039;s not that bad. You could probably throw together a first draft of your results in a day. Give yourself a week to tweak things and polish up your report, and you&#039;re golden. Just a heads up, if you&#039;re into machine learning, you might want to play around with different models – more time experimenting could make your project shine.<br /><br />Prof. Wang isn&#039;t a fan of just throwing models at the problem without thinking. So, take your time to really dig into the data, pick a model that makes sense, and then explain your choice in your report. She&#039;s looking for that thought process, not just fancy number-crunching.<br /><br />All in all, you&#039;ll have enough time for everything without pulling all-nighters, especially if you stay curious and thoughtful about the work.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

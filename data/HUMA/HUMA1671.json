@@ -1,0 +1,77 @@
+{
+  "course": {
+    "id": 2969,
+    "subject": "HUMA",
+    "code": "1671",
+    "name": "Cantonese Opera in Hong Kong Culture",
+    "description": "The “culture” of a community encompasses the social and personal behaviour, language and dialects, visual and performing arts, economic activities and the ideas, beliefs, and customs of its people. As a traditional genre of performing arts unique to Hong Kong, Cantonese opera has a long history of development and is entwined to arguably all such aspects of Hong Kong culture. Set within the socio‐cultural context of Hong Kong, this course explores the genre in terms of its course of development, repertory, plots, script structure, performing techniques such as singing, acting, reciting and fencing, troupe organisation, training of artists, performing venues including theatre and the bamboo stage, and its marketing strategies, aiming at unfolding to the students how an art form is appreciated through both the aesthetical and functional perspectives. The course will be offered either in Cantonese or English subject to different offerings. Students are advised to check the medium of instruction/materials before class enrollment.",
+    "categories": [
+      "Common Core (H)",
+      "Common Core (Arts)"
+    ],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230,
+      1910
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 2,
+    "rating_teaching": 3,
+    "rating_grading": 3,
+    "rating_workload": 1,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1307,
+        "name": "CHAN, Sau Yan",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "rSxWHPKmqvyzvbAQHG1o8oSgRe9Ssz5b",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1307,
+          "name": "CHAN, Sau Yan",
+          "rating": 1
+        }
+      ],
+      "author": "I don't know",
+      "date": "May 22, 2023",
+      "title": "Final Exam Tragedy",
+      "comment_content": "Content is boring if you don&#039;t like about cantonese opera.",
+      "comment_teaching": "unfortunately, I was disappointed with the extent of direct teaching which has made the 3-hour long lecture even more boring. The only good thing about the course is it is instructed in Cantonese. <br />Additionally, the course relied heavily on reading directly from the powerpoint slides, which made the lectures feel more like a recitation of information rather than a true teaching experience.",
+      "comment_grading": "Not yet released<br />40% Term Report<br />30% Final Exam<br />30% Attendance",
+      "comment_workload": "my experience with the final exam was quite disappointing. The exam focused heavily on rote memorization of details such as specific years and names, which was unexpected and not in line with what was covered in the course. As a result, I felt unprepared and frustrated during the exam.<br /><br />The report requires student to write about 1500 words in chinese.",
+      "rating_content": 2,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

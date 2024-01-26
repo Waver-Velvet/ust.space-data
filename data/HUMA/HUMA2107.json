@@ -1,0 +1,370 @@
+{
+  "course": {
+    "id": 3429,
+    "subject": "HUMA",
+    "code": "2107",
+    "name": "Introduction to Electronic Music Composition",
+    "description": "This course will develop students' appreciation of various types of electronic music via an open, creative environment for its composition. We will explore the nature of sound and approaches to its organization -- listening deeply to music and the world around us -- and cover theory and practice in digital audio signal processing. Since we will be working with 'concrete sound', students need not have any prior experience in music notation or composition to participate in the course. The course will culminate in an open concert-presentation of final works that students will have developed over the semester.",
+    "categories": [
+      "Common Core (H)",
+      "Common Core (Arts)"
+    ],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2310,
+      2240,
+      2230,
+      2210,
+      2130,
+      2110,
+      2040,
+      2030
+    ],
+    "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1401\" href=\"/review/LANG1401\" target=\"_blank\">LANG 1401</a> OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1402\" href=\"/review/LANG1402\" target=\"_blank\">LANG 1402</a> OR LANG 1403 OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1404\" href=\"/review/LANG1404\" target=\"_blank\">LANG 1404</a> OR LANG 1002 (prior to 2022-23)",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"CORE\" data-code=\"2634\" href=\"/review/CORE2634\" target=\"_blank\">CORE 2634</a>",
+    "rating_content": 5,
+    "rating_teaching": 4.78,
+    "rating_grading": 4.67,
+    "rating_workload": 3.78,
+    "review_count": 9,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1305,
+        "name": "PAGE, Timothy Markham",
+        "count": 9
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "DKCBRgXvGrTSbKvnXxomI29RN7eVYATU",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1305,
+          "name": "PAGE, Timothy Markham",
+          "rating": 1
+        }
+      ],
+      "author": "hatsunemiku",
+      "date": "Dec 29, 2023",
+      "title": "Useful to learn EDM production",
+      "comment_content": "Before midterm, it is about creating music concrete exercises, and after midterm hip-hop and sound design are introduced.<br /><br />TENTATIVE LECTURE TOPICS:<br />Session 1: The World as an Instrument<br />◦ the soundscape, deep listening<br />◦ sound objects<br />◦ field recordings<br />◦ musique concrete<br /><br />Session 2: Timbre, Orchestration, Counterpoint, Reaper DAW<br />◦ tone color, timbre<br />◦ vertical and horizontal layers in music<br />◦ Introduction to REAPER, editing basics<br /><br />Sessions 3-6: Manipulating recorded sound<br />◦ Digital Audio Plugins<br />◦ Reverbs, Delays<br />◦ Spatialization<br />◦ Filters and Equalization<br />◦ Compression<br />Session 7: Presentation of first student works<br /><br />Session 8: Rhythm<br />◦ Meter, pulse, tempo, beat hierarchies<br />◦ looping, working with the grid in REAPER<br /><br />Session 9: Convolution and Granular Synthesis, Analog Synthesis I<br />◦ Fourrier decomposition<br />◦ phase<br />◦ frequency domain vs time domain<br />◦ Analog synthesis: Oscillators, control voltages, modulation, intro to VCV RACK<br /><br />Session 10: Manipulating recorded sound, Analog Synthesis II<br />◦ Time Stretching<br />◦ Pitch Shifting<br />◦ Distortion<br />◦ Bit Crushing<br />◦ Analog synthesis: Triggers, envelopes<br /><br />Session 11: More studio techniques<br />◦ Recording Sounds in the Studio<br />◦ Types of Microphones<br />◦ Signal level types.<br />◦ Digital audio interface<br />◦ 5.1 Surround<br /><br />Session 12: Individual lessons, project development<br /><br />Session 13: Presentation of final project",
+      "comment_teaching": "Prof. Page is the music god in my heart.<br />He explains everything clearly and he is very nice.<br />If you have any questions, don&#039;t hesitate to ask him.<br />For both the projects and written assignments, if you email him by asking him to give you feedback before the due date, he will kindly answer you.<br /><br />TA Galison is a proficient composer, and you can get useful feedback and suggestions from his tutorial sessions.",
+      "comment_grading": "Absolute grading, mean is meaningless.<br />Your effort directly reflects your grades.<br /><br />Attendance and participation 15% (34/40)<br />Portfolio of exercises/homework 15% (77/100)<br />Concert/Recording report 10% (9.5/10)<br />End-of-semester quiz 10% (17/17)<br />Midterm project 20% (93/100)<br />Final project 30% (94/100)<br />Final grade: A- (90.6%)<br /><br />As far as I know,<br />90-92% A-<br />93%-96% A<br />97%-100% A+ (round off)<br /><br />To get full credits for attendance, remember to raise questions or answer questions in class, and DON&#039;T BE LATE. Attending all lectures without participation or being late by more than 5 minutes can&#039;t make you have full credits for attendance that day.<br /><br />I have no idea how the assignment scores are given, it seems that they have a marking scheme.<br /><br />For the quiz, it is about 17 MCQs, including contents in lecture PowerPoints and some calculations of bit sizes.",
+      "comment_workload": "Assignment per week<br />As a beginner in music production, you may find it difficult and need extra time to familiarize yourself with Reaper.<br />However, you could learn a lot from those assignments, and feedback is given by TAs and Prof. Page, which guides you to finish the final composition project.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "9DRuRhIFgFLCBPKmbu4uP6X2ODzvDsok",
+      "semester": "2022-23 Summer",
+      "instructors": [
+        {
+          "id": 1305,
+          "name": "PAGE, Timothy Markham",
+          "rating": 1
+        }
+      ],
+      "author": "NQLBvmtllL5LV7c",
+      "date": "Sep 06, 2023",
+      "title": "",
+      "comment_content": "Session 1: The World as an Instrument<br />◦ Soundscape, deep listening<br />◦ Sound objects<br />◦ Field recordings<br />◦ Musique concrète<br />Session 2: Studio Techniques I<br />◦ Microphone types,<br />◦ Signal types<br />◦ Modular synthesis I: oscillators, control voltages, modulation, intro to VCV<br />RACK<br />Session 3: Timbre, Orchestration, Counterpoint, Reaper DAW<br />◦ Tone color, timbre<br />◦ Vertical and horizontal layers in music<br />◦ Form<br />◦ Introduction to REAPER, editing basics<br />Sessions 4-7: Manipulating recorded sound<br />◦ Digital Audio Plugins<br />◦ Reverbs<br />◦ Delays<br />◦ Filters and Equalization<br />◦ Compression<br />Session 8: Presentation of first student works<br />Session 9: MIDI, VSTis<br />◦ MIDI<br />◦ Using MIDI in REAPER<br />◦ Creating a drum machine, working with the grid<br />Session 10: Rhythm<br />◦ Pulse, Meter, Time Signature<br />◦ Identification of Meter<br />◦ Syncopation<br />◦ Polyrhythm<br />Session 11: Fast Fourier Transform; Studio Techniques II<br />◦ Fourrier decomposition; frequency domain vs time domain<br />◦ Granulation<br />◦ Modular Synthesis II: Triggers and envelopes.<br />Session 12: Individual lessons, project development",
+      "comment_teaching": "Well teaching. Both Professor and TA give good advice and willing to spend time on your assignment.",
+      "comment_grading": "Grading<br />Attendance and participation 15%<br />Portfolio of exercises/homework 15%<br />Recording report 10%<br />End-of-semester quiz 10%<br />Midterm project 20%<br />Final project 30%<br /><br />I got B+",
+      "comment_workload": "1 class 1 homework basically.<br />Have mid-term, final-project and final exam.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "TSOq19EJXhQwWuVv7QSt1aQMIxOgr9fx",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1305,
+          "name": "PAGE, Timothy Markham",
+          "rating": 1
+        }
+      ],
+      "author": "Herman1100",
+      "date": "Dec 24, 2022",
+      "title": "",
+      "comment_content": "個個都用英文，身爲香港人嘅我就用中文打啦！<br /><br />content就睇下其他comment啦，都係果D野。<br /><br />ps：唔識五綫譜，冇音樂底都可以玩，并唔會話辛苦左。但有音樂底一定會好DD。<br /><br />總結：唔好爲左刷grade而入，其實並唔係佢地講到咁輕鬆。D英文人話輕鬆係佢地玩開。你咩都唔識，對音樂冇熱誠，只求分數嘅話，你會想死！！！！但如果你好想學電子音樂製作，追求一個好好嘅音樂作品，歡迎你！",
+      "comment_teaching": "我覺得教書係幾好嘅，真係教左D好有用，而且真係系音樂上需要用到嘅野。你唔明佢會教你點做，都會provide suggestions比你。",
+      "comment_grading": "我自己覺得就還好，我得A-。我自己玩過類似嘅野，都有經驗，大部分技巧我都學過。同埋midterm同final project都要全班demonstration，我自己聽到好多同學嘅音樂作品就真係還好，好聽D講就係我理解唔到佢地嘅音樂，難聼D尼講就係佢地只係將一D聲放埋係一起。咁我自己對自己嘅作品係好有信心，我個final作品炸左全班，D同學好似好high XD，但最尾嘅分數只係踩mean，或者高一分。所以我自己覺得音樂嘅野點都係有D個人嘅感官判斷。我midterm就整左首dubstep, final就整左首rap，都係一D好high，好轟炸式嘅歌曲，可能professor中意D柔和D嘅歌曲挂 lol。",
+      "comment_workload": "真係好取決你自己。每個星期都有assignment, 但你可以好hea咁做，assignment只不過係加一D effect係個聲音度，但你係追求音樂，追求旋律，音感，你要花好多時間。尼一科唔係比你輕鬆刷grade，係真係比你學點用DAW（音樂軟件）。你唔好當自己係Alan Walker, 整一首&nbsp;&nbsp;好聽&nbsp;&nbsp;嘅歌唔係咁簡單，就好似你平時會聼MC唱歌，但唔會聼Mirror（誤）。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 13,
+      "vote_count": 14,
+      "comment_count": 2,
+      "attachments": []
+    },
+    {
+      "hash": "vSXzI1KHBlpQeQ68D25J2Az6xg4xOCKc",
+      "semester": "2021-22 Summer",
+      "instructors": [
+        {
+          "id": 1305,
+          "name": "PAGE, Timothy Markham",
+          "rating": 1
+        }
+      ],
+      "author": "BDuckW",
+      "date": "Aug 24, 2022",
+      "title": "Fun course if you are interested in electronic music",
+      "comment_content": "Session 1: The World as an Instrument<br />◦\tthe soundscape, deep listening<br />◦\tsound objects <br />◦\tfield recordings <br />◦\tmusique concrete<br /><br />Session 2: Studio techniques, Synthesis I <br />◦\tRecording Sounds in the Studio<br />◦\tTypes of Microphones<br />◦\tSignal level types. <br />◦\tDigital audio interface <br />◦\tModular synthesis: Oscillators, control voltages, modulation, intro to VCV RACK<br /><br />Session 3: Timbre, Orchestration, Counterpoint, Reaper DAW<br />◦\ttone color, timbre<br />◦\tvertical and horizontal layers in music<br />◦\tIntroduction to REAPER, editing basics<br /><br />Sessions 4-6: Manipulating recorded sound <br />◦\tDigital Audio Plugins<br />◦\tReverbs, Delays<br />◦\tSpatialization<br />◦\tFilters and Equalization<br />◦\tCompression <br /><br />Session 7: Rhythm<br />◦\tMeter, pulse, tempo, beat hierarchies <br />◦\tlooping, working with the grid in REAPER<br /><br />Session 8: MIDI and VSTi<br />◦\tHip hop history <br />◦\tMIDI<br />◦\tVirtual instruments.<br /><br />Session 9: Synthesis II <br />◦\tFourier decomposition<br />◦\tFrequency domain vs time domain<br />◦\tAnalog synthesis: Triggers, envelopes<br /><br /><br />Session 10: Manipulating recorded sound cont.<br />◦\tTime Stretching<br />◦\tPitch Shifting<br />◦\tDistortion<br />◦\tBit Crushing",
+      "comment_teaching": "Professor Page is very friendly and knowledgeable, he will answer every question in depth with many details. His teaching is also detailed, explaining the topics thoroughly but not only reading the power points. I personally would not feel bored or sleepy after attending the lectures.<br /><br />The TAs are also very helpful. They give very useful suggestions and detailed feedback during the tutorials, it definitely helps to improve the mid-term and final pieces which need most of the skills taught and used in the previous assignments.",
+      "comment_grading": "Attendance and participation&nbsp;&nbsp;15%<br />Portfolio of exercises/homework&nbsp;&nbsp;15%<br />Written assignment&nbsp;&nbsp;10%<br />End-of-semester quiz&nbsp;&nbsp;10%<br />Final project&nbsp;&nbsp;50%<br /><br />The scores given are quite high for everyone, you can get almost full marks easily if you follow all the instructions given for the assignments.",
+      "comment_workload": "The workload is moderate if you are familiar with music production using DAW. As the course is offered in the summer semester, there are 3 tutorial sessions in a week, so there is only about a day or 2 to complete each assignment. The workload might be relatively high if you are entirely new to music production using DAW. <br /><br />Luckily, there are a lot of youtube videos teaching you how to use Reaper DAW (the DAW to be used in this course) and some useful ones are also suggested by professor Page to aid you to get familiar with Reaper to complete the assignments. So if you are willing to spend an extra hour or 2 to get familiar with DAW, the assignments would not be a big problem even if you are new to music production.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "06N2zIuXniIFsVD5lkOHl3wjROCosfcq",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1305,
+          "name": "PAGE, Timothy Markham",
+          "rating": 1
+        }
+      ],
+      "author": "Phantasmysteria",
+      "date": "Apr 17, 2022",
+      "title": "A Common Core course which favours the EDM production niche (Aug 29, 2022 rewrite)",
+      "comment_content": "(Rewritten Aug 29, 2022)<br /><br />The content at the beginning is fine, using concrete sounds to make musique concrete. The content near the middle is quite funny because it is almost like a topic from ELEC1200. Near the end, I got to use studio equipment in the electronic music studio (Pre Shaw Auditorium), so that is quite memorable.<br /><br />Anyway, here’s the list of topics:<br /><br />TENTATIVE LECTURE TOPICS:<br />Session 1: The World as an Instrument<br />◦ the soundscape, deep listening<br />◦ sound objects<br />◦ field recordings <br />◦ musique concrete<br /><br />Session 2: Timbre, Orchestration, Counterpoint, Reaper DAW<br />◦ tone color, timbre<br />◦ vertical and horizontal layers in music<br />◦ Introduction to REAPER, editing basics<br /><br />Sessions 3-6: Manipulating recorded sound <br />◦ Digital Audio Plugins<br />◦ Reverbs, Delays<br />◦ Spatialization<br />◦ Filters and Equalization<br />◦ Compression <br />Session 7: Presentation of first student works<br /><br />Session 8: Rhythm<br />◦ Meter, pulse, tempo, beat hierarchies <br />◦ looping, working with the grid in REAPER<br /><br />Session 9: Convolution and Granular Synthesis, Analog Synthesis I<br />◦ Fourrier decomposition<br />◦ phase<br />◦ frequency domain vs time domain<br />◦ Analog synthesis: Oscillators, control voltages, modulation, intro to VCV RACK<br /><br />Session 10: Manipulating recorded sound, Analog Synthesis II<br />◦ Time Stretching<br />◦ Pitch Shifting<br />◦ Distortion<br />◦ Bit Crushing<br />◦ Analog synthesis: Triggers, envelopes<br /><br />Session 11: More studio techniques <br />◦ Recording Sounds in the Studio<br />◦ Types of Microphones<br />◦ Signal level types. <br />◦ Digital audio interface <br />◦ 5.1 Surround<br /><br />Session 12: Individual lessons, project development<br /><br />Session 13: Presentation of final project",
+      "comment_teaching": "(Rewritten Aug 29, 2022)<br /><br />Teaching is okay.<br /><br />Professor Page is a very nice guy, since he helped me when I emailed him at the start of the course. However, in the first half of the lecture session, Page has a tendency to read off of the powerpoint presentation verbatim, which makes me feel a little confused. In the second half of the lecture session, Page will try to demonstrate new techniques in REAPER DAW, but the pacing is a little too slow and drawn out, and sometimes there might be hiccups that hinder the teaching progress. He does try to engage with us in chat, but I would appreciate it if he would structure his lectures a bit more.<br /><br />TA Galison is decent. He reviews and grades our homework in the tutorial session. 50 minutes for 6/7 people means that he can give a lot of comments about each piece for about 8/7 minutes per student. However, Galison might sometimes feel a little blasé one day, which may impact how he feels about our homework.",
+      "comment_grading": "(Rewritten Aug 29, 2022)<br /><br />2021-22 Spring HUMA2107 grading:<br /><br />Attendance and participation 15%<br />Portfolio of exercises/homework 15%<br />Concert/Recording report 10%<br />End-of-semester quiz 10%<br />Midterm project 20%<br />Final project 30%<br /><br />Attendance seems self-explanatory, but don’t expect to get all 15% if you just slack off during class and fail to answer questions or raise questions yourself. It’s all about the impression you exhibit to the Prof and TA.<br />The final score is usually unknown.<br /><br />The grading of the homework is quite subjective. I followed the requirements to a tee and watched some tutorials to do something further for my homework, which usually pleases the TA.<br /><br />The concert (in my case, recording) report was about an “electro-acoustic” ensemble. Quite interesting to write about. The final score is also usually unknown.<br /><br />The end-of-semester quiz is a trivia test of everything learned throughout the lectures, including mostly the ELEC1200 parts. If you are careful enough and/or pay attention enough, you can get full marks easily.<br /><br />Midterm and Final projects are the meat of this course, and usually if you are creative enough and can stand out among the competition, you will certainly get near 95/100.",
+      "comment_workload": "(Rewritten Aug 29, 2022)<br /><br />In the past, this review has this line, “The workload is relatively moderate... if you already make music on DAWs as a hobby”.<br /><br />Now that I know this course is highly sought after by everyone trying to grab a “freebie” Common Core course (maybe that’s the reason you are reading HUMA2107 reviews, eh?), I have a new take on this.<br /><br />If you are simply trying to get Humanities Common Core done with, once you get in, good for you. However, learning a completely new DAW and how to compose music in a new way takes a lot of time and effort, and the Prof and TA probably do not appreciate the more mediocre work. Therefore, the workload for this course is heavy either way, since you either don’t feel compelled to use REAPER to finish your homework, or you want to tryhard a good grade and do something ambitious but don’t have the skill to express it. It is in your best interest to prepare for this course by watching some tutorials on how to make music first.<br />However, I am not trying to discourage anyone from taking this. If you genuinely want to learn, go ahead, just know that it is not as “freebie” as “Introduction to Electronic Music Composition” sounds.<br /><br />Otherwise, if you have great interest in electronic music composition, this course is perfect for you. The homework before the midterm project all limit you to just using sounds from nature, which is a great handicap for testing your creativity. In the final stretch, you can unleash everything you want without limits. If you are accustomed to making music/have experience in DAWs such as FL Studio, Ableton etc, you will pick up on the material quickly and can work on homework pretty quickly. I say go for it.<br /><br />Tl;dr “The workload is relatively moderate... if you already make music on DAWs as a hobby”.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 4,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "rrTRrDJs4KGOVUOGcAS3d8R6S91ES5O5",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1305,
+          "name": "PAGE, Timothy Markham",
+          "rating": 1
+        }
+      ],
+      "author": "JJThompson",
+      "date": "Jan 04, 2022",
+      "title": "Very fruitful and enjoying course - but prepare for hard work!",
+      "comment_content": "Without the need of a solid music background, this course brings you through an exciting journey which you will experience the beauty of creating Electronic Music using a chosen digital audio workstation (DAW), namely REAPER. The objectives of this course are to: <br /><br />- To learn what are music and electronic music (EM)<br />- To create music using concrete sound (Musique Concrète)<br />- To create music from virtual instruments and digital/analog synthesisers<br />- To appreciate music in a different approach!<br /><br />Major contents:<br />1. The World as an Instrument<br />- Introducing soundscape and deep listening<br />- Exploring sound objects<br />- Field recordings using microphones<br />- Introducing Musique Concrète<br /><br />2. Timbre, Orchestration, Counterpoint and Reaper DAW<br />- Introducing tone colours and timbre of music<br />- Developing layers in music<br />- Introducing Reaper as DAW and basic audio editing skills<br /><br />3. Manipulation of recorded concrete sounds<br />- Digital Audio Plugins in Reaper<br />- Reverbs, Delays<br />- Spatialisation<br />- Filters and Equalisation<br />- Compressor and Limiter<br /><br />&lt;Midterm Concert - presentation of Musique Concrète piece&gt;<br /><br />4. Rhythms<br />- Meter, pulse, tempo<br />- Looping and snapping of Reaper grids<br /><br />5. Analog Synthesis I: Convolution and Granular Synthesis<br />- Theories on Fourier transform (FFT)<br />- Phase, time and frequency domains<br />- Analog synthesis: oscillators, control voltage, modulations; Introduction to VCV Rack for virtual analog synth experience in computers<br /><br />6. Analog Synthesis II: Manipulating recorded sounds as synth<br />- Time stretching<br />- Pitch shifting<br />- Distortion<br />- Analog synth: Triggers, envelopes<br /><br />7. Studio Techniques<br />- Recording sound in studio<br />- Dynamic and condenser microphones<br />- Signal levels and clipping<br />- Digital audio interface<br />- 5.1 surrounded<br /><br />&lt;Final Concert - Any EM with synth included; + Crazy Analog synth performance &gt; &lt; from previous students&gt; <br /><br />&lt;After final concert: Online Concert Report&nbsp;&nbsp;&amp; Canvas Quiz&gt;<br /><br />You will learn EMs in the above sequence, with assessments given on each topics on mostly Reaper assignments. The course is mostly divided into two major sections focussing on creating 1) A Musique Concrète piece and 2) A EM piece with synth, while other assessments can be found in the grading section below. <br /><br />Personally, I highly recommend this course to everyone, even those without any music backgrounds can surely be inspired! EM composition is much achievable than you expect, and it is also a good way to &quot;relax&quot; (and fulfil a HUMA course for Common Core~).<br /><br />Be advised that do not slack in the first week which you will be asked to record different concrete sounds using a microphone, because the sounds you record in this only week will be the ONLY sound materials you got to create your midterm piece for Musique Concrète! For the final piece it becomes much freer, yet it will be very rushy if you do it last minute, and your classmates might all have &quot;secret weapons&quot; to kill you off in the final concert. Remember that do not hesitate to search for good plugins/maximisers (from Konkakt, Ozone) as they often give out FREE items of best quality!!!",
+      "comment_teaching": "Prof. Page is a very passionate professor and he gives out music listening practices during lectures to keep us curious and awake. He is also friendly and willing to share - including musics he created - with students, and often invite students to comment on certain musics/sounds. <br /><br />The TA (Galison) is helpful and would give you some good feedbacks during tutorials (and if you approach him for questions), but that&#039;s also why he and Prof. Page always overrun in tutorials... ^^",
+      "comment_grading": "Grading consists of:<br /><br />Attendance &amp; Participation: 15%<br />HW (Reaper assignments): 15%<br />Concert Report (End of term): 10%<br />End-of-semester Quiz (16 MCQs): 10%<br />Midterm Piece (2.5-3 mins) &amp; Concert: 20%<br />Final Piece (3-4 mins) &amp; Concert: 30%<br /><br />Prof. Page gives grade in a really genuine way, and the grades of everyone are actually quite high. You should be fine if you do average, but gotta stand out to get really good grades as music is highly subjective.",
+      "comment_workload": "The workload depends on whether you put time on developing your assignments and music pieces. I put quite an amount of time and got a decent grade so it is always your choice. <br /><br />Normal midterm and final exams are replaced by midterm and final concerts which redistributed the workload into smaller segments of weekly Reaper assignments throughout the semester (personally rushed through both pieces in less than two days). These assignments will be discussed and commented during the tutorial sessions, and your midterm and final pieces will gradually go into shape through the these given assignments (although the final piece is a bit rushy). Each assignment can cost you a different time to complete, the first few might be quite easy, but the later ones could be more time-consuming (&lt; 2.5 hrs). <br /><br />Other than midterm, final pieces and assignments, a concert report and end-of-class quiz will be given in the very end of semester, which are quite easy to kill off. The report requires you to provide a (500 word) review on an online concert using the learnt music phrases in the course. The quiz is just a review of the whole course contents with only 16 MCQs and require you to finish in 30 minutes (more than enough!!!). Please kindly Ctrl + F in your notes :) ~ Other than that, merely attendance and participation, please amazed Prof. Page and the TA!",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "wdQDbnST2oGlEujOpGbwdBgaaQN6IkOe",
+      "semester": "2020-21 Summer",
+      "instructors": [
+        {
+          "id": 1305,
+          "name": "PAGE, Timothy Markham",
+          "rating": 1
+        }
+      ],
+      "author": ";-;",
+      "date": "Sep 01, 2021",
+      "title": "Good Guy Page",
+      "comment_content": "Mostly Useful content with some parts not quite practical. Explores different parameters to be altered to create synthesized music. Also teaches how to use the DAW Reaper, and a modualr synth. He explains stuff in-depth but actually, some stuff I feel like can skip or more stuff can be covered if he doesn&#039;t go that in-depth. He doesn&#039;t give a so-called &quot;industry standard&quot; instead he wants us to explore more and be experimental which I think is great, but might leave students a bit lost. For me, I think if u listen to different kinds of music then u should be fine. Personally loved the modular synth part and VCV rack the most.",
+      "comment_teaching": "Very good, very patient with us, kind and friendly.<br />TAs are also very nice!",
+      "comment_grading": "Absolutely wonderful<br />Assignments are easy<br />Quiz is easy<br />The main factor is the midterm and final <br />and also participation<br />I got A<br /><br />One thing to mention is I think he rewards effort quite much. Cuz you know music is so subjective and we have different prior music backgrounds. So effort = reward.",
+      "comment_workload": "Low workload<br />We had assignments almost every class, but they can be done in 30 mins<br />Prof attaches a related youtube tutorial, just follow the youtube vid and make sure u check all requirements he mentioned in the assignment. He usually will clearly state what he wants to see so just make sure everything is there.<br />As for midterm and final imo is manageable, maybe cuz its summer. You have to make 2 compositions from scratch so it might be time-consuming if you put in effort.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "8Z7K5IhREAn7z7abs6berEvWNqRd6Zhr",
+      "semester": "2020-21 Summer",
+      "instructors": [
+        {
+          "id": 1305,
+          "name": "PAGE, Timothy Markham",
+          "rating": 1
+        }
+      ],
+      "author": "TrebledJ",
+      "date": "Aug 10, 2021",
+      "title": "Experience and create a whole new world of sounds",
+      "comment_content": "This is a new course teaching skills to compose electronic music.&nbsp;&nbsp;One of the highlights is that you get tons of room to explore different sounds and play around. Homework and projects are open-ended for the most part.<br /><br />Throughout this course, you get to learn electronic music techniques/skills such as:<br /><br />* Reverb, Convolution Reverb<br />* Panning<br />* Automation<br />* Delay<br />* Equalisation (EQ), Filtering<br />* Compression, Side-chain Compression<br />* Working with a Digital Audio Workstation (DAW)<br />* Working with an Analogue Synth<br />* Looping<br />* Time Stretching<br />* Pitch Shifting<br />* Working with MIDI<br />* Recording Sounds<br /><br />The DAW used in this course is Reaper. The analogue synth used is an Eurorack, but you can still practice with an app called VCV Rack.<br /><br />Along the way, you&#039;ll get a glimpse of how the electronic music industry developed, from hip-hop DJs in the 1970s to contemporary methods and styles.<br /><br />With regards to music theory, you&#039;ll be introduced to common musical parameters (e.g. dynamics, timbre, meter, tempo) and practice manipulating these parameters (along with the electronic music techniques) in the homework assigned each lesson.",
+      "comment_teaching": "Prof. Page&#039;s teaching style is very inclusive for beginners. His comments to music and people&#039;s responses are open-minded.<br /><br />Lectures are 2 hours long with a 3-5 minute break in between. Electronic music history, mixing techniques, and mixing tutorials are taught in these lectures.<br /><br />In tutorials, Prof. Page and/or TA Galison will play each person&#039;s homework and provide feedback and tips. This is a good opportunity to hear how other people utilised a certain effect or technique, and you can ask them how they did it. Both the prof. and TA are quite nice, they&#039;re very open to questions and try their best to answer.",
+      "comment_grading": "Attendance and Participation: 15%<br />Homework: 15%<br />Concert Report: 10%<br />End-of-Semester Quiz: 10%<br />Midterm Project: 20%<br />FInal Project: 30%<br /><br />For Zoom sessions, cameras must be on to be marked for attendance.<br /><br />Requirements for full-marks on homework are specified for Canvas. Just be sure to follow them to achieve full marks.<br /><br />For the midterm/final projects, Prof. Page is fairly lenient. The midterm will be presented in class and the final will be presented in a closed concert. Attendance to these presentations/concerts is mandatory for full marks.",
+      "comment_workload": "Workload depends on the extent you wish to play around with the different techniques.<br /><br />For homework assignments, you can easily put together a piece of music within an hour that will earn full marks (given that you listened carefully in class and remember the steps). If you forget how to execute a certain technique, there are always tutorial videos on YouTube to revise from.<br /><br />The quiz is a breeze. 16 MCQs. Tests basic knowledge and understanding of terminology.<br /><br />The concert report is a 500-word essay of your ideas regarding a performance of electronic / contemporary classical music. The available repertoire to discuss is selected by the professor. Depending on your proficiency with English and understanding of music, the report can be straightforward or difficult.<br /><br />The midterm and final can take more time, depending on how far you want to go. I&#039;d say it took me ~20 hours to compose my final, and this includes the time spent tweaking, listening, and tweaking again. Of course, you also have the choice of simply reusing your midterm/homework, add effects/sections/tracks, and call it your final.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "74W8XRrWNj6dQWSzkxxkmL8RVAHGuPRm",
+          "name": "Syllabus",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "sjfFGkEx5ofljffmlvQPiHk5g2rrCrym",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 1305,
+          "name": "PAGE, Timothy Markham",
+          "rating": 1
+        }
+      ],
+      "author": "torterral_Tsui",
+      "date": "Jun 04, 2021",
+      "title": "To passionate people only",
+      "comment_content": "2 main assignments, including a midterm composition and a final composition.<br /><br />The course will include music parameters concerned in composition, analysis of electronic music and practical DAW (digital audio workstation) skills. The Reaper DAW will be used.<br /><br />~Midterm:<br />DAW<br />- Volume, panning and automation<br />- Control of space: reverb and delay<br />- EQ and filters<br />- Compression and side-chain<br />- Use of grid function<br />Composition<br />- Counterpoint and timbre<br />Studio<br />- Recording with handheld Zoom Recorder<br /><br />The first composition is a 2’30 musique concrete. MIDI and synths are not allowed.<br /><br />~Final<br />DAW<br />- MIDI And VSTi<br />- Use of sample libraries<br />Studio<br />- Analog synth<br />- Recording with microphones<br />- 5.1 surround sound<br /><br />Classes were be replaced by 1-to-1 consultations of the final composition in the final 2 weeks.<br /><br />The final composition is a 3’30 composition and was premiered in a students’ concert. You can make whatever you like.<br /><br />Our class featured genres from film music, ambient, chill, medley to orchestral rock, melodic dubstep and hard dance.<br /><br />No music knowledge is required at all. However, good sense and a pair of ears that are well adapted to listening electronic music are recommended.",
+      "comment_teaching": "Materials and demonstrations are performed in a clear and manageable manner. Very user-friendly to composition newbies.<br /><br />Prof Page is a nice person and is willing to discuss anything. He is primarily a classical-composition / hip-hop person. He is not familiar with EDM, but he accept any kind of music presented. He will give detailed comments whenever possible.<br /><br />He is stressed out by teaching and his own compositions as well, please be kind to him.<br /><br />You will be able to unlock access to studio equipment after the midterm. Experience studio-level audio by blasting your favourite track on the studio computer.",
+      "comment_grading": "Not sure how its graded. But if you put in effort, you will be rewarded.<br /><br />Midterm composition<br />Final composition<br />Portfolio of weekly assignments<br />Concert report<br />Attendance",
+      "comment_workload": "Very heavy. Be sure you can put in time, effort and passion before enrolling.<br /><br />Weekly assignments to familiarise with the DAW and new skills. Make new stuff each week to know your capabilities and goals. Present your work at tutorial each week to receive feedback.<br /><br />You need to self learn things to make your music properly as genre-specific skills are NOT and CANNOT be taught. If you want to make EDM, be prepared to buy a synth. I suggest to start with Vital which is free and VERY GOOD.<br />(Serum, Dune 3, Sylenth1, Spire, Massive, Nexus, Omnisphere, ...)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 4,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

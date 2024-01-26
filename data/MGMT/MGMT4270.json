@@ -1,0 +1,147 @@
+{
+  "course": {
+    "id": 2547,
+    "subject": "MGMT",
+    "code": "4270",
+    "name": "Training and Development",
+    "description": "In today's competitive business world, organizations need to implement training and development initiatives to continuously cultivate their human resources. This course aims to provide students with a comprehensive understanding of the training and developing process in organizations. Topics include training needs assessment, learning motivation, theories of learning, transfer of training, training methods, and training evaluation. The course will also examine special topics of interest such as cross-cultural training, career development, and the role of information technology and social responsibility in training and development.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      1930,
+      1730
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MGMT\" data-code=\"3110\" href=\"/review/MGMT3110\" target=\"_blank\">MGMT 3110</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.33,
+    "rating_teaching": 5,
+    "rating_grading": 4.33,
+    "rating_workload": 3.67,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 582,
+        "name": "NG, Ka Man",
+        "count": 3
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "G0nZgfxjL9gVi2VGQjFQiHYSdYDRl4WW",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 582,
+          "name": "NG, Ka Man",
+          "rating": 1
+        }
+      ],
+      "author": "Adams",
+      "date": "Jan 19, 2024",
+      "title": "",
+      "comment_content": "Interesting content about different types of training in workplace, as well as the factors affecting training and development. Useful concepts that explain the effectiveness of training methods, in which personally think that it is useful for organizing training programs as it gives a structure for you to follow.<br />Mid term and final conducted in class time, the project is to conduct a training workshop, in which requires you to have a 3 min presentation to advertise the workshop, and a 18 min presentation after the workshop to talk about what you have done.",
+      "comment_teaching": "Carmen is a great professor. She try to recognize our faces and remember our names. She just take two lessons to remember me when I only ask one question after class. She interacts with us whenever possible to make the lecture more interactive and interesting. Moreover, she has her own way to explain the concepts which make them easier to understand. She also write the notes on the ppt when teaching which makes the lesson easy to follow.",
+      "comment_grading": "She take attendance by looking at the participation on classwork. She allows four times of classwork missing, but not every lesson have classwork. You can answer questions to gain participation points.<br />Grading is fine, just an average grading like other courses.",
+      "comment_workload": "Actually not much to do, but the time is quite hurry. Before midterm, life is quite easy but after midterm, you have to immediately prepare for the workshop. We have to do preparation to evalute training needs, so it has to be start early. After that, we have to prepare for the workshop advertisment and the training workshop. For our group, 2 days right after the workshop come the final exam. After the final exam, we will have to finish the 18 mins presentation in the next week. Time is quite limited.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "CcqTYyG6MMdY5EGIXMIpZAR3W27t3kLK",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 582,
+          "name": "NG, Ka Man",
+          "rating": 1
+        }
+      ],
+      "author": "nbslfg",
+      "date": "Jan 31, 2023",
+      "title": "Very practical MGMT course",
+      "comment_content": "Very practical and interesting.",
+      "comment_teaching": "Carmen is very kindhearted and enthusiastic. She remembers all of our names and tries to interact with us as much as possible. <br /><br />Her teaching is on point. Every concept is followed by sufficient and vivid examples",
+      "comment_grading": "I think the grading is relatively fair compared to other mgmt course. Participation part is huge since it&#039;s not hard to answer the questions raised if you pay attention in class. I screwed my exams but performed well in group project.",
+      "comment_workload": "Exam 1 @25%<br />Exam 2 @30%<br />Group Project (Workshop + Presentation) @30%<br />Participation @15%<br /><br />Exams are non-cumulative and most questions open-ended. Fairly divided.<br /><br />Group project includes holding a training workshop and a presentation afterwards. A lot of preparation work needed.<br /><br />Participation is not challenging.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "bRpFBEaKSm1E4yaMMenXBd8H91PGMhJr",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 582,
+          "name": "NG, Ka Man",
+          "rating": 1
+        }
+      ],
+      "author": "Kitty Leung",
+      "date": "May 30, 2018",
+      "title": "",
+      "comment_content": "A class about training and learning.<br /><br />Topic 1: Training needs assessment<br />Topic 2: Ensuring training motivation<br />Topic 3: Theories of learning<br />Topic 4: Transfer of training<br />Topic 5: Training methods<br />Topic 6: Evaluation of training effectiveness<br />Topic 7: Recent trends in training and development<br /><br />Carmen will print handout so you can save some money and jot notes during class!",
+      "comment_teaching": "Carmen is very funny and nice. She gives lots of examples and plays videos to let us familiarize with the concepts during class. She also speaks Cantonese style English so it is easy to understand. Sometimes she speaks quite fast, but she will stop when everyone is still writing. If you are absent with valid reason, you can email her for the lecture videos. She is very hardworking as well and she can finish marking within one week!",
+      "comment_grading": "Participation 15 points <br />Midterm 25 points (31/33; mean: 29; sd: 2.7)<br />Final 30 points (30/32; mean: 25.8, sd: 2.42)<br />Group project presentation 30 points (70/100; mean: 75; sd: 4)<br /><br />A grade!",
+      "comment_workload": "Midterm and final are both open book open notes and both long questions Yet, the time is limited and there are lots of notes. So it is advised to revise thoroughly before exams! Also read and write faster!<br /><br />Midterm covers topic 1 to 3. Final covers mainly topic 4 to 7. There will be a case for 3 questions. Both require you to give examples using the concepts so do understand everything before going for the exams.<br /><br />Group project is consists of conducting a training workshop and presentation on the workshop with theories applied. 7 people in group by self-selection.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

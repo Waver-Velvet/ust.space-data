@@ -1,0 +1,77 @@
+{
+  "course": {
+    "id": 174,
+    "subject": "CIVL",
+    "code": "4380",
+    "name": "Introduction to Wind Effects on Buildings and Structures",
+    "description": "Basic meteorology, structure of wind near the ground, wind induced vibrations, wind loading codes, wind tunnel test techniques.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2110,
+      1910,
+      1710,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"5370\" href=\"/review/CIVL5370\" target=\"_blank\">CIVL 5370</a>",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 2,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 75,
+        "name": "TSE, Kam Tim",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "vnuTRwMsZcC7eaqIhV7mLoKOJKDpNMdm",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 75,
+          "name": "TSE, Kam Tim",
+          "rating": 1
+        }
+      ],
+      "author": "つち",
+      "date": "Dec 12, 2021",
+      "title": "伏grade Wind Code Course",
+      "comment_content": "Topic 1: Wind Environment<br />&nbsp;&nbsp;&nbsp;- Five main forces that affect wind<br />&nbsp;&nbsp;&nbsp;- Introduce wind load chain<br />&nbsp;&nbsp;&nbsp;- Global wind climate<br />&nbsp;&nbsp;&nbsp;- Wind climate in HK (Monsoon and Typhoon)<br />&nbsp;&nbsp;&nbsp;- Uncertainty of wind speed<br />&nbsp;&nbsp;&nbsp;- Mean wind profile<br />&nbsp;&nbsp;&nbsp;- Wind turbulence<br />&nbsp;&nbsp;&nbsp;- Effect of topography<br />&nbsp;&nbsp;&nbsp;<br />Topic 2: Wind Pressure and Forces on Buildings<br />&nbsp;&nbsp;&nbsp;- Intro to wind pressures<br />&nbsp;&nbsp;&nbsp;- Pressure coefficient<br />&nbsp;&nbsp;&nbsp;- External flow and pressure<br />&nbsp;&nbsp;&nbsp;- Internal pressure<br />&nbsp;&nbsp;&nbsp;- Wind forces and moments<br />&nbsp;&nbsp;&nbsp;<br />Topic 3: Structural Dynamics<br />&nbsp;&nbsp;&nbsp;- Equation Of Motion<br />&nbsp;&nbsp;&nbsp;- SDOF free vibration (undamped and underdamped)<br />&nbsp;&nbsp;&nbsp;- SDOF Harmonic Excitation (undamped and underdamped)<br />&nbsp;&nbsp;&nbsp;- SDOF periodic excitation (Fourier Series)<br />&nbsp;&nbsp;&nbsp;- MDOF undamped free vibration<br />&nbsp;&nbsp;&nbsp;- MDOF undamped forced vibration<br />&nbsp;&nbsp;&nbsp;- Random vibration<br />&nbsp;&nbsp;&nbsp;<br />Topic 4: Wind Induced Vibration<br />&nbsp;&nbsp;&nbsp;- Along-wind induced vibrations<br />&nbsp;&nbsp;&nbsp;- Cross-wind induced vibrations<br />&nbsp;&nbsp;&nbsp;<br />Topic 5: Wind Loading Codes<br />&nbsp;&nbsp;&nbsp;- Wind load chain<br />&nbsp;&nbsp;&nbsp;- Codification of wind<br />&nbsp;&nbsp;&nbsp;- Main components of a Wind code<br />&nbsp;&nbsp;&nbsp;- WInd code components corresponding to 1st to 4th rings in Wind load chain<br />&nbsp;&nbsp;&nbsp;- Code of Practice on Wind Effects in Hong Kong 2004<br /><br />Yes, it is still windcode 2004 instead of windcode 2019 because the change of course material was not yet approved. But it is still a good course to learn the basic concepts about wind induced loadings.<br /><br />By the way, course description mentions wind tunnel test but it was not taught in this semester.",
+      "comment_teaching": "Quite good. Prof. Tse explained the concepts clearly, with extra examples and equation deductions not included in lecture slides. He also drew diagrams on whiteboard to better illustrate the concepts.<br /><br />At the beginning of almost all lectures, there was a recap on the content introduced in the previous lecture, so as to keep students on track.<br /><br />RVC recordings were uploaded to Canvas for revision purpose, however, the audio quality was not that good. Sometimes the video and audio were even out of sync. Therefore, attending lectures f2f is recommended.",
+      "comment_grading": "40% Assignments (x2)<br />60% Final exam<br /><br />Assignments:<br />&nbsp;&nbsp;&nbsp;Assignment 1 (mean 84.4&nbsp;&nbsp;high 100&nbsp;&nbsp;low 50)<br />&nbsp;&nbsp;&nbsp;Assignment 2 (mean 88.47&nbsp;&nbsp;high 100&nbsp;&nbsp;low 0)<br /><br />Final exam:<br />&nbsp;&nbsp;&nbsp;Not released<br />(Prof. ignores my emails about final scores)<br /><br />DON&#039;T TAKE IF YOU WANT GOOD GRADE!!!",
+      "comment_workload": "Quite low, only 2 HWs and a final exam.<br /><br />The 3rd HW was treated as an example because it was too late to assign one more assignment before the final exam (just one week left)<br /><br />HWs are good for practicing the application of the learnt equations and checking your understanding on certain concepts.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 2,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

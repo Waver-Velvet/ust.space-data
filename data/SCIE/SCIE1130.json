@@ -1,0 +1,828 @@
+{
+  "course": {
+    "id": 2351,
+    "subject": "SCIE",
+    "code": "1130",
+    "name": "Scientific Understanding of Our World",
+    "description": "This course aims to provide students an overall scientific understanding of our world. This course will deal with fundamental questions, such as: Where does this universe come from? What is the origin of matter? What is the origin of life? What guides the human behavior? What shapes the development of the human society? What will be the future of this world? Students are expected to have Science background. Graded DI/PA/F.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.73,
+    "rating_teaching": 4.6,
+    "rating_grading": 4.67,
+    "rating_workload": 5,
+    "review_count": 15,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 484,
+        "name": "CHOW, King Lau",
+        "count": 9
+      },
+      {
+        "id": 486,
+        "name": "LI, Ning",
+        "count": 9
+      },
+      {
+        "id": 636,
+        "name": "CHANG, Donald Choy",
+        "count": 7
+      },
+      {
+        "id": 476,
+        "name": "HERRUP, Karl",
+        "count": 6
+      },
+      {
+        "id": 612,
+        "name": "WONG, Michael Kwok Yee",
+        "count": 6
+      },
+      {
+        "id": 225,
+        "name": "HE, Guojun",
+        "count": 5
+      },
+      {
+        "id": 781,
+        "name": "WANG, Yi",
+        "count": 5
+      },
+      {
+        "id": 231,
+        "name": "LIU, Hongbin",
+        "count": 2
+      },
+      {
+        "id": 498,
+        "name": "LIU, Kai",
+        "count": 2
+      },
+      {
+        "id": 754,
+        "name": "LUI, Francis T",
+        "count": 1
+      },
+      {
+        "id": 889,
+        "name": "CHEUNG, Sai Kit",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "ApfRyPoKAFBAWB2LAc4skQ4x4oQ7Emdt",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 484,
+          "name": "CHOW, King Lau",
+          "rating": 1
+        },
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        },
+        {
+          "id": 498,
+          "name": "LIU, Kai",
+          "rating": 1
+        },
+        {
+          "id": 636,
+          "name": "CHANG, Donald Choy",
+          "rating": 1
+        },
+        {
+          "id": 781,
+          "name": "WANG, Yi",
+          "rating": 1
+        }
+      ],
+      "author": "Leoml",
+      "date": "Dec 28, 2022",
+      "title": "",
+      "comment_content": "It is about how the earth and life and society is formed from big bang. Some biological and physics concepts are covered. Syllabus can be found in other reviews",
+      "comment_teaching": "Professors from different departments are invited to be the guest speaker on each lesson. The content is interesting and arouses our interests in the earth and life form. I think it is not as interactive as the other reviews though.",
+      "comment_grading": "Attendance 70%, quiz 30%.<br />Only a short 15 minute mc test at the last lesson, which is easy.<br />I got DI at last.",
+      "comment_workload": "Zero workload. It can be used as gap fillers, you can get inspirations from lessons.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "mapiwQdtYX8UaLY9HWyOCLBeOQErlyIU",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 636,
+          "name": "CHANG, Donald Choy",
+          "rating": 1
+        },
+        {
+          "id": 781,
+          "name": "WANG, Yi",
+          "rating": 1
+        },
+        {
+          "id": 889,
+          "name": "CHEUNG, Sai Kit",
+          "rating": 1
+        },
+        {
+          "id": 484,
+          "name": "CHOW, King Lau",
+          "rating": 1
+        },
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        },
+        {
+          "id": 498,
+          "name": "LIU, Kai",
+          "rating": 1
+        },
+        {
+          "id": 754,
+          "name": "LUI, Francis T",
+          "rating": 1
+        }
+      ],
+      "author": "AbArbAriAn420",
+      "date": "Jan 17, 2022",
+      "title": "0workload, PF course, Easy 1cred course",
+      "comment_content": "Week | Topic | Guest Lecturer | Lecture Date <br /><br />1| Overview: Scientific Understanding of our World |<br />Prof. Donald Chang Division of Life Science | 2 Sep 2021 <br />2 | Where does our universe come from? |<br />Prof. Yi Wang Department of Physics |&nbsp;&nbsp;9 Sep 2021 <br />3 | Origin of matter: The Standard Model |<br />Prof. Donald Chang Division of Life Science |16 Sep 2021 <br />4 | Foundation of the quantum world |<br />Prof. Donald Chang Division of Life Science | 23 Sep 2021 <br />5 |Origin of different chemical elements |<br />Dr. Sai Kit Cheung Department of Physics | 30 Sep 2021 <br />6 | Origin of life; Biodiversity and evolution |<br />Prof. Donald Chang Division of Life Science | 7 Oct 2021 <br />7 | Chung Yeung Festival 14 Oct 2021 <br />8 | Origin of human being |<br />Prof. King Chow Division of Life Science | 21 Oct 2021 <br />9 | Why are there plants? |<br />Prof. Ning Li Division of Life Science | 28 Oct 2021 <br />10 | How does the human mind work? |<br />Prof. Kai Liu Division of Life Science | 4 Nov 2021 <br />11 | Planet Earth and the ecosystem |<br />Prof. Donald Chang Division of Life Science | 11 Nov 2021 <br />12 | Development of the human society |<br />Prof. Francis Lui Department of Economics | 18 Nov 2021 <br />（MC quiz）13 | What will be the future of our world? | <br />Panel discussion | 25 Nov 2021",
+      "comment_teaching": "内容屬實有趣<br /><br />Notes:&nbsp;&nbsp;&nbsp;<br />1. We would like to make this a highly interactive course. The lecture part is about 1 hour. Then, we will have 20-30 minutes for open discussion. <br />2. The lecture will be focused more on the conceptual aspect of the topic rather than technical details.<br /><br />My notes(pdf expert)：<br />https://filedropper.com/d/s/kXhJe1TwNbWJXAj8cUVfMc1h3Dn4k8",
+      "comment_grading": "• Attendance (70%) ***<br />• Final exam/quiz (30%)<br /><br />DI / PA / F<br /><br />Final grade : PA<br />late reg, skipped 2 lectures in total",
+      "comment_workload": "0 workload<br /><br />You can take notes for better scores in mc quiz<br /><br />Quiz q. : (simple questions)<br />How many years ago did human beings be born?<br />age of the earth?<br />What is dark matter?<br />ATP in the cells<br />Fermion &amp; Boson<br />4 forces<br />etc.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Y3unRkelQVNCUqqWlDzhGsWSbr0YSjXJ",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 636,
+          "name": "CHANG, Donald Choy",
+          "rating": 1
+        }
+      ],
+      "author": "Super Bombman",
+      "date": "Jan 08, 2022",
+      "title": "A good course",
+      "comment_content": "Topics covered:<br />1. Overview: Scientific Understanding of our World<br />2. Where does our universe come from?<br />3. Origin of matter: The Standard Model<br />4. Foundation of the quantum world<br />5. Origin of different chemical elements<br />6. Origin of life; Biodiversity and evolution<br />7. Origin of human being<br />8. Why are there plants?<br />9. How does the human mind work?<br />10. Planet Earth and the ecosystem<br />11. Development of the human society<br />12. What will be the future of our world?<br /><br />The course is designed for both students with or without scientific background. Even you are a student from SHSS/SBM, you can still enroll this course and enjoy the interesting content.<br /><br />The lecture focused more on the conceptual aspect of the topic rather than technical details.",
+      "comment_teaching": "According to the course outline, the duration of the lecture is 80 minutes and around 20 minutes will be the discussion time. However, most professors can&#039;t finish their teaching within 60 minutes. Thus, there is normally 10 minutes for the Q&amp;A section.<br /><br />Professors will raise a lot of questions during the Q&amp;A section and some of them is quite interesting. I think the questions did give me another perspectives to look around the world.<br /><br />Some of the content is boring and I did fall asleep during the lecture. Luckily, the professors normally won&#039;t punish you for such action :)",
+      "comment_grading": "The grading scheme:<br />(70%) participation<br />(30%) MC quiz.<br /><br />You can get a pass by just attending the lesson.<br />The quiz is quite easy. If you want to get a distinction, you may go through the ppt after every lecture.",
+      "comment_workload": "There is no homework/assignment.<br /><br />You just need to read through the ppt once before the quiz in the last lecture.<br /><br />It is just a 1 credit course, just take it easy and enjoy it!",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "IMeQOaqK3bEP9GirFOaiQ5o4Z2eTztZP",
+          "name": "Schedule_SCIE 1130 Fall 2021_v1",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "x5Bf2y215tLMnFUKndEHWEQrzOgsN6op",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 636,
+          "name": "CHANG, Donald Choy",
+          "rating": 1
+        }
+      ],
+      "author": "holam",
+      "date": "Nov 25, 2021",
+      "title": "Lowest workload class in HKUST",
+      "comment_content": "I don&#039;t know coz i sleep / do my own things.<br />You may read the attachments instead.",
+      "comment_teaching": "I don&#039;t know coz i sleep / do my own things.<br />You may read the attachments instead.",
+      "comment_grading": "DI/PA/F grading<br /><br />70% attendance<br />30% Quiz (25MC in 15 minutes)<br /><br />Only by attending all classes physically without listening anything can pass the course.<br /><br />This is the best course ever in HKUST.<br /><br />I did not revise for the quiz. I just random guess and then sleep.<br /><br />Final grade: PA",
+      "comment_workload": "0 workload.<br />The only reason to join this class if you need to fulfil your 120 credits minimum credits requirement AND you have some free credits AND you dont want to have any workload.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "tUgTrOdMCli3DRbUM3vrlvS10Rj9ElWu",
+          "name": "Schedule_SCIE 1130 Fall 2021_v1",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "nX8TMpb8Qe11oHaRcZK6kz3zcV0SwJy7",
+      "semester": "2021-22 Fall",
+      "instructors": [],
+      "author": "Wing Kung",
+      "date": "Sep 16, 2021",
+      "title": "",
+      "comment_content": "Different topics in science<br />1.Overview: Scientific <br />Understanding of our World<br />Prof. Donald Chang<br />Division of Life Science 2 Sep 2021<br /><br />2 Where does our universe come <br />from?<br />Prof. Yi Wang<br />Department of Physics 9 Sep 2021<br /><br />3 Origin of matter: The Standard <br />Model<br />Prof. Donald Chang<br />Division of Life Science 16 Sep 2021<br /><br />4 Foundation of the quantum<br />world<br />Prof. Donald Chang<br />Division of Life Science 23 Sep 2021<br /><br />5 Origin of different chemical <br />elements<br />Dr. Sai Kit Cheung<br />Department of Physics 30 Sep 2021<br /><br />6 Origin of life; Biodiversity and <br />evolution<br />Prof. Donald Chang<br />Division of Life Science 7 Oct 2021<br /><br />7 holiday 14 Oct 2021<br /><br />8 Origin of human being Prof. King Chow<br />Division of Life Science 21 Oct 2021<br /><br />9 Why are there plants? Prof. Ning Li<br />Division of Life Science 28 Oct 2021<br /><br />10 How does the human mind <br />work?<br />Prof. Kai Liu<br />Division of Life Science 4 Nov 2021<br /><br />11 Planet Earth and the ecosystem Prof. Donald Chang <br />Division of Life Science 11 Nov 2021<br /><br />12 Development of the human <br />society<br />Prof. Francis Lui<br />Department of Economics 18 Nov 2021<br /><br />13 What will be the future of our <br />world? Panel discussion 25 Nov 2021",
+      "comment_teaching": "The lecture part is about 1 hour, followed by open discussion (about 20 minutes).",
+      "comment_grading": "Attendance (70%)<br />Final exam/quiz (30%)<br />Participations (bonus)",
+      "comment_workload": "you can do a project if you want bonus",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "4m5lRcDwoepaivpvq4KNIfchDkwB3jab",
+      "semester": "2019-20 Fall",
+      "instructors": [],
+      "author": ".........",
+      "date": "Feb 21, 2020",
+      "title": "",
+      "comment_content": "Each week a guest professor will held a talk introducing their science topics in a simplified way, followed by an Q&amp;A session.<br />1 Scientific Understanding of our World (overview)<br />2 Where does our universe come from?<br />3 Origin of matter<br />4 Origin of different chemical elements<br />5 Formation of stars and planets Prof.<br />6 Chung Yeung Festival 7 Oct 2019<br />7 Origin of life; Biodiversity and evolution<br />8 Origin of human being<br />9 Why are there plants?<br />10 How does the human mind work?<br />11 Development of the human society<br />12 Planet Earth and the ecosystem<br />13 What will be the future of our <br />world? <br /><br />Because of the special arrangements of UST, lectures 11-13 are cancelled",
+      "comment_teaching": "The teaching is good overall, many professors can speak and deliver their ideas quite clearly, and some professors even use metaphors or other ways to aid our understanding. (I&#039;m a science student and I think it&#039;s clear enough)<br /><br />Yet, as some of our students do not have a deep scientific background, you won&#039;t expect the questions be that in-depth.",
+      "comment_grading": "Only Pass or fail (and a PP if you are so active to ask questions)<br />Attendance and final examination (professor CHEUNG said it&#039;s just a simple quiz)<br /><br />As UST campus were closed in November, attendance was only taken from lectures 1-10, final exam cancelled.",
+      "comment_workload": "No workload as a one cred course, just attendance",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "fA0JKcp00gV6vuUgfM1xdigBrs2vVhyP",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 484,
+          "name": "CHOW, King Lau",
+          "rating": 1
+        },
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        },
+        {
+          "id": 636,
+          "name": "CHANG, Donald Choy",
+          "rating": 1
+        },
+        {
+          "id": 612,
+          "name": "WONG, Michael Kwok Yee",
+          "rating": 1
+        },
+        {
+          "id": 781,
+          "name": "WANG, Yi",
+          "rating": 1
+        }
+      ],
+      "author": "KatherineLai",
+      "date": "Jan 05, 2020",
+      "title": "",
+      "comment_content": "Content:<br />The origin of the universe<br />Particle physics &amp; nucleosynthesis<br />Origin of matter &amp; planet Earth<br />Origin of Life, Biodiversity &amp; Evolution<br />Origin of the human being<br />Why are there plants?<br />How does the human mind work?<br />Development of the human society*<br />Planet Earth and the ecosystem*<br />What will be the future of our world?*<br /><br />*: not covered due to class suspension<br /><br />Each lesson a very different topic is covered (in the order mentioned above). Professors specialized in the area are invited to come teach. The content covered is quite board and targeted at a general audience. There is not much technical stuff and is aimed to introduce you to the different topics.",
+      "comment_teaching": "As mentioned in the content part, the course is aimed to a larger audience. The professor do a decent job in choosing relatively easy-to-understand concepts and simplifying them so that they could be understood by all students. <br /><br />The course intended to take a more interactive approach. in the 1 hour 20 minute lesson, it is originally planned to have 20 minutes of discussion at the end. Professors are willing to answer students&#039; questions.<br /><br />However, during some lessons the professor gets a bit carried away and takes up the whole 1 hour and 20 minutes for the lecture, leaving no time for the professor to respond to the students&#039; questions.",
+      "comment_grading": "The grading (pass/fail/distinction) is based on attendance and a final exam. Due to school suspension, the &quot;final exam&quot; did not take place as planned, so grading is based on attendance record. Those who attended most lessons would be given a pass.",
+      "comment_workload": "No workload at all - no assignments and quizzes.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "hppFPzJTV41MPMOScpJT7ZIz0IOieBNE",
+      "semester": "2018-19 Fall",
+      "instructors": [],
+      "author": "Cacaa",
+      "date": "Aug 23, 2019",
+      "title": "",
+      "comment_content": "The content covered different topics in science.<br />1. The origin of the universe<br />2. Particle physics &amp; nucleosynthesis<br />3. Origin of matter &amp; planet Earth<br />4. Origin of Life<br />5. Biodiversity &amp; Evolution<br />6. Plants<br />7. Origin of the human being<br />8. Development of human society<br />9. Evolution of ecosystem<br />10.&nbsp;&nbsp;Discussing our world future<br /><br />Some topics are absorbing and provoking.",
+      "comment_teaching": "Professors come from a different academic background and they really made the lecture interesting.",
+      "comment_grading": "Graded DI/P/F<br />70% Attendance, 30% Final Exam <br />Optional: Project (for those who aim Grade DI)",
+      "comment_workload": "Very light workload. Your attendance is the only thing that is important.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "kz6UzQfxHh6Gn4Re5D2KBvId36L7I3uo",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 225,
+          "name": "HE, Guojun",
+          "rating": 1
+        },
+        {
+          "id": 231,
+          "name": "LIU, Hongbin",
+          "rating": 1
+        },
+        {
+          "id": 476,
+          "name": "HERRUP, Karl",
+          "rating": 1
+        },
+        {
+          "id": 484,
+          "name": "CHOW, King Lau",
+          "rating": 1
+        },
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        }
+      ],
+      "author": "Achromous",
+      "date": "Feb 11, 2019",
+      "title": "",
+      "comment_content": "Fun. Super fun.<br /> Content:<br />The origin of the universe <br />Particle physics &amp; nucleosynthesis<br />Origin of matter &amp; planet Earth<br />Origin of Life<br />Biodiversity &amp; Evolution<br />Plants<br />Origin of the human being<br />Development of human society<br />Evolution of ecosystem<br />Discussing our world future<br /><br />You would be super pleased to know that you need to remember NOTHING HARD here.<br />P.S. If you will be studying CHEM1020, you will discover all those duality and uncertanties will be taught here, in a much delighted way.<br />And the physics part are difficult but fun. &#039;cause you will see them again in PHY1001(particle physics and origin of universe) . Ah, and using same ppt.<br />Herrup is not teaching anymore, but his part ( the part about human decision) was the same as the one about brain and neurons in LIFS1902 (same ppt again)",
+      "comment_teaching": "In our last lecture,three prof. will share what they think about our world&#039;s future , and it would be like a small forum.<br />Enjoy class.<br />Ah. Don&#039;t talk in class. It is impolite.<br />And you can talk to prof. after class. They are super nice. I asked about topics not related to the content in his ppt, he answered them all patiently.",
+      "comment_grading": "DI/PA/F<br />Joining the club will not affect your grade. (personal experiences)<br />We just talked about things in HKUST and random topics.<br />I think the only way to get a DI is handing in a project.<br />Yeah, I just have a PA.",
+      "comment_workload": "Just some MCs as final/quiz.<br />Unexpectedly, super easy. Just a few questions. Like using common sense only.<br />Att. is 70%<br />Mc is 30% <br />so...... just attend class.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ZAAnG6PCJvb7IiPoCQ5kKMTDC9LE42yR",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 636,
+          "name": "CHANG, Donald Choy",
+          "rating": 1
+        },
+        {
+          "id": 781,
+          "name": "WANG, Yi",
+          "rating": 1
+        },
+        {
+          "id": 612,
+          "name": "WONG, Michael Kwok Yee",
+          "rating": 1
+        },
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        },
+        {
+          "id": 484,
+          "name": "CHOW, King Lau",
+          "rating": 1
+        },
+        {
+          "id": 476,
+          "name": "HERRUP, Karl",
+          "rating": 1
+        },
+        {
+          "id": 231,
+          "name": "LIU, Hongbin",
+          "rating": 1
+        }
+      ],
+      "author": "UEL K.",
+      "date": "Nov 09, 2018",
+      "title": "A stress-free lesson",
+      "comment_content": "This course covers the following topics (based on the timeline) :<br />1. The origin of the universe<br />2. Particle physics &amp; nucleosynthesis<br />3. Origin of matter &amp; planet Earth<br />4. Origin of Life<br />5. Biodiversity &amp; Evolution<br />6. Plants<br />7. Origin of the human being<br />8. Development of human society<br />9. Evolution of ecosystem<br />10.&nbsp;&nbsp;Discussing our world future<br /><br />Each lesson consists of 1-hr teaching + 10-20 mins open discussion. Students &amp; professors are free to chat and debate on some thought-provoking questions.",
+      "comment_teaching": "Instructors here come from a wide range of academic backgrounds( as you can see). Instead of talking academic and statistical stuff, they highly focused on the philosophical and conceptual aspects of each fundamental point of our world.<br /><br />They also welcome challenging questions given by students and professors.<br /><br />However, it&#039;s easy to take a nap once you are out-focused.",
+      "comment_grading": "70% attendance + 30% small MC quiz (at the first 30mins of the last lesson, which covers all the concepts mentioned above)<br />Typically easy to pass without an effort.<br />Just enjoy the lecture and be open-minded is enough.<br /><br />Professor Chang has once made an attempt to form a discussion group, including professors and some registered students. Maybe you can get a distinction if you join them.",
+      "comment_workload": "No workload.<br />You may prepare for the lecture ppt if you wish to ace the MC quiz.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Z8rqaNVNnPcPBKwHnZiDUwBcyR7sAqYc",
+      "semester": "2018-19 Fall",
+      "instructors": [],
+      "author": "klkaa",
+      "date": "Sep 05, 2018",
+      "title": "",
+      "comment_content": "An 1-credit course to stimulate thinking about important problems in science and to develop a habit of independent thinking.<br /><br />The ideas are not too deep, so they&#039;re pretty easy to understand even with little scientific background.<br /><br />Main Topics:<br />Where does our universe come from?<br />What is the origin of matter?<br />What is the origin of life?<br />What guides human behaviour?<br />What shapes the development of human society?<br />What will be the future of this world?<br /><br />As you can see, this course is mainly about the origin and the future of any components in the universe",
+      "comment_teaching": "One week one 60mins lecture + 20mins open discussion<br />Quite interesting if you like the topics.<br /><br />The professors interact with students quite often, making the lecture quite interesting.<br /><br />The open discussion session is quite thought-provoking and enjoyable for me, although not a lot of students really engage in the discussion.",
+      "comment_grading": "Graded DI/P/F.<br />70% Attendance<br />30% Final Exam (MC)<br />Optional bonus: Project (for those who aim Grade DI)",
+      "comment_workload": "No assignments<br />Only workload is the final exam and an optional project<br /><br />The final exam only takes 30 minutes and there are 20 questions. They are easy and you should be able to answer most of them correctly if you have paid some attention during lectures",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "3bkEWO0RGqN8cEwXX1PTO9h3PBOFMNy3",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 225,
+          "name": "HE, Guojun",
+          "rating": 1
+        },
+        {
+          "id": 476,
+          "name": "HERRUP, Karl",
+          "rating": 1
+        },
+        {
+          "id": 484,
+          "name": "CHOW, King Lau",
+          "rating": 1
+        },
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        },
+        {
+          "id": 612,
+          "name": "WONG, Michael Kwok Yee",
+          "rating": 1
+        }
+      ],
+      "author": "GGGarygorly",
+      "date": "Jan 23, 2018",
+      "title": "Good course to know more about our world",
+      "comment_content": "topic covered:<br />Where does our universe come from?<br />Foundation of our physical world (2): Origin of matter and origin of planet Earth<br />Biodiversity and evolution<br />Origin of life: Where does life come from?<br />What guides the human behavior?<br />The origin of human being<br />Why are there plants?<br />What will be the future of our world?",
+      "comment_teaching": "interesting and interactive <br />the prof. are willing to discuss with the students.<br />the last 20 mins of the lecture will be the discussion sessions<br />usually some of the classmates may ask the prof. some questions and 20 mins gone and the prof even finish the lecture eariier in order to let us go to a talk",
+      "comment_grading": "a pass or fail course <br />attend 9/11 of all lectures then you can pass<br />take attendance <br />a special essay will be awarded",
+      "comment_workload": "no workload since no midterm and no final<br />just pay attention to the guest lecture and google <br />you can raise questions and have a discussion with the lecturer and classmate<br />the last lecture of the course is about &quot;What will be the future of our world?&quot; and the lecturers will talk about their views about technology and the society.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "1m22IbuSzuH9brKPPvc8KQ1mirQkAyx8",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 484,
+          "name": "CHOW, King Lau",
+          "rating": 1
+        },
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        },
+        {
+          "id": 612,
+          "name": "WONG, Michael Kwok Yee",
+          "rating": 1
+        },
+        {
+          "id": 476,
+          "name": "HERRUP, Karl",
+          "rating": 1
+        },
+        {
+          "id": 225,
+          "name": "HE, Guojun",
+          "rating": 1
+        }
+      ],
+      "author": "Johnson162",
+      "date": "Jan 12, 2018",
+      "title": "Nice course",
+      "comment_content": "One thing that the course instructor emphasized a lot was that the course did not only teach students what they know, but also what they don&#039;t know. It consists of different guest lectures and the content covered was very broad, ranging from particle physics to biology. A timeline was set from the beginning of the universe to the future. Lectures are prepared with content related to a specific point on the timeline, eg: what happened at the very first few seconds of the universe, or ecosystem of the early Earth. The last lecture was a panel discussion on the future of human beings.",
+      "comment_teaching": "Almost every lecture you have a different lecturer because most of the classes were guest lectures. Most of the lecturers were fun.",
+      "comment_grading": "Just pass or fail. Whether you pass the course depends on your attendance. Sign sheets were provided.",
+      "comment_workload": "No workload, unless you consider attending classes is a kind of <br />workload.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "MCFhJrHxKXxBN4Q98RWxtHnbAkK7t6f5",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 476,
+          "name": "HERRUP, Karl",
+          "rating": 1
+        },
+        {
+          "id": 225,
+          "name": "HE, Guojun",
+          "rating": 1
+        },
+        {
+          "id": 484,
+          "name": "CHOW, King Lau",
+          "rating": 1
+        },
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        },
+        {
+          "id": 612,
+          "name": "WONG, Michael Kwok Yee",
+          "rating": 1
+        }
+      ],
+      "author": "YSA",
+      "date": "Dec 26, 2017",
+      "title": "Free 1-credit Pass/Fail course with 0 workload",
+      "comment_content": "Short lectures (1 hour 20 minutes every week) about different topics in science like the formation of the universe, Earth and solar system, emergence of life, evolution, plant biology, human brain, human society, etc.<br /><br />Very basic introductions to these topics, same as high school science or even lower level of difficulty.<br /><br />Some topics are interesting, others a bit boring.",
+      "comment_teaching": "Different lecturer every week. Some lectures are interesting and funny, but a few are quite boring with too many details like plant biology. It can be a bit confusing because the lectures are not always related to each other so the topics can be a bit random from one week to the next.",
+      "comment_grading": "Graded P / F / DI. You get P if you attend 80% of lectures. There is an optional essay/report for Distinction.",
+      "comment_workload": "No workload. Only 80% attendance required (9 out of 11 lectures).<br /><br />Optional essay/report if you want DI grade instead of P.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "9j46yU883JzbWsQ2o9ikyOvoYPhJkk28",
+          "name": "Syllabus and Schedule_SCIE 1130 Fall 2017",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "pfujDwPqfKQLwWAF6ekEsq1Jy3DPz4yM",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 612,
+          "name": "WONG, Michael Kwok Yee",
+          "rating": 1
+        },
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        },
+        {
+          "id": 484,
+          "name": "CHOW, King Lau",
+          "rating": 1
+        },
+        {
+          "id": 476,
+          "name": "HERRUP, Karl",
+          "rating": 1
+        },
+        {
+          "id": 225,
+          "name": "HE, Guojun",
+          "rating": 1
+        },
+        {
+          "id": 636,
+          "name": "CHANG, Donald Choy",
+          "rating": 1
+        },
+        {
+          "id": 781,
+          "name": "WANG, Yi",
+          "rating": 1
+        }
+      ],
+      "author": "Eggtart",
+      "date": "Dec 21, 2017",
+      "title": "Take a break between lessons~",
+      "comment_content": "由世界起源到人類社會形成，Topics見attachment。每堂有唔同department嘅professor講~50mins，剩返~20-30mins Q&amp;A，最尾嗰堂就請返幾位之前來過嘅professor對一啲世界將會面對嘅問題(e.g. AI會否凌駕人類)講吓佢地嘅睇法。",
+      "comment_teaching": "差唔多堂堂來嘅speaker都唔錯。每個禮拜都幾enjoy上呢堂，學到野又唔洗擔心個grade~",
+      "comment_grading": "P or F 無咩特別<br />第一堂介紹嗰陣話如果有興趣可以做一個project，做得好嘅會有DI grade。",
+      "comment_workload": "無workload可言。<br />計attendance，最多可以走兩次堂；不過每個禮拜一堂，reg呢科都係當聽talk放鬆吓啫~",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "SEVCuef9OsSilFR5hBRHDxAylcgXaFxo",
+          "name": "Syllabus and Schedule_SCIE 1130 Fall 2017",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

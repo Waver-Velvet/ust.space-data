@@ -1,0 +1,32 @@
+{
+  "course": {
+    "id": 4000,
+    "subject": "ISOM",
+    "code": "6000P",
+    "name": "Machine Learning in Practice",
+    "description": "The use of artificial intelligence (AI) and machine learning (ML) becomes an emerging trend in various business functions and industries for their exponential power to generate revenues, automate operations, improve customer experiences, and transform business management. However, a lot of ML projects in business encounter significant bottlenecks and challenges on their route towards practical deployment at scale. Harnessing AI’s potential for competitive performance requires a new type of professionals, who can automate the deployment of ML models into an integrated system that continuously operate in production. This course is intended to close the gap from machine learning proof-of-concept to production quality system. Through lectures, case discussion and experiments in real-world data sets, students will gain a broad understanding of ML and AI concepts, explore the state-of-art cloud-native system design patterns, and recognize good practice in machine learning system development and deployment.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2330,
+      2230
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

@@ -1,0 +1,75 @@
+{
+  "course": {
+    "id": 1862,
+    "subject": "SOSC",
+    "code": "6030H",
+    "name": "Understanding Chinese Politics",
+    "description": "After an historical and organizational introduction to Chinese politics, this course uses concepts such as political participation, bureaucratic politics, state-society relations, and political economy, to explain the development of the People's Republic of China.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1830,
+      1730,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 2,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 670,
+        "name": "ZWEIG, David Stephen",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "Uvfzl1yUlvH1CJjHKuDuIJIdruh7HuCF",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 670,
+          "name": "ZWEIG, David Stephen",
+          "rating": 1
+        }
+      ],
+      "author": "duang",
+      "date": "May 22, 2020",
+      "title": "More like a biweekly panel discussion",
+      "comment_content": "This is the PG version of SOSC 4600, in which all students gather around and have discussions under assigned topic.<br />This class is for more advanced UG students and PG students who want to increase their&nbsp;&nbsp;theoretical&nbsp;&nbsp;and&nbsp;&nbsp;historical&nbsp;&nbsp;understanding&nbsp;&nbsp;of&nbsp;&nbsp;Chinese&nbsp;&nbsp;politics. It&nbsp;&nbsp;presents&nbsp;&nbsp;conceptual frameworks and theories about Chinese politics, analyzes key events in the post-1949 period, and&nbsp;&nbsp;looks&nbsp;&nbsp;at&nbsp;&nbsp;many&nbsp;&nbsp;important&nbsp;&nbsp;issues&nbsp;&nbsp;related&nbsp;&nbsp;to&nbsp;&nbsp;contemporary&nbsp;&nbsp;Chinese&nbsp;&nbsp;politics.&nbsp;&nbsp;The&nbsp;&nbsp;purpose, above all, is to try to explain why events occur the way they do in the PRC.",
+      "comment_teaching": "This is the last semester professor Zweig teach this course and I think he is really good at inspiring students and referring to some detailed knowledge. <br />You will feel this class is more like a panel discussion rather than a course, everyone can raise doubts anytime.",
+      "comment_grading": "30% Leading a discussion in class on 2 questions during the semester.<br />40% Research Paper<br />(UG students will write a 20 page paper, PGs will write 25 pages)<br />30%&nbsp;&nbsp;Final Exam",
+      "comment_workload": "Very heavy, especially for PG students, the weekly reading assignments are more than you can imagine. Please pay enough attention and energy into this course, you can gain more than you can imagine, too.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

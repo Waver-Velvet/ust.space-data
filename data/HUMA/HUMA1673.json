@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 3985,
+    "subject": "HUMA",
+    "code": "1673",
+    "name": "Art and Digital Culture",
+    "description": "This course will explore how digital technologies are transforming art production and presentation. From early photography to virtual reality, it will examine art forms at the turn of the mechanical age (e.g. photography, film) as well as artistic practices in the digital age such as virtual reality, data visualization, artificial intelligence, and NFT (Non-fungible token). Situating art and digital culture within a cross-disciplinary context, the course also considers the following key issues: how do digital technologies change our art, culture, and contemporary life? How does art in the digital age define key issues in the digital world such as privacy, copyright, and identity? How can we create art through interdisciplinary practice? Students will learn to analyze new forms of art and related technologies, and to discuss the key issues of the body, identity, and surveillance in the digital age.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230
+    ],
+    "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1401\" href=\"/review/LANG1401\" target=\"_blank\">LANG 1401</a> OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1402\" href=\"/review/LANG1402\" target=\"_blank\">LANG 1402</a> OR LANG 1403 OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1404\" href=\"/review/LANG1404\" target=\"_blank\">LANG 1404</a> OR LANG 1002 (prior to 2022-23)",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"CORE\" data-code=\"1668\" href=\"/review/CORE1668\" target=\"_blank\">CORE 1668</a>",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1734,
+        "name": "GUO, Qiuzi",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "fkkMyLFQDc94u62Tdocne0ZjHuNvesIn",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1734,
+          "name": "GUO, Qiuzi",
+          "rating": 1
+        }
+      ],
+      "author": "thesishihihi",
+      "date": "Jan 22, 2024",
+      "title": "Not a bad cc",
+      "comment_content": "The content is based on teaching how different digital technologies contribute to virtual reality. Also, some debates and controversies against the digital age will be discussed.",
+      "comment_teaching": "Qiuzi&#039;s teaching is a bit boring as her tone is so flat that you might easily fall asleep during the lessona especially when it needs to take 3 hours long.",
+      "comment_grading": "It was good. It will be fine if you pay efforts.",
+      "comment_workload": "It was light.<br />No exams.<br />1500-word essay.<br />In-class discussion.<br />A project that is based on a specific topic in the digital era",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

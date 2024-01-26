@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 2095,
+    "subject": "MECH",
+    "code": "6910K",
+    "name": "Advanced Flow Instability",
+    "description": "Normal mode decomposition, spatial/temporal analysis, linearized equations of motion, surface tension instabilities, centrifugal instabilities, shear instabilities, thermal-convective instabilities, nonlinear dynamics and chaos, transition to turbulence, and flow-structure interaction.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1630
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 562,
+        "name": "LI, Larry",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "z3P160C3lbJ088eGaSOSRa63p1PWFg3M",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 562,
+          "name": "LI, Larry",
+          "rating": 1
+        }
+      ],
+      "author": "PimpDaddy",
+      "date": "Jun 08, 2017",
+      "title": "Outstanding class",
+      "comment_content": "This course covers the basics of flow instability. You will understand how to linearize the governing equations and how to conduct a temporal and an energy-based analysis to determine the linear instability criteria. <br /><br />Examples include Rayleigh-Plateau, Rayleigh-Bénard convection, Kelvin-Helmholtz instabilities. <br /><br />The course also covers flow-structure interactions such as gallop and flutter.",
+      "comment_teaching": "Professor Li is among the best instructors in the university. He explains concepts extremely clearly in perfect English and will not stop until you understand the point. <br /><br />Take any of his courses and you will agree.",
+      "comment_grading": "Larry will grade based on your effort in the assignment. You do not need to get the correct result but do need to show some attempt to get the solution. <br /><br />If you are an undergraduate, your course grade is 100% based on your homework. <br /><br />If you are a postgraduate, you must complete the homework and write a 2000-3000 word essay about how flow instability impacts your research. Again, this is graded on effort and meaningful reflection.",
+      "comment_workload": "There are 15 questions in the flow instability part and 32 questions in the flow-structure interaction part. <br /><br />You must complete the first 15 questions and any 16 out of the last 32 questions. <br /><br />The deadline for your homework is the end of the semester, so you should complete some questions every week after the lecture. Otherwise, the homework will accumulate and you must complete 31 questions and still complete final examinations. <br /><br />The term paper has the same deadline. In this case, it may be better to write it towards the end of the semester to enable more reflection on flow instability on research.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

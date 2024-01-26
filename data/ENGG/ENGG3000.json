@@ -1,0 +1,61 @@
+{
+  "course": {
+    "id": 380,
+    "subject": "ENGG",
+    "code": "3000",
+    "name": "Legal Perspective of Engineering Practice and Operation",
+    "description": "This course will focus on fundamentals and areas of business law that are of relevance and interest to engineers. This course will also provide practicing engineers with an understanding of the legislation relevant to their practice with a view to improving their ability and confidence to protect themselves from claims and disputes.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1430
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": [
+    {
+      "hash": "bbWXsF0lV3z12eJSQTt5ris0qvxcpaCF",
+      "semester": "2012-13 Summer",
+      "instructors": [],
+      "author": "pea",
+      "date": "Aug 22, 2017",
+      "title": "Take it if you don&#039;t hate writing!",
+      "comment_content": "The course mainly focuses on contract law and duty of care in HK law. The lecturer may talk about the UK law as well.",
+      "comment_teaching": "The lecturer is an experienced lawyer. He is passionate about teaching as he went through the legal case with us step by step with a lot of patient. He is very strict about how you inteprete and apply the law clauses for the case study.",
+      "comment_grading": "The lecturer seems to be lenient and willing to give out good grades. As an engineering student, getting an A from a law course is definitely out of my expectations.",
+      "comment_workload": "The lecturer showed us several reference books EVERY LESSON (Yes, you read it correctly). You may read it if you are really motivated to do so but you should at least read through all the class examples as they are super useful for you to complete the assignments. No exam for this course.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

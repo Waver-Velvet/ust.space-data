@@ -1,0 +1,108 @@
+{
+  "course": {
+    "id": 3816,
+    "subject": "MATH",
+    "code": "6510C",
+    "name": "Derivatives Pricing Models",
+    "description": "This course is directed to those students who are interested in pricing theory of financial derivatives. The course starts with the first principles in financial economics, like the fundamental theorem of asset pricing and risk neutral valuation principle. The Black-Scholes-Merton framework and martingale pricing approach are introduced. Pricing models of path dependent derivatives with embedded barrier features, lookback features and Asian averaging features are presented. Pricing formulations of popularly traded structured products, like accumulators, dynamic fund protection, variable annuities with guaranteed minimum withdrawal benefits, are discussed. Students should have taken several probability and statistics courses at the undergraduate level. No prior knowledge in stochastic calculus and finance is required. Students should seek the course instructor’s approval to take this course.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2210
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "MAFS 5030",
+    "rating_content": 4.5,
+    "rating_teaching": 4.5,
+    "rating_grading": 5,
+    "rating_workload": 3.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 559,
+        "name": "KWOK, Yue Kuen",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "K4z66pdHqWHfEL7aJDH0HUDsHSoAmRFu",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 559,
+          "name": "KWOK, Yue Kuen",
+          "rating": 1
+        }
+      ],
+      "author": "『　　　』",
+      "date": "Feb 05, 2023",
+      "title": "Tough but rewarding",
+      "comment_content": "PhD version of MAFS 5030<br /><br />This course covers most of the materials in MAFS 5030 except Topic 1 (if you have taken MATH 4514 you have learnt this part) part of Topic 2 (some intro to advanced probability stuffs) and VIX and Quanto Option.<br /><br />Then more advanced topics in Exotic Options are taught, including Barrier Options, Lookback Options and Asian Options and their related products.<br /><br />1. Single-period discrete securities models: Q-measure and asset pricing<br />1.1 Dominant trading strategies and linear pricing measure<br />1.2 Q-measure: Fundamental Theorem of Asset Pricing <br />1.3 Valuation of contingent claims and complete markets<br /><br />2. Multi-period models: Information structures and martingales <br />2.1 Information structures and filtrations<br />2.2 Notion of martingales<br />2.3 Discounted gain process and self-financing strategy<br />2.4 No-arbitrage principle and martingale pricing measure<br /><br />3. Stochastic asset price processes and Ito calculus<br />3.1 Brownian motion<br />3.2 Ito calculus<br />3.3 Change of measure: Girsanov’s Theorem<br />3.4 Feynman-Kac representation theorem<br /><br />4. Pricing models of financial derivatives<br />4.1 Black-Scholes riskless hedging principle<br />4.2 Risk neutral valuation approach and martingale pricing theory<br />4.3 Hull-White interest rate model: calibration of interest rate tree<br /><br />5. Financial derivatives with embedded barrier features <br />5.1 Product nature of barrier options <br />5.2 Accumulators<br />5.3 Partial differential equation approach and method of images<br />5.4 Probabilistic approach <br /><br />6. Lookback style derivatives<br />6.1 Product nature of lookback options<br />6.2 Pricing formulas of European lookback options<br />6.3 Rollover strategy and strike bonus premium<br />6.4 Partial differential formulation<br />6.5 Multistate lookback options<br />6.6 Dynamic fund protection<br /><br />7. Derivatives with averaging style payoffs<br />7.1 Partial differential approach for continuous models<br />7.2 Put-call parity relations and fixed-floating symmetry relations<br />7.3 Closed form pricing formulas for discretely monitored models<br />7.4 Analytic approximation methods<br />7.5 Guaranteed minimum withdrawal benefit",
+      "comment_teaching": "Warning: Kyk speak Mandarin in class.<br /><br />As the only local student (who cannot speak Mandarin), it is a torture to attend the lectures.<br /><br />The lecture notes is not very well organized (as usual see RMBI 4210), and Kyk tends to jump between pages during the lecture. So, it is better to revisit the materials after class and try to understand it by yourself.<br /><br />I would say lecture only gives you the insight, and students are required to digest the materials after class.",
+      "comment_grading": "Mostly MSc in Financial Mathematics students (8) in class and a few PhD (2), MPhil (1) and UG (2) students<br /><br />Curved grading<br /><br />In a class of 13 student:<br />3 students A+<br />around half students A range<br /><br />Some statistics:<br /><br />Midterm (Total 50): <br />Mean: 37.54<br />Max 48<br /><br />Final (Total 50):<br />Mean: 33<br />Max: 49<br /><br />Barely got an A+ with 89% in total.<br />Rank 1 and 2 in class is way too chisin.",
+      "comment_workload": "The workload depends on how much do you want to learn from the course. If you just want to pass the course, it is sufficient to memorize the main points in the lecture notes and some related problem set questions. However, if you want to learn from the materials, I suggest you to derive all the formulae in the lecture notes once (which is quite time consuming and I spent 2 weeks doing so when I study Topic 4-7 for final exam)<br /><br />Although there is no compulsory assignment, it is suggested to read through the problem set before the exam because some of the exam questions are similar to the questions in problem set.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "c1SfTnfhZm9kluAkSs9MyICdxIQShwFd",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 559,
+          "name": "KWOK, Yue Kuen",
+          "rating": 1
+        }
+      ],
+      "author": "wang2022",
+      "date": "Feb 03, 2023",
+      "title": "Good course",
+      "comment_content": "You can learn a lot from this course.<br />For example, Q measure, no arbitrage, risk neutral...<br />pricing is the key in the course",
+      "comment_teaching": "Prof. Kwok is very responsible.<br />He always answer our questions after class.",
+      "comment_grading": "You can get good grade if you work hard.<br />If you do not read the course material,&nbsp;&nbsp;then you get poor grade.<br />Since the content is difficult, prof gives grades very kindly.",
+      "comment_workload": "Heavy. Although homework is not counted in the final grade, you need to do all of them to pass the final exam.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

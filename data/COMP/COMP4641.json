@@ -1,0 +1,259 @@
+{
+  "course": {
+    "id": 249,
+    "subject": "COMP",
+    "code": "4641",
+    "name": "Social Information Network Analysis and Engineering",
+    "description": "This course is an introduction to social information network analysis and engineering. Students will learn both mathematical and programming knowledge for analyzing the structures and dynamics of typical social information networks (e.g. Facebook, Twitter, and MSN). They will also learn how social metrics can be used to improve computer system design as people are the networks. It will cover topics such as small world phenomenon; contagion, tipping and influence in networks; models of network formation and evolution; the web graph and PageRank; social graphs and community detection; measuring centrality; greedy routing and navigations in networks; introduction to game theory and strategic\nbehavior; social engineering; and principles of computer system design. Students who do not have the prerequisites but with equivalent background may seek approval from the instructor for enrollment in the course.",
+    "categories": [],
+    "website": "https://course.cse.ust.hk/comp4641/",
+    "credits": 3,
+    "semesters": [
+      2230,
+      2030,
+      1930,
+      1830,
+      1730,
+      1630,
+      1430
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"COMP\" data-code=\"2011\" href=\"/review/COMP2011\" target=\"_blank\">COMP 2011</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012H\" href=\"/review/COMP2012H\" target=\"_blank\">COMP 2012H</a>) AND <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2111\" href=\"/review/MATH2111\" target=\"_blank\">MATH 2111</a> AND (<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2600\" href=\"/review/ELEC2600\" target=\"_blank\">ELEC 2600</a> OR IEDA 2510 (prior to 2018-19) OR <a class=\"course-link\" data-subject=\"IEDA\" data-code=\"2520\" href=\"/review/IEDA2520\" target=\"_blank\">IEDA 2520</a> OR <a class=\"course-link\" data-subject=\"IEDA\" data-code=\"2540\" href=\"/review/IEDA2540\" target=\"_blank\">IEDA 2540</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2411\" href=\"/review/MATH2411\" target=\"_blank\">MATH 2411</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2421\" href=\"/review/MATH2421\" target=\"_blank\">MATH 2421</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2431\" href=\"/review/MATH2431\" target=\"_blank\">MATH 2431</a>)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.5,
+    "rating_teaching": 4.17,
+    "rating_grading": 3.5,
+    "rating_workload": 4,
+    "review_count": 6,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 121,
+        "name": "KWOK, James Tin Yau",
+        "count": 3
+      },
+      {
+        "id": 128,
+        "name": "HUI, Pan",
+        "count": 3
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "Z7peIl0uArz38JSQhIkgxlA1tiyl8rID",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 121,
+          "name": "KWOK, James Tin Yau",
+          "rating": 0
+        }
+      ],
+      "author": "lcw233",
+      "date": "Jun 10, 2023",
+      "title": "Run!!",
+      "comment_content": "This course is not really hard and required some base background information on statistic and linear algebra. The concept is interesting for me. Mainly discuss the properties of social network like Facebook and some real models. <br /><br />Here is the outline for reference. <br /><br />1. Introduction<br />2. Network properties and models<br />&nbsp;&nbsp;Basic network properties and web graph<br />&nbsp;&nbsp;Six degree of separation<br />&nbsp;&nbsp;Models of the small world<br />&nbsp;&nbsp;Strength of the weak ties<br />&nbsp;&nbsp;Finding communities and Clusters in networks<br />&nbsp;&nbsp;Centrality and its application<br />&nbsp;&nbsp;Power-law and preferential attachment<br />3. User behaviors and influence<br />&nbsp;&nbsp;Cascading behavior in networks<br />&nbsp;&nbsp;Models of network cascades<br />&nbsp;&nbsp;Cascades in viral marketing and the Blogosphere<br />&nbsp;&nbsp;Influence maximization in networks<br />4. Machine learning on networks<br />&nbsp;&nbsp;Graph neural networks<br />5. Social networking services&nbsp;&nbsp;<br />&nbsp;&nbsp;Recommender systems<br />&nbsp;&nbsp;Miscellaneous topics",
+      "comment_teaching": "For the lecture, I think Prof. KWOK&#039;steaching is quite interesting and his explanation is very clear and lively. But, the professor like to announce many important information like midterm time and concepts and related information in lectures, which is really not cool. I prefer to see this kind of announcement in Canvas but he never sent any announcement in Canvas. Be careful of this kind of information. In addition, we have to write emails to TA, asking for the test range of the final exam and all kinds of information that should be provided. Unfortunately, we received none in the end, all the related information comes from TAs.",
+      "comment_grading": "This is totally intolerant.&nbsp;&nbsp;<br />We have 36 students in total. <br />3 assignments (25%) 100 95 100<br />Midterm (20%) 85/100<br />Final examination (55%) 81/100<br />overall 86.1<br />==== GRADE ====&gt;&gt;&nbsp;&nbsp;C+ <br /><br />Indeed I haven&#039;t put much effort into this course. But, I believe I learn and handle most of the knowledge that was provided. It is heart-broken to receive this result.&nbsp;&nbsp;Most of the students are in year 4 I think, so be prepared to be compared with them, this is really stressful for a year 2 student. Be careful about the test range since there are no announcements of exams, and it is easy to miss some particular lectures. <br /><br />Not recommended to year 2 students. Believe me. <br /><br />: (",
+      "comment_workload": "The concept of this course is quite easy and can be handled even without attending lectures. But, participation is strongly recommended since this course has no recording except the tutorial which mainly talks about the assignment. Three assignments can be done very quickly, basically repeating what have learned from the lecture and using Python to prove the phenomenon. The programming included in this course is not hard. Mainly use the networkx in Python and a little pytorch.",
+      "rating_content": 5,
+      "rating_teaching": 2,
+      "rating_grading": 1,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 3,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "NCFfDyR4tHd9uX0v2qBAzBc30FimWfrb",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 128,
+          "name": "HUI, Pan",
+          "rating": 1
+        }
+      ],
+      "author": "ptrknow",
+      "date": "Jun 13, 2020",
+      "title": "",
+      "comment_content": "Good<br />雖然係照搬stanford",
+      "comment_teaching": "講得算OK<br />但係可唔可以講快少少<br />9點堂呢個速度好難頂",
+      "comment_grading": "grading scheme基本上係照搬stanford<br />無左exam咁解<br /><br />30% 4份hw<br />4份入面得1份叫做有d難度<br />呢個course絕對值得更加challenging嘅hw<br /><br />70% project<br />instruction照搬stanford<br />但係都係睇TA主觀嘅比分<br />一個唔好彩就會好似我果組咁progress report同presentation都最低分<br /><br />其實我都唔知個grade叫唔叫做好<br />Overall低過mean 4%都攞到B呢樣野算好好grade<br />但係個mean好高 同埋project呢家野主觀成分比較大<br />唔想project below mean可能你要同TA傾下計啦",
+      "comment_workload": "我自己為左份project都睇左唔少paper<br />雖然實際上都係臨deadline先開始做<br />份final report只要用9up同東拼西湊大法<br />用2日趕18頁其實唔難<br />(咁講嘅話 佢肯俾個B grade俾我 其實真係好好人)<br /><br />P.S. 如果你果個sem好多野要做<br />咁就咪鬼reg呢個course la<br />唔好好似我地組咁 3條友都5/6個course<br />然後讀埋呢個course黎玩自己",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "oKN7UfymRnKnA6Ct2aI7RYO1IBGMkRTt",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 128,
+          "name": "HUI, Pan",
+          "rating": 1
+        }
+      ],
+      "author": "beibeixiaozhu",
+      "date": "Jun 11, 2020",
+      "title": "Awesome teaching but Confusing Projects",
+      "comment_content": "This course introduces many concepts about social network theories and models, including:<br />1.Basic Network Properties &amp; Web Graph<br />2.Community Structure in Networks <br />3.Centrality<br />4.Power Law<br />5.Cascading Behavior<br />6.Contagion and Viral Market<br />7.Influence Maximization in Networks<br />8.Networks with Signed Edges<br />9.Status and User Evaluation<br />10.Graph Representation Learning<br />11.Graph Neural Networks<br />12.Network Evolution<br /><br />For Data Science, this course introduces a wider concept other than machine learning, concentrating more on graphs networks. <br /><br />A very useful course.",
+      "comment_teaching": "The content and lecture notes are very comprehensive.Although it is zoom meeting, the professor explains every thing patiently and carefully. In addition, the TA also introduced some source code implementation about graphs networks.",
+      "comment_grading": "This course takes the grading scheme tentatively as follows:<br /><br />70% Project (20% Proposal, 15% Project Milestone, 15% Presentation, 50% Final Report)<br /><br />30% Assignment (3% HW0 + 9% HW1, 2, 3)<br /><br />The mean final overall score of this course is about 87%, which is quite high. I get around 83%, where all scores of my assessments in project are below mean. I think maybe it is because some classmates chose to withdraw or take P/F grade this semester, which resulted in a higher mean.<br /><br /> I get B finally. Although the grading may not be as objective as exams, I think the gradings and comments are quite fair.",
+      "comment_workload": "This course is mainly a project-based course.<br />The TAs and Professor offer a lot of assistance in project. However, frankly speaking, I fail to relate the lecture content with my project. Therefore, I failed to fully understand and obtain the course content through the assessments and sometimes felt confused about our project direction. <br /><br />The grades will also consider the individual contributions to the group project. <br /><br />However, personally I would prefer the exams assessments, which is better for us to understand the course content.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "IlJCEZapkTfh8mAlXZ4Ns0xow4UwvP7E",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 128,
+          "name": "HUI, Pan",
+          "rating": 1
+        }
+      ],
+      "author": "Cici Jiang",
+      "date": "May 23, 2020",
+      "title": "",
+      "comment_content": "The following topics are included in this course<br />1. Social Media and Networks <br />2. Basic Network Properties &amp; Web Graph <br />3. Small-World Phenomena <br />4. Community Structure in Networks <br />5. Centrality<br />6. Power Law <br />7. Cascading Behaviour <br />8. Contagion and Viral Market<br />9. Influence Maximisation in Networks<br />10. Networks with Signed Edges <br />11. Graph Representation Learning <br />12. Graph Neural Networks <br />13. Network Evolution",
+      "comment_teaching": "the teaching materials are mainly using Stanford&#039;s lecture note",
+      "comment_grading": "70% group project (3 people per group)<br />30% assignment (4 assignments) <br /><br />Pan, Hui&#039;s course doesn&#039;t have any quiz, midterm and final.<br />The TAs are very helpful on the group project and provided a lot of resources and comments.",
+      "comment_workload": "depends on how much effort you put on your group project,<br />the assignments are not hard to finish",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "bKgTlPRU0hwsToyPOw9n6yMy9WWjsJ9Q",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 121,
+          "name": "KWOK, James Tin Yau",
+          "rating": 1
+        }
+      ],
+      "author": "dhlee",
+      "date": "May 31, 2019",
+      "title": "",
+      "comment_content": "Contents are interesting<br />You learn the basic concepts of network and basic means to analyze the network.",
+      "comment_teaching": "He is very good at teaching. He clearly explains the concepts. Some might feel he is too slow.",
+      "comment_grading": "Midterm and final are easy. If you work hard, you can easily get 100 for both exam. <br />20% assignment<br />25% midterm<br />55% final<br />Although I did not do well on the midterm, I score 1.7sd above the mean for final, and finally got A-.<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mean<br />Midterm: 74.91/ 100<br />Final: 70.41 / 100<br />Ass1: 17.72/ 20<br />Ass2: 75.4/ 100<br />Ass3: 85.49/ 100",
+      "comment_workload": "There are only three assignments. It does not take long time. One to two hours per assignments are fine.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 8,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "4EaKaxsCX5KNEmDpvQEBUju00CZHm6fv",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 121,
+          "name": "KWOK, James Tin Yau",
+          "rating": 1
+        }
+      ],
+      "author": "csisgood",
+      "date": "May 30, 2018",
+      "title": "Analysis The Social Network",
+      "comment_content": "Four points to conclude this course (TLDR):<br />1. Good Grading<br />2. Easy Midterm and Final <br />2. Light Workloads <br />3. Interesting Contents <br />4. Good Teaching and Clear Lecture Notes<br /><br />-----------------------------------------------------------------------<br />This course is about analyzing the social network data and the reason behind the formation of different social network. <br /><br />Interesting Contents<br />The contents of this course are quite funny. (e.g. Using some qualitative technique to find out the key person in a social network)<br /><br />And it is composed by three parts, <br /><br />1. Network properties and models <br />&nbsp;&nbsp;&nbsp;&nbsp;a. Social media and networks<br />&nbsp;&nbsp;&nbsp;&nbsp;b. Basic network properties and web graph<br />&nbsp;&nbsp;&nbsp;&nbsp;c. Small-world phenomenon<br />&nbsp;&nbsp;&nbsp;&nbsp;d. Community structure in networks<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Weak ties<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Structural holes<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Network communities<br />&nbsp;&nbsp;&nbsp;&nbsp;e. Centrality Measures<br />&nbsp;&nbsp;&nbsp;&nbsp;f. Network Formation<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Power-Law<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Mathematics behind<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Preferential attachment<br />2. Users behaviors and influence <br />&nbsp;&nbsp;&nbsp;&nbsp;g. Cascading Behavior<br />&nbsp;&nbsp;&nbsp;&nbsp;h. Viral Market<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Disease spreading<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Viral marketing<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Models of information spread<br />&nbsp;&nbsp;&nbsp;i. Influence Maximization<br />&nbsp;&nbsp;&nbsp;j.&nbsp;&nbsp;Signed Networks<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Structural balance<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii.&nbsp;&nbsp;Status Theory<br />&nbsp;&nbsp;&nbsp;k.&nbsp;&nbsp;User Evaluations<br />&nbsp;&nbsp;&nbsp;l. Homophily and Social influence<br />3. Social networking services and social factors in system design<br />&nbsp;&nbsp;&nbsp;m.&nbsp;&nbsp;Recommender systems<br />&nbsp;&nbsp;&nbsp;n.&nbsp;&nbsp;Link analysis: HITS and PageRank<br /><br />The Prerequisites are useless. The algorithms and the mathematics in this course are not complicated. <br /><br />If you have already learned some simple discrete math, calculus, statistics and linear algebra such as binomial distribution, expectation ,variance, matrix operations, integration and limit, graph theory (e.g. DFS, BFS), direct / indirect proof, eigenvalue and eigenvector. It is enough for you to handle all in this course.<br /><br />The contents of this course are almost the same as the course CS224W in Standford and some of the lecture notes are copys of that. <br />http://web.stanford.edu/class/cs224w/",
+      "comment_teaching": "Clear Lecture Notes<br />Most of the materials are coming from the course in Standford and they are well organized.<br /><br />Good Teaching<br />James is one of the best Professor in CSE, in terms of the teaching quality. I do recommend you to attend his lecture. He is a good story-teller.",
+      "comment_grading": "25% Assignments<br />25% Midterm<br />50% Final<br /><br />Easy Final and Easy Midterm<br />Memories all the things in lecture notes and you will get full mark in both midterm and final. And most of the questions in midterm and final are the type that give you some scenarios or data, and ask you to use the algorithms and models in the lecture notes to compute the results. No tricky part at all. <br /><br />Good Grading <br />~44&nbsp;&nbsp;= C+ (Low)<br />~61&nbsp;&nbsp;= B-&nbsp;&nbsp;(Below Mean) <br />~66&nbsp;&nbsp;= B-&nbsp;&nbsp;(Mean)<br />~90&nbsp;&nbsp;= B+&nbsp;&nbsp;(Around 2 SD)<br />~93&nbsp;&nbsp;= A-<br />It is not easy to get an A from James <br />And It is super easy to get a B.",
+      "comment_workload": "Light Workload. <br />3 easy assignments and probably can be finished within half an hour. The assignments contains both theory questions and practical questions. For theory parts, most of them are similar to the assignment in CS224W. For practical part, most of them are related to use MS Azure to analysis social network data or implement some algorithm using Python.<br /><br />The labs will teach you how to use MS Azure Platform to analysis social network data. If you have already known, just skip all of that.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 9,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

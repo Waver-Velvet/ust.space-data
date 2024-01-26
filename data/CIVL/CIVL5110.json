@@ -1,0 +1,116 @@
+{
+  "course": {
+    "id": 1923,
+    "subject": "CIVL",
+    "code": "5110",
+    "name": "Engineering Risk, Reliability and Decision",
+    "description": "Advanced reliability methods in engineering decision; Bayesian methods, system reliability and design, risk analysis, probabilistic observational method, Markov and availability models, random field, large-scale system simulation, decision with multiple objectives.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230,
+      2030,
+      1830,
+      1730,
+      1630
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"2160\" href=\"/review/CIVL2160\" target=\"_blank\">CIVL 2160</a> or equivalent",
+    "corequisites": "",
+    "exclusions": "CIEM 5810",
+    "rating_content": 2.5,
+    "rating_teaching": 4.5,
+    "rating_grading": 4.5,
+    "rating_workload": 3.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 61,
+        "name": "ZHANG, Li Min",
+        "count": 1
+      },
+      {
+        "id": 1699,
+        "name": "XIAO, Te",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "rzvc0us4876FI603NwuqwFlCFtwI0wD9",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1699,
+          "name": "XIAO, Te",
+          "rating": 1
+        },
+        {
+          "id": 61,
+          "name": "ZHANG, Li Min",
+          "rating": 1
+        }
+      ],
+      "author": "FuckUST",
+      "date": "May 30, 2023",
+      "title": "only if you got Matlab/advanced stat/ machine learning background (蠢人千奇唔好reg)",
+      "comment_content": "我year 4 讀的<br />比另一個comment累死<br />話乜excel <br />讀到一半同我講之後用mablab<br />我以為用excel先讀哩個course架+唔想讀chem eia個啲on9嘢<br />又唔想project <br />所以reg左 <br />唉 我add drop 要intern 所以冇睇啲note...... 如果唔係應該drop左<br />估唔到咁難<br />spring sem civil 其他選修真係太多狗屎垃圾 <br />揀唔落手 最後讀左哩個......<br />本身以為excel啦<br />sem中突然叫我去學校個網 download matlab<br />但狗屎垃圾科大只比啲staff免費用matlab(not sure)<br />我用佢比個ust 網完全見唔到matlab<br />而且望過ust software條list&nbsp;&nbsp;好似真係得staff可以用..<br />最後裝左crack版......<br /><br />you are dead wrong <br />if you think this course is just advanced civl2160 <br /><br />唔是講笑 真係可以讀到傻左<br />但哩個course應該算nice <br />我睇唔明note(佢note勁on9 啲example就係比matlab code你<br />然後冇解的) <br />example本身已經少 啲example係可以做做下唔做= =<br /><br />咁我去睇書 <br />更加唔知做乜春<br />所以哩個course其實比起真正啲stat course 已經cut左好多<br />然後我明白點解啲人讀stat可以讀到傻左......<br />我依家真係好respect stat撚<br />civl 2160真係bb班級數<br /><br />個人覺得內容難過曬civl ug 所有course <br />只係單純佢final手鬆<br />如果唔係我應該收左皮<br /><br />讀之前睇下<br />Probability Concepts in Engineering Emphasis on Applications to Civil and Environmental Engineering<br /> (好似civl 2160個本 但後面啲內容真係痴左線)<br /><br />professor一開始同我講ug要過3先讀得<br />我感想係 最少過3.7先好讀<br /><br />10個topic <br />我到依家仲有幾個topic唔明<br />Random Field到底乜春嘢嚟的<br />蠢人嘅悲哀...",
+      "comment_teaching": "走曬啲堂(唔係針對哩個course 我不嬲咩都走撚曬)<br />有時note 睇唔明 會睇下lecture video 點講 <br />係幫到我的 <br />不過stat對我哩個呃飯食又唔識coding嘅ug civil仔<br />實在太有難度 <br />(我會覺得哩個course 應該係6字頭......<br />佢嘅難度超過其他civl 4字頭嘅選修course 幾個次元)<br /><br />會示範excel點用 <br />Matlab code<br /><br />但兩個professor真係幾好人<br />感覺都好nice<br />email肯定會回<br />我有份功課唔記得左交 (一份hw 10%)<br />佢send email 話some people冇交功課 最遲幾日後交返比佢",
+      "comment_grading": "第一份好少少 真係用excel就ok<br />第二份 我完全唔識<br />去左睇example啲matlab code先做到 (我唔明的) <br />ppt 完全冇字解釋啲code......<br />不過我final前溫下書+睇lecture video 突然明左 <br />第三份 我唔覺得你會用excel做到<br />第4份反而最簡單<br /><br />好彩係得4份 如果唔係jump 都唔掂<br /><br />正常嚟講一個course有難有易<br />當我見第一份功課都難難地<br />諗住之後會易少少<br />然後發現我咁諗真是on9仔嚟的<br /><br />by the way<br />classmates你預大部分PHD 又CS高手 ( 拎A+個啲)<br /><br />功課全部包尾<br />hw prof極鬆手 我明明做錯左都比90%我<br /><br />final (openbook 好彩只可以用excel 如果要用matlab真係食得屎)<br /><br />T/F<br />3大題 有一題明送 (你睇得明exmaple應該識做)<br />B+ (少人嘅course 而且 pg level 自然比較靚龜)",
+      "comment_workload": "雖然得4份assignments同final<br />但啲assignments 冇source的 (而且都幾有難度)<br />然後其他master/phd student get full<br />你就含柒<br /><br />Except you got Matlab/ advanced stat/ machine learning background",
+      "rating_content": 2,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "wpccRyjgU33YxKJB7ivHNwfISQMK5wTs",
+      "semester": "2021-22 Spring",
+      "instructors": [],
+      "author": "Evanllll",
+      "date": "Jun 23, 2022",
+      "title": "",
+      "comment_content": "many euqations from class not PPT, even though we have record, better to listen. <br />Use a lot of Excel knowledge include exam and hw",
+      "comment_teaching": "not talk about all of content from PPT but most contents will include.",
+      "comment_grading": "10% Class participation<br />40% Assignments<br />50% Final examination<br />don&#039;t have any feedback, and don&#039;t know average grade. I got B or B+ or A don&#039;t remember. <br />Final exam doesn&#039;t have enough time to do.",
+      "comment_workload": "4 HW<br />most HW you can find steps from PPT and some questions you can find from book but no steps.<br />a little difficult for some questions",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

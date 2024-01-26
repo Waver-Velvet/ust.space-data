@@ -1,0 +1,106 @@
+{
+  "course": {
+    "id": 498,
+    "subject": "HART",
+    "code": "1041",
+    "name": "Singing on Stage",
+    "description": "This course aims at introducing the versatile qualities of singing and its important role in performing arts. It will start with individual singing, then progress to duet and ensemble singing. Singing techniques employed in various performances nowadays, such as pop singing, musicals and a cappella will be studied, analyzed and practiced. Furthermore, students will experience basic stage and body movement techniques and to incorporate them into singing to spice up a performance. No previous singing or performing experience is required.",
+    "categories": [
+      "Common Core (Arts)"
+    ],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      1710,
+      1610,
+      1510
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 896,
+        "name": "CHIU, Pak Shing",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "9qTPaMcHqlbHlZoSzpd3EqeO4oBVzxBr",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 896,
+          "name": "CHIU, Pak Shing",
+          "rating": 1
+        }
+      ],
+      "author": "uo3626",
+      "date": "Jan 13, 2018",
+      "title": "Very useful and inspiring course",
+      "comment_content": "One of the best course and surely the most interesting course I have taken in HKUST. Very different from any other course. Cover different singing techniques and body gestures, staging and performance. But the accapella part is removed due to limit of time. In the second half, requires much time to watch others&#039; performance instead of individual teaching.",
+      "comment_teaching": "The instructor can tackle each person&#039;s weak point and provide guidance on how to improve them. Very useful if you really want to improve singing in this course. Patrick is nice and makes you feel confident when performing.",
+      "comment_grading": "Very good.",
+      "comment_workload": "Attendance (10%) <br />Participation (15%) <br />Mid-term Performance (20%) : Sing a song from a given song list. Including staging and props.<br />Performance Review (15%) : Not much instructions given on this but it wasn&#039;t hard.<br />Final Performance (40%) : We didn&#039;t do accapella, just sing another song/same song from midterm. So it wasn&#039;t heavy workload.<br />No homework! which is good!",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "H0iVk1nHHYouqpoSJqC5bZxs6IWnTUeQ",
+      "semester": "2016-17 Fall",
+      "instructors": [],
+      "author": "C666",
+      "date": "Jan 23, 2017",
+      "title": "Good grade and fun course, recommend for students who love singing!",
+      "comment_content": "Accapella and some dancing. Can learn useful techniques in singing. you can choose to sing pop songs in the beginning lessons.But the individual exams song are operal songs, final exams are accapella songs ( sammi 唯獨你是不可取替 and Justin Bieber&#039;s Baby) in accapella format.",
+      "comment_teaching": "Teacher name: patrick. Good. The lesson atmosphere is good ad relaxing as the classmates are quite fun, a lot of jokes.",
+      "comment_grading": "A",
+      "comment_workload": "concert review, extra practices for the final performance. Very light workload if you really love singing.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

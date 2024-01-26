@@ -1,0 +1,76 @@
+{
+  "course": {
+    "id": 2092,
+    "subject": "MECH",
+    "code": "5480",
+    "name": "Nanocomposite Science and Technology",
+    "description": "This course is designed to provide fundamental understanding of emerging nanocomposite materials science and technology.  The topical areas to discuss include synthesis of various nanoscale reinforcements, such as nanowires, nanotubes, and inorganic nanoparticles; fabrication and processing techniques of nanocomposites; dispersion of nanoreinforcements; interfacial adhesion; mechanical and functional properties of nanocomposites including gas/moisture barrier characteristics, electrical and magnetic properties, thermal properties and flame retardancy; molecular dynamic simulations; design and applications of nanocomposites.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1930,
+      1830,
+      1730,
+      1630
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "NANO 5500",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 568,
+        "name": "KIM, Jang Kyo",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "k0EVao4AZ5L1hE62Y7FvP9lx58feeE1F",
+      "semester": "2012-13 Spring",
+      "instructors": [
+        {
+          "id": 568,
+          "name": "KIM, Jang Kyo",
+          "rating": 1
+        }
+      ],
+      "author": "Brucele",
+      "date": "Jun 05, 2020",
+      "title": "",
+      "comment_content": "This is a course on the processing and characterization of composite materials containing nanosized fillers. the course has a balanced content in terms of depth and width, covering wide topics with special focus on the challenging issues in the fabrication of nanocomposites. the course also covers the most advanced topics and state-of-the-art development of composite materials with discussions on the most recent publications in the field.",
+      "comment_teaching": "Prof Kim is very approachable and likes to ask questions during lectures to make the classroom less boring. He is one of the most distinguished scholars in the field of composite materials and with significant insight the topic he teaches. i really enjoy the lecture.",
+      "comment_grading": "The grading is good. Nothing to complain",
+      "comment_workload": "No homework for the course so the load is relatively light. only an essay to write during the semester.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

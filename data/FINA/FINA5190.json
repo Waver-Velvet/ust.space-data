@@ -1,0 +1,83 @@
+{
+  "course": {
+    "id": 2007,
+    "subject": "FINA",
+    "code": "5190",
+    "name": "Family Business",
+    "description": "This course is tailored for individuals who are currently working in or are contemplating to work in a family business, either as a family member or a non-family executive. The material covered also gives greater understanding of the dynamics of family business for current or future private and investment bankers, family office professionals, accountants, lawyers and other service professionals working closely with families of wealth in the region.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2330,
+      2310,
+      2230,
+      2210,
+      2110,
+      2030,
+      2010,
+      1930,
+      1830,
+      1730,
+      1630
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 988,
+        "name": "PENG, Qian",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "bt6FTjtuSwl33PlwxlDoqOvbtdVxg0YR",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 988,
+          "name": "PENG, Qian",
+          "rating": 1
+        }
+      ],
+      "author": "PIGGY",
+      "date": "Jan 30, 2023",
+      "title": "",
+      "comment_content": "Compared to traditional finance theory, family business, especially in Asia,&nbsp;&nbsp;can be a subject where academia pays less attention. The content is interesting, especially if you want a class that can bring you some fresh content, while not having too much workload.",
+      "comment_teaching": "Teaching is clear and intuitive. There were required reading everything lecture, but th",
+      "comment_grading": "Grading is fair. Most students will not feel difficult to follow the lecture, and can expect a average of B to B+. Working a bit hard can get you a A- to A.",
+      "comment_workload": "There will be a lot of short assignments every 1 or 2 weeks, but they only need maximum 1-3 hours. No finals, only a presentation in the end. Participation is worth 20% of the grade.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

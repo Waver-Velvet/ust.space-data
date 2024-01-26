@@ -1,0 +1,116 @@
+{
+  "course": {
+    "id": 1776,
+    "subject": "LANG",
+    "code": "5070",
+    "name": "Advanced Critical Writing for Academic Purposes",
+    "description": "For students of the MSc in Global China Studies. The course aims to develop students' ability to produce written texts of a range of genres, appropriate to the academic context, and demonstrating adequate control of syntax, lexis and style.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2130,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "LANG 5070H (prior to 2017-18)",
+    "rating_content": 4.5,
+    "rating_teaching": 4.5,
+    "rating_grading": 4,
+    "rating_workload": 5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 462,
+        "name": "LEE, Joyce Yuen Yee",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "aBXC2ubsKCVVnEqMmEIBI9xElld23UKT",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 462,
+          "name": "LEE, Joyce Yuen Yee",
+          "rating": 1
+        }
+      ],
+      "author": "Raven.Xu",
+      "date": "Aug 01, 2023",
+      "title": "很难评是否推荐",
+      "comment_content": "如果是陆本，本科有数据分析论文相关经验的（真正好好写的那种）或者学校比较强的（意味着可能接受过较好的学术训练），会觉得课上讲的内容没太大价值，就是些很基础的东西，但是你还要在老师自己可能都不太懂学术的情况下强行应和……老师是language center的老师，教英语出身的，很难指望能在人文社科领域教得深入。",
+      "comment_teaching": "1.互动很多很多很多，适合爱发言的同学<br />2.喜欢小组讨论+换座位讨论<br />3.阅读材料多，需要课前看一看<br />4.看出勤，因为小班化教学，所以老师会记住每个人（不好翘课）<br />5.点评和给分比较mean，虽然老师私下里人不错吧",
+      "comment_grading": "据说2022-23秋季的给分很微妙，不好评价。",
+      "comment_workload": "1.在GCS里是workload比较小的，平时小作业会多一些（相比其他课程还好啦），期末作业比较愉快<br />2.因为这门课在学期初就会介绍完整的安排，有些同学会觉得这门课比较麻烦。其实是因为MGCS其他不少课程在开学初不会亮出真实的workload，很多看似水课的课程后来workload越来越大，所以整体而言这门课的workload是非常友好的，没有对比就没有伤害hhh<br />3.如果是想水一个MGCS学位，可以选这门课~",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "kXk9Jcal27xPAc9a3O58vWwPR8Ju9Kn1",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 462,
+          "name": "LEE, Joyce Yuen Yee",
+          "rating": 1
+        }
+      ],
+      "author": "JosephineH",
+      "date": "Feb 02, 2023",
+      "title": "5070",
+      "comment_content": "很豐富的內容，可以學到很多關於學術寫作的東西",
+      "comment_teaching": "很喜歡跟學生互動，讓學生們自己討論，很負責，每個作業都會給詳細的評價",
+      "comment_grading": "給分很高， A+",
+      "comment_workload": "平時比較累，每個禮拜都有小作業，但期末較其他科目輕鬆，只有一千字左右的lit review",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "course": {
+    "id": 1720,
+    "subject": "FINA",
+    "code": "7900D",
+    "name": "Doctoral Seminar: Empirical Asset Pricing",
+    "description": "Part one of the course covers various issues and empirical methods in asset pricing studies. Empirical issues regarding time-series properties of asset prices are discussed first, followed by the cross-sectional implications of asset pricing models. Applications in bond, currency, and futures markets will also be discussed. Part two of the course is designed to provide students with the exposure to empirical finance, with the focus on investment and behavioral finance.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"7900B\" href=\"/review/FINA7900B\" target=\"_blank\">FINA 7900B</a> (or FINA 790E prior to 2011-12)",
+    "corequisites": "",
+    "exclusions": "FINA 790C prior to 2011-12",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

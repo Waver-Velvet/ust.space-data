@@ -1,0 +1,80 @@
+{
+  "course": {
+    "id": 343,
+    "subject": "ELEC",
+    "code": "4510",
+    "name": "Semiconductor Materials and Devices",
+    "description": "This is an introductory course for semiconductor materials and devices. The course content includes the following topics: the growth and properties of semiconductor crystals; the theory of the electronic structures of atoms and solids; the energy band and conduction mechanisms in semiconductors; the physics of junction diodes; excess carriers; bipolar junction transistors (BJT); metal oxide semiconductor field-effect transistors (MOSFET).",
+    "categories": [],
+    "website": "http://course.ee.ust.hk/elec4510",
+    "credits": 3,
+    "semesters": [
+      2230,
+      2130,
+      2110,
+      1830,
+      1730,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"3500\" href=\"/review/ELEC3500\" target=\"_blank\">ELEC 3500</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 1,
+    "rating_teaching": 1,
+    "rating_grading": 3,
+    "rating_workload": 3,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 185,
+        "name": "LAU, Kei May",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "UhKT632VQA0jhaDv05Bgk8WhlZ4d5jC1",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 185,
+          "name": "LAU, Kei May",
+          "rating": 1
+        }
+      ],
+      "author": "Observer",
+      "date": "Sep 01, 2021",
+      "title": "",
+      "comment_content": "A large part of it just repeat what has been covered in 3500, but it is confusing.&nbsp;&nbsp;Initially I think I know the material from 3500, but I was totally confused after this class.",
+      "comment_teaching": "Traditional teaching style, very boring and I felt sleepy.&nbsp;&nbsp;Then missed most of the classes.&nbsp;&nbsp;It maybe better if it is taught by a different instructors.&nbsp;&nbsp;3500&#039;s approach with more drawing than equation is much better.",
+      "comment_grading": "Seems to be fair according as there are not that many students in the class.",
+      "comment_workload": "Workload is reasonable, and it is probably the only good part of the class.",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

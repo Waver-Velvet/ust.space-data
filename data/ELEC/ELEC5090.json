@@ -1,0 +1,76 @@
+{
+  "course": {
+    "id": 1664,
+    "subject": "ELEC",
+    "code": "5090",
+    "name": "Advanced Photonics Technologies",
+    "description": "A brief review of modern optics theories, Fourier optics based devices and systems, fundamentals of laser physics, optoelectronics, nonlinear optics and laser spectroscopy.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2210,
+      1910,
+      1710,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 180,
+        "name": "POON, Andrew Wing On",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "iQWx8quK9VZrgUIg3444L4Nn2jxY2g30",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 180,
+          "name": "POON, Andrew Wing On",
+          "rating": 1
+        }
+      ],
+      "author": "tinyzsmj",
+      "date": "Feb 08, 2023",
+      "title": "Good professor with deep understanding of physics",
+      "comment_content": "This course includes many topics in photonics such as classical light-material interaction, quantum theory, nonlinear optics, laser theory. The professor will change topics according to the research fields of the enrolled RPG student. In our semester, many people research about nonlinear optics and professor spent lots of time discussing about nonlinear optics. You can email the processor to ask him to talk about something you are interested.",
+      "comment_teaching": "Professor Andrew is a very nice person who has very deep understanding of the physics, not only in opitcs but also other fields. His teaching is very interesting and involves detailed discussion about the fundamental principles. Sometimes the discussing can be so deep that it slows down the pace of the course. He could answer almost all the questions about basic physics",
+      "comment_grading": "4 Assignments<br />2 presentation with proposal.<br />As long as you finished all the required parts, it&#039;s easy to get an A.",
+      "comment_workload": "The assignment is not hard as long as you have training on opitcs and electromagnetic theory. But the workload of the assignment is not very small because there are many questions in the assignment. The presentation needs to be related with the course, you&#039;d best explain your topic with very fundamental theory in the course clearly. It takes some time to prepare.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

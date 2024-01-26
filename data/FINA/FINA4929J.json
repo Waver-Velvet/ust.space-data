@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 2277,
+    "subject": "FINA",
+    "code": "4929J",
+    "name": "Behavioral Finance",
+    "description": "This course discusses behavioral finance concepts. Topics include traditional finance approach, behavioral finance approach, limits to arbitrage and market anomalies, psychological foundations in cognition, emotion and social forces, and heuristics and behavioral biases.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1710
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"3103\" href=\"/review/FINA3103\" target=\"_blank\">FINA 3103</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 238,
+        "name": "LAI, Man Kit",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "xZyA96AKVVItagaY4FwBMu2plVRpuso0",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 238,
+          "name": "LAI, Man Kit",
+          "rating": 1
+        }
+      ],
+      "author": "Zach",
+      "date": "Jan 09, 2018",
+      "title": "",
+      "comment_content": "A mix of psychology and traditional finance concepts -not the most useful content for work in the real world IMO, but a rare gem for grade boosting",
+      "comment_teaching": "Despite the constant slide reading, he is very willing to clarify and&nbsp;&nbsp;go through any confusions you might have regarding the concepts covered in class",
+      "comment_grading": "Grading is fair, just make sure you leave enough time to cover all the materials taught before the final",
+      "comment_workload": "Workload is small, only comprises of a group case study and a final exam which are all MCQs.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "course": {
+    "id": 2353,
+    "subject": "SOSC",
+    "code": "1210",
+    "name": "First-Year Seminar for Quantitative Social Analysis",
+    "description": "This two-semester induction course is designed to facilitate the transition of Quantitative Social Analysis (QSA) students into university life. For QSA students only.",
+    "categories": [],
+    "website": null,
+    "credits": 1,
+    "semesters": [
+      2130,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.43,
+    "rating_teaching": 4.57,
+    "rating_grading": 4.29,
+    "rating_workload": 5,
+    "review_count": 7,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 661,
+        "name": "CAMPBELL, Cameron Dougall",
+        "count": 7
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "iTsQcpn4vM8uDTiQ4P173dj4ydIkw8Z1",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 661,
+          "name": "CAMPBELL, Cameron Dougall",
+          "rating": 1
+        }
+      ],
+      "author": "ZoeSiu",
+      "date": "Aug 17, 2020",
+      "title": "入學基本知識",
+      "comment_content": "基本上就係入學須知，講下學校有咩服務，例如心理輔導、career center。仲會講下D未來出路相關嘅嘢，例如internship、海外留學同minor D野。",
+      "comment_teaching": "professor好好人，如果我地多人出席可以唔take attendance。不過少人就要。<br />每次都係唔同嘉賓出離講野，D資訊都好足。",
+      "comment_grading": "其他人唔知點，但通常都好grade。我之前兩份assignment都遲交，不過都有B，所以唔洗擔心。",
+      "comment_workload": "有兩個reflection要寫下。一個係你之後想做D咩，同未來出路有關。另一個係關於你之後會上咩堂果個excel表，要將你之後讀嘅所有科寫曬出離。其實都係驚你讀漏姐。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "lwivnh1a9tnuZ5gZLbLtl4fM8BJgNeqc",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 661,
+          "name": "CAMPBELL, Cameron Dougall",
+          "rating": 1
+        }
+      ],
+      "author": "oc2pus",
+      "date": "Jan 23, 2020",
+      "title": "",
+      "comment_content": "Boring. QSA students have no chance but to take it. Let&#039;s just face it. Each week, different speakers from different parts of the university to introduce what you can make use of in the campus.",
+      "comment_teaching": "Professor is enthusiastic, but he is not going to be the lecturer the most of the time.",
+      "comment_grading": "Don&#039;t forget the class and assignments. The professor calls the attendance every time. However, the course is only 1 credit. It would not kill your grade.",
+      "comment_workload": "Not so much workload. It helps you get a rough guideline of your course and you need to do it at some point.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ZQRX2Gb33rKKZ6hZed4jBJQO3HascLUL",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 661,
+          "name": "CAMPBELL, Cameron Dougall",
+          "rating": 1
+        }
+      ],
+      "author": "hophophop",
+      "date": "Nov 21, 2019",
+      "title": "Just like class teacher time in secondary school",
+      "comment_content": "just listen to guests talk about things in UST <br />I don&#039;t think that the contents are useful<br />Just tell you something that you already know<br />or things that doesn&#039;t matter",
+      "comment_teaching": "Just so boring<br />Nothing you can get actually<br />Just listen to the speaker<br />Students did their stuff quietly",
+      "comment_grading": "Not yet graded but should not be so bad<br />I don&#039;t think that there will have a person get C+",
+      "comment_workload": "Super light workload<br />One homework abt yr goal<br />One homework abt planning what you study in the coming 4 yrs",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "YnLgm9rSdm2aIrzrRzXeUrS6JT6z8e2y",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 661,
+          "name": "CAMPBELL, Cameron Dougall",
+          "rating": 1
+        }
+      ],
+      "author": "garbage",
+      "date": "Oct 30, 2019",
+      "title": "",
+      "comment_content": "Introduction of how the academics of the school works (e.g. double majors, minors) and the departments of the school including the career center or so",
+      "comment_teaching": "Pretty good. The introduction is pretty useful.",
+      "comment_grading": "The grade consists of participation and assignment and discussion, have not got the results so I am not sure that it is good or not but since this is a one credit course it would probably not affect the GPA that much.",
+      "comment_workload": "It is nearly zero considering that there are only two major assignments and these two assignments only requires one hour work.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "PiCwVftPBefXcyRpbT8x5HPlg2QM2ffu",
+          "name": "SOSC 1210 2019 F syllabus (1)",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "ULq9tlN52MTGKMrmSSTlugoOQLEzLd64",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 661,
+          "name": "CAMPBELL, Cameron Dougall",
+          "rating": 1
+        }
+      ],
+      "author": "reosaki",
+      "date": "Jan 09, 2018",
+      "title": "不上白不上，上了不吃亏",
+      "comment_content": "The similarity between SOSC1200 and SOSC1210 is that the content of the class is made up of different aspects from different instructors or staffs.<br /><br />In the beginning, Cameron will check your attendance, while in the last weeks of the semester due to the content is not closely related to everyone in the class so attending the class is optional. It&#039;s considerate of Cameron to briefly introduce the content of the course that week and inform us whether attendance is needed on Canvas.<br /><br />As QSA was first established in 2017 so it seemed that in the first set of courses Cameron just tried his best to convince us that there could be good future respects for us if we complete our course and get experienced when studying in the University. Since there are only a few majors similar to QSA around the world so we can only believe him and convince ourselves...<br /><br />Weeks later the content is much more interesting. Cameron invited staffs from Language Center, Entretership Center, Redbird, etc. to introduce how to make good use of opportunities provided by HKUST. Introduction of double major and minors are also included. <br /><br />In November we are required to participate in a library workshop telling us where and how to find good data for social science research. According to the workshop, you need to write some paragraphs of what will you do to use data to work for the social science topic which you are interested in. Apart from data collection, you need to come up with 2 short briefing for your research interest and study plan. I&#039;m not sure whether they will work for the rest of my life(啥= =) but you will think about your future when completing them.",
+      "comment_teaching": "Cameron is not the kind of person who can deliver good presentations. As the classes in this semester are both introductory so he acted more like a guide rather than an instructor. But he will give you all the knowledge and experiences he has.<br /><br />BTW a friend of mine who took SOSC5110 this semester said he was really strict in the research tutorial.<br />Bad news.",
+      "comment_grading": "A little disappointed that he only gave me an A.<br /><br />Full points for attendance and participation.<br />4/5 for research interest.<br />5/5 for data collection.<br />5/5 for study plan.<br /><br />It seems that if you want to get an A+ you need to get full points and have good luck.",
+      "comment_workload": "Very light as a 1-credit course.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "4JG8JUJvahVfHeGaMfMclDk8oEkU2dPg",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 661,
+          "name": "CAMPBELL, Cameron Dougall",
+          "rating": 1
+        }
+      ],
+      "author": "BBC",
+      "date": "Jan 03, 2018",
+      "title": "",
+      "comment_content": "You can know about what is your future career, who is going to help, what is going on with the exchange and what the curriculum of QSA is really about, etc.<br /><br />Quite fun, quite easy, useful information. What you would expect in a 1-credit course.",
+      "comment_teaching": "Teaching is good, professor is knowledgeable and caring.",
+      "comment_grading": "I missed one attendance and I dropped a grade. I am sorry, but is it too harsh? DON&#039;T MISS YOUR ATTENDANCE.",
+      "comment_workload": "Only a data collection, claim of interest and a plan for study, really nothing at all, I couldn&#039;t even feel the workload&#039;s existence, it is a 1-credit course and the workload is a 1-credit workload, fair.<br /><br />No final, no mid-term, no nothing.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "qwFTQ5vcuFQyCmRKmGRGRuyDyULQ3iav",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 661,
+          "name": "CAMPBELL, Cameron Dougall",
+          "rating": 1
+        }
+      ],
+      "author": "PTMS",
+      "date": "Dec 07, 2017",
+      "title": "",
+      "comment_content": "This course basically is try to lead year 1 QSA student to be familiar with and prepare for their study in HKUST.",
+      "comment_teaching": "Every week with have some new topics to talk about, for example: exchange, school policy, internship, QSA major requirement discussion etc... I think the content with be different in every year. But overall is quite good, and i think it worth your time to attend this course.",
+      "comment_grading": "The program leader told us it will be P/F grading, but even if this is an A-F grading, it is just 1 credit course so it wont affect your GPA much.<br />And it counts attendance, so you better not to skip this lesson.<br />Update: It is A-F grading, and I got an A, A is easy to obtain but A+ is hard",
+      "comment_workload": "You are required to write 2 short paragraphs about&nbsp;&nbsp;your statement of interest and goals and your study plan.I would say very light workload, because it just require 15 mins then you can finish the whole thing. These 2 assignment are not really an assignment more like a plan for your study in HKUST, and both just assignment just required 250 words of discussion, so if you are not a deadline fighter then you will be fine.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

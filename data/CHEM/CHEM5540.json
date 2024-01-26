@@ -1,0 +1,78 @@
+{
+  "course": {
+    "id": 1605,
+    "subject": "CHEM",
+    "code": "5540",
+    "name": "Chemistry for Advanced Materials",
+    "description": "Chemistry of materials with nano-dimensional structures and advanced functionalities. Working principles of liquid-crystalline displays and organic light-emitting diodes. High-tech applications of luminescent materials in optoelectronic systems, chemical sensors and biological probes.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"4220\" href=\"/review/CHEM4220\" target=\"_blank\">CHEM 4220</a>, NANO 5100",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1002,
+        "name": "CHEN, Qing",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "eDGRRahhWOzVR8qRyevQiTQr7atv2sxu",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1002,
+          "name": "CHEN, Qing",
+          "rating": 1
+        }
+      ],
+      "author": "KristyLWK",
+      "date": "Aug 24, 2021",
+      "title": "",
+      "comment_content": "The content is easy to follow",
+      "comment_teaching": "Good teaching",
+      "comment_grading": "I didn&#039;t get a very high marks in the mid term exam and assignment, like just slightly above the average but not the top one. Still, I get a A in the course.",
+      "comment_workload": "The assignments were short and not that difficult. There is only one midterm exam but no final exam. For the final essay, we can choose the topic by ourselves as long as it related to materials. It is relatively easy that you can choose the topic you are familiar",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

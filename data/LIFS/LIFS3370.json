@@ -1,0 +1,88 @@
+{
+  "course": {
+    "id": 2856,
+    "subject": "LIFS",
+    "code": "3370",
+    "name": "Human Genetics in Practice",
+    "description": "This course will impart essential skills for communicating science to a lay audience in the laboratory setting. Students will work in groups to devise a mini‐laboratory course for detecting human genetic variants. They will then serve as instructors of the course in outreach workshops for high school students. Approval of the course instructor is needed for students to enroll in this course. For LIFS students only.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030,
+      1930,
+      1830
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"LIFS\" data-code=\"3110\" href=\"/review/LIFS3110\" target=\"_blank\">LIFS 3110</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 477,
+        "name": "TANG, Jessica Ce Mun",
+        "count": 1
+      },
+      {
+        "id": 488,
+        "name": "MAK, Ho Yi",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "fRYYJH5K1E3ZFvNJHr7TQXP3hXZbSzKX",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 488,
+          "name": "MAK, Ho Yi",
+          "rating": 1
+        },
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        }
+      ],
+      "author": "yyyyyyyy",
+      "date": "May 11, 2021",
+      "title": "If you love teaching and wanna more lab practice, This course is ideal for you",
+      "comment_content": "&quot; Using molecular biology techniques, students will optimize experiments for detecting specific human genetic variants in an iterative process. A laboratory manual will be composed by the students, which will be used in outreach workshops for participants from high schools. Students will be trained to give introductory presentations and laboratory instructions effectively prior to the workshops. &quot;<br /><br />So basically, you will:<br />- Work out with SNPs<br />- Learn how to design primers<br />- Optimizing lab protocol (DNA extraction, purification etc)<br />- Make a lab manual <br />- Do a few presentations<br />- Carry out a workshop<br /><br />If you are a experience learning guy like me, you will love this course. Even though you have merely no lab experience, like most of us under the covid-setting. You will be fine in here.",
+      "comment_teaching": "Both of them are dedicated in this course and they teach especially well both in tutorials and the lab settings. You will learn quite a lot of practical skills.<br /><br />Prof Mak always said that he will give brutal advise and questions, but to be frank, he is very nice.",
+      "comment_grading": "Composition of a laboratory manual 40%<br />Laboratory skills 25%<br />Oral presentation 20%<br />Participation 10%<br />Feedback from workshop participants 5%<br /><br />Grade haven&#039;t been released so I can&#039;t tell",
+      "comment_workload": "When the workload of this course is light, only need to do a few presentations and the lab manual. Especially you are one of the BIBU students, preparing slides is just a piece of cake for you.<br /><br />One thing to take home is that, finding teammate who is good at present and teaching is kinda essential, so try to mingle with your classmates at the beginning of the course. You won&#039;t want a teammate who will brings negative effect to your presentation and your lab work. <br /><br />But its kinda&nbsp;&nbsp;&nbsp;&nbsp;t i m e&nbsp;&nbsp;&nbsp;&nbsp;c o n s u m i n g&nbsp;&nbsp;, you are expected to come to the lab to test out the protocol and primers 3-6 hours per week. Moreover, there will be a workshop right before the study break, making your study schedule extra tight.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

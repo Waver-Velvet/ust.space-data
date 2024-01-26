@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 3192,
+    "subject": "ISOM",
+    "code": "6000L",
+    "name": "Information Systems Practicum",
+    "description": "This course focuses on information systems project development and implementation. Students will work in a team under faculty supervision to analyze, design, and implement information systems solutions in a real-world business setting. They will work with a sponsor organization in developing the project.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      1930
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

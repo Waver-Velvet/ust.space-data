@@ -1,0 +1,115 @@
+{
+  "course": {
+    "id": 3523,
+    "subject": "FINA",
+    "code": "4929O",
+    "name": "Introduction to Artificial Intelligence and Big Data in Finance",
+    "description": "This course will provide an overview of the main branches of AI and Big Data and also expose students to real world industry use cases to understand the effect that AI will have on the Finance industry. After the course, students will be able to identify and leverage AI and Big Data to enhance and/or disrupt business models while keeping in mind social and ethical considerations. The course is also intended to aid the thinking and personal development of students so that they themselves are better able to adapt to the future job market in Finance and beyond.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2210,
+      2110
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"3103\" href=\"/review/FINA3103\" target=\"_blank\">FINA 3103</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4.5,
+    "rating_grading": 4.5,
+    "rating_workload": 4.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1405,
+        "name": "PEREIRA, Kevin Charles",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "yKHvcqyyJwfiodpwZAgb5Zr6sqUKZVSj",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1405,
+          "name": "PEREIRA, Kevin Charles",
+          "rating": 1
+        }
+      ],
+      "author": "anki",
+      "date": "Feb 10, 2022",
+      "title": "Brilliant teaching and contents",
+      "comment_content": "Introductory level of AI and its popular subcategories<br /><br />- Introduction of AI<br />- Introduction of AI in Finance<br />- Machine learning &amp; use cases in Finance<br />-",
+      "comment_teaching": "Excellent teaching.<br /><br />Prof got the very nice pronunciation&nbsp;&nbsp;and clear logic flow, so i kinda enjoy his speaking.<br /><br />Though it&#039;s a 3hr lecture, he gives 3*10min break, which makes it more acceptable.<br /><br />Also the cases he provided are really updated and highly adopted in finance.<br /><br />He is also very patient and passionate in answering questions regarding both lecture contents/ AI field and your career path.<br /><br />You can see a perfect combination of his industry knowledge and the ability to teach.",
+      "comment_grading": "see above.<br /><br />my grades:<br />- midterm1: mean<br />- midterm 2: high<br />- final: 1SD above mean<br />- group project (presentation and report): mean<br /><br />PAY ATTENTION TO his words and some mentioning in class (NOT IN SLIDES), which will be tested in exams.<br /><br />attendence is no big deal.<br /><br />final grade: B+<br /><br />i think it&#039;s better than the average grading of a finance course.",
+      "comment_workload": "Relatively light.<br /><br />just review the slides and lecture videos 1 or 2 days before exams and you will be fine.<br /><br />the project is quite flexible in terms of topic choice (our group even chose a use case that was introduced in the lecture and we dig deeper) and coverage.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "cvRGo185lAiJ7QBW8MMZPw2NNWyReMNi",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1405,
+          "name": "PEREIRA, Kevin Charles",
+          "rating": 1
+        }
+      ],
+      "author": "holam",
+      "date": "Dec 17, 2021",
+      "title": "FINA 4929O",
+      "comment_content": "Refer to the attached syllabus.<br />An AI/ Big data course without any coding. Only talk about concepts.<br /><br />He will not publish slides before the class and he claims that he does not encourage ppl to write down every words he is saying. However, please note that the words he said in class will be tested. Every MC in exam is &quot;According to the lecturer/ class discussion&quot;. There is lecture video provided, but the quality is not very good.",
+      "comment_teaching": "His teaching is already above average. Some students think he gives interactive class, still some of the chapters are boring.<br /><br />His mic is having too little sound. Some words are not clear.",
+      "comment_grading": "Midterm 1 (15%)&#039; 30 MC in 45 minutes&nbsp;&nbsp;<br />Mean = 26.52/30&nbsp;&nbsp;SD = 2.19&nbsp;&nbsp;Min = 19&nbsp;&nbsp;Max = 30<br />Midterm 2 (15%) 30 MC in 30 minutes<br />Mean = 26.24/30&nbsp;&nbsp;SD = 2.79&nbsp;&nbsp;Min = 14&nbsp;&nbsp;Max = 29<br />Final (35%) 90 MC in 90 minutes<br />Mean = 69/90&nbsp;&nbsp;No other statistics<br />Group Project (35%) 5 ppl a group, 20 minutes presentation, 5 min Q&amp;A, 1000 word report<br />Mean = 27.73/35&nbsp;&nbsp;Max = 35<br /><br />Total mean = 81<br />Letter grade: A (my total score = 88)<br />In terms of FINA course should be super good grade.",
+      "comment_workload": "Low workload as compared to other FINA-4000 level course. <br />No assignment!<br />All exam are MC so it reduces workload also.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "d3AbPFnCpotMvAm11Lem61ooQ8QldtC0",
+          "name": "FINA 4929O Syllabus",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "course": {
+    "id": 426,
+    "subject": "FINA",
+    "code": "2102",
+    "name": "Introduction to Finance",
+    "description": "For Quantitative Finance students only.  The course aims to provide orientation to students to help them prepare for academic studies and understand the finance industry.  The course starts with a lecture series to provide student with an overview of financial markets and institutions and raises their awareness about finance issues.  It will be followed by company visits whereby students are taken to major financial institutions and corporations and meet with company representatives.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      1510,
+      1420,
+      1410
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 239,
+        "name": "LAFON-VINAIS, Veronique J A",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "aQjAi8Ex6Fqdh1BXXWiOb71mvi2qFkPy",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 239,
+          "name": "LAFON-VINAIS, Veronique J A",
+          "rating": 1
+        }
+      ],
+      "author": "Brian_Cheung",
+      "date": "Sep 05, 2017",
+      "title": "",
+      "comment_content": "The course covers various topics of the finance world, including banking and capital markets. Firm visits to financial institutions are also included at the end of the semester.",
+      "comment_teaching": "The instructor has extensive experience in the finance industry and knows the topics covered very well. She teaches the topics in an interactive manner where students are expected to get involved from time to time.",
+      "comment_grading": "Given it&#039;s a small class, the grading scale should be a bit different from the ordinary scale, which largely depends on the ranking in class.",
+      "comment_workload": "The course starts in the middle of the semester, and the workload of it basically comes only from the required hour-long presentation. Participation in the firm visit event is also required at the end of the semester.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

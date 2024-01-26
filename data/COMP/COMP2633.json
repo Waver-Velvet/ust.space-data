@@ -1,0 +1,173 @@
+{
+  "course": {
+    "id": 3750,
+    "subject": "COMP",
+    "code": "2633",
+    "name": "Competitive Programming in Cybersecurity I",
+    "description": "Cyber-attacks mounted by malicious attackers have been creating significant damage to various companies and individuals around the globe in the recent years; cybersecurity is now a high priority consideration for the major businesses worldwide. To deepen the practical knowledge in fighting against the cybersecurity threats, cybersecurity competitions are being organized every year by various institutions and organizations. This course prepares interested students with the practical knowledge for taking part in cybersecurity contests. The course will be offered as a 0-credit course in the Fall semester. Enrolled students will learn the common topics in the first 5 weeks of the Fall, getting trained in fundamental knowledge of cybersecurity. Then they will divide into two tracks in the remainder of the Fall. One track will be concentrating on topics like binary analysis, reverse engineering, the other track will be concentrating on topics like web exploitation, cryptography, computer forensics, and other miscellaneous topics. Graded P or F.",
+    "categories": [],
+    "website": null,
+    "credits": 0,
+    "semesters": [
+      2310,
+      2210
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"3633\" href=\"/review/COMP3633\" target=\"_blank\">COMP 3633</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"4633\" href=\"/review/COMP4633\" target=\"_blank\">COMP 4633</a>",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 4.75,
+    "rating_workload": 1.5,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 799,
+        "name": "LAM, Ngok",
+        "count": 3
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "nWWZwlXzYOwPRsrK0DD5bFnGqRYufzdQ",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 799,
+          "name": "LAM, Ngok",
+          "rating": 1
+        }
+      ],
+      "author": "HakkaEason",
+      "date": "Dec 13, 2023",
+      "title": "Heaven and Hell - Welcome to the entry of cybersecurity &amp; CTF",
+      "comment_content": "You can refer to previous review by my mates for the overview of this course, in this review, I would talk more details about the content.<br />=========TBC after my COMP3511 final exam XP===========<br />Taught topics:<br />Basic training weeks:<br />Week 1: Linux basics (commands + file structure) &amp; Command line interface basics, Regex, Local File Inclusion<br />Week 2: Encodings, hashes, Network, Python basics, introduction to pwntools<br /><br />Advanced Training weeks (Tracks - A,B):<br />Week 3: <br />A - Reverse 101: Introduction to Binary Executables, Assembly Language (mainly x86_64 in this course - registers, syntax), Tools: (e.g. Ghidra)<br />B - <br />Week 4: <br />A -<br />B -<br />Week 5: <br />A -<br />B -<br />Week 6: <br />A -<br />B -<br />Week 7: <br />A -<br />B -<br />Week 8: <br />A -<br />B -<br />Week 9: <br />A -<br />B -<br />Week 10: <br />A -<br />B -<br /><br />Related courses/areas (as far as I know):<br />COMP1021: Python<br />COMP2012: Object-Oriented Programming (C++) and Data Structures <br />COMP2711: Discrete Mathematical Tools for Computer Science (RSA)<br />COMP3511: Operating System<br />COMP3632, COMP4632: Principles of Cybersecurity<br />COMP3711: Design and Analysis of Algorithms (sorting, dynamic programming, shortest paths, etc)<br />COMP4021: Internet Computing<br />MATH2121: Linear Algebra<br />MATH3121: Abstract Algebra<br />MATH4141: Number Theory",
+      "comment_teaching": "Most of the teaching were done by COMP4633 students, the lecture notes and the challenge flags were prepared by them too. I really appreciate their effort on teaching. They have to do a lot of preparation on teaching, also they provide many advices, write-up and supports in Discord server, which I can feel they have the passion. This course is not a heavy workload for us, also for them. Their performance definitely deserve a A.<br /><br />However, in this course, you are encourage to self-study more knowledge to really understand the topics taught in this course. And even in CTF &amp; cybersecurity, you will search and understand most of the payloads and concepts by urself rather than someone tutoring you step by step, because there are different areas of knowledges and each area are required very deep understanding.<br /><br />This course provide many useful practical knowledge but the limitation of cybersecurity &amp; CTF is that the best teaching is to try harder and learn by urself.",
+      "comment_grading": "Required to pass: 60%<br />All Attendance flags: 50%<br />All [Basic training exercise flags &amp; homeworks + track A exercise flags &amp; homeworks + track B exercise flags &amp; homeworks]: 100%<br />And most of the exercise flags are given and demonstrated by teaching team during the lecture and there are lecture videos.<br />Therefore, it is very easy to pass as long as you pay attention on lecture and are able to open the challenge website(?",
+      "comment_workload": "Workload grade for just pass: A - very light, as mentioned as previous reviews, amounts of flags required for 60% such as attendance flags and exercise flags can be copied.<br /><br />However, if you wanna finish most of the HWs, the grade must be E, not only different HWs required board knowledge on different CTF topics (sometimes there are challenges with mixed topics), but also test your skills of analyzing, searching, problem solving, etc.<br />it is usually exhausting and time-consuming when you try hard to do the homework, and you will suffer from it each week.<br /><br />[A, B, C, D, E] = [2, 1, 0, -1, -2]<br />Final workload grade = A/2 + E = D(?",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "X9ZXMyoYO6ekiI7OsMgV4e8vqiEvGKzH",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 799,
+          "name": "LAM, Ngok",
+          "rating": 1
+        }
+      ],
+      "author": "ivanwong13768",
+      "date": "Dec 12, 2023",
+      "title": "ONLY ENROLL IF YOU ARE INTERESTED (please trust everything that 650 said in his review)",
+      "comment_content": "This course basically teaches you how to play Capture the Flag (CTF), a kind of cybersecurity competition (as if it isn&#039;t clear enough from the course name).<br /><br />For the first 2 weeks, there are basic trainings that familiarize you with basic CTF skills, including Regex, Linux commands, Python, etc. After that, the course is split in to 2 tracks, namely track A and track B, which are about different topics. Track A is about reverse and binary (pwn), while track B is about web, cryptography (crypto) and a little little little bit of forensics towards the end. Forgive me for being unable to provide detailed teaching content of each category since I don&#039;t want to be wrenched by helpers.<br /><br />Us 2633 students joke about this course being a CS major speedrun, which honestly isn&#039;t very far from reality. The content is very broad and deep, so you might want to try really hard and spend a lot of time to understand them if you want to get anything more than a pass.<br /><br />Little appendix about some terms (even if you don&#039;t understand them now, you will eventually understand if you enroll into this course):<br />Flag: a string that you need to find and submit in order 7to get scores<br />Reverse: reversing codes from binary files like .exe and find a correct input to get the flag<br />Pwn: gaining partial / full control of remote systems by exploiting unsafe codes<br />Web: getting private information by exploiting vulnerabilities in websites / servers<br />Cryptography: the cryptography you learn in 3632 and/or 4631 idk (not cryptocurrency)<br />Forensics: retrieving deleted / hidden information inside files",
+      "comment_teaching": "Alex is not the one who teaches, it&#039;s actually COMP 4633 students (helpers) who do their presentations and teaches us. (they are paying to teach instead of being paid to teach so please send love to your helpers if you are going to enroll in the future UwU :heart::heart::heart:) All of them tried their absolute best, and the powerpoints are very rich in content and clear enough to understand. Unfortunately, they are most likely still not enough for your homework (welcome to the world of cybersecurity), so Google is your best friend. <br /><br />Lectures are conducted in zoom, and they last for 4 hours (1800-2200). A lecture is separated into 2 halves, 1800-2000 is for track A, 2000-2200 is for track B, so you don&#039;t have to attend the whole lecture. After each lecture, lecture videos will be uploaded to the course website, so you can choose to watch videos instead of attending lectures. I highly suggest attending lectures though since you can chill with other students and spam :place_of_worship: in zoom chat.<br /><br />The overall lecture atmosphere is very casual and relaxing, and you can chat freely with other students, helpers and even management team members who pop out of nowhere during and after lectures. There is a discord server for the HKUST Firebird CTF team and COMP X633 series, which you are highly encouraged to join. You can easily contact other students and helpers to ask for help with in-class exercises and homework, but unless you are completely lost, they usually respond with &quot;try harder&quot; or one or more :blobcattryharder: emojis.",
+      "comment_grading": "The highest you can get in this course is 150%, 50% from attendance, 50% from track A and 50% from track B. You only need 60% out of 150% to pass the course so it is extremely easy to pass, but it&#039;s quite difficult to get really high scores.<br /><br />For attendance, you are expected to hand in an attendance flag, which is shown in lecture videos, within 3 days after a lecture, and each flag counts 5%.<br /><br />Coursework of each week counts 10%, which includes both demo-ed exercises and homework. For each week in the first 2 weeks, 10% is distributed evenly between all challenges. For each week afterwards, track A and track B each counts 5%, and the 5% is evenly distributed between all challenges in the track.<br /><br />Technically, if you just want to pass, you only need to submit all attendance flags and copy some exercise flags, which don&#039;t really take much time. However, if you want to score higher, it&#039;s a completely different story. Check the workload part for details.<br /><br />TL;DR:<br />Total 150%, Passing 60%/150% (0 cred P/F)<br />Attendance 50%<br />Basic training 20%<br />Track A 40%<br />Track B 40%<br /><br />P.S.: If you are interested in 3633 or 4633, you will have to score really really big in 2633 to increase your chances to get into them, as 3633 and 4633 are invitation-based.",
+      "comment_workload": "If you want to find out how the coursework looks like, I suggest you visit the intro website and take a look at the challenges in it: https://intro.firebird.sh/challenges?<br /><br />==========<br />&quot;We expect a 3-credit,<br />COMP 4000-level workload<br />in this 0-credit course.&quot;<br />~ Alex, at the start of 2633<br />==========<br /><br />Alex literally told us that the workload is a solid E. The old course codes for the COMP X633 series are COMP 4901_, which kind of explains the high workload of this course.<br /><br />All exercises and homework are CTF challenges. For the first 2 weeks, there are 2 exercises and 3 homework each week. For the rest of the course, there are 1 exercise and 1-2 homework for each track each week. Exercise flags can usually be copied from the lecture videos, but you are mostly on your own for homework. For a CTF noob like me, the easier ones usually take me multiple hours, and the harder ones take me multiple days, so unless you are already a CTF god, don&#039;t expect yourself to be able to finish all coursework. <br /><br />In short, only enroll if you are interested. And if you are interested but don&#039;t want to be like me who sacrificed all COMP 1021 lesson time for dealing with CTF, you might not want to set your goals too high in this course.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "sHV0pGmgPKR7RwLRXQXEBAgR03EaCamF",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 799,
+          "name": "LAM, Ngok",
+          "rating": 1
+        }
+      ],
+      "author": "650on99",
+      "date": "Oct 25, 2023",
+      "title": "ONLY ENROLL IF YOU ARE INTERESTED",
+      "comment_content": "This course teaches you how to play CTF, the students make a joke about this course being a speedrun for CS major, and this says a lot about the course, you will learn a lot about CS related stuff, for example, python, c++. assembly, sql, web servers, cryptography, and basically all cybersecurity related stuff. This is good course in terms of content but you will need to spend a lot of time to master all content of the course",
+      "comment_teaching": "The course is taught over zoom by COMP4633 members, which are past 2633 students, the overall teaching envrironment is very casual and relaxing, you can often find 4633 members chatting with students during/after class in discord or zoom chatroom. You dont have to attend the lecture as it will be recorded and uploaded after the lecture. The powerpoint content is good and with google, it is most likely enough for you to finish homework, you can also ask in the discord/ask author for hint. but most of the time you will just be hit by a &quot;try harder&quot; emoji.",
+      "comment_grading": "This course is only 0 cred and pass/fail only, you only need to get 60% score to pass. Attendance (which makes up 50% of the total score) is taken by inputting a attendance &quot;flag“ into the system within 3 days after the lecture, the attendance flag will be shown in class. There will also be 2 sets of homework and exercises, 1 set for track A and 1 set for track B, all homework+exercise flag for 1 track will make up 50% of the total score, because there is 2 tracks, you can actually get a maximum of 150% in this course, 50% from attendance, 50% for track A exercise + homework, 50% for track B exercise + homework. Most exercises will be demo-ed during lecture, so technically you only need to spend around 15 minutes to find flags in the lecture recording to pass ths course.",
+      "comment_workload": "This is not my personal opinion, Alex himself mentioned that the workload is very high. For me(noob in ctf), each homework takes around 8 hours on average to finish, and you have 2-3 homework each week, so expect to spend around 18-20 hours each week. The following is directly copied from the powerpoint for the first lecture :<br />We expect a 3-credit,<br />COMP 4000-level workload<br />in this 0-credit course.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "eZYYSpsl62ws0MLRK5KwgbDRp8R2whVk",
+      "semester": "2022-23 Fall",
+      "instructors": [],
+      "author": "ycohui",
+      "date": "Oct 26, 2022",
+      "title": "Don&#039;t get faked by no prerequisite, but it&#039;s fun if you know what you are doing",
+      "comment_content": "(Previous Course code COMP4901N, check out more review from there)<br /><br />It&#039;s Capture the flag and only CTF.<br /><br />You could get some taste by visiting https://intro.firebird.sh to get some flagsss.<br /><br />Main content:<br />Week 1-2 (Add-drop period): Introduction to CTF. Teaching the basics of playing CTF.<br />(Drop it if you can&#039;t even understand first two weeks classes. It would just getting harder)<br /><br />Week 3 and afterwards: More Drilled into topics and split into Track A &amp; B<br />(You could attend either or one)<br /><br />Track A is Pwn/Binary/Reverse<br />Track B is Web/Cryptography/Misc<br /><br />All of those are just teaching how to solve CTF with different tools and ideas. Go visit first few lessons to know more on that.<br /><br />The main content for this course is not how the teachers and course materials. It&#039;s how much you&#039;ve put your passion into this course. (aka Reading hours and hours of write-ups and googling.)",
+      "comment_teaching": "Taught by Firebird Team Member / COMP4633/4901P UG Students.<br /><br />The teaching style would differs, as different students teaching different topics. <br /><br />But it&#039;s generally good enough to told you what you gonna learn from (reading write-ups.)",
+      "comment_grading": "It&#039;s P/F grade this year.<br />Passing is at or above 60%.<br />50% is attendence flag (Attend lesson = free attendence flag)<br />other 50% is Homework &amp; Exercises<br />(Solving related topic CTF questions) <br /><br />Don&#039;t cheat and you would learn it<br />(Probably not me, can&#039;t really understand what&#039;s going on after week 3)",
+      "comment_workload": "Workload is depending on how much time you put into the course.<br />AND your prior knowledge in COMP field<br />(OR you are already a CTF king/queen. Then workload isn&#039;t your problem.)<br /><br />This course don&#039;t have any prerequisite but yeah I wouldn&#039;t suggest trying in yr1 fall semester. Most of the concepts are mainly 3000+ level or above.<br />(Some solving don&#039;t required to understand the concepts but using tools, but you had to know where and how to use tools.)",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 4,
+      "vote_count": 4,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

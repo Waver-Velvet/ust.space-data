@@ -1,0 +1,161 @@
+{
+  "course": {
+    "id": 438,
+    "subject": "FINA",
+    "code": "4104",
+    "name": "Advanced Financial Management",
+    "description": "Advanced topics in corporate finance; project evaluation; cost of capital; capital structure; adjusted present value; valuation by multiples; mergers and acquisitions; real option valuation.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      1530,
+      1510,
+      1430,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"3104\" href=\"/review/FINA3104\" target=\"_blank\">FINA 3104</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.67,
+    "rating_teaching": 4.67,
+    "rating_grading": 4.67,
+    "rating_workload": 4.33,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 261,
+        "name": "LIU, Xuewen",
+        "count": 3
+      },
+      {
+        "id": 249,
+        "name": "CHAN, Pak To",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "P5pu4si2tj36CibpDsCqwTtRNqjTsxhZ",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 261,
+          "name": "LIU, Xuewen",
+          "rating": 1
+        },
+        {
+          "id": 249,
+          "name": "CHAN, Pak To",
+          "rating": 1
+        }
+      ],
+      "author": "1999",
+      "date": "Jun 03, 2016",
+      "title": "Final ＝ Everything",
+      "comment_content": "Quantitative course<br /><br />Foundation of valuation<br />Firm&#039;s investment decision<br />Financing decision (without friction)<br />Investment and financing decision with market frictions<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(e.g. tax, agency problems, asymmetry information etc)<br />Mergers and acquisitions",
+      "comment_teaching": "His english accents...<br />But he is very knowledgable and very enthusiastic...<br />Always ask students whether they understand or not during the break <br />If you can accept his accent and understand what he says, &quot;REG HIM&quot;",
+      "comment_grading": "Absolute grading<br /><br />participation 5% (score all)<br />4 Assignments 15% (score all A+)<br />Midterm 21% (82.5/100, similar to tutorial and assignments)<br />Final 59% (don&#039;t know but i should mess it up, very difficult...)<br />&nbsp;&nbsp;&nbsp;- reminder: one question is extracted from academic paper<br /><br />the sample paper given is very easy, but the real one is very difficult...<br /><br />turnout C+, I think I would got F, so that is still fine..",
+      "comment_workload": "the workload is typically light if you don&#039;t aim high.<br />People who aim a range would do all the textbook exercises but i didn&#039;t do so, so it is fair.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 3,
+      "attachments": []
+    },
+    {
+      "hash": "es8LUUkrde2jsuXA8be7w2yzeW96e4AQ",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 261,
+          "name": "LIU, Xuewen",
+          "rating": 1
+        }
+      ],
+      "author": "Free!",
+      "date": "May 11, 2016",
+      "title": "",
+      "comment_content": "Content is more difficult than 3104 as the calculation is more advanced but it is manageable as long as you do not skip classes.",
+      "comment_teaching": "I like the professor very much.&nbsp;&nbsp;The professor is absolutely knowledgeable.&nbsp;&nbsp;Apart from the powerpoint slides, he shared about his personal experience, his insights regarding the financial market, stories of different businesses.&nbsp;&nbsp;You would not be bored by his teaching.&nbsp;&nbsp;Minor problem is his accent.",
+      "comment_grading": "Absolute grading.&nbsp;&nbsp;May not be really lenient but it is fair.",
+      "comment_workload": "Kind of heavy.&nbsp;&nbsp;4 very difficult assignments with 5 readings.&nbsp;&nbsp;Be prepared.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "WHplZPy9AZwyCl3Kgy1Y6edtTnQD56Qw",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 261,
+          "name": "LIU, Xuewen",
+          "rating": 1
+        },
+        {
+          "id": 249,
+          "name": "CHAN, Pak To",
+          "rating": 1
+        }
+      ],
+      "author": "Star*",
+      "date": "Aug 15, 2015",
+      "title": "",
+      "comment_content": "Further development of FINA3104. Knowledge in FINA3204 is also helpful to understand some concepts. Actually about half of the course content was covered in FINA2303 and FINA3104 so quite easy to study.",
+      "comment_teaching": "Xuewen is a mainland professor who is very knowledgeable about financial markets so his teaching is less academic but more practical. He like to discussed with students during break. TA has follow Xuewen for quite a long time so he knew quite a lot about the course and examination. Talking to him would be helpful for studying the course. Sometimes notes may be difficult but then it is for knowledge only, many are not included in exam so better pay attention when professors/TA talk about exam. Tutorials are optional but recommend to attend, a good change to get along with TA",
+      "comment_grading": "Professor says it is absolute grading. 1/3 of Final exam is based on content before midterm but exam is definitely quite easy. Assignments are not very difficult, when you got questions, ask the TA.",
+      "comment_workload": "I am not sure whether the coming semester got project as ours was cancelled so only assignments and exam. Relaxing course in fact.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

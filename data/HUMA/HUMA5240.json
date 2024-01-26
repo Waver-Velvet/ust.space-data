@@ -1,0 +1,76 @@
+{
+  "course": {
+    "id": 2028,
+    "subject": "HUMA",
+    "code": "5240",
+    "name": "Chinese Dialectology",
+    "description": "This course will provide an introductory survey of the phonology of Chinese dialects, including Mandarin, Wu, Xiang, Gan, Hakka, Yue and Min.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230,
+      2030,
+      1830,
+      1630
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 309,
+        "name": "ZHANG, Min",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "7oSSBXax2S3hBSobykHZg3y9AeCIKZHY",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 309,
+          "name": "ZHANG, Min",
+          "rating": 1
+        }
+      ],
+      "author": "Nikolas",
+      "date": "Jan 02, 2024",
+      "title": "An unforgettable journey in Chinese linguistics",
+      "comment_content": "The professor presented us with a variety of intriguing and hotly debated topics in Chinese dialectology to illustrate the essence of this field and its potential future developments. A selection of works has been made available for reading, and everyone is urged to share their own viewpoints.",
+      "comment_teaching": "The professor&#039;s depth of knowledge and patience are such that you would feel as though he has opened the gate to a whole new world for you. Upon completing their presentations, each individual receives constructive feedback from the professor, who is always eager to engage in discussions on these matters with the students.",
+      "comment_grading": "As an auditor of this course, I only observed, but my classmates mentioned that the grading was excellent.",
+      "comment_workload": "You are required to read several papers that the professor has offered, and you should have some basic knowledge about Chinese traditional phonology (音韻學).",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

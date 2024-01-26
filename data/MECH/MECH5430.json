@@ -1,0 +1,63 @@
+{
+  "course": {
+    "id": 3218,
+    "subject": "MECH",
+    "code": "5430",
+    "name": "Thermodynamics and Kinetics of Materials",
+    "description": "An advanced treatment of the thermodynamics, kinetics and transport properties in solids, solutions, surfaces, and heterogeneous reactions.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2030,
+      1930
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "MESF 5430",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": [
+    {
+      "hash": "RdnUVtrv4iN3NeKBoVQtRW2FGZDRJVrB",
+      "semester": "2023-24 Fall",
+      "instructors": [],
+      "author": "Ccccczzzz",
+      "date": "Jan 10, 2024",
+      "title": "",
+      "comment_content": "The content includes two main parts:thermodynamic and kinetics of materials. The latter one is more taught in class, including nucleation, phase diagram and so on.",
+      "comment_teaching": "The teacher will share papers in class. Basically the teaching is great. He is very willing to help students with their problems.",
+      "comment_grading": "Only have letter grade. Don&#039;t know the actual grade of the exams/report/pre/assignment.",
+      "comment_workload": "Two exams, one literatrue report and one pre using different literatures(12mins) . Some easy assignments. <br />The workload is not heavy. The literature you use in the report are not limited, only required to have something with what you learned in class.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

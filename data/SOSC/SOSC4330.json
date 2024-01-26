@@ -1,0 +1,111 @@
+{
+  "course": {
+    "id": 3488,
+    "subject": "SOSC",
+    "code": "4330",
+    "name": "Quantitative Data Analysis for Social Research III",
+    "description": "Designed for students with prior knowledge in statistics and linear regression, this advanced course covers a wide variety of generalized linear models for categorical dependent variables that are commonly used in social science research, as well as such alternatives as quantile regression and robust regression. It also introduces selected models for complex data structures, including multilevel analysis, time-series analysis, and survival analysis. This course will address such model specifications as random- and fixed-effects and other topics. The course will be application oriented with special attention paid to estimation of the aforementioned models using social science datasets.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2230,
+      2130,
+      2030
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"SOSC\" data-code=\"2400\" href=\"/review/SOSC2400\" target=\"_blank\">SOSC 2400</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4.5,
+    "rating_workload": 3.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1518,
+        "name": "WANG, Wen",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "g81FswSd0tj6nfe3uBChEsq6wOBqf1dh",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1518,
+          "name": "WANG, Wen",
+          "rating": 1
+        }
+      ],
+      "author": "tjr1234",
+      "date": "Dec 14, 2023",
+      "title": "don&#039;t find shit groupmate",
+      "comment_content": "睇得review都係因爲Qsa require course啦<br />Content年年一樣<br /><br />明iv+difference in difference+regression discontinuity就得 跟住proj用其中一個/兩個 唔明就google自學 鍾意可以揾econ friend求救<br />點都實用過SOSC2400嘅 雖然最初會好迷",
+      "comment_teaching": "講野幾清楚 pace夠慢 只要肯聽+自己google+YouTube都會明concepts<br />兩次present完都會比實用feedback, which is 直接講你有咩問題",
+      "comment_grading": "冇變 睇人地review<br />從來都唔出分 0透明度 直接等grade<br />B+<br /><br />但我想抱怨下report freerider嘅制度:<br />I will not define anybody to be “free rider&quot; directly. If all the other team members agree that they don’t want to keep collaborating with one person, please comply the following rules to split the team: 1. each group member need to send an email to TA to justify their request. 2. the peer evaluation (10% of total score) will not be split. 3. the student who leaves the group must find a new proposal &amp; presentation topic<br /><br />當你開始做proj再report已經太遲 final period忙到閪咁已經冇心力屌柒班freerider<br />唯有自己做曬 g9g",
+      "comment_workload": "全course workload集中曬係group project度<br />其他個兩份hw+mid term presentation+referee report都係9吹 好快搞掂<br />Groupmate做野咪A&nbsp;&nbsp;&nbsp;Freeride咪E<br /><br />宜家做緊proj 覺得好大壓力先上嚟寫幾句<br />麻煩揾groupmate揾幾個肯做野嘅更稱心<br />同埋最好提早一個禮拜做",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "u8PSgZUrYCtVskHznWmQwkV5xczjwcqO",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1518,
+          "name": "WANG, Wen",
+          "rating": 1
+        }
+      ],
+      "author": "BBC",
+      "date": "Jun 02, 2022",
+      "title": "Quite a good course",
+      "comment_content": "1. Causality, Experimental Ideal<br />2. Regression, Data-Generating <br />3. Confounders &amp; IV<br />4. IV &amp; Validity <br />5. Difference-in-Difference <br />6. Midterm Presentation <br />7. Two-way Fixed Effect <br />8. Defend for Common Trend <br />9. Regression Discontinuity <br />10. Sharp RDD &amp; Fuzzy RDD <br />11. Final Presentation<br /><br />It might sound difficult, but it is really not. I did not know any of them before taking the class and still did well. <br /><br />You don&#039;t even need to actually understand all of them. You just need to understand and apply one of these methods in your final paper to get a good grade, even if you have absolutely no idea what the other methods are about. There is no mid-term or final exam to test your knowledge in everything.<br /><br />The coding part is in R, but since there is a pre-requisite everyone knows about the language already (hopefully).",
+      "comment_teaching": "Nothing to complain about here, maybe the coding part is a bit confusing if I am being picky.",
+      "comment_grading": "10% Attendance and Participation<br />10% Two coding assignments<br />40% Mid-term presentation (20%) and referee report (20%)<br />40% Term paper (20%) and presentation (20%)<br /><br />I have no idea what grade I got in each of the tasks, and no idea what is the mean and SD since they were not released.<br /><br />The Mid-term paper and presentation are individually graded.<br /><br />The final paper is group work, and 20% of the grade from teamwork is peer evaluation.<br /><br />There are only two coding assignments throughout the semester.<br /><br />I spent some effort and the final grade is A+, which is pretty good I guess. <br /><br />The only problem is the absolute total lack of transparency about grading. I know absolutely nothing about what is my grade on each task.",
+      "comment_workload": "Actually not light, the assignments are challenging, and the mid-term paper and presentation require us to read some academic papers and provide some critics.<br /><br />The final paper is a 30 page paper with 1.25 spacing. I wrote more than 10,000 words for the final paper since I carried the group.<br /><br />Maybe the workload would be less if the workload is spread evenly across the group, but then you need to make sure the quality is up to standard.<br /><br />Not crazily challenging, but definitely worth the 4000-level workload, do not expect it to be some easy introductory course unless you are the one being carried.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

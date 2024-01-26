@@ -1,0 +1,110 @@
+{
+  "course": {
+    "id": 2790,
+    "subject": "ELEC",
+    "code": "4830",
+    "name": "Statistical Signal Analysis and Applications in Neural Engineering",
+    "description": "This is an introductory course on statistical signal processing and its applications in neural engineering. The course introduces the fundamentals of statistical signal processing, principles of neuroscience, and the technologies and implementations of neural engineering. The topics include probability, random variables, vectors and process, expectation, cellular mechanisms and neuroanatomy of the brain, neural coding theory, neural network models, plasticity and learning, neural interfaces and rehabilitation.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2110,
+      1930,
+      1830
+    ],
+    "prerequisites": "(<a class=\"course-link\" data-subject=\"BIEN\" data-code=\"3320\" href=\"/review/BIEN3320\" target=\"_blank\">BIEN 3320</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2111\" href=\"/review/MATH2111\" target=\"_blank\">MATH 2111</a>) AND (<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2600\" href=\"/review/ELEC2600\" target=\"_blank\">ELEC 2600</a> OR <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"2500\" href=\"/review/ISOM2500\" target=\"_blank\">ISOM 2500</a> OR <a class=\"course-link\" data-subject=\"LIFS\" data-code=\"3150\" href=\"/review/LIFS3150\" target=\"_blank\">LIFS 3150</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2411\" href=\"/review/MATH2411\" target=\"_blank\">MATH 2411</a>)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 4.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1089,
+        "name": "WANG, Yiwen",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "WCzUAcCZ5gtd8soFp9dKxu3OkbQwoCso",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1089,
+          "name": "WANG, Yiwen",
+          "rating": 1
+        }
+      ],
+      "author": "J Yang",
+      "date": "Dec 27, 2021",
+      "title": "A bit of everthing",
+      "comment_content": "Week 1: Intro<br />Week 2: Probability<br />Week 3: Statistical estimation<br />Week 4: Random process<br />Week 5: Nervous system<br />Week 6: Sensation, perception and object recognition<br />Week 7: Control of action<br />Week 8: Neural coding<br />Week 9: Population coding<br />Week 10: Neurons in network<br />Week 11: Plasticity and learning<br />Week 12: Supervised learning and reinforcement learning<br />Week 13: Neural prosthesis and rehabilitation<br /><br />The content is covered in range but not in-depth. As a CS student who has no prior experience in biology stuff, I do not find the brain part too difficult. In addition, I suggest a solid mathematical background in probability and statistics and at least some experience in machine learning.",
+      "comment_teaching": "The professor is passionate about teaching, but she mostly focuses on the big part and the big idea. It is often difficult to catch up on the details.<br /><br />A tutorial session is set for TAs to give more details like mathematical derivations and programming languages. But it is mostly introductory and I recommend self-studying.",
+      "comment_grading": "20% Homework. 4 in total and easy.<br />30% Midterm. The midterm focused on probability, statistics and brain biology stuff. It was closed book, so I was pretty sure I ruined most of the part. Luckily, most students were like my circumstance so the professor doesn&#039;t release the scores but only the letter grades.<br />50% Project. You can refer to my Github https://github.com/EricY019/ELEC4830 for this term&#039;s project.<br /><br />With my midterm ruined, I managed to have an A range. I say it’s pretty good.",
+      "comment_workload": "Light before the final project, which is only released in the last lecture. You may need to spend some days on the final break to get it nicely done.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "LWSneMlRwb5Y2TRuJnfonS3YJjlogjnz",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 1089,
+          "name": "WANG, Yiwen",
+          "rating": 1
+        }
+      ],
+      "author": "az123zx123",
+      "date": "Jul 13, 2019",
+      "title": "",
+      "comment_content": "comprehensive. The coverage varies from machine learning to basic neuroscience.&nbsp;&nbsp;You should have some background in statistic, probability, and machine learning, otherwise, the course can be so tough.<br />syllabus:<br /> Week 1: Introduction<br /> Week 2: Probability<br /> Week 3: Statistical estimation<br /> Week 4: Random processes<br /> Week 5: Cellular mechanisms and neuroanatomy <br /> Week 6: Sensation, perception, and action <br /> Week 7: Neural Coding <br /> Week 8: Population coding and neural network (midterm exam, tentatively on Mar. 29)<br /> Week 9: Plasticity and Leaning<br /> Week 10: Supervised Learning<br /> Week 11: Reinforcement Learning<br /> Week 12: Neural Prosthesis and Rehabilitation (Preparation of final projects)",
+      "comment_teaching": "The content is difficult and can overwhelm any innocent student if you don&#039;t attend the lecture.<br />I do suggest you attend the lecture, although you don&#039;t know what is taking.",
+      "comment_grading": "Not so bad.<br />homework (20%), mid-term exam (30%), Writing Assignment (20%),&nbsp;&nbsp;final project (30%)<br />midterm only covers math part.<br />writing assignment is about something related to biology. Fortunately, I&#039;ve some background in biology olympiad, so it&#039;s not so difficult.<br />the final project is something about machine learning. If you are familiar with it, the project should just be something about tuning parameters.",
+      "comment_workload": "The workload is light before the final. You don&#039;t need to attend lab, and the homework is just something about math.<br />However, the final project was released at the last lecture, which means you need to do it during your study break. So bad.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

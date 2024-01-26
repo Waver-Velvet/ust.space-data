@@ -1,0 +1,109 @@
+{
+  "course": {
+    "id": 2120,
+    "subject": "PHYS",
+    "code": "6810E",
+    "name": "General Relativity and Advanced Cosmology",
+    "description": "Fundamentals of GR will be introduced, followed by black holes and gravitational waves. Afterwards, we use GR to describe our universe, including the radiation, matter, dark energy dominated eras, and the cosmic inflation and its cosmological perturbation theory (origin of structure).",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1830,
+      1630
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 781,
+        "name": "WANG, Yi",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "6g8SoCcPAUwqxnUnrVebjlLLmtNbL6FN",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 781,
+          "name": "WANG, Yi",
+          "rating": 1
+        }
+      ],
+      "author": "RickyPang",
+      "date": "May 30, 2019",
+      "title": "Good introductory course for &quot;GR lovers&quot;. A fundamental course for those who want to do research in cosmology",
+      "comment_content": "The reference book is Einstein gravity in a nutshell which is written by A.Zee. Although this is the reference book,&nbsp;&nbsp;I would suggest the book &quot;spacetime and geometry&quot; written by Sean Carrol for those who loves GR and who do not waste your precious time . <br /><br />The content is as follow: <br />Basic Riemannian Geometry <br />symmetry , Action, and conservation law<br />Electromagnetism in SR <br />Equivalence principle and curved spacetime <br />Einstein’s field equation<br />Black holes<br />Gravitational waves,<br />Introduction to our universe<br /><br />After teaching the above contents, Prof Wang will teach the advanced cosmology which based on lecture notes written by Daniel Baumman. Besides, he also teaches some topic which relates to his research.",
+      "comment_teaching": "Prof. Wang is a passionate professor. He is very enjoy in teaching. Besides, he knew that there are lots of UG physics students (include me) to study it, therefore, he said that we no need to worry the grade.",
+      "comment_grading": "No one knows the marking scheme of both final and assignments<br />But it is very very good grade",
+      "comment_workload": "There are 3 assignments in this course. You have two weeks to complete the assignments. Some questions need programming. For instance, calculate the covariant derivative of certain tensor with given Levi-civita connection. <br /><br />Besides, No mid-term , final exam only",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "lT8V0uLFh6mCRE3t0BmqLuEihh6Hu09n",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 781,
+          "name": "WANG, Yi",
+          "rating": 1
+        }
+      ],
+      "author": "ChuaWanZhen",
+      "date": "Aug 05, 2017",
+      "title": "A good introductory course",
+      "comment_content": "Professor Wang Yi uses &quot;Spacetime &amp; Geometry - An Introduction to General Relativity&quot; as the reference book for this course. I can say that it is a good book with detailed explanation for people that has never encountered general relativity before. The content that he covered is as the following:<br />1. Special Relativity &amp; Flat Spacetime<br />2. Manifolds<br />3. Curvature<br />4. Gravitation<br />5. The Schwarzschild Solution<br />6. Black Holes<br />7. Perturbation Theory &amp; Gravitation Radiation<br />8. Cosmology<br />9. His own research (not included in exams)<br /><br />The first two chapters are mostly the origin of the&nbsp;&nbsp;mathematics that are covered in GR and Professor Wang said that those would not be included in HWs and exams as he mentioned that even he himself suffered a bit when preparing the lectures. The key topics are Chapter 3,4,5,7 &amp; 8. Be sure to master them to do well in this course. You can go his website to have a look at his lecture notes and lecture videos",
+      "comment_teaching": "Professor Wang Yi is passionate in teaching students. He said that since it is a small class, he does not mind students interrupting him. He also welcome questions from students. I can see that he is even more excited to teach PG courses compared to PHYS 2022, probably because he can talk more about his research work.",
+      "comment_grading": "The grading remains a mystery as we never get back our HWs and there is no paper checking for the finals. This course is graded based on 50 percent HW and 50 percent final exam. However, Professor Wang mentioned in the first class that not to be too worry about the grade as he himself know that the students who enrolled in this class are passionate to learn. However, there are 3 students that fail to show up for the final exam and he said that he would give a &quot;F&quot; to them. So, be sure not to take it too lightly for this course although Professor Wang is quite lenient to his students. <br /><br />Some of the questions of the final are from his lecture notes and some are from his research work. So, if you have extra time, you can read his research papers as those questions can never be found in any textbook as those are published by himself. This also applies to PHYS 2022. <br /><br />The final exam is an open book exam.",
+      "comment_workload": "There are only 5 assignments. Only one is very challenging. Some is taken from the textbook, some is from his research work and one is about writing Mathematica code to do some GR calculations (Dont be too worry about this as he did provide us the basic code).",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 3,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

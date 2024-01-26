@@ -1,0 +1,112 @@
+{
+  "course": {
+    "id": 3211,
+    "subject": "MATH",
+    "code": "5472",
+    "name": "Computer Age Statistical Inference with Applications",
+    "description": "This course is designed for RPg students in applied mathematics, statistics, and engineering who are interested in learning from data. It covers advanced topics in statistical learning and inference, with emphasis on the integration of statistical models and algorithms for statistical inference. This course aims to first make connections among classical topics, and then move forward to modern topics, including statistical view of deep learning. Various applications will be discussed, such as computer vision, human genetics, and text mining.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1930
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 2,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1118,
+        "name": "YANG, Can",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "4JRfsMC2hYF4zyoI0bhxIQxJ52cEz0zv",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1118,
+          "name": "YANG, Can",
+          "rating": 1
+        }
+      ],
+      "author": "Ktickop",
+      "date": "Jan 23, 2024",
+      "title": "",
+      "comment_content": "The course gives a good introduction to the empirical Bayesian method for machine learning. But it is better for students who have some foundations in statistics and probabilistic machine learning to take this course, as the instructor assumes you already have the fundamental knowledge. This course covers a little deep learning, and consequently, if you want to study deep learning, you may consider taking other courses.",
+      "comment_teaching": "The instructor has a good command of knowledge of statistics and probabilistic machine learning. He always shows the insight behind the theory and makes connections between different concepts. He is also very knowledgeable and shows us a lot of classic or state-of-the-art papers in machine learning.",
+      "comment_grading": "The final grading is fair, though you may not get full marks for each assignment.",
+      "comment_workload": "The workload is heavy and necessitates equation derivation as well as programming. If your math is not that good, you should think twice before taking this course; otherwise, you need to spend a lot of time studying the relevant equations and derivations.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "N003Nbad91vXRRoYCHYY9FmL2zXLL82W",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1118,
+          "name": "YANG, Can",
+          "rating": 1
+        }
+      ],
+      "author": "Jonas Zhang",
+      "date": "Dec 08, 2023",
+      "title": "Advanced Topics in Statistical Machine Learning",
+      "comment_content": "You can find the content here https://sites.google.com/site/eeyangc/teaching/math-5472-computer-age-statistical-inference-and-its-applications?authuser=0",
+      "comment_teaching": "The teaching is excellent. The instructor is very good at conveying the intuition behind each algorithm with a deep understanding of it. It&#039;s enjoyable to take this course.",
+      "comment_grading": "Fair enough.",
+      "comment_workload": "Giant. The estimation is around at least 20-30 hours a week for the assignment. If you are not good at statistics or coding, you will need at least 30-40 hours a week. However, using GPT4 will save 70% of time for coding. (a rough estimation..). On the other hand, the assignment is well-designed to help you understand the idea of important topics.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

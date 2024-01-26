@@ -1,0 +1,141 @@
+{
+  "course": {
+    "id": 2924,
+    "subject": "BIEN",
+    "code": "3410",
+    "name": "Introduction to Bioinstrumentation and Bioimaging",
+    "description": "This course introduces various biomedical devices to senior undergraduate students, including (electrical, chemical, optical, and acoustic) devices that can measure EEG, EMG, EOG, oxygen saturation, blood glucose level, blood components, and soft/hard tissue. Students will be able to understand, design, and evaluate devices that can acquire biological information from the human body.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"BIEN\" data-code=\"2410\" href=\"/review/BIEN2410\" target=\"_blank\">BIEN 2410</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"4810\" href=\"/review/ELEC4810\" target=\"_blank\">ELEC 4810</a>",
+    "rating_content": 4.33,
+    "rating_teaching": 5,
+    "rating_grading": 4.67,
+    "rating_workload": 4.33,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1217,
+        "name": "WONG, Tsz Wai",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "2X6QeAgiZiLrQlArXS1uPYbqn4VImbiB",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 1217,
+          "name": "WONG, Tsz Wai",
+          "rating": 1
+        }
+      ],
+      "author": "ahahahahahaha",
+      "date": "Jun 01, 2021",
+      "title": "Great professor",
+      "comment_content": "1. Course overview<br />2. What are Bioinstrumentation and Bioimaging<br />3. Geometrical (Ray) Optics<br />4. Optical Microscopy<br />5. Wave Optics<br />6. Interference <br />7. Optical Coherence Tomography<br />8. Fluorescence Microscopy<br />9. Fiber Endoscopy <br />10. Nonlinear Microscopy<br />10.5 - Fourier Transform<br />11. Photoacoustic Tomography<br />12. Bioimaging Research sharing (not tested)<br />13. Fundamental of Electric Circuit<br />14. Bioelectric Phenomena (Part I)<br />15. Bioelectric Phenomena (Part II)<br />16. ECG, EMG, and EOG<br />17. Pulse Oximetry<br />18. Blood Glucose Sensor<br />19. Flow Cytometry<br />20. DNA Microarray",
+      "comment_teaching": "Terence is known to be a great professor. He always makes sure you understand him and his teaching is so detailed. To be honest I don&#039;t really enjoy bioimaging, strangely I never fell asleep in his class - you can see how awesome he is. The content is not as easy as his another course BIEN1010 since it&#039;s a 3000 level course. That being said, as long as you pay attention (and to be frank it&#039;s hard to lose attention unless you skip the lesson) you should be fine. Tutorials are also offered by Terence, teaching you how to do examples similar to HW - that&#039;s why our HW mean is so high. He is very passionate in his teaching and he replies to email super quickly. Very approachable. I wish I could give A++ in this part ahahaha.",
+      "comment_grading": "I could not really comment on this since we do not have a final exam in our year. We only have midterm covering bioimaing and we only have two assignments instead of an exam on bioinstrumentation. I think bioinstrumentation is harder than bioimaging, so if we have finals it might hurt a lot. I would say that Terence (actually the whole CBE department) tends to give very generous grading.<br /><br />Class participation (10%, in-class Canvas/participation)<br />Homework (25%)<br />Group project (Total 25%, 10% report, 15% PowerPoint presentation)<br />Midterm examination (40%)<br /><br />Class participation: Probably full mark for almost everyone?<br />Homework: 24/25 (Mean: 21.53, unknown sd)<br />Midterm: 78/100 (Mean: 55.48, High: 80, SD: 15.64)<br />Project - Presentation: 12.67/15 (Mean: 12.06, unknown sd)<br />Project - Report: 9.5/10 (Mean: 8.72, unknown sd)<br /><br />Got A+ in the end. Quite surprising as I think we didn&#039;t get really high marks in the project. This is a class of 27 and he already gave out 2 A+ so I would say he is very generous on gradings.",
+      "comment_workload": "4 Homework, one midterm and project. <br />Midterm isn&#039;t too hard. Remember to prepare for the question(s) he said he would definitely ask in midterm.<br /><br />Homework isn&#039;t difficult and you can finish them real quick.<br /><br />Project: Light workload - Like BIEN1010, a 2-page report with a presentation (3 min presentation and 2 min Q&amp;A, so more like a pitching session more than a detailed technical engineering presentation). There would be a peer evaluation session and you really need to pitch well to attract your classmates&#039; attention.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "xv6IbiElP8X30LGRTSI8YwixEk1r6urB",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 1217,
+          "name": "WONG, Tsz Wai",
+          "rating": 1
+        }
+      ],
+      "author": "LizZy",
+      "date": "Jan 22, 2020",
+      "title": "",
+      "comment_content": "Since it is a 3k course, the content is definitely not easy. It is about bioimaging and bioinstrumentation, both highly related to physics (optics and electric circuit). There are really a lot of complicated equations in the slides, which are really terrifying for physics and math are not really included in the BIEN pathway. Though those equations won&#039;t be tested and there is no need to fully understant them, they could still be confusing. Both exams are open notes, and the final exam is cumulative (though we did not have final due to the circumstances in HK).<br /><br />The syllabus is as follows:<br /><br />Module 0<br />Lecture 1 - Course overview<br />Lecture 2 - What are Bioinstrumentation and Bioimaging<br /><br />Module 1 - Bioimaging<br />Lecture 3 - Geometrical (Ray) Optics<br />Lecture 4 - Optical Microscopy<br />Lecture 5 - Wave Optics<br />Lecture 6 - Gaussian Beam Optics and Interference<br />Lecture 7 - Optical Coherence Tomography<br />Lecture 8 - Fluorescence Microscopy<br />Lecture 9 - Fluorescence Microscopy Part II<br />Lecture 10 - Fiber Endoscopy<br />Lecture 10.5 - Fourier Transform<br />Lecture 11 - Nonlinear Microscopy<br />Lecture 12 - Photoacoustic Tomography<br /><br />Module 2 - Bioinstrumentation<br />Lecture 13 - Fundamental of Electric Circuit<br />Lecture 14 - Bioelectric Phenomena (Part I)<br />Lecture 15 - Bioelectric Phenomena (Part II)<br />Lecture 16 - ECG, EMG, and EOG<br />Lecture 17 - Flow Cytometry<br />Lecture 18 - Blood Glucose Sensor<br />Lecture 19 - Pulse Oximetry<br />Lectures 20 &amp; 21- DNA Microarray<br /><br />There is also a special lecture about fourier transform(lecture 10.5), research sharing session, and review session for the exam. There is no official class for the tutorial time.",
+      "comment_teaching": "Terence&#039;s class is very interactive. He likes to ask questionas and let students discuss in groups. His rule of Terence No.2(a teddy bear) also exists in this course, which kind of ensures that everyone is following. He can explain the concepts clearly, and he is always asking if you can understand, so do ask questions when you are feeling confused.",
+      "comment_grading": "Normally the grading scheme will be:<br /><br />Participation 10%<br />Homework 10%(4 sets)<br />Individual project&nbsp;&nbsp;20%(10%report, 10%presentation)<br />Midterm examination&nbsp;&nbsp;30%<br />Final examination&nbsp;&nbsp;30%<br /><br />But it was different for us since there was no final exam, but the grading seemed pretty good to me...Just work hard for your exams and you will be fine!",
+      "comment_workload": "The workload seems to be ok.<br /><br />The homework normally should contain around two questions, which can also be very similar to the some small questions in the exams. It is hard to be honest, since the content is very difficult itself, but still it is mostly just about simple calculations, so you will find it just fine if you study hard to understand the concepts.<br /><br />The project is an individual one, where you should study on a core technology of a company, and give a presentation to promote it as if you were the CEO of that certain company. It does take time, but you will also find it quite interesting.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "0knbK7i1svQVBViAm3yNbgN1v4UW4m4r",
+      "semester": "2019-20 Fall",
+      "instructors": [],
+      "author": "vastled0",
+      "date": "Jan 21, 2020",
+      "title": "",
+      "comment_content": "The content is not easy. The first part is about bioimaging which covers wave/ray optics, fluorescence microscopy, Fiber endoscopy, nonlinear microscopy, photoacoustic Fourier transform, and optical microscopy. <br /><br />After midterm, it is bioinstrumentation which covers bioelectric circuit, ECG/EEG, blood glucose sensor and flow cytometry. All the concept was pretty tough so better attend the class",
+      "comment_teaching": "Professor Terence teaches really well. If you go all the class and ask questions if you don&#039;t understand the concept, you will eventually get all the information taught from the professor. His teaching is also very flexible too.",
+      "comment_grading": "Not sure about the grading because the semester I took, there were no final exams. But if you work hard you will get good grades. Better to do well on both midterm and final exams.",
+      "comment_workload": "The workload is quite heavy. 3 to 4 assignments with a report and presentation about bioinstrumentation or bioimaging. Both mid term and final.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

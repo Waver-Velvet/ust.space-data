@@ -1,0 +1,394 @@
+{
+  "course": {
+    "id": 899,
+    "subject": "MATH",
+    "code": "3425",
+    "name": "Stochastic Modeling",
+    "description": "Discrete time Markov chains and the Poisson processes. Additional topics include birth and death process, elementary renewal process and continuous-time Markov chains.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030,
+      1930,
+      1830,
+      1730,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2421\" href=\"/review/MATH2421\" target=\"_blank\">MATH 2421</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2431\" href=\"/review/MATH2431\" target=\"_blank\">MATH 2431</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4.11,
+    "rating_grading": 4,
+    "rating_workload": 3.67,
+    "review_count": 9,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 550,
+        "name": "CHEN, Kani",
+        "count": 9
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "nGZbjYy09cp6JkNrLlCe7iX7xMc7K2eF",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 550,
+          "name": "CHEN, Kani",
+          "rating": 1
+        }
+      ],
+      "author": "unlockallreview",
+      "date": "Dec 06, 2023",
+      "title": "Very strange way to get an easy A",
+      "comment_content": "Don&#039;t think the content has changed for years, so feel free to read the other reviews. It is pretty interesting though, especially Markov Chains. <br /><br />However, I have to give a C here as the entire course was done on the LALA system, and honestly its a terrible system. Very buggy and poorly thought out. <br /><br />For example, once you answer a homework question and close it, you can&#039;t view the answer straight away while reviewing later. You have to click and submit one of the options again to see the explanation (its ok to click the wrong one if you got it correct the first time so don&#039;t worry about that). However, this becomes a pain before the exam as about 100 people are on at the same time and it loads super slowly.",
+      "comment_teaching": "He is clearly very knowledgable about this course and I would say his teaching was not bad at all. In the first lecture he said there is no need to attend the lectures, plus every single video (from a few years ago as content remains the same) was already available to watch. So that ended up being the only lecture I went to.",
+      "comment_grading": "50% LALA HW - 25% (diminishing margin) for questions attempted and 25% for accuracy<br />50% Final Exam <br /><br />Now here&#039;s the interesting part: the final exam is open book and 80% of the questions are very similar or even the exact same as HW questions from LALA. So you can print 300 questions and bring them to the exam, and get a high grade.<br /><br />My Scores:<br /><br />HW: 95.5/100 (Mean: 90)<br />Final: 91/100 (Mean: 68)<br /><br />Final Grade = A<br /><br />Well its a math course, so you can&#039;t expect lenient grading. I guess A+ could have been possible with better grading, but I was happy nonetheless.",
+      "comment_workload": "I would give this an A IF you have friends to do the homework together. There are 300 HW questions, but there is only one deadline before the final exam. So technically you need to do about 80-100 questions a month. They are all MCQ, and more than half are from the book. <br /><br />However, its important to be accurate, especially on the tough questions, as its designed in such a way that lower the number of students who got a question right, higher its weightage. <br /><br />I basically pretended this course didn&#039;t exist until about 3 weeks before the exam, because the way it is designed you are able to do that (no midterm or regular deadlines)",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "F8dE6RIucpbGrElc8tbbyhajoQ4VSEEr",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 550,
+          "name": "CHEN, Kani",
+          "rating": 1
+        }
+      ],
+      "author": "birdcrap",
+      "date": "May 31, 2023",
+      "title": "Useful content for quant interview",
+      "comment_content": "The material is on stochastic process which basically means analysis of multiple random variables.<br /><br />I waived the pre-req and took this course alongside Math2421.<br /><br />Syllabus:<br />Check other review, not changed at all.<br /><br />The part I found most useful is at the start of the semester talking about first step analysis. If you are into the quant industry, knowing how to calculate those expected value is extremely helpful for your interview. Some of the questions taught in the class actually appears in my interview at a big Market Making firm. So I would suggest take this course as soon as possible if you want to be a quant trader/ quant researcher.<br /><br />Eg. How many expected coin toss do you need to throw to see the pattern &#039;HHT&#039; for the first time?<br />Eg2. I have 3 coins you have 4 coins. We flip another coin, if Head I give you one of my coin, if tails you give me one of yours. The game end when either of us lose all our coins. What is the probability that I win?",
+      "comment_teaching": "The professor upload all the lecture video at the start of the semester to LALA system, so actually you can speed run the course at any time you want and no need to attend any lectures.",
+      "comment_grading": "Very generous grading for a math course?<br /><br />For the homework part, I am pretty sure that at least half the class bought/found sources for all the questions. As the LALA system will show how many student completed each question. What I observe is 40+ student doing all the question in few days before the exam. I simple do not think that it is possible to do all the questions so quickly with high accuracy.<br /><br />For the final part, most of the questions come directly from the LALA system (DIY part), so you could print out all the DIY questions as no limit on cheat sheet and try to find the corresponding questions during the exam. <br /><br /><br />Grading scheme:<br />50% Homework (LALA)<br />50% Final<br /><br />LALA:<br />0 87.79 93.38 96.77 98.56 | 93.87<br />Final:<br />18 54.75 69.5 85.25 100 | 86<br /><br />Final Grade: A-<br /><br />Remarks:<br />Getting an A- with my final&#039;s score barely above UQ is unexpected. <br /><br />Just buy sources to secure your grade, since final is also basically hw questions. Buying the HW source also helps with your final. I regret that I did not do so...",
+      "comment_workload": "Did not buy source: Huge<br />Buy source: Close to zero<br /><br />Either do three hundred questions on your own or spend some money. So stupid",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "XMPl3Pkwh9wmNVK0cWuVkUH9GdhtKftk",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 550,
+          "name": "CHEN, Kani",
+          "rating": 1
+        }
+      ],
+      "author": "yam",
+      "date": "Jun 19, 2022",
+      "title": "Interesting content, too much workload, bad grade",
+      "comment_content": "Markov Chain, Poisson distribution, Poisson Process, Pure Death and Pure Birth Process, Renewal Process.. Personally speaking, the topics are very interesting. Feels like in a casino sometimes. The reference textbook is self-explanatory with beautiful examples.(Unable to read much tho). I enjoy the learning very much.<br /><br />Refer to sylla22.pdf for details. Refer to Chap1&amp;2.pdf for a graphic anatomy of the course.",
+      "comment_teaching": "The instructor speaks clearly and well. He must have taught this course for so many times. So he doesn&#039;t seem very passionate but the teaching is fair. One brownie point for the prof, his lecture notes are great. Very original and interesting. You can tell prof is smart and knowledgeable not just in Math but other areas as well. <br /><br />Refer to other attachment for details.<br /><br />He doesn&#039;t reply to emails very much nor holds any office hour. If you have any questions, either ask in the lecture or ask the TAs. They are nice TAs and give useful tutorials.",
+      "comment_grading": "I finish half of the LALA questions which already took quite some time!!! <br />The LALA score is 75.<br />Final exam: 87<br /><br />LALA: 50% Final: 50%<br /><br />Final Grade: B<br /><br />The first math course I ever get B from. Others are all A or A+...Even for analysis course. So I would give a bad grading... I have no idea how can anyone do so many LALA questions. If you have just 3 to 4 courses per sem. You may consider taking this. Else it&#039;s going to be too time-consuming.",
+      "comment_workload": "HUGE. Working through half of the problems already drained me. <br />There are three types of questions: Exercise, Problem, DIY. Overall, the latter two are more difficult than the first one.<br />The system is a bit dumb in terms of reviewing marked/wrong questions. But no one is upgrading or improving it anymore. <br />To be honest, the questions themselves are interesting but there are just too many. Most of them aren&#039;t easy either. <br /><br />I save many questions in pdf form for future review (would love to share:)&nbsp;&nbsp;I wish someone had shared their resources with me when I am scrambling for but unfortunately I know no one that has taken this course at that time:(",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 2,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 7,
+      "vote_count": 8,
+      "comment_count": 1,
+      "attachments": [
+        {
+          "key": "zgCS1DxFHn4N9lc36qH0LASLPT1gTHvI",
+          "name": "syll22",
+          "format": "pdf"
+        },
+        {
+          "key": "wlRvw4FC5KmYTQ5lhjnL6Uxwno6SBcu7",
+          "name": "Chap1&2",
+          "format": "pdf"
+        },
+        {
+          "key": "llBpIgUyMhvUdzR5A4xsIOeSiHyOrumT",
+          "name": "Chap3part1",
+          "format": "pdf"
+        },
+        {
+          "key": "hah7jZEvQ4Hfha6yQgsTgSqxZEvqkPrt",
+          "name": "Chap3part2",
+          "format": "pdf"
+        },
+        {
+          "key": "PZy4CZt6JoOM1W0KAJ2JxW6FxxXxY0GC",
+          "name": "Chap3part3",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "NXsY7z5VpYrqpyveMTlCiiL2wzmjaFGo",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 550,
+          "name": "CHEN, Kani",
+          "rating": 1
+        }
+      ],
+      "author": "Dc528",
+      "date": "May 31, 2022",
+      "title": "IMPROVE LALA",
+      "comment_content": "Chp1-2 Probi.&amp;Stat. Review (Not important at all)<br /><br />Chp3 Markov Chain(Just learning the def.(definition) of a random process)<br /> First Step Analysis(Deriving linear systems from first transition(common sense))<br />Branching Process and Probability of Extinction<br /><br />Chp4 Long Run Behaviour of Markov Chain(some result of Linear Algebra)<br /><br />Chp5 Poisson Process(Continuous Time of Poisson Distribution, the course getting hard from this part)<br /><br />Chp6 Pure Birth, Pure Death Process(Applications of Poisson Process)<br /><br />Chp7 Renewal Phenomena<br /><br />Did not learn much, and neither logic/maths application skills have much improved.<br /><br />Here&#039;s a complaint about LALA:<br />Quite many questions(I guess 15%) are so hard that you cannot solve them even though you have attended all the lectures and done your revisions. You can learn nothing from the complicated solutions that you have never seen before, and you get a worsen grade because of these questions.",
+      "comment_teaching": "Prof. Chen has a nice accent and was willing to answer any questions with patience during lectures. He gave clear explanations of the proof and intuitions of the course materials.<br />However, I think LALA, as one of the teaching materials, is very problematic.",
+      "comment_grading": "50% LALA (mean ~= 85%)<br />50%Final&nbsp;&nbsp;&nbsp;(mean ~= 74%)<br />In 50%LALA, 25% counted on your correctness(Linear) <br />25% counted on your completeness(Diminishing Marginal)<br />Roughly say the overall mean ~= 80%, <br />I have ~80% and got a B, so good grade frankly(in UST).<br /><br />However, you can absurdly get an A+ in this course within one day:<br />1. Find a friend, finish the LALA in 1day, 50% of the course guaranteed;<br />2. Get a printer, print all the LALA questions out, matching questions in the open-book final(they are the same!), and another 50% of the course guaranteed;<br />100% -&gt; A+<br /><br />&quot;Learning is more than scoring&quot;, yet the method to get an A+ is still the most absurd one I have seen in UST.<br /><br />Sry for bad English.",
+      "comment_workload": "No (midterm or attendence)<br />One semester(90days) for 360LALA-questions.<br />-&gt;4LALA-questions per day.<br />I will give a &quot;B&quot; as most of the time I am waiting for the LALA server to respond rather than doing Maths.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 5,
+      "comment_count": 2,
+      "attachments": []
+    },
+    {
+      "hash": "V9TZfjZ2gbf18ssiIoRgQ6gAh5kNqKCM",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 550,
+          "name": "CHEN, Kani",
+          "rating": 1
+        }
+      ],
+      "author": "UnconMarketeers",
+      "date": "May 20, 2022",
+      "title": "Lowest workload math course I&#039;ve ever taken",
+      "comment_content": "Markov chain, Long run behavior of Markov process, Renewal process (where Poisson and Pure birth/death processes are basically special cases of renewal)<br /><br />The main textbook is so friendly that, comparing with other textbooks like Ch6 (and onwards) of Probability and Random Process by Grimmett, the context focuses on applications and (relatively) practical examples rather than advanced theories. <br /><br />I took this course with MATH2431 together, and this course has strengthened my understanding about those important content like binomial approximation for poisson rv, or sum of random variables. Both courses have included branching process, but have not discussed random walk (well there are a few related examples in LaLa if I remembered correctly), which I think is a good example for topics like first step analysis.",
+      "comment_teaching": "Sticks on the instructor&#039;s lecture notes. You may find many interesting examples in the notes, but for learning purpose, the lecture note is far from adequate!<br /><br />Also, the existence of LaLa system motivates students to self-learn the materials, so the instructor&#039;s teaching becomes less important here.",
+      "comment_grading": "50% from the LaLa, and 50% from exam. Exam mean is about 72%. (Update: The mean becomes 74% now - It should be the finalized figure)",
+      "comment_workload": "Theoretically, you only have to work hard (in LaLa system) for good grade a couple of weeks before exam. But there are a lot of questions that you have to do, and before exam you must be busy, so manage the time to finish them is important.<br /><br />IMPORTANT: Try to copy down the questions in LaLa system that you feel tricky, especially those DIY problems.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 6,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ricc1pGBsgaHAvGUhHytySJ3ylzp07mV",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 550,
+          "name": "CHEN, Kani",
+          "rating": 1
+        }
+      ],
+      "author": "2000li",
+      "date": "May 20, 2022",
+      "title": "HW: lala system, Final: lala system",
+      "comment_content": "Consists of 5 Chapters:<br />Ch3 Markov Chain, First Step Analysis, Branching Process<br />Ch4 Long Run Behaviour of Markov Chain<br />Ch5 Poisson Process<br />Ch6 Pure Birth &amp; Death Process<br />Ch7 Renewal Phenomena<br /><br />MATH2421 is important for learning Ch5-7",
+      "comment_teaching": "Detailed and clear explanation for course material but the anccent is not very good. Lecture video is provided so you can listen it again if you did not catch up.",
+      "comment_grading": "HW + Final<br />HW (50%): correctness (25%) + completeness (25%)<br />Final (50%)<br /><br />Final Statistics:<br />mean 73.96<br /><br />Overall Statistics:<br />mean 79.24<br />s.d. 16.2<br /><br />Good grade course, +0.5 s.d. = A-<br />(Nearly 30% A range)",
+      "comment_workload": "Low workload if you do the homework each week.<br /><br />320 lala system questions, keeping high correctness is not a easy task. However, most of the questions in final are from lala system so work hard on lala system definitely help.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "E99YHnRYhU5GD8bpAj3YynPfBn2qZkmN",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 550,
+          "name": "CHEN, Kani",
+          "rating": 1
+        }
+      ],
+      "author": "阿賢",
+      "date": "Jun 04, 2019",
+      "title": "LALA system course",
+      "comment_content": "⭐個course 既主要目的 : <br />(個人見解) 明白做功課(LALA SYSTEM)既重要性, 可以用一條equation 概括個course,&nbsp;&nbsp;&quot; Midterm + Final = LALA system&quot; <br />(真正目的) 明白不同現實程況的 random process, 大多數有memoryless (i.e. 有Markov chain既特性)<br /><br />⭐ First Step Analysis<br />睇表面好複雜, 但其實用番原本既 Expectation of conditional probability, 再加埋d constants, 最後發現會係等於 1 (依個就係first step) , 我諗都係方便計數而學<br /><br />強調 : 唔明就做LALA system, 絕對有回報 <br /><br />⭐Branching Process<br />依個Chapter 人口增長, 最複雜既就係d 符號, 太多符號了吧, 係到唔多講, 依個sem Midterm 同 Final 完全無考過, 不過唔代表你果個Sem 唔考wo, 哈哈<br /><br />強調 : 唔明就做LALA system, 絕對有回報 <br /><br />⭐Long Run Behavior<br />依一科最主要講Markov chain 係長遠黎講 個prob. 會變成點. 用好standard 既計數方法計, 最容易理解既一課<br /><br />lecture notes 入面有d sophisticated examples, 你要明白只for 理解用, 最重要都係....LALA system<br /><br />強調 : 唔明就做LALA system, 絕對有回報 <br /><br />⭐Poisson Process<br />Midterm 只考過一條勁xx既題目 (唔知如何評價) , x ~ poisson(1), x = # of bus arrived, lambda = average 1 bus arrived in an minute, 第一分題 : Find the probability that no bus arrived in&nbsp;&nbsp;an minute, 第二分題 : Find the probability that at least one bus arrived in two minute.<br /><br />加油啦... Midterm真係好多人滿分, mean = around 90分<br /><br />強調 : 唔明就做LALA system, 絕對有回報 <br /><br /><br />⭐Renewal&nbsp;&nbsp;Phenomena<br />Final 考過Chapter 7 part 1 入面既其中一個proof, 係到唔講咁白, 佢直接考果個proof, 無改到任何既logic, 如果你記左, 完全唔會白廢心機.<br /><br />強調 : 唔明就做LALA system, 絕對有回報",
+      "comment_teaching": "Prof. Chen 提供哂全部lecture video, 由一開始你可以煲哂d video, 所以你未必要上堂, 除非你有問題要問佢",
+      "comment_grading": "HW mean : 87.3/100<br />Midterm mean: 88.11/100<br />Final mean: 26.39/60",
+      "comment_workload": "360題 LALA Syetem questions. 做到痴線, <br />依個就係LALA system course 既最大威力<br />最好搵齊人一齊做<br />依個sem 個course 有60個人, 考final 之前做得完既神人 只有around 30個人, 跟住 final 就考番果一堆questions, 無言",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 11,
+      "vote_count": 12,
+      "comment_count": 7,
+      "attachments": []
+    },
+    {
+      "hash": "5OLfRtnLnpS1CQgVnvhxjZ80mQyvDa5k",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 550,
+          "name": "CHEN, Kani",
+          "rating": 1
+        }
+      ],
+      "author": "Jonathan:-)",
+      "date": "Jun 01, 2019",
+      "title": "Demanding Assignment and harder final",
+      "comment_content": "Not much compared to other courses. The course itself is quite interesting.<br /><br />Chapter 3 Markov Chains<br />Chapter 4 The Long Run Behaviour Of Markov Chains<br />Chapter 5 Poisson Process<br />Chapter 6 Continuous Time Markov Chains<br />Chapter 7 Renewal Phenomena<br /><br />The midterm exam covers Chapter 3 ~ 5<br />The final exam covers Chapter 5 ~ 7",
+      "comment_teaching": "His teaching is quite clear. He focuses on the concepts and the motivations rather than the calculations and rigorous proofs, which I found quite good for a UG level course.<br /><br />As there really is not much material, plus the lecture videos can be found online, attending the lectures is not necessary.",
+      "comment_grading": "40% Assignment (Mean = 87/100)<br />(20% Accuracy, 20% Completeness)<br />30% Midterm (Mean = 87/100)<br />30% Final (Mean = 26/60)",
+      "comment_workload": "Assignment:<br />There are about 350 questions on the LALA system. One needs to finish ALL to get full marks in completeness part. Meanwhile, one has to take notes of the accuracy as well, which can be very demanding. <br /><br />The questions mainly come from the textbook (Exercise and Problem), while some are prepared by the TA and instructors (DIY part). Some questions are very weird and some require knowledge beyond just the lecture notes. It is indeed very demanding to finish all questions with high accuracy.<br /><br />My suggestion is to finish most questions related to the lecture notes. Take special care of the questions in DIY as they may be used to set up exam questions, at least for this year there are 3~4 questions in the final that are almost the same as those in DIY. And those are some rather difficult ones.<br /><br />Midterm:<br />Quite straightforward, simply understand the lecture notes and do some exercise would be enough.<br /><br />Final:<br />One should understand the lecture notes thoroughly (including proofs). Besides, finish and understand the DIY questions will be very helpful.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 8,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "gAQXgNgrMqDFzlWG28NRw2CKvUAy9Ber",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 550,
+          "name": "CHEN, Kani",
+          "rating": 1
+        }
+      ],
+      "author": "cdbn",
+      "date": "Jun 03, 2017",
+      "title": "",
+      "comment_content": "这门课的主要内容:<br />Discrete:<br />- first step analysis<br />- branching process<br />- long run behaviour of discrete markov chain<br />- classification of state of markov chain<br />Continuous:<br />- Poisson process<br />- Birth &amp; Death process<br />- Renewal process and its asymptotic behaviour<br /><br />Discrete部分还算简单，只要会把题目设立成discrete markov chian和解线性方程就好。<br />Continuous部分难度突然暴增，光看笔记的内容不会觉得难，但一变成习题就让人有措手不及，无从下手的感觉，而且题目变化还算挺大的。<br /><br />这门课比较比较着偏重于随机的概念，而不是一大堆复杂的数学证明（有些部分例如explosion of pure birth process，都没给出严谨的证明），因此无论是assignment或是考试题目，都鲜少看到证明题。<br /><br />这学期，教授和几位劳苦功高的TA们一起创造了一个叫“LALA”的系统，目的是要达成所谓的personalized learning。因此，教授不断鼓励童鞋们使用这个系统，同时也提供这个系统一些反馈（越多data，这个系统就越聪明）。LALA的确帮了很多人（尤其是抱大腿的人）。在这个系统出现前，都要购买课本习题的solution manual来刷题，而这个系统就结合了很多习题和解答，非常方便刷题使用。<br /><br />感觉上这学期教授skip了很多重要的内容，例如random walk，因此建议想认真学好这门课的童鞋们自己读课本。作为一门随机模型的中级课，无论是想得好grade，清elective还是以后想往这方面发展的同学，都强烈建议上。",
+      "comment_teaching": "教授给人很慈祥、有问必答的感觉。我只上了第二/三堂和最后一堂课，就已经深深感受到当中差别。第二/三堂课时用了一整堂课教了很简单的随机概念，但最后一堂课竟然很快地教完renewal process的渐近行为。所以我觉得这位教授的授课方式很注重基础概念而非复杂的数学证明。这也能从assignment和考试题目体现出来。",
+      "comment_grading": "midterm: mean 88.8，SD 15，highest 100<br />final: mean 78，SD 17，highest 100<br />final是cumulative的。一共10题，每个chapter 2题。<br /><br />教授给龟貌似不错，A range应该还算挺大的，但我相信这学期要得总评满分才能A+，而mean应该是B range。<br /><br />基于LALA的成立和这门课本身就不多的materials，这是一门好grade课。童鞋们只要在考前几天读完lecture note，把LALA的重要习题都刷过一遍，就应该能得A range了。",
+      "comment_workload": "共有6份assignment，只要做完教授都给满分，所以workload不算大。",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 5,
+      "vote_count": 11,
+      "comment_count": 3,
+      "attachments": [
+        {
+          "key": "J7znDOP3zhgq4izugA9HT8haGzOO3lU8",
+          "name": "syll15",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

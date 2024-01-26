@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 1941,
+    "subject": "COMP",
+    "code": "6613A",
+    "name": "Hot Topics in Human-Computer Interaction",
+    "description": "This course is a broad post-graduate-level introduction to Human-Computer Interaction (HCI), with an emphasis on techniques, models, and theories for designing, prototyping, and evaluating current and future interactive systems for human use. Selected topics include (novel/natural) interaction design, usability evaluation, social computing, ubiquitous/mobile computing, virtual/augmented reality and gaming, agents and robots, etc.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1630
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 805,
+        "name": "MA, Xiaojuan",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "XI3qeHajXHYVzb5ModqvNDhi9U9URRlr",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 805,
+          "name": "MA, Xiaojuan",
+          "rating": 1
+        }
+      ],
+      "author": "xpf",
+      "date": "Sep 03, 2017",
+      "title": "",
+      "comment_content": "Great slides and great talks, using Slack enhance and stimulate the community to exchange on this subject. Debates might be a little bit exaggerated but we got great outputs about future and how to orient our research.",
+      "comment_teaching": "Pr. Ma gave great talk and, as most of the TED-like lecture and conferences are made by students, it&#039;s a great way to see different presentation skills and improve our own based on feedbacks.",
+      "comment_grading": "Everything is graded, from conferences, participation, paper reviews, but it&#039;s fair and done well.",
+      "comment_workload": "Just fine!<br />Few hours a week to be updated about the news in the field, assignments can take time but they are known weeks before the deadline, so there is nothing to complain about on this side!",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

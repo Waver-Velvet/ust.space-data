@@ -1,0 +1,358 @@
+{
+  "course": {
+    "id": 2731,
+    "subject": "OCES",
+    "code": "3160",
+    "name": "Ecology",
+    "description": "Basic principles and patterns of ecology; population growth; community interaction; ecosystem; ecosphere.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4.88,
+    "rating_teaching": 4.88,
+    "rating_grading": 4.88,
+    "rating_workload": 4.88,
+    "review_count": 8,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1090,
+        "name": "YAU, Sin Ting Cynthia",
+        "count": 7
+      },
+      {
+        "id": 1881,
+        "name": "USHIO, Masayuki",
+        "count": 2
+      },
+      {
+        "id": 227,
+        "name": "KO, Ice Wai Ping",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "pShDtH3CdzYs0L0qxn40aJhHl2zgdZKG",
+      "semester": "2023-24 Fall",
+      "instructors": [],
+      "author": "IceDog",
+      "date": "Jan 22, 2024",
+      "title": "OCES 3160",
+      "comment_content": "The concepts are easy to understand especially for those who have bio background. Just like some content from wekipedia and you can just memorise them all and then go to the exam.",
+      "comment_teaching": "Prof. Cynthia is good",
+      "comment_grading": "The grade is fair as all the question in the exam are refer to the content of ppt. No need further thinking during the exam",
+      "comment_workload": "No homework or presentation in this course. And it does not require any attendance so that sutdents can have more flexible timetable and have greater flexibility to arrange their activities.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "IMleB95P5ASE4VehjON64SO1JdEwI1Ye",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1881,
+          "name": "USHIO, Masayuki",
+          "rating": 1
+        },
+        {
+          "id": 1090,
+          "name": "YAU, Sin Ting Cynthia",
+          "rating": 1
+        }
+      ],
+      "author": "Shin, Woo-hong",
+      "date": "Dec 28, 2023",
+      "title": "Both professors are great!",
+      "comment_content": "The course is exceptionally well-structured and presents the content in a straightforward manner, making it the standout course of this semester.<br /><br />Introduction: What Is Ecology? Ecological Methods CY &amp; MU<br />The Ecology of Hong Kong CY<br />Ecological Genetics I: Species Concept; Speciation CY<br />Ecological Genetics II: Heredity; Mendelian and Non-Mendelian Genetics; Natural Selection CY<br />Ecological Genetics III: Hardy-Weinberg Equilibrium CY<br />Physiological Ecology I: Plants CY<br />Physiological Ecology II: Animals CY<br />Behavioural Ecology I: Foraging Behaviors CY<br />Behavioural Ecology I: Foraging Behaviours (continued) CY<br />Behavioural Ecology II: Social Behaviours, Kin Selection, Eusociality CY<br />Behavioural Ecology III: Mating Systems, Sexual Selection CY<br />Life History Strategies CY<br />Mid-Term Exam CY &amp; MU<br /><br />Population Ecology I MU<br />Population Ecology II MU<br />Competition &amp; Coexistence I MU<br />Competition &amp; Coexistence II MU<br />Facilitation I MU<br />Facilitation II MU<br />Predation I MU<br />Predation II MU<br />Herbivory MU<br />Ecological Succession/Island Biogeography (Community Ecology) MU<br />Final Exam CY &amp; MU",
+      "comment_teaching": "Both professors demonstrate a high level of preparation and responsibility in their teaching. They effectively convey the material in a straightforward manner, ensuring that the content is easily understandable. In instances where there may be unclear points, they excel at providing thorough explanations to clarify any uncertainties. Their dedication to ensuring clarity and understanding greatly enhances the learning experience.",
+      "comment_grading": "Having only two exams can make the grading process more manageable and less complex, potentially resulting in a smoother and more straightforward evaluation.<br /><br />Class mean = 35.22<br />S.D = 7.58<br />Highest score = 49.0<br />Me: 49<br /><br />Class mean = 37.7<br />S.D. = 6.1<br />Highest score = 49.0<br />Me: 47",
+      "comment_workload": "Light. If you attend every class, you have the potential to achieve a great mark in the exams. Regular attendance increases your chances of success in exams.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "PLGSyPJDm64WRkrEsfopj7HXrDl92ZCb",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1090,
+          "name": "YAU, Sin Ting Cynthia",
+          "rating": 1
+        },
+        {
+          "id": 1881,
+          "name": "USHIO, Masayuki",
+          "rating": 1
+        }
+      ],
+      "author": "ppowoe",
+      "date": "Dec 27, 2023",
+      "title": "Perfect low workload course",
+      "comment_content": "Basic things about ecology.<br /><br />First half<br />Ch1: Introduction<br />Ch2: The Ecology of Hong Kong<br />Ch3: Ecological Genetics &amp; Evolution I - Species Concept, Speciation<br />Ch4: Ecological Genetics &amp; Evolution II - Heredity; Mendelian and Non-Mendelian Genetics; Natural Selection<br />Ch5: Ecological Genetics III - Hardy-Weinberg Equilibrium<br />Ch6: Physiological Ecology I - Plants <br />Ch7: Physiological Ecology II -&nbsp;&nbsp;Animals<br />Ch8: Behavioural Ecology I - Foraging Behaviours<br />Ch9: Behavioural Ecology II - Mating Systems &amp; Sexual Selection<br />Ch10: Life History Strategies<br /><br />Second half<br />Ch11: Population Ecology I<br />Ch12: Population Ecology II<br />Ch13: Competition &amp; Coexistence I<br />Ch14: Competition &amp; Coexistence II <br />Ch15: Facilitation I<br />Ch16: Facilitation II<br />Ch17: Predation I<br />Ch18: Predation II<br />Ch19: Herbivory<br />Ch20: Ecological Succession &amp; Island Biogeography<br /><br />Generally speaking the contents are very easy, especially when you already knows some biology or ecology stuff.<br /><br />There are a few mathematical things covers in the second half of the course, which involves differential equations. But they won’t tell you to solve them in the exam, just understand what they mean and also the graph is enough.",
+      "comment_teaching": "Cynthia teaches the first half and Ushio teachers the second half.<br /><br />Both professors are very nice and responsible. They explain the things well and always answer students questions after the class.<br /><br />Sometimes they bring samples of plants and show them to us, or even let us touch them and smell them,&nbsp;&nbsp;which is kind of an interesting and effective learning experience.",
+      "comment_grading": "1. Midterm (50%)<br />Total: 50<br />Mean: 35.8<br />SD: 7.58<br />Min: 17<br />Max: 49<br />Me: 45<br /><br />2. Final (50%)<br />Total: 50<br />Mean: 37.7<br />SD: 6.1<br />Min: 16<br />Max: 49<br />Me: 47<br /><br />The final exam is not consecutive. It only covers the things after the midterm.<br /><br />Both exam all MC.<br /><br />Final grade: A+<br />Very good grade, I guess over 90% can have A+.",
+      "comment_workload": "Very light, just 1 midterm and 1 exam.<br /><br />Reviewing the lecture notes and memorize the things is sufficient for a good exam result.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "0dCx9MF9qn8EYZoEMXih0cZ2JYavZ9FG",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1090,
+          "name": "YAU, Sin Ting Cynthia",
+          "rating": 1
+        }
+      ],
+      "author": "..",
+      "date": "Jan 30, 2023",
+      "title": "",
+      "comment_content": "Course content<br />1. Introduction<br />2. The Ecology of Hong Kong<br />3. Ecological Genetics<br />4. Physiological Ecology of Plants<br />5. Physiological Ecology of Animals<br />6. Foraging Behaviors<br />7. Social Behaviors<br />8. Mating Systems and Sexual Selection<br />9. Life History Strategies<br />10. Population Ecology<br />11. Competition &amp; Coexistence<br />12. Facilitation<br />13. Predation<br />14. Herbivory<br />15. Ecological Succession",
+      "comment_teaching": "Cynthia is nice and patient. <br />Teaching is good and willing to answer students&#039; questions. <br />She explained everything well during the lecture.",
+      "comment_grading": "Both the midterm and final format are MCQs.<br />Fair grading",
+      "comment_workload": "Workload is light because there is no assignment in this course.<br />Only midterm and final exam<br />The lecture contents are quite easy to understand.<br />Understanding the concepts and revising all the PowerPoints are enough.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "0Zr4ncNh8Rj50wk6DPKouEt8AjEq8Cn8",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1090,
+          "name": "YAU, Sin Ting Cynthia",
+          "rating": 1
+        }
+      ],
+      "author": "PW_Jonathan",
+      "date": "Jan 30, 2023",
+      "title": "Nice CC",
+      "comment_content": "Ecology of Hong Kong<br />Genetics &amp; Evolution I<br />Physiological Ecology of Plants<br />Physiological Ecology of Animals<br />Foraging Behaviour<br />Social Behaviours<br />Mating Systems &amp; Sexual Selection<br />Life History Strategies<br />Population Ecology<br />Competition<br />Facilitation<br />Predation<br />Herbivory<br />Ecological Succession<br /><br />Many chapters",
+      "comment_teaching": "Nice teaching by Cynthia. <br />Easy to understand.<br />She is patient and willing to teach.",
+      "comment_grading": "MC in MT and Final. <br />Above mean in MT, but not sure the score of Final.<br />Overall: A-<br />Fair grading",
+      "comment_workload": "Only MT and Final. <br />Revising all the ppt sides is enough to deal with the exams, but there are lots of content to remember.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "wIdcOEthifDsJVwfxEaPKBGxzexfnqAy",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1090,
+          "name": "YAU, Sin Ting Cynthia",
+          "rating": 1
+        }
+      ],
+      "author": "Jenlee",
+      "date": "Jan 04, 2023",
+      "title": "love Cynthia",
+      "comment_content": "Ecology of Hong Kong<br />Genetics &amp; Evolution I<br />Physiological Ecology of Plants<br />Physiological Ecology of Animals<br />Foraging Behaviour<br />Social Behaviours<br />Mating Systems &amp; Sexual Selection<br />Life History Strategies<br />Population Ecology<br />Competition<br />Facilitation<br />Predation<br />Herbivory<br />Ecological Succession<br />今年比較好彩，mt同final都得mc<br />內容簡單容易理解，易到唔似大學課程",
+      "comment_teaching": "Cynthia教書講野好清楚<br />mt出題簡單，全部係powerpoint入面<br />final就難一dd，絕大部分係powerpoint，小部分係佢lecture提過",
+      "comment_grading": "考前兩日開始溫<br />mt：42/50<br />final：唔知<br />最後A",
+      "comment_workload": "no assignment<br />only mid-term and final<br />有朋友幫手記低ppt冇嘅野其實唔去lecture都得",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "jobEJ1MEbBMXcU0MORZvrTHr00SzmDfK",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1090,
+          "name": "YAU, Sin Ting Cynthia",
+          "rating": 1
+        }
+      ],
+      "author": "cky_kc",
+      "date": "Jan 01, 2023",
+      "title": "",
+      "comment_content": "The course outline pdf is enclosed in this comment.<br /><br />It is preferred if you studied biology in high school, as some terminologies are explained/learnt beforehand. It might be challenging for people with no prior biology knowledge, as some terminology aren&#039;t as concisely explained and is skimmed over quickly.<br /><br />The course dabs on several ecology topics but doesn&#039;t dive too deep into them. Each ecology topic is covered in one lecture note, with an average of 20-35 pages each. Hence, it wouldn&#039;t be too difficult for people new to ecology to understand. The only issue would be the mixing up of information between various topics.<br /><br />The knowledge that will be tested isn&#039;t cumulative, so you don&#039;t have to stress about revising the same stuff from mid-term. <br /><br />The course description failed to mention that it was made for Science Year 3 Students (or maybe I&#039;m just blind, oop-). This didn&#039;t impact me, as I handled the course pretty well.<br /><br />Please be reminded that my notes (enclosed in this comment) are just summaries of different topics based on my understanding. Some information might be excluded/not as detailed compared to the lecture notes as I&#039;ve already learnt or memorized beforehand. I hope it can help anyone whose studying this course :&gt;",
+      "comment_teaching": "Professor Yau would slowly read off the powerpoints in each lecture. <br />She&#039;s a passionate teacher who sometimes shares her ecological experiences and cracks some jokes to liven up the classroom. She even showed us her potted plants once, to serve as an example of the relevant topic. In addition, she&#039;s very open to students asking her questions during lectures.",
+      "comment_grading": "The exams are MC-based. They test your memorization (90%) and understanding (10%) of each topic. Most questions come from the lecture slides (not those you have to take pictures of). You don&#039;t have to remember everything word for word, as the answers don&#039;t differ much. If you aim high, you&#039;ll have to remember specific numbers and animals from each category, which appeared in several questions. Don&#039;t worry about forgetting specific mathematical models/formulas, they will be provided in exams without further explanation, so you&#039;ll still need to know what the alphabetical letters represent.<br /><br />The most challenging part is questions that test your understanding. Some are hinted at in lecture notes, so you have to pay close attention to detail. In mid-term, I struggled with 5 of those questions, while for my finals, I struggled with 7.<br /><br />Mid-term: 42/50 (50%)<br />Mean:36.1; Low:20.0; High 46.0<br />I started revising early on since the professor was uncertain about testing us with MCs and short questions. Also, I was never good at biology, so I was worried about not catching up.<br /><br />Finals: Not given (50%)<br />I started revising only a week before the exam. hence I didn&#039;t remember/understand as much during the finals.<br /><br />Overall, I got an A-.",
+      "comment_workload": "The only workload is that you have to memorize for the exams.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "ITNFz247sc1sBuDoOBWSxb4i2hXhCRdL",
+          "name": "Ecology Pt.2",
+          "format": "pdf"
+        },
+        {
+          "key": "59rNfZMkUxk7Vc37oCnGzwwp0qXUAe86",
+          "name": "Ecology",
+          "format": "pdf"
+        },
+        {
+          "key": "MEJ4ehPuPtsmzbYBGuOxWIDsoEB9X4bh",
+          "name": "OCES 3160 course outline (Fall 2022-23)-Final as taught",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "4k4Owzo5awAE0eEj5JuuB4NtOC23OLFh",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 1090,
+          "name": "YAU, Sin Ting Cynthia",
+          "rating": 1
+        },
+        {
+          "id": 227,
+          "name": "KO, Ice Wai Ping",
+          "rating": 1
+        }
+      ],
+      "author": "RainforesTnT",
+      "date": "Jan 12, 2022",
+      "title": "Fair grade, low workload",
+      "comment_content": "Dr. Yau (before midterm)<br />Introduction – What is Ecology? Ecological methods The Ecology of Hong Kong<br />Genetics and evolutionary ecology<br />Natural selection, speciation<br />Physiological ecology of plants<br />Physiological ecology of animals<br />Behavioral ecology: foraging behaviors<br />Behavioral ecology: social behaviors, kin selection, eusociality Behavioral ecology: mating systems, sexual selection<br />Life history strategies<br />Demographic techniques and population patterns <br />Population growth<br /><br />Dr. Ko (after midterm)<br />Competition &amp; Coexistence<br />Facilitation<br />Predation<br />Herbivory<br />Parasitism<br /><br />In my opinion, this course is fun to learn since lots of examples and graphs are given on each topic for us to understand the concept more easily.",
+      "comment_teaching": "Both are excellent teachers and can speak fluent English. Understanding the content shouldn&#039;t be a problem if you attend all the lessons (or take a look at zoom recording).",
+      "comment_grading": "Midterm (50%) + Final (50%)<br />All MC<br /><br />Midterm:<br />Mean: 37.02/50<br />SD: 6.99<br /><br />Final:<br />Mean: 36/49<br />SD: 5.4<br /><br />Although the mean looks a bit high, it is simply because most of us understand the content quite well. It should be easy to get a satisfying grade if you spend some time on it.",
+      "comment_workload": "Very low. Only one midterm and one final. Since the PowerPoint given is not difficult to understand, it doesn&#039;t need much time to revise.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

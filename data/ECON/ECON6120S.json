@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 3516,
+    "subject": "ECON",
+    "code": "6120S",
+    "name": "Advance Topics in Decision Making",
+    "description": "This course provides graduate students in economics with a wide range of topics in decision theory. We will focus on classic and recent models of decision-making under risk and uncertainty and models of dynamic decision-making. The course aims to equip the students with the necessary background knowledge in decision theory and major techniques to conduct independent research in relevant field.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2110
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ECON\" data-code=\"5300\" href=\"/review/ECON5300\" target=\"_blank\">ECON 5300</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

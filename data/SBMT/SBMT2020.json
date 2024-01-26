@@ -1,0 +1,74 @@
+{
+  "course": {
+    "id": 1070,
+    "subject": "SBMT",
+    "code": "2020",
+    "name": "Effective Communication in Business",
+    "description": "The course organizes a student’s previously acquired English language skills into a useful managerial toolkit targeted toward specific business applications and strategies. Students learn how to adapt and apply their English language abilities to real-world assignments within their business major and, after graduation, to career tasks and opportunities. Positioned toward the latter portion of a student’s undergraduate business education, the course prepares students to succeed in their remaining university assignments (such as research tools, written tests, presentations, interviews, meetings, collaborative assignments, interpersonal communication and so forth) as well as the communication challenges they can expect in their careers. For Business students in their third or fourth year of study under the 4-year curriculum.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      1430,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"LABU\" data-code=\"2050\" href=\"/review/LABU2050\" target=\"_blank\">LABU 2050</a> OR <a class=\"course-link\" data-subject=\"LABU\" data-code=\"2052\" href=\"/review/LABU2052\" target=\"_blank\">LABU 2052</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3,
+    "rating_teaching": 2,
+    "rating_grading": 3,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 421,
+        "name": "TANG, Eunice",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "9Drf5qb3GQmjHb3Al9zG1RHMwdDXBY0o",
+      "semester": "2014-15 Fall",
+      "instructors": [
+        {
+          "id": 421,
+          "name": "TANG, Eunice",
+          "rating": 0
+        }
+      ],
+      "author": "Star*",
+      "date": "Aug 15, 2015",
+      "title": "A required but useless course",
+      "comment_content": "Required Course for all SBM students. Although no assignments but then you need to prepare for presentations. One job interview, one individual presentation (6 min) and one group presentation. Group presentation similar to LABU2052, a case study.",
+      "comment_teaching": "LANG course depends largely on instructor as different one got different teaching styles. Need to choose one suitable for you but definitely not this one for me.",
+      "comment_grading": "My worst grade in UST ever =[<br />But then this course seems difficult to fail if you have attend all the lectures. Not sure about this though.",
+      "comment_workload": "You can be hea or chur up to you/ your group mates. Although no assignments but then you need to prepare for presentations. I would say less workload then LABU.",
+      "rating_content": 3,
+      "rating_teaching": 2,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

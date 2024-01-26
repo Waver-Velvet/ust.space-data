@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 3019,
+    "subject": "MATH",
+    "code": "4983Y",
+    "name": "Independent Study: Numerical Methods for Finite-Time Lyapunov Exponent",
+    "description": "The course introduces mathematical foundations and numerical methods for computing the finite-time Lyapunov exponent (FTLE) for visualizing and extracting important coherent structures in dynamical systems. Students will pick up various theoretical tools including theories of ordinary differential equations (ODE's) and numerical methods for ODE's and hyperbolic partial differential equations (PDE's). Students should seek instructor's approval to take this course.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1910
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

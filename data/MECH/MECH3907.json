@@ -1,0 +1,75 @@
+{
+  "course": {
+    "id": 3698,
+    "subject": "MECH",
+    "code": "3907",
+    "name": "Mechatronic Design and Prototyping",
+    "description": "This is an extended version of industrial training designed for MAE students. The course's aim is to broaden the professional and engineering interests of students by enhancing their practicum/team-based experience through initiatives different from those of traditional lectures and tutorials. The training is project-based to develop the students' knowledge/experience in designing and building a practical mechatronics system (formerly called Industrial Training). Students will work in teams to identify the needs for their designed prototype. Also, students will be given the opportunity to design and build various mechatronics components including electronic circuits, motors, sensors, etc. from CAD drawings, and practise their engineering knowledge through all laboratory sessions. The main goal is to develop and nurture skills in problem-solving, communication, interpersonal interaction, project and time management, etc. via the entire project.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MECH\" data-code=\"2520\" href=\"/review/MECH2520\" target=\"_blank\">MECH 2520</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 1,
+    "rating_teaching": 2,
+    "rating_grading": 1,
+    "rating_workload": 1,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 565,
+        "name": "MA, Lok Wang",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "rgRus66QLwldUEsVHpRUVJygIUvQsM4S",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 565,
+          "name": "MA, Lok Wang",
+          "rating": 0
+        }
+      ],
+      "author": "USTSPACE_Cowboy",
+      "date": "Jun 07, 2022",
+      "title": "Robin Ma is a joke.",
+      "comment_content": "The whole course is asking you to make a Mechatronics project with your team, utilizing Solidworks and Arduino. They somehow expect you to already master Solidworks &amp; Arduino. They don&#039;t really teach you shit.<br /><br />There was an Arduino workshop, but as long as you follow their tutorial videos, you could finish them, without actually what was going on. You don&#039;t even need to code a word.",
+      "comment_teaching": "Robin Ma doesn&#039;t seem to have any technical knowledge in Mechanical Engineering. At least on what he is &quot;teaching&quot; in this course. His other course MECH 2020 already has a reputation for having faulty teaching materials/calculations.<br /><br />Now in 3907, all he does is ask TA (Stanley Leung) to answer our technical questions. When we have troubles in CAD/circuitry, he never answered them, and just ask TA for help. The only time I learnt something, was from TA, instead of him. I think this just proves he doesn&#039;t know anything, at least qualified to instruct this course.<br /><br />There is no teaching in class at all. Funny how he always emphasizes hoping we learn something in this course, but the reality is I did everything out of my self-taught knowledge, and how a &quot;professor&quot; can be this, well, ___.",
+      "comment_grading": "Fully completed CAD, working circuits and code (TinkerCAD due to Zoom semester), multiple animations, decent presentation and a detailed project report. &quot;B&quot; was the final grade. While some that didn&#039;t even have an animation got A range! You decide if this is fair.<br /><br />He doesn&#039;t explain shit on how he gives the grade. And according to seniors who took this course as well, or previously known as &quot;MECH 2907&quot;, his grading has always have no standard whatsoever. Take a look on that course&#039;s review as well.<br /><br />If you wanna get a good grade from Robin Ma? Suck his d**k off. Reply to his IG stories. Pretend you are interested in his internships. If you were a female student, congratulations, you were born with bonus marks.",
+      "comment_workload": "Depends on your project scale.<br />We were hardworking and try to have as much content in our project as possible.<br /><br />Every week, all groups update him and TA our progress in the Lab section. Many actually skip it as it doesn&#039;t count attendance. We attended all of them though. Wonder if those who never shows up actually received a better grade than us!<br /><br />If you don&#039;t want to actually work on the project R&amp;D, just as said above, suck his d**k off, make him like you, then even if your project is incomplete, you get a good grade.",
+      "rating_content": 1,
+      "rating_teaching": 2,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 8,
+      "vote_count": 10,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

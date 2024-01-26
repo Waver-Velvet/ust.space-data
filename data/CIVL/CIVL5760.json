@@ -1,0 +1,110 @@
+{
+  "course": {
+    "id": 2251,
+    "subject": "CIVL",
+    "code": "5760",
+    "name": "Geotechnical Site Characterization",
+    "description": "Presents state-of-the-art geotechnical site characterization methodologies; includes basic principles of site characterization planning, drilling and sampling, soil and rock description, cone penetration test, standard penetration test, pressuremeter test, dilatometer test, geophysical methods, permeability and ground water monitoring, and fundamentals of geostatistics.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2110,
+      1910,
+      1710
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4.5,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 61,
+        "name": "ZHANG, Li Min",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "WEFWC8iTjRRqysaDoytUKXOL4S9ZJMSx",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 61,
+          "name": "ZHANG, Li Min",
+          "rating": 1
+        }
+      ],
+      "author": "Xu Hao",
+      "date": "Feb 04, 2022",
+      "title": "Review of CIVL 5760",
+      "comment_content": "This course provides quite comprehensive topics about geotechnical site investigation, including general sampling methods, soil/rock classification, CPT, SPT, PMT, VST, DMT, wave-based methods, etc.",
+      "comment_teaching": "Prof. Zhang delivered the lectures at a good pace but the slides may not be that well-organized.",
+      "comment_grading": "Assignments: 100×3<br />Mid-term: 85<br />Final-term: 88.5<br />Total: A",
+      "comment_workload": "3 assignments + mid-term exam (open book) + final-term exam (open book). On average, I spent 3~7 days on each assignment. All three assignments involved more or less programming work. The mid-term exam will cover the first half content, while the final-term exam will cover the second half content. Since exams are open-book, 2~3 days of preparation may be enough.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "v642oDoMgmALcxoUcMMhYC90BOXk2zAD",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 61,
+          "name": "ZHANG, Li Min",
+          "rating": 1
+        }
+      ],
+      "author": "MrEdward",
+      "date": "Jun 02, 2018",
+      "title": "Geotechnical Site Characterization",
+      "comment_content": "This course is about ground engineering including ground investigation techniques such as different drilling methods, various types of in-situ tests (SPT, CPT, Vane shear test...) that occupy about half of the course contents. The remaining topics include geophysical methods using EM or mechanical waves... This a practical and useful course that you can really see something &quot;real&quot;. Only offered once in two years so it’s reli a great opportunity if you can take this course!",
+      "comment_teaching": "The teaching is good and well-prepared. Although the lecture is 3-hr long, the professor is still energetic and willing to answer questions even though after giving a long talk. Only reading the lecture notes is not enough: attending the lectures is more important as many explanations / extra contents were only taught in class.&nbsp;&nbsp;He is a good professor !",
+      "comment_grading": "The grading is lenient! <br />My friend and I got 9x% in midterm + unknown in final -&gt;<br />Final grade: A+",
+      "comment_workload": "Only homework assignments, and 1 midterm + final.<br />Some homework are quite difficult and time-consuming, but you can always seek help from the professor or classmates.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

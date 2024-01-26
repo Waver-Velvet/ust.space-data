@@ -1,0 +1,32 @@
+{
+  "course": {
+    "id": 1096,
+    "subject": "SCED",
+    "code": "4590",
+    "name": "Problem-Solving and Assessment in Mathematics",
+    "description": "Problem solving and problem posing; teaching mathematical concepts and techniques through a problem-solving approach; assessment frameworks in Mathematics; mathematical abilities and related assessment methods; applications of problem solving and assessment techniques.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1430,
+      1420
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

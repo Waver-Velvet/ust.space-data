@@ -1,0 +1,100 @@
+{
+  "course": {
+    "id": 1522,
+    "subject": "ENVS",
+    "code": "2003",
+    "name": "Introduction to Atmospheric Science",
+    "description": "This course will provide students with a wide range of knowledge related to atmospheric science, including atmosphere and weather, analysis of climate and weather observations in both regional and global scales. Lecture topics include the evolution of the earth's atmosphere; the structure and composition of the atmosphere; radiation and thermodynamic processes; water in the atmosphere and cloud processes; pressure, winds and force in the atmosphere; weather patterns and the storms; ozone formation and loss; biogeochemical circulations; air pollution and techniques; climate system and climate change. Students will be trained upon completion of the course with ability to understand and examine the atmospheric structure, physical process and dynamics that focus on the composition and dynamics of the earth atmosphere and their role in the distribution of heat and energy and other aspects of atmosphere related to the Earth's climate and weather.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1730,
+      1630
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"1003\" href=\"/review/MATH1003\" target=\"_blank\">MATH 1003</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1012\" href=\"/review/MATH1012\" target=\"_blank\">MATH 1012</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1013\" href=\"/review/MATH1013\" target=\"_blank\">MATH 1013</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1018\" href=\"/review/MATH1018\" target=\"_blank\">MATH 1018</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1023\" href=\"/review/MATH1023\" target=\"_blank\">MATH 1023</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 234,
+        "name": "YU, Jianzhen",
+        "count": 1
+      },
+      {
+        "id": 809,
+        "name": "GRIFFITH, Stephen Miles",
+        "count": 1
+      },
+      {
+        "id": 889,
+        "name": "CHEUNG, Sai Kit",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "IZF5Egd5sn8JacXSJNa2mJoJo26Elx63",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 889,
+          "name": "CHEUNG, Sai Kit",
+          "rating": 1
+        },
+        {
+          "id": 809,
+          "name": "GRIFFITH, Stephen Miles",
+          "rating": 1
+        },
+        {
+          "id": 234,
+          "name": "YU, Jianzhen",
+          "rating": 0
+        }
+      ],
+      "author": "Rottenapple",
+      "date": "Jul 05, 2017",
+      "title": "",
+      "comment_content": "AP1. Atmospheric Components and Structure<br />AP2. Atmospheric Thermodynamics<br />AP3. Radiative Transfer and Energy Balance<br />AP4. Atmospheric Dynamics<br />AP5. Atmospheric CirculationsAP6. Weather Systems<br />AP7. Cloud PhysicsMid‐term Exam<br />AC1. Chemical composition of the Earth&#039;s Atmosphere<br />AC2. Major types of chemical reactions in the atmosphere<br />AC3. Particulate matter in the atmosphere<br />AC4. Tropospheric chemistry and air pollution<br />AC5. Urban air pollution<br />AC6. Stratospheric chemistry and ozone depletion<br />AC7. Greenhouse gases and climate change<br /><br />A lot of calculation from Dr. Cheung, not very hard, just substitute numbers into equation and done.<br /><br />part 2 are more concept wise but still not very hard",
+      "comment_teaching": "Dr. Cheung and Dr. Griffith&#039;s English were not bad. But it took so much effort to listen Dr. Yu&#039;s lecture. She always ends with a &quot;ga&quot; sound.",
+      "comment_grading": "Very good grade<br /><br />•Mid‐term exam: 40%<br />•Final exam: 40% <br />•Homework Assignments: 20%",
+      "comment_workload": "midterm, final, and 5-6 assignment.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "238VZngT5pslS1jn0JktWHILDV2tvqMi",
+          "name": "Course outline 2017_ENVS2003",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

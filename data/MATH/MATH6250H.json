@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 2499,
+    "subject": "MATH",
+    "code": "6250H",
+    "name": "Moduli Spaces",
+    "description": "Moduli spaces is one of the main theme in Geometry. In this course we shall introduce the basic languages in moduli theories, as like moduli stacks and deformation theories. We shall introduce the moduli of curves, maps, sheaves, jets and their relatives. And then we would discuss how to do intersections, torus and other algebra actions, over the moduli spaces. The first main part of the applications that we shall cover is Gromov Witten theory, its basic properties, and some of its packaging theory, including Givental's mirror theorem, and the theory of S and R matrices. The second part of the course will be devoted to the topic of Shtuka. It is gradually becoming one of the most popular topics in arithmetic algebraic geometry. We shall discuss the materials in the literatures about Lafforgues fields medal work. Students without prerequisite may seek approval from the course instructor to take the course.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1730
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"3121\" href=\"/review/MATH3121\" target=\"_blank\">MATH 3121</a> AND <a class=\"course-link\" data-subject=\"MATH\" data-code=\"5240\" href=\"/review/MATH5240\" target=\"_blank\">MATH 5240</a> AND <a class=\"course-link\" data-subject=\"MATH\" data-code=\"5251\" href=\"/review/MATH5251\" target=\"_blank\">MATH 5251</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

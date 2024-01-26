@@ -1,0 +1,185 @@
+{
+  "course": {
+    "id": 3740,
+    "subject": "CHEM",
+    "code": "2555",
+    "name": "Molecular Characterization Chemistry Laboratory l",
+    "description": "This is the laboratory course corresponding to the lectures of CHEM 2410 Physical Chemistry I and CHEM 2310 Fundamentals of Analytical Chemistry. The topic of experiments covered in this course are closely connected with the topics covered in the lecture courses, such as electrochemical equilibrium, chemical instrumental analysis, thermodynamics, etc. For CHEM students only.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2310,
+      2210
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"1050\" href=\"/review/CHEM1050\" target=\"_blank\">CHEM 1050</a> AND (<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"2409\" href=\"/review/CHEM2409\" target=\"_blank\">CHEM 2409</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2351\" href=\"/review/MATH2351\" target=\"_blank\">MATH 2351</a>)",
+    "corequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"2310\" href=\"/review/CHEM2310\" target=\"_blank\">CHEM 2310</a> AND <a class=\"course-link\" data-subject=\"CHEM\" data-code=\"2410\" href=\"/review/CHEM2410\" target=\"_blank\">CHEM 2410</a>",
+    "exclusions": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"2350\" href=\"/review/CHEM2350\" target=\"_blank\">CHEM 2350</a>, <a class=\"course-link\" data-subject=\"CHEM\" data-code=\"2355\" href=\"/review/CHEM2355\" target=\"_blank\">CHEM 2355</a>, <a class=\"course-link\" data-subject=\"CHEM\" data-code=\"2450\" href=\"/review/CHEM2450\" target=\"_blank\">CHEM 2450</a>",
+    "rating_content": 4.25,
+    "rating_teaching": 4.5,
+    "rating_grading": 4.5,
+    "rating_workload": 3.75,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 47,
+        "name": "TUNG, Joanne Wai Ting",
+        "count": 4
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "1iy0ZkYVCXnqzC90r3jEmmlvWhvSsYao",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 47,
+          "name": "TUNG, Joanne Wai Ting",
+          "rating": 1
+        }
+      ],
+      "author": "tusushi",
+      "date": "Dec 14, 2023",
+      "title": "",
+      "comment_content": "1. Calibration of Volumetric Glassware<br />2. Second Law of Thermodynamics<br />3. Internal Standard<br />4. Electrochemical Equlilbrium<br />5. Quantitive Analysis",
+      "comment_teaching": "I think it is alright. Overall, I think some of the TA are quite helpful although the lab is quite hard.",
+      "comment_grading": "The grading is alright.",
+      "comment_workload": "The lab quizzes are harder than the 2xxx lab courses with one mc question and few long questions. Even though watched the videos before quizzes, still could not get good marks. The lab reports are quite long and hard to do for me with lots of graphs need to be plotted.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "W53eb0rmzUcZxuzQarP29lvbGMuoZM53",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 47,
+          "name": "TUNG, Joanne Wai Ting",
+          "rating": 1
+        }
+      ],
+      "author": "Sonic12",
+      "date": "Dec 21, 2022",
+      "title": "Review of CHEM2555",
+      "comment_content": "Expt1. Calibration of Volumetric Glassware<br /><br />Expt2. Second Law of Thermodynamics: Entropy Variation with Temperature<br /><br />Expt3. Determination of n-Heptane, n-Octane, and n-Decane in Unknown Samples using GC-FID<br /><br />Expt4. Electrochemical Equilibrium: Determination of Standard Electrode Potential and Gibbs Energy in an Electrochemical Cell<br /><br />Expt5. Quantitative Analysis of p-Xylene using FT-IR<br /><br />The mixture of physical and analytical chem contents.",
+      "comment_teaching": "Fine teaching. The briefing video can be somewhat long but contains all the necessary things to carry out the experiments and quizzes. (hope they can edit the video to only the main point tho)<br /><br />Briefing slides are also uploaded on canvas, so you can check them anytime you want. <br /><br />During the class, all the TAs and the professor are helpful. You can always ask things when you&#039;re unsure.",
+      "comment_grading": "Lab quiz (20%)<br />Lab performance (20%)<br />Report (60%)<br /><br />Grading is ok. Just be careful every time you submit an e-report. Always good to double-check things you typed.<br /><br />Lab quiz 1: 15/20<br />Lab quiz 2: 20/20<br />Lab quiz 3: 20/20<br />Lab quiz 4: 20/20<br />Lab quiz 5: 20/20<br /><br />Report 1: 109/109<br />Report 2: 58/61<br />Report 3: 117/118<br />Report 4: 53/54<br />Report 5: 49/49<br /><br />Overall: A+",
+      "comment_workload": "The main workload comes from the shittiness of the e-report system. This system is so fucked up that even if you write the right answer but the format is not right, you got a zero mark.<br /><br />Lab quizzes are easy. Just read through the lab manuals and watch briefing videos for each experiment.<br /><br />The e-report questions are also not hard. Mostly just copying your datasheet and some simple calculations. But the abovementioned danger of getting zero marks for not matching the marking criteria drives people to be paranoid about what they type in. And this takes up a lot of time.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "nohmVK27mNF1Fj9Xt9ccDfQLF1xKUbJQ",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 47,
+          "name": "TUNG, Joanne Wai Ting",
+          "rating": 1
+        }
+      ],
+      "author": "YareYaredaze",
+      "date": "Dec 20, 2022",
+      "title": "phy + anchem lab course",
+      "comment_content": "same as what others mention:<br />But I have to say only Expt3 is somewhat interesting, others are just too boring.<br /><br />Expt 1: Calibration of Volumetric Glassware<br />Expt 2: Second Law of Thermodynamics: Entropy variation with Temperature<br />Expt 3: Determination of n-Heptane, n-Octane and n-Heptane using GC-FID<br />Expt 4: Electrochemical Equilibrium: Measurement of Standard Electrode Potential and Gibbs Energy in electrochemical system<br />Expt 5: Quantitative Analysis of p-Xylene using FT-IR",
+      "comment_teaching": "TAs are all very helpful, you got little to no pressure doing the labs if you prepared enough. That one TA, you will know who he is, can respond your email less than 3 mins at 23:15. He is truly a legend.",
+      "comment_grading": "Normal Lab Grading,<br />we have no exam this year, grading is heavily depends on lab report (60%)<br />mean should be B.",
+      "comment_workload": "Workload is kind of heavy compared to synthetic lab, because you can only submit the lab report one time. Basically, you have to check 2-3 times with your lab mate to make sure your data, your calculation, your calibration graph, all the things in the lab report.<br /><br />If synthetic lab workload = 1, then this course is around 2.5 (because of how boring it is and the reason mentioned above)",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "LutaiiGTCnzHB4PrKxGjIZhD2DelsenS",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 47,
+          "name": "TUNG, Joanne Wai Ting",
+          "rating": 1
+        }
+      ],
+      "author": "yo~",
+      "date": "Dec 19, 2022",
+      "title": "",
+      "comment_content": "Expt 1: Calibration of Volumetric Glassware<br />Expt 2: Second Law of Thermodynamics: Entropy variation with Temperature<br />Expt 3: Determination of n-Heptane, n-Octane and n-Heptane using GC-FID<br />Expt 4: Electrochemical Equilibrium: Measurement of Standard Electrode Potential and Gibbs Energy in electrochemical system<br />Expt 5: Quantitative Analysis of p-Xylene using FT-IR",
+      "comment_teaching": "The instructor, TAs and technicians are very nice and help us a lot during each experiment. Although the briefing video is quite long (longest one about 1hr), it is quite useful for having preparation before each lab.",
+      "comment_grading": "60% Lab Reports<br />20% Lab Quizzes (4-5 MCs per quiz)<br />20% Lab Performance<br /><br />Final Grade: B+ (Quite Surprising, expected a B or B- instead)",
+      "comment_workload": "Very low workload as the only thing to do after each lab session is the Lab Report and most of the reports are easy. All equations for calculations in lab reports are given in the lab manual and briefing ppt. You just need to pay attention in each lab quiz to get a better score and I think 70% of the questions are quite straight forward. Btw, I think the lab quizzes and lab reports are easier than that of CHEM2550.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "sQwW40jTGbP6ghqn5tYVrefv8zw08qgJ",
+          "name": "CourseOutline_CHEM2555_Fall2022_v2",
+          "format": "pdf"
+        }
+      ]
+    }
+  ]
+}

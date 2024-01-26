@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 3396,
+    "subject": "COMP",
+    "code": "6211G",
+    "name": "Federated Learning",
+    "description": "This course introduces the basic concepts, frameworks, applications and open problems in the emerging field federated learning.  It includes discussions on important topics such as privacy, communication efficiency and incentives.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2030
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

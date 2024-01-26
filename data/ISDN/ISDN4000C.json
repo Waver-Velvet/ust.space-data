@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 2904,
+    "subject": "ISDN",
+    "code": "4000C",
+    "name": "Embedded System Design for Assistive Robot -B",
+    "description": "The special topic course introduces the advanced techniques on how to design  and optimized embedded systems for Assistive Robotics. The course includes topics like interfacing, memory architecture, low power design techniques, software-hardware co-design which are required for optimizing the performance of embedded system for complex integrative systems such as assistive robots. The students will acquire the knowledge through lectures and practical hands-on labs and projects. Instructor's approval is required.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      1830
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2200\" href=\"/review/ELEC2200\" target=\"_blank\">ELEC 2200</a>",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

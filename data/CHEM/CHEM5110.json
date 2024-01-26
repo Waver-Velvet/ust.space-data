@@ -1,0 +1,191 @@
+{
+  "course": {
+    "id": 1602,
+    "subject": "CHEM",
+    "code": "5110",
+    "name": "Advanced Organic Chemistry I",
+    "description": "Mechanism and theory in organic chemistry, molecular orbital theory, structure-activity relationships, isotope effects, solvent effects, neighboring group participation, and reactive intermediates.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4.75,
+    "rating_workload": 4.75,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 58,
+        "name": "SUN, Jianwei",
+        "count": 4
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "YsMT2LnfyZDVakoNMiUIAhb1irvQkdtm",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 58,
+          "name": "SUN, Jianwei",
+          "rating": 1
+        }
+      ],
+      "author": "Alc",
+      "date": "Dec 08, 2023",
+      "title": "",
+      "comment_content": "Overall very good. The contents are very useful in organic chemistry but some of them are quite hard to understand. However, knowledge learning from this course would definitely benefit future research in organic chemistry.",
+      "comment_teaching": "The professor is very patient and comes up with many questions during the class and asks students to answer.",
+      "comment_grading": "40% of the presentation and essay and 60% of the final exam. No grading has been uploaded at this moment.",
+      "comment_workload": "No homework only presentation, short essay, and final exam. The course material might need extra time to understand.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "2Q8jaC2BnDkJ7VoHgMZwVVFmb51Nsrhg",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 58,
+          "name": "SUN, Jianwei",
+          "rating": 1
+        }
+      ],
+      "author": "JK1",
+      "date": "Jan 18, 2021",
+      "title": "",
+      "comment_content": "Chapter 1: Introduction to Mechanism<br />A. Background<br />1. Reaction Mechanism<br />2. Thermodynamics vs. Kinetics<br />3. Energy Diagram<br />4. Rate-determining Step (r.d.s.)<br />5. Kinetic Control vs. Thermodynamic Control<br />6. Hammond Postulate<br />7. Curtin-Hammett Principle<br />8. Principle of Microscopic Reversibility<br /><br />B. Rate Data<br />1. Rate Law<br />2. Activation Parameter<br />3. Kinetic Isotope Effects<br />4. Solvent Effects<br />5. Substituent Effects -- LFER<br /><br />C. &quot;Product&quot; Studies<br />1. Isotope Labelling<br />2. Stereochemistry<br />3. Crossover Experiments<br />4. Trapping an Intermediate<br />5. Detecting an Intermediate<br />6. Isolating an Intermediate<br />7. Case Study: The von Richter Reaction<br />8. Common Intermediates<br /><br />D. Other Topics / Examples<br />1. Catalysis<br />2. Additions to Olefins<br />3. A Close Look at the SN1 Reaction<br />4. Non-classical Carbocations<br /><br />Chapter 2: Radical Chemistry<br />A. Introduction<br />B. Abstractions<br />C. Additions<br />D. Fragmentations<br />E. Rearrangement<br />F. Other Topics<br />1. Air Oxidation<br />2. Industrial Applications<br />3. Functional Group Inter-conversions<br />4. Nucleophilic/electrophilic Radicals<br />5. Radical Clocks/Probes<br /><br />Chapter 3: Photochemistry<br />A. Background<br />B. Carbonyl Chemistry<br />C. Sensitizers<br />D. Mechanism: Singlets vs. Triplets<br />E. Olefin Chemistry<br /><br />Chapter 4: Other Topics<br />A. Pericyclic Reactions<br />B. Measurement of Small KIE at Natural Abundance<br />C. Anomeric Effect<br />D. Thorpe-Ingold Effect<br />E. NMR: Homotopic, Enantiotopic, Diastereotopic Hydrogens<br />F. Autocatalysis (Soai Reaction)<br /><br />Two guest lecture, one from National University of Singapore and another one from the Chinese University of Hong Kong<br /><br />Project Essay and Presentation (40%)<br />Open-book Final Exam (60%)",
+      "comment_teaching": "Motivating you to think instead of reading slides<br /><br />Understanding the materials and developing problem-solving skills are important.<br /><br />Memorisation is discouraged.",
+      "comment_grading": "Very good<br /><br />As long as you do the job nicely, you shouldn&#039;t worry about it.",
+      "comment_workload": "ZERO workload except preparing project essay and presentation<br /><br />Emphasised not to spend too much time on reviewing the course materials<br /><br />Reading some academic journals are encouraged, but not a must.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "G2M4FKuWPqx4lYcFSwixdthoNJIWtj4f",
+          "name": "Chem_5110_2020_syllabus",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "FdM8c0Zi5NSVuKiRwNfqmC7muRmVRI1w",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 58,
+          "name": "SUN, Jianwei",
+          "rating": 1
+        }
+      ],
+      "author": "LukaModric",
+      "date": "Dec 06, 2019",
+      "title": "",
+      "comment_content": "Focus on mechanism. CHEM5120 will focus on reactions.<br /><br />(Yes same as 2018-2019 one)<br />I. Basics<br />A.Background<br />1.Reaction Mechanism<br />2.Thermodynamics vs. kinetics<br />3.Energy diagrams<br />4.Rate-determining step<br />5.Kinetic control vs. thermodynamic control<br />6.Hammond Postulate<br />7.Curtin-Hammett Principle<br />8.Principle of Microscopic Reversibility<br /><br />B.Rate Data<br />1.Rate law<br />2.Activation parameters<br />3.Kinetic isotope effects<br />4.Solvent effects<br />5.Substituent effects –Linear free energy relationships<br /><br />C.“Product” Studies<br />1.Isotope labeling<br />2.Stereochemistry (Neighboring group participation)<br />3.Crossover experiments<br />4.Trapping an intermediate<br />5.Detecting an intermediate<br />6.Isolating an intermediate<br />7.Case study: The von Richter Reaction<br />8.Common intermediates<br /><br />D.Other Topics / Examples<br />1.Catalysis<br />2.Additions to olefins<br />3.A close look at the SN1 reaction<br />4.Non-classical carbocations<br /><br />II.Radicals<br />A.Introduction<br />B.Abstractions<br />C.Additions<br />D.Fragmentations<br />E.Rearrangement<br />F.Other Topics<br />1.Air oxidation (auto-oxidation)<br />2.Industrial applications (Chapter 13.2.4)<br />3.Functional group inter-conversions<br />4.Nucleophilic/electrophilic radicals<br />5.Cage effects<br />6.Radical clocks/probes<br /><br />III.Photochemistry<br />A.Background<br />B.Carbonyl chemistry<br />C.Sensitizers<br />D.Mechanism: Singlets vs. Triplets<br />E.Olefin chemistry<br /><br />IV.Other Topics<br />A.Pericyclic reactions<br />B.Anomeric effect<br />C.KIE at natural abundance<br />D.Other",
+      "comment_teaching": "Very good and inspiring.<br />Encourage us to think in the lecture.<br />Lecture notes distributed by hands.",
+      "comment_grading": "Project: 40% (Essay+Presentation)<br />Final: 60% (Closed-book) (Canceled)<br /><br />Project: Write a brief (500-1000 word) essay and give an oral presentation of less than10 minutes on a case study of understanding of the mechanism or stereoselectivity of organic or catalytic reactions based on experimental data. The case study should be based on a recent scientific paper(published in 2019).",
+      "comment_workload": "Not too heavy.<br />Continuous 3hrs lecture per week.<br />Sept: 4 lectures<br />Oct: 2 lectures<br />Nov: 4 lectures (last 1.5 lecture used for presentation) (some now canceled)<br />Essay due before 2nd last lecture<br />Encourage you to attend some seminars.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "mLSMobqkheFaTz7x3AXykDYCRTcSPLTN",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 58,
+          "name": "SUN, Jianwei",
+          "rating": 1
+        }
+      ],
+      "author": "holymama",
+      "date": "Dec 26, 2018",
+      "title": "",
+      "comment_content": "I. Basics<br />A.Background <br />1.Reaction Mechanism<br />2.Thermodynamics vs. kinetics<br />3.Energy diagrams<br />4.Rate-determining step<br />5.Kinetic control vs. thermodynamic control<br />6.Hammond Postulate<br />7.Curtin-Hammett Principle<br />8.Principle of Microscopic Reversibility<br /><br />B.Rate Data<br />1.Rate law <br />2.Activation parameters<br />3.Kinetic isotope effects <br />4.Solvent effects <br />5.Substituent effects –Linear free energy relationships <br /><br />C.“Product” Studies<br />1.Isotope labeling<br />2.Stereochemistry (Neighboring group participation)<br />3.Crossover experiments<br />4.Trapping an intermediate<br />5.Detecting an intermediate<br />6.Isolating an intermediate<br />7.Case study: The von Richter Reaction<br />8.Common intermediates<br /><br />D.Other Topics / Examples<br />1.Catalysis<br />2.Additions to olefins <br />3.A close look at the SN1 reaction <br />4.Non-classical carbocations <br /><br />II.Radicals<br />A.Introduction<br />B.Abstractions<br />C.Additions<br />D.Fragmentations<br />E.Rearrangement<br />F.Other Topics<br />1.Air oxidation (auto-oxidation)<br />2.Industrial applications (Chapter 13.2.4)<br />3.Functional group inter-conversions<br />4.Nucleophilic/electrophilic radicals<br />5.Cage effects<br />6.Radical clocks/probes <br /><br />III.Photochemistry<br />A.Background <br />B.Carbonyl chemistry<br />C.Sensitizers <br />D.Mechanism: Singlets vs. Triplets<br />E.Olefin chemistry<br /><br />IV.Other Topics<br />A.Pericyclic reactions<br />B.Anomeric effect<br />C.KIE at natural abundance<br />D.Other",
+      "comment_teaching": "Better than org chem II, maybe this course related to his research field so he has more passion(?). He also distributed some past exam questions for us to practice and make sure all of us understand the concept. <br />To be honest, those questions are quite similar to those in final exam.",
+      "comment_grading": "Grading Scheme: <br />Project: 40%<br />Final: 60%<br /><br />Project: Write a brief (500-1000 word) essay and give an oral presentation of less than10 minutes on a case study of understanding of the mechanism or stereoselectivity of organic or catalytic reactions based on experimental data.The case study should be based on a recent scientific paper(published in 2018).<br /><br />Final exam: Close book, cover all the materials in class<br /><br />We don&#039;t know any marks on projects and finals and it is a mystery. But I think it has a really good grade as a normal UG student can also get A range.",
+      "comment_workload": "0 workload. Compared to UG org. chem course, it is relatively easy as you don&#039;t need to memorize any of the reaction. What you need to do is to understand all the concepts covered in the class. <br /><br />To be honest, this is really much easier than 2110 and 3120. <br /><br />DO NOT skip any lectures as Prof. Sun won&#039;t upload any lecture notes to CANVAS, he will help you print it and distribute instead (maybe due to some copyright matters). You need to jot down notes as lots of contents are missing in the ppt provided, and they were being examined.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "course": {
+    "id": 987,
+    "subject": "MECH",
+    "code": "4750",
+    "name": "Mechanical Vibration",
+    "description": "Single-degree-of-freedom vibration, multiple-degree-of-freedom vibration, vibration in continuous media, numerical method and their application in mechanical engineering and building services.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      1830,
+      1630,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MECH\" data-code=\"2020\" href=\"/review/MECH2020\" target=\"_blank\">MECH 2020</a> AND <a class=\"course-link\" data-subject=\"MECH\" data-code=\"2040\" href=\"/review/MECH2040\" target=\"_blank\">MECH 2040</a>",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"4330\" href=\"/review/CIVL4330\" target=\"_blank\">CIVL 4330</a>",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 573,
+        "name": "LEE, Yi-Kuen",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "8ACbPgMRky34HMANwJQmkHtIfUgbllXu",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 573,
+          "name": "LEE, Yi-Kuen",
+          "rating": 1
+        }
+      ],
+      "author": "ChrisChan_MECH",
+      "date": "Oct 23, 2017",
+      "title": "",
+      "comment_content": "The course content is the front half part of the text book<br /><br />*Rigid body vibration<br />*1D and 2D<br />*vibration application <br /><br />The additional part is the project. It&#039;s about how you use the vibration knowledge for the practical cases",
+      "comment_teaching": "Professor&#039;s presentation was quite clear. The class have many real example to illustrate the content. Some part of the course need self learning",
+      "comment_grading": "Homework touch mean<br />Mid term above mean slightly<br />Project not released<br />Final Top 3 in the class<br /><br />Final grade:A",
+      "comment_workload": "3 homeworks<br />1 group project(essay+present)<br />1 mid term<br />1 exam",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

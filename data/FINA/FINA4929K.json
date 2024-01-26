@@ -1,0 +1,144 @@
+{
+  "course": {
+    "id": 2278,
+    "subject": "FINA",
+    "code": "4929K",
+    "name": "Applications of New Technologies in Finance",
+    "description": "The course focuses on the recent financial technology (Fintech) trends, artificial intelligence and deep learning and their applications in finance. Fintech has been a hot buzzword in the past few years, though finance has always been , especially in areas of payment, quantitative trading and banking, impacted by technology. Students will learn basic coding in Python, gain an understanding in neural network and the recent developments in the financial industry with respect to the use of this methodology.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1810,
+      1710
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"3103\" href=\"/review/FINA3103\" target=\"_blank\">FINA 3103</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1135,
+        "name": "HUANG, Seth",
+        "count": 3
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "SkKI1xd4VDoWj9912b8eva2GtKqq2fOR",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 1135,
+          "name": "HUANG, Seth",
+          "rating": 1
+        }
+      ],
+      "author": "RZ",
+      "date": "Mar 21, 2019",
+      "title": "Very good prof and course",
+      "comment_content": "Neural network and Fintech based on python. <br />Applications with convolutional neural network and recurrent neural network. There are also two guest lectures from fintech industries. Cases are interesting and useful",
+      "comment_teaching": "Seth is a PhD in Cornell. His area includes Economics, Finance, and Artificial Intelligence. He is handsome, talented, and also young.&nbsp;&nbsp;He is a successful millionaire who has great great and great passions to help the young generations like us. He encourages, inspiring, and loves his students all the time. He is also a model for all of us. He is a successful entrepreneur with many successful companies and&nbsp;&nbsp;products. He was also a great fund manager in NY, Shanghai, and HK. He has a sweet family and he is a really good husband and a father. Sometimes I don&#039;t even believe how lucky I am that I could be a student of a person like this! He said he teaches because he wants to give back to the society. After this semester, he left UST and now working as a data analyst. How I wish I could see him again someday in the future!",
+      "comment_grading": "Attendance/Participation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20%<br />Assignments/ report:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20%<br />Midterm:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20% <br />Project &amp; Presentation:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20%<br />Final Exam:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20%",
+      "comment_workload": "I think the work load are not huge. And it&#039;s a good course",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "7IArDSNogIZd0WMLvtiAi4sAullI4bsj",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 1135,
+          "name": "HUANG, Seth",
+          "rating": 1
+        }
+      ],
+      "author": "Eamon Suen",
+      "date": "Nov 24, 2018",
+      "title": "Great learning experience, practical implementation and awesome prof",
+      "comment_content": "Learning about state-of-the-art neural networks architectures and their implementations. Started from the basics of stochastic gradient descent, weights updating, and some of the math behind, and then most of things we learnt is about tuning the model, preventing overfitting, as well as different varieties of the model (Convolutional Neural Networks, RNN/LSTM, etc.). Very interesting course with very practical implementation - prof will go through the codes in detail as well.",
+      "comment_teaching": "Inspiring. It was great to have a professor who has been in the industry and is willing to share not only what is done in real life, but his own research and experiences as well. <br /><br />The professor would usually first go through some of the slides, examples of how a certain model is being used, and explain how he would use the model to tackle certain problems. The class is relaxed, fun, and he usually uses the rest of the class (around half an hour) to go through the codes in detail and ask us to implement it as well.",
+      "comment_grading": "Grading is not harsh. We have two assignments, one mid-term, one project and one final. Since grades are not released for assignments, I could not speak for them, but I know for a fact that even codes that could not run were graded if &quot;things were in the right place&quot;. <br /><br />The midterm is a mixture of MCs and coding. It is open-book so you can basically google the answers; though it is not too difficult in itself. <br /><br />Overall, it is more or less a graded-on-effort course.",
+      "comment_workload": "As described in grading, there are two assignments and a project, aside from the exams. The assignments are not too tough - just follow the codes taught in class and you will do well. You get extra credit for trying something new, but that is totally your choice. <br /><br />In terms of the project, you have to find something interesting to run deep learning on - but resources are abundant online, so it is once again, about finding your angle and story. It is quite fun if I could say so myself.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "AWiKhn2ZbbjWMBs4VdFJswqSOx1IbZCL",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 1135,
+          "name": "HUANG, Seth",
+          "rating": 1
+        }
+      ],
+      "author": "Arange",
+      "date": "Dec 29, 2017",
+      "title": "",
+      "comment_content": "This course mainly focuses on neural network and fintech. Content before midterm will be based on fintech market overview, python tutorial and neural network structure. After midterm, more applications will be provided such as convolutional neural network and recurrent neural network. There are also two guest lectures from fintech industries. Structure of blockchain will also be included in the course.<br /><br />Ch1 Industry, Company, Artificial Intelligence I<br />Ch2 Industry, Company, Artificial Intelligence II<br />Ch3 Basic Python and Neural Network<br />Ch4 Programming and Neural Network Cost Function<br />Ch5 Python Tutorial and Improving Network Learning<br />Ch6 Improving Network Learning with Regularization I<br />Ch7 Improving Network Learning with Regularization II<br /><br />After midterm:<br />Ch8 Deep Learning and Convolutional Neural Nets<br />Ch9 Base Model, CNN and Introduction to RNN<br />Ch10 Business Time Series Prediction with Recurrent Neural Networks<br />Ch11 Multivariate Time Series LSTM and Boston Housing Price Case<br />Ch12 Blockchain Principles",
+      "comment_teaching": "Teaching is great. Most of the powerpoint presentations only include image or code. The course is mainly focused on the understanding of the code. Most of the questions in midterm is related to coding.",
+      "comment_grading": "Grading is very generous.<br /><br />Assignments/ report:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20%<br />Project &amp; Presentation:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20%<br />Attendance/Participation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20%<br />Midterm:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20% <br />Final Exam:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20%<br /><br />There are two assignments. Each assignment weighs 10% of the course grade. Most of the questions answer are largely uncertain as creativity can be included in the answer. Questions such as &quot;Produce a dataset&quot; and &quot;Create a maze game&quot; can be found in the assignment.<br /><br />There is one project and one presentation. You will freely form&nbsp;&nbsp;a group of 5 to 6 after add-drop period. The project is to think a fintech idea which is feasible and make a pitch to professor. Creativity is needed to get higher mark.<br /><br />Attendance is taken at the beginning of each lesson. It totally contributes to 20% of course grade so it is important to attend every lesson.<br /><br />Midterm and final exams are all MC questions which mainly tests the understanding of neural network and blockchain. Although memorization is not needed, there are full of traps in the examinations. So the average score of midterm and final exams are not very high, around 70%.",
+      "comment_workload": "Workload is very light. Assignment 1 is individual assignment and assignment 2 is group assignment. Project can be easily finished within a week before presentation. Since midterm and final exams are all MC questions, you can just repeatedly read the lecture notes before exams.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 1,
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "course": {
+    "id": 823,
+    "subject": "LIFS",
+    "code": "4630",
+    "name": "Advanced Topics in Biotechnology",
+    "description": "Life science is now at an unprecedented stage because of the development of new biotechnologies and the following ground-breaking discoveries in the past decades. This course is dedicated to sharing the latest breakthroughs, how they are discovered, the principles and applications, and pinpointing the opportunities we will embrace. Topics include state-of-the-art technologies such as genome editing techniques, super-resolution microscopies, DNA nanotechnology, omics, and the latest biotechnology approaches to investigate and tackle diseases such as COVID-19, hereditary diseases, and cancers.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"LIFS\" data-code=\"2040\" href=\"/review/LIFS2040\" target=\"_blank\">LIFS 2040</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3.67,
+    "rating_teaching": 3.67,
+    "rating_grading": 3.67,
+    "rating_workload": 3.67,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 489,
+        "name": "WONG, Wan Keung",
+        "count": 2
+      },
+      {
+        "id": 1609,
+        "name": "LIU, Zhen",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "T8wdZHkyisGu90eCHTAKPaeKfRKNEVbg",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1609,
+          "name": "LIU, Zhen",
+          "rating": 1
+        }
+      ],
+      "author": "RIbtSU",
+      "date": "Jun 08, 2023",
+      "title": "Good grade and relax course",
+      "comment_content": "This course is a new course opened this year. The instructor changed to LIU Zhen. The course covers a wide range of biotech topics.<br /><br />Below is the outline:<br /><br />1. Week 1-2: Course introduction, the multidisciplinary nature of biotechnology,<br />historical and modern biotechnology<br />2. Week 3-4: Biotechnology related to infectious diseases and COVID-19<br />3. Week 5- 6: Gene editing, CRISPR, and its applications<br />4. Week 7- 8: Super-resolution fluorescence microscopy<br />Week 8: Day 2 for group presentation and discussion<br />5. Week 9- 10: Bionanotechnology and nanobiotechnology<br />Week 10: Day 2 for group presentation and discussion<br />6. Week 11-12: The era of omics<br />Week 12：Day 2 for group presentation and discussion",
+      "comment_teaching": "The style of this course is every week Prof will introduce you to new topics in biotechnology. No HW, no exams, just to enjoy. LIU Zhen&#039;s voice and tone are quite plain I will say. Almost everyone in the class sitting just for attendance and doing their own stuff but not really focusing on what he said XD. It&#039;s a chill course. Prof. LIU is a very nice and approachable professor. He responds to emails very fast and he is willing to answer any questions.",
+      "comment_grading": "Attendance: 30%<br />Oral presentation: 30% <br />Final literature review: 40%<br /><br />All scores unknown<br /><br />My Grade: A+&nbsp;&nbsp;&nbsp;&nbsp;<br />Thanks a lot, Prof. LIU!<br /><br />This course is a super RELAX course. It seems to be electives of Biotech and BIBU. Strongly recommend it as your elective choice.",
+      "comment_workload": "This course has a very small workload. No exam at all. Just one group project presentation and one literature review. He gives us a lot of freedom that we can decide the topics ourselves as long as the topic is related to biotechnology. Gene therapy, stem cell therapy, single cell transcriptome......totally no restriction on both group projects and literature review, it&#039;s all up to you which is very nice. <br /><br />The Group project is a 13 min presentation + 2 min QnA. It is easy because Prof LIU basically won&#039;t challenge you in QnA session. The QnA is designed for other students to ask questions. <br /><br />The final literature review is also not difficult. You can write what you want. Just leave 1-2 days to finish it is ok. <br /><br />Super relax course",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "kSrnMuUBuVOXPMxAvYZTuFX6hAYntYWk",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 1
+        }
+      ],
+      "author": "torterral_Tsui",
+      "date": "Dec 31, 2019",
+      "title": "2070願者上鉤",
+      "comment_content": "A review of 2070 in the first 3 classes, then continue to new topics on historical and recent breakthroughs, and professor&#039;s own research. Contents are not organized (with the outline on the notes), professor just covers topics what he thinks are important.<br />For example,<br />History of biotech (2070),<br />New inventions, Cardiodetect kit invented by UST professor,<br />How to do biotech (expression, selection, assay, scaling up...) with tons of example like cellulases<br />How biological pathways create hurdles and create opportunities, and how do people overcome them,<br />How to work in the business world, how to protect your own inventions but also publish your work, ...<br /><br />Presentation of Professor&#039;s past publications. He will randomly assign one topic to you. The topics are joined together, from 1990&#039;s basic research to a product launched in the recent decades and self-explains the Professor&#039;s experiences in the field.<br />Talk about the implications and findings rather than the detailed methodology. To protect his product, the paper&#039;s methodologies are carefully written such that people cannot copy his work...",
+      "comment_teaching": "You must have taken 2070 before coming here. The teaching is the same. Chalk and talk, copy everything he say and write.<br /><br />His explanations are one of the most detailed by far I studied in UST. If you are really into biotech, this course would be wonderful. Professor also enjoys chatting after class, he will tell his experiences if you ask him.<br />Cantonese ok.",
+      "comment_grading": "Professor let us choose over 2 options.<br />1. 30% midterm and 70% presentation,<br />2. 25% midterm, 25% final and 50% presentation.<br />Option 1 was chosen democratically. <br /><br />The class size will be very small, so professor cannot give out so many A according to the university rules. For example, we have a class of 13 students. At most 3 As.<br /><br />Professor will try his best to get a pass for everyone, and he basically gives out high marks to everyone for the presentation. So try your best on the exams.",
+      "comment_workload": "Very light basically.<br />Attend the class! Attend the class! Attend the class!<br />Otherwise don&#039;t enroll!",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "aZSY2XpTqI8LTAD6LEnoo4dhwZ2wmkU4",
+      "semester": "2015-16 Fall",
+      "instructors": [
+        {
+          "id": 489,
+          "name": "WONG, Wan Keung",
+          "rating": 1
+        }
+      ],
+      "author": "Clearmind",
+      "date": "Jan 17, 2017",
+      "title": "",
+      "comment_content": "About professor&#039;s experience<br />as professor is profesional in protien production<br />and open his own company and earning money outside<br /><br />The process how he make EGF is quite interesting,<br />In-depth, but difficult to follow",
+      "comment_teaching": "Poor lecture notes<br />Printed copy of notes will be provided in lectures,<br />but the notes only consists of pictures and photo.<br />All important content are talk in lecture and draw on white board.<br />However, the presentation skill of professor is not very good<br />it makes the concept very confuse actually.<br />Most of the time he like to draw pircture on the white board<br />However, due to the poor presentation skill and bad drawing<br />it&#039;s not possible to fully understand on his lecture<br /><br />To be honest, this course is the first course that required me to take video on lecture in my university life",
+      "comment_grading": "Nothing special",
+      "comment_workload": "Memorize all content<br />more than half of the score in exam is T/F, MC and matching<br />Understanding is not neccessary<br /><br />There will be a presentation in this course<br />which is present how well is professor&#039;s previous study.",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 3,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

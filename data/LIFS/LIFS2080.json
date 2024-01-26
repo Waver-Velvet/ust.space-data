@@ -1,0 +1,726 @@
+{
+  "course": {
+    "id": 784,
+    "subject": "LIFS",
+    "code": "2080",
+    "name": "Plant Biology",
+    "description": "Structure and life processes in plants; cellular structures; molecular and cellar mechanism; transport of water and nutrients; nutrition and soil; reproduction; photosynthesis; growth and development; biotechnology.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030,
+      1930,
+      1830,
+      1730,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"LIFS\" data-code=\"2040\" href=\"/review/LIFS2040\" target=\"_blank\">LIFS 2040</a> OR <a class=\"course-link\" data-subject=\"LIFS\" data-code=\"2210\" href=\"/review/LIFS2210\" target=\"_blank\">LIFS 2210</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3.94,
+    "rating_teaching": 3.47,
+    "rating_grading": 3.88,
+    "rating_workload": 4.12,
+    "review_count": 17,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 486,
+        "name": "LI, Ning",
+        "count": 16
+      },
+      {
+        "id": 470,
+        "name": "LEUNG, Kar Wah",
+        "count": 15
+      },
+      {
+        "id": 1419,
+        "name": "LI, Laam",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "qNZbur28K98wyFulHFyCUrWOpREJwMJx",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        },
+        {
+          "id": 1419,
+          "name": "LI, Laam",
+          "rating": 1
+        }
+      ],
+      "author": "Shin, Woo-hong",
+      "date": "May 27, 2023",
+      "title": "Good course but bit heavy.",
+      "comment_content": "Prof Li, Ning&#039;s part<br />Agriculture, food and human<br />Plant cellular structure and chemical composition <br />Plant cellular structure and chemical composition <br /><br />Dr LI, Liam&#039;s part<br />Energy and respiration 1<br />Energy and respiration 2<br />Photosynthesis 1<br />Photosynthesis&nbsp;&nbsp;2<br />Plant classification <br />Plant tissues and growth 1<br />Plant tissues and growth 2 <br />Movement of water and solutes <br />Plant defense <br /><br />Prof Li, Ning&#039;s part<br />Introduction to flowering plants <br />Reproduction of plant and development of seeds <br />Hormonal physiology 1<br />Hormonal physiology 2<br />Hormonal physiology 3 <br />Hormonal physiology 4 <br />Plant response to environmental stimuli 1 <br />Plant response to environmental stimuli 2 <br />Plant cell signaling 1 <br />Plant cell signaling 2 <br />Plant molecular biotechnology 1 <br />Plant molecular biotechnology 2<br /><br />If you are interested in botany, contents would be helpful for you",
+      "comment_teaching": "Prof LI, Ning is a passionate lecturer, but his ppt is bit messy. So, you better take notes during the lecture. <br /><br />Dr. Li Laam is a very good lecturer. ppt is well organized and her contents are straightforward.",
+      "comment_grading": "Midterm 35% 38/50<br />Final 65% unknown <br /><br />A+ <br /><br />Wow, it is my first A+. To be honestly, I did not expected.",
+      "comment_workload": "2 lectures and 1 tutorial per week.<br />If you want to get a good mark, you need to study hard, because there are a lots of contents to remember.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Fhz6KXdn4bKOb1ou7OBeym3EXRyZPyKt",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        }
+      ],
+      "author": "Aalle",
+      "date": "Aug 23, 2022",
+      "title": "",
+      "comment_content": "two exams<br />no attendance required",
+      "comment_teaching": "Both professors used ppt and lecture notes which were quite clear and helpful.<br />They were active during the teaching and ready to answer any questions. Actually professor Li is not as bad as other reviews have written, I think he is responsible and always explains things clearly.",
+      "comment_grading": "If you memorize the points on the notes, it&#039;s easy to handle the exams, not mentioning the review they provided before the end of the course.",
+      "comment_workload": "Relatively low. It may be one of the easiest courses I have ever taken during my study hahaha.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "o60W61T6aoVF6j2E6sTIVsRTaQHv2ZmL",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 0
+        }
+      ],
+      "author": "Frankie:)",
+      "date": "Jun 08, 2022",
+      "title": "Bad and harsh Grading",
+      "comment_content": "Li Ning&#039;s part<br />1. Agriculture, food, and human <br />2. Plant cellular structure and chemical composition <br />3. Plant cellular structure and chemical composition <br /><br />Melody&#039;s Part<br />Leung’s part<br />4. Plant classification <br />5. Shoot &amp; root primary growth<br />6. Photosynthesis <br />7. Respiration &amp; Energy <br />8. Movement of Water and Solutes <br />9 Plant defense responses to pathogens <br />(Midterm exam includes up to here) <br />Non-cumulative <br /><br />Li’s part<br />1. Introduction to flowering plants(None of the MCQ from final exam test on this topic) <br />2. Reproduction of plant and development of seeds <br />3. Hormonal physiology: Auxin(IAA,2,6-Ade), Cytokinin, Ethylene, Gibberellin, ABA, etc.&nbsp;&nbsp;<br />4. Plant response to environmental stimuli: phototropism, thigmotropism, nastic movement, etc.<br />5. Plant cell signaling <br />6. Plant molecular biotechnology( Not examined in Final Exam)<br />Final Exam includes all Li&#039;s part after midterm",
+      "comment_teaching": "Melody&#039;s teaching was fine. I can see her enthusiasm for teaching and explaining concepts during lectures. For her review lecture before midterm, Melody will send a typed summary pdf file for those who had attended the lecture in zoom. For those who missed that lecture, they couldn&#039;t get that file. So, I recommend not skipping Melody&#039;s review lecture before the midterm. That file was quite useful, it summarises all important concepts that we need to remember in preparation for the midterm exam.<br /><br />But Li Ning&#039;s teaching is not good. He even forgot to hold the review lecture before the midterm and had to re-arrange another time slot for us to join. Also, his review lecture only answers your questions. If you don&#039;t have any questions to ask him, you can skip it.",
+      "comment_grading": "The grading is normal to harsh range if you aim for A+. Only a handful(less than 6%) A+ given, which is a harsher grading policy compared to LIFS2220.<br /><br />My Score:<br /><br />Midterm(50%): 36/40 <br />Mean:27.1&nbsp;&nbsp;Highest 38 Lowest: 9<br /><br />Final(50%): 86/100 <br />Mean: 64.1 Highest: 92 Lowest: 29<br /><br />Letter Grade: A<br /><br />Midterm consists of 40 MCQ (50 Mins time limit)<br />Final exam was made up of 70 MCQ and 2 essay questions( 180 mins time limits)<br /><br />Midterm and Final both account for 50%. <br />Do better in midterm to get an edge over the others to secure a better grade. Final exam MCQ are more conceptual and harder than those appeared in midterm for Li Ning&#039;s part. Melody&#039;s part in midterm was fine <br /><br />Question to be asked in exams:<br />What crops are those 6 major crops that provide 80% of total calories to humans?<br />What examples are the physical defenses in plants?<br />Folke Skoog discovered which chemicals that stimulate cell division in tobacco plants?<br />What will be the effect of cytokinin when applied to the aerial part of the plant?<br />What pairs of hormones are antagonistic against each other in auxiliary bud growth?<br />Natural occurring IAA was isolated by who?",
+      "comment_workload": "Light to moderate, depends on what grade you aim for<br />Only midterm and Final<br />Need to put more effort in Li Ning&#039;s part for the Final exam",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "yDLGhCSsusFt5lIeMis7zL689bni7KMi",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        }
+      ],
+      "author": "ustishit",
+      "date": "Jun 07, 2022",
+      "title": "Ez and good grade lifs course",
+      "comment_content": "Same as previous semesters.",
+      "comment_teaching": "Not bad.<br />Li tried hard to explain all the contents.<br />But Li said next year will be his last year in ust so the pp will be useless in 23-24.",
+      "comment_grading": "Very good<br />Mt (50%) 32/40 mean 27 highest 38<br />Final (50%) 77/100 mean 64 highest 92<br />Grade: A-<br />I thought my grade(77.8%) should be B range only. But&nbsp;&nbsp;<br />I got an A- finally which surprised me and professor Li is not a killer so dont worry and take this course.<br />Tips: Buy sources (more than half questions are from the previous semesters.",
+      "comment_workload": "Very low. <br />Most of the knowledge is common sense or learned in secondary school.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "7Ll7ZKbWMXOr2LgyryoWUy1LNDcpIqPI",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        }
+      ],
+      "author": "Leon2002",
+      "date": "Jun 01, 2022",
+      "title": "Attend lectures and especially the tutorials",
+      "comment_content": "Midterm<br />Li’s part<br />1. Agriculture, food and human <br />2. Plant cellular structure and chemical composition <br />3. Plant cellular structure and chemical composition <br /><br />Leung’s part<br />4. Plant classification <br />5. Shoot &amp; root primary growth<br />6. Photosynthesis <br />7. Respiration &amp; Energy <br />8. Movement of Water and Solutes <br />9 Plant defense responses to pathogens <br /><br />Final exam<br />Li’s part<br />1. Introduction to flowering plants <br />2. Reproduction of plant and development of seeds <br />3. Hormonal physiology: Auxin, Cytokinin, Ethylene, Gibberellin, ABA, etc.&nbsp;&nbsp;<br />4. Plant response to environmental stimuli : phototropism, thigmotropism, nastic movement, etc.<br />5. Plant cell signalling <br />6. Plant molecular biotechnology<br /><br />Comment: A comprehensive introduction to the field of plant biology. Learned a lot about plants in general— from the smallest cells, chemicals to plant species and their organs’ interaction with the environment.",
+      "comment_teaching": "Li uses analogies to explain concepts and sometimes go beyond the lecture PowerPoint to share some additional knowledge.<br /><br />Leung reads the PowerPoint and the lectures are a bit boring but she explains the difference in Calvin Cycle of each types of plants well.<br /><br />Nonetheless, there is a tutorial session after every 2 lectures. These sessions allow you to ask question. This is beneficial to students who wants direct and quick answers when they miss and don’t understand some parts in the previous lectures.",
+      "comment_grading": "Grading scheme:<br />50% midterm exam<br />50% final exam<br />My scores: Midterm(27/40), Final(71/100)<br />Got a B.",
+      "comment_workload": "0 assignments/presentations<br />Takes effort to revise the lecture contents.<br />Both exams are closed book so thorough understanding and memorisation of the concepts are required.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "uUGGyjuzNYQO2AH8SwZPFrMHzGZY6VQ8",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 0
+        }
+      ],
+      "author": "Sinovacinjected",
+      "date": "May 28, 2021",
+      "title": "Easy to handle",
+      "comment_content": "Two 50-min lectures + 1 Tutorial per week but the tutorials may be used as a normal lecture. It depends on the professors.<br /><br />Course materials are easy to understand.",
+      "comment_teaching": "Melody is good. She explains the course materials in a very clear way. However, Li Ning is very bad. Both Li Ning&#039;s handout and teaching are terrible. He was responsible for the second half of the course but he didn&#039;t even show up in the final exam and the final exam announcement was sent by Melody.",
+      "comment_grading": "Midterm and final only contained MCQs.<br /><br />60/65min for 40 MCQs in Midterm.<br />90min for 60 MCQs in final.",
+      "comment_workload": "Very light<br /><br />Midterm 50%<br />Final 50%",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "gm9b5qiXZfNVFQchLBA0IbaXpqfAn2C7",
+      "semester": "2019-20 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 0
+        },
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 0
+        }
+      ],
+      "author": "KIKC",
+      "date": "Jan 25, 2021",
+      "title": "",
+      "comment_content": "Before mid-term:<br />(Li) <br />Agriculture, food and human <br />Plant cellular structure and chemical composition <br />Introduction to flowering plants<br />Reproduction of plant and development of seeds <br />Hormonal physiology <br /><br />(Melody)<br />Shoot &amp; root primary, secondary growth <br />Photosynthesis <br /><br />After mid-term: <br />(Li)<br />Hormone physiology <br />Plant response to environment stimuli <br />Plant Cell Signalling <br />Plant molecular biotechnology <br /><br />(Melody)<br />Respiration &amp; Energy <br />Movement of Water and Solutes<br />Plant defense responses to pathogens",
+      "comment_teaching": "Two professors are not good. <br />Li : His notes are not clear. Some pages may only contain some pictures without any explanation. He explains the concepts or terms poorly.<br /><br />Melody: She is better than Li a bit. Her notes are detailed. However, she just read out the content of the powerpoint only. If you want to know more, you need to tell her to explain more.",
+      "comment_grading": "The grade is not good.<br />My midterm is below 0.4 s.d. and final is above 0.5 s.d.<br />Final grade: C-",
+      "comment_workload": "Only one midterm and one final. Without project and attendance. The content of Melody is quite easy and you can read it by yourself. However, the content of Li is quite difficult and you need to spend more time to revise it.",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 1,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "PhOzVPspq1aMdtY8XRnYlIo5s2vQlpLv",
+      "semester": "2018-19 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        }
+      ],
+      "author": "lhtam",
+      "date": "Jun 07, 2019",
+      "title": "",
+      "comment_content": "Before mid-term: <br />Agriculture, food and human - Li<br />Plant cellular structure and chemical composition - Li <br />Shoot &amp; root primary growth - Melody <br />Shoot &amp; root secondary growth - Melody <br />Photosynthesis - Melody <br />Introduction to flowering plants - Li <br />Reproduction of plant and development of seeds - Li <br />Hormonal physiology (Auxin) - Li <br />Hormonal physiology (Ethylene) - Li <br /><br />After mid-term: <br />Hormone physiology (Gibberellin) - Li <br />Hormone physiology (Cytokinin) - Li <br />Hormone physiology (Abscisic Acid) - Li <br />Hormone physiology (Brassinosteroids) - Li <br />Hormone physiology (Salicylic Acid) - Li <br />Plant response to environment stimuli - Li <br />Respiration &amp; Energy - Melody <br />Movement of Water and Solutes - Melody <br />Plant defense responses to pathogens - Melody <br />Plant Cell Signaling - Li <br />Plant molecular biotechnology - Li <br /><br />There are tutorial sessions after finishing each chapter, as well as before mid-term and final exam. <br /><br />Content before mid-term is easy as most of them covered in high school already. However, content after mid-term will become difficult as you have to remember the interaction between different hormones which may makes you confused.",
+      "comment_teaching": "Li explains everything clearly with lots of analogy. He will talk about the important concepts which mostly appear in the exam so better come to his class. <br /><br />Melody is a funny instructor and she will relate daily life examples in the tutorial sessions. However she speaks quite fast so make sure you keep jot down notes during lecture which benefits your understanding.",
+      "comment_grading": "Mid-term consist of 50 MCQs only. <br />Mean: 30/50 SD: 6 <br /><br />Final exam consist of 40-ish MCQs and 3 short essays questions. <br />Marks are not disclosed. <br /><br />Make sure you understand the concepts but not just reciting things as the questions really required deep understanding. <br /><br />Scored above mean 2 SD will guarantee you an A+.",
+      "comment_workload": "Just one mid-term and one final only.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "JIaOAyluD9OPEh1afO3qkKQ5fGZSy7u8",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        }
+      ],
+      "author": "vincentchy",
+      "date": "Aug 03, 2018",
+      "title": "LIFS 2080",
+      "comment_content": "Content is quite easy to understand which include basic knowledge about plant like nutrition, photosynthesis , cell structure ,plant hormones,transport of water, growth and development; biotechnology.",
+      "comment_teaching": "Melody&#039;s teaching is just read from ppt.<br />Li Ning teach quite well because he highlight some main concept and take home message for student. Li Ning also like to answer if student have any question and teach student more .",
+      "comment_grading": "Easy to get B or above which is reasonable to the content and workload.",
+      "comment_workload": "Only mid-term and final exam. Question is quite easy. Some question require a well understanding to the concept, thus revision is recommended.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "U945ylECgbIbs7qUuPmWaVj2uvyFG1mf",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        }
+      ],
+      "author": "Aysha",
+      "date": "Jan 14, 2018",
+      "title": "",
+      "comment_content": "The contents are pretty straightforward and are easy to understand. <br />The topics range from plant hormones, plant cell structure e.g. pectin, lignin etc. Structure and life processes in plants; cellular structures; molecular and cellar mechanism; transport of water and nutrients; nutrition and soil; reproduction; photosynthesis; growth and development; biotechnology.<br /><br />Though this seems like a lot, the content itself isn&#039;t overwhelming as compared to other courses, and is very interesting if you enjoy learning about plants.",
+      "comment_teaching": "I personally enjoy Li Ning&#039;s approach to teaching. He always highlights the important concept and &quot;take-home message&quot; after every lecture. He appropriately stresses the confusing part.. and uses good analogies to explain the concepts better. His slides either contain many pictures or too many words. Not all of em would be elaborated or discussed in the lecture, so best to attend his classes ( and for the record, he doesn&#039;t record his lectures) <br /><br />Melody, on the other hand, is alright, her explanations and contents are usually present word for word in the ppt.",
+      "comment_grading": "Grading is reasonable. Most of the Classes managed to get a B",
+      "comment_workload": "There are only Midterm and a final exam. The questions were pretty easy to moderate difficulty, given that you have revised well.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "7cjZAzjiugOIXVFkAiCo6bCNWHjEbEtT",
+      "semester": "2016-17 Spring",
+      "instructors": [],
+      "author": "Chrissie",
+      "date": "Aug 22, 2017",
+      "title": "plant biology",
+      "comment_content": "First part was about plant growth, plant structure...<br />The second part was about plant hormones and plant movement. There were 6 plant hormones in total and 2 major plant movement.",
+      "comment_teaching": "Both professors are nice. They explained the course content very well. They would give a lot of additional information in class, and sometimes the content of ppt are wrong, they would tell you in class, so you better attend lectures.",
+      "comment_grading": "The midterm exam wasn&#039;t hard, just mc questions.<br />The final exam had few long questions.",
+      "comment_workload": "No homework. No group project. No quiz. Only midterm and final.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "lCTIS56xNnXEevoCbJSNicFASHc7FJfB",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        }
+      ],
+      "author": "NM",
+      "date": "Aug 10, 2017",
+      "title": "",
+      "comment_content": "The content is about plant structure, growth, reproduction, photosynthesis, respiration... before the midterm.<br />The final is mainly about plant hormones and the interaction between them.",
+      "comment_teaching": "The lectures are interesting. They are nice and are familiar with the course content, they can explain the concepts clearly.<br />However, the notes provided are neat, just not self-explanatory as you might expected, attending the lectures and jotting down some extra notes are really needed. (and no lecture videos are provided)",
+      "comment_grading": "50% midterm and 50% final exam<br />the grading is fairly good, the mean grade is B and most people got B range",
+      "comment_workload": "Only midterm (all MC) and final exam (MC+a few short question), which are simple and short.<br />But you need to attend the lectures to get a good grade, although no attendance is taken.<br />You will know what to be examined during the lecture, so that you don&#039;t have to memorize unnecessary things.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "cj6dPGGNBOedvsRSTK2oWX5gfBGjVOxK",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 0
+        }
+      ],
+      "author": "hkw",
+      "date": "Aug 23, 2016",
+      "title": "",
+      "comment_content": "The content is about plant structure and hormone. Hormone&#039;s part is very difficult.",
+      "comment_teaching": "Melody&#039;s part is easy and do not have much to memorize. The content is clear and you can easily understand.<br /><br />The accent of Li Ning is terrible. Can hardly understand what he said. The lecture notes are not detailed and clear. You must attend every lecture and pay full attention in order to understand the content as there is many supplementary information that the notes do not include but will appear in the final exam.",
+      "comment_grading": "50% midterm 50% final. Grading is acceptable.",
+      "comment_workload": "Only midterm and final.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "E9oaoVFs9Bz4umIcosTm2mR6w4MjZVM2",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 1
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        }
+      ],
+      "author": "hihi",
+      "date": "Jun 06, 2016",
+      "title": "Don&#039;t take it if it is not your major requirement, it is terrible",
+      "comment_content": "-Content is good, detailed, inspring<br /><br />-make you understand why fruit ripe and the corresponding plant hormone<br /><br />-quite intersting",
+      "comment_teaching": "-Li Ning is a good guy, with many knowledge, but he teaches so fast and without clear linkage among the topics<br /><br />-You can hardly follow his mind, coz it changes so quickly<br /><br />-Leung is better, feel like high school teacher, detailed and medium speed but rather boring",
+      "comment_grading": "-Not so good<br /><br />-Again, if it is not your major requirement, dont take it<br /><br />-I got only B with lots of effort memorizing the terms and mechainism",
+      "comment_workload": "-Very heavy, especially for the plant hormone part<br />many to memorize<br /><br />-also not only memorize, you also need a deep understanding when answering the exam questions<br /><br />-highly demanding course",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 2,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "yLcf1LBBjEcIxOEvbaYvaPRPjtWg2vvP",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        },
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 0
+        }
+      ],
+      "author": "kentanggoreng",
+      "date": "Aug 26, 2015",
+      "title": "",
+      "comment_content": "The course is basically evil; it is easy on the first half as you talk about basic capillary movemnts, photosynthesis, calvin cycle, and other stuff you know in highschool. After midterm, came biochemistry and molecular biology which will surely make to regret taking this course in the first place.",
+      "comment_teaching": "Leung (Melody) was quite nice. She was organised and structured. Her English is not the best, but she tries to be friendly, engaging and helpful to her students. Li Ning was the opposite; he was mad insane. Definitely a mess, he handles the biochemistry an dmolecular biology part of the course and yet he fails miserably most of the time to explain concepts to the students. His presentation was also a sloppy mess and hard to understand.",
+      "comment_grading": "Grading was alright.",
+      "comment_workload": "Just spend your time trying to understand (and memorise) what&#039;s provided to you on the lecture notes. Borrowing books from the library also helped a lot to understand the heavy, difficult second part of the course.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "7SvSAOTrW0KgwTcC83E6lGxyrZLwobQ0",
+      "semester": "2013-14 Spring",
+      "instructors": [
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 0
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 1
+        }
+      ],
+      "author": "royalmilktea",
+      "date": "Aug 13, 2015",
+      "title": "要付出好多時間精神",
+      "comment_content": "topics：plant anatomy、development、photosynthesis、metabolism、transport、defense、reproduction、plant hormones、cell signaling、human x plant interactions（genetics、crops）、plant biotech<br />好多野背（係咩都要背）<br />plant要識label＋分種類<br />midterm後教plant hormones同crops，crops仲要背埋邊個國家domesticate左d咩<br />Melody既考試範圍就係完全教過既，輕鬆<br />Li Ning既就包括教過同無教過齊齊上<br />鍾意挑戰人類極限既同學可以一戰<br /><br />以plant bio黎講都算全面<br />不過我揀錯科黎讀，讀得又無興趣又辛苦",
+      "comment_teaching": "Li Ning教書偏快，對plant bio好有熱誠但係會自high多過教到你明白<br />同埋人可能因為經驗老到，所以有少少自信心爆登，亦都高估我地對plant bio既興趣；所以覺得唔係特別approachable<br />問佢問題唔好expect會有確實既答案，因為未講到point就離題既機率係99.99%<br />d notes唔係好有幫助，記得上堂自己抄佢講咩（因為有機會考）<br /><br />Melody就正正常常一個lecturer<br />powerpoint都算正正常常<br />人好nice，你問佢咩佢都盡量幫你答<br />不過上堂有d欠缺生動有趣lor<br /><br />Melody喺midterm前教，所以midterm頗容易<br />不過final就gg喇！Li Ning d試題無奇不有",
+      "comment_grading": "努力背書，有滿意既成績<br />算係付出同收穫成正比既",
+      "comment_workload": "好多野背<br />加上無啦啦pop quiz黎check attendance<br />仲要如果係Li Ning出既，就算定期溫左書都唔會識<br />讀得好辛苦呀",
+      "rating_content": 2,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "uHLYLiUq4PygOXvKiNg8tf3PPhZfLTgX",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 486,
+          "name": "LI, Ning",
+          "rating": 0
+        },
+        {
+          "id": 470,
+          "name": "LEUNG, Kar Wah",
+          "rating": 0
+        }
+      ],
+      "author": "孤獨的美食家",
+      "date": "Aug 04, 2015",
+      "title": "",
+      "comment_content": "一開波Li會講兩堂，跟住就換Dr Melody Leung<br />一開始講植物構造<br />中學學過嘅深化版，一大堆野要記，好多terms<br />每1part咩名，etc<br />跟住就講photosynthesis，3C同4C plant嘅photo- pathway<br />MIDTERM應該會只考MELODY<br />考完MT換番Li<br />之後冇上堂，大約係講PLANT GENETICS嘅野<br />即係點樣令到棵野開花，陽光點影響植物嘅PROTEIN CODING<br />跟住仲有GM PLANT點影響社會 ETC",
+      "comment_teaching": "MELODY神級催眠<br />基本上你點有學習的心都好<br />都會係會訓著覺<br />仲要冇BREAK，直落，慘過死<br /><br />LI就地獄級NOTES<br />A4 SIZE打直，得圖冇字<br />仲要拎D圖嘅CAPTION當NOTES用<br />唔上堂只睇NOTES會慘過死 (我就係成功例子)<br />最經典係有一張SLIDE成張得四隻字，仲要係中文<br />寫住“基因革命” 完全唔知想點<br />仲要發覺佢D NOTES成日都唔知想點地有中文，而D中文只係解釋緊某D單詞“ EG MAIZE 玉米”<br /><br />問佢野佢唔會答你，佢反而會反問你一句係咪冇上佢堂<br />跟住就屌鳩你走堂 （明明係落堂果時走出去問佢果堂教嘅野）",
+      "comment_grading": "MT BELOW ~0.4 sd<br />FINAL冇分睇 但係真心唔識 85條MC FIRM嘅得5條<br />LAST B左",
+      "comment_workload": "MELODY教果時會有QUIZ<br />即場會對答案<br />落堂先收番你張紙<br />咁你識點做啦<br />QUIZ分將會加落份MT度再計<br /><br />MT FINAL各50%<br /><br />MT全MC<br />FINAL 85MC+15分SHORT Q",
+      "rating_content": 2,
+      "rating_teaching": 1,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

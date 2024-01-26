@@ -1,0 +1,226 @@
+{
+  "course": {
+    "id": 1394,
+    "subject": "MECH",
+    "code": "3650",
+    "name": "Aircraft Structural Analysis",
+    "description": "Elasticity, structural analysis, energy and matrix methods, fatigue, vibration, airworthiness and aeroelasticity. For science and engineering students in their second year of study or above.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1710,
+      1610,
+      1530
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"2120\" href=\"/review/CIVL2120\" target=\"_blank\">CIVL 2120</a> OR <a class=\"course-link\" data-subject=\"MECH\" data-code=\"1907\" href=\"/review/MECH1907\" target=\"_blank\">MECH 1907</a> OR <a class=\"course-link\" data-subject=\"MECH\" data-code=\"2040\" href=\"/review/MECH2040\" target=\"_blank\">MECH 2040</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 2.6,
+    "rating_grading": 4,
+    "rating_workload": 2.8,
+    "review_count": 5,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 905,
+        "name": "YANG, Jinglei",
+        "count": 4
+      },
+      {
+        "id": 829,
+        "name": "LEE, Ricky Shi-wei",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "DHMeTHbLYe7E2hoYn41mlljIapPTnf1e",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 905,
+          "name": "YANG, Jinglei",
+          "rating": 1
+        }
+      ],
+      "author": "An225 Mriya",
+      "date": "Jan 10, 2023",
+      "title": "Stress and Strain: Phantasm Stage, Lunatic Difficulty (without YUKARI)",
+      "comment_content": "As per other said, MECH3650 is an extended version of MECH2040 tailored for thin aircraft structures (as opposed to the beam-oriented MECH2040), which it&#039;s chapters can be divided as follows:<br />1. Introduction<br />2. Loads and forces in aircraft structures<br />3. MECH2040 review<br />4. Torsion, bending and shear (3 parts)<br />5. Thin-walled pressure vessel analysis and stress analysis with simplification (2 parts)<br />6. Deflection and stability of beams and columns<br /><br />The first 3 chapters are very easy, to the extent that nothing much new was taught except the failure criteria. Torsion is also generally easy, and this is also perhaps true to some extent for bending and pressure vessel analysis as well.<br /><br />The real challenge is finding the shear force. The procedure for calculating shear flow is extremely tedious, and this is only alleviated by a small extent with later simplifications. As other said, the entire course really test your your math skill and whether you are careful enough to prevent mistakes.<br /><br />Also as a side note, all theories are assumed to be applicable only to isotropic materials. While the course&#039;s content does serve as an introduction towards practical engineering mechanics and a rule of thumb, I doubt how useful they are in an era where the aviation industry increasingly embraces composite materials (which are highly anisotropic in mechanical nature). Perhaps these are to be taught/researched in further studies?",
+      "comment_teaching": "Professor Jinglei Yang was in charge of the lectures, in which for most of the time he acted as the stereotypical PPT reader in teaching. As a Mainland Chinese professor, his accent was really thick, though not to the extent of Professor Li in MECH3610. Sometimes he would use his list of enrolled students to do random asking in an attempt to increase student participation, a fact that was mentioned by previous reviews.<br /><br />Some examples could be flew through in lectures within minutes, which means if you decided to do it as a guided exercise, you could have finished nothing while missing a lot of other taught contents: try to think about them after lectures instead. Lecture recordings were only for those who have valid reasons until the midterm and final exams, though mixed mode lectures were available.<br /><br />He indeed showed his passion in lectures, albeit in a very poor way. During lectures, he may spend 15 to 20 minutes in showing related YouTube videos about a recent rocket launch or space program. They are really low-quality with monotonic AI-generated voices and compiled sources from the Internet, and only wasted the lecture&#039;s time.<br /><br />The course&#039;s TA is Sepideh Sadat Hosseini Noorabadi, who spoke a heavy Persian accent and spent most of the tutorial time for explaining homework questions. As a result most of her tutorials were rather dull, as I only interested in those HW questions that I made mistakes. Tips for coming assignments were also released on tutorials, although they&#039;re of limited usefulness. She replied to emails fairly quickly, although she may misunderstand my questions.",
+      "comment_grading": "Attendance: 5% (Almost full points)<br />Homework: 20% (Mostly &gt;90/100 except one with 63/100, mean fluctuating)<br />Midterm exam: 20% (90/100, mean 65.03/100, median 72.5/100)<br />Final exam: 55% (Never released per MAE practice, but should be good enough)<br /><br />This course counts attendance, and at the beginning of each lectures, you are required to sign your name. Mixed mode attendance were not recorded by instructor or TAs, so you would need to mark it by yourself in the next lecture. This could also be used to fake attendance records, although it only counts towards 5% of the grade.<br /><br />The 8 assignments were of equal weight with the midterm exam, in which they usually consist of 4-5 questions to be submitted in 1-2 weeks. The complexity of homework would be discussed in detail in the section about workload. Once finished, they should prepare yourself to the exam questions, though practice makes perfect.<br /><br />Both exams were open book. The midterm only cover contents before torsion, which was easy to prepare. However, the Professor did asked one question about &quot;explain the complexity of structural components and aircraft materials&quot;. He claimed this is a catch-all question that allows him to award mark to any reasonable answers, but in my opinion that was really confusing and ambiguous. Nevertheless, calculation questions were straight forward, and at the end I got 90% for the midterm. It seems that after going through sufficient textbook questions and marking down important points in lectures suffice a good grade for the midterm.<br /><br />The final exam would cover everything from the beginning to the end, with 2 relatively short questions and a full-fledged long complex question to be dealt within 2.5 hours. Professor Yang claimed that the exam questions would be much easier than homework questions, which seemed to be true per my experience. At least the 3 by 3 linear equation set as used in the final was simplified that can be dealt in a 2 by 2 way, and no complex Gaussian elimination was needed.<br /><br />At the end get an A for this course, which is satisfactory to me. Note that MECH2040 wasn&#039;t a requirement for MECH3650, but enroll at your own cost: one of my friend did so, he ended up with a C-ranged grade.",
+      "comment_workload": "Most of the homework questions were complicated and time consuming: even the initial ones contain questions like &quot;research for the supply chain of Boeing 787&quot; or &quot;find the mathematical definition of shear and twist centres&quot;. With the introduction of shear forces, you would be dealing with pages of shear flow calculation, which could toll you 5-6 pages of paper if you work on paper.<br /><br />In fact, the homeworks were so stressful such that I have a few times where I referred to &quot;special reference material&quot; (aka textbook solutions) when dealing with mangled questions that I can&#039;t finish. Just remember while most calculation problems were copied from textbook, the TA can change the numerical values in question at any time, so for those copycats make sure that you pay attention to question details.<br /><br />My advice for homework is that:<br />1. Use Microsoft Word instead of paper to do your homework, as you&#039;ll easily make a mess full of correction fluid when correcting wrong steps. An experienced user (like me) of MS Word can generate nicely-looking formulas quickly, and any wrong answers can be replaced with ease. You also don&#039;t have to scan your paperwork as well.<br />2. Excel is your friend. Microsoft Excel helps you in repetitive calculations without the fear of calculation mistakes once functions are defined. They are helpful in dealing with simplified shear flow questions, in which they were basically a summation of boom area time location. The TA did accept homework done by Excel, as long as the spreadsheet was submitted as well.<br />3. For those who were taking MECH3670 as well, they would teach you how to use Julia, a software that essentially functions as Matlab to some extent. Instead of using hand-calculated Gaussian elimination, you can make use of Julia to help you solve 3 by 3 simultaneous equations that occurs in multi-cell torsion questions.<br /><br />As for exam preparation, while I mentioned that the TA put little effort in introducing examples, a copy of the textbook was available from the Professor (plus the Library as well). Do as much exercises as you can before the exams, and you should be prepared for them.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Y8mEzvr8WZPl4jZpAthmQvlkgJIEu30u",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 905,
+          "name": "YANG, Jinglei",
+          "rating": 1
+        }
+      ],
+      "author": "LuQ",
+      "date": "Jan 27, 2021",
+      "title": "High-key testing your math manipulation skill",
+      "comment_content": "Basically an extension of MECH 2020 and MECH 2040 content, with some relevance to aircraft structures (closed thin-walled structures/vessels) <br />1. Intro to Aircraft Structures &amp; Materials<br />2. Loads &amp; forces in Aircraft Structures<br />3. Review of Mech<br />4. Torsion, Bending, Shear of thin-walled structures and beams<br />5. Practical Aircraft Stress Analysis<br />6. Deflection &amp; Stability",
+      "comment_teaching": "The prof just goes over the PPT, nothing much to it. I&#039;d rather not attend and review myself, but his notes aren&#039;t understandable if I didn&#039;t attend lecture because most of it is just Math <br /><br />I could tell the prof has passion for the course, by showing us some videos and at least he wasn&#039;t monotone. Since Covid made classes online, he wanted a more interactive class.... by asking random person a question during class. In the beginning of the sem, he said he&#039;d record who won&#039;t answer to &#039;record attendance&#039; even though it&#039;s not graded, he also said those who turn on camera for some percentage of the lectures would get bonus, but I guess didn&#039;t work as most of us still left it off.",
+      "comment_grading": "Oddly, the grading seems to be the silver lining from this course experience. With 8 total homeworks filled with above-average difficulty towards the end of sem and the impossibly difficult final, I actually was expecting B- max. Also because a few of my homeworks were well below mean.&nbsp;&nbsp;But in the end I got B.",
+      "comment_workload": "Because of the nearly weekly homeworks to complete (I took this with 3610, they were unfortunate to have nearly the same timing of deadlines with similar difficulty), I had to miss a few questions when submitting homework, and even submit a few late (with score reduction).&nbsp;&nbsp;Each homework was very heavy. After the midterm, each question would take me 2 pages on average to complete, handwritten, maybe even up to 3-4 pages if it consist of shear flow problems.<br /><br />Exam was crazy difficult, I found from a senior that the questions were of similar type, but more difficult with less time to complete. I think the prof wanted that outcome tbh. It wasn&#039;t difficult content-wise, just how we had to answer was very tough because it takes up so much time and there were many room for mistakes in the math",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "WNfQSu9mM0M0R1Voy0oypQSrQuipZH1O",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 905,
+          "name": "YANG, Jinglei",
+          "rating": 1
+        }
+      ],
+      "author": "hpt",
+      "date": "Jan 09, 2018",
+      "title": "A lot of Calculation",
+      "comment_content": "At the beginning, it introduce different parts in an aircraft. As more parts are introduced, the force calculation about these parts will be involved. It is like applying solid mechanics in the aircraft context. And a great portion of this course is to teach you to do the calculation.",
+      "comment_teaching": "The instructor just read the power point. I found there was really no point to sit in the room for the whole lecture and decided to skip the lecture after first two weeks.",
+      "comment_grading": "Grading is normal. I guess the mean would be C+.",
+      "comment_workload": "1 assignment for 1-2 weeks. Midterm and Final exam. No quiz. The homework problem are similar to the lecture note example. however, the get the correct answer, you have to do a LOT of algebra.",
+      "rating_content": 3,
+      "rating_teaching": 1,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "1ljct6D5GfMRCbx024k35NDVSGG7fX1f",
+      "semester": "2016-17 Fall",
+      "instructors": [
+        {
+          "id": 905,
+          "name": "YANG, Jinglei",
+          "rating": 1
+        }
+      ],
+      "author": "Globas",
+      "date": "Aug 26, 2017",
+      "title": "Lecture Notes are Well Organized",
+      "comment_content": "A much-difficult version of MECH 2040. Topics basically follow the teaching of MECH 2040, but the formulas are much more complicated. Students are expected to face to some super long equations with complex symbols to compute. However, solving a problem successfully would help you a lot.<br />The lecture notes is much better organized than the textbook, so you are preferred to read more lecture notes rather than textbook.",
+      "comment_teaching": "The teaching of the lecturer is fair. He try to teach every single details in every lecture. However, the tutorial was not quite satisfactory. I complained it for several times.",
+      "comment_grading": "I tried all homework sets with reference to the source, but carefully studied the theory behind it. As long as you don&#039;t directly copy the solution from the solution manual, as well as understand every single step, you will able to solve the problems. You need to try to do all your homework problems before the exams, because the examinations would be rather similar to the homework problems. I obtained A eventually with an approximate total percentage of 80%. However the mean total score last year was only around 35%. A lot of students received bad grade because of the low performance as well as the high difficulty.",
+      "comment_workload": "If you want to get A range, the workload is super high.<br />If you just want to pass, the workload is fair.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "j20FkRRAv2P2bcUQw4dRnNXgQvMVRwsI",
+      "semester": "2015-16 Spring",
+      "instructors": [
+        {
+          "id": 829,
+          "name": "LEE, Ricky Shi-wei",
+          "rating": 1
+        }
+      ],
+      "author": "lphjustin",
+      "date": "Jun 21, 2016",
+      "title": "",
+      "comment_content": "-Characteristics of Aircraft Structures &amp; Materials<br />-Introduction to Elasticity<br />-Torsion<br />-Bending and Flexural Shear<br />-Flexural Shear Flow in Thin-walled Sections<br />-Failure Criteria for Isotropic Materials<br />Almost all questions encountered in homework and exams are mathematical questions, some of which can be quite long and complicated. The exams will also include some short questions to test your understanding on the theories taught in-class by the professor.",
+      "comment_teaching": "Professor is not bad, he is passionate in teaching and is willing to answer questions and gives detailed answers, but his voice can make you feel very sleepy. However, most of his PPT notes are copied directly from textbook and are in my opinion not very useful.<br />The TA only uses tutorials to explain the homework questions, so attendance is not necessary if you know how to do the homework.",
+      "comment_grading": "Homework - 30%<br />Mid-Term Exam - 30%<br />Final Exam - 40%<br />Grading is good. As long as you complete your homework on time and remember the homework solutions well before the exams, you will get a good grade.",
+      "comment_workload": "Workload is relatively light, homework questions (6-10 questions for each set of homework) are mostly taken directly from textbook, which means you can easily find sources online. Exam questions are almost the same as those from homework, so if you fully understand how to do the homework questions, you will have no difficulty getting high marks in the exams.<br />Mid-Term Exam covers topics up to Torsion, while Final Exam covers topics after Torsion (so no need to revise the topics taught before Mid-Term). One A4 double-sided cheat sheet is allowed in Final Exam.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

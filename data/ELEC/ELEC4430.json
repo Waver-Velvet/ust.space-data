@@ -1,0 +1,157 @@
+{
+  "course": {
+    "id": 341,
+    "subject": "ELEC",
+    "code": "4430",
+    "name": "Integrated Power Electronics",
+    "description": "Power computation, diodes and rectifier circuits, power factor correctors, switch mode power converters, magnetic components, switch capacitor power converters, linear regulators, and integrated circuit techniques for controller design.",
+    "categories": [],
+    "website": "http://course.ee.ust.hk/elec4430",
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030,
+      1930,
+      1830,
+      1730,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"3400\" href=\"/review/ELEC3400\" target=\"_blank\">ELEC 3400</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 4,
+    "rating_teaching": 5,
+    "rating_grading": 4.67,
+    "rating_workload": 4.33,
+    "review_count": 3,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 205,
+        "name": "MOK, Philip Kwok Tai",
+        "count": 2
+      },
+      {
+        "id": 1263,
+        "name": "MAN, Tsz Yin",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "Ll4bTIyPtYFYaEtWaM9Pv2ZSDFF8C5Qr",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1263,
+          "name": "MAN, Tsz Yin",
+          "rating": 1
+        }
+      ],
+      "author": "garbage",
+      "date": "May 28, 2023",
+      "title": "Nice introduction to very basic power electronics.",
+      "comment_content": "Power Computation<br />Rectifier<br />Switch Mode Power Converters (DC-DC)<br />Control and Feedback (basic)<br />Magnetism<br /><br />The content is not much since it does not include regulators and in-depth knowledge about control and transistor level circuits. <br /><br />Really wish it could include some more advanced topics such as bandgap reference, charge pump, and DC-AC inverters in order to prepare us for the much more complicated design problems in the industry, but the fact is that this is UST and the syllabus only becomes less and less over the years. :(",
+      "comment_teaching": "The teaching is nice. The professor is very clear about the course content and is really willing to help the students even though he is very busy.",
+      "comment_grading": "4% for 3 assignment each. <br />22% for project 1<br />26% for project 2<br />40% for final exam<br /><br />Most people get full mark on the first 60%. <br /><br />The final exam is easy as long as you can understand and perform the derivations of the formulae. It emphasized a lot on SMPC. <br /><br />The mean of final exam is 47/100, and the upper quartile is 64. Would update when the grade comes out.",
+      "comment_workload": "3 very easy homework assignments and 2 very easy projects. <br /><br />The final may consume more time since it is closed book and the formula sheet provided was not really that helpful.<br /><br />It does not include laboratory sessions, which might be good news for some but I find it quite sad.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "XhyqyVDAsXBUGRBYqiLCstzxyQyyEHmz",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 205,
+          "name": "MOK, Philip Kwok Tai",
+          "rating": 1
+        }
+      ],
+      "author": "EricSpace",
+      "date": "Aug 17, 2018",
+      "title": "",
+      "comment_content": "Power Computations<br />Rectifier<br />Switching Converters(Buck,Boost,Flyback)<br />Control Methodology<br />Magnetics<br />Linear Regulators",
+      "comment_teaching": "Prof mok is very nice <br />He will have further explanation on basic on the PowerPoint, more detail and practical use",
+      "comment_grading": "Homework&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10%<br />Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15%<br />Midterm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25% <br />Final&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;50%<br /><br />for the midterm, there are 3-4 question.<br /><br />the type of the question will be tell in the class,<br />therefore, make sure you to the class or find a friend who will go to the class<br /><br />During the midterm, i find that it is not similar to the pastpaper<br />my midterm is give you some number, and DERIVE the equation that u have learn in lecture note <br /><br />During Final,<br />there are MC and LQ <br />MC is talking about how do u familiar with 4430 all the concept with YES NO question<br />LQ is focus on after midterm content.<br />Not similar with midterm, as the content after midterm are more practical use and less derive question.<br /><br />Project<br />If u dont know how to do, find prof or TA. Or ask the people who have go to the class",
+      "comment_workload": "Total 4 homework. <br />Project is ask you to design a DC-DC Converter to fit the requirement. It will take some time. you just fulfill all the requirement in the project description. it means that u need to go to class when he is explain the detail of the switching converter, control methodology and linear regulators.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "mEOjBuzlIPdp0J73fbzQQKx4qp8E6nJq",
+      "semester": "2017-18 Spring",
+      "instructors": [
+        {
+          "id": 205,
+          "name": "MOK, Philip Kwok Tai",
+          "rating": 1
+        }
+      ],
+      "author": "w.w",
+      "date": "Jun 06, 2018",
+      "title": "Good for power converter knowledge",
+      "comment_content": "Power Computations<br />Rectifier<br />Switching Converters(Buck,Boost,Flyback)<br />Control Methodology<br />Magnetics<br />Linear Regulators",
+      "comment_teaching": "Prof. Mok will tell you more when you attend the class.He will explain in detail and answer your questions during the class.Also, he will give some hints about midterm/final in the class.<br />So don&#039;t miss the class if you want to learn more ;)",
+      "comment_grading": "Homework&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10%<br />Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15%<br />Midterm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25% <br />Final&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;50%<br />I got about 70% of HW, 90%of project and below mean of the midterm.<br />However, he didn&#039;t post the final result.<br />Finally, I got B grade.<br />(Updated:my final around mean)",
+      "comment_workload": "Only two lectures for a week.<br />Total 4 homework.<br />project is ask you to design a DC-DC Converter to fit the requirement. It will take some time but moderate.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

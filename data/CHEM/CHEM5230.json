@@ -1,0 +1,85 @@
+{
+  "course": {
+    "id": 1604,
+    "subject": "CHEM",
+    "code": "5230",
+    "name": "Quantum Chemistry",
+    "description": "Introduction to basic theories of Quantum Chemistry. Popular theories used in modern Quantum Chemistry such as Hantree-Fock theory, Density Functional theory. Perturbation Theories, and other quantum chemistry theories will be introduced in this course.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2010,
+      1810,
+      1610
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 2,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 39,
+        "name": "HUANG, Xuhui",
+        "count": 1
+      },
+      {
+        "id": 1187,
+        "name": "SU, Haibin",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "qDQCCUrki5RDfLvv61GC6TmeuGtJNlZ9",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 1187,
+          "name": "SU, Haibin",
+          "rating": 1
+        },
+        {
+          "id": 39,
+          "name": "HUANG, Xuhui",
+          "rating": 1
+        }
+      ],
+      "author": "holymama",
+      "date": "Dec 16, 2018",
+      "title": "",
+      "comment_content": "The course content mostly focus on Szabo&#039;s book. DFT was not covered due to time limit<br /><br />Ch.1 Mathematical Review:<br />1.1 Linear Algebra<br />1.2 Orthogonal Functions, Eigenfunctions and Operators<br />1.3 The Variation Method<br /><br />Ch.2 Many Electron Wave Functions and Operators:<br />2.1 The Electronic Problem<br />2.2 Orbitals, Slater Determinants, and Basis Functions<br />2.5 Spin-Adapted Configurations<br /><br />Ch.3 The Hartree-Fock Approximation:<br />3.1 The Hartree-Fock Equations<br />3.3 (1) Koopmans’ Theorem<br />3.4 Restricted Closed Shell Hartree Fock: The Roothaan Equations<br /><br />Ch.4 Configuration Interaction:<br />4.1 Multiconfigurational Wave Functions and the Sturcture of the Full CI Matrix<br />4.2 Doubly Excited CI<br />4.4 Natural Orbitals and The One-Partical Reduced Density Matrix<br />4.5 The MCSCF and CVB Methods<br />4.6 Truncated CI and the Size-Consistency Problem<br /><br />Ch.5 Pair and Coupled-Pair Theories:<br />5.1 The IEPA<br />5.2 Coupled-Pair Theories<br />5.3 Many-Electron Theories with Single Particle Hamiltonians<br /><br />Ch.6 Many-Body Perturbation Theory:<br />6.1 Rayleigh-Schrodinger Perturbation Theory<br />6.2 Diagrammatic Representation of RS Perturbation Theory",
+      "comment_teaching": "A for Huang, F for Su, so mean grade is D :)<br />The first half was taught by Prof. Huang and the second part is Prof. Su.&nbsp;&nbsp;Both of them are very nice and they eager to help us to clarify all the concept. Sad to say that the teaching skills of Prof Su is really a piece of ___ coz nobody understand what he is talking about when he is teaching configuration interaction, he even need help from those post-doc students [Best TA award to Prof. Su :) ]. So, good luck when you meet him in the lecture.",
+      "comment_grading": "Final: 80%<br />Other Performance: 20%<br />so-called &quot;other performance&quot; is just a gift. Anyway, almost no PG will care on their grades. <br /><br />Mean: 70.4/100, SD 14.2<br />They are very lenient to the marking . Not difficult to get a high score.",
+      "comment_workload": "As the second half of the course require self-reading due to the poor presentation by Prof. Su, it is quite a heavy workload as the second half is the most difficult part, especially for the content in the natural orbital and the density matrices. Seems nobody understand perturbation theory because he rushed this topic within 10 mins. Horrifying.",
+      "rating_content": 5,
+      "rating_teaching": 2,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

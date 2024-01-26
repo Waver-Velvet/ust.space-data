@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 3916,
+    "subject": "CORE",
+    "code": "1576",
+    "name": "Introduction to Moral Philosophy",
+    "description": "This introductory course examines various beliefs and questions underlying our moral lives. These include the relation between morality and religion, subjectivism, relativism, self-interest, the rights and wrongs of euthanasia, etc. Also, certain ethical theories claim to help us make the right moral decisions, e.g. utilitarianism. This course is a systematic exploration of such beliefs and theories, emphasizing critical thinking and reasonable justification.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2230
+    ],
+    "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1401\" href=\"/review/CORE1401\" target=\"_blank\">CORE 1401</a> OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1402\" href=\"/review/CORE1402\" target=\"_blank\">CORE 1402</a> OR CORE 1403 OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1404\" href=\"/review/CORE1404\" target=\"_blank\">CORE 1404</a> OR LANG 1002 (prior to 2022-23)",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1732,
+        "name": "PROOI, Dennis",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "vjN15IwcBmXuRcA7Hh3hdu3rPqiohjB4",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1732,
+          "name": "PROOI, Dennis",
+          "rating": 1
+        }
+      ],
+      "author": "準雷",
+      "date": "Jun 05, 2023",
+      "title": "幾有趣而且workload唔大嘅哲學入門course",
+      "comment_content": "道德哲學入門<br />由最古代講到現代<br /><br />Introduction:<br />1. An overview of moral theories<br />2. Philosophical reasoning<br /><br />Part One: Ethical Theories of the Ancient World<br />1. Relativism<br />----------Midterm Exam start from here----------<br />2. Virtue ethics<br />3. Confucian ethics<br />4. Buddhist ethics<br />5. Daoist ethics<br /><br />Part Two: Modern Moral Theories<br />1. Sentimentalism and the is-ought fallacy<br />2. Act utilitarianism<br />3. Rule utilitarianism<br />4. Deontology<br />5. Egoism<br />6. Capabilities approach<br />----------- Midterm Exam up to here-----------<br /><br />Part Three: Applied Ethics<br />1. Animals<br />2. Nudging<br />3. Euthanasia<br />4. Abortion",
+      "comment_teaching": "Dennis教得唔錯<br />上堂教書唔會趕進度<br />而且英文講得好好<br />Lecture powerpoint基本上有齊哂啲內容<br />入面有例子解釋唔同嘅哲學概念<br />算係哲學既入門<br />堂上佢都會再解釋返<br />但自己睇powerpoint理解都可以<br />佢唔會主動問問題<br />反而有好多同學問佢問題",
+      "comment_grading": "Participation 20%<br />最少做8次200字左右嘅moral dilemma discussion<br />每個2.5分 做多過8次就計最高分嘅8次<br />My Score: 19.5/20<br /><br />Midterm Exam (Closed book, 80 mins) 30%<br />Short questions 5選4作答<br />Mean: 22.23&nbsp;&nbsp;(LQ: 19.5, Median: 23.25, UQ: 26.5)<br />My Score: 22/30<br /><br />Final Essay 50%<br />800-1200字, sem尾交, 題目自己定<br />要用一個part 1/2 moral theory<br />對應返一個part 3嘅applied ethics<br />Mean: 42.4/50&nbsp;&nbsp;(LQ: 40, Median: 46, UQ: 48)<br />My Score: 31/50<br /><br />Overall: 72.5%<br />Grade: C+<br />炒咗essay, 算係咁<br /><br />Tentative Scheme for conversion of total % to letter grade:<br /><br />97% or above = A+<br />93%~ = A<br />90%~ = A-<br />85%~ = B+<br />80%~ = B<br />75%~ = B-<br />70%~ = C+<br />65%~ = C<br />60%~ = C-<br />40%~ = D<br />Lower than 40% = F",
+      "comment_workload": "一般偏低啦<br />TA有比discussion滿分sample<br />照住個套路寫就得<br />寫完自己嘅意見之後可以唔回應人<br />考試方面題目都好直接<br />所以唔洗睇哂reading<br />focus係reading questions就基本上都識答大部分嘅題目<br />Essay方面比較特別<br />只係要寫一個argument+counterargument<br />而且唔可以有logic fallacy<br />唔好用AI寫文+check grammar<br />Dennis只係care concept<br />所以1-2日時間應該都完成到",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

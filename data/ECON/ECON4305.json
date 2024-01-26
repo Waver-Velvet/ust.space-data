@@ -1,0 +1,73 @@
+{
+  "course": {
+    "id": 4143,
+    "subject": "ECON",
+    "code": "4305",
+    "name": "Applied Machine Learning for Economic and Financial Analysis",
+    "description": "This course applies machine learning to solve economic and financial problems, including residential property valuation, GDP and recession forecasting, default risk prediction, credit card fraud detection, portfolio analysis, volatility prediction, and market anomaly detection. It maps those problems into relevant supervised/unsupervised learning tasks and introduces basic machine learning methods. Students will get hands-on experience with machine learning to analyze practical business problems.",
+    "categories": [],
+    "website": null,
+    "credits": 4,
+    "semesters": [
+      2310
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ECON\" data-code=\"3334\" href=\"/review/ECON3334\" target=\"_blank\">ECON 3334</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 1,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 1227,
+        "name": "NG, Chi Yung",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "ojuEjQ72oSbLYMXOFzVatQPMvRo8V0aS",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1227,
+          "name": "NG, Chi Yung",
+          "rating": 0
+        }
+      ],
+      "author": "happyhappyCGA4",
+      "date": "Dec 21, 2023",
+      "title": "pk中伏",
+      "comment_content": "Machine Learning stuff, very useful<br />He will give you sample code, you can use it in your own research.",
+      "comment_teaching": "His teaching is at average level",
+      "comment_grading": "30% quiz + 70％ project<br />Quiz很多不是課上講的，project grade不知道，估計大家差不多<br />Me quiz upper quartile b+<br />My gm quiz almost high a-<br />Bad grade course in Econ",
+      "comment_workload": "Just a project, but not very light since you need to write the code and the paper. Also presentation. But I think there are not much differences in project since topics are limited",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 1,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 3,
+      "attachments": []
+    }
+  ]
+}

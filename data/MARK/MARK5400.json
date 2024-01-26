@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 4337,
+    "subject": "MARK",
+    "code": "5400",
+    "name": "Marketing Analytics",
+    "description": "The course will introduce the foundation of marketing analytics. It will first draw upon economics and marketing theories to understand why and where analytics are needed to solve marketing problems, and then introduce major applications, including customer analytics, product analytics, pricing analytics, and advertising analytics. The focus will be on the business logics and methodological principles behind the common applications.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2330
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

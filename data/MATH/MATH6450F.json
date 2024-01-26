@@ -1,0 +1,61 @@
+{
+  "course": {
+    "id": 3026,
+    "subject": "MATH",
+    "code": "6450F",
+    "name": "Advanced Algorithms and Theory of Machine Learning",
+    "description": "This is an advanced graduate course for students who are already familiar with machine learning. The goal is to explore some of the current active research topics in machine learning, through lectures, paper readings and discussions. The topics covered in the course include modern deep learning models and algorithms, representation learning, small sample learning, generative models, and the mathematical theory of deep learning. Students without prerequisites should seek approval from the instructor to take the course.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1910
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"5470\" href=\"/review/MATH5470\" target=\"_blank\">MATH 5470</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": [
+    {
+      "hash": "YoinO1noekaQdHtKanstmZxTrbqgWtvL",
+      "semester": "2019-20 Fall",
+      "instructors": [],
+      "author": "Zephyrus",
+      "date": "Feb 27, 2020",
+      "title": "",
+      "comment_content": "This course introduces some state-of-art algorithms of deep learning, including Generative models, NLP, computer vision, deep neural networks etc... There are three components in this course: reading papers, do presentations, and making comments to others.",
+      "comment_teaching": "Very insightful and good. Every student needs to prepare a presentation. The instructor also presents some state-of-art models in deep learning.",
+      "comment_grading": "Very good. Everyone gots A- or above. If you finish the homework and team project on time, most likely you will get an A.",
+      "comment_workload": "Very low. Including one home work, one team project and one presentation.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

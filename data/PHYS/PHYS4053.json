@@ -1,0 +1,77 @@
+{
+  "course": {
+    "id": 1044,
+    "subject": "PHYS",
+    "code": "4053",
+    "name": "Lasers and Optical Electronics",
+    "description": "Propagation of Gaussian beams, optical cavity and cavity modes, blackbody radiation and stimulated emission, laser principles and rate equations, examples of solid state, liquid, gas and semiconductor lasers, laser Q-switching and mode-locking, detection of optical radiation.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1830,
+      1730,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 3,
+    "rating_teaching": 1,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 613,
+        "name": "DU, Shengwang",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "FUWenEnb6PF7ULNP7eCPdUCWOYyIVl9q",
+      "semester": "2014-15 Spring",
+      "instructors": [
+        {
+          "id": 613,
+          "name": "DU, Shengwang",
+          "rating": 1
+        }
+      ],
+      "author": "KL",
+      "date": "Aug 01, 2015",
+      "title": "勁悶但靚grade",
+      "comment_content": "主要係講lasing ge requirement，好悶",
+      "comment_teaching": "上過2022都應該知道阿Du ge教學方式，但阿Du教呢科比2022更加hea，基本上照notes讀，而notes係係txbk抄翻黎，所以淨係睇txbk都夠。出席率大約50%",
+      "comment_grading": "靚grade",
+      "comment_workload": "兩份功課：每份大約10題，都係出自txbk；<br />一個自由題目ge個人project：4頁 + 10min present",
+      "rating_content": 3,
+      "rating_teaching": 1,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

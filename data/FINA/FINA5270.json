@@ -1,0 +1,35 @@
+{
+  "course": {
+    "id": 3167,
+    "subject": "FINA",
+    "code": "5270",
+    "name": "Portfolio Management with Fintech Applications",
+    "description": "This course will focus on the key dimensions of Portfolio Management with FinTech Applications, and will give a predominant place to Artificial Intelligence, as a way to process and leverage the “Big Data” and automate the Portfolio and Wealth Management processes. The course will begin by a brief review of the fundamentals of Portfolio Management, FinTech and Artificial Intelligence and the advances in technology and data that has led the industry to where it is today. It will then delve into the Asset Management and Wealth Management value chains through a series of applications that enable students the critical skills they need to operate as expert actors in FinTech. The course will also expose students to the existing FinTech landscape and ecosystem within the portfolio management industry and will also touch upon on how Artificial Intelligence augments humans to make them better portfolio and wealth managers.",
+    "categories": [],
+    "website": null,
+    "credits": 2,
+    "semesters": [
+      2330,
+      2230,
+      2130,
+      2030,
+      1930
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"5120\" href=\"/review/FINA5120\" target=\"_blank\">FINA 5120</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

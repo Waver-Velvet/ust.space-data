@@ -1,0 +1,88 @@
+{
+  "course": {
+    "id": 822,
+    "subject": "LIFS",
+    "code": "4620",
+    "name": "Advanced Biological Chemistry",
+    "description": "Advanced studies of biological macromolecules; functional genomics and proteomics; laboratory techniques in modern biochemistry; milestone discoveries in biochemistry.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1930,
+      1830,
+      1730,
+      1630,
+      1530,
+      1430
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"LIFS\" data-code=\"2040\" href=\"/review/LIFS2040\" target=\"_blank\">LIFS 2040</a> OR <a class=\"course-link\" data-subject=\"LIFS\" data-code=\"2210\" href=\"/review/LIFS2210\" target=\"_blank\">LIFS 2210</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 4,
+    "rating_workload": 5,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 472,
+        "name": "WU, Zhenguo",
+        "count": 1
+      },
+      {
+        "id": 503,
+        "name": "ZHANG, Mingjie",
+        "count": 1
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "Uh3wN3rMV8JJ1t77b2yj9OPRSUnEzOK4",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 472,
+          "name": "WU, Zhenguo",
+          "rating": 1
+        },
+        {
+          "id": 503,
+          "name": "ZHANG, Mingjie",
+          "rating": 1
+        }
+      ],
+      "author": "Sung",
+      "date": "Jul 03, 2018",
+      "title": "",
+      "comment_content": "Not really suggested for junior students.<br />Best if you were doing FYP, or you want to do a PG later on. <br /><br />Prof. Wu&#039;s part focused on classic biochemical research. <br />Great for UG students who are into BICH research, a brief training on thinking scientifically. <br />A lot of contents on kinases: protein structures, mechanisms, inhibitors, drug targets.<br />No mid-term exams, only presentation on a paper and an interview (chit-chat?) with Prof. Wu. Again, good pratice for students going for research: to read and criticize a reseach paper. <br /><br />A short interview section with Prof. Wu, he will ask you questions on lecture materials. Both basic stuffs like kinase structures and experimental designs. All are taught in the lectures.<br /><br /><br />Prof. Zhang&#039;s part were more on protein stuctures and calcium-binding proteins. More like to understand the materials than to memerise it. Some materials overlap with LIFS 4540. Nothing too difficult, always ask them to repeat unclear points. <br /><br />A short final exam from Prof. Zhang which wasn&#039;t expected. He asked if we want to present the paper or exam, and exam was the final call. <br />We were able to bring our labtops for the exam, so you would expect the questions won&#039;t be straight forward. Apply the knowledge you&#039;ve got and lecture materials and you shouldn&#039;t do too bad.",
+      "comment_teaching": "Very small class. The Prof. remembers you, so dont skip classes.<br />Great atmosphere for teaching and learning. They encouraged you to ask and answer questions. <br /><br />Don&#039;t be shy, they are both very nice scientists and professors, do learn from them.",
+      "comment_grading": "Fair grading as a PG student.<br />Not sure for UG.",
+      "comment_workload": "Almost no workload.<br />Just attend the lectures and present the paper given.<br />One open-laptop final exam.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

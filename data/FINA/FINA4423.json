@@ -1,0 +1,62 @@
+{
+  "course": {
+    "id": 3976,
+    "subject": "FINA",
+    "code": "4423",
+    "name": "Family Office",
+    "description": "This course provides students with a comprehensive and most up-to-date understanding of family office, as well as insiders’ view and practical aspects of family office. For university students who are about to graduate and are interested in entering into family office related sectors, having an in-depth understanding of family office will definitely help them better prepared for the future.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2230
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"2203\" href=\"/review/FINA2203\" target=\"_blank\">FINA 2203</a> OR <a class=\"course-link\" data-subject=\"FINA\" data-code=\"2303\" href=\"/review/FINA2303\" target=\"_blank\">FINA 2303</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 2,
+    "rating_teaching": 1,
+    "rating_grading": 5,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": [
+    {
+      "hash": "pm5577nFeCEtV9inOiB4OVK2UcPmiCId",
+      "semester": "2022-23 Spring",
+      "instructors": [],
+      "author": "JNC",
+      "date": "Jun 22, 2023",
+      "title": "good grade but boring",
+      "comment_content": "Shit about the family office and investment strategies. You can learn everything in this course in 2h by googling",
+      "comment_teaching": "I can hardly comment because there&#039;s no teaching. She played zoom recordings for most of the lectures and that&#039;s it.<br /><br />There are also participation score by answering stupid questions during lecture.",
+      "comment_grading": "good grading, better than other technical FINA course. Relatively easier to get A range",
+      "comment_workload": "Quite light compared with other FINA elective courses<br />a couple of group projects and presentation<br />a midterm consists of MC and some short questions",
+      "rating_content": 2,
+      "rating_teaching": 1,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

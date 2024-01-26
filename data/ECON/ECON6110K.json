@@ -1,0 +1,32 @@
+{
+  "course": {
+    "id": 3403,
+    "subject": "ECON",
+    "code": "6110K",
+    "name": "Policy Evaluation and Evidence Based Policy Making",
+    "description": "This course has two objectives: 1) to provide basic tools and skills for evaluating public policies in both developed and developing countries, and 2) to learn, through examples, how these tools and skills are actually applied to public policy evaluation. The case studies I will address in this course focus on human capital development such as health, education, and labor policies.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2110,
+      2030
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ECON\" data-code=\"5280\" href=\"/review/ECON5280\" target=\"_blank\">ECON 5280</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

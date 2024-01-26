@@ -1,0 +1,116 @@
+{
+  "course": {
+    "id": 330,
+    "subject": "ELEC",
+    "code": "4110",
+    "name": "Digital Communications and Wireless Systems",
+    "description": "Representation of signals, optimum detection of signals in noise, matched filtering, error probability calculations for digital modulation. Multilevel modulation schemes, comparison of digital communications systems, mobile and wireless channels, diversity techniques, spread-spectrum communications, Resource Partitioning in Multiuser systems (FDMA, TDMA, CDMA) and their applications in cellular mobile and wireless personal communications.",
+    "categories": [],
+    "website": "http://course.ee.ust.hk/elec4110",
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810,
+      1610,
+      1510,
+      1410
+    ],
+    "prerequisites": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2100\" href=\"/review/ELEC2100\" target=\"_blank\">ELEC 2100</a> OR <a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2100H\" href=\"/review/ELEC2100H\" target=\"_blank\">ELEC 2100H</a>",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 4.5,
+    "review_count": 2,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 757,
+        "name": "LAU, Vincent Kin Nang",
+        "count": 2
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "0hmEGUJ5j02tDCwnqQ7YsWisR69bIGix",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 757,
+          "name": "LAU, Vincent Kin Nang",
+          "rating": 1
+        }
+      ],
+      "author": "garbage",
+      "date": "Dec 13, 2022",
+      "title": "",
+      "comment_content": "Representation of signals, optimum detection of signals in noise, matched filtering, error probability calculations for digital modulation. Multilevel modulation schemes, comparison of digital communications systems, mobile and wireless channels, diversity techniques, spread-spectrum communications, Resource Partitioning in Multiuser systems (FDMA, TDMA, CDMA) and their applications in cellular mobile and wireless personal communications.<br />Definitely take it if you are going for communications.",
+      "comment_teaching": "Vincent&#039;s teaching is super nice and clear.",
+      "comment_grading": "Would update when the results come out. But I heard that Vincent is super nice in terms of grading so I would not worry that much.",
+      "comment_workload": "The assignments are not that hard. <br />The exam is quite similar to the assignments.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "NwTsB1E0d63uDEAV6qFOgSE8OYd3pxG9",
+      "semester": "2018-19 Fall",
+      "instructors": [
+        {
+          "id": 757,
+          "name": "LAU, Vincent Kin Nang",
+          "rating": 1
+        }
+      ],
+      "author": "I am not 秀毛",
+      "date": "Dec 15, 2018",
+      "title": "strongly recommended if you want to go further in this field",
+      "comment_content": "review of Fourier transform, matched filter, signal space from 3100 (but you need to how those works in math forms now. Follow what Vincent taught will be good enough).<br />Then expand to m-ary, fading channel, diversity, spread spectrum (RAKE) intro to OFDM, and resource partition (FDMA, CDMA, and CDMA) <br /><br /><br />Case study seems to differ every year, just some hot topics for fun.<br /><br />The whole course is still basic content of digital communication but really a good introduction. The mathematics for bit error rate is of importance and only simple calculation is needed for fading channel (I spend weeks dealing with the math of fading channels of different distribution but none is tested at the end)",
+      "comment_teaching": "Vincent will stress on understanding first and then fill up proofs with math.<br />You&#039;d better not miss any of the lectures. It takes longer to understand what is going. Vincent could explain everything clearly and efficiently.<br /><br />The reference book is helpful.<br />The wireless communication by Vincent is of good quality for understanding. If you want to know more and elaborate with more math, Proakis-digital-CDMA recommended.",
+      "comment_grading": "only 17 students taking this course and I think it useless to talk about the distribution as the total number is small.(some pg students would also take this course)<br /><br />homework: 5%*3 = 15% (typical questions, helpful for understanding and important for exams) <br /><br />project:10% matlab simulink(simple)<br /><br />midterm: 25% and final 50%",
+      "comment_workload": "It depends. 85% of exams are similar to homework and may be easier but you need to be careful to obtain all those marks.<br /><br />Only the last questions of midterm and final is challenging and require you to have a deep understanding but these problems really test if you can handle the practical issue.<br /><br />Sincerely to take 30-40 minutes to integrate what you learn every week. You can get a solid understanding and life is easy. All content is quite connected.<br /><br />the project is simple and helpful for understanding the process of communication. Just need few codes<br /><br />homework will be elaborated in the tutorial and TA(Terry, HE, Tierui is super nice!!!) will help you patiently and help you understand the nature of the question.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 4,
+      "vote_count": 5,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

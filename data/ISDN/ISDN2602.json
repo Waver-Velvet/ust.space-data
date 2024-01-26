@@ -1,0 +1,62 @@
+{
+  "course": {
+    "id": 3797,
+    "subject": "ISDN",
+    "code": "2602",
+    "name": "Internet of Things: Integrative System Design",
+    "description": "IoT (Internet of Things) is the key enabling technology for many integrative systems. A design thinking-led approach is used to motivate and engage students to design IoT systems, leading to user-centric solutions. Through the design of IoT systems, students learn fundamental theories and gain hands-on working experience on several key components for IoT systems, including circuits and sensors, signal processing, embedded systems, and communication and networking. In the final project, students will apply design thinking approach to meet the project requirements, specified from users’ perspective.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2330,
+      2210
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"1200\" href=\"/review/ELEC1200\" target=\"_blank\">ELEC 1200</a>",
+    "rating_content": 4,
+    "rating_teaching": 4,
+    "rating_grading": 4,
+    "rating_workload": 4,
+    "review_count": 1,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": [
+    {
+      "hash": "5btyCLsb8ghQm2q5fAecHtikq67yDGFM",
+      "semester": "2022-23 Spring",
+      "instructors": [],
+      "author": "Terrylzr",
+      "date": "Sep 08, 2023",
+      "title": "",
+      "comment_content": "teaching about the communication system and the network principle combined with some hardware knowledge. although exclude elec1200 you need to prep more for this course.",
+      "comment_teaching": "teaching is great. easy to understand. The lab assignment is reasonable as long as you follow the instructions.",
+      "comment_grading": "the grading for lab could be lost as long as you can have great communication with the TA. But for the final exam, the grading is clear and hard to argue. There is also a mid-term exam which is not that hard as long as you are following the teaching course (note is allowed).",
+      "comment_workload": "most of the time no workload, just need to remember to submit the lab note on time. however, all of the hard work will be on the final exam. You will spend tons of time changing and testing your code. Since it is a teamwork teammate is also very important. If you have a good teammate who is good at Arduino then everything you need to do is to serve him/her well :D. If not prep for the stay up for the whole night before the day you take the final exam.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

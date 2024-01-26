@@ -1,0 +1,31 @@
+{
+  "course": {
+    "id": 3216,
+    "subject": "MATH",
+    "code": "6913C",
+    "name": "Reading Course: Continuum Models of Linear and Nonlinear Elasticity",
+    "description": "The reading course will give introduction to elasticity theory and recent advances in nonlinear elasticity theories. Students should seek the course instructor's approval to take this course.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      1930
+    ],
+    "prerequisites": "",
+    "corequisites": "",
+    "exclusions": "",
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
+    "single_review": false,
+    "enrollment_status": 0,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": []
+  },
+  "reviews": []
+}

@@ -1,0 +1,183 @@
+{
+  "course": {
+    "id": 2704,
+    "subject": "IEDA",
+    "code": "3010",
+    "name": "Prescriptive Analytics",
+    "description": "Introduction to optimization methods. Topics include linear programming, integer programming, nonlinear programming, decision-making under uncertainty, and sequential decision-making. Software packages are used to solve data-driven decision-making problems in engineering and business.",
+    "categories": [],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2010,
+      1910,
+      1810
+    ],
+    "prerequisites": "",
+    "corequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2111\" href=\"/review/MATH2111\" target=\"_blank\">MATH 2111</a>",
+    "exclusions": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"2170\" href=\"/review/CIVL2170\" target=\"_blank\">CIVL 2170</a>, <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3710\" href=\"/review/ISOM3710\" target=\"_blank\">ISOM 3710</a>, <a class=\"course-link\" data-subject=\"PHYS\" data-code=\"4059\" href=\"/review/PHYS4059\" target=\"_blank\">PHYS 4059</a> (prior to 2019-20)",
+    "rating_content": 4.75,
+    "rating_teaching": 4,
+    "rating_grading": 4.75,
+    "rating_workload": 4.5,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 4,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 817,
+        "name": "QI, Jin",
+        "count": 4
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "2SoStCZwEUpUbHgI9QnRwmbRb03DXSle",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 817,
+          "name": "QI, Jin",
+          "rating": 1
+        }
+      ],
+      "author": "Yinng",
+      "date": "Dec 17, 2022",
+      "title": "",
+      "comment_content": "Basically the cource is doing something to maximise the profits, or minimise the operation cost, or finding longest/shortest path. <br /><br />The materials are simple but already enough.<br /><br />As it is co-requisites MATH2111, if you can understand that one, then this one is easy to you. <br /><br />Open Notes for final exam.",
+      "comment_teaching": "The teacher is nice and friendly. <br />You are free to ask questions after each lecture. <br />The pace is neither too slow or too fast. <br />At first you may get confused, but do not be afraid, the examples are simple enough to understand.",
+      "comment_grading": "Attendence means participation marks, you have to attend not less than 7 of them and reply questions everytime to get the 3%, if I am correct. No penalties on early leaving the lectures or turtorial or late arrivals.<br /><br />Grading is fair, how much patience and efforts you place, how high the grade you can get. <br /><br />Assignment Assignment (3 pieces): 15%<br />Midterm exam: 30%<br />Final exam: 40%<br />Project：15%<br />Participation (bonus):&nbsp;&nbsp;3%",
+      "comment_workload": "Low, when compared to LANG subjects.<br />At least, most of the answers could be found on the internet :)<br /><br />some coding is needed, but only helpful in group project. Presentation with script is OK~&nbsp;&nbsp;&nbsp;No need to get worried.<br />Coding are not included in the exams.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 1,
+      "attachments": []
+    },
+    {
+      "hash": "ivCvZ6wThSJkmeNwa8vqXC4rx4knfbpq",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 817,
+          "name": "QI, Jin",
+          "rating": 1
+        }
+      ],
+      "author": "MMhhhh",
+      "date": "Jan 17, 2022",
+      "title": "Good course",
+      "comment_content": "1. Linear Optimization<br />-&nbsp;&nbsp;&nbsp;Graph<br />-&nbsp;&nbsp;&nbsp;Simplex Method<br />-&nbsp;&nbsp;&nbsp;Sensitivity Analysis<br />-&nbsp;&nbsp;&nbsp;Duality<br />2. Discrete Optimization<br />-&nbsp;&nbsp;&nbsp;Binary Variable<br />-&nbsp;&nbsp;&nbsp;Branch-and-Bound Method<br />3. Dynamic Programming<br />-&nbsp;&nbsp;&nbsp;DP recursion<br />-&nbsp;&nbsp;&nbsp;Deterministic and Stochastic (most difficult)<br />4. Network Optimization<br />-&nbsp;&nbsp;&nbsp;Shortest-Path Problem (Dijkstra’s Algorithm)<br />-&nbsp;&nbsp;&nbsp;Minimum Spanning Tree Problem (Greedy Algorithm)<br />-&nbsp;&nbsp;&nbsp;Maximum Flow Problem (Augmenting Path Algorithm)<br />-&nbsp;&nbsp;&nbsp;Minimum Cost Flow Problem<br />-&nbsp;&nbsp;&nbsp;Transportation Problem and Assignment Problem<br />5. Nonlinear Programming (Not tested)",
+      "comment_teaching": "She is patient and explained course materials in detail.<br /><br />TA is good if u ask them questions after class.",
+      "comment_grading": "mt(30%): Mean 70.87 Std 15.70<br />final(40%): Mean 66<br />hw(15%): Mean ~90%<br />project(15%): Mean 11.5<br /><br />Mine:<br />mt: 89/100<br />final: 62/100<br />hw: 97/100<br />project:11.25<br /><br />Grade: A-<br /><br />very good grade!!!!!<br />And this course is useful:)",
+      "comment_workload": "light workload except the group project as it is very difficult.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "oY7ZKUtkmGnBTOb3G77ERBoMlSrlWAL7",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 817,
+          "name": "QI, Jin",
+          "rating": 1
+        }
+      ],
+      "author": "Mason Mount",
+      "date": "Dec 28, 2021",
+      "title": "",
+      "comment_content": "The calculations are not very difficult. But you need to be careful in this course.<br /><br />1. Linear Optimization<br />-&nbsp;&nbsp;&nbsp;Graph<br />-&nbsp;&nbsp;&nbsp;Simplex Method<br />-&nbsp;&nbsp;&nbsp;Sensitivity Analysis<br />-&nbsp;&nbsp;&nbsp;Duality<br />2. Discrete Optimization<br />-&nbsp;&nbsp;&nbsp;Binary Variable<br />-&nbsp;&nbsp;&nbsp;Branch-and-Bound Method<br />3. Dynamic Programming<br />-&nbsp;&nbsp;&nbsp;DP recursion<br />-&nbsp;&nbsp;&nbsp;Deterministic and Stochastic<br />4. Network Optimization<br />-&nbsp;&nbsp;&nbsp;Shortest-Path Problem (Dijkstra’s Algorithm)<br />-&nbsp;&nbsp;&nbsp;Minimum Spanning Tree Problem (Greedy Algorithm)<br />-&nbsp;&nbsp;&nbsp;Maximum Flow Problem (Augmenting Path Algorithm)<br />-&nbsp;&nbsp;&nbsp;Minimum Cost Flow Problem<br />-&nbsp;&nbsp;&nbsp;Transportation Problem and Assignment Problem<br />5. Nonlinear Programming (Not tested)",
+      "comment_teaching": "The ppt slides are clear. Prof delivered the concepts clearly.<br />All examples are done step by step.<br /><br />TAs just read the ppt out. The tutorial classes are not useful. Just some coding examples. You can find some better examples on the internet.",
+      "comment_grading": "Pretty well, quite a lot of people get A range<br /><br />Homework Assignments (3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15% <br />Midterm Exam&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30% <br />Final Exam&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40% <br />Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15%<br />Bonus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3% For raising or answering questions in class<br /><br />Mean of assignments: ~88<br /><br />Mid-term:<br />Mean 70.87<br />Median 72<br />Std 15.70<br />Max 100<br />Min 24<br />90-100&nbsp;&nbsp;8<br />80-90&nbsp;&nbsp;&nbsp;5<br />70-80&nbsp;&nbsp;&nbsp;18<br />60-70&nbsp;&nbsp;&nbsp;12<br />50-60&nbsp;&nbsp;&nbsp;7<br />&lt;50&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5",
+      "comment_workload": "I think it is pretty low<br /><br />only 3 assignments, and assignment 2 and 3 are short<br /><br />There is a group project. Presentation on week 13, written report before Christmas (this semester is 22/12). And it is not difficult, you just need to solve it by python or sth else. There is a reference paper provided.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Wi3qkm4YWrJPUo0agkSxJUBBhIAPhMjy",
+      "semester": "2019-20 Fall",
+      "instructors": [
+        {
+          "id": 817,
+          "name": "QI, Jin",
+          "rating": 1
+        }
+      ],
+      "author": "Flynn ZHANG",
+      "date": "Jan 16, 2020",
+      "title": "Not hard content with good grades",
+      "comment_content": "1.Linear optimization<br />2.Discrete optimization<br />3.Network models<br />4.Dynamic programming<br />5.Nonlinear optimization<br />Basic optimization models and algorithms. The midterm includes linear and discrete optimization and final includes the other three. Linear programming is the most important topic in this course, but it&#039;s not hard. Just following the steps in notes is OK, and the other thing is only calculation. But make sure not to make mistakes in your calculation.<br />For discrete programming, you may need to think more to get the ideas on formulating the problem using binary variables.<br />For networking programming, you just need to remember which model to choose for different kinds of network problems. The solving part is relatively easy.<br />For dynamic programming, the most important thing is to find out the stages and states and then draw the network of the problem.<br />For non-linear programming, just try to understand a set of new concepts and the search procedures. This chapter is not the key point of this course.",
+      "comment_teaching": "Dr. Qi is a very passionate teacher. She tries to make everything clear in the class. However, her delivery is a little bit boring, which will make you sleepy during the class. She is also warm-hearted to answer the question in and after class.<br />For tutorials, the TAs are all poor in English. You can skip all the tutorials if you like. Just reading the tutorial notes is OK. The contents shown in tutorial notes but not in lecture notes will not be tested.",
+      "comment_grading": "Homework Assignments(3) 15%<br />Midterm Exam 30%<br />Final Exam 40%<br />Project 15%<br />Bonus 3% For raising or answering questions in class<br />Because of the situation this year, the course changed into online pattern, and the grading changed into:<br />Homework Assignments(3) 20%<br />Midterm Exam 35%<br />Final Exam 15%<br />Project 30%<br /><br />You can take 1 cheatsheet respectively in both midterm and final.<br /><br />Grade is good. Mean is about B. Getting A range is not hard if you finish all the tasks and don&#039;t make too many calculation mistakes in the exams. <br />For midterm, try to do easier problems first instead of following the original sequence on the paper.",
+      "comment_workload": "Nearly no workload during the semester if you can find someone to do the hw together. <br />For coding and project part, try to search some information from the internet. It will help and save your time a lot.<br />You also need to present the outcome of your project. Still for this semester, due to online teaching and grading, the presentation part is cancelled.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
+}

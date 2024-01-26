@@ -1,0 +1,188 @@
+{
+  "course": {
+    "id": 1186,
+    "subject": "SOSC",
+    "code": "3240",
+    "name": "Application of Geographical Information Systems",
+    "description": "This course provides students with comprehensive knowledge of Geographical Information Systems including basic concepts, software and functions, data and application to social science and other fields.",
+    "categories": [
+      "Common Core (SA)"
+    ],
+    "website": null,
+    "credits": 3,
+    "semesters": [
+      2310,
+      2210,
+      2110,
+      2030,
+      1910,
+      1810,
+      1710,
+      1630,
+      1410
+    ],
+    "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1401\" href=\"/review/LANG1401\" target=\"_blank\">LANG 1401</a> OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1402\" href=\"/review/LANG1402\" target=\"_blank\">LANG 1402</a> OR LANG 1403 OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1404\" href=\"/review/LANG1404\" target=\"_blank\">LANG 1404</a> OR LANG 1002 (prior to 2022-23)",
+    "corequisites": "",
+    "exclusions": "CORE 3740",
+    "rating_content": 4.25,
+    "rating_teaching": 3.75,
+    "rating_grading": 4.75,
+    "rating_workload": 4.5,
+    "review_count": 4,
+    "single_review": false,
+    "enrollment_status": 3,
+    "is_favourited": false,
+    "is_subscribed": false,
+    "user_review_hash": "",
+    "contributor_has_more": false,
+    "instructors": [
+      {
+        "id": 664,
+        "name": "MA, John Zhongdong",
+        "count": 4
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "hash": "rBwIZbVveD8OUAPEThheo8Entpvidzic",
+      "semester": "2021-22 Fall",
+      "instructors": [
+        {
+          "id": 664,
+          "name": "MA, John Zhongdong",
+          "rating": 1
+        }
+      ],
+      "author": "bbkiller",
+      "date": "Dec 23, 2021",
+      "title": "great course with good grade",
+      "comment_content": "Geographic Information Systems (GIS) is a set of computer-based systems integrated for collecting, checking, storing, <br />integrating, analyzing, and presenting spatial information.&nbsp;&nbsp;<br />Objectives: <br />1. the fundamental understanding and comprehensive knowledge of GIS basic concepts <br />2. a working knowledge of GIS technical issues <br />3. a practical training of using ArcGIS 10.6 from ESRI and associated hardware <br />4. GIS applications to various fields such as marketing, planning, social and environmental studies. <br />Main Form:&nbsp;&nbsp;&nbsp;a lecture section + a lab tutorial section (in-person, Computer Barn A from the 1st class) <br />Evaluation:&nbsp;&nbsp;&nbsp;attendance &amp; 5 quizzes (10%), lab exercises &amp; assignments (20%), exam (30%),&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;group project (40%) = presentation (20%) + discussion (5%) + report in PPT file (15%) <br />o PREREQUISITE: Basic computer and computing skills. <br />o QUIZZES:&nbsp;&nbsp;&nbsp;Regular in-class PRS exercises with MCQs&nbsp;&nbsp;<br />o EXAM:&nbsp;&nbsp;&nbsp;The test will be close-notes with multiple choices and essay question <br />o ASSIGNMENTS &amp; LABS: Lab tutorials and two assignments (each assignment due in two weeks). <br />o GROUP PROJECT: a spatial analysis of a real world problem and a group presentation for about 20 minutes.&nbsp;&nbsp;&nbsp;<br />o GIS projects can be both technical demanding and time consuming. Peer Evaluation will be conducted.",
+      "comment_teaching": "Actually, professor ma didnt teach much useful stuff. It is mainly the TA, Daphne who taught us how to use the GIS application and it is easy to follow and she is so nice to teach you and guide you whenever you have any difficulties",
+      "comment_grading": "attendance &amp; quiz: 10%<br />lab &amp;assignment: 10%<br />exam: didnt reveal (i dont think i have done well as i only have one day to study on it<br />group project: didnt reveal ( but i believe my group did well, cuz professor said we did a really great job to conclude the whole presentation<br />final grade: B+",
+      "comment_workload": "you have lab assignment in two weeks and you can complete it during the lesson so its not a big workload.<br />there is one present with a group so it is a bit chill",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "nooGMhtvOfc5yMSBQPBbBHFtEd0tcs0X",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 664,
+          "name": "MA, John Zhongdong",
+          "rating": 1
+        }
+      ],
+      "author": "LuQ",
+      "date": "Feb 01, 2018",
+      "title": "Very light content, easily manageable",
+      "comment_content": "I&#039;m only a year 1 SENG student who took DSE, never taken anything related to geog, or whatnot. Fairly easy in terms of learning the basic concepts to learn the GIS software. The lecture handles the concepts, and the Lab is the main part where you would learn how to use the software. Before taking the course, I thought it was just a random cc course, but I found that many companies make use of the GIS software, so not a total waste of time at all; I found it quite interesting to use too.",
+      "comment_teaching": "You could tell he&#039;s quite passionate about teaching and sharing things related to the topic. But he tends to drag on with examples for too long and his speech can be quite dull too. Though he is very approachable to ask for help in the group project. <br /><br />The TA is also very nice and I find that she teaches more useful content, mainly because we&#039;re actually learning about the software from her, and that actually using the software can also teach the concepts needed for the class, rather than just having the concepts being taught alone. She also can help you find some data if you&#039;re not too sure where to find them.",
+      "comment_grading": "Very lenient I would say. <br />10% attendance &amp; quiz<br />10% lab exercise<br />20% assignments<br />20% tests<br />Group project:<br />10% presentation<br />5% discussion <br />15% report in PPT file<br /><br />Honestly, didn&#039;t do too well (up to my standard) with the group project, I got meh groupmates. I got B in the end. Not too bad though, thought I would get worse.",
+      "comment_workload": "The workload is fairly light for a cc 3000-level course. Well, of course depending on whether you have reliable groupmates for the group project. <br /><br />There&#039;s a few homework related to the Lab sessions, so quite easy to do. Plus, the lab sessions are not graded. There was 1 pop quiz because some people don&#039;t bother with the lectures, so it acted as an attendance sheet too. There was a final quiz that kind of acts as a final exam at the end of the semester. It consists of mainly MCs with one essay question at the end. There wasn&#039;t much from the lecture notes, so not much to study. <br /><br />For the final project, it&#039;s about 3-4 people a group, you can pick them. It consists of a 15-minute presentation, some screenshots of images from the GIS software, a zip file of what you did in the GIS software, and a final submission of the revised powerpoint presentation submitted during study break or the start of exams.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ZkrZvfdVfwLFyZfpz636aitnFErktJC6",
+      "semester": "2017-18 Fall",
+      "instructors": [
+        {
+          "id": 664,
+          "name": "MA, John Zhongdong",
+          "rating": 1
+        }
+      ],
+      "author": "冷山",
+      "date": "Dec 21, 2017",
+      "title": "烂龟课",
+      "comment_content": "没学到什么东西。。。软件学的比较多，据说是sosc里最科技的一门了",
+      "comment_teaching": "老师是个好人但并不是一个好老师，内容不算非常充实，教授技巧也并不高",
+      "comment_grading": "grading相当不错，我们project不是最好的但是还是得了A-",
+      "comment_workload": "（几乎）没有作业，workload非常轻，很多任务在课上能够做完。",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 3,
+      "vote_count": 16,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "lEmJcUXesLj9D7JWKkDXjZXN2uzys7H6",
+      "semester": "2016-17 Spring",
+      "instructors": [
+        {
+          "id": 664,
+          "name": "MA, John Zhongdong",
+          "rating": 1
+        }
+      ],
+      "author": "DAMN",
+      "date": "Aug 21, 2017",
+      "title": "",
+      "comment_content": "The course is about Geographical Information System, which is a very useful system in many disciplines. There were only one lecture and one lab session per week. Prof. Ma taught the basic knowledge and applications of GIS in the lecture, while the TA taught the operation of the software in the lab session. The software they used was ArcGIS by Esri, which is a one of the most popular GIS software in the world.",
+      "comment_teaching": "Prof. Ma is a nice person, but maybe not the best teacher. He did not include a lot of content, which I think most students would love to have such a lenient professor. However, the way he taught this course was a bit dull, and not many students in my class paid attention, some of them even skipped the lecture and only attended the lab session. Since the attendance was awful, Prof. Ma decided to delay the class for half an hour and started to take attendance. Even the class was not very interesting, I must say the professor did include some useful examples and he invited Prof. Quan (from the Department of CSE) to share his research, which helped the class to understand how can GIS apply on different disciplines.",
+      "comment_grading": "Not sure how he graded the class, but personally I think the grading was amazing! I was above mean in the final exam and pretty sure I did well but not the best in the project, and I got an A.",
+      "comment_workload": "The workload was light. There were 2 assignments, a project, and a final exam. The 2 assignments were an extension of 2 lab works, which might take some time but not much. Some students who worked fast can even finish the assignments in class. The project is either in a group of 2 or individual. You have to come up with your own topic, and the professor will give advice to you. The requirement was not high, all you need to do is a presentation in class and hand in an extended version of the PowerPoint. As he did not include many materials in class, not much had to be revised for the final exam.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 2,
+      "attachments": []
+    }
+  ]
+}
