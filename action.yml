@@ -3,12 +3,16 @@ description: ''
 author: undefined
 
 inputs:
-  session:
-    description: The session cookie of ust.space.
+  uesrname:
+    description: The username of the user.
+    required: true
+  password:
+    description: The password of the user.
     required: true
   rate:
     description: The maximum rate of the requests (per second).
-    default: '1'
+    required: true
+
 
 runs:
   using: node20

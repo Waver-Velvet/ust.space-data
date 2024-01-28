@@ -36,7 +36,8 @@ jobs:
       - name: Update Data
         uses: './'
         with:
-            session: ${{ secrets.SESSION }}
+            username: ${{ secrets.USERNAME }}
+            password: ${{ secrets.PASSWORD }}
             rate: 1
 
       - name: Setup Commit This

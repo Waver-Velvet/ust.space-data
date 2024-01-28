@@ -1,24 +1,32 @@
 const core = require('@actions/core');
-const client = require('@actions/http-client');
+const axios = require('axios');
+const axiosRetry = require('axios-retry');
+const axoisCookie = require('axios-cookiejar-support');
+const { CookieJar } = require('tough-cookie');
+const { JSDOM } = require('jsdom');
 
 // The user agent of Microsoft Edge.
-const HTTP_CLIENT_USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/120.0.2210.160';
-const HTTP_CLIENT_HANDLERS = [
-];
-const HTTP_CLIENT_OPTIONS = {
-  headers: {
-    Cookie: `ustspace_session=${core.getInput('session')};`,
-  },
-  allowRetries: true,
-  maxRetries: 60,
-};
+const USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/120.0.2210.160';
 const BASE = 'https://ust.space/';
 
-const CLIENT = new client.HttpClient(
-  HTTP_CLIENT_USER_AGENT,
-  HTTP_CLIENT_HANDLERS,
-  HTTP_CLIENT_OPTIONS,
-);
+const withCookie = axoisCookie.wrapper;
+const attachRetry = axiosRetry.default;
+
+const cookieJar = new CookieJar(null);
+const client = withCookie(axios.create({
+  headers: {
+    'User-Agent': USER_AGENT,
+  },
+  jar: cookieJar,
+}));
+attachRetry(client, {
+  retries: 30,
+  retryDelay: axiosRetry.exponentialDelay,
+
+  onRetry: (retryCount, error, requestConfig) => {
+    core.info(`Retrying the request ${requestConfig.url} because of error ${error}`);
+  },
+});
 
 function urlOf(base, path, query) {
   const url = new URL(path, base);
@@ -27,19 +35,34 @@ function urlOf(base, path, query) {
       url.searchParams.append(key, value.toString());
     });
   }
-  return url;
+  return url.toString();
+}
+
+async function login(username, password) {
+  const pageResp = await client.get(urlOf(BASE, 'login').toString());
+  const pageDom = new JSDOM(pageResp.data);
+  const token = pageDom.window.document.querySelector('input[name=_token]').value;
+
+  const form = new FormData();
+  form.append('_token', token);
+  form.append('username', username);
+  form.append('password', password);
+  await client.post(urlOf(BASE, 'login').toString(), form);
+
+  // The credential cookies will be set if the login is successful.
 }
 
 async function fetchSubjects() {
-  const resp = await CLIENT.getJson(urlOf(BASE, 'selector/query/', {
+  const resp = await client.get(urlOf(BASE, 'selector/query/', {
     page: 'review',
     type: 'default',
     value: '',
   }).toString());
-  if (resp.result.error) {
-    throw new Error(`fetchSubjects: ${resp.result}`);
+  const { data } = resp;
+  if (data.error) {
+    throw new Error(`fetchSubjects: ${data}`);
   }
-  return resp.result.list
+  return data.list
     .filter((subjectObj) => subjectObj.type === 'subject')
     .map((subjectObj) => ({
       title: subjectObj.title,
@@ -48,15 +71,16 @@ async function fetchSubjects() {
 }
 
 async function fetchCourses(subject) {
-  const resp = await CLIENT.getJson(urlOf(BASE, 'selector/query/', {
+  const resp = await client.get(urlOf(BASE, 'selector/query/', {
     page: 'review',
     type: 'subject',
     value: subject,
   }).toString());
-  if (resp.result.error) {
-    throw new Error(`fetchCourses: ${resp.result}`);
+  const { data } = resp;
+  if (data.error) {
+    throw new Error(`fetchCourses: ${data}`);
   }
-  return resp.result.list
+  return data.list
     .filter((courseObj) => courseObj.type === 'course-review')
     .map((courseObj) => ({
       title: courseObj.title,
@@ -66,14 +90,15 @@ async function fetchCourses(subject) {
 }
 
 async function fetchReviews(course) {
-  const resp = await CLIENT.getJson(urlOf(BASE, `review/${course}/get`, {
+  const resp = await client.get(urlOf(BASE, `review/${course}/get`, {
     'preferences[sort]': 1, // sort by post-date
   }).toString());
-  if (resp.result.error) {
-    throw new Error(`fetchReviews: ${resp.result}`);
+  const { data } = resp;
+  if (data.error) {
+    throw new Error(`fetchReviews: ${data}`);
   }
-  const courseObj = resp.result.course;
-  const reviewsObj = resp.result.reviews
+  const courseObj = data.course;
+  const reviewsObj = data.reviews
     .map((reviewObj) => ({
       hash: reviewObj.hash,
       semester: reviewObj.semester,
@@ -110,6 +135,7 @@ async function fetchReviews(course) {
 }
 
 module.exports = {
+  login,
   fetchSubjects,
   fetchCourses,
   fetchReviews,

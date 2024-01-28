@@ -3,7 +3,9 @@ const path = require('path');
 const fs = require('fs/promises');
 const { RateLimiter } = require('limiter');
 
-const { fetchSubjects, fetchCourses, fetchReviews } = require('./ust.space');
+const {
+  fetchSubjects, fetchCourses, fetchReviews, login,
+} = require('./ust.space');
 
 const limiter = new RateLimiter({
   tokensPerInterval: core.getInput('rate'),
@@ -17,6 +19,8 @@ async function save(obj, file) {
 }
 
 async function go() {
+  await login(core.getInput('username'), core.getInput('password'));
+
   const subjects = await fetchSubjects();
   core.info(`subjects: ${JSON.stringify(subjects.map((s) => s.title))}`);
 
@@ -37,6 +41,7 @@ async function go() {
 
   return Promise.all(promises);
 }
+
 async function run() {
   try {
     await go();
