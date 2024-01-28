@@ -30,11 +30,11 @@
     "prerequisites": "(<a class=\"course-link\" data-subject=\"ECON\" data-code=\"3014\" href=\"/review/ECON3014\" target=\"_blank\">ECON 3014</a> OR <a class=\"course-link\" data-subject=\"ECON\" data-code=\"3113\" href=\"/review/ECON3113\" target=\"_blank\">ECON 3113</a>) AND (<a class=\"course-link\" data-subject=\"ECON\" data-code=\"2123\" href=\"/review/ECON2123\" target=\"_blank\">ECON 2123</a> OR <a class=\"course-link\" data-subject=\"ECON\" data-code=\"3123\" href=\"/review/ECON3123\" target=\"_blank\">ECON 3123</a>)",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"ECON\" data-code=\"5350\" href=\"/review/ECON5350\" target=\"_blank\">ECON 5350</a>",
-    "rating_content": 3.92,
-    "rating_teaching": 3.15,
-    "rating_grading": 4.08,
-    "rating_workload": 4.23,
-    "review_count": 13,
+    "rating_content": 3.86,
+    "rating_teaching": 3,
+    "rating_grading": 4,
+    "rating_workload": 4.14,
+    "review_count": 14,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -50,11 +50,46 @@
       {
         "id": 976,
         "name": "ZHU, Tao",
-        "count": 5
+        "count": 6
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "cWDnVJ0yGZXiGsAv5i08PyZJfWdSVr8V",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 976,
+          "name": "ZHU, Tao",
+          "rating": 1
+        }
+      ],
+      "author": "toothpasteoreo",
+      "date": "Jan 27, 2024",
+      "title": "Don’t take it if you don’t like too theoretical stuff",
+      "comment_content": "Too abstract for me, lots of first order conditions maths, hard to understand. Don’t really know what I learnt.",
+      "comment_teaching": "Super bad, listening to him just made you even more confused. Recommend to just self learn yourself instead of trying to catch what he’s saying, much more explanation needed to understand the math logic in the slides and the professor’s explanations are confusing.",
+      "comment_grading": "Normal grading",
+      "comment_workload": "Quite chill if you just want to pass. Just problem sets and a midterm and a final. Attendance is also taken.",
+      "rating_content": 3,
+      "rating_teaching": 1,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "dikbuiRCDwrYETfkLj8y9F64osZft0ZU",
       "semester": "2023-24 Fall",

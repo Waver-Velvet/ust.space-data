@@ -19,11 +19,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"1014\" href=\"/review/MATH1014\" target=\"_blank\">MATH 1014</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1024\" href=\"/review/MATH1024\" target=\"_blank\">MATH 1024</a>",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 4.75,
+    "rating_content": 4.6,
     "rating_teaching": 5,
-    "rating_grading": 4.5,
-    "rating_workload": 2.25,
-    "review_count": 4,
+    "rating_grading": 4.6,
+    "rating_workload": 2.2,
+    "review_count": 5,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -34,11 +34,46 @@
       {
         "id": 21,
         "name": "LAM, Henry Hei Ning",
-        "count": 4
+        "count": 5
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "R9kOokHk5lUiX5wtrVDPBMurlN1GJWMn",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 21,
+          "name": "LAM, Henry Hei Ning",
+          "rating": 1
+        }
+      ],
+      "author": "dlrldi",
+      "date": "Jan 27, 2024",
+      "title": "",
+      "comment_content": "The course teaches you how to model in different circumstances using Matlab in both bioengineering and chemical engineering situations, but not quite sure that what we learned will be helpful in the future.",
+      "comment_teaching": "He will kindly answer your questions during class/ through email",
+      "comment_grading": "all the quizzes/ homeworks are not so hard. There are 4 exams instead of midterm and final, but they are tough. You will most likely to get high marks for quizzes and homeworks but struggle with the 4 exams. But if you do well in the group project, you will likely to get good grade.",
+      "comment_workload": "The workload is very heavy, Henry has a mindset that during the semester students should not be having any time to rest",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "DAFPkHBpUKGlMVLqFJh3qYvDyZxvvhBL",
       "semester": "2020-21 Fall",

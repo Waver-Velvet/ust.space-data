@@ -15,11 +15,11 @@
     "prerequisites": "(Level 3 in HKDSE English Language with all papers at or above level 3) OR (Level 4 in HKDSE English Language) OR (Level 5 in HKDSE English Language with some papers but not all at or above level 4) OR (Overall bandscore of 6.0 in IELTS) OR (Overall bandscore of 6.5 in IELTS with some but not all subscores at or above 6.0) OR equivalence of the above",
     "corequisites": "",
     "exclusions": "LANG 1002, LANG 1003",
-    "rating_content": 3.51,
-    "rating_teaching": 4.11,
-    "rating_grading": 3.45,
-    "rating_workload": 3.57,
-    "review_count": 47,
+    "rating_content": 3.5,
+    "rating_teaching": 4.1,
+    "rating_grading": 3.46,
+    "rating_workload": 3.58,
+    "review_count": 48,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -83,6 +83,11 @@
         "count": 1
       },
       {
+        "id": 459,
+        "name": "LEE, Ping Chung Eric",
+        "count": 1
+      },
+      {
         "id": 883,
         "name": "TSANG, Shuk Ching Elza",
         "count": 1
@@ -115,6 +120,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "nwleZHClKpiOWwry0swZkPGdQfyLaZ7u",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 459,
+          "name": "LEE, Ping Chung Eric",
+          "rating": 1
+        }
+      ],
+      "author": "Sunny#271828",
+      "date": "Jan 28, 2024",
+      "title": "",
+      "comment_content": "It tells you how to conduct a proper academic discussion. How to cite and paraphrase and mix them into your own argument and delivering a speech. The level description is abstract and unclear, especially in writing, can&#039;t really figure out what is a &quot;good&quot; academic writing.",
+      "comment_teaching": "He often asks questions and encourages interaction, I will not say the class is interesting, but not boring at least.&nbsp;&nbsp;But I think reading the material myself is more useful :)",
+      "comment_grading": "Fair.<br />First speaking task(group discussion). <br />competent(5%); advanced(10%); advanced/competent(5%) <br />(Not sure if I remember the percentage correctly)<br />Writing Task<br />advanced; advanced; advanced<br />Speaking Task 2(speech)<br />all advanced<br />I put much more effort in latter two tasks, so I believe I deserve the grades.<br />There is a rumour that getting advanced in every task guarantees A. The worst grade I got(competent) only account for 5%.I get A- eventually, Nothing to complain.",
+      "comment_workload": "It depends on the requirement you set on yourself. My friend(deadline fighter) finishes the essay in half a day. I spent 4~5 days to keep revising and polishing the essay.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "pJMAeva7j0pLWvBaefdoSfKaaO1NLnEc",
       "semester": "2023-24 Fall",

@@ -17,11 +17,11 @@
     "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1401\" href=\"/review/LANG1401\" target=\"_blank\">LANG 1401</a> OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1402\" href=\"/review/LANG1402\" target=\"_blank\">LANG 1402</a> OR LANG 1403 OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1404\" href=\"/review/LANG1404\" target=\"_blank\">LANG 1404</a> OR LANG 1002 (prior to 2022-23)",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"CORE\" data-code=\"1666\" href=\"/review/CORE1666\" target=\"_blank\">CORE 1666</a>",
-    "rating_content": 1,
-    "rating_teaching": 1,
-    "rating_grading": 1,
-    "rating_workload": 1,
-    "review_count": 3,
+    "rating_content": 1.5,
+    "rating_teaching": 1.5,
+    "rating_grading": 1.5,
+    "rating_workload": 1.75,
+    "review_count": 4,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -32,11 +32,46 @@
       {
         "id": 1733,
         "name": "CHU, Shun",
-        "count": 3
+        "count": 4
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "Vf05Zl3vkxkuJZtfMJQbLXCdjRLoR7GW",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1733,
+          "name": "CHU, Shun",
+          "rating": 1
+        }
+      ],
+      "author": "Hailey Kwok",
+      "date": "Jan 27, 2024",
+      "title": "Time consuming but workload kinda ok",
+      "comment_content": "to be honest idk what I&#039;ve learnt<br />just doing my stuff during lesson<br />basically introducing the camera stuff and lighting and good works<br />really depends on own learning<br />also, you can ask professor questions after lesson<br />if he remembers you, likely to get a better grade<br />also, better to register this course with friends cause the projects are done by 2 people in a group and you two gotta work in outing together",
+      "comment_teaching": "sometimes a little bit mean but overall kind<br />willing to praise students during lessons/outing but sometimes mean while commenting for project presentations<br />he spends time with students to outing so I guess he is quite passionate in teaching<br />girls might take advantage on this course since the teacher actually did took photos of girls in the class while outing but idk if they got A range or not",
+      "comment_grading": "I would say maybe fair idk<br />1st midterm: 16/20 demonstrate for the class<br />2nd midterm: didnt release result but I did just so so<br />final: didn&#039;t release but demonstrate for the class age<br />attendance: full attendance<br />turned out B+ only<br />I kinda be unsatisfied for the grade I got",
+      "comment_workload": "2 outing to CUHK<br />1 outing to Central<br />2 midterm projects with essay and presentation<br />1 final projects with essay and presentation<br />each project might need to spend one day for shooting in diff spots in HK<br />if you are good at presentations, then this course should be slightly easy for you, coz I didn&#039;t prep for presentations and feel quite chill for this course<br />if you are already good at photography, I guess it saves you a lot of time as you may have suitable photos ready for each topic",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "oA7zmCeeDz5nlphKO7c68n7C6TY6LgYm",
       "semester": "2022-23 Spring",

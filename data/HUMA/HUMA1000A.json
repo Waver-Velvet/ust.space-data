@@ -33,8 +33,8 @@
     "rating_content": 3.78,
     "rating_teaching": 3.99,
     "rating_grading": 4.12,
-    "rating_workload": 3.5,
-    "review_count": 68,
+    "rating_workload": 3.51,
+    "review_count": 69,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -45,12 +45,12 @@
       {
         "id": 289,
         "name": "PAN, Ping",
-        "count": 45
+        "count": 46
       },
       {
         "id": 286,
         "name": "PUN, Wing Man Winnie",
-        "count": 27
+        "count": 28
       },
       {
         "id": 293,
@@ -96,10 +96,60 @@
         "id": 1714,
         "name": "MA, Martin, T. C.",
         "count": 1
+      },
+      {
+        "id": 1722,
+        "name": "STAMPER, Suzan",
+        "count": 1
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "neiUS4w0zh8i4wh8L1Phqcj1pBiDVrtP",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 289,
+          "name": "PAN, Ping",
+          "rating": 1
+        },
+        {
+          "id": 286,
+          "name": "PUN, Wing Man Winnie",
+          "rating": 1
+        },
+        {
+          "id": 1722,
+          "name": "STAMPER, Suzan",
+          "rating": 1
+        }
+      ],
+      "author": "mark_",
+      "date": "Jan 28, 2024",
+      "title": "Your essay determines your grade",
+      "comment_content": "The course discusses the nature of language and its implications on society.<br /><br />Week 1: Course Introduction<br />Week 2: Language being ‘Human’<br />Week 3: Language being symbolic and representational<br />Week 4: Language, culture, and identity<br />Week 6: No Lecture (Typhoon 8)<br />Week 7: Language, gender and sexuality<br />Week 9: Media, popular culture, and intercultural communication<br />Week 10: Nation-building and language policy – the case of modern China<br />Week 11: Linguistic landscape in global cities<br />Week 12: Culture, identity, and language policy in Hong Kong<br /><br />You might find the content interesting. I personally found a lot of it quite dull so this course was not that enjoyable for me :/",
+      "comment_teaching": "The course content is delivered through lectures. There are also biweekly writing workshops which guide you in writing your essay.<br /><br />LECTURES<br /><br />The professor is clearly very passionate, but honestly I spent most of the lecture doing other stuff because I wasn&#039;t that interested in the content. If you are interested in the content, then I think you will enjoy her teaching, as I saw many people in the front were very engaged and always answered her questions.<br /><br />WRITING WORKSHOPS<br /><br />The writing workshops introduce you to argumentative techniques which you will use in your essay. They also teach you how to write an introduction, body paragraphs, do citations and more. It is quite interactive as you talk to your workshop tutor and the other students a lot.<br /><br />My workshop tutor Suzan Stamper was quite good and encouraged interaction among students. Unfortunately, she always left giving feedback on our homework until the last minute. To illustrate, I only got my first homework while walking from the LC to the classroom. I guess in UST, everyone is a deadline fighter, even the faculty :P",
+      "comment_grading": "The essay basically determines your grade.<br /><br />10% Workshop attendance<br />10% Online discussion x3<br />&nbsp;&nbsp;&nbsp;&nbsp;Discuss course topics in a forum-like environment with your peers.<br />10% Workshop homework<br />20% Lecture quiz<br />&nbsp;&nbsp;&nbsp;&nbsp;Covers everything discussed in the lectures.<br />50% Essay<br />[BONUS] 3% In-class iPRS<br /><br />--<br />WORKSHOPS<br /><br />Workshop attendance and homework is self-explanatory. Just attend the workshops and do the homework reasonably and you will get the score. The quality of your homework is not assessed, but I advise you to try your best to get more useful feedback from your tutor. There are some homework quizzes, but you have unlimited attempts.<br /><br />My score: Full<br />--<br />ONLINE DISCUSSION<br /><br />For online discussions, I just created one moderately long post (300-400ish words) for each topic, and replied to a few of the others&#039; submissions.<br /><br />My score: Not released<br />--<br />LECTURE QUIZ<br /><br />The lecture quiz is annoying for people like me who aren&#039;t interested in the content, because it forces you to revise stuff. The actual questions themselves don&#039;t look difficult, but it is easy to get them wrong because there&#039;s always multiple answers which feel correct, and the smallest detail determines the correct answer.<br /><br />Low LQ Med. UQ High | Mean<br />0 14 16 18 22 | 15.56<br /><br />My score: 14.5/22<br />--<br />ESSAY<br /><br />900 - 1100 word argumentative essay discussing your viewpoint on a given essay prompt. There are 3 prompts to choose from this semester and you have to take a clear for-or-against stance.<br /><br />You write the introduction and body paragraphs throughout the semester as part of your homework and you will get feedback. You then submit a draft essay, which is only graded on completion, but points will be deducted if certain criteria are not met. These criteria include:<br />- Outside word limit<br />- No humanities citations, DOI not included for journal entries<br /><br />You then receive feedback on this draft and revise it. 1/3 of your essay score is based on how you respond to feedback, so take it seriously.<br />--<br />BONUS (iPRS)<br /><br />Just attend the lectures and do the iPRS and you&#039;ll get the sweet bonus score.<br />--<br />Even though I got below mean on the lecture quiz, I still got an A, probably due to my essay. This shows that, as long as you perform decently on the lecture quiz (above LQ), your essay basically determines your score. The essay score is not released.",
+      "comment_workload": "Moderate. <br /><br />The online-discussions and homework take around 1-2 hours per week.<br /><br />There are &quot;required&quot; readings which are quite long, but they&#039;re not really needed. Use them as reference material if you&#039;re unsure about certain lecture content.<br /><br />Revising for the quiz is annoying if you&#039;re like me and didn&#039;t pay attention all semester.<br /><br />The time needed for the essay depends on how much you like/know about your topic and your past experience. Thus, your mileage may vary.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "lsaiaU0I54AqmDHZ2wIcxEe9nf4HExHM",
       "semester": "2023-24 Fall",

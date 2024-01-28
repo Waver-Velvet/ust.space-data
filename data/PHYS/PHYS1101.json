@@ -17,11 +17,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "Level 3 or above in HKDSE 1/2x Physics or HKDSE 1x Physics; any PHYS courses at 1100-level or above",
-    "rating_content": 3.9,
+    "rating_content": 3.93,
     "rating_teaching": 4.14,
-    "rating_grading": 4.12,
+    "rating_grading": 4.14,
     "rating_workload": 3.79,
-    "review_count": 42,
+    "review_count": 43,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -37,11 +37,46 @@
       {
         "id": 1882,
         "name": "LEI, Shiming",
-        "count": 4
+        "count": 5
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "R6FCcNFHRGofxpsxLK0VYRMU91HmZwRE",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1882,
+          "name": "LEI, Shiming",
+          "rating": 0
+        }
+      ],
+      "author": "zolaj9",
+      "date": "Jan 28, 2024",
+      "title": "chur but good grade",
+      "comment_content": "basic dse stuff<br />I. Force and Motion (9 lectures)<br />II. Heat and Gases (5 lectures)<br />III. Electricity and Magnetism (5 lectures)<br />IV. Wave Motion (5 lectures) <br /><br />quite a lot to catch up for people with no physics background, but you can have 1 A4 cheat sheet for midterm and 2 for final, which is more than enough. The cheat sheets have to be 100% hand written though, which means you cannot type them or use screenshots of lecture slides.",
+      "comment_teaching": "I skipped all lectures after the first week, Prof. Lei has a strong accent and my brain feels exhausted after trying to understand what he&#039;s saying and the content for 2 hours :P<br /><br />hw questions, along with some extra exercise questions are explained during tutorials. TAs are nice and you will have sufficient time to ask them questions since tutorials typically lasts only about 30 mins.",
+      "comment_grading": "Assignments: 25%<br />the mean is HIGH, so make sure you don&#039;t make careless mistakes.<br />me: ~97%<br /><br />Midterm: 25%<br />mean: 39.65/70<br />sd: 15.35<br />me: 57/70<br /><br />Final: 50%<br />mean: 80.82/140<br />sd: 30.00<br />me: 115/140<br /><br />letter grade: A<br />I expected a B+/A- because my exam marks are higher than the mean by only ~1.15 sd, so good grade.",
+      "comment_workload": "4 hrs lecture + 1 hr tutorial per week (attendance is not taken)<br /><br />1 assignment (3-7 questions) every week, no projects.<br /><br />exams are manageable if you finish all the exercises on Canvas. And if you&#039;re looking to achieve higher grades, make sure to tackle the textbook questions as well.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "IBrffZYBCp0Et7vwThTcymjd311YNhDO",
       "semester": "2023-24 Fall",

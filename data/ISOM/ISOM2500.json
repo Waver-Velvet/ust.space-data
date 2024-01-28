@@ -39,7 +39,7 @@
     "rating_teaching": 3.91,
     "rating_grading": 3.99,
     "rating_workload": 4.15,
-    "review_count": 612,
+    "review_count": 613,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -95,7 +95,7 @@
       {
         "id": 769,
         "name": "SO, Mike Ka Pui",
-        "count": 20
+        "count": 21
       },
       {
         "id": 404,
@@ -165,6 +165,47 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "I6WBI1ptmMPVNeXhtSGx80vWLfPyRctY",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 769,
+          "name": "SO, Mike Ka Pui",
+          "rating": 1
+        }
+      ],
+      "author": "cwatery",
+      "date": "Jan 27, 2024",
+      "title": "",
+      "comment_content": "1. Describing sets of data<br />2. Probability random variables and expected value<br />3. Binomial distribution<br />4. Normal distribution<br />5. Sampling distribution<br />6. Statistical distribution<br />7. Hypothesis testing<br />8. Correlation and linear regression",
+      "comment_teaching": "He taught very well and clearly for the first seven chapters and he has used kahoot and a new learning platform that his research team developed for us to do exercise. <br />However, the last chapter [Correlation and linear regression] was very difficult and he only used the last three lectures to go through it. I totally couldn&#039;t understand all the concepts and contents and many questions in the final exam were about this topic. I think if he reserves more time for the last topic then the teaching for the whole course would be perfect.",
+      "comment_grading": "3 Assignments: 20% <br />Midterm examination (1 hour 20 mcq): 30% <br />Final examination (2 hours 40 mcq): 50% <br /><br />Mid-term only covers the first three easy chapters so it is not difficult to get high mark. Final exam result not disclosed.<br />I got full mark in mid term while for final exam I felt like I only got less than half of the questions correct. My final grade is A-, so don&#039;t underestimate the importance of mid term.<br /><br />Past paper exercise was uploaded for mid term only but not for final. I had to ask my friend in other professors&#039; lecture to get exercise.",
+      "comment_workload": "Can form groups to finish assignment. The time for us to finish each assignment is only around 1 week, which I think is a bit inadequate.<br />asm 1: early October<br />asm 2: mid November<br />asm 3: late November",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "tg10tJcDk63MTnKFMHhHh9lVywZrVbeP",
+          "name": "ISOM2500_Fall2023 outline",
+          "format": "pdf"
+        }
+      ]
+    },
     {
       "hash": "oyvFAARb4Y9bRxe57eNgJIBTOx1GubPX",
       "semester": "2022-23 Fall",

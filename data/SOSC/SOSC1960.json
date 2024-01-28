@@ -44,11 +44,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"SOSC\" data-code=\"1969\" href=\"/review/SOSC1969\" target=\"_blank\">SOSC 1969</a>",
-    "rating_content": 4.46,
-    "rating_teaching": 4.49,
+    "rating_content": 4.47,
+    "rating_teaching": 4.5,
     "rating_grading": 4.14,
-    "rating_workload": 4.17,
-    "review_count": 110,
+    "rating_workload": 4.18,
+    "review_count": 111,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -69,7 +69,7 @@
       {
         "id": 657,
         "name": "TAM, Kevin Kim-Pong",
-        "count": 16
+        "count": 17
       },
       {
         "id": 1683,
@@ -89,6 +89,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "80XRHfZ8glxqX5qZknRO6dZ8PgbB6xJA",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 657,
+          "name": "TAM, Kevin Kim-Pong",
+          "rating": 1
+        }
+      ],
+      "author": "151044",
+      "date": "Jan 27, 2024",
+      "title": "Decent Introduction to Psychology",
+      "comment_content": "Content was generally interesting without being too in-depth. Most of the chosen topics are very applicable to real life, and the relative shallowness makes revising not too much of a pain.<br /><br />Topics:<br />Psychological Research Methods<br />Sensation and Perception (How our brains process visual cues)<br />Circadian Rhythm and Sleep (The science behind sleep cycles)<br />Consciousness (Implicit and explicit information processing, featuring everyone&#039;s favorite Freud)<br />Emotions (Physiology and function of emotions)<br />Learning (Conditioning and Observational Learning)<br />Memory (Long- and short-term memory; memorization strategies)<br />Rationality (Heuristic-based decisions)<br />Motivation (Theories explaining motivation; Hierarchy of needs)<br />Personality (Big Five model, HEXACO, Accuracy of Personality Tests)<br />Development (Motor, cognitive, social, and psychological development)<br />Influence (Parental and Social Influence)<br />Abnormality (Mental Illness and Culture, Psychiatric Diagnosis)<br />Psychological Disorders (Anxiety, Mood Disorders, Schizophrenia, OCD, Personality Disorders)<br />Treatment (Psychiatric Medicines, Behavioural and Cognitive Approaches, Effectiveness of Psychotherapy)<br />Mind and Body (Stress and Health, Coping Strategies)<br />Happiness (Well-Being, Causes and Outcomes of Happiness)<br /><br />Additional readings were provided for each topic if you&#039;re interested, but they were not compulsory. <br /><br />Overall, the topics were broad and interesting for an introductory psychology course, and enabled me to appreciate the role of psychology in different aspects of life.",
+      "comment_teaching": "Kevin taught well. He elaborated on the concepts presented in the PPTs by either playing supplementary videos, doing small-scale experiments with us, or providing us with more examples. He had a slight Hong Kong accent which did not impede our understanding. <br /><br />The teaching team was receptive of questions in general - Kevin would gladly answer your questions during the break or after the lessons, and that served to help me clear up the definitions of some of the concepts which were quite similar. Both the TA and Kevin responded to questions about course assignments clearly.<br /><br />The workshop run by the TA taught us research skills for us to do the essay such as finding sources and citing them in APA, which were helpful if this is your first essay course but not useful otherwise.",
+      "comment_grading": "The grading scheme was reasonable, but the grading was quite competitive.<br /><br />Grading Scheme:<br />Workshop Worksheet (5%)*<br />Research Experience (5%)*<br />Learning Reflection (5%)*<br />Essay (15%)<br />Midterm Exam (30%)<br />Final Exam (40%)<br /><br />The components marked with an asterisk (*) were graded on a pass-fail basis. This means that you either get all of the points or none of them. For failed pass-fail components, you can resubmit with a 50% penalty to the score.<br /><br />You can choose to attend a real research study in HKUST, or watch a video about a classic study and submit a reflection report (~250 words) for the research experience part.<br /><br />The workshop worksheet was preparation for the essay as it gave you the opportunity to practice finding and evaluating sources.<br /><br />The learning reflection was a ~250 word piece for you to &quot;reflect on what has been taught in the course&quot;, which should not be too difficult if you had been listening to the lectures.<br /><br />Both the final and the midterm were MCQs. Each MCQ represents one final mark, but they were not difficult at all. This led to a pretty high mean, and careless mistakes can kill you pretty quickly.<br /><br />Some statistics (Low/LQ/Mean/Median/UQ/High/Max):<br />Workshop Worksheet: 0/5/4.71/5/5/5/5<br />Research Experience: 0/5/4.87/5/5/5/5<br />Learning Reflection: 0/5/4.69/5/5/5/5<br />Essay: 0/9/10/10/12/14/15<br />Midterm: 11/18/21.23/22/25/29/30<br />Final: 17/25/29.12/30/33.5/40/40<br /><br />Getting 90 resulted in an A, which was slightly disappointing but acceptable.",
+      "comment_workload": "Workload was quite low throughout the course. <br /><br />Attending the lectures were fun but not really necessary. The workshops were useful if you have not written an essay before; not very useful otherwise. <br /><br />Both the workshop worksheet and the learning reflection took less than 2-3 hours to write, and shouldn&#039;t be a huge burden on your time.<br /><br />The main workload of the essay comes from finding all the sources you need and integrating them to form a coherent argument. The number of sources is less important than the quality and your interpretation - don&#039;t spend your time finding 20+ sources which can&#039;t help you, and focus on forming a coherent point with less sources.<br /><br />The midterm and finals were MCQs based on different scenarios. Although it still involved a fair amount of rote memorization, it was way less painful to revise for than some other courses (cough cough PHYS 1001). Understanding the concepts would help you much more than reciting verbatim. (Maybe use the memorization strategies taught?)<br /><br />The most annoying part was registering for the research experience component and actually remembering to show up. Remember to register early since each timeslot didn&#039;t have a lot of vacancies.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "rgsynrdVMHacOuM2ACMbQDl7Y30nBr8o",
       "semester": "2022-23 Fall",

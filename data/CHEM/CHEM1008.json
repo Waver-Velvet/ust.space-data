@@ -17,11 +17,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "Level 3 or above in HKDSE 1/2x Chemistry OR HKDSE 1x Chemistry, any CHEM courses at or above 1004-level, <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1120\" href=\"/review/CORE1120\" target=\"_blank\">CORE 1120</a>",
-    "rating_content": 4.46,
-    "rating_teaching": 4.5,
+    "rating_content": 4.48,
+    "rating_teaching": 4.52,
     "rating_grading": 4.07,
     "rating_workload": 5,
-    "review_count": 28,
+    "review_count": 29,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -32,11 +32,46 @@
       {
         "id": 40,
         "name": "TSANG, Ming Wai Emily",
-        "count": 26
+        "count": 27
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "AI6khvq0WrpTRKcHrejIMbVCcmAXfNxO",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 40,
+          "name": "TSANG, Ming Wai Emily",
+          "rating": 1
+        }
+      ],
+      "author": "lme",
+      "date": "Jan 28, 2024",
+      "title": "Beginner Friendly Course",
+      "comment_content": "Beginner friendly content. Super easy even you have zero chemistry knowledge.<br /><br />Midterm syllabus<br />1. Matter and Energy<br />2. Atoms and Elements<br />3. Molecules and Compounds<br />4. Chemical Composition<br />5. Chemical Reactions<br />6. Reaction Stoichiometry<br />-----------------------------------------------------------<br />Final syllabus<br />7. Atomic Structures and the Periodic Table<br />8. Chemical Bonding and Molecular Structures<br />9. Liquids, Solids, and Intermolecular Forces<br />10. Solution Chemistry<br />11. Acids and Bases<br />12. Chemical Equilibrium (skipped)",
+      "comment_teaching": "Prof Tsang always tries her best to make things clear for us and i think she really did a great job. As a beginner, I was able to understand every single concepts, not to mention the fact I actually know nothing about chemistry.<br /><br />Some fun experiment demonstrations, prof will do some in class questions with us so that we can grasp the concepts clearly. Little interaction between prof and students though so it may be a bit boring when it comes to highly theoretical stuff.<br /><br />No attendance taking, you can skip lectures and watch the recordings cuz there were a lot of students kept talking and it was kinda distracting",
+      "comment_grading": "Quiz 1 (10%): 64/75&nbsp;&nbsp;&nbsp;&nbsp;Mean:59.3/75<br />Quiz 2 (10%): 30/45&nbsp;&nbsp;&nbsp;&nbsp;Mean:35/45<br />Midterm(40%): 30/40&nbsp;&nbsp;&nbsp;Mean:26.9/40<br />Final (40%): 62.5/100&nbsp;&nbsp;Mean:64.5/100<br />Final Grade: B-<br /><br />Bad grading honestly.",
+      "comment_workload": "Super light<br />Only 2 quizzes, midterm and final.<br />Some exercise for practice but they are optional.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "bBNSyqc6Si0wXMbWdsGXoILxU6LXLwZn",
       "semester": "2023-24 Fall",

@@ -39,7 +39,7 @@
     "rating_teaching": 3.82,
     "rating_grading": 4.07,
     "rating_workload": 4.09,
-    "review_count": 220,
+    "review_count": 221,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -50,7 +50,7 @@
       {
         "id": 144,
         "name": "ZHANG, Wenwen",
-        "count": 60
+        "count": 61
       },
       {
         "id": 258,
@@ -130,6 +130,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "l0BK0nChweAEdO7KRuharRLitfvCxjd9",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 144,
+          "name": "ZHANG, Wenwen",
+          "rating": 1
+        }
+      ],
+      "author": "leoli0704",
+      "date": "Jan 27, 2024",
+      "title": "Great course!!!",
+      "comment_content": "Introduction (Chapter 1&amp;2)<br />II. Economy in the short run<br />1. The Goods Market (Chapter 3)<br />2. Financial Markets I (Chapter 4)<br />3. Goods and Financial Markets: The IS-LM model (Chapter 5)<br />III. Economy in the medium run<br />1. The Labor Market (Chapter 7)<br />2. Putting All Markets together (Chapter 7(6thE))<br />IV. Open Economy<br />1. Openness in Goods and Financial Markets (Chapter 17)<br />2. The Goods Market in an Open Economy (Chapter 18)<br />3. Output, the Interest Rate, and the Exchange Rate (Chapter 19)",
+      "comment_teaching": "She can speak fluently.<br />Her lesson is very fun and I am willing to attend all lessons.",
+      "comment_grading": "Problem Sets 10%<br />Quizzes 5%<br />Midterm Exam ((1) and (2)) 20%+20%<br />Final exam (cumulative) 45%<br /><br />Problem set 10/10<br />Quizzes 5/5<br />Midterm 1 96.5/100<br />Midterm 2 99/100<br />Final exam 84.5/100<br />Final grade A",
+      "comment_workload": "Medium workload. <br />There are 5 online quizzes and 3 problem sets. All based on completion.<br />Also, there are 2 midterms with one final exam.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "sZD8XKUIeHpgbmI9qtF5CsMMILQ9Iowd",
       "semester": "2023-24 Fall",

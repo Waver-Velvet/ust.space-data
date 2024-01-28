@@ -30,11 +30,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 4.12,
+    "rating_content": 4.13,
     "rating_teaching": 4.07,
     "rating_grading": 3.99,
     "rating_workload": 4.05,
-    "review_count": 1121,
+    "review_count": 1124,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -55,12 +55,12 @@
       {
         "id": 3,
         "name": "SHIEH, Tony",
-        "count": 117
+        "count": 119
       },
       {
         "id": 1210,
         "name": "TANG, Chao",
-        "count": 117
+        "count": 118
       },
       {
         "id": 14,
@@ -190,6 +190,111 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "h3zBejUuL8UVLShspRlbMuqS1x1n6jZb",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1210,
+          "name": "TANG, Chao",
+          "rating": 1
+        }
+      ],
+      "author": "William Hung",
+      "date": "Jan 28, 2024",
+      "title": "Good professor, clear explanation, no attendance",
+      "comment_content": "Basic accounting stuff.",
+      "comment_teaching": "Tang chao is the best professor I have seen in UST. He really wants to teach you, and he explains every concept very well with examples. And best of all, he doesn&#039;t take attendance and provide lecture recordings for you to watch. <br /><br />100% recommend.",
+      "comment_grading": "Graded on homework, mid term, and final. <br /><br />The homework is not very difficult. You can find the answers to it directly from the textbook answer. <br /><br />The mid term was ok difficult, the mean was about 70. I got full mark that time.<br /><br />The final was super difficult. The mean was like 40. I got 60.<br /><br />Eventually, I got A+.",
+      "comment_workload": "Not very heavy. As long as you finish the homework tang chao gives you every week, you should have no problem catching up.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "QgfI0b7QuX6vBUODXX0tuY0UH7Jgesxh",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 3,
+          "name": "SHIEH, Tony",
+          "rating": 1
+        }
+      ],
+      "author": "!@_@!",
+      "date": "Jan 28, 2024",
+      "title": "",
+      "comment_content": "Easy to catch up if you studied BAFS in secondary school. <br /><br />There are some differences since we learned IFRS before but now we are learning US GAAP. <br /><br />Some account names and balance sheets format might be different. <br /><br />Just do more practice or watch Youtube videos and you will be fine.",
+      "comment_teaching": "Tony explained everything clearly, but the slides were not that clear. Either reading your textbook or listen to what he say is preferred.",
+      "comment_grading": "Attendance and Participation: 5%<br />In-class Group Exercises: 10%<br />Three In-class Quizzes @ 20 points each (drop the lowest one): 10%<br />Mid-term Exam: 35%<br />Final Examination: 40%<br />TOTAL: 100%",
+      "comment_workload": "i don&#039;t think the workload is heavy. It&#039;s pretty light tbh.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "onXqCATxFssMz3nUHHqE2zPuPq5z7fsZ",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 3,
+          "name": "SHIEH, Tony",
+          "rating": 1
+        }
+      ],
+      "author": "lme",
+      "date": "Jan 28, 2024",
+      "title": "Beginner Friendly &amp; A-Tier Professor, Good grading",
+      "comment_content": "I have NEVER studied accounting in my life but in my perspective, the content was some fundamental and basic accounting stuff and it was manageable. <br /><br />Beginners, you will be fine if you finish all the homework questions recommended by Tony.<br /><br />Midterm exam syllabus:<br />Ch1 Introduction; Overview of corporate financial reporting<br />Ch2 The financial Statements<br />Ch3 The measurement fundamentals of financial accounting<br />Ch4 Accounting Equation, Journal Entries and Adjustment Entries<br />Ch6 Cash and Accounts Receivables<br />--------------------------------------------------------------<br />Final exam syllabus:<br />Ch7 Merchandise Inventory and Cost of Goods Sold<br />Ch9 Long-Term Assets<br />Ch10 Current Liabilities and Contingencies<br />Ch11 Long-Term Liabilities: Notes, Bonds and Leases<br />Ch12 Shareholder&#039;s Equity<br />Ch14 Statement of Cash Flows<br />(I just copied the content from others cuz the canvas classroom has already been archived)",
+      "comment_teaching": "Tony always tries his best to make things as clear as possible. His ppt are very useful. As a beginner, I was able to understand concepts without the help from Youtube or textbook!!! <br /><br />He is super nice, he is friendly to students and willing to answer any questions from us. He has an enthusiatic voice and tone to keep the class lively so it was not really boring. He sometimes crack jokes as well!!",
+      "comment_grading": "Participation 5%<br />In class quiz 10% (drop the lowest one)<br />In class group exercise 10% (drop the lowest one)<br />Midterm Exam 35%: Mean 7x/100 (mine was a few marks above the mean)<br />Final 40%: did not release (i guess i was around/ a few marks above the mean as well)<br />Final Grade: B+<br /><br />The grading was super good honestly, cuz i was just a few marks above the mean for everything and I already got a B+, was expecting it to be only a B cuz many peers were top scorers already.<br /><br />Midterms and Finals were easy, just need to revise all the ppt and do all the homework questions to be above the mean.<br /><br />Group exercise were a bit difficult compared to exams and quizzes though.<br /><br />I was very discouraged at the very first few lessons cuz there were a lot of peers who have already studied accounting in high school and were able to ask some super difficult question while I was still processing about the concepts. But trust me, participation doesn&#039;t really matter cuz I have never asked any questions",
+      "comment_workload": "Super light. <br /><br />Homework is optional. He only recommended some of the book questions for practice.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "RBFw4j5Oyd8Ml725IDQZL3BTmJ6REbqM",
       "semester": "2023-24 Fall",
@@ -1871,7 +1976,7 @@
       "has_reading": false,
       "has_presentation": false,
       "upvote_count": 1,
-      "vote_count": 1,
+      "vote_count": 2,
       "comment_count": 0,
       "attachments": []
     },
@@ -1940,8 +2045,8 @@
       "has_attendance": true,
       "has_reading": false,
       "has_presentation": false,
-      "upvote_count": 0,
-      "vote_count": 0,
+      "upvote_count": 1,
+      "vote_count": 1,
       "comment_count": 0,
       "attachments": []
     },

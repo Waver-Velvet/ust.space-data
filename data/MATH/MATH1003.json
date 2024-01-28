@@ -26,10 +26,10 @@
     "corequisites": "",
     "exclusions": "Level 5* or above in HKDSE Mathematics Extended Module M1 or M2; grade B or above in HKCEE Additional Mathematics, a passing grade in AS Mathematics and Statistics, AL/AS Applied Mathematics, or in AL Pure Mathematics; <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1012\" href=\"/review/MATH1012\" target=\"_blank\">MATH 1012</a>; <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1013\" href=\"/review/MATH1013\" target=\"_blank\">MATH 1013</a>; <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1014\" href=\"/review/MATH1014\" target=\"_blank\">MATH 1014</a>; <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1018\" href=\"/review/MATH1018\" target=\"_blank\">MATH 1018</a> (prior to 2013-14); <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a>; <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1023\" href=\"/review/MATH1023\" target=\"_blank\">MATH 1023</a>; <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1024\" href=\"/review/MATH1024\" target=\"_blank\">MATH 1024</a>",
     "rating_content": 4,
-    "rating_teaching": 3.53,
+    "rating_teaching": 3.52,
     "rating_grading": 4.08,
-    "rating_workload": 4.1,
-    "review_count": 218,
+    "rating_workload": 4.09,
+    "review_count": 221,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -70,7 +70,7 @@
       {
         "id": 1663,
         "name": "WU, Yueping",
-        "count": 15
+        "count": 16
       },
       {
         "id": 1662,
@@ -78,13 +78,13 @@
         "count": 12
       },
       {
-        "id": 775,
-        "name": "ZHANG, Hai",
-        "count": 5
-      },
-      {
         "id": 1664,
         "name": "XU, Zili",
+        "count": 7
+      },
+      {
+        "id": 775,
+        "name": "ZHANG, Hai",
         "count": 5
       },
       {
@@ -140,6 +140,111 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "h7NAowMAiWfnVHLMoBtZUhRl3Fwmx2rt",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1664,
+          "name": "XU, Zili",
+          "rating": 1
+        }
+      ],
+      "author": "!@_@!",
+      "date": "Jan 28, 2024",
+      "title": "",
+      "comment_content": "Interest, matrix, and some calculus.<br /><br />2.1&nbsp;&nbsp;Simple Interest<br />2.2&nbsp;&nbsp;Compound Interest, Growth and Time<br />2.3&nbsp;&nbsp;Future Value of an Annuity, Sinking Fund<br />2.4 Present Value of an Annuity, Amortization<br />3.1&nbsp;&nbsp;System of Linear Equations in 2 Variables<br />3.2&nbsp;&nbsp;Augmented Matrices<br />3.3&nbsp;&nbsp;Gauss-Jordan Elimination<br />3.4&nbsp;&nbsp;Matrices, Addition and Subtraction, Multiplication<br />3.5&nbsp;&nbsp;Inverse of a Matrix<br />3.6&nbsp;&nbsp;Matrix Equations<br />3.7 Leontief Input-Output Analysis<br /><br />8.1, 8.4 Rate of Change, Slope of the Tangent Line, Derivative<br />8.2 Limits<br />8.5 Differentiation Properties, Power Rule<br /><br />9.1&nbsp;&nbsp;Continuous Compound Interest<br />9.2&nbsp;&nbsp;Derivative of Exponential Function and Logarithmic Function<br />9.3&nbsp;&nbsp;Product Rule and Quotient Rule<br />9.4&nbsp;&nbsp;Chain Rule<br />9.5&nbsp;&nbsp;Implicit Differentiation<br />9.6&nbsp;&nbsp;Related Rates<br /><br />10.1 First Derivative and Graph<br />10.2 Second Derivative and Graph<br />10.4 Curve-Sketching<br />10.5&nbsp;&nbsp;Absolute Maxima and Minima<br />10.6&nbsp;&nbsp;Optimization<br />11.1&nbsp;&nbsp;Anti-derivatives and Indefinite Integrals<br />11.2&nbsp;&nbsp;Integration by Substitution<br />11.4 Definite Integrals<br />11.5&nbsp;&nbsp;Fundamental Theorem of Calculus<br />11.6&nbsp;&nbsp;Area Between Curves",
+      "comment_teaching": "Professor Xu just reading out the content on his Ipad, basically you can read it your own (NO OFFENSE). But he is a Nice person, willingly to answer all your questions after class.<br /><br />He taught too much proving, like proving how the equation set up.",
+      "comment_grading": "Good grading.<br /><br />Webwork (10%)<br />Midterm (25%)<br />Final (65%)<br />Total: 100<br /><br />Mid-term is relatively easier than Final.",
+      "comment_workload": "Average workload.<br /><br />you got assignment every week on Webwork, about 10 to 12 questions only, you can submit with unlimited attempts",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "oyN1TZMZ3Nw61a1tM7fGpdnOQ6bIPnuW",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1664,
+          "name": "XU, Zili",
+          "rating": 0
+        }
+      ],
+      "author": "lme",
+      "date": "Jan 28, 2024",
+      "title": "DON&#039;T reg Prof. Xu for better life and GPA!!!!",
+      "comment_content": "Ppl who sucks at maths will struggle after the midterm, be prepared for that.<br /><br />Midterm syllabus:<br />2.1&nbsp;&nbsp;Simple Interest<br />2.2&nbsp;&nbsp;Compound Interest, Growth and Time<br />2.3&nbsp;&nbsp;Future Value of an Annuity, Sinking Fund<br />2.4 Present Value of an Annuity, Amortization<br /><br />3.1&nbsp;&nbsp;System of Linear Equations in 2 Variables<br />3.2&nbsp;&nbsp;Augmented Matrices<br />3.3&nbsp;&nbsp;Gauss-Jordan Elimination and Applications<br />3.4&nbsp;&nbsp;Matrices, Addition and Subtraction, Multiplication<br />3.5&nbsp;&nbsp;Inverse of a Matrix<br />3.6&nbsp;&nbsp;Matrix Equations<br />3.7 Leontief Input-Output Analysis<br /><br />---------------------------------------------------------------------<br />Final Syllabus<br />8.1, 8.4 Rate of Change, Slope of the Tangent Line, Derivative<br />8.2 Infinite Limits and Limits at Infinity<br />8.5 Differentiation Properties, Power Rule<br /><br />9.1&nbsp;&nbsp;Continuous Compound Interest<br />9.2&nbsp;&nbsp;Derivative of Exponential Function and Logarithmic Function<br />9.3&nbsp;&nbsp;Product Rule and Quotient Rule<br />9.4&nbsp;&nbsp;Chain Rule<br />9.5&nbsp;&nbsp;Implicit Differentiation<br />9.6&nbsp;&nbsp;Related Rates<br /><br />10.1 First Derivative and Graph<br />10.2 Second Derivative and Graph<br />10.4 Curve-Sketching<br />10.5&nbsp;&nbsp;Absolute Maxima and Minima<br />10.6&nbsp;&nbsp;Optimization<br /><br />11.1&nbsp;&nbsp;Anti-derivatives and Indefinite Integrals<br />11.2&nbsp;&nbsp;Integration by Substitution<br />11.4 Definite Integrals<br />11.5&nbsp;&nbsp;Fundamental Theorem of Calculus<br />11.6&nbsp;&nbsp;Area Between Curves<br /><br />12.1 Integration by Parts",
+      "comment_teaching": "His accent and pronunciation were so difficult to hear and understand. No offense, but he taught poorly. I did not understand a single concept from lectures. He was super focused on writing the notes and problems on his iPad and he has never taken a single glance at the students to check whether we were ok with the progress. The teaching was just terrible.<br /><br />The whole course was just basically self-taught. I recommend not to attend lectures and only watch Youtube videos/ simply just sit in other professors&#039; lectures.",
+      "comment_grading": "Homework 10%<br />Midterm 25%: Mean ~78/100<br />Final 65%: Mean ~5x/100",
+      "comment_workload": "7 assigments throughout the semster, 10 questions each, were somehow difficult for people who don&#039;t understand what is being taught like me.",
+      "rating_content": 2,
+      "rating_teaching": 1,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "jTgVeqXdkrlnKRdnXSaZXAxsRF94XMxH",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1663,
+          "name": "WU, Yueping",
+          "rating": 1
+        }
+      ],
+      "author": "Lunaq",
+      "date": "Jan 27, 2024",
+      "title": "",
+      "comment_content": "Compound interest<br />Annuities FV PV<br />Matrices<br />Midterm<br /><br />Differentiation<br />Integration and rate of change<br />Intergration by part and riemann integral<br />Final<br />TEACHING<br />No one goes to the maths lecture haha jokes on him<br />GRADING",
+      "comment_teaching": "Professor wu is kind<br />Professor wu can&#039;t speak English right<br />Professor wu is lovely<br />Have video recording so don’t really need to go to lectures",
+      "comment_grading": "Midterm make up for 30% of the course<br />highest&#039;s 57 lowest&#039;s 13 mean&#039;s thirty something<br />Final make up for 60%<br />highest 97 lowest 0 idk wts the mean<br />Homework make up for 10% of overall grade<br />Just submit it promptly and you&#039;ll be fine<br />I have 90.8% in overall and that&#039;s around A<br />I heard from my senior friend that if u want an A+ then u need to score 95% in overall<br />Reading the comments below I think u would get an A if u score above 87%<br />I know basically nothing except for the differentiation part. Relatively easier compare to dse m2 syllabus(no trigo and proving). I would say that completing all the webwork would get u good grade if u are doing it ALL BY URSELF, probably b+ or a-.<br />If u want an A or A-, you would have to complete some after chapter exercises. Maybe just five long questions each chapter, it is more than enough for u to prepare for exams as the pattern of exam questions is repetitive. Just ditch all the maths lectures cuz it&#039;s useless, if you are shit at maths, go to the maths tutorials, msc and find urself a frd that is gd at maths.",
+      "comment_workload": "",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "gnM2c8oZn2lIZWvfRb4k3NpSJC0klCNe",
       "semester": "2023-24 Fall",

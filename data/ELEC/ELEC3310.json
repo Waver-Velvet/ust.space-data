@@ -16,11 +16,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"1100\" href=\"/review/ELEC1100\" target=\"_blank\">ELEC 1100</a>",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2200\" href=\"/review/ELEC2200\" target=\"_blank\">ELEC 2200</a>, <a class=\"course-link\" data-subject=\"ISDN\" data-code=\"4000D\" href=\"/review/ISDN4000D\" target=\"_blank\">ISDN 4000D</a>",
-    "rating_content": 4.8,
+    "rating_content": 4.83,
     "rating_teaching": 5,
-    "rating_grading": 4.8,
-    "rating_workload": 4.4,
-    "review_count": 5,
+    "rating_grading": 4.83,
+    "rating_workload": 4.5,
+    "review_count": 6,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -31,7 +31,7 @@
       {
         "id": 168,
         "name": "YOBAS, Levent",
-        "count": 4
+        "count": 5
       },
       {
         "id": 169,
@@ -41,6 +41,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "cvjf1aOZv4vJNj3aHvyhzG3Ksho33LVv",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 168,
+          "name": "YOBAS, Levent",
+          "rating": 1
+        }
+      ],
+      "author": "ajtse",
+      "date": "Jan 27, 2024",
+      "title": "",
+      "comment_content": "The content is sufficient and substantial. It helps to learn VHDL from scratch",
+      "comment_teaching": "The tutors and lecturers are very good at explaining things. It&#039;s really an easy course if you pay attention to the lectures and tutorials.",
+      "comment_grading": "The grading is really good. If you take most classes and study hard, professors will try to give you the best grade possible.",
+      "comment_workload": "The workload is a bit light, even for the mini-project. If you own hard-coding skills. I would say around 2 hours per week is good enough for all the labs and homework.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "wyLabVjPX9RFd1scopO6ZiWGctA7quuW",
       "semester": "2022-23 Fall",

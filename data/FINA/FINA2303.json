@@ -31,11 +31,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"ACCT\" data-code=\"2010\" href=\"/review/ACCT2010\" target=\"_blank\">ACCT 2010</a> AND (<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"2160\" href=\"/review/CIVL2160\" target=\"_blank\">CIVL 2160</a> OR <a class=\"course-link\" data-subject=\"IEDA\" data-code=\"2520\" href=\"/review/IEDA2520\" target=\"_blank\">IEDA 2520</a> OR <a class=\"course-link\" data-subject=\"IEDA\" data-code=\"2540\" href=\"/review/IEDA2540\" target=\"_blank\">IEDA 2540</a> OR <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"2500\" href=\"/review/ISOM2500\" target=\"_blank\">ISOM 2500</a> OR <a class=\"course-link\" data-subject=\"LIFS\" data-code=\"3150\" href=\"/review/LIFS3150\" target=\"_blank\">LIFS 3150</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2411\" href=\"/review/MATH2411\" target=\"_blank\">MATH 2411</a>)",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"2203\" href=\"/review/FINA2203\" target=\"_blank\">FINA 2203</a>",
-    "rating_content": 4.11,
+    "rating_content": 4.1,
     "rating_teaching": 3.88,
-    "rating_grading": 3.95,
+    "rating_grading": 3.94,
     "rating_workload": 3.56,
-    "review_count": 295,
+    "review_count": 297,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -46,7 +46,7 @@
       {
         "id": 933,
         "name": "GOYAL, Vidhan Krishan",
-        "count": 68
+        "count": 70
       },
       {
         "id": 237,
@@ -91,6 +91,76 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "Tn35Lyst2kv1xTvVrQZ3wJWkVcHBypBm",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 933,
+          "name": "GOYAL, Vidhan Krishan",
+          "rating": 1
+        }
+      ],
+      "author": "noexcuses",
+      "date": "Jan 28, 2024",
+      "title": "",
+      "comment_content": "Week 1:<br />Introduction to the course schedule and objectives<br />Weeks 1 &amp; 2:<br />Time Value of Money: Understanding the basic concept<br />Weeks 2 &amp; 3:<br />Time Value of Money: Techniques for valuing cash flow streams<br />Weeks 3 &amp; 4:<br />Interest Rates<br />Weeks 4 &amp; 5:<br />Investment Decision Rules: Criteria for making investment choices<br />Weeks 5 &amp; 6:<br />Financial Statement Analysis<br />Week 7:<br />Fundamentals of Capital Budgeting - Part I and preparation for the Midterm<br />Week 8:<br />Continuation of Capital Budgeting concepts<br />Week 9:<br />Bonds<br />Week 10:<br />Stock Valuation<br />Week 11:<br />Risk and Return in Capital Markets<br />Week 12:<br />Systematic Risk and the Equity Risk Premium<br />Week 13:<br />The Cost of Capital",
+      "comment_teaching": "Professor Goyal guides students through the course with a swift pace, which may present challenges for those unfamiliar with the concepts beforehand. The inclusion of current financial news and real-world examples is intended to enrich students&#039; understanding of the finance industry. However, this approach seems to be more beneficial for students with an existing strong interest and background in finance, rather than novices in the field. The teaching style is geared toward deep exploration rather than foundational understanding, which could be a hurdle for those aiming to boost their GPA. Please don&#039;t expect his tips and revision for the Mid-term and Exam can help you much, you better engage your thorough understanding on your own with questions at the end of each lecture slide and tutorials.",
+      "comment_grading": "The grading system for FINA2303 is straightforward, comprising three main components: MyLab Homework assignments (20%), a Mid-term Exam (30%), and a Final Exam (50%). Notably, the course does not include participation marks, even though in-class IPRS sessions occur. This structure places a significant emphasis on exam performance, making it crucial for you to thoroughly understand the material and perform well on exams to achieve a high grade.",
+      "comment_workload": "The workload for FINA2303 is relatively light, with only one MyLab assignment due each week. Despite this, there are issues with the MyLab system, where incorrect answers can be marked due to discrepancies in numerical values across different devices. This inconsistency can be frustrating and may unfairly impact students&#039; grades. It&#039;s important for students to be vigilant and possibly report any system errors to ensure their efforts are accurately reflected in their homework scores.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "NY4qRMdHBp0mGRm8HPI1jzdT05u06BVs",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 933,
+          "name": "GOYAL, Vidhan Krishan",
+          "rating": 1
+        }
+      ],
+      "author": "Peterlau",
+      "date": "Jan 27, 2024",
+      "title": "",
+      "comment_content": "- Time Value of Money<br />- Valuing Cash Flow<br />- Interest Rates<br />- Investment Decision Rule<br />- Financial Statement Analysis<br />- Capital Budgeting<br />- Bonds<br />- Stock<br />- Riak and Return in Capital Markets<br />- Systematic Risk and the Equity Risk Premium<br />- Cost of Capital",
+      "comment_teaching": "Goyal is a great professor. His teaching is clear, slow, and easy to understand. He likes to use Excel to explain to us calculations that can be done with a financial calculator. He also likes to ask about financial news during class and enjoys interacting with students.",
+      "comment_grading": "MyLab HW&nbsp;&nbsp;20%<br />Mid-term&nbsp;&nbsp;30%&nbsp;&nbsp;<br />Final&nbsp;&nbsp;50%<br /><br />HW Full mark<br />Midterm 86%<br />Final unknown<br />overall grading A-<br /><br />However, if you want to get higher grades or get into a FINA major, I would recommend other professors, as Goyal teaches more in-depth content and the exams are more difficult than other professors.",
+      "comment_workload": "Total 8 assignments<br />1 MT<br />1 Final<br /><br />The MT is fairly easy, but the final exam is pretty hard. The short questions part in the final exam does not count for step scores, so it&#039;s easy to lose all the points.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "FoHWsCFPSzTiXAjwflJ5zJHli6UnE22o",
       "semester": "2023-24 Fall",

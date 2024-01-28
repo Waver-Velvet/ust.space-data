@@ -118,8 +118,8 @@
       "has_attendance": true,
       "has_reading": false,
       "has_presentation": false,
-      "upvote_count": 0,
-      "vote_count": 1,
+      "upvote_count": 1,
+      "vote_count": 2,
       "comment_count": 0,
       "attachments": []
     },
@@ -188,7 +188,7 @@
       "has_attendance": true,
       "has_reading": false,
       "has_presentation": false,
-      "upvote_count": 6,
+      "upvote_count": 7,
       "vote_count": 7,
       "comment_count": 0,
       "attachments": []
@@ -434,7 +434,7 @@
       "has_reading": false,
       "has_presentation": false,
       "upvote_count": 2,
-      "vote_count": 18,
+      "vote_count": 19,
       "comment_count": 0,
       "attachments": []
     },
@@ -859,8 +859,8 @@
       "has_attendance": true,
       "has_reading": false,
       "has_presentation": true,
-      "upvote_count": 64,
-      "vote_count": 64,
+      "upvote_count": 65,
+      "vote_count": 65,
       "comment_count": 0,
       "attachments": []
     },

@@ -24,10 +24,10 @@
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"ECON\" data-code=\"2103\" href=\"/review/ECON2103\" target=\"_blank\">ECON 2103</a>, <a class=\"course-link\" data-subject=\"ECON\" data-code=\"3113\" href=\"/review/ECON3113\" target=\"_blank\">ECON 3113</a>, <a class=\"course-link\" data-subject=\"ECON\" data-code=\"3133\" href=\"/review/ECON3133\" target=\"_blank\">ECON 3133</a>, <a class=\"course-link\" data-subject=\"SOSC\" data-code=\"1440\" href=\"/review/SOSC1440\" target=\"_blank\">SOSC 1440</a>, a passing grade in AL Business and Economics, grade B or above in HKAL Economics",
     "rating_content": 4.1,
-    "rating_teaching": 3.73,
-    "rating_grading": 4.06,
-    "rating_workload": 4.24,
-    "review_count": 304,
+    "rating_teaching": 3.74,
+    "rating_grading": 4.07,
+    "rating_workload": 4.25,
+    "review_count": 305,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -58,7 +58,7 @@
       {
         "id": 146,
         "name": "YU, Yan",
-        "count": 32
+        "count": 33
       },
       {
         "id": 1172,
@@ -128,6 +128,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "o8ndU6DThaVMB9fGpnOdMsmQwXGbNbJO",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 146,
+          "name": "YU, Yan",
+          "rating": 1
+        }
+      ],
+      "author": "jackson__",
+      "date": "Jan 27, 2024",
+      "title": "Really insightful course, but the course content go deeper than the others",
+      "comment_content": "Frist part is DSE econ. The second part concerns different market structures and some quantitative methods taught. (calculus is needed!)<br />Overall, the content is not difficult but she likes to test on some really detail things, so reads through and marks down all the things in PowerPoint. You have to be very familiar with every slide of the ppt for a good grade. (e.g. what is the invisible hand, Is making our decision based on our interest regarded as selfish) Don&#039;t worry as 95% of the things in the exam are shown in the slides..",
+      "comment_teaching": "It&#039;s a clear ppt, but some of the points may be difficult to understand. TA is very willing to answer your questions and reply very quickly even by email. There will be one revision session before the exam by TA, really important.<br /><br />The YouTube video is also helpful cuz sometimes I don&#039;t understand the concept and need some time to digest it.",
+      "comment_grading": "Really good grade. <br />Both mid-term and final are above the mean by 1.5sd.<br />mid term: 84/100<br />final: 86.5/100<br />There will be two schemes to calculate the overall score<br />1.final + assignment<br />2.assignment + mid-term +final<br />cheat sheet is allowed for both mid-term and final <br />The professor gave out a 25% A range, and my overall score is 89%, getting an A. You need to score 93% to secure an A+.<br /><br />You can get a bonus by doing a presentation, not necessary but a lot of ppl will do it. I recommend you to do as most ppl just read from their script and make simple PPTs.",
+      "comment_workload": "7 assignments but only the best 5 are counted.<br />80% = full mark<br />easy to score full marks for assignments<br /><br />Not much workload if you don&#039;t do a presentation.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "zDon2lNXHNdDB0OI6kHZ6zwuouJ6bFQM",
       "semester": "2023-24 Fall",

@@ -40,7 +40,7 @@
     "rating_teaching": 2.75,
     "rating_grading": 3.4,
     "rating_workload": 3.37,
-    "review_count": 313,
+    "review_count": 314,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -66,7 +66,7 @@
       {
         "id": 556,
         "name": "HU, Jishan",
-        "count": 19
+        "count": 20
       },
       {
         "id": 526,
@@ -74,13 +74,13 @@
         "count": 17
       },
       {
-        "id": 696,
-        "name": "CHAN, Yun Hung",
-        "count": 16
-      },
-      {
         "id": 1665,
         "name": "TU, Xushan",
+        "count": 17
+      },
+      {
+        "id": 696,
+        "name": "CHAN, Yun Hung",
         "count": 16
       },
       {
@@ -161,6 +161,46 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "XqS72VellmLnRYPO0zaAl0OAMS1HCVOT",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 556,
+          "name": "HU, Jishan",
+          "rating": 1
+        },
+        {
+          "id": 1665,
+          "name": "TU, Xushan",
+          "rating": 1
+        }
+      ],
+      "author": "kikiluna",
+      "date": "Jan 28, 2024",
+      "title": "",
+      "comment_content": "這是一門單變量微積分入門課程，是微積分I 和II 序列中的第一門課程，專為沒有參加HKDSE 數學模組1 或模組2 的學生而設計。主題包括函數及其極限、連續性、導數和微分法則、函數的應用導數和基本積分。 本課程要求學生用3個月的時間來學習DSE M2課程大綱中的大部分內容，而需要2.5年才能完成。學這門課只會讓你一輩子討厭微積分。 課程也讓我們重拾不使用計算機進行計算的能力，尤其是原本在文憑試可以使用計算機的題型，例如二次方程式。",
+      "comment_teaching": "not very good, heavy accent",
+      "comment_grading": "not bad but challenging cousw",
+      "comment_workload": "many practice must be done to have a good grade",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "4sRuC1q58paW0fJLl6WkeE7SvXEh1q06",
       "semester": "2023-24 Fall",
@@ -2631,8 +2671,8 @@
       "has_attendance": false,
       "has_reading": false,
       "has_presentation": false,
-      "upvote_count": 8,
-      "vote_count": 13,
+      "upvote_count": 9,
+      "vote_count": 14,
       "comment_count": 0,
       "attachments": []
     },
@@ -6382,8 +6422,8 @@
       "has_attendance": false,
       "has_reading": false,
       "has_presentation": false,
-      "upvote_count": 15,
-      "vote_count": 15,
+      "upvote_count": 16,
+      "vote_count": 16,
       "comment_count": 0,
       "attachments": [
         {

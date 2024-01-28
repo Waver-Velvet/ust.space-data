@@ -33,11 +33,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"2011\" href=\"/review/COMP2011\" target=\"_blank\">COMP 2011</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012H\" href=\"/review/COMP2012H\" target=\"_blank\">COMP 2012H</a>",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2300\" href=\"/review/ELEC2300\" target=\"_blank\">ELEC 2300</a>, <a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2350\" href=\"/review/ELEC2350\" target=\"_blank\">ELEC 2350</a>",
-    "rating_content": 4.28,
-    "rating_teaching": 4.15,
-    "rating_grading": 3.7,
-    "rating_workload": 4.26,
-    "review_count": 47,
+    "rating_content": 4.29,
+    "rating_teaching": 4.17,
+    "rating_grading": 3.71,
+    "rating_workload": 4.27,
+    "review_count": 48,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -48,7 +48,7 @@
       {
         "id": 101,
         "name": "LI, Xin",
-        "count": 27
+        "count": 28
       },
       {
         "id": 799,
@@ -68,6 +68,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "FT8UJUbondFEQXPN12a2vkgj8auM7c2n",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 101,
+          "name": "LI, Xin",
+          "rating": 1
+        }
+      ],
+      "author": "kachikawawa",
+      "date": "Jan 28, 2024",
+      "title": "",
+      "comment_content": "Logic circuits, MIPS processor and assembly<br />Fairly useful I would say, the topics are arranged in a good way, all the previous contents prepare you for the next ones<br />This is not an easy course, but if you put in enough effort you can handle most of the stuff",
+      "comment_teaching": "Prof. Li&#039;s teaching is very detailed and clear. She&#039;s willing to help you anytime, and she really wants to make sure that you understand completely. She has an accent but you&#039;ll get used to it.",
+      "comment_grading": "Not the best grades in COMP courses but it&#039;s fair enough. The final exam might be harder than you think as the sample paper is misleadingly easy.",
+      "comment_workload": "5 homeworks with 1 programming assignment, plus midterm and final. The homeworks give you more than enough time to finish. The most difficult one is probably MIPS assembly, make sure you start early as you can easily spend 3x more time in debugging.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "EiIWTRiGDRYNo8Fl3ivjDaJx2awA8a3F",
       "semester": "2023-24 Fall",

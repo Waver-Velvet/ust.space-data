@@ -15,11 +15,11 @@
     "prerequisites": "Level 5* or above in HKDSE English Language OR Overall bandscore of 7.0 or above in IELTS OR equivalence of the above",
     "corequisites": "",
     "exclusions": "LANG 1002, LANG 1003",
-    "rating_content": 3.28,
-    "rating_teaching": 4.24,
-    "rating_grading": 3.76,
-    "rating_workload": 2.86,
-    "review_count": 29,
+    "rating_content": 3.22,
+    "rating_teaching": 4.22,
+    "rating_grading": 3.69,
+    "rating_workload": 2.81,
+    "review_count": 32,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -28,8 +28,18 @@
     "contributor_has_more": false,
     "instructors": [
       {
+        "id": 1231,
+        "name": "SAMPSON, Nicholas",
+        "count": 5
+      },
+      {
         "id": 635,
         "name": "LI, Edward Siu Leung",
+        "count": 4
+      },
+      {
+        "id": 1716,
+        "name": "KOYLU, Yilmaz",
         "count": 4
       },
       {
@@ -38,18 +48,8 @@
         "count": 3
       },
       {
-        "id": 1231,
-        "name": "SAMPSON, Nicholas",
-        "count": 3
-      },
-      {
         "id": 1323,
         "name": "LIAO, May",
-        "count": 3
-      },
-      {
-        "id": 1716,
-        "name": "KOYLU, Yilmaz",
         "count": 3
       },
       {
@@ -75,6 +75,111 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "lzSOZb9TZp6ibcyas37XHqRAFaZ9SpLM",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1716,
+          "name": "KOYLU, Yilmaz",
+          "rating": 1
+        }
+      ],
+      "author": "hinscheung",
+      "date": "Jan 29, 2024",
+      "title": "",
+      "comment_content": "Annotated Bibliography 15%<br />Synthesis Paper 10%<br />Seminar Presentation 20% (if possible, try to find all good teammates because all of you need to work together really hard to produce a cohesive piece of work)<br />E-magazine 30%<br />Self-reflection 10% (5% each, make sure to do it because it just gives you free full grade basically )<br />Few Self-directed Tasks (15% in total, also remember to do them to get free grade)",
+      "comment_teaching": "His name is Yılmaz!!!! (remember there&#039;s no dot above the i)<br />I personally think he&#039;s quite chill and nice, and he explains things quite clearly so we don&#039;t miss out on any important deadlines and such. The class atmosphere is quite interactive, which makes it enjoyable and engaging. I guess if you engage in the discussions more or respond to his questions frequently, it gives you some impression points.",
+      "comment_grading": "To be honest, I have no idea how the grading works in LANG courses. Perhaps different teachers might have slightly different grading standards as well. In my case, I got mostly &quot;Exceptional/Advanced&quot; and &quot;Exceptional&quot; grades for most assignments, resulting in a final grade of A. <br />(I&#039;m really curious if someone can get an A+ in this course haha)",
+      "comment_workload": "I assume that all LANG courses have a heavy workload, so it is not surprising. As long as you have good time management skills and try not to leave everything until the last minute (or else he&#039;s gonna judge your quality of work), I think it should be fine. It can quite tough if the deadlines for these assignments crash with your tests or midterms, though.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "ideXVWAYuBYH6nY4KfjP1xxp4KMjwKKL",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1231,
+          "name": "SAMPSON, Nicholas",
+          "rating": 1
+        }
+      ],
+      "author": "!@_@!",
+      "date": "Jan 28, 2024",
+      "title": "",
+      "comment_content": "Assignment List:<br />1. Annotated Bibliography<br />2. synthesis paper<br />3. Seminar Presentation<br />4. E-magazine<br />5. SDL assignment<br />6. Self Reflection<br /><br />as a non-native english user, it&#039;s really tough for me to survive.",
+      "comment_teaching": "Disucssions, sharing. Repeat and repeat the process throughout the whole semester. <br /><br />Little teaching, some readings.<br /><br />you will learn how to find those peer-reviewed and university-level articles.",
+      "comment_grading": "Professor Sampson was not so generous at giving high marks (like full marks). Compared to other professors, he was quite harsh I think.<br /><br />Ironically we have group projects and i got same results as them in some assignments. Some of my groupmates ultimately got a straight A, and i got B. Saddd.",
+      "comment_workload": "Quite heavy for me cuz i&#039;m not a native english user, like AB required to read 3 articles. Although there are word limits, it was very time-consuming to finish each assignment. The workload was the highest compared to my other courses. Particularly for the e-magazine, it was a group project. It was not only about writing a summary but also about graphics and overall layout.<br /><br />Don&#039;t be a deadline fighter",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "UAmwMj9INtaYSiUcoR1FDKRTTpejJQ80",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1231,
+          "name": "SAMPSON, Nicholas",
+          "rating": 1
+        }
+      ],
+      "author": "FlyingPiglet",
+      "date": "Jan 28, 2024",
+      "title": "Avoid at all costs",
+      "comment_content": "The content of the course does not benefit me in any way, shape or form. After a semester, I still don&#039;t know what the purpose of this course is!",
+      "comment_teaching": "The instructor is nice and his lessons are interactive. However, this does not save the course from being poorly designed.",
+      "comment_grading": "Grades are terrible. If you are taking this course, your probably are fluent in English. However, the grades does not reflect the fact that you are much more proficient in English then your peers. Additionally the grading system is unclear and I genuinely do not know how the grading works in this course (which is a first in my first semester)",
+      "comment_workload": "The workload of this course is not bad on paper, but this ignores a simple fact -- I did not sign up for this! The workload of this course was the straw that broke the camel&#039;s back, and I am so grateful that I no longer have to deal with this course!",
+      "rating_content": 1,
+      "rating_teaching": 4,
+      "rating_grading": 1,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "cHfG4wsxngWTaoqOMruAZYoN0Coj1sOa",
       "semester": "2023-24 Fall",

@@ -36,10 +36,10 @@
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"CORE\" data-code=\"2632\" href=\"/review/CORE2632\" target=\"_blank\">CORE 2632</a>, SISP 1709",
     "rating_content": 4.29,
-    "rating_teaching": 4.12,
+    "rating_teaching": 4.14,
     "rating_grading": 3.71,
-    "rating_workload": 2.74,
-    "review_count": 65,
+    "rating_workload": 2.76,
+    "review_count": 66,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -53,13 +53,13 @@
         "count": 46
       },
       {
-        "id": 1305,
-        "name": "PAGE, Timothy Markham",
-        "count": 7
-      },
-      {
         "id": 1651,
         "name": "KAILA, Ilari",
+        "count": 8
+      },
+      {
+        "id": 1305,
+        "name": "PAGE, Timothy Markham",
         "count": 7
       },
       {
@@ -70,6 +70,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "r4mTGUbbgIka3SoNBHChoxMJw50yMVuW",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1651,
+          "name": "KAILA, Ilari",
+          "rating": 1
+        }
+      ],
+      "author": "Miyuki",
+      "date": "Jan 27, 2024",
+      "title": "",
+      "comment_content": "The course starts from scratch, introducing basic notations, basic chords and other basic concepts in the first few weeks, and then jump right into more advanced classical music concepts such as cadences, figured bass, and voice leading in the last few weeks.<br /><br />I believe that the ear training is inadequate in both time and frequency domain, so you better have a shallow musical background as I did, or had played at least one instrument before, otherwise it will be hard for you to complete the concert report assignment.",
+      "comment_teaching": "Both the instructor and TA are very nice people who answer your question even if it&#039;s slightly out of the context they&#039;re teaching. The way they demonstrate sheet music is also compelling.",
+      "comment_grading": "Concert Report 15%<br />Homework 15%<br />Midterm 20%<br />Final 25%<br />Final Composition Project 10%<br />Attendance/Participation 15%<br /><br />The final grades were never released, but I guess it is competitive in the A-range, as I got an A- while having 99.14% in midterm.",
+      "comment_workload": "In the first 8 weeks the workload seems to be really small, if you are a deadline fighter like me. But after midterm you need to complete your composition and write a concert report, which can be somewhat demanding.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "ZlCSxmban5yZd6kLDbdOwuvGssMJ3AMY",
       "semester": "2023-24 Fall",
@@ -433,8 +468,8 @@
       "has_attendance": true,
       "has_reading": false,
       "has_presentation": false,
-      "upvote_count": 7,
-      "vote_count": 8,
+      "upvote_count": 8,
+      "vote_count": 9,
       "comment_count": 0,
       "attachments": []
     },

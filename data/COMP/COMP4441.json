@@ -23,11 +23,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"2011\" href=\"/review/COMP2011\" target=\"_blank\">COMP 2011</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012\" href=\"/review/COMP2012\" target=\"_blank\">COMP 2012</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012H\" href=\"/review/COMP2012H\" target=\"_blank\">COMP 2012H</a>",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 4.63,
-    "rating_teaching": 4.5,
-    "rating_grading": 4.5,
-    "rating_workload": 4.44,
-    "review_count": 16,
+    "rating_content": 4.41,
+    "rating_teaching": 4.29,
+    "rating_grading": 4.29,
+    "rating_workload": 4.24,
+    "review_count": 17,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -38,7 +38,7 @@
       {
         "id": 126,
         "name": "HORNER, Andrew Brian",
-        "count": 13
+        "count": 14
       },
       {
         "id": 1636,
@@ -48,6 +48,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "azO477x4DfvZh1cgTpAallDJFmTrcUea",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 126,
+          "name": "HORNER, Andrew Brian",
+          "rating": 1
+        }
+      ],
+      "author": "hatsunemiku",
+      "date": "Jan 28, 2024",
+      "title": "Poor grading for non musical background students",
+      "comment_content": "RUNNNNNNNNNNNNN<br />If you don&#039;t have music background<br />You will fuck up miserably",
+      "comment_teaching": "There is literally nothing taught during lessons but just appreciating the excellent from previous students, and watching and rating your peer’s work. The tutorials will teach some application and techniques for music remixing and video cutting like audacity, band lab, davinci resolve, etc.",
+      "comment_grading": "Grading is brutal<br />Mean = C/C+<br />I got all the tasks above mean and got B-",
+      "comment_workload": "Workload is fine because there is not too many things to learn but just 3 assignments and 1 final project though you need to spend days for each assignments (well depends on how you are talented in music but I am shitty on that so).",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "g9onjkvhI35JpgZ1PEJ60B0sLW7LJ8Zo",
       "semester": "2022-23 Spring",

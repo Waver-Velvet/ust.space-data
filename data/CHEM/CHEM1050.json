@@ -33,11 +33,11 @@
     "prerequisites": "",
     "corequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"1010\" href=\"/review/CHEM1010\" target=\"_blank\">CHEM 1010</a> OR <a class=\"course-link\" data-subject=\"CHEM\" data-code=\"1020\" href=\"/review/CHEM1020\" target=\"_blank\">CHEM 1020</a>",
     "exclusions": "",
-    "rating_content": 4.36,
-    "rating_teaching": 4.08,
-    "rating_grading": 4.61,
-    "rating_workload": 4.44,
-    "review_count": 36,
+    "rating_content": 4.35,
+    "rating_teaching": 4.11,
+    "rating_grading": 4.62,
+    "rating_workload": 4.46,
+    "review_count": 37,
     "single_review": false,
     "enrollment_status": 4,
     "is_favourited": false,
@@ -58,7 +58,7 @@
       {
         "id": 1464,
         "name": "CHEUNG, Man Sing",
-        "count": 8
+        "count": 9
       },
       {
         "id": 40,
@@ -68,6 +68,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "sqJZMghRgzDfHpAT2wJq6tKF4GDS7nJR",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1464,
+          "name": "CHEUNG, Man Sing",
+          "rating": 1
+        }
+      ],
+      "author": "Jensen LO",
+      "date": "Jan 27, 2024",
+      "title": "Good choice for enriching U-Life",
+      "comment_content": "1. Safety Test<br />• result ≥ 80%<br />2. Laboratory Apparatus Test<br />• result ≥ 80%<br />3. 5 Experiments<br />• attend ALL the experiments, with reasonable experimental results obtained<br />• Experiment 1: Chemiluminescence<br />• Experiment 2: Boyle’s Law<br />• Experiment 3: Determination of Boiling Point of an Unknown Liquid<br />• Experiment 4: Determination of Vitamin C Content in Health Drinks by Redox Titration<br />• Experiment 5: Hess’s Law: Calculation of Heat of Neutralization of Strong Acid and Strong Base<br />4. 5 Lab Reports<br />• submit ALL the lab reports<br />• average result ≥ 5 points (full score of each lab report: 10 points)<br />• no more than one lab report scored below 4 points",
+      "comment_teaching": "The teaching is very great. The instructors explained the experiments very well and will reach out to you when you are in trouble. Also after the lab class if you meet any trouble you can email the lecturer for help.",
+      "comment_grading": "The grading system is only P or F. As far as you follow the instruction there is no need to worry about fail. But make sure you attend all of the classes and remember to submit all of the lab report.",
+      "comment_workload": "The workload is exceedingly light. What you need to do is only to attend a 3 hour class every 2 weeks which always takes only about 1.5 hours. And after every class about 15 mins to finish the lab report.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "61yDcue1ANjB9i6qAWV6mDzym9UKedtB",
       "semester": "2023-24 Fall",

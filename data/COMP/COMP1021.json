@@ -39,7 +39,7 @@
     "rating_teaching": 4.61,
     "rating_grading": 4.26,
     "rating_workload": 4.54,
-    "review_count": 895,
+    "review_count": 897,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -50,7 +50,7 @@
       {
         "id": 95,
         "name": "ROSSITER, David",
-        "count": 327
+        "count": 328
       },
       {
         "id": 99,
@@ -105,6 +105,70 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "PVkgRV2q7zezR8ejpiS05yoppJYVICke",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 95,
+          "name": "ROSSITER, David",
+          "rating": 1
+        }
+      ],
+      "author": "an727",
+      "date": "Jan 28, 2024",
+      "title": "",
+      "comment_content": "Basic python and using the turtle library.<br />The content should be quite easy for anyone that has touched programing. For those that are new just make sure to use the practice tools provided by CSE.",
+      "comment_teaching": "I only went to the first lesson to see the syllabus, and then i realized they will upload ppt and lecture videos. You just need to read the ppts then will be ok :)",
+      "comment_grading": "There are two grading schemes:<br />First: Lab (36%), Mid-term (24%), Final (40%) <br />Second: Lab (42%), Mid-term (0%), Final (58%)<br /><br />There are three labs that you need to hand in.<br />Lab 1 I got 100.<br />Lab 5 I got 100.<br />Lab 6 I got 100.<br />Mid-term i did not get 100 :(<br />Final I got 100<br />Grade: A+<br /><br />However the grading is very bad, a frd of mine got 1 question wrong in the finals and got A.<br />You have to be very careful to get A range.",
+      "comment_workload": "The workload is quite light, you only need to complete three labs and they basically give u the solutions to them. Just make sure to hand them in on time then u should be fine :)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "W0ExZ3KD4ZqoZSW4pJdaH03TRgiYTgr8",
+      "semester": "2023-24 Fall",
+      "instructors": [],
+      "author": "mrkwokhaha",
+      "date": "Jan 27, 2024",
+      "title": "Good course but very sad finals",
+      "comment_content": "Refer to other comments, <br />As an DSE ICT student, very simple to handle.",
+      "comment_teaching": "I never attended the class, but Gibson&#039;s classes are humorous, tho I still sleep in class.",
+      "comment_grading": "The grading scheme is adaptive enoough, refer to others&#039; comment.<br />I was hoping for an A+ but results in a B+, I&#039;d say the only problem for the course is the exams, marks are all or nothing, and there are questions carrying 7 marks out of 100, which means a tiny careless mistake can differs a grade, the exam focuses too much on carelessness instead of the logics in programming, which should not be the focus of such a COMP course.<br /><br />Though, the grading schemes can spread the risks to Labs, Midterm and final, which can reduce the problem of heavy final weightings. However, the curves are quite high, which also means failing a single item will cause your grade to be bad.",
+      "comment_workload": "A few labs only, which are simple and programming tasks only, very simple to handle if you have programming background.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "yIDFvFBaE9lLRBhVDwgNNRQEeo7yVKSE",
       "semester": "2023-24 Fall",
@@ -10868,7 +10932,7 @@
       "has_presentation": false,
       "upvote_count": 14,
       "vote_count": 14,
-      "comment_count": 0,
+      "comment_count": 1,
       "attachments": [
         {
           "key": "aYVqbAqedA3gH0BXdxztll89L2KTx4bW",

@@ -34,9 +34,9 @@
     "exclusions": "",
     "rating_content": 4.21,
     "rating_teaching": 4.34,
-    "rating_grading": 4.37,
+    "rating_grading": 4.38,
     "rating_workload": 4.04,
-    "review_count": 219,
+    "review_count": 220,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -57,7 +57,7 @@
       {
         "id": 1164,
         "name": "CHO, Ja Ee",
-        "count": 27
+        "count": 28
       },
       {
         "id": 1456,
@@ -133,10 +133,55 @@
         "id": 689,
         "name": "LEE, Man Ching Kitty",
         "count": 1
+      },
+      {
+        "id": 1761,
+        "name": "RAMALINGAM, Sangeetha",
+        "count": 1
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "Vic6t7z5VTnm6F9GbdyJXPPcr8q9j1aO",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1164,
+          "name": "CHO, Ja Ee",
+          "rating": 1
+        },
+        {
+          "id": 1761,
+          "name": "RAMALINGAM, Sangeetha",
+          "rating": 1
+        }
+      ],
+      "author": "pascal sauvage",
+      "date": "Jan 27, 2024",
+      "title": "Excellent Course, Nice Professor",
+      "comment_content": "Content covers how to use people effectively for business, and perhaps psychology related. Content was broad but not hard to understand, mainly requiring memorisation of facts.",
+      "comment_teaching": "Decent teaching which is mostly easy to understand and highly engaging with many activities, but the only major issue is that you have to attend every lesson as she will leave blanks on the slides she sends out and you&#039;re supposed to fill them in by yourself during lessons, and get attendance through participating in discussions (she will hand out participation cards for you to fill in after you answer).",
+      "comment_grading": "Very nice! I am so #grateful and #blessed",
+      "comment_workload": "General workload throughout the semester is pretty low as long as you get started early on group projects. Just hope you don&#039;t have too many sussy team mates. Final exam wasn&#039;t difficult, it just required memorisation of facts - recommend using flashcards to revise.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "WGmn5ekrBElNtCWsNTMv2z5mtSNDMzHQ",
       "semester": "2023-24 Fall",
