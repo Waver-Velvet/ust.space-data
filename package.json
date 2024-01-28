@@ -24,6 +24,7 @@
     "axios": "^1.6.7",
     "axios-cookiejar-support": "^5.0.0",
     "axios-retry": "^4.0.0",
+    "jsdom": "^24.0.0",
     "limiter": "^2.1.0",
     "tough-cookie": "^4.1.3"
   },
