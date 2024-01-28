@@ -11,7 +11,7 @@
     "node": ">=20"
   },
   "scripts": {
-    "go": "dotenvx run --env-file=.env.local -- node ./src/index.js",
+    "go": "dotenvx run --env-file=.env -- node ./src/index.js",
     "lint": "eslint --fix src",
     "bundle": "npm run lint && npm run package",
     "package": "ncc build src/index.js --license licenses.txt",
