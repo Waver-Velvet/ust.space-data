@@ -17,11 +17,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "Level 3 or above in HKDSE 1/2x Chemistry OR HKDSE 1x Chemistry, any CHEM courses at or above 1004-level, <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1120\" href=\"/review/CORE1120\" target=\"_blank\">CORE 1120</a>",
-    "rating_content": 4.48,
-    "rating_teaching": 4.52,
-    "rating_grading": 4.07,
-    "rating_workload": 5,
-    "review_count": 29,
+    "rating_content": 4.5,
+    "rating_teaching": 4.53,
+    "rating_grading": 4.1,
+    "rating_workload": 4.97,
+    "review_count": 30,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -32,11 +32,46 @@
       {
         "id": 40,
         "name": "TSANG, Ming Wai Emily",
-        "count": 27
+        "count": 28
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "o7JQg310Foah99S1T7mwc2yc37ynwGm5",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 40,
+          "name": "TSANG, Ming Wai Emily",
+          "rating": 1
+        }
+      ],
+      "author": "NORMAL_PERSON",
+      "date": "Jan 29, 2024",
+      "title": "Good intro CHEM course for no chem background pp",
+      "comment_content": "List of Topics:<br />1. Matter and Energy<br />2. Atoms and Elements<br />3. Molecules and Compounds<br />4. Chemical Composition<br />5. Chemical Reactions<br />6. Reaction Stoichiometry<br />7. Atomic Structures and the Periodic Table<br />8. Chemical Bonding and Molecular Structures<br />9. Liquids, Solids, and Intermolecular Forces<br />10. Solution Chemistry<br />11. Acids and Bases<br />12. Chemical Equilibrium( This sem is cutted)<br /><br />P.S I am no chem background sudent and my chem is trouble in junior high school but I really learn something in this course.",
+      "comment_teaching": "Prof teach quite ok for me and I can catch up with her talking speed.<br />Although she is basically just follow to slides,she explain those terms clearly.Sometimes, she will do experiment in class which is quite interesting for me.",
+      "comment_grading": "Grading:<br /><br />Online Quiz 1 (10%)<br />Online Quiz 2 (10%)<br />Offline Mid Term (40%)<br />Offline Final Exam (40%)<br /><br />Online Quiz 1: Mean: 59.31/75 Median: 63.5/75 High: 75/75 Upper Quartile: 67.5/75\tLow: 0/75 Lower Quartile: 55/75<br /><br />Online Quiz 2: Mean: 35.12/45 Median: 38/45\tHigh: 45/45 Upper Quartile: 41/45\tLow: 0/45 Lower Quartile: 31/45<br /><br />Most of the questions are MCs and some of them are SQs<br />The quiz is quite basic and similar to the exercises so the scores are competitive<br /><br />Offline Mid Term: Mean: 26.45/40 Median: 27/40 High: 39/40 Upper Quartile: 31/40\tLow: 0/40 Lower Quartile: 22/40<br /><br />The mid term is 40 MCs which cover Chp 1-6<br />It is also similar to the exercises<br /><br />Offline Final Exam: Mean: 63.71/100 Median: 69.5/100\tHigh: 94/100 Upper Quartile: 79.88/100\tLow: 0/100&nbsp;&nbsp;Lower Quartile: 51.25/100<br />The Final Exam is 25 MCs(50%) 4 LQs(50%)(drawing lewis structure molarity cal etc.) which cover Chp 7-11<br /><br />It is also similar to the exercises<br /><br />For me:<br />Online Quiz 1: 62.5/75<br />Online Quiz 2: 44/45<br />Offline Mid Term: 34/40<br />Offline Final Exam: 81/5/100<br />Overall 84.71/100--&gt;A<br /><br />I would say the grading is quite fair as this course is basic chem and all concept is basic even you don&#039;t have chem background so this course is very hard to get A+ cuz I think you need to almost get full&nbsp;&nbsp;marks in all quizzes and exams but if you aim B or A range,it is possible for you to get it even you have no chem background.All you need to do is to be careful and hard work to prepare all the quizzes and exams.",
+      "comment_workload": "The workload is ok? I would say as there are only two quizzes(three weeks before each exams) and mid term final which is basic ust course.Prof. also release some exercises which are not needed to submit but those questions are very similar to quizzes and exames so it is recommended to do those exercises.<br /><br />Aim A then workload will be C D E<br />Aim pass then workloar will be A<br />so overload b <br />hope you can get great grade in this course &lt;3",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "AI6khvq0WrpTRKcHrejIMbVCcmAXfNxO",
       "semester": "2023-24 Fall",

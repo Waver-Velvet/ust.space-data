@@ -35,9 +35,9 @@
     "exclusions": "",
     "rating_content": 4.07,
     "rating_teaching": 4.01,
-    "rating_grading": 4.11,
+    "rating_grading": 4.12,
     "rating_workload": 4.13,
-    "review_count": 177,
+    "review_count": 178,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -48,7 +48,7 @@
       {
         "id": 483,
         "name": "LIANG, Chun",
-        "count": 98
+        "count": 99
       },
       {
         "id": 471,
@@ -68,7 +68,7 @@
       {
         "id": 1419,
         "name": "LI, Laam",
-        "count": 46
+        "count": 47
       },
       {
         "id": 481,
@@ -83,7 +83,7 @@
       {
         "id": 1418,
         "name": "HO, Sarah Elizabeth",
-        "count": 17
+        "count": 18
       },
       {
         "id": 494,
@@ -103,6 +103,51 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "q8G3yL46YMeZ7dM3sHfTMmC8A7iI5CeD",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 483,
+          "name": "LIANG, Chun",
+          "rating": 1
+        },
+        {
+          "id": 1418,
+          "name": "HO, Sarah Elizabeth",
+          "rating": 0
+        },
+        {
+          "id": 1419,
+          "name": "LI, Laam",
+          "rating": 1
+        }
+      ],
+      "author": "F全部都係F",
+      "date": "Jan 29, 2024",
+      "title": "",
+      "comment_content": "Biotech, Genetics, Drugs, Respiratory System, Circulatory System, Musculoskeletal System, Nervous System, Osmoregulation, Digestion System, Lymphatic System, Development and Aging",
+      "comment_teaching": "Liang speaks nice and wise. Many interactions with students. Very rich knowledge with biotechnology and genetics. Speaks very good and decent English.<br /><br /><br /><br /><br /><br />Ho just rushes the whole ppt. And her accent is terrible. <br /><br /><br />Li gives 5-minute break every lesson. She explains points detailedly and clearly. Her accent is decent and easy to understand.",
+      "comment_grading": "Very good grading. All MC in mid-term and final. Just remember all the key points. Around 30 pages of ppt for each chapter.",
+      "comment_workload": "Easy to manage. No homework or assignment. Just mid-term and final. A reasonable amount of content to study. Some are covered in secondary school.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "UvPc0jiKZfnSJmR72y2jJ9CFbW5IrWzW",
       "semester": "2023-24 Fall",

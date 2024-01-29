@@ -41,7 +41,7 @@
     "rating_teaching": 3.88,
     "rating_grading": 3.95,
     "rating_workload": 3.34,
-    "review_count": 486,
+    "review_count": 487,
     "single_review": false,
     "enrollment_status": 1,
     "is_favourited": false,
@@ -52,7 +52,7 @@
       {
         "id": 609,
         "name": "CHEUNG, Man Fung",
-        "count": 147
+        "count": 148
       },
       {
         "id": 610,
@@ -172,6 +172,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "nc0WlhByXvwEjMAO8cJqx2QcYDMUGFxq",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 609,
+          "name": "CHEUNG, Man Fung",
+          "rating": 1
+        }
+      ],
+      "author": "anonymous22093",
+      "date": "Jan 29, 2024",
+      "title": "",
+      "comment_content": "First half of the course basically 80% of A levels content with extra calculus and additional topics, After midterm the course become general harder especially with thermodynamics and waves. <br /><br />Topics<br />- Physical Quantities, Vectors, and 2D Motion<br />- Newton&#039;s Laws of Motion<br />- Work and Kinetic Energy<br />- Potential Energy and Energy Conservation<br />- Momentum, Impulse, and Collisions<br />- Dynamics of Rigid Bodies<br />- Angular Momentum<br />MIDTERM<br />- Gravitation<br />- Simple Harmonic Motion<br />- Wave Motion and Sound<br />- Temperature and Heat<br />- Thermal Properties of Matter<br />- First Law of Thermodynamics<br />- Second Law of Thermodynamics<br />FINAL",
+      "comment_teaching": "I like he&#039;s teaching, he try to prove every equation with calculus making going to he&#039;s lecture super useful.",
+      "comment_grading": "Fair grading<br />Mid Term: 16.21/28<br />Final:23/45<br />10% HW<br />5% Tutorial<br />35% Midterm<br />55% Finals",
+      "comment_workload": "Assignment every week, damn hard take forever to finish the homework on mastering physics. Content in the course very hard a lot of self studying especially trying to understand the proof.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "KVv4seJg8E2tmZV0jY3N5cW2ofDBbfwW",
       "semester": "2023-24 Fall",

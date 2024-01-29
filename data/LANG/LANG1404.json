@@ -15,11 +15,11 @@
     "prerequisites": "Level 5* or above in HKDSE English Language OR Overall bandscore of 7.0 or above in IELTS OR equivalence of the above",
     "corequisites": "",
     "exclusions": "LANG 1002, LANG 1003",
-    "rating_content": 3.22,
-    "rating_teaching": 4.22,
-    "rating_grading": 3.69,
-    "rating_workload": 2.81,
-    "review_count": 32,
+    "rating_content": 3.18,
+    "rating_teaching": 4.21,
+    "rating_grading": 3.7,
+    "rating_workload": 2.79,
+    "review_count": 33,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -33,6 +33,11 @@
         "count": 5
       },
       {
+        "id": 444,
+        "name": "HOPKINS, Mark",
+        "count": 4
+      },
+      {
         "id": 635,
         "name": "LI, Edward Siu Leung",
         "count": 4
@@ -41,11 +46,6 @@
         "id": 1716,
         "name": "KOYLU, Yilmaz",
         "count": 4
-      },
-      {
-        "id": 444,
-        "name": "HOPKINS, Mark",
-        "count": 3
       },
       {
         "id": 1323,
@@ -75,6 +75,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "Rx3TWb0KM1JQYBieYq1Zzt9U7NHoY229",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 444,
+          "name": "HOPKINS, Mark",
+          "rating": 1
+        }
+      ],
+      "author": "jjj12",
+      "date": "Jan 29, 2024",
+      "title": "",
+      "comment_content": "The content was useless and extremely boring. It was unclear how the content we learned linked to what our assessments were on, and the content itself is completely inapplicable anywhere else in our lives, so I&#039;m not sure why we are learning it. Even at the end of the course I am still unsure what an Annotated Bibliography is.",
+      "comment_teaching": "Mark was alright. He tried to be funny and teach in an engaging and enthusiastic manner, which undoubtedly made the class more interesting, but his teaching style was unfortunately overshadowed by how boring and useless the content was. Also, I found his canvas difficult to navigate because things were in places they shouldn&#039;t be, or sometimes misnamed. He also would often neglect to tell us about deadlines until right before them, or forget to tell us important things and have to send a follow up email, and sometimes didn&#039;t explain the task well at first. Nevertheless, he is willing to help and I think he is a nice teacher.",
+      "comment_grading": "Attendance isn&#039;t graded but LANG has subjective grading so you should show up to make the instructor like you. I don&#039;t think the instructor liked me much, but overall grading is fair. Choose good group mates at the start because you are stuck with them for the rest of the course.",
+      "comment_workload": "I was lulled into a false sense of security at the beginning because there wasn&#039;t much homework, but then the assessments took hours each. Especially since there is a draft Annotated Bibliography and a real Annotated Bibliography, but the draft Annotated Bibliography does not count in the real one, so it was a waste of time. Also, coordinating with group mates was difficult, so you are increasing your workload massively by choosing bad group mates.",
+      "rating_content": 2,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "lzSOZb9TZp6ibcyas37XHqRAFaZ9SpLM",
       "semester": "2023-24 Fall",
@@ -1159,8 +1194,8 @@
       "has_attendance": false,
       "has_reading": false,
       "has_presentation": true,
-      "upvote_count": 17,
-      "vote_count": 22,
+      "upvote_count": 18,
+      "vote_count": 23,
       "comment_count": 0,
       "attachments": []
     }

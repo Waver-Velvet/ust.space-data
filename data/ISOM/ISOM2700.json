@@ -34,9 +34,9 @@
     "exclusions": "<a class=\"course-link\" data-subject=\"IEDA\" data-code=\"4100\" href=\"/review/IEDA4100\" target=\"_blank\">IEDA 4100</a>",
     "rating_content": 4.45,
     "rating_teaching": 4.48,
-    "rating_grading": 4.28,
+    "rating_grading": 4.29,
     "rating_workload": 4.27,
-    "review_count": 317,
+    "review_count": 318,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -102,7 +102,7 @@
       {
         "id": 1095,
         "name": "GURUMURTHI, Suryanarayanan",
-        "count": 6
+        "count": 7
       },
       {
         "id": 404,
@@ -122,6 +122,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "vETIJnE2iK3MIpLK6lbwTV9DzB6LApg7",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1095,
+          "name": "GURUMURTHI, Suryanarayanan",
+          "rating": 1
+        }
+      ],
+      "author": "Jase",
+      "date": "Jan 29, 2024",
+      "title": "",
+      "comment_content": "His ppt slides are slightly confusing to understand at first but once you get the hang of it his ppts are very well organized and the contents needed for the exam is also very well organized",
+      "comment_teaching": "He gives a lot of real-life examples and practice questions to work on for most of the topics. He is also good at engaging the students to participate during the class. Overall very enjoyable class and the best professor to take for ISOM 2700",
+      "comment_grading": "Very lenient in my opinion<br />20% Participation and Quiz -&gt; should be easy to get a full mark if you attend his lectures<br />35% Midterm<br />45% Final Exam<br />The professor provides us with a study guide with every concept we should know for the exam. If you follow the study guide and study accordingly, the tests are exactly the same as the study guide. Meaning there will be questions related to the study guide and only the study guide. Go look back into the lecture slides related to the specific topic, and you should do perfectly fine during the exams. He also gives more then enough time for the exam.",
+      "comment_workload": "Very Light. Just partcipate during class and focus on the lecture slides and study guide he provides and you should be able get at least a B",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "ZZOn8VAFMuec9G8tsrjiCv4NDw1xrJQr",
       "semester": "2023-24 Fall",

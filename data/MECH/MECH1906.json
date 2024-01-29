@@ -27,10 +27,10 @@
     "corequisites": "",
     "exclusions": "",
     "rating_content": 2.93,
-    "rating_teaching": 2.29,
+    "rating_teaching": 2.31,
     "rating_grading": 3.8,
-    "rating_workload": 4.1,
-    "review_count": 137,
+    "rating_workload": 4.11,
+    "review_count": 138,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -46,7 +46,7 @@
       {
         "id": 1018,
         "name": "TAO, Hong",
-        "count": 39
+        "count": 40
       },
       {
         "id": 568,
@@ -106,6 +106,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "W3o5mPdT54PqP7TKjR2r0FqxYHLOBWLu",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1018,
+          "name": "TAO, Hong",
+          "rating": 1
+        }
+      ],
+      "author": "henrykuan",
+      "date": "Jan 29, 2024",
+      "title": "",
+      "comment_content": "1) Introduction<br />2) Engineering Ethics<br />There are four modules in this course:<br />Part 1: Aerospace engineering<br />3) Aerospace Engineering<br />4-5) Aerodynamics<br />6) Propulsion<br />7) Gas Turbine<br />Part 2: Mechanics and Materials<br />8) Statics &amp; Dynamics<br />9) Solid Mechanics<br />10) Engineering Materials<br />11) Metals<br />12) Polymers<br />Part 3: Design and Manufacturing <br />13) Controls<br />14) Robots and Automation<br />15) Engineering Design<br />16) Manufacturing<br />17) Mechanism of Machinery<br />18) MEMS<br />Part 4: Thermofluids<br />19) Thermodynamics<br />20) Heat and Heat Transfer<br />21-22) Fluid Mechanics<br />23) Energy and Energy Utilization<br />24) Modern Building",
+      "comment_teaching": "Professor is good and the lecture notes is very clear and easy to understand. Sometimes, there are in-class demo sessions that can provide an interesting learning experiences for mechanical engineering.",
+      "comment_grading": "4 Assignments (20%) (5% each)<br />4 Quiz (20%) (5% each)<br />Mid-term exam (30%)<br />Group final report (30%)<br />Assignment 1: 100/100 Mean: 90.81<br />Assignment 2: 98/100 Mean: 90.39<br />Assignment 3: 97/100 Mean: 85.76<br />Assignment 4: 97/100 Mean: 87.03<br />Quiz 1: 100/100 Mean: 91.78<br />Quiz 2: 100/100 Mean: 86.98<br />Quiz 3: 100/100 Mean: 83.54<br />Quiz 4: 100/100 Mean: 91.36<br />Mid-term Exam: 94.25/100 Mean: 80.56<br />Group Final Report: 65.08/100 Mean: 70.66<br />Final Grade: A-",
+      "comment_workload": "Light workload. Each modules have one assignment and quiz. Most of the assignment and quiz questions are directly to find from the lecture notes. You can bring the maximum two cheat sheets (can write in both sides) in the mid-term exam. For a final report, choosing a topic from the lectures 13-24 with your group of 4 people and write a report of not more than 5 pages.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "FFJ7Uc2ISSvRvxTrnrVFb32AKabjD9Au",
       "semester": "2023-24 Fall",

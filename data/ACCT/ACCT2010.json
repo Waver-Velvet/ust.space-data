@@ -34,7 +34,7 @@
     "rating_teaching": 4.07,
     "rating_grading": 3.99,
     "rating_workload": 4.05,
-    "review_count": 1124,
+    "review_count": 1126,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -55,12 +55,12 @@
       {
         "id": 3,
         "name": "SHIEH, Tony",
-        "count": 119
+        "count": 120
       },
       {
         "id": 1210,
         "name": "TANG, Chao",
-        "count": 118
+        "count": 119
       },
       {
         "id": 14,
@@ -190,6 +190,76 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "WvxIB2EphHhEi1OtWY8mm2XOK5l1Zud8",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 3,
+          "name": "SHIEH, Tony",
+          "rating": 0
+        }
+      ],
+      "author": "desdichado",
+      "date": "Jan 29, 2024",
+      "title": "",
+      "comment_content": "See other comments",
+      "comment_teaching": "雖然佢整嘅PowerPoint真係好醜樣 但都幾有心教<br />上堂答太多問題 仲要逐個Mark名加分 浪費時間 <br />進度慢過其他Professor好多",
+      "comment_grading": "好易靚grade <br />Parti 5%<br />Quiz &amp; Group Ex 20%<br />MT 35% (mean 7x/100 high 97/100)<br />Final 40%<br /><br />MT 96/100<br />Grade: A+<br />利申：冇讀bafs",
+      "comment_workload": "Tony俾嘅Exercise全部做晒就一定handle到MT final<br />冇讀過bafs workload大啲",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "zVd0tsMrh65i7sCPUiwfP1VAL2JTCYtR",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1210,
+          "name": "TANG, Chao",
+          "rating": 1
+        }
+      ],
+      "author": "紹吾",
+      "date": "Jan 29, 2024",
+      "title": "nice teacher, hard test",
+      "comment_content": "Introduction to Accounting",
+      "comment_teaching": "教得很好，上課速度適中，基本上不會的都可以直接問他，他也會一直調查我們的意見並針對課程內容進行調整。",
+      "comment_grading": "有點忘了，大概是midterm30%, final 50%,總之期末考很重要。",
+      "comment_workload": "還行。大概一兩個禮拜就會有一個assignment,可以嘗試無限次，對複習來說蠻有用的。",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "h3zBejUuL8UVLShspRlbMuqS1x1n6jZb",
       "semester": "2022-23 Fall",

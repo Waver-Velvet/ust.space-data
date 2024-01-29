@@ -22,11 +22,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"1021\" href=\"/review/COMP1021\" target=\"_blank\">COMP 1021</a>",
-    "rating_content": 4.03,
+    "rating_content": 4.04,
     "rating_teaching": 4.09,
-    "rating_grading": 3.32,
-    "rating_workload": 3.18,
-    "review_count": 68,
+    "rating_grading": 3.33,
+    "rating_workload": 3.2,
+    "review_count": 69,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -57,7 +57,7 @@
       {
         "id": 373,
         "name": "JIA, Jia",
-        "count": 5
+        "count": 6
       },
       {
         "id": 1477,
@@ -87,6 +87,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "22uGmTLVNxu29kuSUzsfKfIiBQJh9wbN",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 373,
+          "name": "JIA, Jia",
+          "rating": 1
+        }
+      ],
+      "author": "Preyoung",
+      "date": "Jan 29, 2024",
+      "title": "",
+      "comment_content": "Some really basic function of Python<br />Including: Print Input +-*/ If For List<br />All of these concepts are so so so easy that you can just spend 30min per week on this class.",
+      "comment_teaching": "Understandable accent and you can also ask him questions in Putonghua. His teaching style is very boring and the PPT always contains all the things you need to know. So you can study on your own.",
+      "comment_grading": "There is a lab every week which you are required to attend.<br />And there is a weekly video with some exercises.(The video is very helpful )<br />Lab 20%<br />Exercise and video 20%<br />Final exam 60%<br />Unlike the easy classes and exercises,the exam is really hard and contains a lot of details of concepts. If you don&#039;t make more effort, I&#039;m sure that you cannot finish the paper.",
+      "comment_workload": "As I said earlier, 30 mins per week will be enough for you understand the concepts and give you a good feeling.But if you try to get A in this course, you need to do more exercises than the ones he gives to you.<br /><br />PS:This course only last for half semester, choose ISOM 2600 with it!",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "3TTBCvcFdVRU8cnAGlfNEwAg8lKdkxOA",
       "semester": "2023-24 Fall",

@@ -15,11 +15,11 @@
     "prerequisites": "(Level 3 in HKDSE English Language with all papers at or above level 3) OR (Level 4 in HKDSE English Language) OR (Level 5 in HKDSE English Language with some papers but not all at or above level 4) OR (Overall bandscore of 6.0 in IELTS) OR (Overall bandscore of 6.5 in IELTS with some but not all subscores at or above 6.0) OR equivalence of the above",
     "corequisites": "",
     "exclusions": "LANG 1002, LANG 1003",
-    "rating_content": 3.06,
-    "rating_teaching": 4.09,
-    "rating_grading": 3.11,
-    "rating_workload": 3.69,
-    "review_count": 35,
+    "rating_content": 3.11,
+    "rating_teaching": 4.14,
+    "rating_grading": 3.16,
+    "rating_workload": 3.7,
+    "review_count": 37,
     "single_review": false,
     "enrollment_status": 1,
     "is_favourited": false,
@@ -28,13 +28,13 @@
     "contributor_has_more": false,
     "instructors": [
       {
-        "id": 421,
-        "name": "TANG, Eunice",
-        "count": 2
-      },
-      {
         "id": 467,
         "name": "CHONG, Doreen",
+        "count": 3
+      },
+      {
+        "id": 421,
+        "name": "TANG, Eunice",
         "count": 2
       },
       {
@@ -88,6 +88,11 @@
         "count": 1
       },
       {
+        "id": 1706,
+        "name": "JHAVERI, Aditi",
+        "count": 1
+      },
+      {
         "id": 1711,
         "name": "MC RAE, Shawn",
         "count": 1
@@ -105,6 +110,76 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "B9q2xTXLLlbF0BuAbmMPOWBK4ATIl0G8",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 467,
+          "name": "CHONG, Doreen",
+          "rating": 1
+        }
+      ],
+      "author": "Cynthia__1",
+      "date": "Jan 29, 2024",
+      "title": "",
+      "comment_content": "Unit 1 – Language and Learning at University<br />• Develop effective language and learning habits and practices<br />• Evaluate useful resources and learning strategies<br />• Select appropriate spoken and written language and style for the audience and task<br />Unit 2 – Exploring the future<br />• Develop constructive discussion skills<br />• Develop and support central ideas and theses<br />• Utilise multiple perspectives in academic discussions<br />Unit 3 - Exploring future problems and solutions<br />• Exploring different perspectives in writing<br />• Produce coherent texts<br />• Paraphrase and summarise sources<br />• Select appropriate language and style for academic writing<br />• Produce organised and coherent short speeches<br />• Use appropriate vocal strategies",
+      "comment_teaching": "Doreen is friendly and supportive. She used to encourage student s to engage more in class.",
+      "comment_grading": "I think it is fair grade, the grading depends on your efforts.",
+      "comment_workload": "Normal workload and easy to afford.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "8da3Q7fLZDR5nCRSFTn5EOBViRgkhHH1",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1706,
+          "name": "JHAVERI, Aditi",
+          "rating": 1
+        }
+      ],
+      "author": "RCzzzz",
+      "date": "Jan 29, 2024",
+      "title": "",
+      "comment_content": "Boring and useless but relaxing atmosphere.",
+      "comment_teaching": "Important to meet a good professor who teaches well and gives good grades.",
+      "comment_grading": "Although I did not do well on the first speaking task 1, I performed better in the rest of the tasks so that I got an A range in the end. Once again, choosing a good professor is super important.",
+      "comment_workload": "Lighter than expected (take reference from other comments). Yet, the presentation date of second speaking task is near to the end of the semester, which has other deadlines of other courses. So, please manage your time well.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 2,
+      "vote_count": 2,
+      "comment_count": 1,
+      "attachments": []
+    },
     {
       "hash": "Ij3sEp2axkN9eJgY0rOPg3hHM7BKXD0i",
       "semester": "2023-24 Fall",
@@ -228,8 +303,8 @@
       "has_attendance": true,
       "has_reading": false,
       "has_presentation": true,
-      "upvote_count": 0,
-      "vote_count": 0,
+      "upvote_count": 1,
+      "vote_count": 1,
       "comment_count": 0,
       "attachments": []
     },
@@ -1035,7 +1110,7 @@
           "rating": 1
         }
       ],
-      "author": "bman",
+      "author": "The OMG Guy",
       "date": "Nov 28, 2023",
       "title": "2023-24 Fall",
       "comment_content": "I think the content is quite boring<br /><br />Learning Core:<br />(Language Form and Accuracy) Written Language (WL) and Spoken Language (SL) -<br />including selecting language appropriate for the audience, context, and purpose;<br />expressing ideas appropriately with range and complexity in vocabulary and sentence<br />structures; recognizing errors; proofreading and editing skills; and developing clear<br />pronunciation.<br />(Language Meaning) Substance (SU) and Coherence (CO) – including strategies for<br />elaborating, substantiating, and organizing ideas logically in speaking and writing.<br />(Language Use) Interaction (IN) – including strategies to keep a discussion going and<br />move it forwards constructively.<br />(Lifelong Learning) Being an Effective Learner (EL) – including proactive practices such as<br />goal setting, identifying language strengths and weaknesses, evaluating learning<br />strategies and resources, self-reflection, and seeking, giving, and acting on feedback.<br /><br />Assessment:<br /><br />Assignment\tDetails\tWeighting \tAssessed CAfLs\tAssessment Times/Due dates<br />Speaking Task 1 (ST1)\tSpoken Monologue (1.5min) and Group Discussion (12min or 16min depending on group size) \t25%\tSL, IN\tWeek6-7<br />Writing Task (WT)\tShort Essay \t35%\tWL, CO, SU\tFri 24 Nov (by 5pm)<br />Speaking Task 2 (ST2)\tShort Speech\t20%\tSL, CO\tWeek12-13<br />SDL Tasks and Activities \t<br />(1) 4 x Self Directed Learning Tasks (12%)<br /><br />(2) 1 x Self Directed Learning Elective (3%)<br /><br />(3) Reflective Task (RT) - Written (5%)<br /><br />20%\tGraded on completion \t<br />SDL Tasks (Throughout semester see here)<br /><br />Elective by Fri 10 Nov<br /><br />RT by 5pm, Fri 1 Dec",
@@ -1055,8 +1130,8 @@
       "has_attendance": true,
       "has_reading": false,
       "has_presentation": false,
-      "upvote_count": 0,
-      "vote_count": 1,
+      "upvote_count": 1,
+      "vote_count": 2,
       "comment_count": 0,
       "attachments": []
     },

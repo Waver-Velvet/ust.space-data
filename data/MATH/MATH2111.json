@@ -41,10 +41,10 @@
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2121\" href=\"/review/MATH2121\" target=\"_blank\">MATH 2121</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2131\" href=\"/review/MATH2131\" target=\"_blank\">MATH 2131</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2350\" href=\"/review/MATH2350\" target=\"_blank\">MATH 2350</a>",
     "rating_content": 4.02,
-    "rating_teaching": 3.69,
+    "rating_teaching": 3.7,
     "rating_grading": 3.96,
     "rating_workload": 4.2,
-    "review_count": 121,
+    "review_count": 122,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -68,14 +68,14 @@
         "count": 12
       },
       {
-        "id": 537,
-        "name": "WONG, Ka Yue",
+        "id": 527,
+        "name": "KU, Yin Bon",
         "count": 11
       },
       {
-        "id": 527,
-        "name": "KU, Yin Bon",
-        "count": 10
+        "id": 537,
+        "name": "WONG, Ka Yue",
+        "count": 11
       },
       {
         "id": 534,
@@ -170,6 +170,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "QztjKvcS3vFkygoEXvAGkFtLTGv7t2q3",
+      "semester": "2022-23 Summer",
+      "instructors": [
+        {
+          "id": 527,
+          "name": "KU, Yin Bon",
+          "rating": 1
+        }
+      ],
+      "author": "Anson0816",
+      "date": "Jan 29, 2024",
+      "title": "Teaching quality is good",
+      "comment_content": "The course is the easier version of linear algebra. The topics are including: simple vector algebra, Gaussian elimination, (reduced) row echelon form, matrix inverse, eigen vector &amp; values, matrix diagonization, column space, Kernel, basis, inner product space, Gram–Schmidt process, least square method and etc.",
+      "comment_teaching": "Dr Ku&#039;s (the instructor) teaching quality is really good and interactive. He applied interactive lecture notes for teaching, and he also asked us to do some easy classwork to help us to remember the concept easily.<br /><br />On the other hand, the TA - Mr Lau Hing Sang is the best TA I&#039;ve ever met in HKUST. He provided printed tutorial worksheets for us and wrote remarks of the related theoms when he was teaching us to do the questions. Moreover, he also provided detail revision tips and clear handwrite notes for final exam.",
+      "comment_grading": "Grading is normal",
+      "comment_workload": "Lectures: 9:00am - 12:20pm on Monday, Wednesday and Friday<br />Tutorial classes: 1:00pm - 1:50pm on Monday, Wednesday and Friday<br />It may hurry for someone!<br /><br />4 webworks need to do in total<br />20 questions in each assignment on average<br /><br />Weighting of the assesments<br />4 webwork assignments : 25%<br />final exam: 75%<br />There were 6 long questions in the exam. It was an open exam and calculator was allowed.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "JDuyHkeN2JdXPNkUlLfv8tRwcOJjHK0i",
       "semester": "2023-24 Fall",

@@ -43,7 +43,7 @@
     "rating_teaching": 3.36,
     "rating_grading": 3.46,
     "rating_workload": 3.87,
-    "review_count": 739,
+    "review_count": 740,
     "single_review": false,
     "enrollment_status": 1,
     "is_favourited": false,
@@ -59,7 +59,7 @@
       {
         "id": 539,
         "name": "CHANG, Huai-Liang",
-        "count": 48
+        "count": 49
       },
       {
         "id": 902,
@@ -319,6 +319,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "hSELCJb6Csquz5JKJd5UjBm2Z72qjBup",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 539,
+          "name": "CHANG, Huai-Liang",
+          "rating": 1
+        }
+      ],
+      "author": "Li Zhuoqun",
+      "date": "Jan 29, 2024",
+      "title": "NO WORKLOAD",
+      "comment_content": "If you look at the syllabus yourself, it&#039;s probably just teaching calculus up to the first type of commutative integral method, and not much in between, so it feels like there&#039;s so little to teach and not much to learn. Of course I&#039;m not saying this because I&#039;m good, instead it&#039;s just really easy unless you&#039;re really not learning at all or really not suited for math, then it&#039;s still recommended that you take fewer math classes in the future.",
+      "comment_teaching": "I don&#039;t know how the teaching is, because usually you don&#039;t have to go to class after reading the NOTE. In this free time you can prep for linear algebra or calculus 2, or you can go sit in on 1023, not recommended to read novels to pass the time like I did and now regret it very much.",
+      "comment_grading": "MIDTERM = 79%（SAD）<br />FINAL = 98%<br />HOMEWORK = 100%<br />Midterm lost an extra 15 points due to filling out the wrong answer key and ended up with only 79 points. But at the end of the semester, I got 98, so I ended up with an A. The midterm and final scores were both 100. I remember that at the end of the semester, you were given three hours to answer the questions, and most of the people only took 2 hours to finish writing them. But you don&#039;t have to worry about being bored and irritated when you&#039;re done because you can turn in your paper early when there&#039;s 40min left in the exam.",
+      "comment_workload": "Hardly. It&#039;s just a little time consuming to do homework.",
+      "rating_content": 2,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "e8M91VqvWFmzjTPHe69edSEykRscY8bh",
       "semester": "2023-24 Fall",
@@ -1830,7 +1865,7 @@
       "date": "Dec 21, 2023",
       "title": "I love Chang Huai Liang",
       "comment_content": "DSE M2 with some extra stuff, can refer to other reviews (actually easier than M2 imo if you&#039;ve done enough practice)<br />Mainly self-study, the lectures are pretty useless",
-      "comment_teaching": "Heavy Taiwanese accent, hard to understand<br />Impossible to see what he’s writing on the blackboard as he writes from the leftmost side to the rightmost side, you need an iPhone 16 pro max to see everything he has written<br />Will scold you for talking in class (bro thinks he&#039;s teaching in high school)",
+      "comment_teaching": "Heavy Taiwanese accent, hard to understand<br />Impossible to see what he’s writing on the blackboard as he writes from the leftmost side to the rightmost side, you need an iPhone 16 pro max to zoom in everything he has written<br />Will scold you for chatting in class (bro thinks he&#039;s teaching in high school)",
       "comment_grading": "Absolute grading: F &lt; 40% &lt; D &lt; 50% &lt; C&#039;s &lt; 70% &lt; B&#039;s &lt; 85% &lt; A&#039;s<br /><br />10% WebWork homework<br />35% Midterm<br />55% Final<br /><br />The absolute grading is harsh but fair (everyone fucks up equally)<br /><br />Overall mean=70.1/100 (merely B-)<br /><br />Reference for DSE students:<br />Me: Maths 5* M2 5 → A- (85.3)<br /><br />btw the difficulty of final will adjust based on the overall performance of midterm. In this sem, the midterm is quite difficult (mean 64.09) so they made the final easier (mean 69.26)",
       "comment_workload": "Light workload, in total 9 WebWork assignments, about 10 questions each<br />Not a problem to finish them all unless you’re a deadline fighter",
       "rating_content": 4,

@@ -18,11 +18,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"BIEN\" data-code=\"2410\" href=\"/review/BIEN2410\" target=\"_blank\">BIEN 2410</a>",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"4810\" href=\"/review/ELEC4810\" target=\"_blank\">ELEC 4810</a>",
-    "rating_content": 4.33,
+    "rating_content": 4.5,
     "rating_teaching": 5,
-    "rating_grading": 4.67,
-    "rating_workload": 4.33,
-    "review_count": 3,
+    "rating_grading": 4.75,
+    "rating_workload": 4.5,
+    "review_count": 4,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -33,11 +33,46 @@
       {
         "id": 1217,
         "name": "WONG, Tsz Wai",
-        "count": 2
+        "count": 3
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "v8pKE5A2Z9iBufo7MQVBeSN1YiooFHM0",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1217,
+          "name": "WONG, Tsz Wai",
+          "rating": 1
+        }
+      ],
+      "author": "laura_ducret",
+      "date": "Jan 29, 2024",
+      "title": "Interesting and &quot;Feeling-Good&quot; Class!",
+      "comment_content": "The class material is separated in two sections : <br />1. Bioimaging - until midterm<br />2. Bioinstrumentation - after midterm<br /><br />For bioimaging, you go over : Geometrical optics rays, optical microscopy, wave optics, gaussian beam optics, OCT, fluorescence and non-linear microscopy, fiber endoscopy and photoacoustic tomography<br /><br />For bioinstrumentation : fundamentals of electric circuit, bioelectric phenomena, EEG, ECG &amp; EOG, flow cytometry, blood glucose sensors, pulse oximetry, DNA microarray<br /><br />However, Professor Wong is really flexible in case there is not enough time to do everything until the end, if we were a bit late at a point, he won&#039;t try to rush through the rest of the material which was really enjoyable.",
+      "comment_teaching": "I don&#039;t think I ever met a Professor like Terence before. I found the overall topic interesting, but even if there were little parts where it would have been easier to lose interest or focus during the lecture, it was just not possible in this case due to his teaching pedagogy and interest in the subject. <br /><br />The way Terence is teaching is very dynamic, inclusive, asking us a lot of questions to keep us following him and what I found really nice, was that he will be able to know which parts can be a bit harder than others, will take time to find words to explain it and will make sure it&#039;s clear for us before moving further. <br /><br />Terence told us that he loves teaching and the least I can say is that you can feel it. He is so interested and motivated about the topics he is teaching that every single class would feel like a great time to learn new things. <br /><br />Regarding teaching, I cannot finish this without talking about his main TA, Raphael, who was always there for every lecture so you could easily go ask him questions after class and was teaching the tutorials. As a few years ago, Raphael followed the same class, he knows what can be hard for us to understand and will make the most to explain us in an understanding way. <br /><br />Overall, I have nothing to complain about this teaching team, thank you to both of you!",
+      "comment_grading": "The grading is based (at least for Fall 2023) as following:<br /> <br />- 10% participation : through answering questions and an in-class quizz once or twice throughout the semester<br />- 15% homework: there are three homework always following a tutorial session which really help you solving the homework so it shouldn&#039;t be too hard to get points for this part<br />- 35% midterm examination: open-book closed-internet in class exam over bioimaging topic<br />- 15% take-home final exam: you have 24 hours to do it during study break<br />- 25% group project (2/3 people) : small report about a core technology in bioengineering, biomedical that you like and a presentation where you put yourself in the CEO and CTO shoes and pitch &quot;your&quot; technology to other students",
+      "comment_workload": "I personally think that the workload is totally fine. There are only three tutorials throughout the semester, always before an homework deadline to help us do it. They are not very long and can easily be done if you followed the lecture and went to the tutorial. <br /><br />It is important to review the material before the midterm but as it is open-book, you don&#039;t need to lose time learning by heart the material which was really nice. The take home exam can be done with everything and won&#039;t take over three hours to do probably.<br /><br />Regarding the project, the workload is really fine. The report is only two pages long and the pitch should last for three minutes. <br /><br />In conclusion, even though that was not the class I had with the heaviest workload, that&#039;s probably the class where I learnt the most!",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "2X6QeAgiZiLrQlArXS1uPYbqn4VImbiB",
       "semester": "2020-21 Fall",

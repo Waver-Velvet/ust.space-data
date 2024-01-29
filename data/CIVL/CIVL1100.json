@@ -35,9 +35,9 @@
     "exclusions": "",
     "rating_content": 4.15,
     "rating_teaching": 3.75,
-    "rating_grading": 4.64,
+    "rating_grading": 4.63,
     "rating_workload": 4.24,
-    "review_count": 184,
+    "review_count": 185,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -58,7 +58,7 @@
       {
         "id": 1171,
         "name": "LEUNG, Anthony",
-        "count": 70
+        "count": 71
       },
       {
         "id": 61,
@@ -93,6 +93,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "DRW58s9v3cZSmmekLEsGM1uIpdXg6oML",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1171,
+          "name": "LEUNG, Anthony",
+          "rating": 1
+        }
+      ],
+      "author": "LeoYu",
+      "date": "Jan 29, 2024",
+      "title": "easy stuff but need to recite a lot",
+      "comment_content": "The content are not hard to follow and understand, the calculation stuff are not hard too. Even if you don&#039;t have any experience in phy/chem, it should still be ok for you.<br />The final consist of 80 mc but only 2-3 of them are calculation related, which sucks for me since I am bad with reciting stuff. Even the seemingly unimportant stuff in the first lecture of the add/drop period would appear in final so be prepared and recite literally every single things in the lecture notes.",
+      "comment_teaching": "Didn&#039;t pay too much attention to the other professors but Anthony is quite good",
+      "comment_grading": "homework and lab report is easy to get very high mark for everyone, so final has to have nice result to get nice grade<br /><br />hw is all about calculation and lab report is long question+the using the data you got in lab<br /><br />I got B- with almost full mark in hw and lab report but the final really fked me hard",
+      "comment_workload": "light workload but you still have stuff to do other than just attending lecture<br />1 assignment each week<br />2 lab need to attend<br />2 lab report<br />no mid term<br />final 80 mc",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "D85MvgPBJGT0VjFxTEjy7qaVP7bP3Nlz",
       "semester": "2023-24 Fall",

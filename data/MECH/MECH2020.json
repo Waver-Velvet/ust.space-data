@@ -23,11 +23,11 @@
     "prerequisites": "(<a class=\"course-link\" data-subject=\"MATH\" data-code=\"1012\" href=\"/review/MATH1012\" target=\"_blank\">MATH 1012</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1013\" href=\"/review/MATH1013\" target=\"_blank\">MATH 1013</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1023\" href=\"/review/MATH1023\" target=\"_blank\">MATH 1023</a>) AND (<a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1111\" href=\"/review/PHYS1111\" target=\"_blank\">PHYS 1111</a> OR <a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1112\" href=\"/review/PHYS1112\" target=\"_blank\">PHYS 1112</a> OR <a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1312\" href=\"/review/PHYS1312\" target=\"_blank\">PHYS 1312</a>)",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"2110\" href=\"/review/CIVL2110\" target=\"_blank\">CIVL 2110</a>",
-    "rating_content": 4.17,
-    "rating_teaching": 4.13,
-    "rating_grading": 4.43,
-    "rating_workload": 4.43,
-    "review_count": 30,
+    "rating_content": 4.16,
+    "rating_teaching": 4.16,
+    "rating_grading": 4.42,
+    "rating_workload": 4.42,
+    "review_count": 31,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -38,7 +38,7 @@
       {
         "id": 565,
         "name": "MA, Lok Wang",
-        "count": 24
+        "count": 25
       },
       {
         "id": 829,
@@ -48,6 +48,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "QYSJzs7lLeA7fnv0ro7DxCmneG3PP0wN",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 565,
+          "name": "MA, Lok Wang",
+          "rating": 1
+        }
+      ],
+      "author": "miles leung",
+      "date": "Jan 29, 2024",
+      "title": "",
+      "comment_content": "Most of them are calculating. Talking about force acting on an object, also use some equation to solve about the mathematical problem",
+      "comment_teaching": "The tutor teach well but there is no online video,so you must attend face to face lesson to know what is going on",
+      "comment_grading": "Quite good, three quiz are below mean a little bit, final exam didn’t release marks but not sure about the answer, at last get a B+.",
+      "comment_workload": "Only a few assignment and there are three quizzes replacing the midterm. Attend the lesson and you will know how to do the question",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "b39GBkXbM12QaAM0tct9s72cocknpTOL",
       "semester": "2022-23 Fall",

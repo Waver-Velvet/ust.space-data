@@ -39,7 +39,7 @@
     "rating_teaching": 3.91,
     "rating_grading": 3.99,
     "rating_workload": 4.15,
-    "review_count": 613,
+    "review_count": 614,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -65,7 +65,7 @@
       {
         "id": 1409,
         "name": "XIA, Lucy",
-        "count": 52
+        "count": 53
       },
       {
         "id": 385,
@@ -165,6 +165,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "b7wxCXU7GCAXvqydK2gPy623Fo5DkyAd",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1409,
+          "name": "XIA, Lucy",
+          "rating": 1
+        }
+      ],
+      "author": "kevin_punpoon",
+      "date": "Jan 29, 2024",
+      "title": "Interesting course",
+      "comment_content": "Many content about graph, includes many topics throughout the semester. Mostly aboutqudratic and conceptual graphing. Not much calculation.",
+      "comment_teaching": "Lucy is a very nice professor; she will stay after class to answer all your questions. As a Chinese professor, she doesn&#039;t have an accent. Also, she posts recordings on canvas.",
+      "comment_grading": "Good grading; I spent around 10 hours reviewing the course and did one past paper for the final. Got A-. Theres a group project of 4 people, and you guys will be submitting 3 assignments together, which consist of 25%.",
+      "comment_workload": "The three at-home assignments have around eight questions each. which takes around 5 hours in total.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "I6WBI1ptmMPVNeXhtSGx80vWLfPyRctY",
       "semester": "2023-24 Fall",
