@@ -23,11 +23,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 4.72,
-    "rating_teaching": 4.39,
-    "rating_grading": 4.56,
-    "rating_workload": 4.33,
-    "review_count": 18,
+    "rating_content": 4.74,
+    "rating_teaching": 4.42,
+    "rating_grading": 4.58,
+    "rating_workload": 4.32,
+    "review_count": 19,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -48,11 +48,46 @@
       {
         "id": 1566,
         "name": "LIU, Y.S. Marshal",
-        "count": 2
+        "count": 3
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "7kUKbeJy0MbGYVjz0ap4TeDu3EKhR5fc",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1566,
+          "name": "LIU, Y.S. Marshal",
+          "rating": 1
+        }
+      ],
+      "author": "ffffffffff",
+      "date": "Jan 30, 2024",
+      "title": "Hard course, but worth it",
+      "comment_content": "Only two main lessons, as written below.<br /><br />1. Material Balance<br />2. Energy Balance<br /><br />Honestly enjoyed the content a lot, but it is challenging.",
+      "comment_teaching": "Marshal is very passionate and knowledgable about the course. He is very nice and is very eager to answer your questions. TAs are helpful as well. His accent is quite strong, but once you get used to it it shouldn&#039;t be much of a problem. He is also happy to repeat certain parts of the discussion if you ask.",
+      "comment_grading": "Grading is quite good for the course. It is relative(?) grading; kind of absolute but dependent on the class&#039; overall performance.<br /><br />Participation (5%): No idea, but he says if he knows your name by the end of the semester, you get full marks. Attendance not required but he will definitely notice if you cut the class frequently.<br /><br />Assignments (10%): 8.9/10 (2 points per assignment, 1 mark is if you show up to submit your assignment and if you actually tried)<br /><br />Quizzes (10%): (open notes, ChatGPT, etc.)<br />15/15<br />11/15<br />14/15<br />10/15<br /><br />Group Project (15%): 9/10<br /><br />Final (60%): 60/100 (high was 72/100. It is a notoriously hard final. Study very hard. Though it is open notes, ChatGPT, etc., which is nice)<br /><br />Still finished with an A even though I messed up the final.",
+      "comment_workload": "Assignments take a long time to finish, I usually needed the TAs help as well. Quizzes are usually 15-20 minutes each, so does not take much time. Start the group project early, or you will regret it (like I did). <br /><br />I also recommend studying after every chapter or you will regret it by the time it is finals season.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "UESLTHkSeLREXw4Eo4ERAwojz1qHgl6J",
       "semester": "2022-23 Fall",

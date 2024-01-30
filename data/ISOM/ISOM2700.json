@@ -36,7 +36,7 @@
     "rating_teaching": 4.48,
     "rating_grading": 4.29,
     "rating_workload": 4.27,
-    "review_count": 318,
+    "review_count": 319,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -95,13 +95,13 @@
         "count": 12
       },
       {
-        "id": 396,
-        "name": "YU, Man",
-        "count": 7
-      },
-      {
         "id": 1095,
         "name": "GURUMURTHI, Suryanarayanan",
+        "count": 8
+      },
+      {
+        "id": 396,
+        "name": "YU, Man",
         "count": 7
       },
       {
@@ -122,6 +122,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "lP5zXJqRib5seX09tnLr8QVjp3hpUZa8",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1095,
+          "name": "GURUMURTHI, Suryanarayanan",
+          "rating": 1
+        }
+      ],
+      "author": "santan",
+      "date": "Jan 31, 2024",
+      "title": "",
+      "comment_content": "Participation and Quizzes 20<br />Midterm exam 35<br />Final exam 45<br />Total 100<br /><br />Part A: Managing Business Process Flow<br />Module 1<br />September 5, 7<br />Operations Strategy<br />● What is Operations Management?<br />● Elements of Operations Strategy<br />● Objectives for Operations Management<br />● Operational Performance Measures<br />● Order Winning vs Order Qualifying Measures<br />● Module 1 Quiz due Sept 8th<br />Module 2<br />September 12, 14<br />Process Selection and Product Design<br />● Different Process Types and Uses<br />● Product Design Activities<br />● New Product Development Strategy<br />● Process Modularity and Design<br />● Service Operations and Service Strategy<br />● Service Profit Chain<br />● Module 2 Quiz Due Sept 15th<br />Module 3<br />September 19, 21<br />Setting up Capacity and Related Optimization decisions<br />● Capacity dimensions and Bottlenecks<br />● Capacity Breakeven Analysis<br />● Decision tree method and value of perfect information<br />● Linear programming technique<br />● Product mix optimization problems<br />● Module 3 quiz due Sept 22nd<br />Module 4,5<br />September 26, 28<br />Process Flow Measures<br />● Defining capacity in terms of flow<br />● Batch versus unit processing examples<br />● Economies of scale in processes<br />● Cycle Time of a process<br />● Module 5 Spreadsheet Exercise Due Sept 29th<br />Module 5 and 6<br />Oct 3, 5<br />Process Flow and Bottleneck Analysis<br />● Little’s Law<br />● Bottleneck management<br />● Impact of product mix on capacity<br />● Project Lead Times<br />● Module 5B Quiz Due Oct 6th<br />Module 6<br />Oct 10, 12<br />Managing waiting lines and Process Delays<br />● Psychology of waiting<br />● Waiting line models and simulation<br />● Queue configuration problems<br />● Module 6 Spreadsheet Exercise Due Oct 13th<br />Oct 17th (Location and Time TBA): Mid-term exam (for part A only, 40-45 questions, 1 hour<br />and 45 minutes). Best 35 will be taken for the midterm score if there are 40 questions, and so<br />on.<br />Exam will be administered in person.<br />Part B: Matching Supply and Demand<br />Module 7<br />Oct 24, 26<br />Demand management and forecasting<br />● Qualitative and quantitative approaches<br />● Basic time series forecasting models<br />● Forecasting errors<br />● Module 7 Spreadsheet Exercise due Oct 27th<br />Module 8<br />Oct 31, Nov 2<br />Inventory management<br />● Inventory classification and management needs<br />● Basic inventory models: Order quantity and reorder point<br />● Safety stock and service levels<br />● Module 8A Spreadsheet Due Nov 3rd<br />Module 8 (contd.)<br />Nov 7, 9<br />Managing supply for short life cycle products with uncertain demand<br />● The newsvendor problem<br />● Revenue management with capacity controls<br />● Capacity Reservation, protection levels<br />● Module 8B Spreadsheet Due Nov 10th<br />Module 9 and 10<br />Nov 14, 16<br />Managing Quality<br />● Quality management<br />● Garvin’s Dimensions of Product Quality<br />● The Gap Model of Service Quality<br />● Acceptance sampling plan<br />● Statistical process control<br />● Process capability and six sigma quality<br />● Module 10 Spreadsheet Exercise Due Nov 17th<br />Module 11<br />Nov 21, 23<br />Supply chain management and Lean Operations<br />● Supply Chain Structure and Behavior<br />● Supply Chain Coordination<br />● Revenue management in supply chains<br />● Major elements of just-in-time and Kanban systems<br />● Sustainability Case Examples<br />● Module 11 Supply Chain Revenue Management<br />Spreadsheet Due Nov 24th<br />Review and Buffer<br />Time<br />Nov 28 and Nov 30<br />● Any pending materials from previous weeks<br />● Final Exam Review (Pre-recorded Discussion) during last<br />week of classes",
+      "comment_teaching": "his teaching is very very very boring for me because of his speaking tone...<br />his youtube vidoes are very useful",
+      "comment_grading": "COURSE GRADE: In determining the final course grade, your instructor will consider the DISTRIBUTION: following grade distribution measured in points achieved overall. <br />A 90-100 <br />B 80-90 <br />C 70-80 <br />D 60-70 <br />F 60 and below<br /><br />i reach the upper quartile in midterm and above mean in the final.<br />final grade: A-<br />fyi: i miss many attendance",
+      "comment_workload": "almost 0 workload<br />just few quizzes and spreadsheet tasks",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "vETIJnE2iK3MIpLK6lbwTV9DzB6LApg7",
       "semester": "2023-24 Fall",

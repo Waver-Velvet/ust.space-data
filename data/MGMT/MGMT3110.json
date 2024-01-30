@@ -24,11 +24,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"MGMT\" data-code=\"2110\" href=\"/review/MGMT2110\" target=\"_blank\">MGMT 2110</a>",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 3.93,
-    "rating_teaching": 3.87,
-    "rating_grading": 4.07,
-    "rating_workload": 4.07,
-    "review_count": 15,
+    "rating_content": 4,
+    "rating_teaching": 3.88,
+    "rating_grading": 4.13,
+    "rating_workload": 4.13,
+    "review_count": 16,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -44,11 +44,46 @@
       {
         "id": 589,
         "name": "MIHOREAN, Mark Andrew",
-        "count": 5
+        "count": 6
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "liFnj7grCjc7kWPdH7Kv13ubUtGvE6K0",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 589,
+          "name": "MIHOREAN, Mark Andrew",
+          "rating": 1
+        }
+      ],
+      "author": "nyk",
+      "date": "Jan 31, 2024",
+      "title": "",
+      "comment_content": "basically revise the slides and do your project <br />reading materials every week and have in class discussion afterwards <br />Basic knowledge in how to be an HR",
+      "comment_teaching": "many in-class interaction <br />prof is interesting but sometimes talks a bit slow <br />sometimes lesson will show things that is not included in the teaching slides",
+      "comment_grading": "easy to get good grades<br />easy projects and exams",
+      "comment_workload": "final exam and 2 projects <br />only need to have 1 presentation<br />write essay in final<br />need to take attendance every lesson and count participation<br />just raise hand and answer some easy questions",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "vJKBxlYBcEO1DKAbN0vz2y1AeZnWy1bx",
       "semester": "2021-22 Spring",

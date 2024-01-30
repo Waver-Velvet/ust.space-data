@@ -35,10 +35,10 @@
     "corequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"1014\" href=\"/review/MATH1014\" target=\"_blank\">MATH 1014</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1024\" href=\"/review/MATH1024\" target=\"_blank\">MATH 1024</a>",
     "exclusions": "",
     "rating_content": 4.02,
-    "rating_teaching": 3.77,
-    "rating_grading": 3.77,
-    "rating_workload": 3.55,
-    "review_count": 44,
+    "rating_teaching": 3.78,
+    "rating_grading": 3.78,
+    "rating_workload": 3.53,
+    "review_count": 45,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -49,7 +49,7 @@
       {
         "id": 64,
         "name": "KATAFYGIOTIS, Lambros",
-        "count": 34
+        "count": 35
       },
       {
         "id": 87,
@@ -64,6 +64,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "JPi9DEVjAng1rwZ41BpNkjWqMB1wasCK",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 64,
+          "name": "KATAFYGIOTIS, Lambros",
+          "rating": 1
+        }
+      ],
+      "author": "Roni",
+      "date": "Jan 30, 2024",
+      "title": "比想象中good grade",
+      "comment_content": "-----BEFORE MT------------ <br />Module 1: Understanding Forces and Moments<br /> Module 2: Equivalent Systems of Forces and Equilibrium<br />Module 3: Stability and Static Determinacy<br />----- AFTER MT--------------<br />Module 4: truss<br />Module 5: Area properties and Moments of Inertia<br />Module 6: Internal Force Diagrams<br />Module 7: Static Analysis of a Structure",
+      "comment_teaching": "林寳算係有熱誠想教好依個course，所以canvas上已經有曬片，上堂希望有人問問題，落左堂upload notes等等；不過我自己覺得讀依個course其實睇曬canvas上既片其實都足夠，因爲拒midterm前每堂大約講3條片既content (each video around 5-10 mins mostly)，midterm 後每堂大約講5-6條片，所以會建議上之前睇定，到時候上堂做咩就可以按自己想做咩(P.S. 如果唔明就真心建議坐前D去聼，後面聼唔清講咩，同埋除非你想答問題都唔好坐最後一行)，甘片同lecture既分別係lecture more examples，所以如果你選擇睇片唔聼既話，都建議你睇返notes&#039; extra examples",
+      "comment_grading": "拒會用Quiz黎take attendance (mm計分)，無去就F人，不過我無去一次Quiz，4次lectures都無F我，所以就見仁見智:)<br />7 assignment + 1 midterm + 1 final<br />有兩個grading scheme，final better then final weighs more, wise versa<br />除左midterm之外，其餘都無公佈分數&amp; statistics<br />我就因爲有sources，所以所有assignments應該滿分<br />Miderm:<br />mean: 43.26/100 sd: 14.02 me: 48/100<br />結果:攞B+ (p.s. 林寳派龜真的很慢，我一月幾先收到，而我predict自己食C range，至於原因係workload講)",
+      "comment_workload": "Assignments:<br />一開始可以自行handle，去到中後期真心要花D時間去做+明點解做完依個step去下一個step，如果唔明你exam gg緊，有source用source，無就靠朋友一齊對<br />Miderm:<br />林寳唔派pastpaper，但係miderm pastpaper係可以幫人溫書，因爲難度差唔多，如果有source就做埋入面Question bank，係midterm 有用<br />去到考midterm個陣，我自己既個人感覺係識做，但係做唔曬，所以建議睇曬題目先決定做邊題:)<br />Final:<br />今次final pastpaper依然建議做，但係如果你今次發現pastpaper都唔識做，甘你gg了，因爲今次既final 比pastpaper難至少一級，同埋依個course後半教既野sources無question bank俾你操，所以pastpaper+林寳最後幾堂好複雜既題+ last 1-2 assignment 一定要知道每題發生緊咩事，每個step點樣黎etc.<br />去到考final個陣，我自己既個人第一感覺係要攞F，我讀ust甘耐第一次做成份卷都好唔肯定，我個陣predict自己攞2x-3x/100<br />////////////<br />TIPS: 林寳話就算答案錯左，但係做既方法岩，都會俾返分<br />PS: workload依家野就因人而異，我就midterm前應該會俾workload C+, final 前workload B，B係因爲少question可以操:/",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "hgb1buVb6PxwRHn3qy6dlLbBACljWLZ5",
       "semester": "2023-24 Fall",

@@ -51,11 +51,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"1021\" href=\"/review/COMP1021\" target=\"_blank\">COMP 1021</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"1022Q\" href=\"/review/COMP1022Q\" target=\"_blank\">COMP 1022Q</a> (prior to 2020-21) OR <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3230\" href=\"/review/ISOM3230\" target=\"_blank\">ISOM 3230</a>",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"1022P\" href=\"/review/COMP1022P\" target=\"_blank\">COMP 1022P</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"3021\" href=\"/review/COMP3021\" target=\"_blank\">COMP 3021</a>, <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3320\" href=\"/review/ISOM3320\" target=\"_blank\">ISOM 3320</a>",
-    "rating_content": 4.47,
-    "rating_teaching": 4.26,
-    "rating_grading": 4.79,
-    "rating_workload": 4.68,
-    "review_count": 19,
+    "rating_content": 4.5,
+    "rating_teaching": 4.3,
+    "rating_grading": 4.8,
+    "rating_workload": 4.7,
+    "review_count": 20,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -66,11 +66,46 @@
       {
         "id": 99,
         "name": "LAM, Gibson",
-        "count": 16
+        "count": 17
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "GRnXI3xwLs6hEC8afjq8J3rg03Ftjp1U",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 99,
+          "name": "LAM, Gibson",
+          "rating": 1
+        }
+      ],
+      "author": "NYKNaomi",
+      "date": "Jan 30, 2024",
+      "title": "",
+      "comment_content": "Basics about Java is included in this course, and the tools used in this course is BlueJ and Greenfoot.",
+      "comment_teaching": "This is an online self paced course, so just read the notes and materials in the canvas. The materials are clear and easy to understand as well.",
+      "comment_grading": "4 Assignment + Final Exam<br />The assignment and exam are easy as it is just a bridging course. As this is an online course, this is an open book and open notes exam.",
+      "comment_workload": "The 4 assignments have the skeleton code and the instruction for the assignment is very clear as well. Hence, the workload is really low compare with other coding course (as it is an 1 credit course of course)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "X2PE5g6SrkHA8hgzlX7SkFqQB7kZigqL",
       "semester": "2023-24 Winter",

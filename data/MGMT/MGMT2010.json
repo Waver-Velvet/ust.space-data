@@ -31,9 +31,9 @@
     "exclusions": "",
     "rating_content": 3.8,
     "rating_teaching": 4.06,
-    "rating_grading": 3.87,
+    "rating_grading": 3.88,
     "rating_workload": 3.45,
-    "review_count": 279,
+    "review_count": 281,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -44,16 +44,16 @@
       {
         "id": 589,
         "name": "MIHOREAN, Mark Andrew",
-        "count": 113
-      },
-      {
-        "id": 591,
-        "name": "HO, Ching Ching Mary",
-        "count": 37
+        "count": 114
       },
       {
         "id": 600,
         "name": "CHOI, Joon Nak",
+        "count": 38
+      },
+      {
+        "id": 591,
+        "name": "HO, Ching Ching Mary",
         "count": 37
       },
       {
@@ -99,6 +99,76 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "34zk9ih7XAgyf7MMduN2wQ85IBVHHKjj",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 600,
+          "name": "CHOI, Joon Nak",
+          "rating": 1
+        }
+      ],
+      "author": "One___",
+      "date": "Jan 30, 2024",
+      "title": "",
+      "comment_content": "Basically group projects and presentations again and again! Remember to answer JC questions as much as possible, it will save your grade with 20% of participation marks!<br />If you suck at presentation very much, good at exam plus memorizing things only and have not much critical thinking, he may not suit you.",
+      "comment_teaching": "Yeahh, so funnn! He respects students and doesn&#039;t overwhelm students with teaching materials! He likes making dad jokes.",
+      "comment_grading": "It depends on your groupmates, beware of freeriders! Despite shitting in mid-terms, because of my groupmates and my active participation in class, I got an A- at last.",
+      "comment_workload": "Mid-term not much to revise, but it is hard because JC wanna challenge us by giving us weird mcs. Essay in mid-term is fine, just follow the guidelines and equally answer every part in the question.<br />Prepare to work till death in your preparation for the projects :)",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "3AqSbkwfdzbUj0dkfskeZ1z8eSldkBZD",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 589,
+          "name": "MIHOREAN, Mark Andrew",
+          "rating": 1
+        }
+      ],
+      "author": "Hugo1",
+      "date": "Jan 30, 2024",
+      "title": "Good grade",
+      "comment_content": "Easy to understand, but some people may think there are nothing to learn because most of the content are just common sense",
+      "comment_teaching": "Mark try his best to make the class fun",
+      "comment_grading": "good grade, very less effort and you can get B+ or above , although i miss homework several time and I just got near 70% attendance, I finally got B+ and I don&#039;t know why. I don&#039;t think my exam result is not that good",
+      "comment_workload": "light , but you need to be careful for finishing the homework on time",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "t4mjp8AQoFbEGaZk6EqaRdbJV10tupLN",
       "semester": "2023-24 Fall",

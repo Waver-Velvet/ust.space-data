@@ -57,7 +57,7 @@
       "rating_teaching": 5,
       "rating_grading": 5,
       "rating_workload": 5,
-      "has_midterm": true,
+      "has_midterm": false,
       "has_final": true,
       "has_quiz": false,
       "has_assignment": false,

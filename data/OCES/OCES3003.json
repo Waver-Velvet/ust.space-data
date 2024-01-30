@@ -16,11 +16,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 5,
+    "rating_content": 4.5,
     "rating_teaching": 5,
     "rating_grading": 5,
     "rating_workload": 4,
-    "review_count": 1,
+    "review_count": 2,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -31,11 +31,46 @@
       {
         "id": 1295,
         "name": "YUNG, Charmaine",
-        "count": 1
+        "count": 2
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "fi2n9e1Ujo2VH3iMtIUOYd8fH1Rjtftk",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1295,
+          "name": "YUNG, Charmaine",
+          "rating": 1
+        }
+      ],
+      "author": "OST student",
+      "date": "Jan 30, 2024",
+      "title": "",
+      "comment_content": "6 Lab + 2 Fieldwork (A quiz before each lab)<br />1 Group Presentation + 1 Project Report<br /><br />Lab Worksheets x 8 (40%) <br />Project Presentation (20%) <br />Written Project Report (20%)<br />Pre-lab quiz (Open-book) (10%)<br />Continuous Assessment (Lab performance) (10%) <br /><br />Full attendance is required. Marks will be deducted if you are being late for lab.",
+      "comment_teaching": "Charmaine and TAs are kind and friendly. They are always willing to answer students&#039; questions.<br /><br />One TA will be assigned to each group. Feel free to email Charmaine or TA if you have any questions about the lab.",
+      "comment_grading": "Good grade but you have to be more conscientious to get A+ or A in this course<br /><br />The pre-lab quiz is very simple so that you can get full mark easily. Just read through the lab manual before lab and highlight some key points.<br /><br />The lab and field report is quite challenging. However, you can still get full marks even you write a few sentences if you don&#039;t make a big mistake.<br /><br />The marking schemes for presentation and written report is not very tight. You can get very good marks if you can show Charmaine that you have worked hard on them.<br /><br />Since everyone can get a high score in their assignments and project, it will be highly competitive to get A+ or A in this course.",
+      "comment_workload": "Workload is a bit too high as you have to submit one lab report almost per week.<br />The last few labs would be more difficult so you have to read the lab procedures carefully. Better read it before class and print it out for your quiz and lab. <br /><br />You will have quite a lot of time (around 1.5 months) to prepare for your 20-min group presentation. Your group have to decide your own topic. It will not be too difficult if you start working on the project early. Don&#039;t worry because Charmaine is not too demanding.<br /><br />The project report is very easy since everything is based on your presentation. If your presentation is comprehensive, you don&#039;t have to do extra research for the report.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "UFzttCipL7thex209tLhPcqXDXRm223o",
       "semester": "2021-22 Fall",

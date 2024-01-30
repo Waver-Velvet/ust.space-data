@@ -40,7 +40,7 @@
     "rating_teaching": 2.75,
     "rating_grading": 3.4,
     "rating_workload": 3.37,
-    "review_count": 314,
+    "review_count": 315,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -89,6 +89,11 @@
         "count": 13
       },
       {
+        "id": 1666,
+        "name": "YANG, Xuzhou",
+        "count": 12
+      },
+      {
         "id": 527,
         "name": "KU, Yin Bon",
         "count": 11
@@ -96,11 +101,6 @@
       {
         "id": 740,
         "name": "CHAN, Chin Hei",
-        "count": 11
-      },
-      {
-        "id": 1666,
-        "name": "YANG, Xuzhou",
         "count": 11
       },
       {
@@ -161,6 +161,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "YyA6hKB0I1YH6rpMcgsGI1vTxITC4BZB",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1666,
+          "name": "YANG, Xuzhou",
+          "rating": 1
+        }
+      ],
+      "author": "forlan",
+      "date": "Jan 30, 2024",
+      "title": "Quite Challenging course for no calculus background students",
+      "comment_content": "Week 1 <br /> Numbers, intervals, inequalities and absolute values <br /> Basic functions and graphs, composite functions <br />Week 2<br /> Exponential functions, inverse functions, logarithms <br /> Trigonometric functions and inverse trigonometric functions <br />Week 3<br /> Tangent and velocity <br /> The limit of a function, limit laws <br />Week 4<br /> Continuity <br /> Limits at infinity and horizontal asymptotes <br />Week 5<br /> Derivatives and rates of change <br /> Basic derivatives <br />Week 6<br /> Product and quotient rules <br /> Chain rule <br />Week 7<br /> Derivatives of trigonometic functions <br /> Implicit differentiation, derivatives of inverse trigonometric <br />functions and logarithmic functions <br />Week 8<br /> Rates of change problems <br /> Related Rates <br />Week 9<br /> Linear approximations and differentials <br /> Maximum and minimum values <br /> Mean Value Theorem <br />Week 10<br /> Derivatives and the shape of a graph <br /> L&#039;Hopital&#039;s rule <br />Week 11<br /> Curve sketching <br /> Optimization problems <br />Week 12<br /> Anti-derivatives <br /> Area and definite integrals <br />Week 13<br /> The Fundamental Theorem of Calculus <br /> Substitution rule <br /><br />The lecture and tutorial notes are good. <br />However, I think the suggested textbook is quite messy.&nbsp;&nbsp;If you have fds study M1/M2 in high school, try to borrow their textbooks. The contents are nearly the same but you should look out the extra topics in the syllabus.",
+      "comment_teaching": "The teaching is not bad. <br />But I skip a lot of lectures to study myself.",
+      "comment_grading": "grading : <br />mid-term (35%)<br />final(55%)<br />web-work(10%) <br /><br />my grade: <br />mid term: 80 <br />final : 79<br />web-work: 100 <br />total : 81.45<br /><br />background : got lv5 in DSE math, no M1/M2",
+      "comment_workload": "Just the web-work. <br />Must score 100% since it has unlimited attempts.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "XqS72VellmLnRYPO0zaAl0OAMS1HCVOT",
       "semester": "2022-23 Fall",

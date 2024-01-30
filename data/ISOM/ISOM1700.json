@@ -28,8 +28,8 @@
     "rating_content": 4.27,
     "rating_teaching": 4.31,
     "rating_grading": 4.02,
-    "rating_workload": 3.65,
-    "review_count": 51,
+    "rating_workload": 3.67,
+    "review_count": 52,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -40,7 +40,7 @@
       {
         "id": 365,
         "name": "LAU, Ronald",
-        "count": 46
+        "count": 47
       },
       {
         "id": 382,
@@ -50,6 +50,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "VIpYcz4yJmFWVGFbFSrNVZw5KPi81e7F",
+      "semester": "2023-24 Winter",
+      "instructors": [
+        {
+          "id": 365,
+          "name": "LAU, Ronald",
+          "rating": 1
+        }
+      ],
+      "author": "wishforA+",
+      "date": "Jan 30, 2024",
+      "title": "Good luck not zoning out",
+      "comment_content": "Introduction to operations management, so not very detailed and thorough. Quite interesting and easy to understand, but you might have to remember specific details. <br /><br />Topics:<br />1. Introduction and Sustainability Issues<br />2. Creating a Sustainable Business<br />3. Strategic and Managerial Issues<br />4. Product and Process Design<br />5. Shan Zhai: A Chinese Phenomenon<br />6. Sourcing and Supply Management<br />7. Synchronization and Distribution Issues<br />8. Production: A Value-Added Transformation Process<br />9. A) Inventory B) Quality<br />10. Industry Best Practices<br />11. Social Enterprise in Hong Kong <br /><br />All lectures slides and case studies will be provided in Canvas before the course starts",
+      "comment_teaching": "The professor is quite funny and he shares many stories during lecture. Of course this means that you might have to sit through the professor&#039;s monologue before you can finally learn a new concept. This is also a reason why almost every lecture is 3hrs 20mins long...<br /><br />He gives plenty of examples after each new concept he taught, and he gives a lot of detail and background info, so that might help with your learning.<br /><br />You could probably get away with coming to class, finishing the quiz and leave. Just make sure to self-study ofc. But you may miss out on some potentially important info <br /><br />Overall, I found him to be a funny and good natured professor, but it&#039;s hard to stay focused throughout the lecture. If you listen to what he says, you can easily understand the content of this course.",
+      "comment_grading": "Grading is quite lenient compared to most other courses. Absolute grading.<br /><br />Grading policy:<br />iPRS quizzes (8 best out of 10): 20%<br />Two written assignments: 20%<br />Final exam: 20%<br /><br />A range: 85+<br />B range: 75-84.9<br />C range: 65-74.9<br />D: 55-64.9<br />F: &lt;55",
+      "comment_workload": "Really nice :)<br />Such a breeze after fall sem(hell)<br /><br />There&#039;s an iPRS quiz every class (except for the first and last class)<br />There&#039;s 5 questions for each quiz and they&#039;re not very hard. Just make sure to at least skim through the lecture notes the night before <br /><br />There&#039;s two written assignments on case studies. The topics were 759 store and Esquel. There&#039;s no word or page limit and there&#039;s only 3 questions to answer per assignment. If you&#039;ve ever take DSE LS, it&#039;s quite similar to that. You wouldn&#039;t really have to use the concepts you&#039;ve learnt in class, but it would probably help. I freestyled the essays and still got good marks.<br /><br />Final exam covers all the lectures, and doesn&#039;t include case studies, videos or extra reading material. However, this time around, one case study (Trade without borders) was covered in the exam. The exam had 60 MCQs and we had two hours to finish it. Questions were quite simple, but you do have to remember certain details.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 1,
+      "attachments": []
+    },
     {
       "hash": "2I0a2WuPUGtiwbEF9QiR3HDvMO9C8xBL",
       "semester": "2023-24 Winter",

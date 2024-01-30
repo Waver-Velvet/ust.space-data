@@ -51,11 +51,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"1021\" href=\"/review/COMP1021\" target=\"_blank\">COMP 1021</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"1022P\" href=\"/review/COMP1022P\" target=\"_blank\">COMP 1022P</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"1022Q\" href=\"/review/COMP1022Q\" target=\"_blank\">COMP 1022Q</a> (prior to 2020-21) OR <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3230\" href=\"/review/ISOM3230\" target=\"_blank\">ISOM 3230</a> OR <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3320\" href=\"/review/ISOM3320\" target=\"_blank\">ISOM 3320</a>",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"2011\" href=\"/review/COMP2011\" target=\"_blank\">COMP 2011</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012H\" href=\"/review/COMP2012H\" target=\"_blank\">COMP 2012H</a>",
-    "rating_content": 4.34,
-    "rating_teaching": 4.45,
-    "rating_grading": 4.69,
-    "rating_workload": 4.62,
-    "review_count": 29,
+    "rating_content": 4.37,
+    "rating_teaching": 4.43,
+    "rating_grading": 4.7,
+    "rating_workload": 4.6,
+    "review_count": 30,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -66,11 +66,46 @@
       {
         "id": 99,
         "name": "LAM, Gibson",
-        "count": 24
+        "count": 25
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "F5r5Nc9EU4oo5HZdaYgDeqrlfZocpoTe",
+      "semester": "2023-24 Winter",
+      "instructors": [
+        {
+          "id": 99,
+          "name": "LAM, Gibson",
+          "rating": 1
+        }
+      ],
+      "author": "ync",
+      "date": "Jan 30, 2024",
+      "title": "a review from a year-1 student without any C knowledge just having finished COMP1021 in fall",
+      "comment_content": "I recently completed COMP1021 in the fall semester and was eager to explore other programming languages. This course seems to be a good fit for my interests. Compared to Python, C has a more complex syntax, but the concepts I learned in COMP1021 have helped me understand the use of several functions in C. Overall, the content of the course is appropriate for a 1-credit course.",
+      "comment_teaching": "I had high expectations for this course, but unfortunately, I was somewhat disappointed with the delivery. While Gibson brought a lot of passion to COMP1021, I didn&#039;t feel the same level of engagement in this course. Although I knew that it was an online course, I didn&#039;t anticipate that the course materials would consist only of text, screenshots, and files. The absence of video explanations made it difficult for me to understand certain concepts at times. Additionally, the only way to reach Gibson and the TA was through email, which was inconvenient in some situations. I would have appreciated a Zoom session for inquiries.",
+      "comment_grading": "Overall, the grading for this course is reasonable. To pass the course, you need to score at least 60% on the exercises and 40% on the final exam. There are four exercises in total, and they are not overly difficult. You only need to complete three of them and score well to pass the course. The final exam is a one-hour exam with 20 questions, most of which are straightforward, although a few are a bit tricky. It is relatively easy to score 40% or higher on the exam.",
+      "comment_workload": "The workload for this course depends on your goals. <br />If you want to take it easy, the workload is relatively small. <br />However, if you want to ensure that you have a thorough understanding of the course materials, the workload can be quite substantial. COMP1021 is a 3-credit course with 7 labs, so one might expect that COMP1029C, which is a 1-credit course, would have 2-3 exercises. Unfortunately, there are 4 exercises. I enrolled in COMP1029C on the last day of the ADP, and I also took COMP1029V, so I felt like I was constantly fighting against deadlines. It took me about 30 minutes to read, take notes, and complete the quiz (which doesn&#039;t count towards the grade) for each section of a lesson, but it took me hours to complete each exercise.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "k8TWUZPPXZFxlLE2QUgCM0WgFSWgmgVy",
       "semester": "2023-24 Winter",
