@@ -15,11 +15,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"LANG\" data-code=\"1401\" href=\"/review/LANG1401\" target=\"_blank\">LANG 1401</a> OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1402\" href=\"/review/LANG1402\" target=\"_blank\">LANG 1402</a> OR Level 5 in HKDSE English Language with all papers at or above level 4 OR Overall bandscore of 6.5 in IELTS with all subscores at or above 6.0 OR equivalence of the above",
     "corequisites": "",
     "exclusions": "LANG 1003",
-    "rating_content": 2.62,
-    "rating_teaching": 4.23,
-    "rating_grading": 3.08,
-    "rating_workload": 2.77,
-    "review_count": 13,
+    "rating_content": 2.64,
+    "rating_teaching": 4.29,
+    "rating_grading": 3.21,
+    "rating_workload": 2.79,
+    "review_count": 14,
     "single_review": false,
     "enrollment_status": 2,
     "is_favourited": false,
@@ -30,7 +30,7 @@
       {
         "id": 297,
         "name": "LEE, William Wai Lam",
-        "count": 3
+        "count": 4
       },
       {
         "id": 1715,
@@ -60,6 +60,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "4IaITIwIt90DGm6s04W7gO4AxJuBSaWy",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 297,
+          "name": "LEE, William Wai Lam",
+          "rating": 1
+        }
+      ],
+      "author": "human9487",
+      "date": "Jan 31, 2024",
+      "title": "Not that bad despite trash content",
+      "comment_content": "The course covers research skills and academic literacy skills that are required to finish the two major assignments of the course. Lessons are boring and the contents are simple, which would not help much in finishing your tasks. Attendance does not count toward grade but attending them would leave your instructor a good impression, which may make your grade a bit better.",
+      "comment_teaching": "William is nice and friendly. Not much to say about the teaching as the course content sucks. He always assigns students into groups for in-class discussions and activities. He is willing to answer any questions related to the course and I would say his comments help quite a lot.",
+      "comment_grading": "Assessed assignments as below:<br />1. 800-Word Essay (W2) + Reflection (35%+3%)<br />&nbsp;&nbsp;&nbsp;&nbsp;An essay that requires synthesis of 2 or more sources on one of the given topics, and critique towards them, graded based on 3 assessment categories: Writing Language, Coherence and Synthesis<br />Reflection is graded by completion.<br /><br />2. 4-6Min Video (V2) + Reflection (40%+2%)<br />&nbsp;&nbsp;&nbsp;&nbsp;A multimodal video based on the previously written essay, graded based on 3 assessment categories: Spoken Language, Coherence, Synthesis, and Multimodal<br />Reflection is graded by completion.<br /><br />3. SDL, Electives, Library quizzes (20% in total)<br />&nbsp;&nbsp;&nbsp;&nbsp;Graded by completion, so they are basically free scores, shouldn&#039;t miss any one of them<br /><br />My Grade:<br />W1: WL Advanced<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CO Exceptional/ Advanced<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SY Exceptional/ Advanced<br />W2: SL&nbsp;&nbsp;Advanced<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CO Exceptional/ Advanced<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SY&nbsp;&nbsp;Exceptional/ Advanced<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MM Exceptional/ Advanced<br />For tasks graded by completion, I finished all on time so that should be a full mark.<br /><br />Overall A+<br /><br />The grading is not that harsh in my opinion. You do not need to get almost full marks for a good grade, unlike other year-1 introductory courses. Yet, the grading can be instructor/class dependent.",
+      "comment_workload": "You have to do several tasks besides the two major assignments that contribute to 80% of the course grade. That includes SDL activities, library quizzes, and 2 elective modules (18 total items), contributing the remaining 20% of your grade. These take less than an hour a week and you can do them quickly as quality does not matter. Don&#039;t waste too much time on them.<br /><br />Yet, you need to put some effort into the 2 graded assignments, especially the video. Although CLE did mention video editing skills don&#039;t matter, you&#039;d better learn some video editing, like adding basic transitional effects and on-screen texts. Spare a few days for them and you will be good.",
+      "rating_content": 3,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "e31m7YgkC0TWjdq32rH0KCPIN3rlCqEi",
       "semester": "2023-24 Fall",
@@ -311,8 +346,8 @@
       "has_attendance": false,
       "has_reading": false,
       "has_presentation": true,
-      "upvote_count": 7,
-      "vote_count": 7,
+      "upvote_count": 8,
+      "vote_count": 8,
       "comment_count": 0,
       "attachments": [
         {

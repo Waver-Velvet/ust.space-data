@@ -43,7 +43,7 @@
     "rating_teaching": 3.36,
     "rating_grading": 3.46,
     "rating_workload": 3.87,
-    "review_count": 741,
+    "review_count": 742,
     "single_review": false,
     "enrollment_status": 1,
     "is_favourited": false,
@@ -217,6 +217,11 @@
         "count": 5
       },
       {
+        "id": 1611,
+        "name": "BIAN, Fengmiao",
+        "count": 5
+      },
+      {
         "id": 524,
         "name": "WONG, Chiu Fai",
         "count": 4
@@ -224,11 +229,6 @@
       {
         "id": 1481,
         "name": "LUO, Luo",
-        "count": 4
-      },
-      {
-        "id": 1611,
-        "name": "BIAN, Fengmiao",
         "count": 4
       },
       {
@@ -319,6 +319,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "3yDjLVrCWLUYUayXxcgnUmf7DuCMZUDh",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1611,
+          "name": "BIAN, Fengmiao",
+          "rating": 1
+        }
+      ],
+      "author": "Mandyyyy",
+      "date": "Jan 31, 2024",
+      "title": "Not a friendly course for M1 student",
+      "comment_content": "It includes soooooo many content, but actually if you pay attention in class, doing pass exams and revise regularly, it is not that bad. <br />Many things are new for M1 students except simple differentiation. I don’t think it is fair for M1 student. Add oil if you are a M1 student, doing more exercise will help.",
+      "comment_teaching": "Although she has an accent on English, she try hard and effectively deliver the messages to us. It is easy to understand the concept in the later classroom. I didn’t skip any lesson and I don’t recommend it because every lesson need to go through lots of information, it is hard to catch up the lessons if you miss some of those. Also, her notes are handwritten notes are very helpful.",
+      "comment_grading": "Absolute grading.<br />Midterm a little bit below average and final 5 marks above average. Finally got a C+, not satisfy with it cuz it wastes me sooooo much time on understand and doing exercise.",
+      "comment_workload": "Not big, webwork exercise, midterm and final.<br />P.s webwork is so hard except the first one, even not relevant to the lesson content and exams.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "c4WlUJrld56O4rp75r9wwUUHsmOngB2t",
       "semester": "2023-24 Fall",

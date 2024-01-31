@@ -18,11 +18,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 4.67,
-    "rating_teaching": 4.67,
-    "rating_grading": 4.33,
+    "rating_content": 4.75,
+    "rating_teaching": 4.5,
+    "rating_grading": 4.5,
     "rating_workload": 4,
-    "review_count": 3,
+    "review_count": 4,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -33,7 +33,7 @@
       {
         "id": 1648,
         "name": "KOC, Joseph",
-        "count": 2
+        "count": 3
       },
       {
         "id": 1173,
@@ -43,6 +43,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "X6i25bEyy0azGY5oVhEUKSqCI1I5ZxZM",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1648,
+          "name": "KOC, Joseph",
+          "rating": 1
+        }
+      ],
+      "author": "Tanish",
+      "date": "Jan 31, 2024",
+      "title": "Insightful experience",
+      "comment_content": "Not too advanced, some things I found unnecessarily stressed on. But maybe they are that important in the startup world.<br />I personally loved the idea of inviting guest lecturers to class and allowing students to network with them after class. This opened me up to a lot of things I had not prepared for before enrolling in this class.",
+      "comment_teaching": "Amazing insights shared by prof Joseph and his visiting guest lecturers. Some lecturers were too lengthy and hard to catch up with but Joseph makes it easy to understand. English is not at all a problem.",
+      "comment_grading": "Great! Nothing more to say, the grading was pretty satisfactory for me. Joseph is known to be a little lenient, as have I heard about GBUS courses in general.",
+      "comment_workload": "Not a lot to be honest. Quite manageable if you are good at groupwork. There&#039;s one essay worth 30% which is solely to test your ideas quality and critical thinking. Apart from that, only group work and report submission. The presentation to the real case company is only for 5 min though! No exams.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "CLkTS7A7VSDxIot7dvmTLWtl6QWeZYra",
       "semester": "2022-23 Fall",

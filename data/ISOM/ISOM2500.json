@@ -38,8 +38,8 @@
     "rating_content": 4.08,
     "rating_teaching": 3.91,
     "rating_grading": 3.99,
-    "rating_workload": 4.15,
-    "review_count": 614,
+    "rating_workload": 4.14,
+    "review_count": 615,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -123,6 +123,11 @@
         "count": 2
       },
       {
+        "id": 1640,
+        "name": "SUNADA, Kohei",
+        "count": 2
+      },
+      {
         "id": 55,
         "name": "CHAN, Kwan Kit Jason",
         "count": 1
@@ -156,15 +161,45 @@
         "id": 1600,
         "name": "YIN, Zhendong",
         "count": 1
-      },
-      {
-        "id": 1640,
-        "name": "SUNADA, Kohei",
-        "count": 1
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "ww3DGhrMXzpadl635pOXM38F3U5sXbCv",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1640,
+          "name": "SUNADA, Kohei",
+          "rating": 1
+        }
+      ],
+      "author": "lmfaooooo",
+      "date": "Feb 01, 2024",
+      "title": "",
+      "comment_content": "First half of the course is simple<br />Second half of the course is difficult (regression)<br />Just focus on understanding and getting full marks on the easier topics and give up the regression model",
+      "comment_teaching": "Don&#039;t exactly know, I skipped almost every lesson but his ppt is easy to follow and explain concepts clearly.",
+      "comment_grading": "Pretty good.<br />MT1 18/20 (Mean 17, Max 20<br />MT2 18/20 (Mean 15, Max 20)<br />Final 31/40 (Mean 24, Max 33)<br />Final grade: A.",
+      "comment_workload": "Low.<br />Kohei will assign assignment after every lesson, but only need to submit 6 assignment to get full score. Each assignment need around 20 mins to finish.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "b7wxCXU7GCAXvqydK2gPy623Fo5DkyAd",
       "semester": "2022-23 Spring",

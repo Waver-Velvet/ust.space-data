@@ -15,11 +15,11 @@
     "prerequisites": "Level 5* or above in HKDSE English Language OR Overall bandscore of 7.0 or above in IELTS OR equivalence of the above",
     "corequisites": "",
     "exclusions": "LANG 1002, LANG 1003",
-    "rating_content": 3.18,
-    "rating_teaching": 4.21,
-    "rating_grading": 3.7,
+    "rating_content": 3.15,
+    "rating_teaching": 4.15,
+    "rating_grading": 3.68,
     "rating_workload": 2.79,
-    "review_count": 33,
+    "review_count": 34,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -28,14 +28,14 @@
     "contributor_has_more": false,
     "instructors": [
       {
-        "id": 1231,
-        "name": "SAMPSON, Nicholas",
+        "id": 444,
+        "name": "HOPKINS, Mark",
         "count": 5
       },
       {
-        "id": 444,
-        "name": "HOPKINS, Mark",
-        "count": 4
+        "id": 1231,
+        "name": "SAMPSON, Nicholas",
+        "count": 5
       },
       {
         "id": 635,
@@ -75,6 +75,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "Ihc9SQuIfr1egmSPrumpaYovGK8YgvIB",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 444,
+          "name": "HOPKINS, Mark",
+          "rating": 1
+        }
+      ],
+      "author": "WikiTheKiwibird",
+      "date": "Jan 31, 2024",
+      "title": "It&#039; s a mandatory course for pre-enrollment, what is there to really say?",
+      "comment_content": "Just like the majority of language courses:<br /><br />1. LANG1404 is unlikely to significantly improve your language skills. It&#039;s not that I expect to reach native-like fluency in English after a semester, but it&#039;s clear that the benefits of this course do not match the effort you put in.<br /><br />2. The material covered in the course doesn&#039;t contribute much to your assignments. To be fair, it&#039;s not that the course content is entirely irrelevant to the writing tasks, but the correspondence isn&#039;t as strict as it is in STEM courses. Most of the time, it feels like you&#039;re just participating in discussions during the course, and then you&#039;re left to figure out the writing on your own, despite the fact that attendance also factors into your grade.<br /><br />To give credit where it&#039;s due, I believe my biggest takeaway was related to citation and referencing formats which could be somewhat helpful in the future as I&#039;m in the humanities and social sciences and will need to write other essays. Overall, the content is just not totally bad.",
+      "comment_teaching": "Mark is an excellent instructor, passionate about teaching and dutifully responsible towards his students. His English accent and intonation are particularly pleasing to the ear, and he possesses a quintessentially British sense of humor that emerges at just the right moments. Unfortunately, despite his efforts, the course did not become significantly more useful, which, as previously mentioned, is an issue with the course content itself.",
+      "comment_grading": "I got a B-, I&#039;m not certain about the specific grading distribution or criteria, but it seems there&#039;s a common discourse (or rather, a harsh critique) that LANG courses are grade killers. Therefore, securing a B makes me feel &quot;not so bad&quot; about the outcome.",
+      "comment_workload": "For a first-year student in their first semester, this course had the heaviest workload of my term, bar none. The effort you put into essays and presentations could be endless because you never really know how good is good enough. Fortunately, the topic I chose for my assignments was not assigned but suggested by myself. I&#039;ve always had my own research and views on this topic, which made the writing process less tedious and agonizing. Considering those who were forced to pick topics like &quot;health&quot; or &quot;environment,&quot; I feel quite fortunate. In conclusion, the most critical point remains the one previously mentioned—the return on my investment of time and effort did not feel commensurate.",
+      "rating_content": 2,
+      "rating_teaching": 2,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "Rx3TWb0KM1JQYBieYq1Zzt9U7NHoY229",
       "semester": "2023-24 Fall",
@@ -775,8 +810,8 @@
       "has_attendance": false,
       "has_reading": true,
       "has_presentation": true,
-      "upvote_count": 4,
-      "vote_count": 4,
+      "upvote_count": 5,
+      "vote_count": 5,
       "comment_count": 0,
       "attachments": []
     },
@@ -944,8 +979,8 @@
       "has_attendance": true,
       "has_reading": false,
       "has_presentation": true,
-      "upvote_count": 2,
-      "vote_count": 2,
+      "upvote_count": 3,
+      "vote_count": 3,
       "comment_count": 0,
       "attachments": []
     },
@@ -1194,8 +1229,8 @@
       "has_attendance": false,
       "has_reading": false,
       "has_presentation": true,
-      "upvote_count": 18,
-      "vote_count": 23,
+      "upvote_count": 19,
+      "vote_count": 24,
       "comment_count": 0,
       "attachments": []
     }

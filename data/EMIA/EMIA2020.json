@@ -17,11 +17,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 2.63,
-    "rating_teaching": 2.5,
-    "rating_grading": 2.56,
-    "rating_workload": 1.53,
-    "review_count": 32,
+    "rating_content": 2.67,
+    "rating_teaching": 2.55,
+    "rating_grading": 2.61,
+    "rating_workload": 1.52,
+    "review_count": 33,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -37,7 +37,7 @@
       {
         "id": 1644,
         "name": "ZHANG, Rong",
-        "count": 17
+        "count": 18
       },
       {
         "id": 378,
@@ -52,6 +52,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "0gb95ODUjmR5RPtw1YamhaGIyQdJylKU",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1644,
+          "name": "ZHANG, Rong",
+          "rating": 1
+        }
+      ],
+      "author": "润",
+      "date": "Jan 31, 2024",
+      "title": "",
+      "comment_content": "Challenging parts:<br />--&gt;Frequent presentations<br />--&gt;to make a product successfully<br /><br />teaching content:<br />There were so many presentations in this course so that you have to speak in every single lesson. Sometimes the tutorial was really interesting, there were games and group discussions. But at the other times when the professor kept speaking, it was kind of really boring. If you are outgoing and good at social, it won&#039;t be so hard. The aim of the course is to teach students how to make a successful project, which is good, but it&#039;s really hard to say that the&nbsp;&nbsp;&nbsp;&nbsp;<br />content is useful. In most times I can&#039;t figure out what he actually want to teach.<br /><br />assignments:<br />I would say the workload is really a disaster. we had one assignment every two weeks, each took more than 8 hours to finish! We need to make graphs, videos, ppts, reports, do handwork to make the prototype. Also need to make long self-evaluation report in the final week.<br /><br />The professor released all the scores at the end of the term. My score was around mean, but I got B+ in the end. So I can&#039;t say the grading is so bad, I think maybe the process is more important than the final score. Make sure that you really put efforts in every assignment and never skip a class, that won&#039;t be so bad. It&#039;s very important to choose good teammates, find those who are creative and logical, good at delivering speech.<br /><br />content schedule:<br />-Introduction<br />-Empathy<br />-Interview Sharing<br />-Problem Definition<br />-Challenge presentation<br />-Divergent thinking<br />-Convergent thinking<br />-Prototype test &amp; project management<br />-Reflection on 1st prototype<br />-Storytelling &amp; progress presentation<br />-testing in class<br />-final Demo",
+      "comment_teaching": "The professor was quite strict throughout the term but kind in the last lecture. The contents of his PowerPoint were not important. But you must take his suggestions carefully because he will grade you based on his preferences. All the TAs were very kind.",
+      "comment_grading": "mean score, and got B+",
+      "comment_workload": "If you take it heavily, you will get good grade.<br />If you take it lightly, you will definitely get bad grade.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "Qk9vvzuJDH2ghHUVpKP86Ulc1n9pvGDm",
       "semester": "2023-24 Fall",

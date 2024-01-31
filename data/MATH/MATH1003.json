@@ -29,7 +29,7 @@
     "rating_teaching": 3.52,
     "rating_grading": 4.08,
     "rating_workload": 4.09,
-    "review_count": 221,
+    "review_count": 222,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -80,7 +80,7 @@
       {
         "id": 1664,
         "name": "XU, Zili",
-        "count": 7
+        "count": 8
       },
       {
         "id": 775,
@@ -140,6 +140,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "mu0pImSN2ZnvwdAShxxd5Y6OMzkzSyJI",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1664,
+          "name": "XU, Zili",
+          "rating": 1
+        }
+      ],
+      "author": "Johnn",
+      "date": "Jan 31, 2024",
+      "title": "",
+      "comment_content": "2.1&nbsp;&nbsp;Simple Interest<br />2.2&nbsp;&nbsp;Compound Interest, Growth and Time<br />2.3&nbsp;&nbsp;Future Value of an Annuity, Sinking Fund<br />2.4 Present Value of an Annuity, Amortization<br />3.1&nbsp;&nbsp;System of Linear Equations in 2 Variables<br />3.2&nbsp;&nbsp;Augmented Matrices<br />3.3&nbsp;&nbsp;Gauss-Jordan Elimination<br />3.4&nbsp;&nbsp;Matrices, Addition and Subtraction, Multiplication<br />3.5&nbsp;&nbsp;Inverse of a Matrix<br />3.6&nbsp;&nbsp;Matrix Equations<br />3.7 Leontief Input-Output Analysis<br /><br />8.1, 8.4 Rate of Change, Slope of the Tangent Line, Derivative<br />8.2 Limits<br />8.5 Differentiation Properties, Power Rule<br /><br />9.1&nbsp;&nbsp;Continuous Compound Interest<br />9.2&nbsp;&nbsp;Derivative of Exponential Function and Logarithmic Function<br />9.3&nbsp;&nbsp;Product Rule and Quotient Rule<br />9.4&nbsp;&nbsp;Chain Rule<br />9.5&nbsp;&nbsp;Implicit Differentiation<br />9.6&nbsp;&nbsp;Related Rates<br /><br />10.1 First Derivative and Graph<br />10.2 Second Derivative and Graph<br />10.4 Curve-Sketching<br />10.5&nbsp;&nbsp;Absolute Maxima and Minima<br />10.6&nbsp;&nbsp;Optimization<br />11.1&nbsp;&nbsp;Anti-derivatives and Indefinite Integrals<br />11.2&nbsp;&nbsp;Integration by Substitution<br />11.4 Definite Integrals<br />11.5&nbsp;&nbsp;Fundamental Theorem of Calculus<br />11.6&nbsp;&nbsp;Area Between Curves",
+      "comment_teaching": "Many of my friends consider that his accent is too heavy to understand, but his notes are very good and clear. Many of them skip all his lessons and just read his notes and see youtube tutorials instead (e.g. organic chemistry)<br /><br />I personally can understand what he is teaching therefore I just saw the lecture video at 2x speed. His teaching is literally just reading the content out and writing it down on his iPad as notes at the same time. He will go through the content first and then follow with tons of examples that will cover every type of question you will see in the exam.",
+      "comment_grading": "absolute grading like other maths course<br />Homework 10%<br />Midterm 25%<br />Final 65%<br />midterm is easy while the final is much harder, but you are allowed to bring cheatsheet <br />My grade: A",
+      "comment_workload": "very light workload, there are 7 webwork assignment, in average you need to finish one every two week.<br />you can easily get full marks since you have unlimited attems <br />the questions are easy no matter you learned the materials through his lecture or youtube videos",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "h7NAowMAiWfnVHLMoBtZUhRl3Fwmx2rt",
       "semester": "2023-24 Fall",

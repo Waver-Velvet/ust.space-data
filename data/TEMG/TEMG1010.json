@@ -35,11 +35,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 0,
-    "rating_teaching": 0,
-    "rating_grading": 0,
-    "rating_workload": 0,
-    "review_count": 0,
+    "rating_content": 5,
+    "rating_teaching": 4,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -48,5 +48,35 @@
     "contributor_has_more": false,
     "instructors": []
   },
-  "reviews": []
+  "reviews": [
+    {
+      "hash": "2rzGRI5rcABK5hYVplqEFALwyuMq7Hwc",
+      "semester": "2022-23 Fall",
+      "instructors": [],
+      "author": "Ringo ng 18",
+      "date": "Jan 31, 2024",
+      "title": "It is actually a course that lasts for 5 years",
+      "comment_content": "Fall 2022<br />CV Writing Workshop*<br />Sep 14, 2022 (Wed) | 18:00 – 19:30<br />Survival Camp (see details in Part 2)<br />(Half of you will do it on Sep 16-18, and the other half will do it on Sep 23-25. You will receive an email from Yoyo in early Sep about the grouping.)<br />Sep 16 – 18, 2022 (2-day 2-night)<br />Or<br />Sep 23 – 25, 2022&nbsp;&nbsp;(2-day 2-night)<br />T&amp;M Executive Forum​​*<br />Oct 10, 2022 (Mon) | 18:00 – 19:30<br />15 mins meeting with faculty*<br />15-min session in Fall/ Spring<br />Annual Gathering*<br />Half day session in Spring<br />Alumni Sharing*<br />Oct/ Nov 2022 (Tentative)<br /><br />Spring 2023<br />T&amp;M Executive Forum​​*<br />Mar 10, 2023 (Fri) 18:00 – 19:30<br />Alumni Sharing*<br />Mar 17, 2023 (Fri) 18:30 – 20:00<br />20th Anniversary Dinner*<br />Apr 15, 2023 (Sat) 18:30 – 22:00<br />15 mins meeting with faculty*<br />A 15-min session in Spring<br /><br />Fall 2023<br />High-Impact Presentation Workshop*<br /><br />Sep 30, 2023 (Sat) | 9:30am – 5:30pm<br /><br />T&amp;M Executive Forum​​*<br /><br />Oct 9, 2023 (Mon) | 18:00 – 19:30<br />15 mins meeting with faculty<br />15-min session in Spring<br />Annual Gathering<br />Half day session in Spring<br />Alumni Sharing*<br />Oct 27, 2023 (Fri) | 18:00 – 19:30 (Tentative)<br /><br />Spring 2024<br />Activity:<br />Date:<br />T&amp;M Executive Forum​​ Spring*<br />Feb 23, 2024 (Fri) | 18:00 – 19:30<br />Annual Gathering*<br />Feb 24, 2024 (Sat) | 11:00 – 14:00 (Tentative)<br />Alumni Sharing*<br />TBC<br />15 mins meeting with faculty*#<br />A 15-min session in Spring<br /><br />Roughly similar content for other semesters",
+      "comment_teaching": "the guest speakers and Alumni usually perform very well in the talks<br /><br />others are just gatherings, just chill and enjoy",
+      "comment_grading": "make sure you attend every event, it is pass or fail course<br /><br />100% attendance of training(s) and workshop(s) of the year throughout 5 years (Excluding exchange/ leave period);<br />100% attendance of Executive Forum throughout 5 years (Excluding exchange/ leave period);<br />100% attendance of 15-minute meeting with faculty throughout 5 years (Excluding exchange/ leave period);<br />100% attendance of Annual Gathering throughout 5 years (Excluding exchange/ leave period);<br />100% attendance of Alumni Sharing if any, throughout 5 years (Excluding exchange/ leave period",
+      "comment_workload": "~15 hours, for year 1 students, they have a survival camp, others may have workshops , hence the total workload varies",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
 }

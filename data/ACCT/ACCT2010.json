@@ -34,7 +34,7 @@
     "rating_teaching": 4.07,
     "rating_grading": 3.99,
     "rating_workload": 4.05,
-    "review_count": 1126,
+    "review_count": 1127,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -153,6 +153,11 @@
         "count": 2
       },
       {
+        "id": 757,
+        "name": "LAU, Vincent Kin Nang",
+        "count": 2
+      },
+      {
         "id": 130,
         "name": "CHAN, Gary Shueng Han",
         "count": 1
@@ -173,11 +178,6 @@
         "count": 1
       },
       {
-        "id": 757,
-        "name": "LAU, Vincent Kin Nang",
-        "count": 1
-      },
-      {
         "id": 1234,
         "name": "PETROV, Evgeny",
         "count": 1
@@ -190,6 +190,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "5F0uTFf1NntwUbS7ly6x6pJZnNgtehmS",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 757,
+          "name": "LAU, Vincent Kin Nang",
+          "rating": 1
+        }
+      ],
+      "author": "Luby Lam",
+      "date": "Feb 01, 2024",
+      "title": "",
+      "comment_content": "Content was just basic accounting stuff. So it was easy for students who have taken accounting as an elective in secondary school. But if you have not, then it might be a bit much content.",
+      "comment_teaching": "He basically just referred to the powerpoint slides so was not that useful.",
+      "comment_grading": "Homework contributes a certain percentage to the final grade. And the mid-term and final examinations are quite straight forward. So if you work hard then you will get good grade. (although the mean is quite high)",
+      "comment_workload": "Not heavy at all, just have to finish the assignments and study for exams.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "WvxIB2EphHhEi1OtWY8mm2XOK5l1Zud8",
       "semester": "2023-24 Fall",
@@ -2080,8 +2115,8 @@
       "has_attendance": false,
       "has_reading": false,
       "has_presentation": false,
-      "upvote_count": 2,
-      "vote_count": 5,
+      "upvote_count": 3,
+      "vote_count": 6,
       "comment_count": 0,
       "attachments": []
     },

@@ -51,11 +51,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"1021\" href=\"/review/COMP1021\" target=\"_blank\">COMP 1021</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"1022P\" href=\"/review/COMP1022P\" target=\"_blank\">COMP 1022P</a> OR <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3320\" href=\"/review/ISOM3320\" target=\"_blank\">ISOM 3320</a>",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"1022Q\" href=\"/review/COMP1022Q\" target=\"_blank\">COMP 1022Q</a> (prior to 2020-21), <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3230\" href=\"/review/ISOM3230\" target=\"_blank\">ISOM 3230</a>",
-    "rating_content": 4.36,
-    "rating_teaching": 4.21,
-    "rating_grading": 4.57,
-    "rating_workload": 4.29,
-    "review_count": 14,
+    "rating_content": 4.38,
+    "rating_teaching": 4.19,
+    "rating_grading": 4.63,
+    "rating_workload": 4.31,
+    "review_count": 16,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -66,11 +66,81 @@
       {
         "id": 99,
         "name": "LAM, Gibson",
-        "count": 14
+        "count": 16
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "iVOpacwB4t0exX0VTWGm9EosdNYJHQc4",
+      "semester": "2023-24 Winter",
+      "instructors": [
+        {
+          "id": 99,
+          "name": "LAM, Gibson",
+          "rating": 1
+        }
+      ],
+      "author": "Ringo ng 18",
+      "date": "Jan 31, 2024",
+      "title": "",
+      "comment_content": "Talks about basics of how to use Excel VBA<br />Overall very easy and basic, depends on whether you need, it may be useful, If you have taken any COMP course before like COMP1021, you will find it really simple, recursion, 2D array, OOP, are covered before<br />Module 1: how to use Excel, cells,= function,$, if; overall very easy and common sense<br />Module 2: <br />Lesson 2.1 - Starting to Program with VBA<br />Page<br />Lesson 2.2 - Making Macros<br />Quiz<br />Review Questions - Lesson 2.2<br />Page<br />Lesson 2.3 - Basic VBA Programming<br />Quiz<br />Review Questions - Lesson 2.3<br />Page<br />Lesson 2.4 - Making Decisions in VBA<br />Quiz<br />Review Questions - Lesson 2.4<br />Assignment<br />Exercise for Lesson 2<br />Jan 10<br /><br />Page<br />Lesson 3.1 - Common Excel VBA Objects<br />Quiz<br />Review Questions - Lesson 3.1<br />Page<br />Lesson 3.2 Looping<br />Quiz<br />Review Questions - Lesson 3.2<br />Page<br />Lesson 3.3 - Functions and Subroutines<br />Quiz<br /> Lesson 4 - GUI and Recursion<br />Page<br />Lesson 4.1 - Introduction to GUI Handling<br />Page<br />Lesson 4.2 - Adding GUI Components<br />Quiz<br />Review Questions - Lesson 4.2<br />Page<br />Lesson 4.3 - Using Recursion in VBA<br />Lesson 5 - Object-Oriented Programming and Arrays<br />Page<br />Lesson 5.1 - Object Oriented Programming in VBA<br />Quiz<br />Review Questions - Lesson 5.1<br />Page<br />Lesson 5.2 - Introduction to Arrays<br />Page<br />Lesson 5.3 - Array Indexing<br />Page<br />Lesson 5.4 - 2D Arrays",
+      "comment_teaching": "self-paced",
+      "comment_grading": "Very easy, just remember submit hw in time<br /><br />Passing the Course<br />This is a Pass/Fail course. To pass the course, you need to:<br /><br />Programming exercises: submit and obtain 60% or higher of the four exercises total mark. That means you could submit three out of four exercises and still pass the requirement, given that you get very good marks for them.<br />Final examination: obtain 40% or higher in the final exam",
+      "comment_workload": "~10 hour, very light",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "7h8Nq6lBbFOuCQglEcGBpw5N5WFkfb61",
+      "semester": "2023-24 Winter",
+      "instructors": [
+        {
+          "id": 99,
+          "name": "LAM, Gibson",
+          "rating": 1
+        }
+      ],
+      "author": "ync",
+      "date": "Jan 31, 2024",
+      "title": "a review from a year-1 student without any VBA knowledge just having finished COMP1021 in fall",
+      "comment_content": "Prior to taking this course, I had little knowledge about Excel VBA beyond its connection to Excel and the ability to use programming to apply functions to workbooks. However, this course broadened my understanding of Excel and VBA, equipping me with the skills to tackle more complex problems in the future. The course material covered basic Excel knowledge, functions within Excel cells, and Visual Basic programming.",
+      "comment_teaching": "I had high expectations for this course, but unfortunately, I was somewhat disappointed with the delivery. While Gibson brought a lot of passion to COMP1021, I didn&#039;t feel the same level of engagement in this course. Although I knew that it was an online course, I didn&#039;t anticipate that the course materials would consist only of text, screenshots, and files. The absence of video explanations made it difficult for me to understand certain concepts at times. Furthermore, the only means of communication with Gibson and the TA was through email, which was not always convenient. However, I found that they were friendly and responsive in answering questions. I would have appreciated a Zoom session for inquiries.",
+      "comment_grading": "Overall, the grading for this course is reasonable. To pass the course, you need to score at least 60% on the exercises and 40% on the final exam. There are four exercises in total, and they are not overly difficult. You only need to complete three of them and score well to pass the course. The final exam is a one-hour exam with 20 questions, most of which are straightforward, although a few are a bit tricky. It is relatively easy to score 40% or higher on the exam.",
+      "comment_workload": "The workload for this course depends on your goals.<br />If you want to take it easy, the workload is relatively small.<br />However, if you want to ensure that you have a thorough understanding of the course materials, the workload can be quite substantial. COMP1021 is a 3-credit course with 7 labs, so one might expect that COMP1029V, which is a 1-credit course, would have 2-3 exercises. Unfortunately, there are 4 exercises. Within the same semester, I also took COMP1029C, so I felt like I was constantly fighting against deadlines. It took me about 30 minutes to read, take notes, and complete the quiz (which doesn&#039;t count towards the grade) for each section of a lesson, but it took me hours to complete each exercise.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "mdlBbFDGbbhwuD1vTgzLuQBLARt3B7Qt",
       "semester": "2022-23 Spring",

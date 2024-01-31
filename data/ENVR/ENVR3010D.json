@@ -14,11 +14,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 0,
-    "rating_teaching": 0,
-    "rating_grading": 0,
-    "rating_workload": 0,
-    "review_count": 0,
+    "rating_content": 5,
+    "rating_teaching": 5,
+    "rating_grading": 5,
+    "rating_workload": 5,
+    "review_count": 1,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -27,5 +27,35 @@
     "contributor_has_more": false,
     "instructors": []
   },
-  "reviews": []
+  "reviews": [
+    {
+      "hash": "UfsGR2YAMsj0Mnhp1NVqAbqWjtfSId6K",
+      "semester": "2015-16 Fall",
+      "instructors": [],
+      "author": "yuanjie",
+      "date": "Jan 31, 2024",
+      "title": "",
+      "comment_content": "The course is very intense but I have learnt a considerable amount and would definitely recommend to my colleagues",
+      "comment_teaching": "Excellent course - very intuitive with lots of helpful content covered across a variety of area. excellent professor who ensures the whole class understands each topic (no one is left behind).",
+      "comment_grading": "1) class materials are very well organized. I personally like both the coverage and depth of subjects; 2) instructions are super clear and easy to follow. I feel like the content is well tailored for the class&#039;s preferences;",
+      "comment_workload": "Very manageable as long you paid attention during class",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    }
+  ]
 }

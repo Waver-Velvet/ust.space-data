@@ -39,9 +39,9 @@
     "exclusions": "<a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1111\" href=\"/review/PHYS1111\" target=\"_blank\">PHYS 1111</a>, <a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1312\" href=\"/review/PHYS1312\" target=\"_blank\">PHYS 1312</a>",
     "rating_content": 3.75,
     "rating_teaching": 3.88,
-    "rating_grading": 3.95,
+    "rating_grading": 3.94,
     "rating_workload": 3.34,
-    "review_count": 487,
+    "review_count": 488,
     "single_review": false,
     "enrollment_status": 1,
     "is_favourited": false,
@@ -102,7 +102,7 @@
       {
         "id": 1461,
         "name": "ZENG, Bei",
-        "count": 9
+        "count": 10
       },
       {
         "id": 834,
@@ -172,6 +172,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "aanqziyvEgZXB0cYSFcg6746X2vj1Bd5",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1461,
+          "name": "ZENG, Bei",
+          "rating": 1
+        }
+      ],
+      "author": "Lucas12335563",
+      "date": "Jan 31, 2024",
+      "title": "quite difficult",
+      "comment_content": "about the basic physic, many of them are taught in high school. However, in this course you will need to calculate and understand them much more deeply.",
+      "comment_teaching": "her tone has a strong mainland accent, I can&#039;t really understand what she is saying. I nearly fell asleep few times as it was too boring. Moreover, she talk about chatgpt and AI all the time. I know it&#039;s strong, but I don&#039;t think it&#039;s necessary to talk about that much.",
+      "comment_grading": "if you do a lot of revision, you&#039;ll get what you supposed to get. But even you do nothing, you can still easily get a passing grade.",
+      "comment_workload": "weekly assignment, around 8 questions a week. They&#039;re very difficult compare to the exam. So you will spend lots of time. Midterm and Final are all in mc, the number of questions are not as many as well, so the exam are not really exhausting. However, you&#039;ll have to do more revision to reach a higher result. You have to spend lots of time on it.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "nc0WlhByXvwEjMAO8cJqx2QcYDMUGFxq",
       "semester": "2023-24 Fall",
@@ -745,7 +780,7 @@
       "date": "Dec 29, 2023",
       "title": "Hard but I love this course",
       "comment_content": "Literally everything is with calculus. There is even some partial differentiation and vectors used in the course.<br /><br />Topics:<br />Linear Kinematics, Projectile Motion and relative velocity<br />Linear Motion (Newtons Law, Force,Inertial Frame and Circular Motion)<br />Linear Momentum<br />Angular Kinematics<br />Angular Motion(Rigid Bodies,Moment of Inertia, Torque)<br />Angular Momentum<br />Gravitation (Newtons law of Gravity and Keplers law<br />Wave and Sound(Simple Harmonic Motion, Pendulum Types, Reflection, Wave Equation,Dopplers effect, Superposition, standing waves, )<br />Thermodynamics(zeroth law, first law, second law)<br /><br />There is too much content in this course and there are some topics I kinda forgot. I really liked this the course though since it is literally applications of Calculus and it is a bit helpful for me to do some coding on Microsoft XNA Framework. Yes, I want to make some Terraria mods for those who know what it is.",
-      "comment_teaching": "Genuine a good instructor. At first I was afraid that the language she speak isn&#039;t going to be clear, it turns out to quite decent and most importantly the lecture notes are very concise and clear. I love the details and the pacing for early the lectures. Because there are way too many topics to cover, she need to catch up from after mid term to the end. I think she is a really good instructor. She usually asks straight forward questions but no one answers which awkward. So you need to get prepared for each lecture if you want to attend them.<br /><br />Tutorials are okay I guess in the beginning. Since ChatGPT was a thing, they were just obsessed with it and tell us to use it to solve and guide us to do physics questions. I thought it was a lame idea since why do I have to do that when I can just do the questions by myself. After the feedbacks from the students, things changed and it is a lot better. No more ChatGPT in Tutorials.",
+      "comment_teaching": "Genuinely a good instructor. At first I was afraid that the language she speak isn&#039;t going to be clear, it turns out to quite decent and most importantly the lecture notes are very concise and clear. I love the details and the pacing for early the lectures. Because there are way too many topics to cover, she need to catch up from after mid term to the end. I think she is a really good instructor. She usually asks straight forward questions but no one answers which is awkward. So you need to get prepared for each lecture if you want to attend them.<br /><br />Tutorials are okay I guess in the beginning. Since ChatGPT was a thing, they were just obsessed with it and tell us to use it to solve and guide us to do physics questions. I thought it was a lame idea since why do I have to do that when I can just do the questions by myself. After the feedbacks from the students, things changed and it is a lot better. No more ChatGPT in Tutorials.",
       "comment_grading": "Basically Assignments, Mid Term Exam, Final Exam and some extra bonuses from attending Tutorials and extra HW which are optional.<br /><br /><br />Mean: <br />Mid Term: 16.21/28<br />Final:23/45<br /><br />I did all the HW including the bonuses, got between 80-90% of the scores for each HW.<br />Mid Term: 17/28 <br />Final: 29/45<br />Grade: B<br /><br />I think the grading is fair. I didn&#039;t really do textbook questions. I just read the lecture notes and remind myself the key points. There is just too many equations to remember and the formula sheet gives like 40% of the equations we have learnt. If you pass this course, congrats.",
       "comment_workload": "I think it is moderate. 11 HW, about 10 more extra modules to practice and 10 supplementary questions. If you don&#039;t want to do all of it, then just do 11 HWs.",
       "rating_content": 5,

@@ -29,10 +29,10 @@
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"CORE\" data-code=\"1360\" href=\"/review/CORE1360\" target=\"_blank\">CORE 1360</a>",
     "rating_content": 3.97,
-    "rating_teaching": 3.62,
-    "rating_grading": 3.66,
-    "rating_workload": 4.14,
-    "review_count": 29,
+    "rating_teaching": 3.63,
+    "rating_grading": 3.63,
+    "rating_workload": 4.13,
+    "review_count": 30,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -43,7 +43,7 @@
       {
         "id": 1080,
         "name": "PUIG GARRIGO, Coral",
-        "count": 27
+        "count": 28
       },
       {
         "id": 507,
@@ -53,6 +53,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "wR2xcqmFcDQLSFcBWMCkopaj12d8hzrT",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1080,
+          "name": "PUIG GARRIGO, Coral",
+          "rating": 1
+        }
+      ],
+      "author": "smoothoperator",
+      "date": "Jan 31, 2024",
+      "title": "its chill",
+      "comment_content": "Content is fine, mostly just pointing out common senses",
+      "comment_teaching": "Teaching is fine, she&#039;s mostly chill. She has a thick accent so beware if you are not fluent in English.",
+      "comment_grading": "The grading in this course is tough, it is not easy to get a high grade since you really need to participate a lot in class and do VERY well in exams. There is also participation scores of which you gotta answer stuff in class. This is fine for me but the exams grading is what makes it not that favorable.",
+      "comment_workload": "The workload is quite light, something you would normally expect from a marketing class. Mostly just creative analysis.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "BupOGLNVexhpNLumzFW6pcxvrByjcD6V",
       "semester": "2023-24 Fall",
