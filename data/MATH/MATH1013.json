@@ -39,11 +39,11 @@
     "prerequisites": "Level 3 or above in HKDSE Mathematics Extended Module M1/M2",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"1012\" href=\"/review/MATH1012\" target=\"_blank\">MATH 1012</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1014\" href=\"/review/MATH1014\" target=\"_blank\">MATH 1014</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1023\" href=\"/review/MATH1023\" target=\"_blank\">MATH 1023</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1024\" href=\"/review/MATH1024\" target=\"_blank\">MATH 1024</a>",
-    "rating_content": 3.68,
+    "rating_content": 3.69,
     "rating_teaching": 3.36,
     "rating_grading": 3.46,
-    "rating_workload": 3.87,
-    "review_count": 742,
+    "rating_workload": 3.86,
+    "review_count": 741,
     "single_review": false,
     "enrollment_status": 1,
     "is_favourited": false,
@@ -59,7 +59,7 @@
       {
         "id": 539,
         "name": "CHANG, Huai-Liang",
-        "count": 49
+        "count": 48
       },
       {
         "id": 902,
@@ -379,42 +379,7 @@
       "has_reading": false,
       "has_presentation": false,
       "upvote_count": 0,
-      "vote_count": 1,
-      "comment_count": 0,
-      "attachments": []
-    },
-    {
-      "hash": "hSELCJb6Csquz5JKJd5UjBm2Z72qjBup",
-      "semester": "2023-24 Fall",
-      "instructors": [
-        {
-          "id": 539,
-          "name": "CHANG, Huai-Liang",
-          "rating": 1
-        }
-      ],
-      "author": "Li Zhuoqun",
-      "date": "Jan 29, 2024",
-      "title": "NO WORKLOAD",
-      "comment_content": "If you look at the syllabus yourself, it&#039;s probably just teaching calculus up to the first type of commutative integral method, and not much in between, so it feels like there&#039;s so little to teach and not much to learn. Of course I&#039;m not saying this because I&#039;m good, instead it&#039;s just really easy unless you&#039;re really not learning at all or really not suited for math, then it&#039;s still recommended that you take fewer math classes in the future.",
-      "comment_teaching": "I don&#039;t know how the teaching is, because usually you don&#039;t have to go to class after reading the NOTE. In this free time you can prep for linear algebra or calculus 2, or you can go sit in on 1023, not recommended to read novels to pass the time like I did and now regret it very much.",
-      "comment_grading": "MIDTERM = 79%（SAD）<br />FINAL = 98%<br />HOMEWORK = 100%<br />Midterm lost an extra 15 points due to filling out the wrong answer key and ended up with only 79 points. But at the end of the semester, I got 98, so I ended up with an A. The midterm and final scores were both 100. I remember that at the end of the semester, you were given three hours to answer the questions, and most of the people only took 2 hours to finish writing them. But you don&#039;t have to worry about being bored and irritated when you&#039;re done because you can turn in your paper early when there&#039;s 40min left in the exam.",
-      "comment_workload": "Hardly. It&#039;s just a little time consuming to do homework.",
-      "rating_content": 2,
-      "rating_teaching": 4,
-      "rating_grading": 5,
-      "rating_workload": 5,
-      "has_midterm": true,
-      "has_final": true,
-      "has_quiz": false,
-      "has_assignment": false,
-      "has_essay": false,
-      "has_project": false,
-      "has_attendance": false,
-      "has_reading": false,
-      "has_presentation": false,
-      "upvote_count": 0,
-      "vote_count": 1,
+      "vote_count": 2,
       "comment_count": 0,
       "attachments": []
     },

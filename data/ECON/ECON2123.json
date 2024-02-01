@@ -37,9 +37,9 @@
     "exclusions": "<a class=\"course-link\" data-subject=\"ECON\" data-code=\"3123\" href=\"/review/ECON3123\" target=\"_blank\">ECON 3123</a>, <a class=\"course-link\" data-subject=\"ECON\" data-code=\"3143\" href=\"/review/ECON3143\" target=\"_blank\">ECON 3143</a>, <a class=\"course-link\" data-subject=\"SOSC\" data-code=\"1440\" href=\"/review/SOSC1440\" target=\"_blank\">SOSC 1440</a>",
     "rating_content": 4,
     "rating_teaching": 3.82,
-    "rating_grading": 4.07,
+    "rating_grading": 4.08,
     "rating_workload": 4.09,
-    "review_count": 221,
+    "review_count": 222,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -75,7 +75,7 @@
       {
         "id": 1528,
         "name": "DORDAL CARRERAS, Marc",
-        "count": 17
+        "count": 18
       },
       {
         "id": 1280,
@@ -130,6 +130,47 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "gz0URGwsBBmK4FNvNshsZK0OMeL3icLK",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1528,
+          "name": "DORDAL CARRERAS, Marc",
+          "rating": 1
+        }
+      ],
+      "author": "Stephen63",
+      "date": "Feb 01, 2024",
+      "title": "",
+      "comment_content": "It&#039;s interesting I would say..Not sure it&#039;s the course of Macro<br />Econ or his content interesting. It&#039;s a course which is more &quot;econ&quot; than ECON2103 hahaha.<br /><br />He would apply some hot events example to illustrate some topics which makes the powerpoint more understandable and accessible.",
+      "comment_teaching": "His accent is really hard to understand. So I chose to watch recordings instead of attending classes (Because zoom can help<br />with recognising what words did he say).<br />When you ask him questions to help you solve problems after<br />class, I would say that you might hear the key points of the answer because his Spanish accent.<br /><br />Except for his accent, I still consider him as a knowledgeable and good professor. He&#039;s patient to every student and willing to help you with this course.",
+      "comment_grading": "The grading system is fine. Compared to the grading system of<br />past years, it has increase about 5-10% in A and B range. If you<br />got mean for both midterm and final exam, it&#039;s easily to get B<br />grade. And above 1sd you can easily got B+. If you wanna get A-<br />and above, it would be much harder.<br /><br />Grading system:<br />A+ &gt; 85 (Top 2 students or none)<br />A- &lt; 90 - 85<br />B+ &lt; 85 - 75<br />B&lt;75 - 65<br />B- &lt; 65 - 50<br />C+ &lt;50 - 40<br />C &lt; 40 - 35<br />C-&lt; 35 - 30<br />D &lt; 30 - 25<br />F&lt; 20 - 0",
+      "comment_workload": "The workload is fairly light. Just four problem set, two midterm (If you get good grades in your first mt, then the second mt is not necessary) , and one final exam. <br /><br />I don&#039;t think it&#039;s a hard course if you put more efforts than learning ECON2103 and understand each concept and model in his powerpoints.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "6JasvxGvtFMBoDMiknmxqef30vV4EELS",
+          "name": "syllabus2123",
+          "format": "pdf"
+        }
+      ]
+    },
     {
       "hash": "l0BK0nChweAEdO7KRuharRLitfvCxjd9",
       "semester": "2023-24 Fall",

@@ -23,11 +23,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"IEDA\" data-code=\"2200\" href=\"/review/IEDA2200\" target=\"_blank\">IEDA 2200</a>",
-    "rating_content": 4.39,
-    "rating_teaching": 4.46,
-    "rating_grading": 4.15,
-    "rating_workload": 4.35,
-    "review_count": 46,
+    "rating_content": 4.38,
+    "rating_teaching": 4.43,
+    "rating_grading": 4.13,
+    "rating_workload": 4.34,
+    "review_count": 47,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -43,11 +43,46 @@
       {
         "id": 360,
         "name": "QIU, Xuan",
-        "count": 9
+        "count": 10
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "2HEVi0aj5tviDoOSFLyN9WvmEenP71Bf",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 360,
+          "name": "QIU, Xuan",
+          "rating": 1
+        }
+      ],
+      "author": "Littleboydj",
+      "date": "Feb 01, 2024",
+      "title": "B-",
+      "comment_content": "1 Introduction<br />2 Optimization<br />3 Probability Basics<br />4 Project Management<br />5 Location Analysis<br />6 Inventory Management<br />7 Supply Chain Management<br />8 Forecasting<br />9 Revenue Management",
+      "comment_teaching": "Her English is good, you can easily understand. She also say Putonghua so you could explain your question in both ways. Lectures are a bit long. You can just revise the PowerPoint for midterm and exam then that is a B guarantee. I could say the tutorial is a bit useless as most of the things are covered in the lecture, but you can go if you have some problems about the homework and lecture:)",
+      "comment_grading": "Homework10%<br />Group Project 15%<br />Midterm 30%<br />Final 45%",
+      "comment_workload": "Not much, one homework per week and a group project.<br />There are total 6 homework, each takes around 30-60 minutes to complete.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "cLCMX2ghkC5R4erOU2Kad4EEXMME2fBg",
       "semester": "2023-24 Fall",

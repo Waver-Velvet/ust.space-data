@@ -15,11 +15,11 @@
     "prerequisites": "Level 5* or above in HKDSE English Language OR Overall bandscore of 7.0 or above in IELTS OR equivalence of the above",
     "corequisites": "",
     "exclusions": "LANG 1002, LANG 1003",
-    "rating_content": 3.15,
-    "rating_teaching": 4.15,
-    "rating_grading": 3.68,
-    "rating_workload": 2.79,
-    "review_count": 34,
+    "rating_content": 3.17,
+    "rating_teaching": 4.09,
+    "rating_grading": 3.63,
+    "rating_workload": 2.83,
+    "review_count": 35,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -48,14 +48,14 @@
         "count": 4
       },
       {
-        "id": 1323,
-        "name": "LIAO, May",
+        "id": 332,
+        "name": "LEE, Pui",
         "count": 3
       },
       {
-        "id": 332,
-        "name": "LEE, Pui",
-        "count": 2
+        "id": 1323,
+        "name": "LIAO, May",
+        "count": 3
       },
       {
         "id": 411,
@@ -75,6 +75,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "jdtaEDLFFiu8qxCUWKKDEkJ0tRdtNsru",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 332,
+          "name": "LEE, Pui",
+          "rating": 0
+        }
+      ],
+      "author": "Isaac910",
+      "date": "Feb 01, 2024",
+      "title": "It is what it is",
+      "comment_content": "It&#039;s quite easy, didn&#039;t learn much but good practice.",
+      "comment_teaching": "Nice guy but homie doesn&#039;t teach no nth, I tried to ask him questions but honestly he&#039;s really not helpful.",
+      "comment_grading": "he gives grades off from his impression so like good luck, he told me I&#039;m a high-level student but covered too many concepts to prove my point (which is what your supposed to do so bru idk).",
+      "comment_workload": "Honestly its really easy as long as you allocate some time to it, the synthesis follows through to the presentation and then the poster so its honestly ok. Just start off well and you&#039;ll be ok.",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 2,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "Ihc9SQuIfr1egmSPrumpaYovGK8YgvIB",
       "semester": "2023-24 Fall",
@@ -755,7 +790,7 @@
           "rating": 1
         }
       ],
-      "author": "Pranavi",
+      "author": "hihahiha",
       "date": "Jan 05, 2024",
       "title": "Difficult to get a good grade but managable. High workload!",
       "comment_content": "The content of the course is fairly easy but very time-consuming. Through out the course, you need to work on multiple individual tasks, and subtly as a group during the first half. However, for the final project that is an e-magazine, you need to work cohesively as a group. <br /><br />The coursework involves:<br />Annotated Bibliography (15%) - individual<br />Synthesis Paper (10%) - individual<br />Seminar Presentation(20%) - group<br />e-magazine (30%) - group<br />Self-reflection milestones (10%) - individual<br />Self-directed learning (15%) - individual",
@@ -1014,8 +1049,8 @@
       "has_attendance": false,
       "has_reading": false,
       "has_presentation": true,
-      "upvote_count": 1,
-      "vote_count": 2,
+      "upvote_count": 2,
+      "vote_count": 3,
       "comment_count": 0,
       "attachments": []
     },
@@ -1172,7 +1207,7 @@
       "has_reading": false,
       "has_presentation": true,
       "upvote_count": 1,
-      "vote_count": 7,
+      "vote_count": 8,
       "comment_count": 0,
       "attachments": []
     },
@@ -1229,8 +1264,8 @@
       "has_attendance": false,
       "has_reading": false,
       "has_presentation": true,
-      "upvote_count": 19,
-      "vote_count": 24,
+      "upvote_count": 21,
+      "vote_count": 26,
       "comment_count": 0,
       "attachments": []
     }

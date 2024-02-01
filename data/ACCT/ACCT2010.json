@@ -34,7 +34,7 @@
     "rating_teaching": 4.07,
     "rating_grading": 3.99,
     "rating_workload": 4.05,
-    "review_count": 1127,
+    "review_count": 1129,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -60,7 +60,7 @@
       {
         "id": 1210,
         "name": "TANG, Chao",
-        "count": 119
+        "count": 120
       },
       {
         "id": 14,
@@ -135,7 +135,7 @@
       {
         "id": 1832,
         "name": "OH, Jun",
-        "count": 7
+        "count": 8
       },
       {
         "id": 13,
@@ -190,6 +190,76 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "dQ8SGP39I1ZNlCuHYVzX153Q93IbNKIz",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1832,
+          "name": "OH, Jun",
+          "rating": 1
+        }
+      ],
+      "author": "EdwardLau",
+      "date": "Feb 01, 2024",
+      "title": "",
+      "comment_content": "His ppt is very nice and detail. Actually you don&#039;t need to attend the lecture and just look the ppt is enough because there is no attendance. Like me I just attend the lecture once per week but still can catch up by reviewing the ppt myself.<br />One bad things is that his homework need to use ipad or computer to finish. There is a lot of format problem if you are not familiar with the website. Moreover, the exam need to be handwritten which means that you must need to use pen and paper to do the hw again as practise.",
+      "comment_teaching": "Actually his teaching is not too bad and not too good. But I think he can explain the concept clearly. Just his tone is a little bit make you feel boring but still fine. He is willing to answer your every questions even is after class. <br />He is willing to listen your opinion. Moat of us think the mid term is so hard and I think he knows it from the data. Finally he arrange the difficulty of final and it becomes reasonable.",
+      "comment_grading": "fair grading <br />mid term --- just above median 0.X<br />final ---- unknown but I think i perform well <br />HW ----- mostly above mean and median but not meet the upper quarter<br /><br />Final grading A-",
+      "comment_workload": "not heavy just one hw per 2 weeks <br />maybe use one hour per week to do some practise exercise in each topic and review the ppt is ok",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "tHmf4tWWhQAvQxCrGwyez0FbNQwxfcFD",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1210,
+          "name": "TANG, Chao",
+          "rating": 1
+        }
+      ],
+      "author": "Ivana311",
+      "date": "Feb 01, 2024",
+      "title": "from perspective of a student with NO business background",
+      "comment_content": "the content is quite massive.<br />never study acct in dse so cannot compare",
+      "comment_teaching": "Despite the massive content, Tang Chao arrange the teaching material in a tidy and well-organized way. The powerpoint slide is colorful so it makes the content at least less boring.<br /><br />Tang Chao is passionate in teaching.",
+      "comment_grading": "No Cheat sheet is allowed in the midterm exam :((((<br />I spend too much time to memorize the format of balance sheet and Income statement ended up didn&#039;t apply so much in the exam.<br />&gt;below mean <br /><br />The final exam is DIFFERENT level from the midterm exam.<br />it contain an Advanced part which the questions are designed base on real business scenario (the numbers are Huge :)",
+      "comment_workload": "around 2 hw per month.<br />never compare the hw with exam especially final that one",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "5F0uTFf1NntwUbS7ly6x6pJZnNgtehmS",
       "semester": "2022-23 Fall",

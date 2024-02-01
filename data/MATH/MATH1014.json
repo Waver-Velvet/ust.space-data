@@ -41,10 +41,10 @@
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1024\" href=\"/review/MATH1024\" target=\"_blank\">MATH 1024</a>",
     "rating_content": 3.63,
-    "rating_teaching": 3.25,
+    "rating_teaching": 3.24,
     "rating_grading": 3.3,
     "rating_workload": 3.63,
-    "review_count": 601,
+    "review_count": 603,
     "single_review": false,
     "enrollment_status": 2,
     "is_favourited": false,
@@ -83,14 +83,14 @@
         "count": 41
       },
       {
-        "id": 529,
-        "name": "LUO, Jun",
+        "id": 522,
+        "name": "XIONG, Maosheng",
         "count": 16
       },
       {
-        "id": 522,
-        "name": "XIONG, Maosheng",
-        "count": 14
+        "id": 529,
+        "name": "LUO, Jun",
+        "count": 16
       },
       {
         "id": 639,
@@ -305,6 +305,76 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "qxm7WXzM94yEmpOnplbDpje2ne7Wi27C",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 522,
+          "name": "XIONG, Maosheng",
+          "rating": 0
+        }
+      ],
+      "author": "wktai",
+      "date": "Feb 01, 2024",
+      "title": "challenging and bad grade",
+      "comment_content": "The content of the Math 1014 (Calculus 2) course is significantly more challenging than that of its predecessor, Math 1013. The complexity of the topics covered escalates noticeably, requiring a deeper understanding of mathematical concepts.<br /><br />One aspect that stood out was the disparity in difficulty between the homework assignments and the exams. While the homework problems provided a good foundation, they did not fully prepare me for the level of rigor in the exams.<br /><br />The mid-term and final exams were particularly demanding. They not only tested my knowledge of the course material but also my ability to apply the concepts in complex scenarios under time pressure. These exams require thorough preparation and a solid grasp of all the topics covered in the course.",
+      "comment_teaching": "The lecturer expect all of us are good as Math. He didn&#039;t explain the concept properly.",
+      "comment_grading": "bad grading",
+      "comment_workload": "1 web work each week",
+      "rating_content": 3,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "lFuL8Pv7LbPPxCJGPD8fiiLJqWyzadLt",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 522,
+          "name": "XIONG, Maosheng",
+          "rating": 0
+        }
+      ],
+      "author": "Chings",
+      "date": "Feb 01, 2024",
+      "title": "Worst Math course experience",
+      "comment_content": "Just typical Math1014 course content. Calculus things, integrals, substitution that kind of stuff.",
+      "comment_teaching": "Did not teach much, just read out the lecture notes and tell us to do the practice from teaching materials.<br /><br />The mid term mean is bad, which caused the Instructor to change questions for final exam to make the the final exam &quot;EASIER&quot;. That&#039;s what he said. And the result: a mean of ~30%. The mean is even lower than the mid term exam. With all of his efforts, the exam paper is so different which makes doing the past paper a waste.",
+      "comment_grading": "Grading Scheme:<br />Homework (WebWork) 10%<br />Midterm Examination (Oct 22) 35%<br />Final Examination 55%",
+      "comment_workload": "Proper workload with several webwork quiz.",
+      "rating_content": 3,
+      "rating_teaching": 1,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "uzYnO9yZ5treJ2jhbLu22B3l2coLdZMa",
       "semester": "2023-24 Fall",
@@ -6128,8 +6198,8 @@
       "has_attendance": false,
       "has_reading": false,
       "has_presentation": false,
-      "upvote_count": 21,
-      "vote_count": 22,
+      "upvote_count": 22,
+      "vote_count": 23,
       "comment_count": 2,
       "attachments": []
     },
@@ -6301,8 +6371,8 @@
       "has_attendance": false,
       "has_reading": false,
       "has_presentation": false,
-      "upvote_count": 59,
-      "vote_count": 65,
+      "upvote_count": 60,
+      "vote_count": 66,
       "comment_count": 2,
       "attachments": []
     },
@@ -16176,8 +16246,8 @@
       "has_attendance": false,
       "has_reading": false,
       "has_presentation": false,
-      "upvote_count": 55,
-      "vote_count": 85,
+      "upvote_count": 56,
+      "vote_count": 86,
       "comment_count": 5,
       "attachments": []
     },
@@ -19354,8 +19424,8 @@
       "has_attendance": false,
       "has_reading": false,
       "has_presentation": false,
-      "upvote_count": 113,
-      "vote_count": 119,
+      "upvote_count": 114,
+      "vote_count": 120,
       "comment_count": 4,
       "attachments": []
     },

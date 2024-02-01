@@ -34,11 +34,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"ISOM\" data-code=\"2020\" href=\"/review/ISOM2020\" target=\"_blank\">ISOM 2020</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"1021\" href=\"/review/COMP1021\" target=\"_blank\">COMP 1021</a>",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"4331\" href=\"/review/COMP4331\" target=\"_blank\">COMP 4331</a>, <a class=\"course-link\" data-subject=\"IEDA\" data-code=\"3560\" href=\"/review/IEDA3560\" target=\"_blank\">IEDA 3560</a>",
-    "rating_content": 4.5,
-    "rating_teaching": 4.3,
-    "rating_grading": 4.2,
-    "rating_workload": 3.97,
-    "review_count": 30,
+    "rating_content": 4.48,
+    "rating_teaching": 4.28,
+    "rating_grading": 4.17,
+    "rating_workload": 4,
+    "review_count": 29,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -49,7 +49,7 @@
       {
         "id": 378,
         "name": "ZHENG, Rong",
-        "count": 13
+        "count": 12
       },
       {
         "id": 802,
@@ -89,41 +89,6 @@
     ]
   },
   "reviews": [
-    {
-      "hash": "MvuoXnpK1hvhi5t3sufHHbNtu1TIzs5z",
-      "semester": "2023-24 Fall",
-      "instructors": [
-        {
-          "id": 378,
-          "name": "ZHENG, Rong",
-          "rating": 1
-        }
-      ],
-      "author": "ztyxfd2912",
-      "date": "Dec 28, 2023",
-      "title": "You&#039;ll need reliable teammates",
-      "comment_content": "Good, interesting and easy intro to data mining.",
-      "comment_teaching": "Nice, going to the lectures for this course makes attending courses on 9 am acceptable for me.",
-      "comment_grading": "Still got an A with extremely low score for 1 homework (lowest in my session, as I have 5 midterms around that period and have no time left for rewriting it all over again), full marks/around upper quartile in other 3 homework; around 90 in midterm and final; full marks for lab and in-lecture quiz. I&#039;ll say the grading is good.",
-      "comment_workload": "B if you have good teammates, E if you didn&#039;t choose them carefully. There would be 1 homework released during final period, and finishing it ON YOUR OWN would be a great mental challenge. <br />As my teammates are not reliable, I basically finished 3 of the 4 hws alone. God damn it.",
-      "rating_content": 5,
-      "rating_teaching": 5,
-      "rating_grading": 5,
-      "rating_workload": 3,
-      "has_midterm": true,
-      "has_final": true,
-      "has_quiz": false,
-      "has_assignment": true,
-      "has_essay": false,
-      "has_project": false,
-      "has_attendance": true,
-      "has_reading": false,
-      "has_presentation": false,
-      "upvote_count": 0,
-      "vote_count": 1,
-      "comment_count": 0,
-      "attachments": []
-    },
     {
       "hash": "cIxaLv7W7ARe9oBgHU6NTOEN8RA9P7Wa",
       "semester": "2022-23 Fall",

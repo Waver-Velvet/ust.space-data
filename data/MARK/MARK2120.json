@@ -40,10 +40,10 @@
     "corequisites": "",
     "exclusions": "",
     "rating_content": 4.39,
-    "rating_teaching": 4.38,
-    "rating_grading": 3.81,
-    "rating_workload": 3.9,
-    "review_count": 242,
+    "rating_teaching": 4.37,
+    "rating_grading": 3.79,
+    "rating_workload": 3.89,
+    "review_count": 243,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -62,13 +62,13 @@
         "count": 37
       },
       {
-        "id": 997,
-        "name": "KIM, Christine",
-        "count": 35
-      },
-      {
         "id": 1080,
         "name": "PUIG GARRIGO, Coral",
+        "count": 36
+      },
+      {
+        "id": 997,
+        "name": "KIM, Christine",
         "count": 35
       },
       {
@@ -149,6 +149,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "GNC0VvoNXLq1gsMYbOYwCVpX8H0MGSKL",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1080,
+          "name": "PUIG GARRIGO, Coral",
+          "rating": 1
+        }
+      ],
+      "author": "Messi101010",
+      "date": "Feb 02, 2024",
+      "title": "RUNNNNNNNNNNN!!!",
+      "comment_content": "typical marketing syllabus, follow what the slides would show step by step",
+      "comment_teaching": "I could not hear anything becuz her huge Spanish-English accent in the first few lectures. It&#039;s better to have a translator...",
+      "comment_grading": "not fair grading. I don&#039;t understand why she said our group performance was &#039;mic-dropped&#039; and generally satisfied with our content but gave a C+ eventually. In addition, she just keeps on interrupting my presentation several times, I think it&#039;s rude and disrespectful for presenters.",
+      "comment_workload": "acceptable. You only have to review the slides carefully before exams and have group meetings and rehearsals before the presentation.",
+      "rating_content": 4,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "w6bncEkt227DYGi2BPghgz2Cfy8TVHSe",
       "semester": "2023-24 Fall",

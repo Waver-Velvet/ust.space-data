@@ -26,11 +26,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 3.66,
+    "rating_content": 3.64,
     "rating_teaching": 4.1,
-    "rating_grading": 4.05,
-    "rating_workload": 4.15,
-    "review_count": 41,
+    "rating_grading": 4,
+    "rating_workload": 4.17,
+    "review_count": 42,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -41,7 +41,7 @@
       {
         "id": 388,
         "name": "XU, Yan",
-        "count": 38
+        "count": 39
       },
       {
         "id": 801,
@@ -56,6 +56,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "oWdGORF0Lh039LmSIwwoaS6PjewrPcnX",
+      "semester": "2023-24 Winter",
+      "instructors": [
+        {
+          "id": 388,
+          "name": "XU, Yan",
+          "rating": 1
+        }
+      ],
+      "author": "mysouleftme",
+      "date": "Feb 01, 2024",
+      "title": "",
+      "comment_content": "Lecture slides cover quite a wide range of topics from some very the very fundamentals of data transfer in networking towards the policies of information infrastructure in modern days. Wished there was a greater focus on the underlying technology of information infrastructure though.",
+      "comment_teaching": "Decent teaching. Professor Xu liked to share his personal anecdotes of his experience working in the telecommunications industry.",
+      "comment_grading": "Rather harsh",
+      "comment_workload": "Not as intense as others made it out to be. The midterm exam is really just an online assignment and it is open book. The final exam requires more memorization but the amount of content is still manageable.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 2,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "GZ8Hl3OdPJSL12fh4sFGoQbMFy8GGeER",
       "semester": "2023-24 Winter",

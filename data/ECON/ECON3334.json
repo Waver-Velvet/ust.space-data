@@ -33,11 +33,11 @@
     "prerequisites": "One of <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"2500\" href=\"/review/ISOM2500\" target=\"_blank\">ISOM 2500</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2411\" href=\"/review/MATH2411\" target=\"_blank\">MATH 2411</a> or <a class=\"course-link\" data-subject=\"MATH\" data-code=\"3423\" href=\"/review/MATH3423\" target=\"_blank\">MATH 3423</a>",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 3.69,
-    "rating_teaching": 3.83,
+    "rating_content": 3.7,
+    "rating_teaching": 3.86,
     "rating_grading": 4.19,
-    "rating_workload": 4.24,
-    "review_count": 42,
+    "rating_workload": 4.26,
+    "review_count": 43,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -53,7 +53,7 @@
       {
         "id": 1467,
         "name": "FENG, Junlong",
-        "count": 13
+        "count": 14
       },
       {
         "id": 149,
@@ -73,6 +73,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "ndqZBYgnOjP4uRnTYYiu02Bhu8wtkmLA",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1467,
+          "name": "FENG, Junlong",
+          "rating": 1
+        }
+      ],
+      "author": "fishyy1234",
+      "date": "Feb 01, 2024",
+      "title": "",
+      "comment_content": "Module 1. Introduction (Ch. 1)<br />Module 2. Review of Probability (Ch. 2)<br />Module 3. Review of Statistics (Ch. 3)<br />Module 4. Linear Regression with a Single Regressor: Estimation (Ch. 4)<br />Module 5. Linear Regression with a Single Regressor: Inference (Ch. 5)<br />Module 6. Linear Regression with Multiple Regressors: Estimation (Ch. 6)<br />Module 7. Linear Regression with Multiple Regressors: Inference (Ch. 7 &amp; 9)<br />Module 8. Linear Regression with Too Many Regressors: Big Data (Ch. 14)",
+      "comment_teaching": "One of the best lecturers I have met in UST.<br />His English is good and he explains clearly that you could understand most of the course content by attending the lecture. He gave us 5 minutes break for each lesson. But he spent too much time on the first three topics that he didn’t have time to teach the last module (Big data)",
+      "comment_grading": "No attendance requires<br /><br />Hw<br />4 asms in total<br />Each costs 10 marks<br />My score: 39/40<br /><br />Midterm<br />Mean: 43.5<br />Median: 44<br />Highest: 59<br />My score: 44<br /><br />Final<br />Mean: 65.5<br />Highest: 94<br />My score: 77<br /><br />Overall grade: B+",
+      "comment_workload": "Light. Only 4 assignments and I don’t think they are time consuming. Midterm and final are harder than expected. For the midterm exam, he gave us only one hour that I finished it in the last minute. For the final, time is adequate but it was lot more difficult than the midterm. I think it’s because the midterm mean was too high.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "yGKmlZCbyHDFiLZEpuot5awo189xMAr1",
       "semester": "2023-24 Fall",

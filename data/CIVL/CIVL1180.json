@@ -14,11 +14,11 @@
     "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1401\" href=\"/review/LANG1401\" target=\"_blank\">LANG 1401</a> OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1402\" href=\"/review/LANG1402\" target=\"_blank\">LANG 1402</a> OR LANG 1403 OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1404\" href=\"/review/LANG1404\" target=\"_blank\">LANG 1404</a> OR LANG 1002 (prior to 2022-23)",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 3,
-    "rating_teaching": 4,
+    "rating_content": 4,
+    "rating_teaching": 4.5,
     "rating_grading": 5,
-    "rating_workload": 3,
-    "review_count": 1,
+    "rating_workload": 4,
+    "review_count": 2,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -29,11 +29,46 @@
       {
         "id": 1696,
         "name": "SU, Hui",
-        "count": 1
+        "count": 2
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "IBpVuNQPtc9iK0w7lM3ISfwV9hjMy453",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1696,
+          "name": "SU, Hui",
+          "rating": 1
+        }
+      ],
+      "author": "Isaackk",
+      "date": "Feb 01, 2024",
+      "title": "nice class",
+      "comment_content": "scholar but interesting <br />there is wide range of stuff covering satellite physics atmosphere and geography. it is not boring, sometimes appearing complicated but the assignment and exam are quite easy especially with a cheatsheet.",
+      "comment_teaching": "Su as well as her Tas are really patient <br />u can ask them or discuss anything(including grades) until you get a satisfactory result",
+      "comment_grading": "grading is really good<br />it&#039;s easy to get full marks in every event, including assignment mid <br />and final project",
+      "comment_workload": "workload is small<br />just some simple questions weekly<br />no presentation no attendance no final",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "8fVnO475RZEtXFmaqzaI5fMsiXU4WBir",
       "semester": "2023-24 Fall",

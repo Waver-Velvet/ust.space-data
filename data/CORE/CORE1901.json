@@ -15,11 +15,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "IDPO 1020",
-    "rating_content": 3.54,
-    "rating_teaching": 3.46,
-    "rating_grading": 3.19,
-    "rating_workload": 3.54,
-    "review_count": 26,
+    "rating_content": 3.48,
+    "rating_teaching": 3.44,
+    "rating_grading": 3.12,
+    "rating_workload": 3.48,
+    "review_count": 25,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -30,7 +30,7 @@
       {
         "id": 765,
         "name": "NAM, Sai Lok",
-        "count": 15
+        "count": 14
       },
       {
         "id": 384,
@@ -40,7 +40,7 @@
       {
         "id": 978,
         "name": "SAUERWEIN, Meike",
-        "count": 9
+        "count": 8
       },
       {
         "id": 1572,
@@ -454,46 +454,6 @@
       "has_reading": true,
       "has_presentation": false,
       "upvote_count": 1,
-      "vote_count": 1,
-      "comment_count": 0,
-      "attachments": []
-    },
-    {
-      "hash": "H779XsEzEgdBXqmVLwV3vphziWYraNb7",
-      "semester": "2022-23 Fall",
-      "instructors": [
-        {
-          "id": 765,
-          "name": "NAM, Sai Lok",
-          "rating": 1
-        },
-        {
-          "id": 978,
-          "name": "SAUERWEIN, Meike",
-          "rating": 1
-        }
-      ],
-      "author": "Tom Thomas Lai",
-      "date": "Jun 21, 2023",
-      "title": "Fun course, good grades, must pick if you have good critical thinking skills",
-      "comment_content": "It provides a basic understanding of critical thinking skills, which will be tested upon during quizzes and have us make use of them to identify fallacies for the essays in the latter half of the course",
-      "comment_teaching": "The instructor is very good at keeping our attention with his jokes and the use of mentimeter, while also being a very good instructor. However, you need to pay attention in class as the ppt does not provide explanations to the examples and can only be learnt from Dr nam in class.",
-      "comment_grading": "As long as you have a basic understanding of critical thinking skills the course is very easy. I barely put in any effort and i got an A.",
-      "comment_workload": "The first 6 weeks of the course does not take attendance aside from the 2 open book quizzes, which you can discuss with your friends, so you can easily get full marks for it. As for the next 6 weeks there is an essay assignment every 2 weeks which is very simple to get good grades on. However, the latter 6 weeks of lessons requires attendance.",
-      "rating_content": 5,
-      "rating_teaching": 4,
-      "rating_grading": 5,
-      "rating_workload": 5,
-      "has_midterm": false,
-      "has_final": false,
-      "has_quiz": true,
-      "has_assignment": false,
-      "has_essay": true,
-      "has_project": false,
-      "has_attendance": true,
-      "has_reading": true,
-      "has_presentation": true,
-      "upvote_count": 0,
       "vote_count": 1,
       "comment_count": 0,
       "attachments": []

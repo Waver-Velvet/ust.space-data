@@ -35,11 +35,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"1022P\" href=\"/review/COMP1022P\" target=\"_blank\">COMP 1022P</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"1022Q\" href=\"/review/COMP1022Q\" target=\"_blank\">COMP 1022Q</a> (prior to 2020-21), <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2011\" href=\"/review/COMP2011\" target=\"_blank\">COMP 2011</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012H\" href=\"/review/COMP2012H\" target=\"_blank\">COMP 2012H</a>",
-    "rating_content": 4.46,
+    "rating_content": 4.47,
     "rating_teaching": 4.61,
     "rating_grading": 4.25,
     "rating_workload": 4.54,
-    "review_count": 899,
+    "review_count": 901,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -55,7 +55,7 @@
       {
         "id": 99,
         "name": "LAM, Gibson",
-        "count": 280
+        "count": 281
       },
       {
         "id": 799,
@@ -93,18 +93,88 @@
         "count": 4
       },
       {
-        "id": 1825,
-        "name": "GOLIN, Mordecai J.",
+        "id": 1576,
+        "name": "CHEUNG, Shing-Chi",
         "count": 3
       },
       {
-        "id": 1576,
-        "name": "CHEUNG, Shing-Chi",
-        "count": 2
+        "id": 1825,
+        "name": "GOLIN, Mordecai J.",
+        "count": 3
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "aSiuc32axu5XJXdQAxacNue5AEMG0Ue2",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 99,
+          "name": "LAM, Gibson",
+          "rating": 1
+        }
+      ],
+      "author": "appleferv_",
+      "date": "Feb 01, 2024",
+      "title": "Do not enroll in a fall semester!!!!!",
+      "comment_content": "MAinly about Basic python problems, teaching us to be familiar with &quot;turtle&quot;.",
+      "comment_teaching": "Gibson is good. I was enrolled in David&#039;s course but he loved to ask student to answer questions, so I slipped to Gibson&#039;s course.",
+      "comment_grading": "bad!! Especially on fall term.<br />I got 93 in midterm and 88 in final and all labs 100, where both midterm and final have mean score of about 40-50.<br />But I finally got B+, which is ridiculous",
+      "comment_workload": "EASY.There&#039;s no too much homework, only 3-4 labs during the whole semester, and easy to get a score of 100.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 1,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "VneFrAnSiLPVMqG7O0WvQbtDMpvOv0CT",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1576,
+          "name": "CHEUNG, Shing-Chi",
+          "rating": 1
+        }
+      ],
+      "author": "Casper.",
+      "date": "Feb 01, 2024",
+      "title": "Easy but not getting good grade easily",
+      "comment_content": "easy python stuff, can totally self-learning",
+      "comment_teaching": "fair",
+      "comment_grading": "Most people learned python in advance. So, you better learn it before class.<br />The lab assignments are supposed to be full marks.<br />Midterm and Final are at a similar level, but the exam time is really rushed for me. So I didn&#039;t get a good grade as I am a careless person, I missed so much information and rushed to make decisions. You better have a preparation for the inadequate time to get a good grade.",
+      "comment_workload": "only have 3 lab assignments, and they are not difficult. Mostly can be completed in half an hour.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "YfZMy9PCN8ZCXeAl5Tc1iABxNJW2g5sp",
       "semester": "2021-22 Fall",

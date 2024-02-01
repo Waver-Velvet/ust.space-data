@@ -20,11 +20,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 4.33,
-    "rating_teaching": 4.33,
-    "rating_grading": 4.67,
+    "rating_content": 4.5,
+    "rating_teaching": 4.5,
+    "rating_grading": 4.75,
     "rating_workload": 5,
-    "review_count": 3,
+    "review_count": 4,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -35,16 +35,56 @@
       {
         "id": 1084,
         "name": "SEMMELHACK, Julie",
-        "count": 2
+        "count": 3
       },
       {
         "id": 1089,
         "name": "WANG, Yiwen",
-        "count": 2
+        "count": 3
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "GHkDVVq7fQiit83YLk95U1Gq855Oz13d",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1084,
+          "name": "SEMMELHACK, Julie",
+          "rating": 1
+        },
+        {
+          "id": 1089,
+          "name": "WANG, Yiwen",
+          "rating": 1
+        }
+      ],
+      "author": "jeremychang",
+      "date": "Feb 01, 2024",
+      "title": "Introduction to Neural Engineering",
+      "comment_content": "The two professors introduce the fundamental neurobiological mechanism and computational neuroscience respectively. Biology part is easy to understand with biological background, computation part demands decent math and engineering background.<br />As a introduction, this is a great choice to bring you to know neuroscience.<br />两位教授分别介绍了基本的神经生物学机制和计算神经科学。生物部分很容易理解，有生物学背景，计算部分要求有良好的数学和工程背景。<br />作为一个介绍，这是一个很好的选择，让你了解神经科学。",
+      "comment_teaching": "Both lecturers are good at teaching.<br />两位讲师都擅长教学。",
+      "comment_grading": "It is depends on your understanding of this field.<br />The midterm review graded quite good, as long as you follow the rules. In the final presentation and report, the point is that you have to understand what Yiwen wants you to present as a group and individually. (like a timeline)<br />这取决于你对这个领域的理解。<br />只要你遵守规则，期中复习的成绩还不错。在最后的演示和报告中，重点是你必须理解Yiwen希望你作为一个小组和个人呈现什么。(比如时间轴)",
+      "comment_workload": "There is no attendence requirement. What students need to finish is a review paper for midterm and a report with presentation for final.<br />The topic is determined by yourself, so if you have research experience, this course has no challenges for you.<br />没有出勤要求。学生需要完成的是期中考试的复习论文和期末考试的报告。<br />题目由你自己决定，所以如果你有研究经验，这门课对你来说没有挑战。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "deCFZ8ecA6tmmoLecVF57JT3wegPDU9P",
       "semester": "2023-24 Fall",

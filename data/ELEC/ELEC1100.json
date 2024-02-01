@@ -38,11 +38,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 4.42,
+    "rating_content": 4.41,
     "rating_teaching": 4.21,
     "rating_grading": 4.06,
     "rating_workload": 3.96,
-    "review_count": 265,
+    "review_count": 266,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -116,6 +116,11 @@
         "count": 3
       },
       {
+        "id": 1754,
+        "name": "WONG, Man Hoi",
+        "count": 3
+      },
+      {
         "id": 159,
         "name": "BERMAK, Amine",
         "count": 2
@@ -131,11 +136,6 @@
         "count": 2
       },
       {
-        "id": 1754,
-        "name": "WONG, Man Hoi",
-        "count": 2
-      },
-      {
         "id": 192,
         "name": "CHAN, Man Sun",
         "count": 1
@@ -148,6 +148,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "K47fryC7O7tjI9N7cPLGmIJcH1foP80o",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1754,
+          "name": "WONG, Man Hoi",
+          "rating": 1
+        }
+      ],
+      "author": "shallow dream",
+      "date": "Feb 01, 2024",
+      "title": "Low workload with little things to learn",
+      "comment_content": "Not that much things to learn. I would say the content is out of date and&nbsp;&nbsp;it is just very basic things in terms of Electronic Engineering (e.g. KCL, KVL, transistor)",
+      "comment_teaching": "Good, can explain things clear.",
+      "comment_grading": "Not bad nor not good. Difficult to get very satisfying grade but would also difficult to get bad grade.<br />I get A.<br />Project and report (20/20)<br />Midterm (13/15)<br />final (90/100)<br />Lab get full mark.<br />Quiz get full marks.",
+      "comment_workload": "There is no things to complain about workload. The most relaxing course I take in UST I would say. A suitable course for getting better BEST 24 cre.",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "7SwMLHwASduF6K0BtW33vcpqD7QJQtoO",
       "semester": "2023-24 Fall",

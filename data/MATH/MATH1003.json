@@ -29,7 +29,7 @@
     "rating_teaching": 3.52,
     "rating_grading": 4.08,
     "rating_workload": 4.09,
-    "review_count": 222,
+    "review_count": 223,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -70,7 +70,7 @@
       {
         "id": 1663,
         "name": "WU, Yueping",
-        "count": 16
+        "count": 17
       },
       {
         "id": 1662,
@@ -80,7 +80,7 @@
       {
         "id": 1664,
         "name": "XU, Zili",
-        "count": 8
+        "count": 9
       },
       {
         "id": 775,
@@ -140,6 +140,46 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "RBXIjXsPjmm0ZOKen2aBv9FdOjy4Pa30",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1664,
+          "name": "XU, Zili",
+          "rating": 1
+        },
+        {
+          "id": 1663,
+          "name": "WU, Yueping",
+          "rating": 1
+        }
+      ],
+      "author": "艾蜜莉",
+      "date": "Feb 01, 2024",
+      "title": "Teaching is horrible but still recommend his course",
+      "comment_content": "Please refer to other comments.",
+      "comment_teaching": "The professor has a strong accent (but I can still understand what he’s saying). His teaching is very boring and almost no one listens to him. But I still recommend him because his handwritten notes are very clear and simple (only around 10 pages for each lecture). You can rely on the notes without having a textbook. 3 years of past papers are provided before midterm and final. The MT is very easy as the questions are very very similar to the past papers he provided (many students get full marks). Final is a bit challenging but some of the questions are similar to the examples mentioned in the lecture notes that’s why I say his notes are very useful. Btw I would recommend you to attend professor Wu’s lectures. I skipped all the lectures of Xu and go to attend Wu’s lectures. Her teaching is really clear for those who are not good at math. She teaches slowly and explains every step. Overall, I would say Xu’s lecture notes and Wu’s teaching is a perfect combination.",
+      "comment_grading": "I think the grading is fair.<br />Assignment 99%<br />Midterm 100%<br />Final above mean by 1 s.d.<br />I got A-",
+      "comment_workload": "Don’t remember the exact number of assignments but each assignment consists of only ten questions and they are not very challenging. <br />If you revise all the lecture notes and do all the past papers provided, your grade won’t be bad.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "mu0pImSN2ZnvwdAShxxd5Y6OMzkzSyJI",
       "semester": "2023-24 Fall",
