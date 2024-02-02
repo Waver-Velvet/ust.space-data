@@ -39,9 +39,9 @@
     "exclusions": "<a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1111\" href=\"/review/PHYS1111\" target=\"_blank\">PHYS 1111</a>, <a class=\"course-link\" data-subject=\"PHYS\" data-code=\"1312\" href=\"/review/PHYS1312\" target=\"_blank\">PHYS 1312</a>",
     "rating_content": 3.75,
     "rating_teaching": 3.88,
-    "rating_grading": 3.94,
+    "rating_grading": 3.95,
     "rating_workload": 3.34,
-    "review_count": 488,
+    "review_count": 489,
     "single_review": false,
     "enrollment_status": 1,
     "is_favourited": false,
@@ -52,7 +52,7 @@
       {
         "id": 609,
         "name": "CHEUNG, Man Fung",
-        "count": 148
+        "count": 149
       },
       {
         "id": 610,
@@ -172,6 +172,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "4HF69DR4vyuelmKNY1yYnxqhE42lM8r2",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 609,
+          "name": "CHEUNG, Man Fung",
+          "rating": 1
+        }
+      ],
+      "author": "Li Zhuoqun",
+      "date": "Feb 02, 2024",
+      "title": "NO WORKLOAD",
+      "comment_content": "非常非常难，很难的课，要学习最难的物理知识。物理课是许多学生认为最具挑战性的学科之一，因为它需要学生掌握许多复杂的概念和数学公式。与其他科目不同，物理学涉及到许多抽象的概念和理论，这需要学生具备较高的抽象思维能力，以便能够理解和应用这些概念。此外，物理学也需要学生具备较强的数学能力，以便能够解决各种复杂的数学问题。在物理学中，学生需要掌握许多基本的概念，如力、加速度、速度和能量等，这些概念之间的相互作用也需要学生进行深入的理解。总之，物理学是一门非常具有挑战性的学科，需要学生投入大量的时间和精力来理解和掌握其中的概念和理论。",
+      "comment_teaching": "",
+      "comment_grading": "很好的grade",
+      "comment_workload": "",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "aanqziyvEgZXB0cYSFcg6746X2vj1Bd5",
       "semester": "2023-24 Fall",

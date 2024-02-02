@@ -30,11 +30,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 4.13,
+    "rating_content": 4.12,
     "rating_teaching": 4.07,
     "rating_grading": 3.99,
     "rating_workload": 4.05,
-    "review_count": 1129,
+    "review_count": 1131,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -50,7 +50,7 @@
       {
         "id": 2,
         "name": "MAK, Kelvin P",
-        "count": 168
+        "count": 169
       },
       {
         "id": 3,
@@ -95,7 +95,7 @@
       {
         "id": 1629,
         "name": "CHEN, Wilbur",
-        "count": 30
+        "count": 31
       },
       {
         "id": 1520,
@@ -190,6 +190,76 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "TZ7fvc57lK57FsRY3wDrZputP2aKGt7p",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 2,
+          "name": "MAK, Kelvin P",
+          "rating": 1
+        }
+      ],
+      "author": "Zia",
+      "date": "Feb 02, 2024",
+      "title": "",
+      "comment_content": "Investing, financing decisions &amp; balance sheet<br />Operating decisions &amp; income statement<br />Adjustments, financial statements &amp; quality of earnings<br />Sales revenue; receivables &amp; cash<br />Cost of goods sold &amp; inventory<br />Property, plant &amp; equipment (“PPE”)<br />Current liabilities<br />Owners’ equity<br />Statement of Cash Flows",
+      "comment_teaching": "Slides are a bit simple so using the textbook would be more helpful.",
+      "comment_grading": "Take-home assignment exercise (the best 4 submissions counted towards total assessment) - 30%<br />Mid-term exam - 20%<br />Final exam period of Fall Term - 50%<br /><br />If you work hard for the assignment it will help boost your grade if you dont do as well in the exams.",
+      "comment_workload": "He skipped some topics which other profs had which was better for us. Weekly assignment but its doable. Also allowed to take cheat sheet into exam.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "S95VHB6sifR9S5uNscSGgZf5YapovJmn",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1629,
+          "name": "CHEN, Wilbur",
+          "rating": 1
+        }
+      ],
+      "author": "Johnn",
+      "date": "Feb 02, 2024",
+      "title": "nice lecturer good grading",
+      "comment_content": "True hell for students who didn&#039;t study bafs during their secondary study<br />But if you did, this course will be an easy A for you, my frd who didn&#039;t study before exams and always played games during the lecture easily aced the midterm and final with early leave just because he had study bafs",
+      "comment_teaching": "nice lecture, he spoke relatively fast during the lecture, he briefly came over the concept and had lots of poll questions for you<br />However I don&#039;t even understand the concept how do I answer the questions right?<br />But you are welcome to have a consultant by office hours with him, he will answer your question",
+      "comment_grading": "very good grad<br />I scored below mean 1 sd in my midterm, an unknown score for my final, but I still managed to get a B- overall",
+      "comment_workload": "not high, an assignment every two weeks with three trials every time<br />but for me, I need on average two hours to finish each assignment. at least you can usually get a full mark after all three trials, a sure 20 percent of the course",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "dQ8SGP39I1ZNlCuHYVzX153Q93IbNKIz",
       "semester": "2023-24 Fall",

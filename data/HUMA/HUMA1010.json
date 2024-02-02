@@ -27,10 +27,10 @@
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"CORE\" data-code=\"1501\" href=\"/review/CORE1501\" target=\"_blank\">CORE 1501</a>",
     "rating_content": 4.09,
-    "rating_teaching": 3.55,
-    "rating_grading": 4.27,
+    "rating_teaching": 3.59,
+    "rating_grading": 4.26,
     "rating_workload": 4.18,
-    "review_count": 33,
+    "review_count": 34,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -46,7 +46,7 @@
       {
         "id": 1194,
         "name": "LI, Dechao",
-        "count": 4
+        "count": 5
       },
       {
         "id": 1502,
@@ -56,6 +56,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "Uyq8K4JCthvvR1MDUkYoVXRRPCRGGydj",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1194,
+          "name": "LI, Dechao",
+          "rating": 1
+        }
+      ],
+      "author": "Disapparation",
+      "date": "Feb 02, 2024",
+      "title": "workload 有d大",
+      "comment_content": "linguistic嘅野，IPA，word classes，唔同嘅語系…..",
+      "comment_teaching": "解釋得好清楚同埋ppt都好清晰，會講埋quiz嘅重點",
+      "comment_grading": "都算幾難拎好grade<br />quiz好多高分嘅 可能其他評論話好grade<br />所以好多人都好努力咁讀？",
+      "comment_workload": "有些許大<br />隔兩週就有一個quiz<br />4 quizs，2 assignments and 1 final<br />final難好多，要溫埋之前學過嘅所有野，平時嘅workload會細d",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "XexAHtekLHv0g1B3kx6nOdf3l8BlQUbN",
       "semester": "2023-24 Fall",

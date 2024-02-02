@@ -34,10 +34,10 @@
     "corequisites": "",
     "exclusions": "Level 3 or above in HKDSE 1x Biology",
     "rating_content": 3.99,
-    "rating_teaching": 3.54,
+    "rating_teaching": 3.55,
     "rating_grading": 4.04,
     "rating_workload": 4.36,
-    "review_count": 101,
+    "review_count": 102,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -48,12 +48,12 @@
       {
         "id": 474,
         "name": "HUNG, Siu Chun",
-        "count": 63
+        "count": 64
       },
       {
         "id": 477,
         "name": "TANG, Jessica Ce Mun",
-        "count": 59
+        "count": 60
       },
       {
         "id": 637,
@@ -73,6 +73,46 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "ccAqUsAkyHhYQYJFKMcXHbElOz8YYdWI",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 1
+        }
+      ],
+      "author": "It's time",
+      "date": "Feb 03, 2024",
+      "title": "If you didn&#039;t have any chem/bio foundation, DO NOT take this course",
+      "comment_content": "Syllabus stolen from others :<br />Jessica Tang: (midterm)<br />1. The study of life<br />2. The chemical basis of life<br />3. The molecules of life<br />4. Cell structures and function<br />5. Biological membranes: structure and function<br />6. Energy and enzymes<br />7. Cellular respiration<br /><br />Eugene Hung: (final)<br />1. Determination of form and function of an organism<br />2. Making a new life<br />3. Differences among living individuals<br />4. Special topic: viral infection - immune responses, prevention &amp; treatment",
+      "comment_teaching": "It separates into two halves, <br />Before MT is Dr. Tang<br />After MT is Dr. Hung<br /><br />Dr Tang&#039;s part is just reading from the slides but I wouldn&#039;t complain much. Dr. Hung&#039;s part is more interesting. It includes some extra questions which could make you think more on the topic (most of the extra questions are not included in exams).<br />Dr. Hung&#039;s ppt could be confusing without attending lectures or watch RVCs. Therefore I would suggest attending the lectures. (though I didn&#039;t)",
+      "comment_grading": "5% parti (IPRS) for Dr. Tang<br />45% MT<br />5% individual project<br />45% final<br /><br />For midterm exam, 70 single-choice MCQ in 1hr<br />For final exam, 90 single-choice MCQ in 80min<br /><br />Midterm exam is quite easy if you have attended the lectures.<br />but I would like to complain the question about binomial nomenclature. Make sure you know which word of the binomial nomenclature should be capitalized and in italics.<br /><br />Final exam is hard even if you have attended all the lectures. Make sure you do understand the concepts and memorize well.",
+      "comment_workload": "The workload is quite light as there is just one individual project (5% of the grade) related to DNA point mutation. You can simply read the lecture slide related to point mutation and start doing the project. <br /><br />If you consider revising, I would give a B to Dr. Tang part and a D to Dr. Hung part. Dr. Tang&#039;s part is just basic biology foundation and it does not require that a lot of study to get a good grade. For Dr. Hung&#039;s part, it becomes way more complicated and you have to pay extra effort to get a good grade.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "2dK2J3pplSgFmXb91zUV3K6kMQQWSCqA",
       "semester": "2023-24 Fall",

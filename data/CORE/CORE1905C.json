@@ -75,7 +75,7 @@
       "rating_workload": 4,
       "has_midterm": false,
       "has_final": false,
-      "has_quiz": false,
+      "has_quiz": true,
       "has_assignment": false,
       "has_essay": false,
       "has_project": false,

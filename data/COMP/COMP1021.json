@@ -35,11 +35,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"1022P\" href=\"/review/COMP1022P\" target=\"_blank\">COMP 1022P</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"1022Q\" href=\"/review/COMP1022Q\" target=\"_blank\">COMP 1022Q</a> (prior to 2020-21), <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2011\" href=\"/review/COMP2011\" target=\"_blank\">COMP 2011</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012H\" href=\"/review/COMP2012H\" target=\"_blank\">COMP 2012H</a>",
-    "rating_content": 4.47,
+    "rating_content": 4.46,
     "rating_teaching": 4.61,
     "rating_grading": 4.25,
     "rating_workload": 4.54,
-    "review_count": 901,
+    "review_count": 902,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -55,7 +55,7 @@
       {
         "id": 99,
         "name": "LAM, Gibson",
-        "count": 281
+        "count": 282
       },
       {
         "id": 799,
@@ -105,6 +105,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "qWClTwUCBj9YwhaHbA3i3hY2wbPHZdiI",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 99,
+          "name": "LAM, Gibson",
+          "rating": 1
+        }
+      ],
+      "author": "Vickoguo",
+      "date": "Feb 02, 2024",
+      "title": "",
+      "comment_content": "the course offers a solid foundation in computer science. The content is well-structured and comprehensive, providing a good overview of the subject matter. However, the course heavily relies on the turtle library module for its programming assignments. While turtle is a great tool for beginners to grasp the basics of programming, its practicality in real-world applications is limited. In my opinion, the overuse of turtle does not adequately prepare students for future challenges in the field of computer science.",
+      "comment_teaching": "teaching style is commendable and he consistently goes above and beyond to ensure students understand the material. He provides additional exercises in every meeting, which greatly aids in reinforcing the concepts taught in class. His dedication to teaching and his ability to make complex topics understandable are truly appreciated.",
+      "comment_grading": "The grading system in COMP 1021 could use some improvements. The course follows a curve, which can be challenging and may not accurately reflect a student’s understanding of the material.<br /><br />There are two grading schemes: one where the final exam constitutes 58% of the grade and lab work makes up the remaining 42%, and another that includes the midterm. This can create confusion and inconsistency in how students’ performance is evaluated.",
+      "comment_workload": "The workload for COMP 1021 is manageable. The course includes five labs that are quite straightforward, making it easy for students to grasp the concepts. The labs are well-structured and provide a good balance between challenge and achievability.<br /><br />Moreover, the lab assistant is very helpful and approachable. They provide valuable guidance and are always ready to assist students in understanding the lab exercises. This support greatly enhances the learning experience and makes the labs an enjoyable part of the course.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "aSiuc32axu5XJXdQAxacNue5AEMG0Ue2",
       "semester": "2023-24 Fall",
@@ -3275,7 +3310,7 @@
       "title": "Good intro to python and code, competitive course - hard to get A range",
       "comment_content": "The course provides an introduction to the coding language python and the content is satisfactory as an introductory course. It covers topics such as turtle graphics, logic operators, if elif while for loops, dictionaries etc (refer to other reviews for the complete list). <br /><br />As someone with very few coding experiences, this course acted pretty well as a starting point for coding and computer science. However, many of my classmates are like professionals of coding, so it makes the course really competitive. (refer grading section)",
       "comment_teaching": "Professor Gbison Lam is an engaging lecturer, as he uses interesting and memorable examples to illustrate the functionality of the codes and the logic behind programs. He also speaks loudly and clearly, overall he is a really good lecturer for the course.",
-      "comment_grading": "Grading system (If I remember correctly):<br />Option 1: Midterm 24% + Lab 36% + Finals 40% <br />Option 2: Lab 42% + Finals 58%<br /><br />Since the content itself is rather simple, students tend to do well in both midterms and finals, which drags up the curve. Any careless mistake made in the exams (like me) would pull down your grade.<br /><br />Another thing to note is that this flexibility in the grading system motivates you to work harder during finals to improve your grade. I went from failing the midterms to scoring well in the finals.<br /><br />Final grade: Hopefully A",
+      "comment_grading": "Grading system (If I remember correctly):<br />Option 1: Midterm 24% + Lab 36% + Finals 40% <br />Option 2: Lab 42% + Finals 58%<br /><br />Since the content itself is rather simple, students tend to do well in both midterms and finals, which drags up the curve. Any careless mistake made in the exams (like me) would pull down your grade.<br /><br />Another thing to note is that this flexibility in the grading system motivates you to work harder during finals to improve your grade. I went from failing the midterms to scoring well in the finals.<br /><br />Final grade: A-",
       "comment_workload": "Lessons: 2 lectures per week and 1 optional support session for lab enquires<br />Homework: 3 hand-in labs (which we are allowed ~2 weeks to complete each one) <br /><br />Workload is not too bad if you are just aiming for a pass, however if you want an A or above you will need to put extra effort in revision and practice (which can be achieved by doing the interactive exercises they provide)<br /><br />Workload grading: A if you just want to pass, but C if you want an A or above",
       "rating_content": 5,
       "rating_teaching": 5,

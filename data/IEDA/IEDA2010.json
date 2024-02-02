@@ -23,11 +23,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"IEDA\" data-code=\"2200\" href=\"/review/IEDA2200\" target=\"_blank\">IEDA 2200</a>",
-    "rating_content": 4.38,
-    "rating_teaching": 4.43,
+    "rating_content": 4.4,
+    "rating_teaching": 4.42,
     "rating_grading": 4.13,
-    "rating_workload": 4.34,
-    "review_count": 47,
+    "rating_workload": 4.33,
+    "review_count": 48,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -43,11 +43,46 @@
       {
         "id": 360,
         "name": "QIU, Xuan",
-        "count": 10
+        "count": 11
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "KQOcYQJ3E1Wn5NrED9lEH2z2tRiDSWrR",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 360,
+          "name": "QIU, Xuan",
+          "rating": 1
+        }
+      ],
+      "author": "ShadowWalker",
+      "date": "Feb 03, 2024",
+      "title": "",
+      "comment_content": "L1-Introduction<br />L2-Linear Programming<br />L3-Probability Basics<br />L4-Project Management<br />L5-Location Analysis<br />L6-Inventory Management<br /><br />After Midterm<br />L7-Supply Chain Management<br />L8-Forecasting<br />L9-Revenue Management<br /><br />This is a introduction of the IEDA course, so it just briefly explains the formulas used and the significance in our real life. The course is not difficult, since you can see that the mean score of the midterm is really high.",
+      "comment_teaching": "The professor is really nice and very patient, with a clear accent. She is able to speak Mandarin, so you can ask her questions in Mandarin if needed. The ppt is also comprehensive, making it easy to understand the content.<br /><br />Also, the first lecture after the midterm, we played a game called beer game. This helped us gain a better understanding of the concepts related to supply chain management, and the game was quite interesting.",
+      "comment_grading": "Homework10% (24/25)<br />Group Project 15% (unannounced)<br />Midterm 30% (91/100, mean:83.24, sd:15.13)<br />Final 45% (unannounced)<br />my grade: B<br /><br />Homework can easy get full mark, midterm and final are allow to bring a two-side A4 paper, so there&#039;s no worry about it. However, the group projecet is not that good, since some group project have used knowledge that exceeds the level covered in this course and even dressing in suits for the presentation, so you have to be pepared not getting high score in group project.",
+      "comment_workload": "There are only 4 homework and a group project that need to be completed. Each homework only have 2-3 questions and is not that diffcult. For the project, there are 5-7 people in a group, so it wouldn&#039;t be that much work to do if you guys divide the work well.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "2HEVi0aj5tviDoOSFLyN9WvmEenP71Bf",
       "semester": "2023-24 Fall",
@@ -114,7 +149,7 @@
       "has_reading": false,
       "has_presentation": false,
       "upvote_count": 0,
-      "vote_count": 0,
+      "vote_count": 1,
       "comment_count": 0,
       "attachments": []
     },
@@ -143,7 +178,7 @@
       "has_reading": false,
       "has_presentation": false,
       "upvote_count": 0,
-      "vote_count": 0,
+      "vote_count": 1,
       "comment_count": 0,
       "attachments": []
     },

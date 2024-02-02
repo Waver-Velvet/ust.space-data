@@ -23,11 +23,11 @@
     "prerequisites": "Grade B or above in AL Pure Mathematics/AL Applied Mathematics; OR level 5* or above in HKDSE Mathematics Extended Module M1/M2; OR grade A- or above in <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1014\" href=\"/review/MATH1014\" target=\"_blank\">MATH 1014</a>; OR grade B+ or above in <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a> / <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1024\" href=\"/review/MATH1024\" target=\"_blank\">MATH 1024</a>",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"2711\" href=\"/review/COMP2711\" target=\"_blank\">COMP 2711</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2343\" href=\"/review/MATH2343\" target=\"_blank\">MATH 2343</a>",
-    "rating_content": 4.88,
-    "rating_teaching": 4.78,
+    "rating_content": 4.86,
+    "rating_teaching": 4.79,
     "rating_grading": 4.71,
     "rating_workload": 4.02,
-    "review_count": 41,
+    "review_count": 42,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -38,11 +38,46 @@
       {
         "id": 107,
         "name": "ARYA, Sunil",
-        "count": 41
+        "count": 42
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "nLgAEXv4pFfxRr7EPjF8vSlkBqMDcQq7",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 107,
+          "name": "ARYA, Sunil",
+          "rating": 1
+        }
+      ],
+      "author": "thehound",
+      "date": "Feb 02, 2024",
+      "title": "Just fxxking take it!",
+      "comment_content": "I don&#039;t even know why this is even an honour course, just basically the same level as 2711, maybe even easier.",
+      "comment_teaching": "You can tell he&#039;s passionate about teaching. Sunil has a bit of an Indian accent but it&#039;s not heavy and acceptable. Lectures are well-prepared and he&#039;s willing to address your questions.",
+      "comment_grading": "Mean = A-<br />UQ = A <br />A bit above uq = A+<br /><br />Even if you did really badly, Sunil will still try his best to guarantee you a b range at least. <br /><br />My score<br />Midterm: 100/100 (mean 86, uq 98)<br />Final: 97/100(mean 64.9, uq 73)<br />Grade: A+<br />Midterm paper was even easier than comp2711, many students got full marks. Sunil gave a harder paper for the final exam, but still, it was manageable if you followed all the lectures diligently. I attended all lectures, spent 1 hour per day understanding the material in-depth, and spent 5 days preparing for the final examination.&nbsp;&nbsp;<br />My background<br />5** for HKDSE math core and M2, no prior competitive programming experience. I don&#039;t find high school material to be very useful for this course tho.",
+      "comment_workload": "If you just wanna get b+ to a-, just make sure you attend the lectures and finish the assignment on your own, there is not much extra stuff to do.&nbsp;&nbsp;However, this section is so competitive. Many of your peers have done competitive programming or math olympiad, those people will get full scores with ease. As a result, getting A or A+ will still be challenging for most people.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "ZMM1w2b6Pe6SEYkGjs0mot5RTcoeL3Na",
       "semester": "2022-23 Fall",
