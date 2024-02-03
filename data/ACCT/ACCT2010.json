@@ -34,7 +34,7 @@
     "rating_teaching": 4.07,
     "rating_grading": 3.99,
     "rating_workload": 4.05,
-    "review_count": 1131,
+    "review_count": 1132,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -145,7 +145,7 @@
       {
         "id": 1831,
         "name": "DONG, Qingkai",
-        "count": 4
+        "count": 5
       },
       {
         "id": 92,
@@ -190,6 +190,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "ASkJjvLo5xQSDY71oDSQejGGRUuwmB8F",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1831,
+          "name": "DONG, Qingkai",
+          "rating": 1
+        }
+      ],
+      "author": "科大无名氏",
+      "date": "Feb 04, 2024",
+      "title": "中规中矩",
+      "comment_content": "1. Financial statements and business decisions.<br />2. Investing and financing decisions and the accounting system.<br />3. Operating decisions and the accounting system.<br />4. Adjustments, financial statements, and the closing process.<br />5. Communicating and analyzing accounting information.<br />6. Reporting and interpreting Sales Revenue, Receivables, and Cash.<br />7. Reporting and interpreting Cost of Goods Sold and Inventory.<br />8. Reporting and interpreting Property, Plant, and Equipment; Intangibles; and<br />Natural Resources.<br />9. Reporting and interpreting Liabilities.<br />10. Reporting 11. Reporting and interpreting Stockholders’ Equity.<br />12. Cash flow statement.<br />13. Analyzing financial statements. (If time permits.)and interpreting Bond Securities.<br /><br />中等难度，就是概念比较多，要记的也比较多",
+      "comment_teaching": "第一年教学的prof，个人觉得教的还算清楚，不太需要额外去看textbook，ppt的内容加上课上讲解够应付作业和考试了",
+      "comment_grading": "Practice problem sets 5%<br />Homework 1 (after class in Week 3) 10%<br />Homework 2 (after class in Week 6) 10%<br />Homework 3 (after class in Week 9) 10%<br />Homework 4 (after class in Week 12) 10%<br />Final exam 55%<br /><br />给分挺fair，毕竟homework加起来占比也有40%，final exam有点难，但我觉得prof手下留情了",
+      "comment_workload": "没midterm，problem set题目有时候很多要做很久，不过确实对后面做homework有帮助<br /><br />workload中等",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "TZ7fvc57lK57FsRY3wDrZputP2aKGt7p",
       "semester": "2022-23 Fall",

@@ -27,11 +27,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 4.07,
+    "rating_content": 4.06,
     "rating_teaching": 3.97,
     "rating_grading": 4.37,
     "rating_workload": 3.46,
-    "review_count": 89,
+    "review_count": 90,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -42,7 +42,7 @@
       {
         "id": 20,
         "name": "CHAU, Ying",
-        "count": 51
+        "count": 52
       },
       {
         "id": 21,
@@ -68,6 +68,41 @@
   },
   "reviews": [
     {
+      "hash": "42lMSZsvxduZNzG9Ba5nIQHyWfUEq8jT",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 20,
+          "name": "CHAU, Ying",
+          "rating": 1
+        }
+      ],
+      "author": "S@@^",
+      "date": "Feb 04, 2024",
+      "title": "If you wanted to major in CBE, you won&#039;t after this",
+      "comment_content": "When I applied to ust, I was quite set on majoring in either chemical or chem/envr engineering. Thank god I took this course cuz now I know I definitely don&#039;t want to. Nothing against the prof or anything, it&#039;s just that ceng is not what you expect. You assume chem is gonna be the main focus, but it&#039;s mostly just physics. The content is hard and painful. It&#039;s impossible to keep focusing in the lectures. Because all this, I studied so much using the lecture notes, annotations, and the textbook. When I thought I finally understood this and was ready for the final, I took the sample exam practice and went back to square one. The final is basically nothing from what you actually study. It felt like entirely new content you never studied.",
+      "comment_teaching": "Actually not too bad. Just kinda boring. But the annotations/notes she makes on the lecture slides are pretty useful.",
+      "comment_grading": "Sad but not bad. Got full/almost full marks in the project and all the hw&#039;s and got mean in the final. Ended up with B+<br />If I got just 1 more mark in the final I&#039;d get A- but it is what it is",
+      "comment_workload": "The HW&#039;s take a long time but ok if you do it with friends",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
       "hash": "1c2TRCI2BqabyFIjLecRx5uqP3GB4ED9",
       "semester": "2023-24 Fall",
       "instructors": [],
@@ -92,7 +127,7 @@
       "has_reading": false,
       "has_presentation": true,
       "upvote_count": 0,
-      "vote_count": 0,
+      "vote_count": 1,
       "comment_count": 0,
       "attachments": []
     },

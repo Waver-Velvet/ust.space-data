@@ -39,7 +39,7 @@
     "rating_teaching": 4.18,
     "rating_grading": 3.61,
     "rating_workload": 3.98,
-    "review_count": 337,
+    "review_count": 338,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -55,7 +55,7 @@
       {
         "id": 846,
         "name": "TSOI, Yau Chat",
-        "count": 65
+        "count": 66
       },
       {
         "id": 97,
@@ -90,6 +90,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "RphCsV8YN7c5GmQgbZ1RyKruG2WXDPjg",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 846,
+          "name": "TSOI, Yau Chat",
+          "rating": 1
+        }
+      ],
+      "author": "Heheheheheheheh",
+      "date": "Feb 03, 2024",
+      "title": "",
+      "comment_content": "I learn a lot about java as a beginner, it is ok to know nothing.<br /><br />It is an completely online video course, with optional zoom that do some review and exercises.<br /><br />This year exam is a offline, close book exam, but it provide some &quot;equation sheet&quot;, which is nice.<br /><br />Details are roughly the same in other&#039;s review.",
+      "comment_teaching": "The video: He talks slowly, I use x1.25 to watch. There is also transcript next to it. Note that you can find the ppt in resource page, example code have to download as well. <br /><br />Desmond is friendly and kind, willing to answer question. Also, he will explain the question with details, making sure we understand.",
+      "comment_grading": "Personally, I think not bad. Considering I have no idea how the code work at first and only score 30+/100 (mean 45.9) for mid-term then start to do past paper and get 60+/100 (mean 49.84), with other part 28?/30, I get a B, I think the grading is really kind.",
+      "comment_workload": "If you not understand how to do the online hw, can ask the instructor or TA, or google it for some ideas. But I do try it for an hour to get it...... For exam, do past paper is good enough for a B.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "4WvQb9UVQJ8tXEJ4uHIooIdKlW1NlZOt",
       "semester": "2023-24 Fall",
@@ -191,7 +226,7 @@
       "has_reading": true,
       "has_presentation": false,
       "upvote_count": 1,
-      "vote_count": 1,
+      "vote_count": 2,
       "comment_count": 0,
       "attachments": []
     },
@@ -261,7 +296,7 @@
       "has_reading": false,
       "has_presentation": false,
       "upvote_count": 0,
-      "vote_count": 0,
+      "vote_count": 1,
       "comment_count": 0,
       "attachments": []
     },
@@ -325,7 +360,7 @@
       "has_reading": false,
       "has_presentation": false,
       "upvote_count": 0,
-      "vote_count": 0,
+      "vote_count": 1,
       "comment_count": 0,
       "attachments": []
     },
@@ -458,7 +493,7 @@
       "has_reading": false,
       "has_presentation": false,
       "upvote_count": 0,
-      "vote_count": 1,
+      "vote_count": 2,
       "comment_count": 0,
       "attachments": []
     },
