@@ -34,7 +34,7 @@
     "rating_teaching": 4.07,
     "rating_grading": 3.99,
     "rating_workload": 4.05,
-    "review_count": 1132,
+    "review_count": 1133,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -50,7 +50,7 @@
       {
         "id": 2,
         "name": "MAK, Kelvin P",
-        "count": 169
+        "count": 170
       },
       {
         "id": 3,
@@ -190,6 +190,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "O4FzGV6qTB22bzugNmZZCwy0dO2PuJKy",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 2,
+          "name": "MAK, Kelvin P",
+          "rating": 1
+        }
+      ],
+      "author": "BluePivot",
+      "date": "Feb 04, 2024",
+      "title": "",
+      "comment_content": "Pretty basic stuff; financial statements, inventory control, different financial ratios etc. anyone with a background in accounting or even business studies should be fine. if you&#039;re unsure about anything, the internet willl be your saviour. the syllabus from mids isn&#039;t carried forward, so you only have to study about half of it for your mids and finals respectively. the content is a little lengthy but you should be fine if you focus on understanding the concepts.",
+      "comment_teaching": "the prof assumes you already know a lot of information from the course material, but he&#039;s always open to questions and class discussions so make sure to ask questions if you&#039;re unsure about something. if you dont wanna ask during class then just approach him after the lecture, or email him. either way, he&#039;s generally good at responding to students&#039; queries.",
+      "comment_grading": "overall, could&#039;ve been better; make sure to get high scores on the assignment quizzes, you have three attempts so you could get 100% on all of them. preparing for practical questions (present value of continuity, depreciation expenses etc) for mids and finals would be a smart move, it&nbsp;&nbsp;helps you understand the theory better.",
+      "comment_workload": "the uploaded lecture slides pretty much cover everything you need to know, but the material is quite extensive so be prepared to sink a decent amount of time in this course. there&#039;s lots of videos on YouTube that can help you better grasp concepts so make sure to use them. I wouldn&#039;t recommend spending too much time learning from the textbook since it would be quite demanading, and you have to be smart with how you allocate your time for learning. just rely on it for concepts that are especially difficult to grasp",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "ASkJjvLo5xQSDY71oDSQejGGRUuwmB8F",
       "semester": "2023-24 Fall",

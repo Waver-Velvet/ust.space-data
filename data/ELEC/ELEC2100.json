@@ -33,11 +33,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2011\" href=\"/review/MATH2011\" target=\"_blank\">MATH 2011</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2023\" href=\"/review/MATH2023\" target=\"_blank\">MATH 2023</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2111\" href=\"/review/MATH2111\" target=\"_blank\">MATH 2111</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2350\" href=\"/review/MATH2350\" target=\"_blank\">MATH 2350</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2351\" href=\"/review/MATH2351\" target=\"_blank\">MATH 2351</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2352\" href=\"/review/MATH2352\" target=\"_blank\">MATH 2352</a>",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2100H\" href=\"/review/ELEC2100H\" target=\"_blank\">ELEC 2100H</a>",
-    "rating_content": 4,
-    "rating_teaching": 3.92,
-    "rating_grading": 4.38,
-    "rating_workload": 3.19,
-    "review_count": 26,
+    "rating_content": 4.04,
+    "rating_teaching": 3.96,
+    "rating_grading": 4.41,
+    "rating_workload": 3.22,
+    "review_count": 27,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -61,18 +61,53 @@
         "count": 3
       },
       {
-        "id": 204,
-        "name": "CHEN, Wei",
-        "count": 1
-      },
-      {
         "id": 1579,
         "name": "CAO, Xuanyu",
+        "count": 2
+      },
+      {
+        "id": 204,
+        "name": "CHEN, Wei",
         "count": 1
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "QxDtQUk2ZXP1q5ayfdl0bNkqCAtzipGO",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1579,
+          "name": "CAO, Xuanyu",
+          "rating": 1
+        }
+      ],
+      "author": "swing",
+      "date": "Feb 04, 2024",
+      "title": "",
+      "comment_content": "内容很充实，先从虚数开始讲起然一步步讲到傅里叶变换以及后面相关的内容，由简入难。",
+      "comment_teaching": "讲的很详细，回看recording也能够完全听懂，最好不要落下太多课因为后面的课跟前面的课关联还挺大的，不然会听不懂。",
+      "comment_grading": "我个人认为给grade还好，因为我有一两个作业在mean线上下徘徊但是最后overall还是在a range里面",
+      "comment_workload": "workload中等吧，作业基本上两到三周一次，有4个Lab。作业量有一点点多而且包含很多画图题。lab每次都会花挺多时间，内容会提前一天发布，我个人每次都会提前一天看一下写一点，不然第二天会耗很多时间，而且coding有一些function得自己上网查（我个人是得查，matlab知识储备不是很多），但大部分都是照猫画虎，还是能够解决。",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "1VByztAAcwTwGvJQHbkK96mJog5j2sLu",
       "semester": "2023-24 Fall",
@@ -158,7 +193,7 @@
       "title": "",
       "comment_content": "This is a foundation course introducing signals and systems for modelling and analysis of a variety of engineering systems. The course covers continuous- and discrete-time Fourier analysis, Laplace Transform, interactions between signals and linear time invariant (LTI) systems, sampling theorem, differential and difference equations as LTI systems, and application examples in communications, control, and multimedia. MATLAB introduced as an integral part of this course.<br /><br />Reference Book<br />Alan V. Oppenheim, Alan S. Wilsky and S.H. Nawab, Signals and Systems, Prentice-Hall Internal Editions, 2nd Edition.",
       "comment_teaching": "Prof. Wong can explain things clearly. He is also willing to answer questions. Videos are played during class time occasionally.",
-      "comment_grading": "Homework: 18%<br />Lab: 12%<br />Quiz: 2*5%<br />Midterm: 25%<br />Final: 35%<br /><br />Midterm score distribution: 96 | 67 | 56 | 43 | 18 |, mean 55, stdev 17<br />Final score distribution: 86.5 | 64 | 45.5 | 32 | 7 |, mean 47, stdev 20<br /><br />Me: almost full mark (17.24/18) for homework, full mark for lab, highest for both two quizzes, 81/100 for midterm, 71/100 for final (I arrived about half an hour later than the start of the exam).<br />Got an A, which is somewhat frustrating. I do expect an A+.",
+      "comment_grading": "Homework: 18%<br />Lab: 12%<br />Quiz: 2*5%<br />Midterm: 25%<br />Final: 35%<br /><br />Midterm score distribution: 96 | 67 | 56 | 43 | 18 |, mean 55, stdev 17<br />Final score distribution: 86.5 | 64 | 45.5 | 32 | 7 |, mean 47, stdev 20<br /><br />Me: almost full mark (17.24/18) for homework, full mark for lab, highest for both two quizzes, 81/100 for midterm, 71/100 for final.<br />Got an A, which is somewhat frustrating. I do expect an A+.",
       "comment_workload": "Workload is not that heavy in general. 6 homework sets, 4 lab, 2 quizzes, midterm and final.<br />Both the math and coding parts are very easy to understand. However it might take much longer time than you estimate to finish each homework, since the calculation and graph sketching can be extremely cumbersome.<br />It would be a good choice to do extra textbook exercise to make yourself more skillful, thus decrease the time wasted in wearisome calculation (I regret for not doing this).",
       "rating_content": 4,
       "rating_teaching": 4,

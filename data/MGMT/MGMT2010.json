@@ -29,11 +29,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 3.79,
+    "rating_content": 3.8,
     "rating_teaching": 4.06,
     "rating_grading": 3.88,
-    "rating_workload": 3.46,
-    "review_count": 282,
+    "rating_workload": 3.45,
+    "review_count": 283,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -49,7 +49,7 @@
       {
         "id": 600,
         "name": "CHOI, Joon Nak",
-        "count": 38
+        "count": 39
       },
       {
         "id": 591,
@@ -99,6 +99,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "PJXF1HoOoYFUNo65bIxp13TGNfBJpEtt",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 600,
+          "name": "CHOI, Joon Nak",
+          "rating": 1
+        }
+      ],
+      "author": "BluePivot",
+      "date": "Feb 04, 2024",
+      "title": "",
+      "comment_content": "the content was quite interesting for me, we cover different theories on normative ethics, and go through different case studies and simulations. concepts that are covered include: virtue ethics (eudaimonia), deontology (rights theory), consequentialism (rule-utilitairianism), meta-ethics etc. then there&#039;s also the group debate, in which you get to select your topic from a range of different options (but you have to be quick about it since the debating groups fill up fast). lastly, there&#039;s a research paper in which you get to select your own topic and then defend it later onwards in the form of a presentation.",
+      "comment_teaching": "JC is a very friendly and approachable professor, he encourages class discussion and there&#039;s bonus points for people on ask/answer questions. he generally tries to get the class engaged, and will often times ask the class questions to make sure they&#039;re listening. If you&#039;re late to class, just don&#039;t bother going in, because he won&#039;t take too kindly to that. All said, he&#039;s genuinely a great professor who makes this course fun and exciting.",
+      "comment_grading": "Your grade depends upon your performance in the mid-terms, the group debate, the quality of your research paper, and the oral presentation defending it. Class participation also counts for bonus points. There&#039;s also a few mini-quizzes that are held throughout the duration of the group debates. They surround the material of the debate for the day so you have to read the papers on them before going into class. Overall, it shouldn&#039;t be too difficult to get a good grade on this course.",
+      "comment_workload": "Probably the biggest downside of this course is how heavy the workload is, especially when you consider that it&#039;s only two credits. You&#039;re expected to go through the different ethical theories, give a mid-term, then prepare for a group debate that is done in teams and usually go for over an hour, this can take up a significant portion of your time, and ofcourse you have to write a 20-page research paper, which is quite demanding if you want it to be of a good standard. lastly, you have to create a short presentation highlighting your paper and then defend it in front of the class. <br />In conclusion, the workload is quite heavy for a 2 credit course.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 2,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "lydaSZWV49aZdOaje9kTQqF7E3CkefZC",
       "semester": "2023-24 Fall",

@@ -18,11 +18,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"1021\" href=\"/review/COMP1021\" target=\"_blank\">COMP 1021</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"1029P\" href=\"/review/COMP1029P\" target=\"_blank\">COMP 1029P</a>",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"3211\" href=\"/review/COMP3211\" target=\"_blank\">COMP 3211</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"4211\" href=\"/review/COMP4211\" target=\"_blank\">COMP 4211</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"4221\" href=\"/review/COMP4221\" target=\"_blank\">COMP 4221</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"4331\" href=\"/review/COMP4331\" target=\"_blank\">COMP 4331</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"4332\" href=\"/review/COMP4332\" target=\"_blank\">COMP 4332</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"4421\" href=\"/review/COMP4421\" target=\"_blank\">COMP 4421</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"4471\" href=\"/review/COMP4471\" target=\"_blank\">COMP 4471</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"4901K\" href=\"/review/COMP4901K\" target=\"_blank\">COMP 4901K</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"4901L\" href=\"/review/COMP4901L\" target=\"_blank\">COMP 4901L</a>, <a class=\"course-link\" data-subject=\"ELEC\" data-code=\"4130\" href=\"/review/ELEC4130\" target=\"_blank\">ELEC 4130</a>, <a class=\"course-link\" data-subject=\"ELEC\" data-code=\"4230\" href=\"/review/ELEC4230\" target=\"_blank\">ELEC 4230</a>, IDPO 4110, <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"3360\" href=\"/review/ISOM3360\" target=\"_blank\">ISOM 3360</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"4336\" href=\"/review/MATH4336\" target=\"_blank\">MATH 4336</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"4432\" href=\"/review/MATH4432\" target=\"_blank\">MATH 4432</a>, <a class=\"course-link\" data-subject=\"RMBI\" data-code=\"4310\" href=\"/review/RMBI4310\" target=\"_blank\">RMBI 4310</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"5211\" href=\"/review/COMP5211\" target=\"_blank\">COMP 5211</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"5212\" href=\"/review/COMP5212\" target=\"_blank\">COMP 5212</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"5213\" href=\"/review/COMP5213\" target=\"_blank\">COMP 5213</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"5221\" href=\"/review/COMP5221\" target=\"_blank\">COMP 5221</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"5222\" href=\"/review/COMP5222\" target=\"_blank\">COMP 5222</a>, COMP 5215, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"5331\" href=\"/review/COMP5331\" target=\"_blank\">COMP 5331</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"5421\" href=\"/review/COMP5421\" target=\"_blank\">COMP 5421</a>",
-    "rating_content": 4.93,
+    "rating_content": 4.94,
     "rating_teaching": 4.9,
-    "rating_grading": 4.3,
-    "rating_workload": 4.13,
-    "review_count": 30,
+    "rating_grading": 4.32,
+    "rating_workload": 4.16,
+    "review_count": 31,
     "single_review": false,
     "enrollment_status": 1,
     "is_favourited": false,
@@ -33,7 +33,7 @@
       {
         "id": 846,
         "name": "TSOI, Yau Chat",
-        "count": 28
+        "count": 29
       },
       {
         "id": 1842,
@@ -43,6 +43,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "RuIIdZd5Xy5XXIeEZOeGzj235CYU6I9C",
+      "semester": "2023-24 Spring",
+      "instructors": [
+        {
+          "id": 846,
+          "name": "TSOI, Yau Chat",
+          "rating": 1
+        }
+      ],
+      "author": "Nellie",
+      "date": "Feb 04, 2024",
+      "title": "",
+      "comment_content": "Content was adequate for the 2nd year level. Gives a broad and comprehensive introduction to Artificial Intelligence. Also teaches some basic Machine Learning math and there are labs which gives some experience on how to use AI instead of just learning about the theory.",
+      "comment_teaching": "Prof Desmond is super enthusiastic in his classes and it&#039;s a great quality as a lecturer because it makes his lectures interesting and engaging. Also gives additional lectures about Python as a refresher course and the learning materials given on the websites are very comprehensive and useful.",
+      "comment_grading": "Grading breakdown:<br />Lab 10%<br />Programming Assignments (1&amp;2) 30%<br />Midterms 20%<br />Finals 40%",
+      "comment_workload": "There are 10 labs in total but only 5 are graded.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "M5C4uJ2PvrhEfvxKG4TkG2NUZ3PpX8vq",
       "semester": "2023-24 Fall",
