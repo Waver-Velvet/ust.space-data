@@ -36,10 +36,10 @@
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"1022P\" href=\"/review/COMP1022P\" target=\"_blank\">COMP 1022P</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"1022Q\" href=\"/review/COMP1022Q\" target=\"_blank\">COMP 1022Q</a> (prior to 2020-21), <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2011\" href=\"/review/COMP2011\" target=\"_blank\">COMP 2011</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012H\" href=\"/review/COMP2012H\" target=\"_blank\">COMP 2012H</a>",
     "rating_content": 4.46,
-    "rating_teaching": 4.6,
+    "rating_teaching": 4.61,
     "rating_grading": 4.25,
-    "rating_workload": 4.53,
-    "review_count": 903,
+    "rating_workload": 4.54,
+    "review_count": 904,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -50,7 +50,7 @@
       {
         "id": 95,
         "name": "ROSSITER, David",
-        "count": 328
+        "count": 329
       },
       {
         "id": 99,
@@ -105,6 +105,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "cR2fX9RKefdu8DDApv0KC0vL348wZ2IQ",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 95,
+          "name": "ROSSITER, David",
+          "rating": 1
+        }
+      ],
+      "author": "Issa",
+      "date": "Feb 05, 2024",
+      "title": "",
+      "comment_content": "Content is fun. Just treat as learning hoe to play a game.<br />Introduction to Python Introduction to Turtle Graphics Comments and Text<br />Making Decisions<br />Loops<br />Lists and Tuples<br />Slicing<br />Functions<br />Data Types<br />File Handling<br />Dictionaries<br />State Diagrams<br />Turtle Object Creation<br />Event Handling<br />Stacks<br />Advanced Operators<br />Objects<br />Recursion",
+      "comment_teaching": "Very good! Very interesting!!!<br />I like his lesson very much.",
+      "comment_grading": "Grading is good. <br />There are two Grading Scheme<br />• Labs<br />– 3 lab projects will be handed in for marking 3 x 12%/14% = 36%/ 42%<br />• Midterm exam 24%/ 0%<br />• Final exam 40%/ 58%<br /><br />• The first way they assess you is this (more midterm %): Midterm 24%, Lab projects 36%, Final exam 40%<br /><br />• The second way they assess you is this (less midterm %): Midterm 0%, Lab projects 42%, Final exam 58%<br /><br />• They will automatically choose the highest mark of these two calculations<br /><br />So if u fall in MT, u still have a chance to get a good grade.",
+      "comment_workload": "Little workload. Near no.<br />Open book MT and Exam. <br />There are lab session for the course. But actually it is an online lab.<br />U are not required to go for a lab session. U can do all the homework by yourself. Very easy. In case u don&#039;t know how to do, there are video for it. Nearly copy and paste.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "3wGxk14HMguueUcuIUEZMlJFqJMRoFyU",
       "semester": "2023-24 Fall",

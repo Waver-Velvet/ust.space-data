@@ -30,11 +30,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 4.12,
+    "rating_content": 4.13,
     "rating_teaching": 4.07,
     "rating_grading": 3.99,
     "rating_workload": 4.05,
-    "review_count": 1133,
+    "review_count": 1134,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -128,13 +128,13 @@
         "count": 10
       },
       {
-        "id": 1,
-        "name": "HUANG, Allen Hao",
-        "count": 8
-      },
-      {
         "id": 1832,
         "name": "OH, Jun",
+        "count": 9
+      },
+      {
+        "id": 1,
+        "name": "HUANG, Allen Hao",
         "count": 8
       },
       {
@@ -190,6 +190,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "nCf1fsJpZFcJ8HOMZLeRYd2G5iDXZwHv",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1832,
+          "name": "OH, Jun",
+          "rating": 1
+        }
+      ],
+      "author": "Ying9",
+      "date": "Feb 06, 2024",
+      "title": "",
+      "comment_content": "The content of the course is the basic things of accounting. (Preapring Financial Statement, Journal Adjustment, Ratio, Issuing Shares......)<br />This course is not difficult for someone who has studied BAFS in secondary school since the content is mainly BAFS in DSE and a little bit of new stuff.",
+      "comment_teaching": "His teaching style is okay, not ver good but also not very bad. His PowerPoint is very detailed. He is very willing to answer students&#039; questions.",
+      "comment_grading": "Homework-20%<br />Midterm-30%<br />Final-50%<br /><br />The homework is not very difficult. If you have looked at his PowerPoint, you will know how to answer most of the questions.<br />I have got 2 homework full marks, 1 nearly full marks, and 1 below mean.<br /><br />The question in the mid-term is not difficult. They are quite similar to the online practice he gave us. (The online practice has a pull-down menu but you have to remember the format in the exam) BUT the only problem is that there is not enough time. Almost every question is long question, no MC. We have to draw many T-accounts in the first question, I spend too much time on it so I don&#039;t even have time to look at the questions carefully before answering other questions. Some people has not done 1-2 questions due to insufficient time. Therefore, the result for the whole class is not very good.<br />My result is above the upper quartile.<br /><br />The final is very easy. If you spend some time doing revision, you can get a good result. I think he has learned from the mid-term and adjusted the time limit for the final. I still have much time left after doing the whole paper. <br />He didn&#039;t release the result of the final.<br /><br />Final Grade: A+",
+      "comment_workload": "The workload is not very heavy. No attendance is required. There are only 4 graded assignments which are not very difficult. You may spend 1~2 hours on it if you want to get the answer correct.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "O4FzGV6qTB22bzugNmZZCwy0dO2PuJKy",
       "semester": "2023-24 Fall",
@@ -465,8 +500,8 @@
       "has_attendance": false,
       "has_reading": false,
       "has_presentation": false,
-      "upvote_count": 0,
-      "vote_count": 0,
+      "upvote_count": 1,
+      "vote_count": 1,
       "comment_count": 0,
       "attachments": []
     },

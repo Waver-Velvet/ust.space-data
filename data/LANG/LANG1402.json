@@ -15,11 +15,11 @@
     "prerequisites": "(Level 3 in HKDSE English Language with all papers at or above level 3) OR (Level 4 in HKDSE English Language) OR (Level 5 in HKDSE English Language with some papers but not all at or above level 4) OR (Overall bandscore of 6.0 in IELTS) OR (Overall bandscore of 6.5 in IELTS with some but not all subscores at or above 6.0) OR equivalence of the above",
     "corequisites": "",
     "exclusions": "LANG 1002, LANG 1003",
-    "rating_content": 3.11,
-    "rating_teaching": 4.14,
-    "rating_grading": 3.16,
-    "rating_workload": 3.7,
-    "review_count": 37,
+    "rating_content": 3.16,
+    "rating_teaching": 4.16,
+    "rating_grading": 3.21,
+    "rating_workload": 3.74,
+    "review_count": 38,
     "single_review": false,
     "enrollment_status": 1,
     "is_favourited": false,
@@ -40,6 +40,11 @@
       {
         "id": 877,
         "name": "LI, Eugene",
+        "count": 2
+      },
+      {
+        "id": 1231,
+        "name": "SAMPSON, Nicholas",
         "count": 2
       },
       {
@@ -70,11 +75,6 @@
       {
         "id": 437,
         "name": "WONG, Kai Hung",
-        "count": 1
-      },
-      {
-        "id": 1231,
-        "name": "SAMPSON, Nicholas",
         "count": 1
       },
       {
@@ -111,6 +111,41 @@
   },
   "reviews": [
     {
+      "hash": "87hh6SKiH8EzhoTZlwIq6ghwhi3POAPN",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1231,
+          "name": "SAMPSON, Nicholas",
+          "rating": 1
+        }
+      ],
+      "author": "yan12345",
+      "date": "Feb 05, 2024",
+      "title": "",
+      "comment_content": "Specking Task 1 (25%)— Discussion Skills<br />Assessment<br />Speaking Task 2 (20%)— Short Speech (2.5-3min)<br />Writing Task (35%)— Short Essay (800words)<br />Self-Directed Learning (SDL) Assessment (20%)— Graded on completion",
+      "comment_teaching": "He is a very friendly professor. Although he will randomly ask questions during class, it doesn&#039;t matter if you don&#039;t know how to answer. The class atmosphere is very good and we often provide time for group discussions.",
+      "comment_grading": "Speaking Task 1 (ST1) - 25%<br />I got one Advanced/ Competent and two Advanced.<br />Writing Task (WT) - 35%<br />I got one Advanced/ Competent and two Advanced.<br />Speaking Task 2 (ST2) - 20%<br />I got one Advanced/ Competent and one Exceptional/ Advanced.<br /><br />The final grade was A-.",
+      "comment_workload": "The professor will provide us with some lesson times to finish the required assignments and remind us of the due date. They often finish class early.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
       "hash": "B9q2xTXLLlbF0BuAbmMPOWBK4ATIl0G8",
       "semester": "2023-24 Fall",
       "instructors": [
@@ -141,7 +176,7 @@
       "has_reading": false,
       "has_presentation": true,
       "upvote_count": 1,
-      "vote_count": 1,
+      "vote_count": 2,
       "comment_count": 0,
       "attachments": []
     },

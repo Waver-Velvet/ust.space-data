@@ -17,11 +17,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"CORE\" data-code=\"1411\" href=\"/review/CORE1411\" target=\"_blank\">CORE 1411</a>, <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1412\" href=\"/review/CORE1412\" target=\"_blank\">CORE 1412</a>, <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1413\" href=\"/review/CORE1413\" target=\"_blank\">CORE 1413</a>, <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1414\" href=\"/review/CORE1414\" target=\"_blank\">CORE 1414</a>, <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1415\" href=\"/review/CORE1415\" target=\"_blank\">CORE 1415</a>, <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1120\" href=\"/review/LANG1120\" target=\"_blank\">LANG 1120</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1121\" href=\"/review/LANG1121\" target=\"_blank\">LANG 1121</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1122\" href=\"/review/LANG1122\" target=\"_blank\">LANG 1122</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1123\" href=\"/review/LANG1123\" target=\"_blank\">LANG 1123</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1124\" href=\"/review/LANG1124\" target=\"_blank\">LANG 1124</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1125\" href=\"/review/LANG1125\" target=\"_blank\">LANG 1125</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1126\" href=\"/review/LANG1126\" target=\"_blank\">LANG 1126</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1127\" href=\"/review/LANG1127\" target=\"_blank\">LANG 1127</a> (prior to 2022-23)",
-    "rating_content": 3.5,
-    "rating_teaching": 4.4,
-    "rating_grading": 3.1,
-    "rating_workload": 3.3,
-    "review_count": 10,
+    "rating_content": 3.45,
+    "rating_teaching": 4.27,
+    "rating_grading": 3,
+    "rating_workload": 3.27,
+    "review_count": 11,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -32,7 +32,7 @@
       {
         "id": 452,
         "name": "REN, Tao",
-        "count": 5
+        "count": 6
       },
       {
         "id": 1387,
@@ -47,6 +47,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "qGdAKSiE5jzIFMG4ty33CtflneQMHPyU",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 452,
+          "name": "REN, Tao",
+          "rating": 1
+        }
+      ],
+      "author": "Sponge_qwq",
+      "date": "Feb 05, 2024",
+      "title": "有d不知所谓",
+      "comment_content": "第一單元 新媒體的多元性、靈活性與吸引力：使用豐富的技巧和創意傳情達意<br />第二單元 數字時代的生活態度與方法：實現個性化溝通<br />第三單元 創新爲本的社交連接：凝聚人的力量<br />每堂教學內容極為抽象，內容和教學材料都較落後及不實用",
+      "comment_teaching": "堂上全程需使用普通話，instructor好想引導大家討論更深入，但最後往往內容空洞不實用。",
+      "comment_grading": "嚴格 難追高分<br />3大單元，需做兩個present，一個個人一個group，另外要交一份800字個blog文，堂上指導較少，但要求多。<br />B-",
+      "comment_workload": "3大單元，需做兩個present，一個個人一個group，另外要交一份800字個blog文，整體較為輕鬆，但其非常鼓勵精益求精（好多內容要花更多額外時間才可靚grade",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 2,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "wKNm72boXKVAF2MXBwXdYLCAHwsLb30y",
       "semester": "2022-23 Fall",

@@ -25,11 +25,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "MGCS 5001",
-    "rating_content": 3.72,
-    "rating_teaching": 3.43,
+    "rating_content": 3.71,
+    "rating_teaching": 3.42,
     "rating_grading": 3.87,
-    "rating_workload": 3.84,
-    "review_count": 68,
+    "rating_workload": 3.83,
+    "review_count": 69,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -45,7 +45,7 @@
       {
         "id": 990,
         "name": "ZHANG, Lok Cheung Lawrence",
-        "count": 26
+        "count": 27
       },
       {
         "id": 307,
@@ -60,6 +60,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "x38UIQq6o6wCmmaeABpaeOyyEQR0IYXL",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        }
+      ],
+      "author": "duckie",
+      "date": "Feb 05, 2024",
+      "title": "",
+      "comment_content": "Just Chinese history from the 19th century to the 20th century<br />Ch 1: What does “Modern” even mean?<br />Ch.2: “High Qing”<br />Ch.3: The Manchus<br />Ch.4: China Marches West<br />Ch 5: Enjoying the Grand Canal<br />Ch.6: Tea and world trade<br />Ch.7: Opium and war<br />Ch.8: Internal rebellions<br />Ch.9: Foreign contacts<br />Ch.10: Disaster at the turn of the century<br />Ch.11: Revisiting modernity<br />Ch.12: Chinese oversea<br />Ch.13: Chinese nationalism<br />Ch.14: Long Live the Republic<br />Ch.15: The May 4th Moment<br />Ch.16: Warlords and the KMT conquest<br />Ch.17: The Nanjing Decade and the War of Resistance<br />Ch.18 A Changing Society<br />Ch.19: The Chinese Civil War<br />Ch.20: Early years in the PRC<br />Ch.21: Jumping into socialism <br />Ch.22: The Great Proletariat Cultural Revolution<br />Ch.23: Looking forward from the 1970s",
+      "comment_teaching": "He always says that we should not only focus on PPT but also to listen his teaching as his points are much more important. I was quite sleepy so I always slept during his class and missed many points(I guess). Besides, I never read his readings but it did not bother me a lot.",
+      "comment_grading": "Exam questions submission: 41/50 (10%)<br />Midterm: 71/100 (30%)<br />AI Assignment: 80/100 (20%)<br />Final: 87/100 (30%)<br />Attendance and Participation: 10%(we won&#039;t know how many we got<br />Grade: B+",
+      "comment_workload": "He will randomly pick some lectures to take attendance, like 3-4 times and the TA will mark it. The exam questions submission is to outline 3 MC and 2 ID questions and what you would consider as a good answer for all questions. Submissions will automatically receive 30 points and the rest of the 20 points are graded on various aspects (e.g. quality of answer). The AI assignment requires you to write between 1000 and 1500 words. The midterm was held during the middle of the semester, so it only covered topics that had gone through. The format is 6 ID questions (60%) and 4 short questions (40%). The final is cumulative, including all things in the semester. The format is 20% MC, 10% timeline, 35% ID questions, and 35% long essay.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "UnneC0DFSENE38OVe2Zt6xnoQMr0J9VB",
       "semester": "2023-24 Fall",

@@ -38,8 +38,8 @@
     "rating_content": 4,
     "rating_teaching": 3.82,
     "rating_grading": 4.08,
-    "rating_workload": 4.09,
-    "review_count": 222,
+    "rating_workload": 4.1,
+    "review_count": 223,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -70,7 +70,7 @@
       {
         "id": 1577,
         "name": "YUEN, Chi Wa",
-        "count": 22
+        "count": 23
       },
       {
         "id": 1528,
@@ -130,6 +130,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "dbXfG3ftzP4W8Xaznh3s4iWfZ84TN4kZ",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1577,
+          "name": "YUEN, Chi Wa",
+          "rating": 1
+        }
+      ],
+      "author": "Feeney",
+      "date": "Feb 05, 2024",
+      "title": "",
+      "comment_content": "Economy in the short run (Chapters 1-2)<br />The Goods Market (Chapter 3)<br />Financial Markets I (Chapter 4)<br /><br />Goods and Financial Markets:<br />The IS-LM model (Chapter 5)<br />Economy in the medium run<br />The Labor Market (Chapter 7)<br />Putting All Markets together (Chapter 7 of the 6th edition of the book)<br /><br />Open Economy:<br />Openness in Goods and Financial Markets (Chapter 17)<br />The Goods Market in an Open Economy (Chapter 18)<br />Output, the Interest Rate, and the Exchange Rate (Chapter 19)<br />Exchange Rate Regime (Chapter 20*)<br /><br />Economic Growth:<br />Facts of Growth (Chapter 10*)<br />Saving, Capital Accumulation, and Output (Chapter 11*)<br />Technological Progress and Growth (Chapter 12*)<br /><br />Grading Scheme:<br />1. Homework: 20%<br />2 problem sets to be done on a group basis<br />2. Midterm test: 30%<br />3. Final exam: 50% (cumulative)",
+      "comment_teaching": "Quite hard to understand as he uses a lot of mathematical formula to explain the concept",
+      "comment_grading": "very good grading. Midterm test and final exam is similar to past papers.",
+      "comment_workload": "little. only 2 problem set to be done on a group basis, one midterm test &amp; one final exam",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "gz0URGwsBBmK4FNvNshsZK0OMeL3icLK",
       "semester": "2023-24 Fall",
