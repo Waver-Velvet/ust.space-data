@@ -33,10 +33,10 @@
     "corequisites": "",
     "exclusions": "",
     "rating_content": 4.21,
-    "rating_teaching": 4.34,
-    "rating_grading": 4.38,
-    "rating_workload": 4.04,
-    "review_count": 221,
+    "rating_teaching": 4.35,
+    "rating_grading": 4.36,
+    "rating_workload": 4.05,
+    "review_count": 222,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -62,7 +62,7 @@
       {
         "id": 1456,
         "name": "JEONG, Martha",
-        "count": 23
+        "count": 24
       },
       {
         "id": 1163,
@@ -142,6 +142,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "2dVb1HCYUCMTuKL4DIYN4RWbh5zive2Q",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1456,
+          "name": "JEONG, Martha",
+          "rating": 1
+        }
+      ],
+      "author": "Mariooooooooooo",
+      "date": "Feb 06, 2024",
+      "title": "",
+      "comment_content": "Feb 7 Welcome! Course Introduction Ch. 1 Review Syllabus<br />Feb 9 Personality Ch. 4 Complete personality survey (upload<br />results) before Feb 9 class<br />2 Feb 14 Values<br />Perception and Learning I<br />Ch. 5 Complete IAT (Age Test) and upload<br />results before Feb 14 class<br />Feb 16 Perception and Learning II Ch. 5 Add/drop ends on Feb 16<br />3 Feb 21 Decision Making (Case Exercise) Ch. 5 Team project – Finalized Group member list<br />announced Feb 21<br />Feb 23 Decision-Making Debrief Ch. 5<br />4 Feb 28 Emotions and Job Attitudes Ch. 3, 6<br />Mar 2 Emotional Labor &amp;<br />Emotional Intelligence &amp; Stress<br />Ch. 6, 17 Team project:<br />• Team Intro Card due by 5pm<br />• Movie topic due by 5pm<br />5 Mar 7 Motivation I Ch. 7, 8<br />Mar 9 Motivation II Ch. 7, 8 BEFORE CLASS: Read Hausser case<br />exercise and complete quiz<br />6 Mar 14 Exam I Review BEFORE CLASS: Submit questions and<br />concepts for review<br />Mar 16 Exam I Study Day NO CLASS TODAY<br />7 Mar 21 Exam I Exam will be 7-9pm in LT-A<br />Mar 23 Team Dynamics I Ch. 9, 10<br />8 Mar 28 Team Dynamics II (Case exercise) Ch. 9, 10<br />Mar 30 Communication &amp;<br />Conflict Management<br />Ch. 12, 18<br />9 April 4 Group Project Day – Finalize<br />progress report<br />NO CLASS TODAY<br />Team project : Progress report due by 5pm<br />April 6 Easter Holiday/Mid-Term Break NO CLASS TODAY<br />9 Apr 11 Easter Holiday/Mid-Term Break NO CLASS TODAY<br />Apr 13 Group Project Day –<br />Practice presentations<br />NO CLASS TODAY<br />10 Apr 18 Negotiation Exercise &amp; Debrief<br />Apr 20 Leadership, Power &amp; Influence I Ch. 11, 13<br />11 Apr 25 Leadership, Power &amp; Influence II Ch. 11, 13 Presentation order announcement<br />Apr 27 Team Presentations Team project – Final report due April 26<br />by 5pm (All groups)<br />12 May 2 Team Presentations<br />May 4 Team Presentations<br />13 May 9 Team Presentations &amp;<br />Exam II Review<br />Team project – Peer Evaluation due May 12<br />by 5pm<br />May 10-15 ***Study Break***<br />TBD Exam II<br />**Class sessions shaded in grey are required classes – attendance will count towards your grade.",
+      "comment_teaching": "Good. Nice Professor. Clear English. Fun and interactive.",
+      "comment_grading": "So bad. The exam is too difficult.",
+      "comment_workload": "Very low workload",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 1,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "teDO8zu7LqHnchPponUEDnQvKs3VJ6qv",
       "semester": "2023-24 Fall",

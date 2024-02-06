@@ -27,7 +27,7 @@
     "rating_teaching": 3.75,
     "rating_grading": 4.07,
     "rating_workload": 4.25,
-    "review_count": 307,
+    "review_count": 308,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -58,7 +58,7 @@
       {
         "id": 146,
         "name": "YU, Yan",
-        "count": 33
+        "count": 34
       },
       {
         "id": 1172,
@@ -128,6 +128,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "NCYVzoXOVLdbLkBdUDsg0L19ojm2pHm7",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 146,
+          "name": "YU, Yan",
+          "rating": 1
+        }
+      ],
+      "author": "Run_of_the_mill",
+      "date": "Feb 06, 2024",
+      "title": "Decent professor",
+      "comment_content": "First few chapters are basically slightly more complicated dse microeconomics with some use of f4 linear algebra (marginal cost/revenue etc. ). You can easily grasp the concepts if you have taken Econ before.<br />The last few chapters (market structure/ international trade ) is a lot more difficult though.",
+      "comment_teaching": "basically reading through ppt with some explanations, combined with some iprs question for engagement.She is also very patient and is willing to answer your questions.<br /><br />Sadly, her voice and the teaching style makes the course quite lethargic.",
+      "comment_grading": "Pretty good for my mediocre performance<br />mid term above mean by &lt;1sd<br />final around mean<br />hw(25%) perfect score<br />B+<br />If you pay attention in class you would be fine",
+      "comment_workload": "8 homework exercise in total<br />pretty good for revision and only takes ~2 hours to finish<br />if you get 80% or above, you get the full score for it<br />only best 5 out of 7 is counted<br />a (optional) group project for extra credits<br />taking enough lectures will give additional credits, as well as participating the tutorial.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "G456hKipAuoauekJ6hTqgK3YByVGud6D",
       "semester": "2023-24 Fall",
@@ -10301,7 +10336,7 @@
       "has_reading": false,
       "has_presentation": false,
       "upvote_count": 0,
-      "vote_count": 8,
+      "vote_count": 9,
       "comment_count": 0,
       "attachments": []
     },

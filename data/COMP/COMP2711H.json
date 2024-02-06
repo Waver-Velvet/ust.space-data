@@ -23,11 +23,11 @@
     "prerequisites": "Grade B or above in AL Pure Mathematics/AL Applied Mathematics; OR level 5* or above in HKDSE Mathematics Extended Module M1/M2; OR grade A- or above in <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1014\" href=\"/review/MATH1014\" target=\"_blank\">MATH 1014</a>; OR grade B+ or above in <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a> / <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1024\" href=\"/review/MATH1024\" target=\"_blank\">MATH 1024</a>",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"2711\" href=\"/review/COMP2711\" target=\"_blank\">COMP 2711</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2343\" href=\"/review/MATH2343\" target=\"_blank\">MATH 2343</a>",
-    "rating_content": 4.86,
+    "rating_content": 4.84,
     "rating_teaching": 4.79,
-    "rating_grading": 4.71,
-    "rating_workload": 4.02,
-    "review_count": 42,
+    "rating_grading": 4.72,
+    "rating_workload": 4.05,
+    "review_count": 43,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -38,11 +38,46 @@
       {
         "id": 107,
         "name": "ARYA, Sunil",
-        "count": 42
+        "count": 43
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "X4q7szypgKXZKf2zQWa6X0JYm4jHja5M",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 107,
+          "name": "ARYA, Sunil",
+          "rating": 1
+        }
+      ],
+      "author": "goodkidcyx",
+      "date": "Feb 06, 2024",
+      "title": "小学奥数之大学再进修",
+      "comment_content": "-逻辑<br />简单<br />-数论与RSA加密<br />RSA是新学的东西，需要课后消化一下。数论就是一些整除玩一玩的小学奥数。<br />-排列组合<br />从小学到大的东西。最后还讲了点时间复杂度，不过浅尝辄止。<br />-概率<br />条件概率、随机变量和期望等，我正好在上MATH2411，这部分就不用学了。<br />-数学归纳法和递归<br />简单。<br />-图论<br />让我们自学的，很入门因此很简单。<br /><br />每一部分都学个入门，浅尝辄止，就像小学奥数一样。大部分内容在大学之前都有接触过。不过也还算有趣，对一些问题有新的或更深入的理解。",
+      "comment_teaching": "有点印度口音，习惯了就好。老师上课有激情，不让人犯困。不照本宣科。没有recording。",
+      "comment_grading": "给分：<br />homework 10% + midterm 40% + final 50%<br /><br />统计（格式：我的分数/平均分/总分）<br />HW1:<br />20/19/20<br />HW2：<br />25/23.79/25<br />HW3：<br />25/22.68/25<br />HW4：<br />20/19.15/20<br />Mid：<br />99/86.52/100<br />Final：<br />72/65.75/100<br />My Letter Grade: A<br /><br />总结：<br />期中很水。作业不难。期末最后两道有点难度。",
+      "comment_workload": "一学期四次作业不算多，但每次作业量不算少。但无论如何，对消化理解课上内容很有帮助。",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "nLgAEXv4pFfxRr7EPjF8vSlkBqMDcQq7",
       "semester": "2023-24 Fall",

@@ -37,7 +37,7 @@
     "rating_teaching": 4.2,
     "rating_grading": 3.74,
     "rating_workload": 3.19,
-    "review_count": 231,
+    "review_count": 232,
     "single_review": false,
     "enrollment_status": 1,
     "is_favourited": false,
@@ -58,7 +58,7 @@
       {
         "id": 101,
         "name": "LI, Xin",
-        "count": 34
+        "count": 35
       },
       {
         "id": 130,
@@ -128,6 +128,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "qeMrP2Ran4RgjESQAgepNCWJpBrsLwZQ",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 101,
+          "name": "LI, Xin",
+          "rating": 1
+        }
+      ],
+      "author": "isinfinity",
+      "date": "Feb 06, 2024",
+      "title": "",
+      "comment_content": "Topics Covered<br /><br />1. Introduction to computer programming<br />2. C++ basics: basic syntax, data types, operators<br />3. Control flow<br />4. Functions<br />5. Array and structure<br />6. Recursion<br />7. Scope<br />8. Struct<br />9. Pointers<br />10. Dynamic Data<br />11. Class<br />12. Stack and Queue<br />13. File input / output<br /><br />The course is an introduction to C++ language, which is helpful if you never learned it. Compared to COMP 1021, a lot more work is required, so brace yourself.",
+      "comment_teaching": "Taught by Li in the semester. Apart from lecture slides, she uses example programs to illustrate C++ concepts, some of which isn&#039;t available in course website, as well as drawing flowchats to explain the process of example programs",
+      "comment_grading": "Got a C+ in C++. Go figure.<br /><br />The PAs and labs are easy to get full marks as long as you put in some work. I lost some points in PA3 because of an uninitialized variable.<br /><br />The kicker is the midterm and finals, unlike COMP 1021, the exam is closed-book and bans computers, which is very difficult for me as I am used to working on code as I go, while the exam forces you to plan ahead. I did terrible in both.<br /><br />Lab(1~8): 24/24 (Lab 8 not marked in my session)<br />PAs: 290/300 (PA3 is quite hard be careful)<br />mid-term: 39.75/100 (avg: 61.2)<br />Final: 47.75/100 (avg: 53.2)",
+      "comment_workload": "4 credit course so expect significant workload.<br /><br />I am a LIFS major with minimal programming background, so takes a lot of time for me to figure out the code, but is relatively easy for labs and PAs. It took mw on average 2 hours to finish each lab and 4-6 hours for each PA.<br /><br />For exams, just be prepared to work away from computer and try write something every question, get more marks this way.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "yVnUv3xht44lDvmfittR1aiXh9FVf0z4",
       "semester": "2023-24 Fall",

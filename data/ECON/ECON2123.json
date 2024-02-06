@@ -35,11 +35,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"ECON\" data-code=\"3123\" href=\"/review/ECON3123\" target=\"_blank\">ECON 3123</a>, <a class=\"course-link\" data-subject=\"ECON\" data-code=\"3143\" href=\"/review/ECON3143\" target=\"_blank\">ECON 3143</a>, <a class=\"course-link\" data-subject=\"SOSC\" data-code=\"1440\" href=\"/review/SOSC1440\" target=\"_blank\">SOSC 1440</a>",
-    "rating_content": 4,
-    "rating_teaching": 3.82,
-    "rating_grading": 4.08,
+    "rating_content": 4.01,
+    "rating_teaching": 3.81,
+    "rating_grading": 4.07,
     "rating_workload": 4.1,
-    "review_count": 223,
+    "review_count": 225,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -50,7 +50,7 @@
       {
         "id": 144,
         "name": "ZHANG, Wenwen",
-        "count": 61
+        "count": 63
       },
       {
         "id": 258,
@@ -130,6 +130,82 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "DR4OSEW5aQvIWghPFExDSS797Sjvx1Cy",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 144,
+          "name": "ZHANG, Wenwen",
+          "rating": 1
+        }
+      ],
+      "author": "j.......c",
+      "date": "Feb 06, 2024",
+      "title": "",
+      "comment_content": "Introduction<br />Economy in the short run (The goods market, Financial markets I, IS-LM model)<br />Economy in the medium run (The labor market, Putting all markets together)<br />Open Economy (Openness in goods and financial markets, The good market in an open economy, Output + interest rate + exchange rate)<br /><br />The content covered is not too complex and can be understood with little effort.",
+      "comment_teaching": "Seems like a nice person. Cannot say much since I only attended the first lecture and skipped the rest.",
+      "comment_grading": "Problem Sets 10%<br />Quizzes 5%<br />Mid-Term 20%+20% OR 35%<br />Final 45% OR 50%<br /><br />There are two grading schemes, and the one that gives you the highest grade will be chosen. <br />The problem sets are graded based on completion, so as long as you submit it on time showing your work you should be able to get full marks. Online quizzes with one untimed attempt, you can refer to the ppts when doing it. <br />Mid-terms were not too difficult, with around 50/50 conceptual and calculation questions. The final felt more difficult but is still manageable. Letter grading is competitive as many people get high marks in the exams and it is a business school required course.<br /><br />My grade:<br />Problem Sets 2/2<br />Quizzes 3.65/5<br />Mid-Terms 87.5 (Median 84; UQ 92.5; High 100) &amp; 85 (Median 70; UQ 86; High 105)<br />Final Exam 81.5 (Median 60; UQ 75.25; High 91.5)<br />Overall: B+",
+      "comment_workload": "Very light workload; only 5 quizzes and 2 problem sets spaced out across the semester. The exam is closed-book so you do have to memorize the contents on the slides, but you can do it two days before the exams.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": [
+        {
+          "key": "sFnYcfc7viG70zkXiC4uQq2935FoACJ8",
+          "name": "Course Outline_ECON 2123_Fall 2023",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "hash": "TxP7xQ4kh7l9NRuafS8CPPbOyAPBeRBb",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 144,
+          "name": "ZHANG, Wenwen",
+          "rating": 1
+        }
+      ],
+      "author": "Mariooooooooooo",
+      "date": "Feb 06, 2024",
+      "title": "Don&#039;t reg WenWen&#039;s course",
+      "comment_content": "I. Introduction (Chapter 1&amp;2)<br />II. Economy in the short run<br />1. The Goods Market (Chapter 3)<br />2. Financial Markets I (Chapter 4)<br />3. Goods and Financial Markets: The IS-LM model (Chapter 5)<br />III. Economy in the medium run<br />1. The Labor Market (Chapter 7)<br />2. Putting All Markets together (Chapter 7(6thE))<br />IV. Open Economy<br />1. Openness in Goods and Financial Markets (Chapter 17)<br />2. The Goods Market in an Open Economy (Chapter 18)<br />3. Output, the Interest Rate, and the Exchange Rate (Chapter 19)<br />4. Exchange Rate Regime (Chapter 20*)<br />V. Economic Growth<br />1. Facts of Growth (Chapter 10*)<br />2. Saving, Capital Accumulation, and Output (Chapter 11*)<br />3. Technological Progress and Growth (Chapter 12*)<br />The content is good and have let you gain basic and better knowledge about economics. The outline is clear too.",
+      "comment_teaching": "WenWen tone is too sharp and high-toned that make people feel bad. Her teaching is boring, unclear and irrelevant to exam.",
+      "comment_grading": "The exam paper is so unclear and messy. I notice a problem in the exam paper and I told the TA and examiner but they are unable to clear my doubt.",
+      "comment_workload": "Workload is appropriate. Most homework answer can be found online and the quiz can test your acknowledgment too.",
+      "rating_content": 5,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "dbXfG3ftzP4W8Xaznh3s4iWfZ84TN4kZ",
       "semester": "2023-24 Fall",

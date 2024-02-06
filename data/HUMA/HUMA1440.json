@@ -26,10 +26,10 @@
     "corequisites": "",
     "exclusions": "MGCS 5001",
     "rating_content": 3.71,
-    "rating_teaching": 3.42,
+    "rating_teaching": 3.43,
     "rating_grading": 3.87,
-    "rating_workload": 3.83,
-    "review_count": 69,
+    "rating_workload": 3.81,
+    "review_count": 70,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -45,7 +45,7 @@
       {
         "id": 990,
         "name": "ZHANG, Lok Cheung Lawrence",
-        "count": 27
+        "count": 28
       },
       {
         "id": 307,
@@ -60,6 +60,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "22WMikUlCukgbH8fXfoZsxqZeLqjUhCd",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 990,
+          "name": "ZHANG, Lok Cheung Lawrence",
+          "rating": 1
+        }
+      ],
+      "author": "SBN",
+      "date": "Feb 06, 2024",
+      "title": "If you are interested in Chinese history (Qing to Reform and Opening up), join this class.",
+      "comment_content": "Lecture 1: What does “Modern” even mean?<br />Lecture 2: The “High Qing”<br />Lecture 3: The Manchus<br />Lecture 4: China Marches West<br />Lecture 5: Enjoying the Grand Canal<br />Lecture 6: Tea and War<br />Lecture 7: Internal Rebellions<br />Lecture 8: Foreign contacts<br />Lecture 9: Disasters at the turn of the century<br />Lecture 10: Revisiting Modernity<br />Lecture 11: Chinese Overseas<br />Lecture 12: Chinese Nationalism<br />Lecture 13: Long live the Republic<br />Lecture 14: The May Fourth Movement<br />Lecture 15: Warlords and the KMT conquest<br />Lecture 16: The Nanjing Decade (1927-1937) and the War of Resistance<br />Lecture 17: A changing society<br />Lecture 18: The War of Resistance and the Chinese Civil War<br />Lecture 19: From Yan&#039;an to Beijing<br />Lecture 20: The busy Red Sun-movements and turmoil during early PRC<br />Lecture 21: The Great Proletariat Cultural Revolution<br />Lecture 22: Looking forward from the 70s<br /><br />Overall, the content is Chinese History. Using English to learn Chinese history.",
+      "comment_teaching": "At the beginning, it was a little hard to understand what he was talking about. But if you have basic knowledge of Chinese history, it will be easier for you to understand the content. His PPT only have picture, no any descriptions. You have to listen to his own point. His point is useful in the id-term/final.",
+      "comment_grading": "AI assignment: 83/100<br />Exam question: 47/50<br />Mid-term: over mean <br />Final exam: 84/100<br /><br />Overall, my grade is B+.<br />Maybe many people have good results and the mean is very high.",
+      "comment_workload": "Compared with other HUMA courses, the workload of HUMA 1440 is quite high. <br /><br />10% Attendance and Participation<br />20% AI assignment<br />30% Midterm examination<br />10% Exam question submission<br />30% Final examination<br /><br />-He will only take one to two attendance throughout the semester. <br />-AI assignment sped up a lot of time to complete. It is better narrow the question in a small area. <br />-Final exam question: help me to do revision, it is easy to handle it.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "x38UIQq6o6wCmmaeABpaeOyyEQR0IYXL",
       "semester": "2023-24 Fall",

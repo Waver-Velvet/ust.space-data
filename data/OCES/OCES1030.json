@@ -30,11 +30,11 @@
     "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1401\" href=\"/review/LANG1401\" target=\"_blank\">LANG 1401</a> OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1402\" href=\"/review/LANG1402\" target=\"_blank\">LANG 1402</a> OR LANG 1403 OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1404\" href=\"/review/LANG1404\" target=\"_blank\">LANG 1404</a> OR LANG 1002 (prior to 2022-23)",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"LIFS\" data-code=\"1030\" href=\"/review/LIFS1030\" target=\"_blank\">LIFS 1030</a>, <a class=\"course-link\" data-subject=\"OCES\" data-code=\"1010\" href=\"/review/OCES1010\" target=\"_blank\">OCES 1010</a>",
-    "rating_content": 3.43,
-    "rating_teaching": 3.34,
+    "rating_content": 3.44,
+    "rating_teaching": 3.35,
     "rating_grading": 3.61,
-    "rating_workload": 4.25,
-    "review_count": 61,
+    "rating_workload": 4.26,
+    "review_count": 62,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -50,12 +50,12 @@
       {
         "id": 1090,
         "name": "YAU, Sin Ting Cynthia",
-        "count": 37
+        "count": 38
       },
       {
         "id": 228,
         "name": "LAM, Ka Sin Cindy",
-        "count": 34
+        "count": 35
       },
       {
         "id": 236,
@@ -65,6 +65,46 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "2SqzSBf7Z9mbBTsc7ofZCXcHo3J9ricT",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 228,
+          "name": "LAM, Ka Sin Cindy",
+          "rating": 1
+        },
+        {
+          "id": 1090,
+          "name": "YAU, Sin Ting Cynthia",
+          "rating": 1
+        }
+      ],
+      "author": "twylife",
+      "date": "Feb 06, 2024",
+      "title": "",
+      "comment_content": "A combination of LS, geography and a little chem. It’s easy to handle and not so boring.",
+      "comment_teaching": "Both are nice professors. They really tried to make the lectures to be more interactive. They would sometimes conduct some simple experiments to demonstrate the theories. It’s quite interesting if you paid attention to it.",
+      "comment_grading": "10%IPRS: 6.75/10 mean 8.1<br />45%Midterm: 41/50 mean 39<br />45%Final: 27/50 mean 29.8<br />Got a B kind of good grading",
+      "comment_workload": "The workload is very light since all the quizzes and exams only consist of multiple choices. Just spend 1-2 days to revise each exam you’d get a preset decent grade.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "ClZCjLpUkbpG3YnyDwhpnUZehDSvfCOC",
       "semester": "2023-24 Fall",

@@ -15,11 +15,11 @@
     "prerequisites": "Level 5 or above in HKDSE Mathematics Extended Module M2 OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1012\" href=\"/review/MATH1012\" target=\"_blank\">MATH 1012</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1013\" href=\"/review/MATH1013\" target=\"_blank\">MATH 1013</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1023\" href=\"/review/MATH1023\" target=\"_blank\">MATH 1023</a>",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 3.73,
-    "rating_teaching": 2.18,
-    "rating_grading": 2.64,
+    "rating_content": 3.75,
+    "rating_teaching": 2.42,
+    "rating_grading": 2.83,
     "rating_workload": 3,
-    "review_count": 11,
+    "review_count": 12,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -30,11 +30,46 @@
       {
         "id": 534,
         "name": "YAN, Min",
-        "count": 11
+        "count": 12
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "1JjCdFAXIzadaMdl6LRCOtuHQkVdwHZY",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 534,
+          "name": "YAN, Min",
+          "rating": 1
+        }
+      ],
+      "author": "goodkidcyx",
+      "date": "Feb 06, 2024",
+      "title": "简单的数学基础课一枚呀",
+      "comment_content": "正如课名，教的东西很基础，但也重要。总体来说简单。<br /><br />-逻辑<br />集合、量词（∃ and ∀）、证明、数学归纳法<br />简单。<br />-集合与映射<br />集合、并交补、映射、像与原像、单射与满射、逆、等价关系<br />简单。<br />-数<br />自然数、整数、有理数、实数、指数、复数<br />数的构建，这一部分最有意思也是整个课最难的部分。较为rigorous，喜欢。<br />-整数与多项式<br />整除、小数、素数、分解因数/因式、最大公约数、同余、整除判别方法。<br />小学奥数罢了。<br />-计数<br />有穷、无穷、势、序、可数性<br />之前没学过，但是简单。",
+      "comment_teaching": "讲的还挺清楚的，yanmin写的lecture note也很清楚。",
+      "comment_grading": "没想象的那么烂龟，给龟也算不上好，只能说正常。考试开卷考，难度低，但因为大家都觉得不难，因此容错率低。<br /><br />统计（格式：我的分数/平均分/总分）<br />Homework 20%, midterm 30%, final 50%<br /><br />HW1:<br />96/88.78/96<br />HW2:<br />66/63.6/66<br />HW3:<br />69/64.75/69<br />HW4:<br />60/51.17/60<br />HW5:<br />51/47.7/51<br />HW6:<br />36/31.05/36<br />HW7:<br />54/52.69/54<br />HW8:<br />66/61.73/66<br /><br />Midterm:<br />99/64.75/100<br />Final:<br />94/63.08/100<br />Total:<br />96.7/68.34/100<br /><br />My Grade: A+",
+      "comment_workload": "作为两分课，你的作业实在是多了点。",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 3,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "pcZrocf8VUJBVPZ03u4fTvrXLfKzTMDq",
       "semester": "2023-24 Fall",

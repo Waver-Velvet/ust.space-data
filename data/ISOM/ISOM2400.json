@@ -26,11 +26,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 3.64,
-    "rating_teaching": 4.1,
+    "rating_content": 3.67,
+    "rating_teaching": 4.14,
     "rating_grading": 3.98,
-    "rating_workload": 4.17,
-    "review_count": 42,
+    "rating_workload": 4.19,
+    "review_count": 43,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -41,7 +41,7 @@
       {
         "id": 388,
         "name": "XU, Yan",
-        "count": 39
+        "count": 40
       },
       {
         "id": 801,
@@ -56,6 +56,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "mJ9DRS05eRXoaz3mg2Irw9zmqdoRUf53",
+      "semester": "2023-24 Winter",
+      "instructors": [
+        {
+          "id": 388,
+          "name": "XU, Yan",
+          "rating": 1
+        }
+      ],
+      "author": "B4tm4n",
+      "date": "Feb 06, 2024",
+      "title": "",
+      "comment_content": "10 lectures/ 5 lectures per week <br />1 - Introduction to the Information Infrastructure<br />2 -&nbsp;&nbsp;Digital Convergence; Wireless Communications and Spectrum Regulation<br />3 -&nbsp;&nbsp;The Next Generation Information Infrastructure<br />4 - Business and Socioeconomic Implications of Information Infrastructure<br />5 - Web 2.0 and Innovation<br />6 - Diffusion of Telecommunications Services; Case Study: SMS Adoption in Hong Kong and China<br />7 - Theoretical Framework of Information Infrastructure Deregulation<br />8 -&nbsp;&nbsp;Organizational Restructuring of Information Infrastructure<br />9 - Network Interconnection; Local Network Competition in Hong Kong<br />10 - Foreign Direct Investment in Telecommunications and WTO’s Basic Telecommunications Agreement<br /><br />midterm covers the first 5 lectures and final covers the last 5 lectures, not overlapping so can forget the first half of lectures after midterm",
+      "comment_teaching": "satisfactory teaching , prof is fluent and understandable when teaching and is passionate about the course content, gives alot of examples with his own life experience, he is also very interactive with picking random students to answer questions,&nbsp;&nbsp;gives a 20 - 25 mins break in between",
+      "comment_grading": "50% for midterm and 50% for final, may not be as easy to get an A like other common cores, quite competitive as the course content is straight forward. midterm was online (MC, T/F, fill in the blanks, essay question) with a 2 day time time limit, final is a 3 hour physical exam similar format to midterm but no essay questions instead a few short questions and can bring a double sided A4 cheat sheet",
+      "comment_workload": "very low workload with no assignments, just had a midterm and final exam, but might be a bit annoying since the entire course is smashed into 2 weeks,&nbsp;&nbsp;make sure to go through the slides after every lecture especially for the last 5 lectures as there will be quite a bit to remember with the history of telecom and polices",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "oWdGORF0Lh039LmSIwwoaS6PjewrPcnX",
       "semester": "2023-24 Winter",
@@ -114,7 +149,7 @@
       "comment_grading": "Grading scheme:<br />Mid-term assignment (50%)<br />Final exam (50%)<br />-------------------------<br />Midterm:<br />2-day-take-home-open-book assignment on Canvas<br />Compare to previous terms, midterm is a bit harder than before, just a bit. They only let you have **ONE attempt** for the midterm assignment (it was unlimited before)<br />But it is still rather straightforward, you can find answers from the lecture notes and recordings easily.<br /><br />Content:<br />Part I: True or False Question (0.5 points each, 20 marks in total)<br />Part II: Multiple Choice questions (0.5 points each, 20 marks in total)<br />Part III: Fill in the blanks with the most appropriate word(s) (1 point for each question, 30 marks in total)<br />Part IV: Short question (10 points)<br />Part V: Short case study (20 points)<br /><br />Don&#039;t worry too much on part IV and V, I just paraphrased some points from the lecture slides and wrote some bullshit in the case study, and only got 1 mark deducted in each part.<br /><br />Statistics:<br />Mean: 86.3/100<br />SD: 7.5<br />-------------------------<br />Final:<br />Note that the final does not include the content of midterm at all<br />You can have a 2-sided A4-size cheatsheet<br />Format is similar to midterm assignment, but there&#039;s no case study part<br />Still quite straightforward like the midterm, if you manage to cram all content into the cheatsheet you can get high marks I think<br />Good thing about the final exam for this term is that they switched from online mode to physical<br />-------------------------<br />my craps:<br />Midterm: 96.5/100<br />Final: ???????????/100<br />Grade: A+<br /><br />quite nice, good grade if you can handle the workload",
       "comment_workload": "It&#039;s an intensive course, there are in total 10 lectures for 2 weeks. For each lecture, the slides average around 100 pages.<br />Most of the workload is from the lectures, you need to focus for THREE HOURS during the lecture, ugh. I don&#039;t understand why they cram the course in such a short amount of time, is it just because it&#039;s in winter semester?? :(<br />Thankfully the final does not cover the whole syllabus or else I would literally die of stroke, but still you need to shove a week of content into your brain hahahhahaha fuckkkkk<br />Also I needed to spend quite some time to make the cheatsheet, that sucked.",
       "rating_content": 3,
-      "rating_teaching": 3,
+      "rating_teaching": 4,
       "rating_grading": 4,
       "rating_workload": 2,
       "has_midterm": true,

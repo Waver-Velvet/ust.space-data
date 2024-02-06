@@ -15,11 +15,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"LANG\" data-code=\"1401\" href=\"/review/LANG1401\" target=\"_blank\">LANG 1401</a> OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1402\" href=\"/review/LANG1402\" target=\"_blank\">LANG 1402</a> OR Level 5 in HKDSE English Language with all papers at or above level 4 OR Overall bandscore of 6.5 in IELTS with all subscores at or above 6.0 OR equivalence of the above",
     "corequisites": "",
     "exclusions": "LANG 1003",
-    "rating_content": 2.64,
-    "rating_teaching": 4.29,
-    "rating_grading": 3.21,
-    "rating_workload": 2.79,
-    "review_count": 14,
+    "rating_content": 2.73,
+    "rating_teaching": 4.33,
+    "rating_grading": 3.33,
+    "rating_workload": 2.8,
+    "review_count": 15,
     "single_review": false,
     "enrollment_status": 2,
     "is_favourited": false,
@@ -56,10 +56,50 @@
         "id": 423,
         "name": "YEW, Liza Sook Yee",
         "count": 1
+      },
+      {
+        "id": 467,
+        "name": "CHONG, Doreen",
+        "count": 1
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "wT5foPmo1c1L9IMSwT5NbyFoHMD0yfTD",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 467,
+          "name": "CHONG, Doreen",
+          "rating": 1
+        }
+      ],
+      "author": "himank",
+      "date": "Feb 06, 2024",
+      "title": "A really good course",
+      "comment_content": "The content of this course is pretty straightforward and easy to follow, especially if you have already dealt with HKDSE English since the format is somewhat similar.<br /><br />This course teaches you about synthesis and multimodality, which is simple to understand if you follow up on your tasks and attend lectures. <br /><br />For synthesis, you need to know how to carry out APA citation for your essays and for multimodality, you should have basic knowledge of voiceovers, editing, graphics in order to form a video for the project (worth 40%!)",
+      "comment_teaching": "Personally, miss doreen is a really fun teacher and she understands us students really well. She always tries to teach us in a fun way and makes sure that we are not stressed out or doing work in a rush. She gives us adequate time to do all our work and also tries to extend our project deadlines (legally of course) if we are not caught up on everything.<br /><br />She gives exceptional feedback to us, which helps us to improve later on. If you are taking this course, you have to pick her as a teacher if you want this course to be fun and helpful.",
+      "comment_grading": "Grading is pretty lenient with Miss Doreen as long as you are doing your work on time and following all the instructions mentioned by her in class or on the PowerPoint. She requires nothing fancy, just what was mentioned and she will give you a decent mark. <br /> <br />My grade: A+<br />- W2 Assignment: Exceptional, Exceptional/Advanced, Exceptional/Advanced<br />- V2 Assignment: Exceptional, Exceptional, Exceptional, Advanced<br />- SDL: 20/20<br />Total Percentage: 92%",
+      "comment_workload": "The workload for this course is quite heavy, since you have to complete 2-3 tasks every 2/3 days, along with SDL tasks and other projects.<br /><br />Workload:<br />0% attendance but you SHOULD join every lesson if you want to be caught up and complete your work with knowledge. <br /><br />20% SDL tasks and library quiz (<br /><br />1 Draft Video Project (1-2 minutes) groupwork (worth 0%)<br />1 Draft Writing Project (200-400 words) (worth 0%)<br /><br />1 Video Project (4-6 minutes) - individual, due right before finals (40% for the project, 2% for self reflection)<br />1 Writing Project (600-800 Words) - individual, due after midterm (40% for the project, 2% for self reflection)",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "4IaITIwIt90DGm6s04W7gO4AxJuBSaWy",
       "semester": "2023-24 Fall",

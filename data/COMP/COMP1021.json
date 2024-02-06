@@ -39,7 +39,7 @@
     "rating_teaching": 4.61,
     "rating_grading": 4.25,
     "rating_workload": 4.54,
-    "review_count": 904,
+    "review_count": 905,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -50,7 +50,7 @@
       {
         "id": 95,
         "name": "ROSSITER, David",
-        "count": 329
+        "count": 330
       },
       {
         "id": 99,
@@ -105,6 +105,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "DZ4uM9zGHpfco7J2zOq04mFhU3A18Rv4",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 95,
+          "name": "ROSSITER, David",
+          "rating": 1
+        }
+      ],
+      "author": "0v0katai",
+      "date": "Feb 06, 2024",
+      "title": "",
+      "comment_content": "One of the best characteristics of this course is that you can go to other lecturer&#039;s lesson even though it is different from your timetable.<br /><br />The content is basic Python, with more emphasis on turtle graphics.<br /><br />The labs are very easy, so everyone should try to get 100% as it yields 36%/42% of the course grade.<br /><br />The midterm exam in this semester is hellish for me as it is right after PHYS1112 midterm, whereas the final exam is the complete opposite.",
+      "comment_teaching": "David is a humorous teacher and he loves to demostrate turtle programs.",
+      "comment_grading": "There are 2 grading schemes.<br />- 3 labs: 36%/42%<br />- Midterm: 24%/0%<br />- Final: 40%/58%<br /><br />If you fail in midterm, you have to put more efforts on the final exam once and for all.<br /><br />My score:<br />Labs: All 100/100<br />Midterm: 30/100 (sadge)<br />Final: 100/100<br />Letter grade: A+",
+      "comment_workload": "Very light workload. Each lab should only take few hours to finish.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "cR2fX9RKefdu8DDApv0KC0vL348wZ2IQ",
       "semester": "2022-23 Spring",

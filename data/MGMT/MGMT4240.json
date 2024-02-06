@@ -22,11 +22,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"MGMT\" data-code=\"5480\" href=\"/review/MGMT5480\" target=\"_blank\">MGMT 5480</a>",
-    "rating_content": 4.14,
-    "rating_teaching": 4.14,
-    "rating_grading": 4.29,
-    "rating_workload": 3.86,
-    "review_count": 7,
+    "rating_content": 4.13,
+    "rating_teaching": 4.13,
+    "rating_grading": 4.25,
+    "rating_workload": 3.88,
+    "review_count": 8,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -37,7 +37,7 @@
       {
         "id": 833,
         "name": "SULLIVAN, Bilian NI",
-        "count": 6
+        "count": 7
       },
       {
         "id": 599,
@@ -47,6 +47,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "ZpBBN01HAc3ifJCzlFyNruRAf3kD9NnI",
+      "semester": "2023-24 Spring",
+      "instructors": [
+        {
+          "id": 833,
+          "name": "SULLIVAN, Bilian NI",
+          "rating": 1
+        }
+      ],
+      "author": "LeoDubanton",
+      "date": "Feb 06, 2024",
+      "title": "",
+      "comment_content": "The course teach an overview of the cultural, legal, historical, economical.. aspects of China and how firms should adapt by showing examples of Chinese and foreigners firms. Content is quite general.",
+      "comment_teaching": "Professor is really chill, but it is quite difficult to stay concentrated during the 3 hours as the content is very basic, especially if you are got a management major or attend to other management courses.",
+      "comment_grading": "Grading is really chill. Participation has an impact, and I feel that quantity is more important than quality.",
+      "comment_workload": "Workload is light, 2 write-up assignments that take 2 or 3 hours each, the weekly reading and quiz are also not to much time consuming. The presentation is made by group of 6, so the individual working load is also okay.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "8pROXAHfjnwVgbKOuOX57Ut9nawjNKpU",
       "semester": "2022-23 Spring",

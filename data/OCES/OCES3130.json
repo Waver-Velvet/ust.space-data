@@ -20,10 +20,10 @@
     "corequisites": "",
     "exclusions": "",
     "rating_content": 5,
-    "rating_teaching": 4,
-    "rating_grading": 4,
-    "rating_workload": 5,
-    "review_count": 1,
+    "rating_teaching": 4.5,
+    "rating_grading": 4.5,
+    "rating_workload": 4.5,
+    "review_count": 2,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -34,16 +34,56 @@
       {
         "id": 231,
         "name": "LIU, Hongbin",
-        "count": 1
+        "count": 2
       },
       {
         "id": 1673,
         "name": "WU, Longjun",
-        "count": 1
+        "count": 2
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "4N7yWxstSsL4gpNH0Zl0rkfha2lLqZER",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 231,
+          "name": "LIU, Hongbin",
+          "rating": 1
+        },
+        {
+          "id": 1673,
+          "name": "WU, Longjun",
+          "rating": 1
+        }
+      ],
+      "author": "Shin, Woo-hong",
+      "date": "Feb 06, 2024",
+      "title": "Similar to LIFS2060",
+      "comment_content": "Part 1: Introduction to Marine Environment&nbsp;&nbsp;<br />Introduction to Marine Environment\tLiu <br />Physical and chemical oceanography\tLiu<br /><br />Part 2: The Organisms of the Sea\t<br />Marine prokaryotes: Bacteria and Archaea\tLiu<br />Marine viruses: living or non-living\tLiu<br />Marine algae: plant-like\tLiu<br />Marine protozoa: animal-like\tLiu<br />Multicellularity and the simplest animals\tWu<br />Cnidaria and Ctenophora (coral, jellyfish, and comb jellies)\tWu<br />Mollusca I (snails)\tWu<br />Mollusca II (clams)\tWu<br />Mollusca III (octopus and squids)\tWu<br />Marine worms and beyond: Lophotrochozoa\tWu<br />The largest phylum: Arthropoda\tWu<br />Almost vertebrates: Echinodermata, Hemichordata, Cephalochordata, and Urochordata\tWu <br />Marine Fishes\tLiu<br />Marine Mammals\tLiu<br /><br />Part 3:&nbsp;&nbsp;Structure and Function of Marine Ecosystem\t<br />Primary productivity \tLiu<br />Zooplankton and food web\tLiu<br />Carbon cycle and global warming\tLiu<br />Sandy beach and mudflat ecology\tLiu<br />Rocky shore ecology\tLiu<br />Subtidal ecosystems\tLiu<br />Estuary\tLiu<br />Coral reef \tLiu<br />Deep Sea Ecosystem\tLiu<br /><br />As long as you attend lectures it wouldn&#039;t cause any problem.<br />If you have completed LIFS2060, this course would be more manageable for you, as LIFS2060 primarily focuses on taxonomy, which overlaps with the content covered in this lecture.",
+      "comment_teaching": "Both are faithful and passionate professors. <br />Professor Liu Hongbin often delves into concepts beyond the scope of the topic, but there&#039;s no need to worry as those will not be tested in the exam.<br />Professor Wu Longjun is incredibly passionate and dedicated, always striving to provide detailed explanations.",
+      "comment_grading": "Midterm 37.5/40 <br />Final 48/60<br />Letter Grade: A",
+      "comment_workload": "To be honest, this course requires a significant amount of content to be memorized. Therefore, I wouldn&#039;t necessarily recommend it to individuals who excel primarily in memorization skills.<br />Only Two Exams",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "14wPfbjdzxFJ2RIGthgfW95c1mq1KJNU",
       "semester": "2023-24 Fall",
