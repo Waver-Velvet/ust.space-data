@@ -53,9 +53,9 @@
     "exclusions": "<a class=\"course-link\" data-subject=\"CORE\" data-code=\"1340\" href=\"/review/CORE1340\" target=\"_blank\">CORE 1340</a>",
     "rating_content": 4.38,
     "rating_teaching": 4.65,
-    "rating_grading": 4.09,
-    "rating_workload": 4.29,
-    "review_count": 65,
+    "rating_grading": 4.11,
+    "rating_workload": 4.3,
+    "review_count": 66,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -71,7 +71,7 @@
       {
         "id": 1137,
         "name": "HONG, Se Joon",
-        "count": 16
+        "count": 17
       },
       {
         "id": 364,
@@ -86,6 +86,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "IwzEd4jdJOLuZa85hQTcXcWuHOQQRmTq",
+      "semester": "2023-24 Winter",
+      "instructors": [
+        {
+          "id": 1137,
+          "name": "HONG, Se Joon",
+          "rating": 1
+        }
+      ],
+      "author": "purpleworld",
+      "date": "Feb 08, 2024",
+      "title": "Light load good grade",
+      "comment_content": "The content is a bit scattered and vague, mainly about innovation as in a company, with tonnes of examples. Though it is still interesting to know them, it is kind of repetitive and gets slightly bored after an hour or so and the lesson is 3 hrs.<br />I would say the content of open innovation is the most interesting one to me, other content includes timing, network externalities, importance, creativity, trajectory, etc.",
+      "comment_teaching": "A Korean professor that likes 福建炒飯 of lg7(?)<br />I feel that he has made great effort in making the content more interesting and sustain the 3 hrs lecture (though I still dozed off a little around break time, btw break time is mostly around 15 mins or so)<br />However some examples in the course is repetitive (and sometimes he is excitedly off track)",
+      "comment_grading": "Good grading,<br />Final 50%<br />Group presentation 25%<br />Peer evaluation 20%<br />Class attendance 5%<br />Here class attendance is taken by professor reading each person&#039;s name nearly every lecture, mostly at the end and once after break if I&#039;m not remembering wrongly.<br /><br />Never received the scores of each part, I should have full attendance and I guess not bad at each part as my group got less famous company to present about and I feel like I know what I answer in the final, so A range.",
+      "comment_workload": "Light.<br />As it is a winter semester course, the only bad thing about it is 9 am lecture, while it is also a good thing as you can still spend your own time in the afternoon working on your own stuff or go to play. Each week 3 lectures only, while one presentation which I get mostly good group mates, though one or two seems very occupied with their own stuff and not appearing, it is still manageable as each group has 8 people and not everyone need to present in the 12 mins limit. I think I spent 1 day for doing PowerPoint and script for my part only, while some short times for group meeting or brainstorming. Final are mc and a few &quot;answer with few words&quot; short question, I spent two to three days memorizing stuff as I am not good at that, but remember to revise about the extra reading (not a lot) provided by professor as some question will come from that. And also remember examples (this is where listening to the lectures come into use)",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "W9pV65ezDP1Vz3YpUDZytVj5RmU5bhoe",
       "semester": "2023-24 Fall",

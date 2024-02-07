@@ -15,11 +15,11 @@
     "prerequisites": "Level 5* or above in HKDSE English Language OR Overall bandscore of 7.0 or above in IELTS OR equivalence of the above",
     "corequisites": "",
     "exclusions": "LANG 1002, LANG 1003",
-    "rating_content": 3.17,
-    "rating_teaching": 4.09,
-    "rating_grading": 3.63,
-    "rating_workload": 2.83,
-    "review_count": 35,
+    "rating_content": 3.11,
+    "rating_teaching": 4,
+    "rating_grading": 3.56,
+    "rating_workload": 2.78,
+    "review_count": 36,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -58,6 +58,11 @@
         "count": 3
       },
       {
+        "id": 1722,
+        "name": "STAMPER, Suzan",
+        "count": 2
+      },
+      {
         "id": 411,
         "name": "MEGAN, Melissa Jane",
         "count": 1
@@ -66,15 +71,45 @@
         "id": 466,
         "name": "ENGLAND, Graham James Fisher",
         "count": 1
-      },
-      {
-        "id": 1722,
-        "name": "STAMPER, Suzan",
-        "count": 1
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "cB792TdOrUrdJh5v16ihBWYhwp0iJvyr",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1722,
+          "name": "STAMPER, Suzan",
+          "rating": 0
+        }
+      ],
+      "author": "ArrogantColonel",
+      "date": "Feb 07, 2024",
+      "title": "",
+      "comment_content": "The only practical content taught is the APA stuff from the library session. All other knowledge taught is only applicable to the assignments set by the CLE. The lectures offer discussions so you can make friends, but the discussion topics are mostly extremely simple and often trivial.<br /><br />According to the instructor, this course should focus on teaching and not on proficiency. That&#039;s completely opposite with my experience. Nothing technical or practical was taught, everything is about practising english proficiency in countless assignments.",
+      "comment_teaching": "Friendly. Doesn&#039;t teach anything non-trivial. <br /><br />Feedback for the 1st entry was given the night before the final deadline. No changes can be made in time as the work is already finished.",
+      "comment_grading": "Throughout the course, my effort in assignments has a negative correlation to the grades I get. At the beginning I put so much effort refining my work, but I only got &#039;competent&#039; grades. I then decided to save my time for more important work, so I just finish everything for completion, but she gave me &#039;advanced/exceptional&#039; grades. <br /><br />Following her instructions will only get you the &#039;competent&#039; grading. She will never show you how an &#039;exceptional&#039; work looks like. You have to figure out how to make her appreciate your work to get the &#039;exceptional&#039; grading, but it is unpredictable for me.<br /><br />Assignment feedback did not include the reasons to why I only got some &#039;competent&#039; grades.",
+      "comment_workload": "Comparable to a 5 credit honor course I took in the same semester.<br />Two times of my other 3 credit courses in the same semester.<br /><br />It puts a lot of pressure on your midterms and finals. The primary focus of the instructor is whether students can meet the course deadlines. They are expected to devote time into group assignemts even if it affects their exam preparation.",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "jdtaEDLFFiu8qxCUWKKDEkJ0tRdtNsru",
       "semester": "2023-24 Fall",
@@ -1264,8 +1299,8 @@
       "has_attendance": false,
       "has_reading": false,
       "has_presentation": true,
-      "upvote_count": 22,
-      "vote_count": 27,
+      "upvote_count": 23,
+      "vote_count": 28,
       "comment_count": 0,
       "attachments": []
     }

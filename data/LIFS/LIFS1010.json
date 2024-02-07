@@ -27,9 +27,9 @@
     "exclusions": "<a class=\"course-link\" data-subject=\"LIFS\" data-code=\"1901\" href=\"/review/LIFS1901\" target=\"_blank\">LIFS 1901</a>, <a class=\"course-link\" data-subject=\"LIFS\" data-code=\"1902\" href=\"/review/LIFS1902\" target=\"_blank\">LIFS 1902</a>, Level 3 or above in HKDSE 1/2x Biology OR in HKDSE 1x Biology",
     "rating_content": 4.03,
     "rating_teaching": 3.89,
-    "rating_grading": 4.27,
-    "rating_workload": 4.16,
-    "review_count": 37,
+    "rating_grading": 4.26,
+    "rating_workload": 4.13,
+    "review_count": 38,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -55,7 +55,7 @@
       {
         "id": 227,
         "name": "KO, Ice Wai Ping",
-        "count": 4
+        "count": 5
       },
       {
         "id": 586,
@@ -65,16 +65,61 @@
       {
         "id": 1788,
         "name": "AMIN, Aftab",
-        "count": 2
+        "count": 3
       },
       {
         "id": 490,
         "name": "KO, Robert Kam Ming",
-        "count": 1
+        "count": 2
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "8B5w7c9nW9TTNPD6uAm4mSxhecvGz046",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 227,
+          "name": "KO, Ice Wai Ping",
+          "rating": 1
+        },
+        {
+          "id": 1788,
+          "name": "AMIN, Aftab",
+          "rating": 1
+        },
+        {
+          "id": 490,
+          "name": "KO, Robert Kam Ming",
+          "rating": 1
+        }
+      ],
+      "author": "jw12345678",
+      "date": "Feb 07, 2024",
+      "title": "",
+      "comment_content": "1 Sep 5 (Tue) Course Introduction<br />Characteristics of Life and Living Systems<br />IK<br />2 Sep 7 (Thu) From Atoms to Organic Molecules IK<br />3 Sep 12 (Tue) The Cell: The Basic Unit of Life IK<br />Part 2 – The Perpetuation of Life<br />4 Sep 14 (Thu) Genetics – DNA and Chromosomes AA<br />5 Sep 19 (Tue) Genetics – Cell Cycle and Meiosis AA<br />6 Sep 21 (Thu) Human Reproduction<br />Group Projects<br />AA<br />Part 3 – Evolution<br />7 Sep 26 (Tue) The Origin of Life IK<br />8 Sep 28 (Thu) Evolution IK<br />Part 4 – Biodiversity &amp; Conservation<br />9 Oct 3 (Tue) The Value of Biodiversity IK<br />10 Oct 5 (Thu) Human Impacts on the Biosphere IK<br />11 Oct 10 (Tue) Preservation of Endangered Species and Ecosystems IK<br />Part 5 – Ecology &amp; Behavioral Biology<br />12 Oct 12 (Thu) Ecology of Individuals and Populations IK<br />13 Oct 17 (Tue) Species Interactions (I) IK<br />14 Oct 19 (Thu) Species Interactions (II) IK<br />15 Oct 24 (Tue) Mid-term Exam AA &amp; IK<br />16 Oct 26 (Thu) Behavioral Biology (I) – Learning, Animal Cognition, and Migration IK<br />17 Oct 31 (Tue) Behavioral Biology (II) – Animal Communications,<br />Reproductive Strategies, and Animal Societies IK<br />Part 6 – Human Biology<br />18 Nov 2 (Thu) The Nervous System AA<br />19 Nov 7 (Tue) The Digestive System AA<br />20 Nov 9 (Thu) Heart and Circulation AA<br />21 Nov 14 (Tue) Lungs and Breathing AA<br />22 Nov 16 (Thu) Kidney and Excretion AA<br />23 Nov 21 (Tue) Muscles and Movement AA<br />24 Nov 23 (Thu) Aging Theory: Chinese Medicine Vs Modern Medicine RK<br />25 Nov 28 (Tue) Project Presentations (I) AA &amp; IK<br />26 Nov 30 (Thu) Project Presentations (II) AA &amp; IK",
+      "comment_teaching": "you can refer to the others&#039; comments as i seldom attend lesson<br /><br />Dr. Amin: He is funny and always give hints in the lesson (according to videos). He will provide the recordings.<br /><br />Dr. Ko: No lecture recordings will be provided",
+      "comment_grading": "Mid-term: 40% (me: 13, mean: 22.3, UQ: 27, highest: 34 lowest: 11)<br />Final: 40% (me: 31, mean: 26, UQ: 30, highest: 36?)<br />Presentation: 20% (me: 15, LQ:15, mean: 16, UQ: 17, highest: 19)<br />overall grade: C+&nbsp;&nbsp;59/100<br /><br />I didnt revise any in the mid-term so i get 13 (nearly the lowest)<br />I put more effort into revising the ppt, especially Dr.Amin hints. As I&nbsp;&nbsp;just attended Dr.Ko&#039; s lessons twice or thrice, i didnt get any extra details",
+      "comment_workload": "just memorize all the hints or extral details. (Others are useless)",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "wGEWlWl7kZ26BE5T358UMreKWZYJSUjI",
       "semester": "2023-24 Fall",
