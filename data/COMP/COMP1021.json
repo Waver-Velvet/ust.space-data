@@ -36,10 +36,10 @@
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"1022P\" href=\"/review/COMP1022P\" target=\"_blank\">COMP 1022P</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"1022Q\" href=\"/review/COMP1022Q\" target=\"_blank\">COMP 1022Q</a> (prior to 2020-21), <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2011\" href=\"/review/COMP2011\" target=\"_blank\">COMP 2011</a>, <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012H\" href=\"/review/COMP2012H\" target=\"_blank\">COMP 2012H</a>",
     "rating_content": 4.46,
-    "rating_teaching": 4.6,
+    "rating_teaching": 4.61,
     "rating_grading": 4.25,
     "rating_workload": 4.54,
-    "review_count": 906,
+    "review_count": 908,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -50,12 +50,12 @@
       {
         "id": 95,
         "name": "ROSSITER, David",
-        "count": 330
+        "count": 331
       },
       {
         "id": 99,
         "name": "LAM, Gibson",
-        "count": 282
+        "count": 283
       },
       {
         "id": 799,
@@ -105,6 +105,76 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "wRsmL8XiytxtQ9wiykKo5ic5wZOSJ4H5",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 95,
+          "name": "ROSSITER, David",
+          "rating": 1
+        }
+      ],
+      "author": "shoyojack24",
+      "date": "Feb 08, 2024",
+      "title": "basic introduction to python",
+      "comment_content": "basic introduction to python<br />helps if you&#039;ve done programming before<br />mainly focuses on turtle",
+      "comment_teaching": "David is good teacher for beginners especially he makes us to previous exam questions during his lectures. He&#039;s also willing to answer your doubts after class which was helpful. Though the lectures aren&#039;t enough to get a good grade because the exam is more on your understanding.",
+      "comment_grading": "THE GRADING ISTG<br />because this course is an introduction course with basic concepts almost everyone does well<br />so if you want A range, you need to minimum get full in all your assignments and do really well in final<br /><br />there were two grading schemes <br /><br />Marking Scheme - 1<br /><br />Lab Projects 36% <br />Midterm&nbsp;&nbsp;24% <br />Final Exam 40% <br /><br />Marking Scheme - 2<br /><br />Lab Projects 42% <br />Midterm 0% <br />Final Exam 58% <br /><br />so naturally mostly everyone qualifies for the 2nd marking scheme because the midterm doesn&#039;t go well for basically everyone<br /><br />I also qualified for the 2nd grading because i messed up midterm but the final wasn&#039;t easy for sure <br /><br />my grading was as follows (3 labs were graded)<br /><br />lab 1 - 100/100<br />lab 5&nbsp;&nbsp;- 100/100<br />lab 6 - 80/100<br /><br />midterm - i don&#039;t remember sorry <br /><br />final - 79/100 <br /><br />my final grade was B+",
+      "comment_workload": "the workload well <br />if you go to lectures that&#039;s 3 hrs of lecture every week <br />then there&#039;s the labs which get released after week 2 out of which 3 need to submitted for grading <br />the graded labs are definitely time consuming depending on your programming expertise. <br />for me who&#039;s studied python before it took me 4-5 hrs to do the perfect project but without any errors. errors take time to figure out. <br /><br />the main problem is the exam prep because you have to do all the previous year exams released and also keep a track of time because the hardest part of the exam is the lack of time. 40 mins you have to 8 questions twice. <br /><br />it&#039;s doable to score well but you need to be careful in exam and be on your tips.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "bEy7zdSHBSCd0AjTVOgKVTKNP4N4LaNm",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 99,
+          "name": "LAM, Gibson",
+          "rating": 1
+        }
+      ],
+      "author": "Xie_Richie",
+      "date": "Feb 08, 2024",
+      "title": "",
+      "comment_content": "I don&#039;t quite like the content relating to turtles, despite that, other things are fine.",
+      "comment_teaching": "The teaching is good.",
+      "comment_grading": "I personally get an A.<br />I got 97 in the final and had a small error in one of the lab, which lost 3 points.<br /><br />The A+ line is not strictly asking you to get full mark in both lab and written exams. I heard that, if you make no mistakes in all of your lab sessions, and got a 97 as me in the lab, you can also get an A+.",
+      "comment_workload": "Workload is relatively OK.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "KEmfGfJnarlz6UexPDHXRIMWcsTFRIJM",
       "semester": "2022-23 Fall",

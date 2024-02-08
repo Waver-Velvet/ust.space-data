@@ -18,11 +18,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 4.58,
-    "rating_teaching": 4.25,
-    "rating_grading": 4.83,
-    "rating_workload": 4.42,
-    "review_count": 12,
+    "rating_content": 4.62,
+    "rating_teaching": 4.31,
+    "rating_grading": 4.85,
+    "rating_workload": 4.46,
+    "review_count": 13,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -38,11 +38,46 @@
       {
         "id": 1885,
         "name": "HOU, Yue",
-        "count": 2
+        "count": 3
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "8b7q8Y7fYYOSeHBhlieWWQypd8itnWen",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1885,
+          "name": "HOU, Yue",
+          "rating": 1
+        }
+      ],
+      "author": "Abdul Sami",
+      "date": "Feb 08, 2024",
+      "title": "Nice course",
+      "comment_content": "Great content in teaching political situations and history around the world through weekly readings and films. Had presentations of 1 movie, news article or reading each week by different groups.",
+      "comment_teaching": "Discussion intensive style, where participation counted for 15% of the course grade and students were encouraged to speak up and share their views and/or experiences on different political views. The teacher started the discussions or asked the class to lead the talk.",
+      "comment_grading": "Grading is great, as there are not any exams or quizzes. However, there are 3 presentations and a final group project that count heavily toward the final grade. Also, there is participation and you have to be frequently engaged in the class to answer and share your opinions. But, the course is interesting and not too difficult compared to other common courses.",
+      "comment_workload": "Worldload is very fair, compared to other courses at HKUST. Mainly 3 presentations, an essay and final group project that is basically making a short political film. However, it might be a lot of work for people who don&#039;t like talking much in class or share their opinions.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "J5LYALdK10arG23oA4J4t5znH4is2coU",
       "semester": "2023-24 Fall",

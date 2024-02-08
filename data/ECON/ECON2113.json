@@ -27,7 +27,7 @@
     "rating_teaching": 3.75,
     "rating_grading": 4.07,
     "rating_workload": 4.25,
-    "review_count": 308,
+    "review_count": 309,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -73,7 +73,7 @@
       {
         "id": 1639,
         "name": "TANG, Rui",
-        "count": 16
+        "count": 17
       },
       {
         "id": 1638,
@@ -128,6 +128,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "MnHWTeaOuiYReogLdT4toq5DyIQNQKso",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1639,
+          "name": "TANG, Rui",
+          "rating": 1
+        }
+      ],
+      "author": "kmt",
+      "date": "Feb 08, 2024",
+      "title": "",
+      "comment_content": "Chapter 1: What is Economics?<br />Chapter 2: The Economic Problem<br />Chapter 3: Demand and Supply<br />Chapter 4: Elasticity<br />Chapter 5: Efficiency and Equity<br />Chapter 6: Government Actions in Markets<br />Chapter 7: Global Markets in Action<br />Chapter 8: Utility and Demand<br />Chapter 9: Possibilities, Preferences, and Choices<br />Chapter 11: Output and Costs<br />Chapter 12: Perfect Competition<br />Chapter 13: Monopoly<br />Chapter 14: Monopolistic Competition<br />Chapter 15: Oligopoly<br />Chapter 16: Public Choices, Public Goods, and Healthcare<br />Chapter 17: Externalities<br />Chapter 20: Uncertainty and Information<br /><br />This is a course for those with some exposure to Economics. No need for calculus or remembering proofs, but a strong mathematical background helps.",
+      "comment_teaching": "His teaching can get fairly advanced, with an emphasis on showing rigorous proofs. I suppose his Bachelor&#039;s degree in Applied Maths but Econ for Postgraduate has something to do with it.<br /><br />Nevertheless, his classes cover everything required to learn and are not boring at all. He is perhaps the most diligent professor ever (I think he marks all the finals by himself).",
+      "comment_grading": "Problem sets: 10%<br />5 problem sets, marked by completion<br /><br />Random In-class Quiz: 10%<br />2 times, marked by completion (subject to change)<br /><br />Midterm: 30% (out of 30 marks, 80 min)<br />Mean: 21.25 Median: 21.5&nbsp;&nbsp;High: 30 Upper Quartile: 24.25&nbsp;&nbsp;Low: 7 Lower Quartile: 18.75<br /><br />Final: 50% (out of 100 marks, cumulative, 3 hours)<br />mean: 74.67 Median: 76.5&nbsp;&nbsp;High: 97 Upper Quartile: 85.75&nbsp;&nbsp;Low: 42 Lower Quartile: 64.25<br /><br /><br />The random in-class quiz was supposed to be graded. It was not until many students lamented its difficulty that the lecturer gave in. Since our semester was the first batch of students with his new harder questions, it was used to test the water.<br /><br />Me: 10 + 10 + 30 + 48 = 98 (A+)<br />A+ grade cutoff around 91<br />A range cutoff around 83.5<br /><br />The consensus is that the midterm is fairly important, as getting around the mean makes it hard to get top grades. I believe there should be more questions and marks available for the paper. As for the final exam, it should have never been cumulative (not the lecturer&#039;s fault but the Econ department&#039;s).<br /><br />If you can do all his extra practice problems (not problem sets), then you are set.",
+      "comment_workload": "Light, relative to most first-year courses.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "NCYVzoXOVLdbLkBdUDsg0L19ojm2pHm7",
       "semester": "2023-24 Fall",

@@ -21,11 +21,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "CSIT 5210, MSBD 5002",
-    "rating_content": 4.71,
+    "rating_content": 4.72,
     "rating_teaching": 4.79,
-    "rating_grading": 4.39,
+    "rating_grading": 4.38,
     "rating_workload": 4.07,
-    "review_count": 28,
+    "review_count": 29,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -36,11 +36,46 @@
       {
         "id": 134,
         "name": "WONG, Raymond Chi Wing",
-        "count": 22
+        "count": 23
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "73iTaUrfgqmJK1lHQGSa1nahFn3Y8O4Y",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 134,
+          "name": "WONG, Raymond Chi Wing",
+          "rating": 1
+        }
+      ],
+      "author": "i9schen",
+      "date": "Feb 08, 2024",
+      "title": "",
+      "comment_content": "Basic knowledge about data mining, including association, classification, clustering, neural network, etc. Content is tight, but interesting and useful.",
+      "comment_teaching": "Raymond&#039;s teaching is always interesting, with &quot;coupon&quot; given to award the students who answer quetions in class to waive a question in homework. Recordings will be available on canvas.",
+      "comment_grading": "Not bad, but students are really Juan... Above average score often guarantees a B+ score.<br />A cheating sheet (a piece of two-slide A4) is allowed to bring to the exam.",
+      "comment_workload": "Moderate, 3 homework assignments and 1 group project. Each homework often takes me a few days to finish, with a month given to finish.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "ufqQIlCiwVtEAHQ6aw4kwIg9aXNAnkWE",
       "semester": "2023-24 Fall",
