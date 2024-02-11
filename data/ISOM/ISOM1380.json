@@ -51,11 +51,11 @@
     "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1401\" href=\"/review/LANG1401\" target=\"_blank\">LANG 1401</a> OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1402\" href=\"/review/LANG1402\" target=\"_blank\">LANG 1402</a> OR LANG 1403 OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1404\" href=\"/review/LANG1404\" target=\"_blank\">LANG 1404</a> OR LANG 1002 (prior to 2022-23)",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"CORE\" data-code=\"1340\" href=\"/review/CORE1340\" target=\"_blank\">CORE 1340</a>",
-    "rating_content": 4.38,
-    "rating_teaching": 4.65,
-    "rating_grading": 4.11,
-    "rating_workload": 4.3,
-    "review_count": 66,
+    "rating_content": 4.39,
+    "rating_teaching": 4.66,
+    "rating_grading": 4.1,
+    "rating_workload": 4.31,
+    "review_count": 67,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -74,18 +74,53 @@
         "count": 17
       },
       {
-        "id": 364,
-        "name": "KIM, Yongsuk",
-        "count": 12
-      },
-      {
         "id": 407,
         "name": "HONG, Se-Joon",
+        "count": 13
+      },
+      {
+        "id": 364,
+        "name": "KIM, Yongsuk",
         "count": 12
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "okO5qpo6JGzUE2VKU9eC4d9j18aOfoBj",
+      "semester": "2023-24 Winter",
+      "instructors": [
+        {
+          "id": 407,
+          "name": "HONG, Se-Joon",
+          "rating": 1
+        }
+      ],
+      "author": "SmokingPuddle58",
+      "date": "Feb 11, 2024",
+      "title": "Enjoyable lecture, but the grading are quite unclear 🫠",
+      "comment_content": "Plz refer to purpleworld&#039;s review for more detail. The content isn&#039;t that bad anyway. Quite interesting.",
+      "comment_teaching": "The best teaching I have seen from UST other than Desmond. <br /><br />Professor is really kind and loves to make jokes. And professor loves to tell stories during the lecture to make it not that bored (Still, it 9am lecture, I sometimes still nearly fell asleep 🫠)<br /><br />Yea I still remember professor loves the food from Gold rice bowl (Especially 三餸飯). He once asked us how to pronounce 番茄炒蛋 in cantonese. Really nice professor.",
+      "comment_grading": "To be fair, the grading isn&#039;t really that good since there is no clear criteria on how professor grades the project. You will not get the score unless you email your TA. I emailed her so I get some details of my score.<br /><br />- Project (45%, where 25% is given to the project and 20% is given to the peer evaluation) : 8 people per group. You need to make a project on a innovative company and analyze the company in detail. Presentation is around 10 min. <br /><br />My score: Below average, peer evaluation score unknown.<br /><br />- Attendance (5%): Taken during lecture nearly every lecture, you can skip the lecture for once without affecting the score.<br /><br />My score: Full (5/5)<br /><br />- Final Exam (50%) : 1 hour and 30 min exam, but actually can be finished within 1 hour, quite a easy exam. Test on both concepts and examples illustrated during the lecture (For example, Chutokool). Three components in exam, including MCQs, T/F questions and Short questions (About orphan medicine and disruptive innovations).<br /><br />My score: 35.5/50. Within the mean score. TA told me that &quot;Students’ results were quite extreme in the final exam, some students were in very high marks and some in very low marks.&quot;. <br /><br />Final grade: B-. From TA: &quot;You are in the middle of B-; There are several students who had a higher total score but share the same letter grade.&quot;",
+      "comment_workload": "Light workload to be fair<br /><br />The only workload comes from the project and preparation of final exams but the final exams are quite simple. The exam focuses more on concepts but not those numerical data.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "IwzEd4jdJOLuZa85hQTcXcWuHOQQRmTq",
       "semester": "2023-24 Winter",
@@ -116,8 +151,8 @@
       "has_attendance": true,
       "has_reading": true,
       "has_presentation": true,
-      "upvote_count": 0,
-      "vote_count": 0,
+      "upvote_count": 1,
+      "vote_count": 1,
       "comment_count": 0,
       "attachments": []
     },
