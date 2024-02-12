@@ -32,11 +32,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 4.21,
+    "rating_content": 4.22,
     "rating_teaching": 4.35,
-    "rating_grading": 4.36,
+    "rating_grading": 4.37,
     "rating_workload": 4.05,
-    "review_count": 222,
+    "review_count": 223,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -62,7 +62,7 @@
       {
         "id": 1456,
         "name": "JEONG, Martha",
-        "count": 24
+        "count": 25
       },
       {
         "id": 1163,
@@ -142,6 +142,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "UAdNLjDX7bArrIFSMrFG3RNsaV00G7U7",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1456,
+          "name": "JEONG, Martha",
+          "rating": 1
+        }
+      ],
+      "author": "__",
+      "date": "Feb 12, 2024",
+      "title": "",
+      "comment_content": "Relatively similar to the other classes&#039; content. As long as you&#039;re not behind in each class and understand the videos Professor Jeong shows in class, it won&#039;t be too hard.",
+      "comment_teaching": "Professor Jeong&#039;s teaching is clear and concise and she&#039;s more than happy to answer questions you may have during or after class. She also encourages class participation and hands out participation cards. If you&#039;re an introvert you don&#039;t have to participate more than once each class because you can only get one participation card per class.",
+      "comment_grading": "20% Midterm (MCQ)<br />30% Final (Short answer questions)<br />30% Group project (Analyse any movie you want about organization behavior using a concept she taught in class) <br />14% Participation<br />6% Research participation <br /><br />A range is not out of reach for this course especially if you try to participate once each class every lesson.",
+      "comment_workload": "The workload is fair. Sometimes there is homework but not every week. You will get full marks if you submit all of it. <br /><br />The group project is fair. If you split the workload in the group it should be light work. Even if there are 1-2 free riders in the group you can finish the work yourself with no issue. <br /><br />For the exams, you will be able to cover all the content in 1-2 days before the exam.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "2dVb1HCYUCMTuKL4DIYN4RWbh5zive2Q",
       "semester": "2023-24 Fall",
