@@ -24,11 +24,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"LIFS\" data-code=\"2040\" href=\"/review/LIFS2040\" target=\"_blank\">LIFS 2040</a> AND <a class=\"course-link\" data-subject=\"LIFS\" data-code=\"2210\" href=\"/review/LIFS2210\" target=\"_blank\">LIFS 2210</a>",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 4.56,
-    "rating_teaching": 3.89,
-    "rating_grading": 4.33,
-    "rating_workload": 3.78,
-    "review_count": 9,
+    "rating_content": 4.5,
+    "rating_teaching": 3.8,
+    "rating_grading": 4.4,
+    "rating_workload": 3.9,
+    "review_count": 10,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -39,12 +39,12 @@
       {
         "id": 1098,
         "name": "NGUYEN, Tuan Anh",
-        "count": 5
+        "count": 6
       },
       {
         "id": 1419,
         "name": "LI, Laam",
-        "count": 3
+        "count": 4
       },
       {
         "id": 474,
@@ -74,6 +74,46 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "UOhaL3fteg9zcZ3IJAyNysxLmUnbmXuF",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1098,
+          "name": "NGUYEN, Tuan Anh",
+          "rating": 0
+        },
+        {
+          "id": 1419,
+          "name": "LI, Laam",
+          "rating": 1
+        }
+      ],
+      "author": "bonnie🤨",
+      "date": "Feb 14, 2024",
+      "title": "",
+      "comment_content": "1. Amplification of DNA by PCR<br />2. Plasmid Construction by Gibson Assembly<br />3. Transformation of Escherichia coli by Plasmid DNA<br />4. Plasmid Miniprep and Restriction Analysis<br />5. QuikChange Site-Directed Mutagenesis<br />6. Quantitative Analysis of Fluorescence Emission by Green Fluorescent Protein",
+      "comment_teaching": "Amy Li is clear when teaching and will demonstrate the important steps before the individual operation.<br /><br />NGUYEN with a Vietnamese accent, it&#039;s hard to understand what he&#039;s saying.",
+      "comment_grading": "Pop quizzes - 18%<br />Laboratory performance - 12%<br />Worksheets - 30%<br />Final examination - 40%<br /><br />Pass/Fail course<br />Very easy to pass the course",
+      "comment_workload": "The workload is fine, with only one report to submit for two weeks.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "2gm34xLW0F0YrIOrr2m7kp33AcK2YgxC",
       "semester": "2022-23 Fall",

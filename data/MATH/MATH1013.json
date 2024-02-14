@@ -39,11 +39,11 @@
     "prerequisites": "Level 3 or above in HKDSE Mathematics Extended Module M1/M2",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"1012\" href=\"/review/MATH1012\" target=\"_blank\">MATH 1012</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1014\" href=\"/review/MATH1014\" target=\"_blank\">MATH 1014</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1023\" href=\"/review/MATH1023\" target=\"_blank\">MATH 1023</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1024\" href=\"/review/MATH1024\" target=\"_blank\">MATH 1024</a>",
-    "rating_content": 3.69,
+    "rating_content": 3.68,
     "rating_teaching": 3.36,
     "rating_grading": 3.46,
     "rating_workload": 3.86,
-    "review_count": 741,
+    "review_count": 742,
     "single_review": false,
     "enrollment_status": 1,
     "is_favourited": false,
@@ -59,7 +59,7 @@
       {
         "id": 539,
         "name": "CHANG, Huai-Liang",
-        "count": 48
+        "count": 49
       },
       {
         "id": 902,
@@ -319,6 +319,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "33iVdo1AQErQkfIzdaDskFufeVr2ELb8",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 539,
+          "name": "CHANG, Huai-Liang",
+          "rating": 0
+        }
+      ],
+      "author": "khyipai",
+      "date": "Feb 14, 2024",
+      "title": "MATH 1013 review",
+      "comment_content": "DSE M2 stuff:<br />1 Number and intervals, inequalities and absolutes, functions and graphs, composite functions, exponential functions.<br /><br />2 Trigonometric functions, inverse functions, logarithmic functions, inverse trigonometric functions.<br /><br />3 Tangent and velocity, the limit of a function, limit laws.<br /><br />4 Continuity, limits at infinity and horizontal asymptotes, derivatives and rates of change.<br /><br />5 Basic derivatives, product and quotient rules, derivatives of trigonometric functions.<br /><br />6 Chain rule, implicit differentiation, derivatives of inverse trigonometric functions and logarithmic functions.<br /><br />7 Rates of change problems, related rates.<br /><br />8 Linear approximations and differentials, maximum and minimum values.<br /><br />9 Mean Value Theorem, derivatives and graphs, L’Hôpital’s rule.<br /><br />10 Curve sketching, optimization problems, Newton’s Method.<br /><br />11 Antiderivatives, areas and distances.<br /><br />12 Definite integrals, the Fundamental Theorem of Calculus.<br /><br />13 Applications of integrals, the substitution rule.<br /><br />Content is very easy conceptually but getting good grades is hard, probably requires a lot of drilling.",
+      "comment_teaching": "Instructor was teaching high school introduction to math in first lecture, after that I skipped all lectures.<br />The lecture notes are not very useful. Better read the assigned textbook.",
+      "comment_grading": "WeBWorK Online Homework (10%)<br />Midterm Exam (35%)<br />Final Exam (55%)<br />I got C+. For your reference I had lvl 4 and lvl 2 in DSE math and M2.",
+      "comment_workload": "Webwork asssignment not too hard, low workload",
+      "rating_content": 2,
+      "rating_teaching": 2,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "3yDjLVrCWLUYUayXxcgnUmf7DuCMZUDh",
       "semester": "2023-24 Fall",
@@ -6963,7 +6998,7 @@
           "rating": 0
         }
       ],
-      "author": "#_#",
+      "author": "迷途中迷路的人",
       "date": "Jan 06, 2022",
       "title": "Super Bad Grading",
       "comment_content": "HKDSE M2 with some new topics<br /><br />-Numbers and intervals, inequalities and absolute values<br />-Functions and graphs, composite functions<br /><br />-Exponential functions<br />-Inverse functions, logarithms, trigonometric functions and inverse trigonometric functions<br /><br />-Tangent and velocity<br />-The limit of a function, limit laws<br /><br />-Continuity<br />-Limits at infinity and horizontal asymptotes<br />-Derivatives and rates of change<br /><br />-Basic derivatives<br />-Product and quotient rules<br /><br />-Derivatives of trigonometic functions<br />-Chain rule<br />-Implicit differentiation, derivatives of inverse trigonometric functions and logarithmic functions<br /><br />-Rates of change problems<br />-Related Rates<br /><br />-Linear approximations and differentials<br />-Maximum and minimum values<br /><br /><br />-Mean Value Theorem<br />-Derivatives and the shape of a graph<br />-L&#039;Hopital&#039;s rule<br /><br />-Curve sketching<br />-Optimization problems<br />-Newton&#039;s method<br /><br />-Anti-derivatives<br />-Areas and distances<br />-Definite integrals<br /><br />-The Fundamental Theorem of Calculus<br />-Average Value of a function<br /><br />-Applications of integrals<br />-Substitution rule",

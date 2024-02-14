@@ -22,11 +22,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 3.17,
-    "rating_teaching": 4.67,
-    "rating_grading": 4.33,
+    "rating_content": 3,
+    "rating_teaching": 4.57,
+    "rating_grading": 3.86,
     "rating_workload": 4,
-    "review_count": 6,
+    "review_count": 7,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -38,10 +38,50 @@
         "id": 659,
         "name": "LAI, Pui Yee",
         "count": 6
+      },
+      {
+        "id": 1808,
+        "name": "CHENG, Chen",
+        "count": 1
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "zuS94u3cG9enVBCi4z6hF4q8NO1kJekY",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1808,
+          "name": "CHENG, Chen",
+          "rating": 1
+        }
+      ],
+      "author": "LunaLys",
+      "date": "Feb 14, 2024",
+      "title": "",
+      "comment_content": "boring content, the first 3-4 lectures are something you have already known if you have taken science related subjects in your DSE. Tbh, you gotta take this course regardless whether you like it or not. This is compulsory for PBS minor.",
+      "comment_teaching": "Normal teaching, sometimes there are menti meter, she also asks questions but only a few would respond.",
+      "comment_grading": "Bad grading, she returned the assignment at almost the end of semseter. The comment I received are just &quot;elaborate more?&quot; &quot;Not enough&quot;, something like that.",
+      "comment_workload": "Group presentation<br />3 assignments<br />1 review for presentation<br />minor attendance taking",
+      "rating_content": 2,
+      "rating_teaching": 4,
+      "rating_grading": 1,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "D3Ek1pvAKDk119oAEAQvCEYS5buyF5hr",
       "semester": "2021-22 Fall",
