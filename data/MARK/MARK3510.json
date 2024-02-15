@@ -23,11 +23,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"MARK\" data-code=\"2120\" href=\"/review/MARK2120\" target=\"_blank\">MARK 2120</a>",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 3.88,
-    "rating_teaching": 4.25,
-    "rating_grading": 4.5,
-    "rating_workload": 3.63,
-    "review_count": 8,
+    "rating_content": 3.89,
+    "rating_teaching": 4.33,
+    "rating_grading": 4.44,
+    "rating_workload": 3.56,
+    "review_count": 9,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -38,7 +38,7 @@
       {
         "id": 847,
         "name": "RAITT, Gene",
-        "count": 5
+        "count": 6
       },
       {
         "id": 518,
@@ -53,6 +53,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "gSwCBwF1ThH97Vo74QxdK9SwFyXGEIUw",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 847,
+          "name": "RAITT, Gene",
+          "rating": 1
+        }
+      ],
+      "author": "ostashake",
+      "date": "Feb 15, 2024",
+      "title": "FUN",
+      "comment_content": "The content is quite common sense, although it is barely related to MikesBikes. Doing well in MikesBikes is not really about B2B marketing, but about making wise decisions and predicting your competition&#039;s move. Overall, I do really believe MikesBikes is the pefrect simualtion for&nbsp;&nbsp;business students though.",
+      "comment_teaching": "Prof. Gene&#039;s teaching is really entertaining, he cracks a lot of jokes and makes it easy to remember the class content. Overall I enjoyed this course, the content, and his teaching very much.",
+      "comment_grading": "Mid-Term\t20%<br />Final\t30%<br />MikeBikes\t30%<br />Class Participation\t8%<br />Peer Evaluation\t10%<br />Research Participation\t2%<br />Total\t100%<br /><br />Midterm and final were very similar in volume. Content was from the slides, no textbook required. <br /><br />You need to either know what you&#039;re doing, or have a good team to do well in MikesBikes.",
+      "comment_workload": "Medium workload, the class content is rather easy to revise but the MikesBikes team meetings would take us quite a lot of time (usually 3-4h a week since we would have 2 meetings a week, but it might have been just us that took so long to dicusss). It was the bigger focus of this course I feel like, at least for me.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "J6XagMCzsUXsMct2jGpyQXMcUkKxVbjV",
       "semester": "2023-24 Fall",

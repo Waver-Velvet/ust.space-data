@@ -16,11 +16,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"5471\" href=\"/review/MATH5471\" target=\"_blank\">MATH 5471</a>",
-    "rating_content": 4.75,
-    "rating_teaching": 4.75,
-    "rating_grading": 4,
-    "rating_workload": 4.5,
-    "review_count": 4,
+    "rating_content": 4.8,
+    "rating_teaching": 4.8,
+    "rating_grading": 4.2,
+    "rating_workload": 4.4,
+    "review_count": 5,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -31,11 +31,46 @@
       {
         "id": 909,
         "name": "SONG, Yangqiu",
-        "count": 3
+        "count": 4
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "cXeWzr0xUHHH3Rwo4zs6WgoRa6V7ELLC",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 909,
+          "name": "SONG, Yangqiu",
+          "rating": 1
+        }
+      ],
+      "author": "yihao",
+      "date": "Feb 15, 2024",
+      "title": "",
+      "comment_content": "The content is quite comprehensive, including the traditional graph representation methods like random walk, graph neural network, math theory behind GNN, advanced application of graph machine learning, etc.",
+      "comment_teaching": "Prof Song is literally professional at this field and can clearly explain most of the knowledge.&nbsp;&nbsp;But his lectures are a little bit dull, lacking passion.",
+      "comment_grading": "Most of students will get at least B+.",
+      "comment_workload": "The workload is a little bit heavy for a non-core course. Students need to give a presentation of a related paper, and finish a 3-people group project, and have a quite difficult final exam.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "fWtYtkE52mL29xCWlh2SRkuIvbJ3ai9K",
       "semester": "2023-24 Fall",

@@ -23,7 +23,7 @@
     "rating_teaching": 5,
     "rating_grading": 5,
     "rating_workload": 5,
-    "review_count": 1,
+    "review_count": 2,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -34,11 +34,46 @@
       {
         "id": 354,
         "name": "LIU, Qian",
-        "count": 1
+        "count": 2
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "zEgX57Z5Zt8yrhXYndRRsn0bVJyLHLrZ",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 354,
+          "name": "LIU, Qian",
+          "rating": 1
+        }
+      ],
+      "author": "iimlu",
+      "date": "Feb 15, 2024",
+      "title": "",
+      "comment_content": "This course introduces basic concepts and principles in production and operations management with focus on quantitative models and analytics. Topics covered in this course include demand forecasting, aggregate planning, inventory control, procurement contracts, and supply chain management etc. The objective of the course is to help students understand fundamental principles and models in production and operations, and prepare themselves in dealing with various problems in production and operations management.",
+      "comment_teaching": "Prof. Liu is incredibly kind and patient. She consistently offers clear and concise explanations, ensuring that students grasp the material effectively.",
+      "comment_grading": "Assignment 15%<br />Midterm 35%<br />Final 50%",
+      "comment_workload": "About 4-5 homeworks, 3-4 questions for each homework.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "fEGLbzmkpKnZv0DOHCVO5HhTdWqm4BAE",
       "semester": "2021-22 Fall",

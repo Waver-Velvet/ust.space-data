@@ -30,11 +30,11 @@
     "prerequisites": "LANG 1403 OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1404\" href=\"/review/LANG1404\" target=\"_blank\">LANG 1404</a> OR LANG 1003 (prior to 2022-23)",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"LABU\" data-code=\"2051\" href=\"/review/LABU2051\" target=\"_blank\">LABU 2051</a>, <a class=\"course-link\" data-subject=\"LABU\" data-code=\"2052\" href=\"/review/LABU2052\" target=\"_blank\">LABU 2052</a>",
-    "rating_content": 3.9,
-    "rating_teaching": 4.22,
-    "rating_grading": 3.71,
+    "rating_content": 3.91,
+    "rating_teaching": 4.23,
+    "rating_grading": 3.72,
     "rating_workload": 3.42,
-    "review_count": 136,
+    "review_count": 137,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -46,6 +46,11 @@
         "id": 415,
         "name": "YUNG, Hoi Hei",
         "count": 13
+      },
+      {
+        "id": 417,
+        "name": "HUSSIN, Nora Anniesha Binte",
+        "count": 9
       },
       {
         "id": 879,
@@ -60,11 +65,6 @@
       {
         "id": 294,
         "name": "LAM, Levi",
-        "count": 8
-      },
-      {
-        "id": 417,
-        "name": "HUSSIN, Nora Anniesha Binte",
         "count": 8
       },
       {
@@ -200,6 +200,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "xvX1bqfo2L8tdSNkPtncNYt6sESqzmpx",
+      "semester": "2020-21 Fall",
+      "instructors": [
+        {
+          "id": 417,
+          "name": "HUSSIN, Nora Anniesha Binte",
+          "rating": 1
+        }
+      ],
+      "author": "Angie Wong",
+      "date": "Feb 15, 2024",
+      "title": "",
+      "comment_content": "you will have two presentations with Q&amp;A, individual writing tasks, learning portfolio, two quizzes.<br />you will be teaching some presentation skills and have mock oral practice. The skills taught were really useful in the future.",
+      "comment_teaching": "Quite interesting and professor was nice.<br />she will teach you useful skills and tips for your presentation.<br />quite recommended ^^",
+      "comment_grading": "it&#039;s easy to get B+ or above grade if you finish all the stuff on time",
+      "comment_workload": "Medium Workload, just like other lang courses<br />presentation, project, learning portfolio, individual assignment and mini quizzes (very easy)",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "4949SPV1Pwi3grWY7u7HqDkMSwrHol9j",
       "semester": "2023-24 Fall",

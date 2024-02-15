@@ -36,8 +36,8 @@
     "rating_content": 3.91,
     "rating_teaching": 4.23,
     "rating_grading": 3.7,
-    "rating_workload": 3.57,
-    "review_count": 81,
+    "rating_workload": 3.56,
+    "review_count": 82,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -58,7 +58,7 @@
       {
         "id": 1268,
         "name": "YOUNG, Mark",
-        "count": 11
+        "count": 12
       },
       {
         "id": 590,
@@ -103,6 +103,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "3Mc2w2FHcmLAfZKxXuIwAiNRrCzS15X5",
+      "semester": "2022-23 Winter",
+      "instructors": [
+        {
+          "id": 1268,
+          "name": "YOUNG, Mark",
+          "rating": 1
+        }
+      ],
+      "author": "Error 404",
+      "date": "Feb 15, 2024",
+      "title": "",
+      "comment_content": "Great teacher for all the time. It is good content, easy to understand",
+      "comment_teaching": "The teaching approach is not bored, but I cannot say this is a interesting lesson. It is easy to understand what he said in the lesson. If you can answer more questions, it will help you to received a great participation point in final.",
+      "comment_grading": "received B+ in final, not much effort. I don&#039;t spend a lot of time on studying just listen what the lecturer say. So course is so far so good .",
+      "comment_workload": "the workload is suitable for this course",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "Xa4wlD3OIlMgEVDC7Eewk8WtZwTb60IF",
       "semester": "2022-23 Spring",
