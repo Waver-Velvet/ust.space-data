@@ -36,7 +36,7 @@
     "rating_teaching": 4.35,
     "rating_grading": 4.37,
     "rating_workload": 4.05,
-    "review_count": 223,
+    "review_count": 224,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -57,7 +57,7 @@
       {
         "id": 1164,
         "name": "CHO, Ja Ee",
-        "count": 28
+        "count": 29
       },
       {
         "id": 1456,
@@ -142,6 +142,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "EuoKZefor9EIMefYQXTi7D5Lt3uhNcoY",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1164,
+          "name": "CHO, Ja Ee",
+          "rating": 1
+        }
+      ],
+      "author": "arthur_morgan",
+      "date": "Feb 16, 2024",
+      "title": "Nice Professor and Good Grade",
+      "comment_content": "Content is straightforward. Split into two main categories: individual and team:<br />1. Intro to OB<br />2. Personality and Values<br />3. Perception and Learning<br />4. Emotion, Attitudes, and Stress<br />5. Motivation<br />6. Individual Decision Making<br />7. Team Dynamics<br />8. Communication<br />9. Conflict Management<br />10. Leadership, Power &amp; Influence",
+      "comment_teaching": "She is a very nice professor. She explains concepts very clearly and uses examples. The accent is understandable.",
+      "comment_grading": "Fair grading. <br /><br />I participated at least once each lecture, scored higher than the upper quartile for both midterm and final and secured an A+.",
+      "comment_workload": "Workload is relatively low. Make sure to participate in class to secure a good grade.<br /><br />Participation (14%) -&nbsp;&nbsp;I like the participation in class because she will give out a participation card each time you speak. It is fairer to students as there may be some professors who cannot remember your name and ruin your participation grade.<br /><br />Research Participation (6%) - Just participate in around 2-3 research from the business department for free credits.<br /><br />Project (30%) - Consists of report writing and presentation. Your team will pick a movie and analyze the OB concepts that are showcased in the film. OB questions are based on the problems you have uncovered in the movie and address them by applying OB theories and concepts you learn in this course.<br /><br />Midterm (25%) - Everything you need to know on the midterm is on the slides. Questions are straightforward and easy. Mean is 36/50.<br /><br />Final (25%) - Same as midterm. Mean is 81/100.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "UAdNLjDX7bArrIFSMrFG3RNsaV00G7U7",
       "semester": "2022-23 Fall",

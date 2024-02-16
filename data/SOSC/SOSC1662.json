@@ -23,11 +23,11 @@
     "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1401\" href=\"/review/LANG1401\" target=\"_blank\">LANG 1401</a> OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1402\" href=\"/review/LANG1402\" target=\"_blank\">LANG 1402</a> OR LANG 1403 OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1404\" href=\"/review/LANG1404\" target=\"_blank\">LANG 1404</a> OR LANG 1002 (prior to 2022-23)",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"CORE\" data-code=\"1862\" href=\"/review/CORE1862\" target=\"_blank\">CORE 1862</a>, <a class=\"course-link\" data-subject=\"SOSC\" data-code=\"1661\" href=\"/review/SOSC1661\" target=\"_blank\">SOSC 1661</a>",
-    "rating_content": 4.11,
-    "rating_teaching": 4.49,
-    "rating_grading": 4.16,
-    "rating_workload": 4.19,
-    "review_count": 37,
+    "rating_content": 4.13,
+    "rating_teaching": 4.5,
+    "rating_grading": 4.18,
+    "rating_workload": 4.21,
+    "review_count": 38,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -38,11 +38,46 @@
       {
         "id": 656,
         "name": "GROVES, Julian Mcallister",
-        "count": 35
+        "count": 36
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "27T2Ob1Xz0Awp0Cmiw0yTwn1rJUUmozm",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 656,
+          "name": "GROVES, Julian Mcallister",
+          "rating": 1
+        }
+      ],
+      "author": "hellooo123",
+      "date": "Feb 16, 2024",
+      "title": "good grade cc for locals",
+      "comment_content": "Modules<br />1. Introduction<br />2. Modernization theories for development<br />3. World System theories<br />4. Religion<br />5. Social solidarity and suicide<br />6. Political inequalities<br />7. Economic inequalities<br />8. Economic inequalities II<br />9. Gender inequalities<br />10. Ethnic minorities<br />11. Sexual minorities<br />12. Hong Kong Identity<br />13. The Hong Kong Family<br /><br />This course is about Hong Kong with many of its aspects. Some of the contents are quite fun that you may not heard of at all even you are a local. <br />Not a challenging course if you are good at LS.",
+      "comment_teaching": "Not boring at all and his accent is easy to follow. <br />He even taught us how to turn on live captions on Google chrome. <br />Since this is a 100% online course, I didn&#039;t get to see the prof until the final exam. (lol)",
+      "comment_grading": "My stat:<br />Quiz 1: 32/35 (mean:25.94 UQ:30)<br />Quiz 2: 21/28 (mean:19.94 UQ:23)<br />Quiz 3: 20/24 (mean:16.44 UQ:19)<br /><br />Final: 38/42 (mean:29.52 UQ:34)<br /><br />Quiz 40% (count the best 2 out of 3) <br />Final 60% <br /><br />Overall around 89% and I got an A.<br /><br />Grading is pretty lenient. Quizzes are non-cumulative, but the final exam is. Just watch all the online lectures and you will be fine. Your efforts pay off in this course.",
+      "comment_workload": "Light workload.<br />Each module has a couple of videos, but most of them are less than 10mins long.<br />Reading materials are provided, but some of them are quite boring and long tbh so I did not read a lot of it.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "KBiQqM1RNB89HrynF2C5oBvUpfvv49kE",
       "semester": "2022-23 Fall",

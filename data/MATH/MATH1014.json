@@ -44,7 +44,7 @@
     "rating_teaching": 3.24,
     "rating_grading": 3.3,
     "rating_workload": 3.63,
-    "review_count": 604,
+    "review_count": 605,
     "single_review": false,
     "enrollment_status": 2,
     "is_favourited": false,
@@ -85,7 +85,7 @@
       {
         "id": 522,
         "name": "XIONG, Maosheng",
-        "count": 16
+        "count": 17
       },
       {
         "id": 529,
@@ -305,6 +305,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "s2AD0DyFPG8YAAlLHYoeIsDW8aQq5Lvj",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 522,
+          "name": "XIONG, Maosheng",
+          "rating": 1
+        }
+      ],
+      "author": "Jian",
+      "date": "Feb 16, 2024",
+      "title": "",
+      "comment_content": "Integration:<br />volume of revolution(disc method, shell method), arc length, surface area, work-done, integration technique(trig-sub,pfd,etc.)<br />polar coordinate, average value of function(mean value theorem for integration)<br />Polar coordinates:<br />polar curves, tangent and normal lines, arc length, area<br />Approximation of integration:<br />mid-point rule, trapezoidal rule, simpon&#039;s rule, error bound<br />sequence and series:<br />limit of sequence and series, comparison test, integral test,&nbsp;&nbsp;root test, ratio test, power series, radius of convergence, taylor series, maclaurin series",
+      "comment_teaching": "not bad. Don&#039;t need to attend prof class. Self-studied the content throughout the semester. Revising ClassViva questions is very helpful because the questions on the exams are very similar.",
+      "comment_grading": "Absolute grading. Check the threshold on Canvas.<br />Homework (WebWork) 10%<br />Midterm Examination 35%<br />Final Examination 55%<br /><br />Got 10/10 for homework<br />75/100 for midterm <br />85/100 for finals <br />got an A",
+      "comment_workload": "Just submit the webwork. they have unlimited attempts.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "pwrFA8YpC3rVJyKspiTZcIrUWQl8yn0h",
       "semester": "2023-24 Fall",

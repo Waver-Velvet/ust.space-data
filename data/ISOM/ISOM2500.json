@@ -35,11 +35,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"2160\" href=\"/review/CIVL2160\" target=\"_blank\">CIVL 2160</a>, <a class=\"course-link\" data-subject=\"IEDA\" data-code=\"2520\" href=\"/review/IEDA2520\" target=\"_blank\">IEDA 2520</a>, <a class=\"course-link\" data-subject=\"IEDA\" data-code=\"2540\" href=\"/review/IEDA2540\" target=\"_blank\">IEDA 2540</a>, <a class=\"course-link\" data-subject=\"LIFS\" data-code=\"3150\" href=\"/review/LIFS3150\" target=\"_blank\">LIFS 3150</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2411\" href=\"/review/MATH2411\" target=\"_blank\">MATH 2411</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"3423\" href=\"/review/MATH3423\" target=\"_blank\">MATH 3423</a>",
-    "rating_content": 4.07,
+    "rating_content": 4.08,
     "rating_teaching": 3.91,
     "rating_grading": 3.99,
     "rating_workload": 4.15,
-    "review_count": 616,
+    "review_count": 617,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -65,7 +65,7 @@
       {
         "id": 1409,
         "name": "XIA, Lucy",
-        "count": 54
+        "count": 55
       },
       {
         "id": 385,
@@ -165,6 +165,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "hVWPSk0OmzMTcpNhaVcMSlPFo6tAQpPJ",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1409,
+          "name": "XIA, Lucy",
+          "rating": 1
+        }
+      ],
+      "author": "tiffcts",
+      "date": "Feb 16, 2024",
+      "title": "",
+      "comment_content": "All about statistics<br />Not very difficult and very useful for future usage<br />You gonna see them again in many future courses, e.g. research studies, other isom courses, etc<br />Quite easy if u studied M1 in HKDSE - the content is like half M1 learnt and half new stuff but all based on M1 lol<br /><br />Introduction<br />Descriptive Statistics I Descriptive Statistics II Probability<br />Conditional Probability Discrete Random V ariable Covariance and Portfolio Normal Random V ariable Game I + Review<br />[no class] + Quiz I Sampling Distribution Confidence Interval Confidence Interval Hypothesis Testing I Hypothesis Testing II Game II + Review [no class] + Quiz II<br />Simple Linear Regression<br />Simple Linear Regression<br />Curved patterns and transformation Curved patterns and transformation Regression estimation and prediction Regression estimation and prediction Regression diagnosis<br />Regression diagnosis",
+      "comment_teaching": "Lucy is really nice and very willing to answer your question after class!<br />Speaks clearly and introduces concepts in a concise manner (really 珍惜 its so much better than what I have experienced in math 1013)<br />she has break in the middle of class so its pretty fun",
+      "comment_grading": "Grading is pretty good<br />I got an A- without doing any revision for my final<br />All other friends I know also got A range, a few got A+<br />Pretty generous in terms of giving out A range",
+      "comment_workload": "the workload is not heavy at all! 4 homework assignments to complete in a group of 4 so as long as you find good teammates you will be fine<br />also have 2 quizzes and 1 final exam<br />quizzes are not cumulative so its really light workload with all MCs<br />the final is cumulative but then the content is not too difficult<br />attendance taking for each class tho",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "8ExLR9XBbYH0ddkHHIFmFUEEXvvL6XAj",
       "semester": "2022-23 Spring",
