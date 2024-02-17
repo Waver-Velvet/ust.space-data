@@ -26,11 +26,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 3.67,
+    "rating_content": 3.68,
     "rating_teaching": 4.14,
-    "rating_grading": 3.98,
-    "rating_workload": 4.21,
-    "review_count": 43,
+    "rating_grading": 3.95,
+    "rating_workload": 4.23,
+    "review_count": 44,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -41,7 +41,7 @@
       {
         "id": 388,
         "name": "XU, Yan",
-        "count": 40
+        "count": 41
       },
       {
         "id": 801,
@@ -56,6 +56,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "f4BkETXW6h1KUZUHvWnMP1QFLVllrpVS",
+      "semester": "2023-24 Winter",
+      "instructors": [
+        {
+          "id": 388,
+          "name": "XU, Yan",
+          "rating": 1
+        }
+      ],
+      "author": "empathy",
+      "date": "Feb 17, 2024",
+      "title": "Intensive Course and it worths for 3 credits",
+      "comment_content": "There are 10 lectures in total and each lasts for 3 hours. A 20-minute break will be given. <br />Here are the topics of each lecture. <br />1.&nbsp;&nbsp;Introduction to the Information Infrastructure<br />2. Digital Convergence; Wireless Communications and Spectrum Regulation<br />3.&nbsp;&nbsp;The Next Generation Information Infrastructure<br />4. Business and Socioeconomic Implications of Information Infrastructure<br />5. Web 2.0 and Innovation<br />6.&nbsp;&nbsp;Diffusion of Telecommunications Services; Case Study: SMS Adoption in Hong Kong and China<br />7.&nbsp;&nbsp;Theoretical Framework of Information Infrastructure Deregulation<br />8. Organizational Restructuring of Information Infrastructure<br />9.&nbsp;&nbsp;Network Interconnection; Local Network Competition in Hong Kong<br />10. Foreign Direct Investment in Telecommunications and WTO’s Basic Telecommunications<br /><br />The course is conducted in 2 weeks, so everyone said this schedule is quite intensive and each lecture is very informative. However, I think the content is quite interesting and useful if you study in the technology area.",
+      "comment_teaching": "Prof. Xu is an expert in telecommunication, so he provided many examples and details. Some may even appear in the exams, so you may need to make notes during the lecture. He also asks questions in the lecture, making the classes more interactive. Sometimes you may fall asleep especially when the classes are just after lunch.",
+      "comment_grading": "Here is the official grading scheme. <br />Midterm assignment - 50%<br />Final exam - 50%<br />The midterm assignment only covers the first five lectures and the final exam covers the last five, so technically you can forget the content after the midterm:). <br />We have around 2 days (39 hours) to finish the midterm assignment. The assignment is open book and the question types contain MC, T/F, filling in the blanks, a short question and a short essay question. <br />The question type of the final exam is similar, with more short questions and no essay questions. A double-sized cheat sheet is allowed, both hand-written and printed are ok. <br /><br />Here&#039;s my data for reference. <br />Midterm: 86/100 (Mean: 86.3, SD: 7.5)<br />Final: N/A (sounds like they didin&#039;t announce the data and the result)<br />Grade: B-<br />I think the course is quite competitive. Just try your best XD",
+      "comment_workload": "The work that need to be done is finishing the midterm assignment (which you can control+F) and preparing the cheat sheet for the final exam. It is a worthwhile choice as a common core course in the winter semester. Speed run but relatively less pain :D",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "mJ9DRS05eRXoaz3mg2Irw9zmqdoRUf53",
       "semester": "2023-24 Winter",

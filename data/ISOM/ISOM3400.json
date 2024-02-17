@@ -30,11 +30,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"ISOM\" data-code=\"2020\" href=\"/review/ISOM2020\" target=\"_blank\">ISOM 2020</a>",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"1021\" href=\"/review/COMP1021\" target=\"_blank\">COMP 1021</a>",
-    "rating_content": 3.88,
+    "rating_content": 3.93,
     "rating_teaching": 3.38,
-    "rating_grading": 3.78,
+    "rating_grading": 3.71,
     "rating_workload": 3.55,
-    "review_count": 40,
+    "review_count": 42,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -45,17 +45,17 @@
       {
         "id": 373,
         "name": "JIA, Jia",
-        "count": 17
+        "count": 18
       },
       {
         "id": 375,
         "name": "KWOK, James Sai Ho",
-        "count": 17
+        "count": 18
       },
       {
         "id": 1603,
         "name": "PANG, Ngai Cheung",
-        "count": 5
+        "count": 6
       },
       {
         "id": 1108,
@@ -100,6 +100,81 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "lnaUhH4o1CaQGL2pHZKLvc78DI9gMeva",
+      "semester": "2023-24 Winter",
+      "instructors": [
+        {
+          "id": 373,
+          "name": "JIA, Jia",
+          "rating": 1
+        },
+        {
+          "id": 1603,
+          "name": "PANG, Ngai Cheung",
+          "rating": 1
+        }
+      ],
+      "author": "過三爆四",
+      "date": "Feb 18, 2024",
+      "title": "Easy Peasy (as long as you know python)",
+      "comment_content": "1. Python Basics<br />2. Data Structures (string, integer, float, list, tuple, dictionary, set)<br />3. Control Structures (if-statement/expression, while statement, for statement, try-except...)<br />4. Functions, Classes, and Modules<br />5. Web Scraping (HTML basics, CSS basics, BeautifulSoup, Selenium)<br />6. Interactive Plotting (Plotly express)<br />7. Web App Development with Dash",
+      "comment_teaching": "Jia Jia is cute UwU (jk)<br /><br />He has some accent, which makes it kinda difficult to understand what he is saying, but once you get used to it, it won&#039;t have any trouble. <br /><br />He is willing to answer everyone&#039;s questions, no matter in class or email. Ray as well.<br /><br />My greatest gratitude for them saving my CGA &lt;3.",
+      "comment_grading": "In-class exercise 30%<br />2 Assignments (GenAI allowed) 30%<br />Final Exam 40%<br />-----------------------------------------------------------------------------<br />For the in-class exercise (more like concept checking), Jia Jia basically goes through the whole thing and tells you the answers for the more difficult ones. If you still struggle with the easier ones (which he probably skipped), you can still ask him and he will go over the whole question with you.<br />(Overall speaking, he will just give you all the answers. So if you didn&#039;t get all 30%, you&#039;re just giving up your GPA.)<br /><br />Assignments are basically... yea...just simple python tasks. You can still ask for help from your TA or professor.<br /><br />The final exam is easy if you have a clear concept. MCQ tests on some basic understanding of the topics and a few are quite tricky. But for the fill-in-the-blank questions, everything is straightforward. No need to worry. (Though I suspect it&#039;s because the syllabus is truncated as the course is shorter in the winter semester)",
+      "comment_workload": "Quite heavy tbh<br /><br />Although there is no trouble in completing the in-class exercise, you would still need to invest some more of your time in practicing and reviewing what you have learned. If you don&#039;t revise, getting an A range would be quite difficult. <br /><br />Btw, Jia Jia is still teaching new content 30 minutes before the final exam. I&#039;m not sure what this implies. You might interpret it as Jia Jia&#039;s bad time management (which would go to the Teaching part), or the course is very high and you need to process new knowledge quickly.<br /><br />Anyway, this course isn&#039;t that horrible. Everything is ok if you put some effort into it.<br /><br />Don&#039;t worry, touch some grass（´◔​∀◔`)",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "bbCRuJK2dgZ6YzwbQ0D5uCNOXYAZscrt",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 375,
+          "name": "KWOK, James Sai Ho",
+          "rating": 0
+        }
+      ],
+      "author": "ABulubububu",
+      "date": "Feb 17, 2024",
+      "title": "",
+      "comment_content": "Deeper python language after isom2020 and 2600. Interesting to learn but better choose another professor.",
+      "comment_teaching": "I don&#039;t like his teaching method. He got himself a own website for uploading those python programs but not using canvas. However, it&#039;s hard to follow as he didnt&#039;t put explaination on it.<br />Luckily he got video recordings of his lecture.",
+      "comment_grading": "Got 3 inclass exercises (which is more like a quiz during class) , 2 assignments and 1 final exam. They did not release scores for everything so you won&#039;t be able to know how&#039;s the grading.",
+      "comment_workload": "Two assignments only. One is individual work, the other one is group project. Should have enough time for both assignments. They are all related to what he taught.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 1,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "SEuoLqYPnMyfRZUjLW88dAMTYcrxmOEX",
       "semester": "2023-24 Fall",
