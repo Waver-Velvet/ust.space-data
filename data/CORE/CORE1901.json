@@ -15,11 +15,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "IDPO 1020",
-    "rating_content": 3.48,
-    "rating_teaching": 3.44,
-    "rating_grading": 3.12,
-    "rating_workload": 3.48,
-    "review_count": 25,
+    "rating_content": 3.52,
+    "rating_teaching": 3.56,
+    "rating_grading": 3.22,
+    "rating_workload": 3.59,
+    "review_count": 27,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -30,11 +30,16 @@
       {
         "id": 765,
         "name": "NAM, Sai Lok",
-        "count": 14
+        "count": 15
       },
       {
         "id": 384,
         "name": "JAISINGH, Jeevan",
+        "count": 11
+      },
+      {
+        "id": 1572,
+        "name": "VONG, Kenward",
         "count": 9
       },
       {
@@ -43,8 +48,8 @@
         "count": 8
       },
       {
-        "id": 1572,
-        "name": "VONG, Kenward",
+        "id": 1594,
+        "name": "HUNG, Jenny",
         "count": 7
       },
       {
@@ -55,11 +60,6 @@
       {
         "id": 565,
         "name": "MA, Lok Wang",
-        "count": 5
-      },
-      {
-        "id": 1594,
-        "name": "HUNG, Jenny",
         "count": 5
       },
       {
@@ -80,6 +80,101 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "cpR8vZ6WccdcP68ZvNLBzQV4Q1PiD7lI",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 765,
+          "name": "NAM, Sai Lok",
+          "rating": 1
+        },
+        {
+          "id": 384,
+          "name": "JAISINGH, Jeevan",
+          "rating": 1
+        },
+        {
+          "id": 1572,
+          "name": "VONG, Kenward",
+          "rating": 1
+        },
+        {
+          "id": 1594,
+          "name": "HUNG, Jenny",
+          "rating": 1
+        }
+      ],
+      "author": "Paco Tsang",
+      "date": "Feb 19, 2024",
+      "title": "25% A Range",
+      "comment_content": "Lectures:<br />Module 1: Arguments<br />Module 2: Reasonings<br />Module 3: Fallacies<br />Module 4: Cognitive Bias<br /><br />Tutorials:<br />Module 1: Business<br />Module 2: Science and Technology<br />Module 3: Personal Life and Society",
+      "comment_teaching": "If you actually participate in lectures and tutorials (like talking to your friends about the materials or answering the questions), you won&#039;t find it boring. All the lecturers will bring up real-life cases for you to discuss which makes the content less boring and abstract.",
+      "comment_grading": "In-lecture Pop Quizzes 5/5\t<br />Mid-term Quiz (Open book) 14.4/15<br />Two essays 29/40\t<br />Final Exam 20.5/25\t<br />Class Participation 12.75/15<br />My score is slightly above the UQ (by 0. something)<br />Overall Grade: A-",
+      "comment_workload": "The workload is not heavy at all, just 2 essays for the tutorials. <br />The midterm is just 25 MCs while the final exam is short questions that you have to utilize what you learnt throughout the course. Also note that both the midterm and final are openbook so you don&#039;t have to memorize anything. Just learn how to apply those concepts and you can ace the final.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "Rn41etwEJqe0BcPUfJJnSREFT7ZXluQ7",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 384,
+          "name": "JAISINGH, Jeevan",
+          "rating": 1
+        },
+        {
+          "id": 1572,
+          "name": "VONG, Kenward",
+          "rating": 0
+        },
+        {
+          "id": 1594,
+          "name": "HUNG, Jenny",
+          "rating": 1
+        }
+      ],
+      "author": "Elif",
+      "date": "Feb 19, 2024",
+      "title": "",
+      "comment_content": "The content was so-so. It was simple, there were some interesting parts here and there, mostly depends on the instructor.<br />Lectures 1st half semester<br />1. Argumentation<br />2. Reasoning<br />3. Fallacies<br />4. Cognitive bias<br />Tutorials 2nd half-semester <br />1. Personal Life and Society<br />2. Science and Technology<br />3. Business",
+      "comment_teaching": "Personally, I think the common lecture, the business module and the personal life &amp; society module were the best. I didn&#039;t enjoy the science and technology module that much, but for the sake of the other sections, I&#039;ll give it a high rating. One thing is that the teaching isn&#039;t directly related to the assignments in the modules, since the TAs are in charge of the essays and the professors just determine the content by themselves, so it is a bit subjective.",
+      "comment_grading": "The grading breakdown is:<br />Participation 15%<br />Quiz: 15%<br />Final exam: 25%<br />Two essays: Each 20%<br />Pop-up quiz: 5%<br /><br />My grades for reference:<br />Participation 14.38%<br />Quiz: 14%<br />Final exam: 22%<br />Two essays: One 16% the other 20%<br />Pop-up quiz: 5% (everyone gets full marks)<br /><br />In the end, I got an A. I would say the grading is a bit confusing since the participation points are overly specific and nobody got full marks. Even though I went to and talked in every class I couldn&#039;t get the highest mark so I don&#039;t know what they consider. The midterm and final exams did not have enough practice and we didn&#039;t know how it would be right until we got the papers.<br />On the other hand, the essay grading was the most clearly understandable one and I feel like I could improve my second essay thanks to the feedback from the first one.",
+      "comment_workload": "Almost not workload, two short essays with plenty of time and two exams that have the same topics. You should barely spend any time studying or working on this course, would recommend it. You just have to show up for every class, so maybe don&#039;t take the 9 am one, but other than that, pretty easy.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "QtOaHQ4kCDVq8bow1jPdmIpvFRVVHIwL",
       "semester": "2023-24 Fall",

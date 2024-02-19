@@ -23,11 +23,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"1003\" href=\"/review/MATH1003\" target=\"_blank\">MATH 1003</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1012\" href=\"/review/MATH1012\" target=\"_blank\">MATH 1012</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1013\" href=\"/review/MATH1013\" target=\"_blank\">MATH 1013</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1023\" href=\"/review/MATH1023\" target=\"_blank\">MATH 1023</a>; OR grade D or above in AL Applied Mathematics/Pure Mathematics",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2011\" href=\"/review/MATH2011\" target=\"_blank\">MATH 2011</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2023\" href=\"/review/MATH2023\" target=\"_blank\">MATH 2023</a>",
-    "rating_content": 4.26,
-    "rating_teaching": 4.26,
-    "rating_grading": 4.87,
-    "rating_workload": 4.43,
-    "review_count": 23,
+    "rating_content": 4.21,
+    "rating_teaching": 4.25,
+    "rating_grading": 4.88,
+    "rating_workload": 4.42,
+    "review_count": 24,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -43,7 +43,7 @@
       {
         "id": 1285,
         "name": "WU, Qinggong",
-        "count": 7
+        "count": 8
       },
       {
         "id": 1282,
@@ -53,6 +53,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "ISNkIAwlvw5KMtXlDRrgqggbYs3vmR6P",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1285,
+          "name": "WU, Qinggong",
+          "rating": 1
+        }
+      ],
+      "author": "HKUST sucks",
+      "date": "Feb 19, 2024",
+      "title": "",
+      "comment_content": "The syllabus seemed to have changed in 2022? <br /><br />This course used to focus more on useful applications of multivariable cal. However, now it made me feel like it&#039;s a mathematical analysis course, the content is not really useful in later Econ courses at UG level.<br /><br />If you wanna better prepare for Econ classes later on, u better learn the multivariable cal stuff by urself. The multivariable cal stuff in this course is not enough.",
+      "comment_teaching": "Did&#039;t go to class at all. No comments.<br /><br />TA is helpful, go to tutorial<br /><br />But there&#039;s only one prof so u cant choose anyway :0",
+      "comment_grading": "Good grading.",
+      "comment_workload": "Manageable",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "ysHOzQISXO68cwJa0LWsNusNZltUvABj",
       "semester": "2023-24 Fall",

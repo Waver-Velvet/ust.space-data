@@ -22,11 +22,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012\" href=\"/review/COMP2012\" target=\"_blank\">COMP 2012</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012H\" href=\"/review/COMP2012H\" target=\"_blank\">COMP 2012H</a>",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 4.38,
-    "rating_teaching": 4.19,
-    "rating_grading": 3.94,
-    "rating_workload": 3.56,
-    "review_count": 16,
+    "rating_content": 4.35,
+    "rating_teaching": 4.24,
+    "rating_grading": 4,
+    "rating_workload": 3.59,
+    "review_count": 17,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -42,11 +42,46 @@
       {
         "id": 1526,
         "name": "PARREAUX, Lionel",
-        "count": 6
+        "count": 7
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "WivYJIMzULf9YjPPk9w5VRzEyjy97e1b",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1526,
+          "name": "PARREAUX, Lionel",
+          "rating": 1
+        }
+      ],
+      "author": "AlexJ",
+      "date": "Feb 19, 2024",
+      "title": "Great Intro to PL Class",
+      "comment_content": "A comprehensive overview of PL topics, with particular focus on FP. Would have liked some more overview of non-FP paradigms, possibly spending more time on Lisp itself too rather than Scala, but it still helped a lot.",
+      "comment_teaching": "Concise lectures that grasped the most important points of each topic. Great to ask questions and get clarification on important concepts, but you need to keep up with each lecture to understand the last.",
+      "comment_grading": "Fair on exam and homework grades",
+      "comment_workload": "HW load was relatively light, and if you understand the lab sessions the exams are very doable.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "Ruu9bAfdLXK5Qws8P1B18X7tH8k6XgKt",
       "semester": "2023-24 Fall",

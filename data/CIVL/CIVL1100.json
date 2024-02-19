@@ -37,7 +37,7 @@
     "rating_teaching": 3.75,
     "rating_grading": 4.63,
     "rating_workload": 4.24,
-    "review_count": 185,
+    "review_count": 186,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -48,7 +48,7 @@
       {
         "id": 83,
         "name": "LO, Irene Man Chi",
-        "count": 116
+        "count": 117
       },
       {
         "id": 60,
@@ -58,7 +58,7 @@
       {
         "id": 1171,
         "name": "LEUNG, Anthony",
-        "count": 71
+        "count": 72
       },
       {
         "id": 61,
@@ -68,7 +68,7 @@
       {
         "id": 1029,
         "name": "LAM, Kit Ming",
-        "count": 45
+        "count": 46
       },
       {
         "id": 1024,
@@ -93,6 +93,51 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "Sm52QHTOw8YJsHHC2UMigYElkgdSjwC3",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1171,
+          "name": "LEUNG, Anthony",
+          "rating": 1
+        },
+        {
+          "id": 1029,
+          "name": "LAM, Kit Ming",
+          "rating": 1
+        },
+        {
+          "id": 83,
+          "name": "LO, Irene Man Chi",
+          "rating": 1
+        }
+      ],
+      "author": "GaryY",
+      "date": "Feb 20, 2024",
+      "title": "",
+      "comment_content": "Basic stuff, something about environment and energy resources. The overall content is quite similar to the things you learnt in high school geography. Very little physics is included, some basic calulations.",
+      "comment_teaching": "No big problems overall, but I recommend not to attend the lectures if it is not convenient for you to back to the school. Reading those PowerPoints and get some sources is already enough.",
+      "comment_grading": "Very good grade, 50 mc questions in the final. I did not do any revisions before the exam and did not attend much lectures in the semester. Most questions are done by guessing with common sense and I still get a B+. Pretty sure if you do enough revision before the exam, you will easily get a A for this course.",
+      "comment_workload": "Several assignments, two group projects and one final exam. The assignments are not hard and most people get nearly full mark. The two projects&nbsp;&nbsp;are not easy to get full mark if you do not have sources, but if you have that you will be able to get full mark easily as well. Final exam is still the same as mentioned above.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "DRW58s9v3cZSmmekLEsGM1uIpdXg6oML",
       "semester": "2023-24 Fall",
