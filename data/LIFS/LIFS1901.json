@@ -33,11 +33,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "Level 3 or above in HKDSE 1x Biology",
-    "rating_content": 3.99,
-    "rating_teaching": 3.55,
+    "rating_content": 3.97,
+    "rating_teaching": 3.54,
     "rating_grading": 4.04,
-    "rating_workload": 4.36,
-    "review_count": 102,
+    "rating_workload": 4.35,
+    "review_count": 103,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -48,7 +48,7 @@
       {
         "id": 474,
         "name": "HUNG, Siu Chun",
-        "count": 64
+        "count": 65
       },
       {
         "id": 477,
@@ -73,6 +73,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "WiYtTAE13XMGHogobg34SKkyIzna1aBg",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 1
+        }
+      ],
+      "author": "JY.",
+      "date": "Feb 20, 2024",
+      "title": "",
+      "comment_content": "Basic biology knowledge in secondary school and a little bit related to high school chemistry content the content and theory is not difficult, suitable for student who do not studied biology before",
+      "comment_teaching": "Professor Hung is a very kind and responsible person, he welcomes all the questions or answers in his lectures, you can earn a bonus from asking or answering questions",
+      "comment_grading": "Absolutely grading scheme, the professor will change the scheme ratio concerning the performance of students.",
+      "comment_workload": "Some HW and MC questions in the examination.<br /><br />You need to be familiar with the content of the class (memorise the lecture notes is enough)",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "ccAqUsAkyHhYQYJFKMcXHbElOz8YYdWI",
       "semester": "2023-24 Fall",
@@ -1837,20 +1872,20 @@
         {
           "id": 474,
           "name": "HUNG, Siu Chun",
-          "rating": 1
+          "rating": 0
         }
       ],
       "author": "usto.o",
       "date": "Jun 12, 2020",
-      "title": "",
+      "title": "Bad grading",
       "comment_content": "Part I: Organization of Life<br />The study of life<br />The Chemical Basis of Life/The Molecules of Life<br />Cell Structure and Function<br />Biological membranes: Structure and Function<br /><br />Part II:<br />Energy Transfer Through Living Organisms<br />Energy and Enzymes<br />Respiration/ revision class<br /><br />Mid- term examination (Parts I &amp; II)<br /><br />Part III:<br />Continuity of Life<br />Determination of Form &amp; Function of an Organism<br />Making of a New Life<br /><br />Part IV:<br />Biodiversity<br />Differences among Living Individuals<br />Variety of Living Things on Earth<br /><br />Final examination (Parts III &amp; IV)",
-      "comment_teaching": "Both teachings are quite boring.<br />Jessica gave a lot of powerpoint, you need to memorise a lot of things, you can get bonus points if you answer in class clicker questions correctly.<br />Eugene is quite nice, you can get bonus points if you ask or answer his questions.<br />If you have any questions, you can send email to ask them.",
-      "comment_grading": "Maybe absolute grading<br />In class clicker questions <br />Mid-Term Exam:MC <br />Final Exam:LQ",
-      "comment_workload": "No assignment, readings, tutorials, and homework.<br />You need to memorise their powerpoint before mid term and final exam. You need to have a good understanding of the contents as well.",
-      "rating_content": 3,
-      "rating_teaching": 3,
+      "comment_teaching": "Boring lectures.",
+      "comment_grading": "Poor grading.",
+      "comment_workload": "You need to memorise their powerpoint before mid term and final exam. You need to have a good understanding of the contents as well.",
+      "rating_content": 1,
+      "rating_teaching": 1,
       "rating_grading": 1,
-      "rating_workload": 2,
+      "rating_workload": 1,
       "has_midterm": true,
       "has_final": true,
       "has_quiz": false,

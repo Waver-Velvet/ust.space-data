@@ -35,11 +35,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"2160\" href=\"/review/CIVL2160\" target=\"_blank\">CIVL 2160</a>, <a class=\"course-link\" data-subject=\"IEDA\" data-code=\"2520\" href=\"/review/IEDA2520\" target=\"_blank\">IEDA 2520</a>, <a class=\"course-link\" data-subject=\"IEDA\" data-code=\"2540\" href=\"/review/IEDA2540\" target=\"_blank\">IEDA 2540</a>, <a class=\"course-link\" data-subject=\"LIFS\" data-code=\"3150\" href=\"/review/LIFS3150\" target=\"_blank\">LIFS 3150</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2411\" href=\"/review/MATH2411\" target=\"_blank\">MATH 2411</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"3423\" href=\"/review/MATH3423\" target=\"_blank\">MATH 3423</a>",
-    "rating_content": 4.08,
+    "rating_content": 4.07,
     "rating_teaching": 3.91,
     "rating_grading": 3.99,
     "rating_workload": 4.15,
-    "review_count": 617,
+    "review_count": 619,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -85,7 +85,7 @@
       {
         "id": 1540,
         "name": "HO, Jason Man Wai",
-        "count": 29
+        "count": 30
       },
       {
         "id": 380,
@@ -95,7 +95,7 @@
       {
         "id": 769,
         "name": "SO, Mike Ka Pui",
-        "count": 21
+        "count": 22
       },
       {
         "id": 404,
@@ -165,6 +165,76 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "aMgFSOUIaIGYL2uMizfmEyBYAL4AODJC",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 769,
+          "name": "SO, Mike Ka Pui",
+          "rating": 1
+        }
+      ],
+      "author": "Adriant",
+      "date": "Feb 21, 2024",
+      "title": "",
+      "comment_content": "Topic:<br />1. Descriptive statistics<br />2. Probability concepts, random variables and expected values<br />3. Binomial distribution<br />4. Normal distribution<br />5. Sampling distribution<br />6. Confidence interval estimation<br />7. Hypothesis testing<br />8. Correlation and regression analysis",
+      "comment_teaching": "He would write some additional notes during the lessons. Also, he would use some real-life cases to apply this knowledge in real-life cases.",
+      "comment_grading": "Assignment: 20% (3 Assignments in total)<br />Max. 3ppl in one group<br />Assignment 1: Full<br />Assignment 2: Full<br />Assignment 3: Unknown<br /><br />Mid-term: 30% (1 hour)<br />Coverage: Topic 1-3<br />Format: 20 Multiple-choice question<br />Mean:16.75/20<br />UQ: 19/20<br />LQ: 14.5/20<br /><br />Final: 50% (2 hours)<br />Coverage: All topics<br />Format: 45 Multiple-choice question<br /><br />2 pieces of A4 paper can be brought in mid term and final exam",
+      "comment_workload": "Only 3 Assignments in the whole semester.<br />However, you need to use some time to finish it",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "MdjcJ8e5SrUmILQNbmuolKXJro313lfR",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1540,
+          "name": "HO, Jason Man Wai",
+          "rating": 1
+        }
+      ],
+      "author": "omar23",
+      "date": "Feb 20, 2024",
+      "title": "Not bad but there are better ones",
+      "comment_content": "Syllabus:<br /><br />1. data and variation<br />2. association and dependence<br />3. probability<br />4. Normal random variation/ Random variables and probability models<br />5.&nbsp;&nbsp;Covariance<br />6. Sampling and sampling distribution<br />7. Standard Error and Confidence Interval<br />8. Hypothesis testing<br />9. Fitting Equation to data/Curved Pattern<br />10. Simple Linear Regression<br /><br /><br />Basically some of the things are from M1. If you have studied before you could have a bit advantage, but not too much because there are some new things.",
+      "comment_teaching": "Just slides reading, but the some slides are pretty messy, it is hard to find the key point from them",
+      "comment_grading": "Score:<br />Assignment 1: 90/100 (above mean)<br />Assignment 2: 90/100 (at the mean)<br />Mid-Term: 12/20 (20 MCs with 60 min time allowed)<br />Final: Didn&#039;t release (45 MCs with 120 min time allowed)<br /><br />For MT and Final, cheat sheet is allowed for both of them.<br /><br />I got C+ at the end<br /><br />Difficulty:<br />Assignments and MT is not hard but Final is designed for professional",
+      "comment_workload": "2 group assignments, each one will have around one month deadline<br />not very big workload<br /><br />attendance will be taken by releasing canvas quizzes, generally one chapter will have one quiz (for attendance check, correct or not does not matter)",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "hVWPSk0OmzMTcpNhaVcMSlPFo6tAQpPJ",
       "semester": "2022-23 Fall",
@@ -517,7 +587,7 @@
       "has_reading": false,
       "has_presentation": false,
       "upvote_count": 0,
-      "vote_count": 0,
+      "vote_count": 1,
       "comment_count": 0,
       "attachments": []
     },
@@ -1128,8 +1198,8 @@
       "has_attendance": false,
       "has_reading": false,
       "has_presentation": false,
-      "upvote_count": 1,
-      "vote_count": 1,
+      "upvote_count": 2,
+      "vote_count": 2,
       "comment_count": 0,
       "attachments": []
     },

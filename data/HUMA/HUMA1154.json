@@ -17,11 +17,11 @@
     "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1401\" href=\"/review/LANG1401\" target=\"_blank\">LANG 1401</a> OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1402\" href=\"/review/LANG1402\" target=\"_blank\">LANG 1402</a> OR LANG 1403 OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1404\" href=\"/review/LANG1404\" target=\"_blank\">LANG 1404</a> OR LANG 1002 (prior to 2022-23)",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"CORE\" data-code=\"1666\" href=\"/review/CORE1666\" target=\"_blank\">CORE 1666</a>",
-    "rating_content": 1.5,
-    "rating_teaching": 1.5,
-    "rating_grading": 1.5,
-    "rating_workload": 1.75,
-    "review_count": 4,
+    "rating_content": 1.4,
+    "rating_teaching": 1.4,
+    "rating_grading": 1.4,
+    "rating_workload": 1.6,
+    "review_count": 5,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -32,11 +32,46 @@
       {
         "id": 1733,
         "name": "CHU, Shun",
-        "count": 4
+        "count": 5
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "Vj73fvDZIbx3OhN5QTyUXRwux2pe9p60",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1733,
+          "name": "CHU, Shun",
+          "rating": 0
+        }
+      ],
+      "author": "Lydiaaaaaaaaa.1",
+      "date": "Feb 21, 2024",
+      "title": "worst professor in ust",
+      "comment_content": "講野好模糊<br />上堂講同email講ge內容完全唔同<br />上堂都唔知做咩<br />超級後悔reg哩個course",
+      "comment_teaching": "好worst<br />我見過最唔負責任嘅instructor<br />完全冇仔細講過photography d 野<br />個TA都超串<br />email佢時好串",
+      "comment_grading": "食左c<br />三份project<br />完全睇佢個人印象分去俾分",
+      "comment_workload": "三份project<br />星期六星期日都要出去影相",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "Vf05Zl3vkxkuJZtfMJQbLXCdjRLoR7GW",
       "semester": "2023-24 Fall",

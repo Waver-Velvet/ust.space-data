@@ -26,10 +26,10 @@
     "corequisites": "",
     "exclusions": "Level 5* or above in HKDSE Mathematics Extended Module M1 or M2; grade B or above in HKCEE Additional Mathematics, a passing grade in AS Mathematics and Statistics, AL/AS Applied Mathematics, or in AL Pure Mathematics; <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1012\" href=\"/review/MATH1012\" target=\"_blank\">MATH 1012</a>; <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1013\" href=\"/review/MATH1013\" target=\"_blank\">MATH 1013</a>; <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1014\" href=\"/review/MATH1014\" target=\"_blank\">MATH 1014</a>; <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1018\" href=\"/review/MATH1018\" target=\"_blank\">MATH 1018</a> (prior to 2013-14); <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a>; <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1023\" href=\"/review/MATH1023\" target=\"_blank\">MATH 1023</a>; <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1024\" href=\"/review/MATH1024\" target=\"_blank\">MATH 1024</a>",
     "rating_content": 4,
-    "rating_teaching": 3.53,
-    "rating_grading": 4.07,
-    "rating_workload": 4.1,
-    "review_count": 225,
+    "rating_teaching": 3.54,
+    "rating_grading": 4.08,
+    "rating_workload": 4.11,
+    "review_count": 226,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -75,7 +75,7 @@
       {
         "id": 1662,
         "name": "YAO, Jing",
-        "count": 12
+        "count": 13
       },
       {
         "id": 1664,
@@ -140,6 +140,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "fRkVaznnEzlXfT5cl3rgceMAidCLNhnN",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1662,
+          "name": "YAO, Jing",
+          "rating": 1
+        }
+      ],
+      "author": "Lmfao?!",
+      "date": "Feb 20, 2024",
+      "title": "Yao Jing is the best choice, 1003 can be a cga helper if you work hard",
+      "comment_content": "It’s about interest, matrix(midterm), calculus like differentiation integration(final). It’s not hard to understand as it’s just basic concepts of these knowledge once you pay effort to all the question types exist in hw and past paper. The questions in hw and past paper and the real exam paper will be&nbsp;&nbsp;ver similar so you will definitely get 80/90+ if you know how to do the hw and pp.<br /><br />But the course can be self study for sure (if the teacher is so bad). So just make sure you know how to do the questions will be ok you can watch YouTube to study as well.",
+      "comment_teaching": "Her teaching is the best among all others in 1003. Explain everything in details. But I gave up to listen after midterm as I couldn’t follow in the calculus part so I decided to self study. I still got an A in the end though.",
+      "comment_grading": "Me: <br />100/100 in midterm(25%) mean 83 UQ 95<br />100% in hw (10%) mean should be 9x%<br />81/100 in final(65%) mean~73 UQ 77<br /><br />Final grade:A<br /><br />I think I’m not good at maths I didn’t get a star in DSE maths but I still can understand the content so everybody can. It should be absolute grading. Just do as more practice as you can. It will be a course that helps your CGA.",
+      "comment_workload": "Workload is light. Only 10 questions per hw. Just don’t leave the hw to the last minutes will be fine. <br /><br />But i suggest you to do more practice at least 3 hours per week to keep your sense in calculation. Practice makes perfect!",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "HVwCNRZN1NFKrI8bHm4Dpk4DsOE4pen5",
       "semester": "2023-24 Fall",

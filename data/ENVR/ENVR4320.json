@@ -23,11 +23,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"ACCT\" data-code=\"3630\" href=\"/review/ACCT3630\" target=\"_blank\">ACCT 3630</a>",
-    "rating_content": 4.33,
-    "rating_teaching": 2.67,
-    "rating_grading": 3.33,
-    "rating_workload": 1.67,
-    "review_count": 3,
+    "rating_content": 3.5,
+    "rating_teaching": 2.25,
+    "rating_grading": 2.75,
+    "rating_workload": 1.5,
+    "review_count": 4,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -43,11 +43,46 @@
       {
         "id": 1583,
         "name": "CHAN, Keith",
-        "count": 1
+        "count": 2
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "5OFtObb70sSdNokUJxvv324R1WoBvBUv",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1583,
+          "name": "CHAN, Keith",
+          "rating": 0
+        }
+      ],
+      "author": "usto.o",
+      "date": "Feb 21, 2024",
+      "title": "Bad teaching and grading",
+      "comment_content": "We examine key frameworks for organizations to report their ESG performance. Following a flipped classroom (blended learning) approach, students are guided to collect corporate ESG data, comment on quality of ESG reporting, discuss issues on ESG disclosure, and study real-world cases of how various organizations manage their climate-related financial risk. Throughout the course, the emphasis is on collective learning via division of labour: each student group presents their findings on ESG reporting and management in a specific industry, so that the whole class learn about a wide array of<br />industries from their peers.",
+      "comment_teaching": "Bad teaching.",
+      "comment_grading": "Extremely poor.",
+      "comment_workload": "Unreasonable workload.<br />Attendance, Participation and Group Work.",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "ENCnjFbFydMcBQkhJTGP9wyapLzLBaF7",
       "semester": "2021-22 Spring",

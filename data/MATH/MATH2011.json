@@ -36,8 +36,8 @@
     "rating_content": 4.16,
     "rating_teaching": 4.15,
     "rating_grading": 4.03,
-    "rating_workload": 4.23,
-    "review_count": 173,
+    "rating_workload": 4.22,
+    "review_count": 174,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -121,6 +121,11 @@
         "count": 1
       },
       {
+        "id": 775,
+        "name": "ZHANG, Hai",
+        "count": 1
+      },
+      {
         "id": 1056,
         "name": "RONG, Yi",
         "count": 1
@@ -138,6 +143,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "ZddrzQjk4AbPGsoKBvzGn3JHfVJWWbd9",
+      "semester": "2023-24 Spring",
+      "instructors": [
+        {
+          "id": 775,
+          "name": "ZHANG, Hai",
+          "rating": 1
+        }
+      ],
+      "author": "Johnson Chung",
+      "date": "Feb 20, 2024",
+      "title": "Math 2011",
+      "comment_content": "CONTENT<br /><br />Topic 1. Vectors and Curves: Class 1-6<br />1. Vectors in the plane and three dimensions<br />2. Dot products and Cross products<br />3. Lines and planes in space<br />4. Parametric curves<br />5. Calculus of vector-valued functions<br />6. Motion in space<br />7. Length and arclength parameterization of curves<br />8. Curvature of curves<br />Topic 2. Functions of Several Variables: Class 7–12<br />1. Graphs and level curves, surfaces<br />2. Limits and continuity<br />3. Partial derivatives<br />4. The chain rule<br />5. Directional derivatives and the gradient<br />6. Tangent planes and linear approximation<br />7. Maximum/minimum problems<br />8. Lagrange multiplier<br />Topic 3. Multiple Integration: Class 13-20<br />1. Double integrals over rectangular regions<br />2. Double integrals over general regions<br />3. Polar coordinates<br />4. Double integrals in polar coordinates<br />5. Triple integrals<br />6. Cylindrical and spherical coordinates<br />7. Triple integrals in cylindrical and spherical coordinates.<br />Topic 4. Vector Calculus: Class 21 – 25<br />1. Vector fields<br />2. Line integrals<br />3. Conservative vector fields<br />4. Green’s theorem<br />Study Break",
+      "comment_teaching": "He has quite a strong accent, but you can self-study with his notes.<br />Quite detailed and willing to answer your question after the lecture. He is a nice professor",
+      "comment_grading": "Online Homework (15%)<br />10%: Assigned problems for each chapter.After each chapter, 5-10 problems will be assigned on canvas. Students are<br />required to solve all these problems and submit their solution on Canvas before the specified deadline. <br />Midterm Exam (25%)<br /><br />Final Exam (50%)",
+      "comment_workload": "10 homework around the week. The difficulties is depends on your study level.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "usA7KwhJyVyXRhcFlUOqhBToHQvkPTYX",
       "semester": "2023-24 Fall",

@@ -19,11 +19,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"1014\" href=\"/review/MATH1014\" target=\"_blank\">MATH 1014</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1024\" href=\"/review/MATH1024\" target=\"_blank\">MATH 1024</a>",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2600\" href=\"/review/ELEC2600\" target=\"_blank\">ELEC 2600</a>, <a class=\"course-link\" data-subject=\"ELEC\" data-code=\"2600H\" href=\"/review/ELEC2600H\" target=\"_blank\">ELEC 2600H</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2421\" href=\"/review/MATH2421\" target=\"_blank\">MATH 2421</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2431\" href=\"/review/MATH2431\" target=\"_blank\">MATH 2431</a>",
-    "rating_content": 3.9,
-    "rating_teaching": 3.86,
-    "rating_grading": 4.33,
-    "rating_workload": 4.19,
-    "review_count": 21,
+    "rating_content": 3.86,
+    "rating_teaching": 3.77,
+    "rating_grading": 4.23,
+    "rating_workload": 4.14,
+    "review_count": 22,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -39,11 +39,46 @@
       {
         "id": 1652,
         "name": "CHEN, Yi",
-        "count": 5
+        "count": 6
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "Gj6v9SdnGJyyUqvqw3S1qYA5BFpUaBWD",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1652,
+          "name": "CHEN, Yi",
+          "rating": 0
+        }
+      ],
+      "author": "Getmeoutofhere",
+      "date": "Feb 20, 2024",
+      "title": "Idek what was going on",
+      "comment_content": "https://seng.hkust.edu.hk/sites/default/files/IMCE/UG/Course%20Syllabus/Fall_2021-2022/IEDA2520_Fall21-22.pdf<br /><br />Use the link above to see the content for yourself it honestly ain&#039;t very hard but man the mid term and final increased the holding capacity of my rectum, not fun<br /><br />1. Descriptive Statistics<br />• Frequency tables and graphs, histograms, leaf plots,<br />• Sample mean and variance, sample median, sample percentile<br />• Chebyshev’s inequality for data<br />2. Elements of Probability<br />• Sample space and events<br />• Axioms of probability<br />• Conditional probability<br />• Bayes rule<br />• Independence<br />3. Random Variables<br />• Discrete random variables<br />• Continuous random variables<br />• Joint distribution and covariance<br />4. Limiting Theorems<br />• Law of large numbers<br />• Central limit theorems",
+      "comment_teaching": "The beginning was quite simple, the first few topics are what most people have learnt in secondary school but for some reason, this dude taught it as if it was master level stuff. This mf really taught me everything I learnt before but in a more fucked up way",
+      "comment_grading": "Don&#039;t even ask<br /><br />During the last exam, I spent an hour looking at the ceiling, which should the final grade I got. Also, I swear the TAs are tripping like I wrote the correct answers for my hw and they claim I didn&#039;t put the right answer like bro its right there open your tiny eyes.",
+      "comment_workload": "Surprisingly good workload. 4 homeworks and if you can&#039;t solve them, you can always find the answers online.",
+      "rating_content": 3,
+      "rating_teaching": 2,
+      "rating_grading": 2,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "x6nLzNx79T7bMFuGIlzIVNSRIP8iTUVo",
       "semester": "2023-24 Fall",
