@@ -29,11 +29,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 3.8,
-    "rating_teaching": 4.06,
-    "rating_grading": 3.88,
+    "rating_content": 3.79,
+    "rating_teaching": 4.05,
+    "rating_grading": 3.87,
     "rating_workload": 3.45,
-    "review_count": 283,
+    "review_count": 284,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -77,13 +77,13 @@
         "count": 14
       },
       {
-        "id": 1232,
-        "name": "NEW, Christopher Mitya",
-        "count": 7
-      },
-      {
         "id": 1879,
         "name": "COOMBES, John",
+        "count": 8
+      },
+      {
+        "id": 1232,
+        "name": "NEW, Christopher Mitya",
         "count": 7
       },
       {
@@ -99,6 +99,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "UIp6PkdLtzh2ncXMJ1li1waji2ebUebo",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1879,
+          "name": "COOMBES, John",
+          "rating": 1
+        }
+      ],
+      "author": "Lmfao?!",
+      "date": "Feb 21, 2024",
+      "title": "Uselsss content boring lessons bad grading(John)",
+      "comment_content": "Never pay attention <br />Content is not practical<br />I think it really gave me 0 help",
+      "comment_teaching": "Boring, never listen <br />He speaks so slowly I think no one listen<br />I think he only talk to some students on the class but some students already fell asleep in class or eating subway.<br />and he&#039;s not hardworking even its his first year teaching in hkust",
+      "comment_grading": "Got a B coz the online discussion forum marks. It is subjective <br />And the grading is not good overall.",
+      "comment_workload": "No workload basically.<br />just presentation and sonetines he will let us go earlier. :)",
+      "rating_content": 2,
+      "rating_teaching": 2,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "PJXF1HoOoYFUNo65bIxp13TGNfBJpEtt",
       "semester": "2023-24 Fall",

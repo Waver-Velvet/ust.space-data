@@ -34,7 +34,7 @@
     "rating_teaching": 4.07,
     "rating_grading": 3.99,
     "rating_workload": 4.05,
-    "review_count": 1134,
+    "review_count": 1135,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -50,7 +50,7 @@
       {
         "id": 2,
         "name": "MAK, Kelvin P",
-        "count": 170
+        "count": 171
       },
       {
         "id": 3,
@@ -190,6 +190,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "4gnNyuiizgYbkgkPuFjlt7L02XYNuvke",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 2,
+          "name": "MAK, Kelvin P",
+          "rating": 1
+        }
+      ],
+      "author": "Lmfao?!",
+      "date": "Feb 21, 2024",
+      "title": "I personally don&#039;t like Kelvin Mak&#039;s teaching but he gives good grade",
+      "comment_content": "it might be a bit tough for beginners of accounting as it contains a range of knowledge in acct so it definitely is a test for your fast learning .<br /> On top of the difficulty of content it self, you are competing with someone who has already leant acct in DSE(at least those basic stuff I think over 50%), so its easy for them to get A range as they have known these knowledge for 3 years. <br />But anyways, the content is useful and gave me a sense of business as a year 1 student so I will say its worthy to take dis course overall(just you need to pay more effort to study...)",
+      "comment_teaching": "I almost didn&#039;t attend any class of him as I couldn&#039;t understand what he said. I don&#039;t think he explain things well as Im not the only one who were not paying attention to the class . In fact, I saw many people around me were doing their own stuff and even self studying this course. So I skip 90% of his class and I don&#039;t regret it.<br /><br />he&#039;s willing to teach though lol",
+      "comment_grading": "I got same as mean in midterm (70 marks), I didn&#039;t get my final mark as they didn&#039;t provide.<br /><br />I got B+ finally. I think fair coz I did put some effort in this course even though I found it difficult for me.<br /><br />midterm 20%<br />hw 30%<br />final 50%<br />no attendance needed",
+      "comment_workload": "you need to self study for sure. I don&#039;t think you will know how to do the hw after attending his lessons only. but the hw are not so difficult and there are not much hw so light workload . and basically if you r willing to try you can get 100% in hw( btw hw counts 30% in the final grade, I think 90% people can get full marks in this part so its useless for your grade but it pushes you to do revision)",
+      "rating_content": 5,
+      "rating_teaching": 1,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "nCf1fsJpZFcJ8HOMZLeRYd2G5iDXZwHv",
       "semester": "2023-24 Fall",

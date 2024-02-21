@@ -18,11 +18,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"CORE\" data-code=\"1411\" href=\"/review/CORE1411\" target=\"_blank\">CORE 1411</a>, <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1412\" href=\"/review/CORE1412\" target=\"_blank\">CORE 1412</a>, <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1413\" href=\"/review/CORE1413\" target=\"_blank\">CORE 1413</a>, <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1414\" href=\"/review/CORE1414\" target=\"_blank\">CORE 1414</a>, <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1415\" href=\"/review/CORE1415\" target=\"_blank\">CORE 1415</a>, <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1120\" href=\"/review/LANG1120\" target=\"_blank\">LANG 1120</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1121\" href=\"/review/LANG1121\" target=\"_blank\">LANG 1121</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1122\" href=\"/review/LANG1122\" target=\"_blank\">LANG 1122</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1123\" href=\"/review/LANG1123\" target=\"_blank\">LANG 1123</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1124\" href=\"/review/LANG1124\" target=\"_blank\">LANG 1124</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1125\" href=\"/review/LANG1125\" target=\"_blank\">LANG 1125</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1126\" href=\"/review/LANG1126\" target=\"_blank\">LANG 1126</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1127\" href=\"/review/LANG1127\" target=\"_blank\">LANG 1127</a> (prior to 2022-23)",
-    "rating_content": 1.89,
-    "rating_teaching": 2.33,
-    "rating_grading": 1.89,
+    "rating_content": 1.9,
+    "rating_teaching": 2.3,
+    "rating_grading": 1.8,
     "rating_workload": 2,
-    "review_count": 9,
+    "review_count": 10,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -38,7 +38,7 @@
       {
         "id": 1731,
         "name": "YU, Wai Ying",
-        "count": 2
+        "count": 3
       },
       {
         "id": 1729,
@@ -48,6 +48,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "J0gExvJHmkwtjqkyZERSZDqrKjTX8sjE",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1731,
+          "name": "YU, Wai Ying",
+          "rating": 0
+        }
+      ],
+      "author": "廖雪兒",
+      "date": "Feb 21, 2024",
+      "title": "Bad course",
+      "comment_content": "The course review was excessively verbose, delving into tangential topics far removed from the subject matter of Chinese language, prolonging the monotony of the reading experience. It lacked coherence, presenting irrelevant anecdotes and failing to provide substantive critique, ultimately rendering it a tedious and unhelpful endeavor.",
+      "comment_teaching": "The course review proved utterly ineffectual, offering scant assistance in completing assignments or preparing presentations. Its content was devoid of practical insights or applicable knowledge, leaving learners adrift in a sea of unhelpful information. It failed to address essential aspects of the subject matter, rendering it utterly useless in aiding academic endeavors.",
+      "comment_grading": "Really bad<br />I got relative high marks in 4 assignment even got 5/5 in some grading,&nbsp;&nbsp;but only get B at the end.<br />Most of my classmates got B range or even lower from this professor, I didn&#039;t hear anyone in my class got an A range",
+      "comment_workload": "Really bigggggg!!!<br />4 assignment: <br />1. individual: 3000 words WeChat article need research, photos, data and also design<br />2. 5-10 minutes individual presentation<br />3. 25 minutes group video( cannot edit)<br />This is really difficult, you need to shoot in one take with nobody NG<br />4.Individual Journal criticizes others critical",
+      "rating_content": 2,
+      "rating_teaching": 2,
+      "rating_grading": 1,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "qCvUxnmBZjeQ8zW3WNyC6KyLYnMO2NlF",
       "semester": "2022-23 Spring",

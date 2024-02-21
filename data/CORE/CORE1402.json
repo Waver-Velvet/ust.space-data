@@ -15,11 +15,11 @@
     "prerequisites": "(Level 3 in HKDSE English Language with all papers at or above level 3) OR (Level 4 in HKDSE English Language) OR (Level 5 in HKDSE English Language with some papers but not all at or above level 4) OR (Overall bandscore of 6.0 in IELTS) OR (Overall bandscore of 6.5 in IELTS with some but not all subscores at or above 6.0) OR equivalence of the above",
     "corequisites": "",
     "exclusions": "LANG 1002, LANG 1003",
-    "rating_content": 3.5,
+    "rating_content": 3.51,
     "rating_teaching": 4.1,
-    "rating_grading": 3.46,
-    "rating_workload": 3.58,
-    "review_count": 48,
+    "rating_grading": 3.49,
+    "rating_workload": 3.59,
+    "review_count": 49,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -83,6 +83,11 @@
         "count": 1
       },
       {
+        "id": 456,
+        "name": "YUEN, Ka Ming",
+        "count": 1
+      },
+      {
         "id": 459,
         "name": "LEE, Ping Chung Eric",
         "count": 1
@@ -120,6 +125,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "CwbBqYrMrXq05B84kKBlBwwZFyYVVAJf",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 456,
+          "name": "YUEN, Ka Ming",
+          "rating": 1
+        }
+      ],
+      "author": "Lmfao?!",
+      "date": "Feb 21, 2024",
+      "title": "Ka gave really good grade he&#039;s nice",
+      "comment_content": "its about writing and speaking<br />but I don&#039;t think its useful it depends on your prof",
+      "comment_teaching": "Ka is willing to teach. he will give us feedback and real suggestion so I think he&#039;s a good instructor overall",
+      "comment_grading": "grading is good . <br />I got mostly advanced or above<br />so final grade is A<br />I think he will not give anyone C, unless you never go to his class",
+      "comment_workload": "I forgot so it seems like there were no big workload.<br />all the hw are related to the tasks no extra things are needed. and you can finish them in a short time.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "nwleZHClKpiOWwry0swZkPGdQfyLaZ7u",
       "semester": "2023-24 Fall",
