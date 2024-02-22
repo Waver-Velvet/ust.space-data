@@ -30,11 +30,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 4.13,
-    "rating_teaching": 4.07,
+    "rating_content": 4.12,
+    "rating_teaching": 4.06,
     "rating_grading": 3.99,
     "rating_workload": 4.05,
-    "review_count": 1135,
+    "review_count": 1137,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -138,13 +138,13 @@
         "count": 8
       },
       {
-        "id": 13,
-        "name": "YOU, Haifeng",
-        "count": 5
-      },
-      {
         "id": 1831,
         "name": "DONG, Qingkai",
+        "count": 6
+      },
+      {
+        "id": 13,
+        "name": "YOU, Haifeng",
         "count": 5
       },
       {
@@ -190,6 +190,70 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "Uve8guDm2d5XcjbSHLqVrYULo0QpKMLn",
+      "semester": "2023-24 Fall",
+      "instructors": [],
+      "author": "ashleyy1801",
+      "date": "Feb 22, 2024",
+      "title": "Okay class",
+      "comment_content": "Boring, straightforward. Basic accounting concepts but confusing to understand in lectures",
+      "comment_teaching": "Tony recorded participation through questions asked which made the lectures full of stupid questions. very boring and hard to follow lecture. had to teach myself the content through youtube videos",
+      "comment_grading": "fair-ish grading but difficult exams. all multiple choice with six long answers for exams. quizzes were annoying but not bad. group projects were not bad either but highly depends on group mates and your speed in class to understand the concepts.",
+      "comment_workload": "Workload was bad simply because of how much you had to teach yourself. spent a long time studying before exams",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "CrkSKHIwsUQwKeMTVOXXqDxE1sFFELxX",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1831,
+          "name": "DONG, Qingkai",
+          "rating": 0
+        }
+      ],
+      "author": "Ronoron",
+      "date": "Feb 22, 2024",
+      "title": "F Dong Qing Kai",
+      "comment_content": "Same as shown in other comments",
+      "comment_teaching": "His accent is hard to understand. Can’t even understand a word he said in class. Do not go for his lecture if you want good teaching. Have heard people snoring in different lectures due to his lack in English proficiency and accent. The attendance rate of his lessons are low, around 20-30 people come.",
+      "comment_grading": "The grading is not bad. If you get near full marks for the homework sets and around 30% in final, you will get B- to C.",
+      "comment_workload": "It is pretty light. No midterm, a few homework sets and problem sets. Problem sets can be checked and done until full mark. However, the difficulty of the final is way more difficult. For DSE students, non-BAFS students and BAFS students would be studying in the same course, which is different from the ECON lecture approach. Non-BAFS students have to work extremely hard in order to get good grades. Overall, it is a course requires fair workload",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 2,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "4gnNyuiizgYbkgkPuFjlt7L02XYNuvke",
       "semester": "2023-24 Fall",
@@ -2681,8 +2745,8 @@
       "has_attendance": false,
       "has_reading": false,
       "has_presentation": false,
-      "upvote_count": 0,
-      "vote_count": 4,
+      "upvote_count": 1,
+      "vote_count": 5,
       "comment_count": 0,
       "attachments": []
     },
