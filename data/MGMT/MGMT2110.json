@@ -32,11 +32,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 4.22,
+    "rating_content": 4.21,
     "rating_teaching": 4.35,
     "rating_grading": 4.37,
-    "rating_workload": 4.05,
-    "review_count": 224,
+    "rating_workload": 4.06,
+    "review_count": 225,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -112,7 +112,7 @@
       {
         "id": 1797,
         "name": "WAI, Yau Hang",
-        "count": 4
+        "count": 5
       },
       {
         "id": 780,
@@ -142,6 +142,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "2NXTQXWUA3ExBVdo1ZIeGKypeQbNRKbC",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1797,
+          "name": "WAI, Yau Hang",
+          "rating": 1
+        }
+      ],
+      "author": "kelvin_ust",
+      "date": "Feb 24, 2024",
+      "title": "",
+      "comment_content": "Lecture / Topic Task Chapters in Textbook<br />L.1 Welcome! Course Introduction<br />Review Teaching plan &amp; syllabus<br />- Assessments: test and exam<br />- The movie project, presentation<br />&amp; final report<br />Ch 1 “What is OB”<br />L.2 The Individuals :<br />Personality | Values Add/Drop ends - 15th Sept. Ch 5 Personality, Values and<br />Individual Differences<br />L.3 Emotional Intelligent &amp; Stress<br />Ch 4 Emotions and Moods<br />Ch 18 Stress, Health in Organization<br />L.4 Motivation<br />Ch 7 Motivation Concepts<br />Ch 8 Motivation from concepts to<br />applications<br />L.5 Perception, Individual decision | Job Attitudes<br />Ch 6 Perception &amp; Individual Decision Making<br />Ch 3 Attitudes and Job Satisfaction<br />L.6 Team Dynamics - Group Behavior <br />First 60mins : Mid-term test Ch.9 Foundations of Group Behavior<br />L.7<br />Team Dynamics - Team Responsibility &amp; Performance<br />Form your movie project work teams<br />Ch10 Understanding Work Teams<br />L.8 Group Processes: Group Communication<br />Project consultation session<br />(20mins each group, after class)<br />Ch.11 Communication<br />Ch.14 Conflict Management<br />(Negotiations)<br />L.9 Leadership <br />Project consultation session<br />(20mins each group, after class) Ch.12 Leadership<br />L10 Power and Politics <br />Project consultation session<br />(20mins each group, after class)<br />Ch.13 Power and Politics<br />L11 The Organization: Structure and Culture<br />Ch.15 Foundations of Org. Structure<br />Ch.16 Organizational Culture &amp; Change<br />L12 &amp; L13<br />Team Project: Movie Project presentation All groups",
+      "comment_teaching": "The content is already boring and it is hard to concentrate in a three-hour lesson. But Andre Wai tries his best to make his lesson interesting. He uses some engaging tools for us to understand the contents with less boredom, such as designing games and forming interactive groups in classes. These reduce the boredom.",
+      "comment_grading": "Normal grading in UST courses.<br />Examination I : 20%&nbsp;&nbsp;(all MC and TF questions) Mid term = 86.05 Mean = 74.9, S.D. = 10.3.<br />Examination II : 30% (5 MC and around 10 LQ) final exam scores are not disclosed. <br />Group Work Initiative : 30% (Group Presentation + Written Report + Group Progress + Peer Evaluation), scores are not disclosed<br />Class participation : 14% (Attendance and class participation, home journaling)<br />Research Participation : 6% (attend 3 research), everyone should get 6/6 as long as you attend 3 research studies<br />Final grade: B",
+      "comment_workload": "Not much.<br />- Write about 600 words for home journaling every week.<br />- Group project and presentation <br />- Study for mid-term and final",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "EuoKZefor9EIMefYQXTi7D5Lt3uhNcoY",
       "semester": "2022-23 Spring",

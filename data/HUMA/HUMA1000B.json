@@ -30,10 +30,10 @@
     "corequisites": "",
     "exclusions": "",
     "rating_content": 4.22,
-    "rating_teaching": 4.32,
-    "rating_grading": 4.47,
+    "rating_teaching": 4.29,
+    "rating_grading": 4.45,
     "rating_workload": 3.98,
-    "review_count": 81,
+    "review_count": 82,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -44,7 +44,7 @@
       {
         "id": 765,
         "name": "NAM, Sai Lok",
-        "count": 74
+        "count": 75
       },
       {
         "id": 327,
@@ -99,6 +99,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "uRfxckqt2PWfyg0WY0jiq0tkGVm4Bx9K",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 765,
+          "name": "NAM, Sai Lok",
+          "rating": 0
+        }
+      ],
+      "author": "arrowguy",
+      "date": "Feb 24, 2024",
+      "title": "",
+      "comment_content": "The objectives of the course are two-fold:<br />(1)For communicative capacity building<br />through humanities knowledge and;<br />(2) For enrichment of values and perspectives<br />corresponding to the mission and vision of<br />UST",
+      "comment_teaching": "The teaching is very bad during the lecture. He tried to make jokes but they are not funny at all. Besides, the examples he used during lecture is poor since they make not be the most suitable one. He had tutorial session which is better than his lecture.",
+      "comment_grading": "Poor, the midterm exam and final exam doesnt test on your knowledge in philosophy. The exams are more like testing whether you paid attention in his class or not which make it bad",
+      "comment_workload": "Two Quizzes (17 or 24 Oct, and 28 Nov):<br />•20 MC questions in both quizzes<br />•30 minutes<br />•All questions from the lectures &amp; PPTs<br />I essay writing on the one of the given three prompt<br />3 online discussion",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "HxmOyr6XzmDfvwtd9Ceh99BE8bx8meVM",
       "semester": "2023-24 Fall",
