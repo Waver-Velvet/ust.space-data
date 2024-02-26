@@ -33,11 +33,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "Level 3 or above in HKDSE 1x Biology",
-    "rating_content": 3.97,
-    "rating_teaching": 3.54,
-    "rating_grading": 4.04,
-    "rating_workload": 4.35,
-    "review_count": 103,
+    "rating_content": 3.98,
+    "rating_teaching": 3.53,
+    "rating_grading": 4.05,
+    "rating_workload": 4.36,
+    "review_count": 104,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -48,12 +48,12 @@
       {
         "id": 474,
         "name": "HUNG, Siu Chun",
-        "count": 65
+        "count": 66
       },
       {
         "id": 477,
         "name": "TANG, Jessica Ce Mun",
-        "count": 60
+        "count": 61
       },
       {
         "id": 637,
@@ -73,6 +73,46 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "YSv2ZfShPfeOyi8ox6bAToWu2VuFKDgA",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        },
+        {
+          "id": 474,
+          "name": "HUNG, Siu Chun",
+          "rating": 1
+        }
+      ],
+      "author": "CarsonFung",
+      "date": "Feb 26, 2024",
+      "title": "",
+      "comment_content": "talk about the basic substances which form the human body, like carbonhydrates, proteins.....<br />Also, this course talks about the mechanism of mitochondrion and respiration",
+      "comment_teaching": "actually its quite boring in the lecture as both of the prof just read aloud the ppt",
+      "comment_grading": "pretty good, but have to rmb all the staff in the PPT provided",
+      "comment_workload": "have ifrs for attendance and optional individual projects for Hung&#039;s parts<br />there are mid-term and final for mostly MC and some T-F questions, quite straightforward<br />need more time for the preparation",
+      "rating_content": 5,
+      "rating_teaching": 2,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "WiYtTAE13XMGHogobg34SKkyIzna1aBg",
       "semester": "2022-23 Spring",

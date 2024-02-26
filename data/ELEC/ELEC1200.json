@@ -33,11 +33,11 @@
     "prerequisites": "",
     "corequisites": "(<a class=\"course-link\" data-subject=\"COMP\" data-code=\"1021\" href=\"/review/COMP1021\" target=\"_blank\">COMP 1021</a> OR <a class=\"course-link\" data-subject=\"COMP\" data-code=\"1022P\" href=\"/review/COMP1022P\" target=\"_blank\">COMP 1022P</a>) AND (<a class=\"course-link\" data-subject=\"MATH\" data-code=\"1003\" href=\"/review/MATH1003\" target=\"_blank\">MATH 1003</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1014\" href=\"/review/MATH1014\" target=\"_blank\">MATH 1014</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1024\" href=\"/review/MATH1024\" target=\"_blank\">MATH 1024</a>)",
     "exclusions": "",
-    "rating_content": 4.3,
-    "rating_teaching": 4.37,
-    "rating_grading": 4.27,
-    "rating_workload": 3.71,
-    "review_count": 84,
+    "rating_content": 4.31,
+    "rating_teaching": 4.35,
+    "rating_grading": 4.28,
+    "rating_workload": 3.72,
+    "review_count": 85,
     "single_review": false,
     "enrollment_status": 4,
     "is_favourited": false,
@@ -48,7 +48,7 @@
       {
         "id": 200,
         "name": "MURCH, Ross",
-        "count": 33
+        "count": 34
       },
       {
         "id": 1047,
@@ -104,6 +104,41 @@
   },
   "reviews": [
     {
+      "hash": "gczgWvLIocsuLlkgbXW311uAQreEEnyI",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 200,
+          "name": "MURCH, Ross",
+          "rating": 1
+        }
+      ],
+      "author": "eugenescott",
+      "date": "Feb 26, 2024",
+      "title": "",
+      "comment_content": "The content was good, very clear with understanding required. Throughout the course, knowing what one has learned on the past lecture is important, as one might not understand what is going on on the current lecture. Throughout the course, it gives an overview of what an electronic engineer might get to know on the more challenging courses, and it gives a good heads up.",
+      "comment_teaching": "Prof. Russ reads out of his lectures and does less explanation. Its fine, since the content is pretty clear throughout the presentation and the lecture notes, thereby reading out of the lectures is understandable. But I don&#039;t see much of a clear point on going to the lectures if so.",
+      "comment_grading": "The grading is fine, the TA, cupid is an angel and she tries her best to give credit to all the assignments as well as the mid term and final grades. She is very lively and interactive, so asking many questions is encouraged.",
+      "comment_workload": "The labs are fine with the coding, the lab time is given three hours which you don&#039;t even need. The problem is the quiz, which has only 5 minutes to get 4 questions or something. When you mess up, personally, I tended to have a small mental breakdown when I discovered that I got something wrong. Just be prepared for the quiz and that will be fine.",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
       "hash": "v82aUpJ2pkdkfhfO1Kpkg1iDLtarGoDZ",
       "semester": "2023-24 Fall",
       "instructors": [],
@@ -128,7 +163,7 @@
       "has_reading": false,
       "has_presentation": false,
       "upvote_count": 0,
-      "vote_count": 1,
+      "vote_count": 2,
       "comment_count": 0,
       "attachments": []
     },
