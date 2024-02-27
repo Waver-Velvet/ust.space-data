@@ -32,11 +32,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 3.6,
-    "rating_teaching": 3.36,
-    "rating_grading": 3.24,
-    "rating_workload": 2.52,
-    "review_count": 25,
+    "rating_content": 3.65,
+    "rating_teaching": 3.42,
+    "rating_grading": 3.31,
+    "rating_workload": 2.62,
+    "review_count": 26,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -57,7 +57,7 @@
       {
         "id": 1623,
         "name": "SARKAR, Sayan",
-        "count": 3
+        "count": 4
       },
       {
         "id": 1546,
@@ -67,6 +67,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "X3aCmDvpSl71rymqDUFEonYVuuWOc7hY",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1623,
+          "name": "SARKAR, Sayan",
+          "rating": 1
+        }
+      ],
+      "author": "Nikshay",
+      "date": "Feb 27, 2024",
+      "title": "One of the Best Courses in MGMT",
+      "comment_content": "Content is derived from various aspects from Innovation and Entrepreneurship with interesting areas covered through case studies and discussions.",
+      "comment_teaching": "Professor Sayan Sarkar is extremely engaging with all students encouraging everyone to speak up in class to hear about their insights and opinions. As the lecture was 3 hours long, he provides breaks between the lecture and allows snacks and drinks to be consumed. Just make sure you are not constantly talking to your friends or going off task as he may call you out on it.",
+      "comment_grading": "The grading was amazing and spread out amongst several areas, however, weighing heavy for each.<br /><br />1. Participation: 20% (participate every class by regularly answering questions and attending all lectures to secure the highest grade possible)<br />2. Weekly Case Write Ups (best 5 out of 9, out of 10): 50% (straightforward to write, use terms taught in class to secure highest score, means are usually high ranging between 7-8)<br />3. Group Project: 30% (provided with an ideal amount of time to finish the project, report and presentation, mean is usually high)",
+      "comment_workload": "Workload is fair for a 4 credit course, weekly case write ups, participation and group project. As long as you manage your time well with the group project, you will not have a problem with workload issue.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "aRzJcD8siSmi8HS2XzmTS4wm3HQT0NyK",
       "semester": "2023-24 Fall",
