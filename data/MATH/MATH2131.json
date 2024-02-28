@@ -23,11 +23,11 @@
     "prerequisites": "Grade A in AL Pure Mathematics; or grade A- or above in <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1014\" href=\"/review/MATH1014\" target=\"_blank\">MATH 1014</a>/<a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a>/<a class=\"course-link\" data-subject=\"MATH\" data-code=\"1024\" href=\"/review/MATH1024\" target=\"_blank\">MATH 1024</a>",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2111\" href=\"/review/MATH2111\" target=\"_blank\">MATH 2111</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2121\" href=\"/review/MATH2121\" target=\"_blank\">MATH 2121</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2350\" href=\"/review/MATH2350\" target=\"_blank\">MATH 2350</a>",
-    "rating_content": 4.26,
-    "rating_teaching": 3.69,
-    "rating_grading": 3.57,
-    "rating_workload": 2.77,
-    "review_count": 35,
+    "rating_content": 4.28,
+    "rating_teaching": 3.72,
+    "rating_grading": 3.61,
+    "rating_workload": 2.78,
+    "review_count": 36,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -43,7 +43,7 @@
       {
         "id": 1203,
         "name": "IP, Ivan Chi Ho",
-        "count": 11
+        "count": 12
       },
       {
         "id": 1131,
@@ -73,6 +73,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "g30eSx4o2jUmL00R56EQfx01iRQyoJb7",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1203,
+          "name": "IP, Ivan Chi Ho",
+          "rating": 1
+        }
+      ],
+      "author": "security_guard",
+      "date": "Feb 28, 2024",
+      "title": "A content-packed course where you will learn a lot!",
+      "comment_content": "As listed in other reviews. <br /><br />I really recommend Linear Algebra, Second Edition by Hoffman and Kunze. Best book I have seen for linear algebra, much better than Linear Algebra Done Right in my opinion.<br /><br />Would have preferred this course to be more abstract, so examine quotient and dual spaces and so on. But I also learned a lot from the concrete parts so its fine.<br /><br />Basically does not require Calculus II. Fake prerequisite.",
+      "comment_teaching": "He explains things clearly and will answer your questions in the Discord server. Very weeb guy. Might be good or bad or neutral depending on your taste. Fine for me.",
+      "comment_grading": "I got a very high A-, which is not very good. So you can ignore everything I said in this review. Still, I think the grading is good enough. I don&#039;t understand anything and still got A-range.<br /><br />Just really really make sure to understand something. Do, or at least look at exercises from a textbook. <br /><br />For midterm, I got a bad score. I think for me, matrices are quite unintuitive and I still don&#039;t really understand how they behave. For final, I got a relatively high score because I made sure to understand the spectral theorems and cyclic subspaces/<br /><br />I think you really should explore some examples, ask questions (and answer them), and play around with some ideas on your own. Just start with a blank piece of paper.<br /><br />Do not be afraid of computation. Often, a bit of computation will give you important information. Don&#039;t avoid trying an approach because you dread the technical things you will have to do.",
+      "comment_workload": "High workload in my opinion. But you do learn a lot of stuff so its good.<br /><br />The homework is a bit difficult, I would say. Especially some of the computation questions. Note that sometimes the long questions are also computational. All my homies hate quadruple summations<br /><br />Sorry for the long review with little substance. I like to bs.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "tJkKoNrg82apkZNVbxUpK4GCeLDFcwTs",
       "semester": "2023-24 Fall",

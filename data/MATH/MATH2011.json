@@ -34,10 +34,10 @@
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2023\" href=\"/review/MATH2023\" target=\"_blank\">MATH 2023</a>",
     "rating_content": 4.16,
-    "rating_teaching": 4.15,
+    "rating_teaching": 4.13,
     "rating_grading": 4.03,
-    "rating_workload": 4.22,
-    "review_count": 174,
+    "rating_workload": 4.23,
+    "review_count": 175,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -53,7 +53,7 @@
       {
         "id": 555,
         "name": "QIAN, Tiezheng",
-        "count": 46
+        "count": 47
       },
       {
         "id": 548,
@@ -143,6 +143,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "KolVAl3MX0bkg6Wqs56jo9DFnplX1pBv",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 555,
+          "name": "QIAN, Tiezheng",
+          "rating": 1
+        }
+      ],
+      "author": "END",
+      "date": "Feb 28, 2024",
+      "title": "",
+      "comment_content": "Topic 1. Vectors and Curves: Class 1-6<br />1. Vectors in the plane and three dimensions<br />2. Dot products and Cross products<br />3. Lines and planes in space<br />4. Parametric curves<br />5. Calculus of vector-valued functions<br />6. Motion in space<br />7. Length and arclength parameterization of curves<br />8. Curvature of curves<br />Topic 2. Functions of Several Variables: Class 7–12<br />1. Graphs and level curves, surfaces<br />2. Limits and continuity<br />3. Partial derivatives<br />4. The chain rule<br />5. Directional derivatives and the gradient<br />6. Tangent planes and linear approximation<br />7. Maximum/minimum problems<br />8. Lagrange multiplier<br />Topic 3. Multiple Integration: Class 13-20<br />1. Double integrals over rectangular regions<br />2. Double integrals over general regions<br />3. Polar coordinates<br />4. Double integrals in polar coordinates<br />5. Triple integrals<br />6. Cylindrical and spherical coordinates<br />7. Triple integrals in cylindrical and spherical coordinates.<br />Topic 4. Vector Calculus: Class 21 – 25<br />1. Vector fields<br />2. Line integrals<br />3. Conservative vector fields<br />4. Green’s theorem<br />Study Break",
+      "comment_teaching": "The prof was a piece of shit and he does not know how to teach anything. I will recommend to watch Prof leonard calc 3 YouTube playlist",
+      "comment_grading": "There are two grading policy:<br />policy 1:<br />Assignment 10% <br />Midterm 30%<br />Final 60%<br />policy 2:<br />Assignment 10% <br />Midterm 0%<br />Final 90%<br />My grade:<br />Assignment: 10/10<br />Midterm: 7X/100 mean:6X<br />Final: 92/100 mean 55",
+      "comment_workload": "Same as Math 1014 but the exams are much easier as there is no proof questions",
+      "rating_content": 4,
+      "rating_teaching": 1,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "ZddrzQjk4AbPGsoKBvzGn3JHfVJWWbd9",
       "semester": "2023-24 Spring",

@@ -38,11 +38,11 @@
     "prerequisites": "Level 3 or above in HKDSE 1/2x OR level 3 or above in HKDSE 1x Chemistry OR <a class=\"course-link\" data-subject=\"CHEM\" data-code=\"1004\" href=\"/review/CHEM1004\" target=\"_blank\">CHEM 1004</a> OR <a class=\"course-link\" data-subject=\"CHEM\" data-code=\"1008\" href=\"/review/CHEM1008\" target=\"_blank\">CHEM 1008</a>",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"1010\" href=\"/review/CHEM1010\" target=\"_blank\">CHEM 1010</a>",
-    "rating_content": 4,
+    "rating_content": 3.99,
     "rating_teaching": 3.35,
     "rating_grading": 4.09,
     "rating_workload": 4.45,
-    "review_count": 270,
+    "review_count": 271,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -53,12 +53,12 @@
       {
         "id": 41,
         "name": "JIA, Guocheng",
-        "count": 135
+        "count": 136
       },
       {
         "id": 54,
         "name": "LI, Xiaoyuan",
-        "count": 130
+        "count": 131
       },
       {
         "id": 1140,
@@ -88,6 +88,46 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "69rfJT3i5aoGVEUfGVNaqjhu09ZtTKWZ",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 41,
+          "name": "JIA, Guocheng",
+          "rating": 0
+        },
+        {
+          "id": 54,
+          "name": "LI, Xiaoyuan",
+          "rating": 1
+        }
+      ],
+      "author": "williamwiro",
+      "date": "Feb 28, 2024",
+      "title": "Not as expected",
+      "comment_content": "There will be 4 chapters for the midterm and 5 chapters for the final.",
+      "comment_teaching": "Prof. JIA is not as good as Prof. LI in terms of teaching. JIA&#039;s language can sometimes be incomprehensible and you need to focus on the lecture to be able to understand what he&#039;s saying. Prof LI is very enthusiastic about teaching. He is very clear and he explains details so much.",
+      "comment_grading": "The grading is fair. It is curved, and the mean is about 30-ish/50 for both midterm and final. The proportion is heavy on the midterm and final (50% both). So it is challenging.",
+      "comment_workload": "The workload is light to be honest because you don&#039;t have to do homework and it is not graded. However, it is a good source to study for midterm and final. Try spending time reading it if you wanna prepare better for the exams.",
+      "rating_content": 3,
+      "rating_teaching": 3,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "DyUPJ9FoWmjYSROLBkimCVhzorn5Cp2s",
       "semester": "2022-23 Spring",

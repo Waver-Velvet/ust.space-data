@@ -15,11 +15,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "IDPO 1020",
-    "rating_content": 3.52,
-    "rating_teaching": 3.56,
-    "rating_grading": 3.22,
-    "rating_workload": 3.59,
-    "review_count": 27,
+    "rating_content": 3.57,
+    "rating_teaching": 3.61,
+    "rating_grading": 3.25,
+    "rating_workload": 3.64,
+    "review_count": 28,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -35,12 +35,12 @@
       {
         "id": 384,
         "name": "JAISINGH, Jeevan",
-        "count": 11
+        "count": 12
       },
       {
         "id": 1572,
         "name": "VONG, Kenward",
-        "count": 9
+        "count": 10
       },
       {
         "id": 978,
@@ -50,7 +50,7 @@
       {
         "id": 1594,
         "name": "HUNG, Jenny",
-        "count": 7
+        "count": 8
       },
       {
         "id": 1628,
@@ -80,6 +80,51 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "gOOjofnGswP20Cx9V1lzAZXcvZxxhYKw",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1594,
+          "name": "HUNG, Jenny",
+          "rating": 1
+        },
+        {
+          "id": 384,
+          "name": "JAISINGH, Jeevan",
+          "rating": 1
+        },
+        {
+          "id": 1572,
+          "name": "VONG, Kenward",
+          "rating": 1
+        }
+      ],
+      "author": "Ztar",
+      "date": "Feb 28, 2024",
+      "title": "Bad grade (only 25% A range) but good course for year 1",
+      "comment_content": "Lectures:<br />Module 1: Arguments<br />Module 2: Reasonings<br />Module 3: Fallacies<br />Module 4: Cognitive Bias<br /><br />Tutorials:<br />Module 1: Business<br />Module 2: Science and Technology<br />Module 3: Personal Life and Society<br /><br />Copied from Paco Tsang<br /><br />Personally I think the content is quite useful for year 1 students. It overlaps with some of the contents in MGMT and HUMA courses that will be studied later, such as MGMT2010. Quite recommend to take if you are not aiming for A+.",
+      "comment_teaching": "If you actually participate in lectures and tutorials while understanding the course materials, you won&#039;t find it boring. Personally I talk with my friends about the materials and answer the questions from professors. Also I did try to answer &#039;fun&#039; answers to the questions to make it more interesting, but please do this at your own risk as I don&#039;t find some of the professors and students entertained. You may result in a participation grade that is lower than those answering normal but boring answer.",
+      "comment_grading": "Not to expose my grade<br />In-lecture Pop Quizzes: 5%<br />Mid-term Quiz (Open book with cheatsheet): 15%<br />Two essays: 40%<br />Final Exam: 25%<br />Class Participation: 15%<br />For a score slightly above the UQ you will get an A-. Not that good but I would say it was enough. Note that the essays actually accounted for most of your grade, so try your best to score 19~20 for each in order to secure an A.( Although it depends a lot on your luck)",
+      "comment_workload": "The workload is not heavy at all and I would say it was slight indeed, just 2 essays for the tutorials and you need to make good use of ChatGPT( Copilot may be better with the ambiguous grading criteria) The midterm is just 25 MCs while the final exam is short questions that you have to use what you learnt throughout the course. It is quite similar to LS if you are DSE students (Bye bye LS for students from 2025). Also note that both the midterm and final are open book but I would recommend you memorising all materials as your cheatsheet may not include all the stuff and you missed some detail. ( For instance I mess up the if A then B and no A then no B stuff, losing 1 question in the midterm, showing if no full mark in midterm then no A+, so be extra careful with that). Do learn how to apply those concepts and you can ace the final. (Doesn&#039;t mean an A+)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "cpR8vZ6WccdcP68ZvNLBzQV4Q1PiD7lI",
       "semester": "2023-24 Fall",

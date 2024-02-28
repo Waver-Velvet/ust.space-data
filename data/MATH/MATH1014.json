@@ -44,7 +44,7 @@
     "rating_teaching": 3.24,
     "rating_grading": 3.3,
     "rating_workload": 3.63,
-    "review_count": 605,
+    "review_count": 606,
     "single_review": false,
     "enrollment_status": 2,
     "is_favourited": false,
@@ -85,7 +85,7 @@
       {
         "id": 522,
         "name": "XIONG, Maosheng",
-        "count": 17
+        "count": 18
       },
       {
         "id": 529,
@@ -305,6 +305,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "c4t7UH0w1VnNYsMMNH8IGOSkRYDfjNyj",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 522,
+          "name": "XIONG, Maosheng",
+          "rating": 1
+        }
+      ],
+      "author": "WMK",
+      "date": "Feb 28, 2024",
+      "title": "",
+      "comment_content": "The content of this math course is very board also messy. Lots of irrelevant information and the two big topic ( series and integration ) is not highly related. Everything they taught will be just the cover or basic of the topic, will not dig down to the topic, so you can’t really feel the topic is related.",
+      "comment_teaching": "The professor will always get confused while he was teaching. If you taught by prof. Xiong , I recommend you skip the lecture and watch the video recording and turn the speed to 1.5 So that you can waste less time and do more your own things.",
+      "comment_grading": "The grading is normal to me",
+      "comment_workload": "Each chapter will have webwork to do. Workload is not too heavy",
+      "rating_content": 3,
+      "rating_teaching": 1,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "s2AD0DyFPG8YAAlLHYoeIsDW8aQq5Lvj",
       "semester": "2023-24 Fall",
