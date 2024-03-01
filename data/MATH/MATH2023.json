@@ -34,10 +34,10 @@
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2011\" href=\"/review/MATH2011\" target=\"_blank\">MATH 2011</a>",
     "rating_content": 4.07,
-    "rating_teaching": 4.29,
+    "rating_teaching": 4.3,
     "rating_grading": 3.72,
     "rating_workload": 3.96,
-    "review_count": 116,
+    "review_count": 117,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -53,7 +53,7 @@
       {
         "id": 533,
         "name": "HO, Hon Ming",
-        "count": 19
+        "count": 20
       },
       {
         "id": 712,
@@ -133,6 +133,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "KOArjY8YHcjZpnpdV4HYmul9CAvE4x6A",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 533,
+          "name": "HO, Hon Ming",
+          "rating": 1
+        }
+      ],
+      "author": "Shadowwind",
+      "date": "Mar 01, 2024",
+      "title": "Good teaching but crazy mid-term",
+      "comment_content": "Vectors in three dimensions<br />dot and cross products<br />Lines and planes in 3-space<br />Calculus of vector-valued function<br />Function of multiple variables<br />Differentiability and chain rule<br />Gradient vector,tangent planes and linear approximations, Maximum and Minimum values<br />Extreme values, Lagrange multiplier.<br />(crazy midterm)<br />Double and triple integration in every coordinate system<br />line integrals, vector field<br />Flux, path independence, potential functions and conservative vector fields and Green&#039;s theorem in the plane<br />Surface integrals, flux across a surface<br />Divergence theorem and Stoke&#039;s theorem<br />(fair final)<br />These are just the important part. The outline is much more.",
+      "comment_teaching": "Good teaching<br />He is very careful and serious person. He explain the concept very clear to you. Clear handwriting and willing to answer your questions.He cares about students so much. He sends so many email to remind us the detail of exam and deadline of homework. So you won&#039;t miss them.<br /><br />But his midterm is really crazy and making everything useless. Well, same as the title. The final is fair. <br /><br />Tutorial is important for the exams. Although no attendance will be taken, I still recommend you to attend it. TAs are quite friendly",
+      "comment_grading": "Compare to previous math course (MATH1013&amp;1014) the grading is better.<br />My overall score is exactly the mean which is around 51 something<br />Webwork(15%) unlimited attempt<br />Midterm(30%) well, this is very difficult and I only get around 15% in it<br />Final (55%) I forgot what score do I get but much better than midterm<br />My total score is exactly the mean total score (around 51) and C+<br />Well I think it is okay as my midterm is really low",
+      "comment_workload": "depends on you<br />The webwork is light and easy. However, it is not enough of his exams. <br />Dr. Ho: Practice makes prefect :) :) :)",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "6WYk1f8JI52wd6PXoHMIvsOtq0WY6w77",
       "semester": "2023-24 Fall",
@@ -1033,7 +1068,7 @@
       "has_reading": false,
       "has_presentation": true,
       "upvote_count": 23,
-      "vote_count": 26,
+      "vote_count": 27,
       "comment_count": 0,
       "attachments": []
     },
