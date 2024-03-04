@@ -33,9 +33,9 @@
     "exclusions": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"2203\" href=\"/review/FINA2203\" target=\"_blank\">FINA 2203</a>",
     "rating_content": 4.09,
     "rating_teaching": 3.88,
-    "rating_grading": 3.93,
+    "rating_grading": 3.92,
     "rating_workload": 3.57,
-    "review_count": 299,
+    "review_count": 300,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -51,7 +51,7 @@
       {
         "id": 237,
         "name": "PI, Lynn",
-        "count": 48
+        "count": 49
       },
       {
         "id": 1193,
@@ -91,6 +91,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "S4LGuuWFkDrlaFIrS69sGsFzSx8OmrcI",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 237,
+          "name": "PI, Lynn",
+          "rating": 1
+        }
+      ],
+      "author": "ggnniiww",
+      "date": "Mar 04, 2024",
+      "title": "",
+      "comment_content": "slides are quite easy to understand<br />1. financial statement analysis<br />2. valuation (time value of money, perpetuities, annuities)<br />3. bonds<br />4. stocks<br />5. NPV rule and creation of value (investment decision rules, NPV vs IRR)<br />6. project evaluation<br />7. cost of equity, cost of debt, cost of capital (CAPM)",
+      "comment_teaching": "quite clear. Her teaching is OK, nothing good but nothing bad. She took attendence every lesson and if you missed one of the lesson you can made it up but answering questions and getting bonus card.",
+      "comment_grading": "a bit worse<br />Class participation<br />Class participation is divided into two parts. One part is the IPRS question, and another part is the class exercise",
+      "comment_workload": "not a lot",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 2,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "vzC49cLBkVFF1PPRI8jICuNlFOkbHrFX",
       "semester": "2023-24 Fall",

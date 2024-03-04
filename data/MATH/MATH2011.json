@@ -34,10 +34,10 @@
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2023\" href=\"/review/MATH2023\" target=\"_blank\">MATH 2023</a>",
     "rating_content": 4.16,
-    "rating_teaching": 4.13,
-    "rating_grading": 4.03,
+    "rating_teaching": 4.12,
+    "rating_grading": 4.04,
     "rating_workload": 4.23,
-    "review_count": 175,
+    "review_count": 176,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -58,7 +58,7 @@
       {
         "id": 548,
         "name": "MENG, Guowu",
-        "count": 7
+        "count": 8
       },
       {
         "id": 692,
@@ -143,6 +143,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "nppn1ybFk6UtBekfq16LEKGGdJc5yLYk",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 548,
+          "name": "MENG, Guowu",
+          "rating": 1
+        }
+      ],
+      "author": "kkkkkl",
+      "date": "Mar 04, 2024",
+      "title": "",
+      "comment_content": "佢要學嘅範圍我覺得幾闊，但係都唔係好深入，所以要記同埋明好多野先得，所以基本上教啲野都唔難，完全靠自學都得。",
+      "comment_teaching": "上左頭兩堂教得好shit之後走曬。啲note全部手寫，完全唔想睇。我係搵frd第二個lecturer嘅note黎溫。",
+      "comment_grading": "midterm 86/100，final 72/100 功課～90%<br />A-",
+      "comment_workload": "淨係webwork 功課 midterm final",
+      "rating_content": 4,
+      "rating_teaching": 2,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "KolVAl3MX0bkg6Wqs56jo9DFnplX1pBv",
       "semester": "2023-24 Fall",
@@ -2450,8 +2485,8 @@
       "has_attendance": false,
       "has_reading": false,
       "has_presentation": false,
-      "upvote_count": 25,
-      "vote_count": 26,
+      "upvote_count": 26,
+      "vote_count": 27,
       "comment_count": 3,
       "attachments": []
     },
@@ -2485,8 +2520,8 @@
       "has_attendance": false,
       "has_reading": false,
       "has_presentation": false,
-      "upvote_count": 13,
-      "vote_count": 15,
+      "upvote_count": 14,
+      "vote_count": 16,
       "comment_count": 0,
       "attachments": []
     },

@@ -26,10 +26,10 @@
     "corequisites": "",
     "exclusions": "AL Pure Mathematics; AL Applied Mathematics; <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1012\" href=\"/review/MATH1012\" target=\"_blank\">MATH 1012</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1013\" href=\"/review/MATH1013\" target=\"_blank\">MATH 1013</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1014\" href=\"/review/MATH1014\" target=\"_blank\">MATH 1014</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a>",
     "rating_content": 4.41,
-    "rating_teaching": 4.25,
+    "rating_teaching": 4.26,
     "rating_grading": 4.34,
     "rating_workload": 3.27,
-    "review_count": 139,
+    "review_count": 140,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -40,7 +40,7 @@
       {
         "id": 776,
         "name": "FONG, Tsz Ho",
-        "count": 53
+        "count": 54
       },
       {
         "id": 522,
@@ -90,6 +90,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "2fwlB08HaDzvpi0sASwTNkAZqzSnR1gi",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 776,
+          "name": "FONG, Tsz Ho",
+          "rating": 1
+        }
+      ],
+      "author": "DU Jiamu",
+      "date": "Mar 04, 2024",
+      "title": "",
+      "comment_content": "The contents are more advanced than commonly taught calculus, but elementary in analysis. They try to help you understand rigorous proofs of certain basic theorems of limit, continuity and differentiation, which is more rewarding than just learn how to calculate stuffs.<br /><br />Neither homework nor exams is intolerable&nbsp;&nbsp;challenging. They just require one to fully understand and get familiar with the multiple topics taught in lectures.",
+      "comment_teaching": "Professor FONG explains things explicitly. He speaks understandable English. He has a good sense of humor&nbsp;&nbsp;and tires to maintain an enjoyable atmosphere all the time.<br /><br />It is worth mentioning that his lecture notes are extremely exhaustive. Theorems are listed with not only proofs, but also explanations and exercises. You may find it sufficient for self leaning needs whereas attending lectures is highly recommended.",
+      "comment_grading": "Professor FONG is a good grader. I missed nearly half of the homework, but had fine grades in mid-term and final. Eventually I got A-.",
+      "comment_workload": "Appropriate. Homework is assigned every week except mid-term. It takes me about 2 to three hours to finish each homework. You may not latex your homework if you do not want to, since it is just for bonus.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "8n5M044XQtEQymfSHT7lxGzJ7iALK1Ie",
       "semester": "2023-24 Fall",
