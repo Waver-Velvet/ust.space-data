@@ -41,9 +41,9 @@
     "exclusions": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"1012\" href=\"/review/MATH1012\" target=\"_blank\">MATH 1012</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1014\" href=\"/review/MATH1014\" target=\"_blank\">MATH 1014</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1023\" href=\"/review/MATH1023\" target=\"_blank\">MATH 1023</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1024\" href=\"/review/MATH1024\" target=\"_blank\">MATH 1024</a>",
     "rating_content": 3.68,
     "rating_teaching": 3.36,
-    "rating_grading": 3.45,
+    "rating_grading": 3.46,
     "rating_workload": 3.86,
-    "review_count": 744,
+    "review_count": 745,
     "single_review": false,
     "enrollment_status": 1,
     "is_favourited": false,
@@ -232,6 +232,11 @@
         "count": 4
       },
       {
+        "id": 1872,
+        "name": "LUK, Hoi",
+        "count": 4
+      },
+      {
         "id": 695,
         "name": "KONG, Hoi Sang",
         "count": 3
@@ -244,11 +249,6 @@
       {
         "id": 1127,
         "name": "LIANG, Shixin",
-        "count": 3
-      },
-      {
-        "id": 1872,
-        "name": "LUK, Hoi",
         "count": 3
       },
       {
@@ -319,6 +319,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "CeAm6nozMy5HXXSsPRBT99BWDry0mFSm",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1872,
+          "name": "LUK, Hoi",
+          "rating": 1
+        }
+      ],
+      "author": "Terry Tang",
+      "date": "Mar 05, 2024",
+      "title": "Calculas IB ( M2 stuff)",
+      "comment_content": "Limit, differentiation and integration<br />If you studied M2 you have a great advantage <br />If you studied M1 prepare to get a bad grade.",
+      "comment_teaching": "Don’t need to attend any lectures to get a good grade.<br />You just need to watch youtube videos to learn and do as many past papers as possible.",
+      "comment_grading": "You only need 84-85/100 to get A range<br /><br />85-100 A range<br />70-85 B range<br />55-70 C range<br />Others Idk",
+      "comment_workload": "Only Webwork exercises. Around 1-2 problem sets per week. You can increase your own workload by attending tutorials. Otherwise, there’s not much to do indeed.",
+      "rating_content": 4,
+      "rating_teaching": 1,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "nMydbt4fmvG6Q7mPaU1eM9Lj5IvC2h4Z",
       "semester": "2023-24 Fall",

@@ -15,10 +15,10 @@
     "corequisites": "",
     "exclusions": "",
     "rating_content": 4,
-    "rating_teaching": 4.5,
-    "rating_grading": 5,
-    "rating_workload": 4,
-    "review_count": 2,
+    "rating_teaching": 4.67,
+    "rating_grading": 4.67,
+    "rating_workload": 4.33,
+    "review_count": 3,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -29,11 +29,46 @@
       {
         "id": 1696,
         "name": "SU, Hui",
-        "count": 2
+        "count": 3
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "eX8ykQXVSycAKnYb01L164UDRgcexn9u",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1696,
+          "name": "SU, Hui",
+          "rating": 1
+        }
+      ],
+      "author": "ANCPR",
+      "date": "Mar 05, 2024",
+      "title": "Interesting course",
+      "comment_content": "The content for this course is quite complicated if u want to thorougly understand all of the course material. However, if u only want to pass the course and get a good mark in the midterm exam, then the content is easy.",
+      "comment_teaching": "Prof Su, Hui is a expert in the field of remote sensing. She graduated from Peking U and used to work in NASA. <br />Honestly speaking, her teaching style is just PPT reader, but she explained every single concept well.",
+      "comment_grading": "Typical common core grading. <br />Everyone is getting a high overall mark, so a tiny mistake may cause your grade to drop from A to B. <br />But easy to get a B. <br /><br />92/100 overall ==== B+ :)))",
+      "comment_workload": "very low.<br />One HW per week (careful, easy to lose mark if u only use GPT)<br />MT exam, one cheat sheet allow. easy<br />LAB, no attendence<br />FInal project, just use GPT. double check all the contents<br />For the coding part of the final project. If you have studied any python (COMP1021), you will be able to finish the task but not understand how the code actually work with NASA&#039;s database,",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "IBpVuNQPtc9iK0w7lM3ISfwV9hjMy453",
       "semester": "2023-24 Fall",
