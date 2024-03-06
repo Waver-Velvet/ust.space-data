@@ -17,11 +17,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"3103\" href=\"/review/FINA3103\" target=\"_blank\">FINA 3103</a>",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 3.67,
-    "rating_teaching": 3.33,
-    "rating_grading": 4.67,
-    "rating_workload": 4.67,
-    "review_count": 3,
+    "rating_content": 4,
+    "rating_teaching": 3.75,
+    "rating_grading": 4.75,
+    "rating_workload": 4.75,
+    "review_count": 4,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -37,11 +37,46 @@
       {
         "id": 1586,
         "name": "AOYAGI, Jun",
-        "count": 1
+        "count": 2
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "tni1JpysIX4UFtn0wur2tf27E2IYBUwC",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1586,
+          "name": "AOYAGI, Jun",
+          "rating": 1
+        }
+      ],
+      "author": "Chuak",
+      "date": "Mar 06, 2024",
+      "title": "Very Good Introduction to Real Trading",
+      "comment_content": "market microstructures (how LOB continuous trading works). really a useful course if you are looking for a job in financial secondary market.",
+      "comment_teaching": "Professor Jun is pretty kind and knowledge. He is passionate in teaching and would like to go over some difficult math to make sure everyone understood..",
+      "comment_grading": "I scored high in both midterm and final so I don&#039;t know how&#039;s the grading.",
+      "comment_workload": "The workload is moderate. First half of the course is about some basic mechanism. The second half is about modelling (Roll, Kyle, etc)and can be quite challenging.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "DblccBV5Lh8160TeKac7bRMOu5YKVlE7",
       "semester": "2023-24 Fall",
