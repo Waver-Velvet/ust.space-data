@@ -28,11 +28,11 @@
     "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1401\" href=\"/review/LANG1401\" target=\"_blank\">LANG 1401</a> OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1402\" href=\"/review/LANG1402\" target=\"_blank\">LANG 1402</a> OR LANG 1403 OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1404\" href=\"/review/LANG1404\" target=\"_blank\">LANG 1404</a> OR LANG 1002 (prior to 2022-23)",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"CORE\" data-code=\"1360\" href=\"/review/CORE1360\" target=\"_blank\">CORE 1360</a>",
-    "rating_content": 3.97,
-    "rating_teaching": 3.63,
-    "rating_grading": 3.63,
-    "rating_workload": 4.13,
-    "review_count": 30,
+    "rating_content": 4,
+    "rating_teaching": 3.55,
+    "rating_grading": 3.55,
+    "rating_workload": 4.03,
+    "review_count": 31,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -43,7 +43,7 @@
       {
         "id": 1080,
         "name": "PUIG GARRIGO, Coral",
-        "count": 28
+        "count": 29
       },
       {
         "id": 507,
@@ -53,6 +53,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "Bp4Z8DiO4ZXFNUATRnQ4CNfzAr9qTGsU",
+      "semester": "2020-21 Spring",
+      "instructors": [
+        {
+          "id": 1080,
+          "name": "PUIG GARRIGO, Coral",
+          "rating": 0
+        }
+      ],
+      "author": "hkuststudentccc",
+      "date": "Mar 07, 2024",
+      "title": "",
+      "comment_content": "內容方面算有趣，講環保、可持續發展嘅野。亦都唔算難明。對於non busi人黎講係幾friendly的！",
+      "comment_teaching": "啲口音好難明。Prof佢會唔記得佢講過咩。同埋偏心international students，建議分組可以同non local一組。",
+      "comment_grading": "Prof偏心non local.<br />我就爛咗grade。同埋佢唔會出啲sub score，去到最後就突然俾個grade你",
+      "comment_workload": "唔算係上得開心嘅一個course，搵到好groupmates就唔會做project做到辛苦，試過俾人搶哂功勞…<br />功課考試都算少，都係啲短essay。",
+      "rating_content": 5,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "wR2xcqmFcDQLSFcBWMCkopaj12d8hzrT",
       "semester": "2023-24 Fall",
@@ -118,8 +153,8 @@
       "has_attendance": true,
       "has_reading": false,
       "has_presentation": true,
-      "upvote_count": 0,
-      "vote_count": 1,
+      "upvote_count": 1,
+      "vote_count": 2,
       "comment_count": 0,
       "attachments": []
     },
@@ -188,8 +223,8 @@
       "has_attendance": true,
       "has_reading": true,
       "has_presentation": true,
-      "upvote_count": 1,
-      "vote_count": 1,
+      "upvote_count": 2,
+      "vote_count": 2,
       "comment_count": 0,
       "attachments": []
     },
@@ -398,8 +433,8 @@
       "has_attendance": false,
       "has_reading": false,
       "has_presentation": false,
-      "upvote_count": 0,
-      "vote_count": 0,
+      "upvote_count": 1,
+      "vote_count": 1,
       "comment_count": 0,
       "attachments": []
     },
@@ -468,8 +503,8 @@
       "has_attendance": false,
       "has_reading": true,
       "has_presentation": true,
-      "upvote_count": 0,
-      "vote_count": 0,
+      "upvote_count": 1,
+      "vote_count": 1,
       "comment_count": 0,
       "attachments": []
     },
@@ -503,8 +538,8 @@
       "has_attendance": false,
       "has_reading": false,
       "has_presentation": false,
-      "upvote_count": 8,
-      "vote_count": 9,
+      "upvote_count": 9,
+      "vote_count": 10,
       "comment_count": 0,
       "attachments": []
     },
@@ -684,8 +719,8 @@
       "has_attendance": true,
       "has_reading": false,
       "has_presentation": true,
-      "upvote_count": 4,
-      "vote_count": 4,
+      "upvote_count": 5,
+      "vote_count": 5,
       "comment_count": 0,
       "attachments": []
     },
@@ -958,8 +993,8 @@
       "has_attendance": true,
       "has_reading": true,
       "has_presentation": true,
-      "upvote_count": 0,
-      "vote_count": 1,
+      "upvote_count": 1,
+      "vote_count": 2,
       "comment_count": 1,
       "attachments": []
     },
