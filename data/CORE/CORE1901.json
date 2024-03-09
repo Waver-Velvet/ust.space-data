@@ -15,11 +15,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "IDPO 1020",
-    "rating_content": 3.57,
-    "rating_teaching": 3.61,
-    "rating_grading": 3.25,
-    "rating_workload": 3.64,
-    "review_count": 28,
+    "rating_content": 3.59,
+    "rating_teaching": 3.63,
+    "rating_grading": 3.3,
+    "rating_workload": 3.63,
+    "review_count": 27,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -45,12 +45,12 @@
       {
         "id": 978,
         "name": "SAUERWEIN, Meike",
-        "count": 8
+        "count": 7
       },
       {
         "id": 1594,
         "name": "HUNG, Jenny",
-        "count": 8
+        "count": 7
       },
       {
         "id": 1628,
@@ -65,16 +65,16 @@
       {
         "id": 1626,
         "name": "ZHENG, Wenjuan",
-        "count": 4
-      },
-      {
-        "id": 1566,
-        "name": "LIU, Y.S. Marshal",
-        "count": 2
+        "count": 3
       },
       {
         "id": 541,
         "name": "CHASNOV, Jeffrey Robert",
+        "count": 1
+      },
+      {
+        "id": 1566,
+        "name": "LIU, Y.S. Marshal",
         "count": 1
       }
     ]
@@ -317,56 +317,6 @@
       "has_project": false,
       "has_attendance": true,
       "has_reading": false,
-      "has_presentation": false,
-      "upvote_count": 0,
-      "vote_count": 0,
-      "comment_count": 0,
-      "attachments": []
-    },
-    {
-      "hash": "NcqqO6zMCE0w661ISUcLcOE3wnuOiS3v",
-      "semester": "2023-24 Fall",
-      "instructors": [
-        {
-          "id": 1594,
-          "name": "HUNG, Jenny",
-          "rating": 1
-        },
-        {
-          "id": 1566,
-          "name": "LIU, Y.S. Marshal",
-          "rating": 0
-        },
-        {
-          "id": 978,
-          "name": "SAUERWEIN, Meike",
-          "rating": 1
-        },
-        {
-          "id": 1626,
-          "name": "ZHENG, Wenjuan",
-          "rating": 1
-        }
-      ],
-      "author": "专评课程",
-      "date": "Jan 07, 2024",
-      "title": "",
-      "comment_content": "Quite simple: definitions, practices, and evaluations. For those who did IB TOK, this course is kind of for you, so long as you are fine with poor grading.",
-      "comment_teaching": "Jenny is really good—engaging, enthusiastic, and clear in classes,, and Prof. Meike and Zheng are fine, although Zheng was harsh on grading. <br /><br />I do not want to spare a single word in describing the teaching of Marshal (well, although I already had). One bad teaching will undermine the whole course expereience. Therefore, please kindly receive a C from me.",
-      "comment_grading": "Mid and final are easy, questions clear and straightforward. If you did IB TOK, you can expect high marks. <br /><br />The two essays (40% of your final grade), however, are despicable, for the grading is abominably subjective and completely backfires the purported &#039;critical thinking&#039; practice. <br /><br />One will also find the attendance mark bewildering as professors do not tell you the criteria thereof.",
-      "comment_workload": "The two essays do require you to think carefully. I didn&#039;t. <br /><br />Otherwise, the workload is fair.",
-      "rating_content": 3,
-      "rating_teaching": 3,
-      "rating_grading": 2,
-      "rating_workload": 4,
-      "has_midterm": true,
-      "has_final": true,
-      "has_quiz": true,
-      "has_assignment": true,
-      "has_essay": true,
-      "has_project": false,
-      "has_attendance": true,
-      "has_reading": true,
       "has_presentation": false,
       "upvote_count": 0,
       "vote_count": 0,

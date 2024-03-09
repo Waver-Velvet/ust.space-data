@@ -31,11 +31,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"ACCT\" data-code=\"2010\" href=\"/review/ACCT2010\" target=\"_blank\">ACCT 2010</a> AND (<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"2160\" href=\"/review/CIVL2160\" target=\"_blank\">CIVL 2160</a> OR <a class=\"course-link\" data-subject=\"IEDA\" data-code=\"2520\" href=\"/review/IEDA2520\" target=\"_blank\">IEDA 2520</a> OR <a class=\"course-link\" data-subject=\"IEDA\" data-code=\"2540\" href=\"/review/IEDA2540\" target=\"_blank\">IEDA 2540</a> OR <a class=\"course-link\" data-subject=\"ISOM\" data-code=\"2500\" href=\"/review/ISOM2500\" target=\"_blank\">ISOM 2500</a> OR <a class=\"course-link\" data-subject=\"LIFS\" data-code=\"3150\" href=\"/review/LIFS3150\" target=\"_blank\">LIFS 3150</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2411\" href=\"/review/MATH2411\" target=\"_blank\">MATH 2411</a>)",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"2203\" href=\"/review/FINA2203\" target=\"_blank\">FINA 2203</a>",
-    "rating_content": 4.09,
-    "rating_teaching": 3.88,
-    "rating_grading": 3.92,
-    "rating_workload": 3.57,
-    "review_count": 300,
+    "rating_content": 4.08,
+    "rating_teaching": 3.87,
+    "rating_grading": 3.91,
+    "rating_workload": 3.56,
+    "review_count": 302,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -46,7 +46,7 @@
       {
         "id": 933,
         "name": "GOYAL, Vidhan Krishan",
-        "count": 72
+        "count": 73
       },
       {
         "id": 237,
@@ -61,7 +61,7 @@
       {
         "id": 979,
         "name": "MACKAY, Peter",
-        "count": 37
+        "count": 38
       },
       {
         "id": 240,
@@ -91,6 +91,76 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "P6SDAibHHwk5o4AD5JTTpKfHwhJ1SNLl",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 933,
+          "name": "GOYAL, Vidhan Krishan",
+          "rating": 1
+        }
+      ],
+      "author": "Cherrycw",
+      "date": "Mar 09, 2024",
+      "title": "",
+      "comment_content": "Introduction to the course; Intro to Corporate Finance Time Value of Money: An Introduction <br />Time Value of Money: Valuing Cash Flow Streams<br />Interest Rates<br />Investment Decision Rules<br />Financial Statement Analysis<br />MID-TERM EXAM<br />Fundamentals of Capital Budgeting<br />Bonds<br />Stock Valuation<br />Risk and Return in Capital Markets<br />Systematic Risk and the Equity Risk Premium<br />The Cost of Capital",
+      "comment_teaching": "fine, have video after calss<br />midterm and exams are difficult",
+      "comment_grading": "MyLAb assignment 20%<br />midterm 35%<br />final 45%<br /><br />midterm: mutiple choice question<br />final: mutiple choice, short question, and open end question<br /><br />i think goyal seldom give c range",
+      "comment_workload": "10 MyLab Assignments(1 per week)<br />1 midterm 1 final",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
+    {
+      "hash": "X21yB8l7yrcpL0dEmraTRZctNYaYSN2s",
+      "semester": "2023-24 Spring",
+      "instructors": [
+        {
+          "id": 979,
+          "name": "MACKAY, Peter",
+          "rating": 0
+        }
+      ],
+      "author": "专评课程",
+      "date": "Mar 09, 2024",
+      "title": "万恶之源，HKUST之最狂最恶之独裁者 – Peter Mackay",
+      "comment_content": "诸君，我喜欢战争。<br /><br />我并非有意逗笑别人。在历史的长河中，人类已经证明了战争的多面性：它催化科技进步，于好胜心支配下的创造欲诞生出远超平时的发展速度达成短时间内科技爆炸性增长效果，无数惊世杰作便如此出现。<br /><br />而如果将这句话放入对课程的鉴赏和理解的语境中时，也同样成立。两个不同观点之人的对线虽然很可能在最后依旧无法说服彼此，但在交锋的过程中穷尽心智，尔虞我诈，竭尽全力从课程里寻找对自己有利的文辞、引经据典将自我的观点包装，更有在战斗过程中不时诞生的奇思妙想甚至在碰撞之下所产生的新的观点与看法。这种冲突是正向的，能促进自我和他人对课程的理解。<br /><br />但在FINA2303中，我却对这种战争唯恐避之不及。<br /><br />Peter Mackay，这是令人闻风丧胆的名字。有人说，曾有恶人之名号，能止幼婴半夜啼哭，而我说，他们还是太过于井底之蛙，没有听说过Peter的大名。HKUST – World Class in Asia – 的课程的胡乱程度我想已无需更多的溢美之词，这唯恐天下不乱的课程安排，毫无章法的教课，早已名扬五湖四海。但在其中遥遥领先的毫无疑问是我们Peter桑的课程。<br /><br />当我们点开ustspace的FINA2303课程，Peter桑的大名赫然在目。清一色的D-E评分。那零星几个给予C评分之人，想必都是历经生死的战士，在此我献上至高的敬意。愤懑，困惑，绝望 - 饶是HKUST的学生也无法救赎自己。当然，人生来便不曾平等，于是人人目睹Peter桑的课程继续飞扬跋扈，却无能为力，没有改变现状的可能性。对此，我也爱莫能助。<br /><br />作为大一商院必修课的FINA2303，本身就有着举足轻重的重要性。诸位不难发现，在这一季度FINA大一只开了五节课，其中四节都是由我们Peter桑来传授。数学出色的诸位很容易算出一个令人瞠目结舌的结果 – 没错！大部分HKUST (e.g. World Class in Asia) 新生的生死由他定夺！每每人们谈论到GPA或CGA，那仿佛是天谴般令人绝望，而占了3 credits的FINA 2303便是其中的佼佼者。那么教授如此占据战略性重要地位的课程的Peter桑做得如何呢？",
+      "comment_teaching": "人对于知识的渴望源于本我对更高层次的追求 - 于此，人依赖自我之精神，渡入超我的境地。但知识不仅仅记载在无数文本中，仅仅是字里行间又如何体现知识的宏伟？于是人口口相传，于是知识也就这么一代代被传递。这是人类薪火相传，代代守望的瑰宝。但若是那被人歌颂的教师玩忽职守呢？<br /><br />Peter桑之极罪无法在短短数语概括，是我文笔欠佳。有云人有七宗罪，我当然无法为他人如此断罪。小生不曾历经极恶，遂只能给出不才的4点罪恶。<br /><br />1. 失魂落魄的课堂氛围。被IPRS所逼，所有人无法逃脱这无尽的囹圄。当近乎百人一齐坐在狭小的空间内，仿若吃剩下的饭菜侵浸在泔水中难以忍受。有人云，人生而孤独，在孤独的罅隙间人悲伤不可语，遂一生都在尘世之海中漂泊。但每当我们进入Peter桑的课堂中，我便听到了这份悠远而绝望的悲伤。鲁迅，你错了，人与人的悲伤，是相通的。<br /><br />2. 行将就木的课堂传授。Peter桑的口吻犹若大限将至的可怜人，又如在混沌中囚禁了百年的罪人般死寂如水。每每他一开口，无论是在放眼全网催眠效果都鹤立鸡群的blended learning video里，又或是课上他这比莎士比亚穷极一生所能想象的黑魔法还要更加能让人昏昏欲睡的，那一成不变的语气，我都有一种生而为人我很抱歉的绝望。有人吟诵着伟人的功绩，名留青史。而我，自诩如今也是一个伟人，我们都是。毕竟能在Peter桑课上存活的我们，早已经历无数春夏秋冬。<br /><br />3. 无穷无尽的废话语论。英语有词叫tautology，字面意思为无谓的废话。有些诗人反其道而行之，以tautology不断推敲诗歌之主旨，又有人精于朗诵，以tautology堆砌自我的情感。而我们的Peter桑显然也是如此精通tautology的文学家，演说家（鉴于第2条，此点存疑），朗诵家（鉴于第2条，此点存疑）。 唯独，哎，不是一个教授。当课程开始的时候，当我看到blended learning video的名号的时候，我很想笑 - 请不要误会，我不是在笑竟有人如此厚颜无耻直接放弃教课地上一躺教课不再开摆不干，我是在笑嘲笑知识竟是如此容易获得的事物。随即我转念一想，如若知识竟是如此轻易便可取得之物，我还去何必去那课堂听人念经呢？但我们聪明的Peter桑运筹帷幄，早已料到有人会如此偷懒，所以大手一挥，简简单单一个IPRS便能将所有人捆绑在周五的下午，与他一同再听一遍视频。浪漫，不过于此。<br /><br />4. 凌乱不堪的课件材料。诸位想必都目睹过Peter桑堪称穷凶极恶的PPT。轻飘飘一句“毫无美感”可无法概括他所制作的PPT。这是无尽的黑 – 我想起这句话。人，是视觉生物。经常有人说，你的外貌是他人对你的第一印象，而这句话同样能放在如此的语境之下。Peter桑对美的概念是匮乏的。他不是不懂美。他是与人类一般向的审美有着根本性的深不见底的沟壑的差距。乱七八糟毫无章法的贴图，能引起人真正意义上生理不适的色彩搭配，和放大镜也无法一窥究竟的字体 – 这便是他所有 – 我的意思是所有 – 的课件带给我的感受。你能制作出这些课件，我表示真心佩服。<br /><br />而促使这一切发生，对学生反馈视而不见的祂 – HKUST (e.g. World Class in Asia) – 毫无疑问和Peter桑为沆瀣一气之流。如此二位一丘之貉，他们的相遇，是HKUST (e.g. World Class in Asia) 学子的幸事。",
+      "comment_grading": "我并非不明事理之人。这事，的确不是Peter桑之过。<br />HKUST (e.g. World Class in Asia) 的给分机制 – 难逢敌手。<br /><br />每每有人跟我提起QS排名等事，我不置可否 – 毕竟，这可是Oxbridge高于Princeton，Caltech，Stanford，Yale，Harvard，UChicago等等，UCL IC USYD高于，Upenn，Columbia，UCB等等，HKUST (e.g. World Class in Asia) 高于 Dartmouth，Brown，Rice，Vandy，Notre Dame，WUSTL等等的榜单啊！<br />如此的榜单，真实可信；一言九鼎；驷马难追。",
+      "comment_workload": "每个人对一切概念的定义是不同的。比如幸福，比如不幸，比如苦难。但人之所以为人，便是因为虽然这些矛盾有些可解，有些不可解，或有遗憾，或有愤懑，但最终经历了春夏秋冬过后，人还是会回到原本生活的轨迹之中。但有些事，令人怅然，恸苦，无奈。<br /><br />比如Peter桑的ICA。<br /><br />试问诸君，何为作业？我已不再愿意阐述作业这一概念的起源，也无心聆听诸位对作业本身的态度，但有一点共同的则是：作业是检测学术的标准之一。而若是以超脱于课程本身的课件来当做测量学生学术情况的作业，本身就让人疑惑。而我们的Peter桑却对此乐此不疲，甚至将ICA当做期中和期末的绊脚石。这不禁又让我发笑，如若ICA是如此重要之物，那怪不得他将这本身作为每一节课堂的讨论中心了。当与课程毫无关系的ICA沾染了Peter桑独特的审美机制时，所造之物非常人所能受也。而每周，HKUST (e.g. World Class in Asia) 学子都经历着这些。窦娥冤，哦，你为何是窦娥冤？肯定，是生前见到如此不祥之物了吧。<br /><br />人是社会动物 – 这句话有着争议。但这争议本身所揭露的不就是人天生渴求着他人的鼓励和赞同吗？既然人是社会动物，人就要习惯如何在社会中生存，乃至生活。生老病死，不可避。出生，上学，工作，死亡 – alas, such a vicissitude of this vale of tears! 诸君想必都尚且在上学这一阶段。然而我们伟大的Peter桑料事如神，知道社会早已不是学校那般的笼子里的金丝雀，也不是被神保护着的纯白色的象牙塔，于是潜心制作了每周一次的mini quiz，让他的学子在步入社会前就感受到上班的规律，同时感受到不管quiz结果如何，制作这些的老板从不帮忙的打工人的困境。临表涕零，难道Peter桑早早就在第五层了吗！不愧是HKUST (e.g. World Class in Asia) 所招聘的教授！<br /><br />加缪的零度写法震古烁今，以默尔索默这一人物塑造了荒诞主义的符号。他超脱于社会之外，以从始至终超然的态度俯瞰世间纷纷扰扰。而我说，加缪之流，可无法理解荒谬之本论，毕竟，他可没接触过我们的Peter桑。乔伊斯纵使有万般奇才，以书铸世，创造出堪称创世的尤利西斯，那如海洋般狂气诡谲的意象群，无穷无尽的奇诡魔幻推敲出的哲学主旨，亦无法和Peter桑的课程内核相比。一般向的虚无主义，怎胆敢染指他的课程？毕竟，星星点点之火，如何和皓月相比？<br /><br />Peter Mackey，乃神人也。<br /><br />所有人，都应该来听他的课。这是旨意。这是不可说之事。这是，祂之本论。",
+      "rating_content": 1,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 6,
+      "vote_count": 7,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "S4LGuuWFkDrlaFIrS69sGsFzSx8OmrcI",
       "semester": "2023-24 Fall",
