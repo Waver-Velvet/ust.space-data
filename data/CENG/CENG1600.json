@@ -26,10 +26,10 @@
     "corequisites": "",
     "exclusions": "",
     "rating_content": 4.08,
-    "rating_teaching": 3.65,
-    "rating_grading": 4.6,
-    "rating_workload": 3.99,
-    "review_count": 75,
+    "rating_teaching": 3.62,
+    "rating_grading": 4.57,
+    "rating_workload": 3.97,
+    "review_count": 76,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -45,11 +45,46 @@
       {
         "id": 1692,
         "name": "LAI, Yong",
-        "count": 4
+        "count": 5
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "gHetmh4yeRutP1fCon6MJkyHVW8jG8j1",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1692,
+          "name": "LAI, Yong",
+          "rating": 0
+        }
+      ],
+      "author": "meaniechu",
+      "date": "Mar 14, 2024",
+      "title": "weird course",
+      "comment_content": "basic biotech courses which wont be too hard for LIFS students bc its a repetition of what we learnt (central dogma). also includes business overview and drug use",
+      "comment_teaching": "i get so bored easily in his class and his grading is so ambiguous and mysterious. no recordings so its ur wish if u want to attend his class.",
+      "comment_grading": "-2 quizzes, 15% will be taken from the quiz with the highest mark<br />-1 group project and the task is to make a biotech company that aims to solve health problems while taking account of funding, business opportunities etc.<br />10% project plan<br />10% final project poster<br />15% poster presentation<br />5% class participation(there was never anyone who participate so idk for this one)<br /><br />I didn&#039;t get any feedback about my coursework so i did not know how my final graded was graded. Don&#039;t expect a super high grade bc its super weird.<br />Final grade: B",
+      "comment_workload": "so much workload that doesnt really give back much. i gave up halfway and most of my friends ends up not coming to class after both quizzes.",
+      "rating_content": 4,
+      "rating_teaching": 1,
+      "rating_grading": 2,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "tyYK2k5LHWZXwbDs64Xn02ohonFploG4",
       "semester": "2023-24 Fall",

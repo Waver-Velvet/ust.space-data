@@ -35,11 +35,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"ECON\" data-code=\"2113\" href=\"/review/ECON2113\" target=\"_blank\">ECON 2113</a>, <a class=\"course-link\" data-subject=\"ECON\" data-code=\"3113\" href=\"/review/ECON3113\" target=\"_blank\">ECON 3113</a>, <a class=\"course-link\" data-subject=\"ECON\" data-code=\"3133\" href=\"/review/ECON3133\" target=\"_blank\">ECON 3133</a>, <a class=\"course-link\" data-subject=\"SOSC\" data-code=\"1440\" href=\"/review/SOSC1440\" target=\"_blank\">SOSC 1440</a>, Level 3 or above in HKDSE Economics",
-    "rating_content": 4.41,
-    "rating_teaching": 4.27,
-    "rating_grading": 4.01,
+    "rating_content": 4.4,
+    "rating_teaching": 4.26,
+    "rating_grading": 4,
     "rating_workload": 4.27,
-    "review_count": 207,
+    "review_count": 208,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -50,7 +50,7 @@
       {
         "id": 139,
         "name": "SIU, Kam Wing",
-        "count": 123
+        "count": 124
       },
       {
         "id": 144,
@@ -105,6 +105,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "k35piElPJstLmzg7Df7KI9HBcHjVSvo6",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 139,
+          "name": "SIU, Kam Wing",
+          "rating": 1
+        }
+      ],
+      "author": "Casual",
+      "date": "Mar 13, 2024",
+      "title": "",
+      "comment_content": "Learn about the basics of microeconomics.<br />Supply and demand curve<br />Market force<br />Tax-Revenue Model",
+      "comment_teaching": "Very enthusiastic and good story telling. Too much story telling sometimes. Instructor repeats his stories quite often as well and it&#039;s repetitive and boring.",
+      "comment_grading": "Bad curve.<br />Throughout the course I received 0.5 SD above mean for all exams and full marks on all assignments. This netted B.<br /><br />Assignments<br />2 Mid term<br />1 Finals",
+      "comment_workload": "No workload except 20 min hw every week. Fairly reasonable. Technically textbook reading is an option but not required. The homework is recommended as it&#039;s pretty straight forward and being able to adequately complete the hw is a good indicator for exam success.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "EbqNPhvAchJVYjuJBB8Y7gLPSE0qtC5h",
       "semester": "2022-23 Spring",

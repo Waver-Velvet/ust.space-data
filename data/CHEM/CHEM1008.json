@@ -17,11 +17,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "Level 3 or above in HKDSE 1/2x Chemistry OR HKDSE 1x Chemistry, any CHEM courses at or above 1004-level, <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1120\" href=\"/review/CORE1120\" target=\"_blank\">CORE 1120</a>",
-    "rating_content": 4.62,
-    "rating_teaching": 4.66,
-    "rating_grading": 4.21,
+    "rating_content": 4.63,
+    "rating_teaching": 4.67,
+    "rating_grading": 4.23,
     "rating_workload": 4.97,
-    "review_count": 29,
+    "review_count": 30,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -32,11 +32,46 @@
       {
         "id": 40,
         "name": "TSANG, Ming Wai Emily",
-        "count": 27
+        "count": 28
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "9b16P5fCWbVMtU9O33eq2hFVLXCFVajf",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 40,
+          "name": "TSANG, Ming Wai Emily",
+          "rating": 1
+        }
+      ],
+      "author": "Sherry Wu",
+      "date": "Mar 13, 2024",
+      "title": "",
+      "comment_content": "The content is really easy and it’s suitable for students who have no chemistry fundamental.",
+      "comment_teaching": "Prof. Tsang teaches really good. She would explain those concepts in a vivid way. No attendance. Students could choose to see the recording instead of going to the lecture.",
+      "comment_grading": "Because the content is not difficult, students only need to review the lecture notes and they will get a good grade.",
+      "comment_workload": "Workload is small. There’s no homework but only two quizzes. The quiz is online and open-book, open-note, as long as hand in it before the deadline. There would be practice questions which are very good for the exam.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "o7JQg310Foah99S1T7mwc2yc37ynwGm5",
       "semester": "2023-24 Fall",
