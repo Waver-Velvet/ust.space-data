@@ -23,11 +23,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"3310\" href=\"/review/CIVL3310\" target=\"_blank\">CIVL 3310</a>",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 4.33,
-    "rating_teaching": 4.17,
-    "rating_grading": 3.83,
-    "rating_workload": 3.67,
-    "review_count": 6,
+    "rating_content": 4.43,
+    "rating_teaching": 4.29,
+    "rating_grading": 4,
+    "rating_workload": 3.71,
+    "review_count": 7,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -38,16 +38,56 @@
       {
         "id": 74,
         "name": "CHAN, Chun Man",
-        "count": 6
+        "count": 7
       },
       {
         "id": 1697,
         "name": "PAN, Yuxin",
-        "count": 1
+        "count": 2
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "1ihL3B4VeNhhaTeuaoJQQfOC7EapndFV",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 74,
+          "name": "CHAN, Chun Man",
+          "rating": 1
+        },
+        {
+          "id": 1697,
+          "name": "PAN, Yuxin",
+          "rating": 1
+        }
+      ],
+      "author": "charles86",
+      "date": "Mar 14, 2024",
+      "title": "",
+      "comment_content": "This course offers in-depth design instructions on steel members and systems. Beyond practical implementation of design clauses, the professors are also teaching the underly structural mechanics behind, such as derviation of the Euler buckling strength of columns, which requires thorough and detailed stabilty analysis of columns.",
+      "comment_teaching": "The instructors of this course are obviously knowledgable about structural steel design. Some teaching materials are sourced from actual steel building design projects.",
+      "comment_grading": "Grading of assignments are pretty lenient as long as we demonstrated sufficient amount of works. Regular attendance of tutorials will assure you complete understanding of homeworks, and thus boost your overall grade.",
+      "comment_workload": "The assignments are pretty time demanding at the very beginning since we are required to be falrly familiar with the &quot;tedious&quot; design code clauses before working with a design problem.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "WVj8iWm1rl6CXAljI2QOlYFeK6uMtByo",
       "semester": "2022-23 Spring",

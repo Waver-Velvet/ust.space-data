@@ -23,11 +23,11 @@
     "prerequisites": "LANG 1403 OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1404\" href=\"/review/LANG1404\" target=\"_blank\">LANG 1404</a> OR LANG 1003 (prior to 2022-23)",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 1,
-    "rating_teaching": 1,
-    "rating_grading": 1,
-    "rating_workload": 1,
-    "review_count": 1,
+    "rating_content": 0,
+    "rating_teaching": 0,
+    "rating_grading": 0,
+    "rating_workload": 0,
+    "review_count": 0,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -36,35 +36,5 @@
     "contributor_has_more": false,
     "instructors": []
   },
-  "reviews": [
-    {
-      "hash": "azWgaPVVBtL89vbLaC8oeeq1iak9JnDM",
-      "semester": "2023-24 Fall",
-      "instructors": [],
-      "author": "LSJU",
-      "date": "Jan 02, 2024",
-      "title": "bad grade course in the bad grade courses",
-      "comment_content": "😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅",
-      "comment_teaching": "😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅",
-      "comment_grading": "Never gotten such a bad grade<br />One single course with only two credits can pull my cga down 0.06<br />Very subjective assessment. Only option is to please the teacher.<br />Those who disagree with me should beware. You just haven&#039;t encountered a situation where you were given a low grade because of a subjective evaluation. I have asked other teachers in cle to evaluate my work in this class, more than one teacher, and no one has given me a grade as low as the one I received in this class.<br />😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅",
-      "comment_workload": "😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅",
-      "rating_content": 1,
-      "rating_teaching": 1,
-      "rating_grading": 1,
-      "rating_workload": 1,
-      "has_midterm": false,
-      "has_final": false,
-      "has_quiz": false,
-      "has_assignment": true,
-      "has_essay": true,
-      "has_project": false,
-      "has_attendance": false,
-      "has_reading": false,
-      "has_presentation": true,
-      "upvote_count": 0,
-      "vote_count": 2,
-      "comment_count": 0,
-      "attachments": []
-    }
-  ]
+  "reviews": []
 }
