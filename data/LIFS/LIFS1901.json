@@ -33,11 +33,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "Level 3 or above in HKDSE 1x Biology",
-    "rating_content": 3.98,
-    "rating_teaching": 3.53,
-    "rating_grading": 4.05,
+    "rating_content": 3.99,
+    "rating_teaching": 3.52,
+    "rating_grading": 4.06,
     "rating_workload": 4.36,
-    "review_count": 104,
+    "review_count": 105,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -53,7 +53,7 @@
       {
         "id": 477,
         "name": "TANG, Jessica Ce Mun",
-        "count": 61
+        "count": 62
       },
       {
         "id": 637,
@@ -73,6 +73,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "YjjEW7vDUmje7jpYLGlko6ra9bddM476",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 477,
+          "name": "TANG, Jessica Ce Mun",
+          "rating": 1
+        }
+      ],
+      "author": "cthlnmln",
+      "date": "Mar 15, 2024",
+      "title": "",
+      "comment_content": "Content was what can be expected for general biology:<br />Part one (content for midterms)<br />- the study of life<br />- chemistry of life<br />- molecules of life<br />- cell structure &amp; function<br />- plasma membrane structure and function<br />- energy and enzymes<br />- cellular respiration<br />Part two (content for final)<br />- determination of form and function of an organism<br />- making of a new life<br />- differences among living individuals<br />- (special topic) viruses<br /><br />note: might have missed some subtopics",
+      "comment_teaching": "Teaching style is just normal lecture, nothing special.",
+      "comment_grading": "Mostly midterm/final, but each teacher also had 5% ish for different assessments. For the first half, it was iPRS questions for each class (attendance checking), and for the second half it was an assignment about DNA sequencing (each person was given a set of mutations in the form of amino acids, and had to find the original DNA sequence).",
+      "comment_workload": "",
+      "rating_content": 5,
+      "rating_teaching": 3,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "YSv2ZfShPfeOyi8ox6bAToWu2VuFKDgA",
       "semester": "2022-23 Fall",
