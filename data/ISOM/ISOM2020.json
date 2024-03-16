@@ -22,11 +22,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"1021\" href=\"/review/COMP1021\" target=\"_blank\">COMP 1021</a>",
-    "rating_content": 4.04,
-    "rating_teaching": 4.09,
+    "rating_content": 4.03,
+    "rating_teaching": 4.1,
     "rating_grading": 3.34,
-    "rating_workload": 3.2,
-    "review_count": 70,
+    "rating_workload": 3.23,
+    "review_count": 71,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -37,7 +37,7 @@
       {
         "id": 1196,
         "name": "HONG, Weiyin",
-        "count": 54
+        "count": 55
       },
       {
         "id": 1108,
@@ -67,7 +67,7 @@
       {
         "id": 949,
         "name": "LAI, Sum Yu",
-        "count": 3
+        "count": 4
       },
       {
         "id": 1602,
@@ -83,10 +83,60 @@
         "id": 1777,
         "name": "TSE, Chris",
         "count": 1
+      },
+      {
+        "id": 1866,
+        "name": "CHEN, Jianqing",
+        "count": 1
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "1GtKvowMUTCydZD3PfE09AE7OPFFXHOn",
+      "semester": "2023-24 Spring",
+      "instructors": [
+        {
+          "id": 1866,
+          "name": "CHEN, Jianqing",
+          "rating": 1
+        },
+        {
+          "id": 1196,
+          "name": "HONG, Weiyin",
+          "rating": 1
+        },
+        {
+          "id": 949,
+          "name": "LAI, Sum Yu",
+          "rating": 1
+        }
+      ],
+      "author": "don't give up",
+      "date": "Mar 17, 2024",
+      "title": "Python for Babies",
+      "comment_content": "Very easy. Just like Samuel said it&#039;s literally python for babies. If you got python background, I think you don&#039;t need to learn anything new. (but you can catch up easily even if you don&#039;t have any prior knowledge) <br />Well, at least I can put &quot;python: basic&quot; in my resume now<br /><br />The schedule is poorly designed. For a week, you have to watch the pre-lecture videos first (and do the quiz), and then you attend lecture and lab, which means you have to learn the same shit THREE TIMES a week. A total waste of time, I suggest skipping the lectures which don&#039;t take attendance<br />They claim that these three have different focuses, but in fact 80% of the content is being repeated<br /><br />If I were to design the syllabus, I&#039;d rather cutting the lectures and keep labs only, or just make it a 2 cred course and enrich the content. Anyway I don&#039;t think coding is less important than &quot;business ethics&quot; in business",
+      "comment_teaching": "Prof Hong:<br />She&#039;s not an official instructor of our class, but we have to watch her pre-lecture recordings. Most of our learning come from her videos and she explains everything briefly and clearly. Teaches quite well.<br /><br />Prof Chen:<br />He&#039;s a visiting prof so I won&#039;t leave too much comment. Most of the time he&#039;s just demonstrating what&#039;s been taught in the videos (very boring).<br /><br />TA Samuel Lai:<br />Very funny guy, having his lab class is like listening to stand-up comedy. His teaching is excellent too, always show us different approaches to solving the problems.<br />Also he taught us how to &quot;summon&quot; pets in Google Colab. The most useful thing I&#039;ve learned in this course.",
+      "comment_grading": "10% weekly quiz<br />20% lab submission <br />70% final<br /><br />Grade is not released yet but I think it&#039;ll be very competitive since the stuff is easy",
+      "comment_workload": "Low workload. Every week only 1 quiz for pre-lecture videos (unlimited attempts) and 1 lab submission in class",
+      "rating_content": 3,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "CPDRbpm3SXAYfDnkKETPZCqwIcJ9K0vI",
       "semester": "2023-24 Fall",
