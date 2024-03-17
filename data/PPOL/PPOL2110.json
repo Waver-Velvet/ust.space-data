@@ -18,11 +18,11 @@
     "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1401\" href=\"/review/LANG1401\" target=\"_blank\">LANG 1401</a> OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1402\" href=\"/review/LANG1402\" target=\"_blank\">LANG 1402</a> OR LANG 1403 OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1404\" href=\"/review/LANG1404\" target=\"_blank\">LANG 1404</a> OR LANG 1002 (prior to 2022-23)",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 4.5,
+    "rating_content": 4.57,
     "rating_teaching": 5,
-    "rating_grading": 4.33,
-    "rating_workload": 3.67,
-    "review_count": 6,
+    "rating_grading": 4.43,
+    "rating_workload": 3.86,
+    "review_count": 7,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -33,11 +33,46 @@
       {
         "id": 651,
         "name": "SHARIF, Naubahar",
-        "count": 6
+        "count": 7
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "Ep4j8LkSBzKGR0IFvlmiYffPZNeCs0Lr",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 651,
+          "name": "SHARIF, Naubahar",
+          "rating": 1
+        }
+      ],
+      "author": "USER789",
+      "date": "Mar 17, 2024",
+      "title": "GREAT COURSE!",
+      "comment_content": "Module 1: we explore the theoretical and conceptual foundations that shape our understanding of science, technology, innovation, and their interactions with society. <br /><br />Module 2: Focuses on the scientific and technological accomplishments in ancient and medieval China, examining the social, political, and cultural context in which these achievements occurred. <br /><br />Module 3: Investigates the Industrial Revolution, its prerequisites, and its impact, encouraging students to critically analyze the divergence between China and the West in terms of modern science and technology development. This module addresses the well-known &quot;Needham question&quot;: Why did the Industrial Revolution fail to occur in China? <br /><br />Module 4: Provides a comprehensive review of scientific and technological advancements in modern and contemporary Chinese society, employing the innovation systems conceptual approach. While incorporating common-sense perspectives and typical social science content, this course offers unique insights into Chinese history and social studies.",
+      "comment_teaching": "The professor is highly knowledgeable and delivers engaging lectures with a clear accent. They share their research insights and keep us updated on current developments. The teaching assistants (TAs) are helpful, encouraging participation and providing interesting information. They can also grant deadline extensions for justifiable reasons when students have a heavy workload. Overall, the professor and TAs create an interactive and engaging learning environment.",
+      "comment_grading": "Class participation - 20%<br />Written assignment - 40%<br />Quizzes - 20%<br />Group presentation - 20%",
+      "comment_workload": "The workload is considered medium because you are only required to attend Wednesday classes for participation, but it does require thorough preparation, writing four essays and a group presentation at the end of the semester.<br /><br />If you enjoy active participation and writing essays, you&#039;ll enjoy the workload and find the course not so hectic.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "ESArk9k4i4HIotjuztAAzpg8ZUeHMHY3",
       "semester": "2023-24 Fall",
