@@ -15,11 +15,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"LANG\" data-code=\"1411\" href=\"/review/LANG1411\" target=\"_blank\">LANG 1411</a>, <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1412\" href=\"/review/LANG1412\" target=\"_blank\">LANG 1412</a>, <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1413\" href=\"/review/LANG1413\" target=\"_blank\">LANG 1413</a>, <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1414\" href=\"/review/LANG1414\" target=\"_blank\">LANG 1414</a>, <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1415\" href=\"/review/LANG1415\" target=\"_blank\">LANG 1415</a>, <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1120\" href=\"/review/LANG1120\" target=\"_blank\">LANG 1120</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1121\" href=\"/review/LANG1121\" target=\"_blank\">LANG 1121</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1122\" href=\"/review/LANG1122\" target=\"_blank\">LANG 1122</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1123\" href=\"/review/LANG1123\" target=\"_blank\">LANG 1123</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1124\" href=\"/review/LANG1124\" target=\"_blank\">LANG 1124</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1125\" href=\"/review/LANG1125\" target=\"_blank\">LANG 1125</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1126\" href=\"/review/LANG1126\" target=\"_blank\">LANG 1126</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1127\" href=\"/review/LANG1127\" target=\"_blank\">LANG 1127</a> (prior to 2022-23)",
-    "rating_content": 3,
-    "rating_teaching": 2.5,
-    "rating_grading": 3,
-    "rating_workload": 2.5,
-    "review_count": 2,
+    "rating_content": 2.67,
+    "rating_teaching": 2,
+    "rating_grading": 2.33,
+    "rating_workload": 2.33,
+    "review_count": 3,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -30,11 +30,46 @@
       {
         "id": 1731,
         "name": "YU, Wai Ying",
-        "count": 2
+        "count": 3
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "DEak3nhtmEghtsoU0sMcMasx5Bi0tE6U",
+      "semester": "2023-24 Spring",
+      "instructors": [
+        {
+          "id": 1731,
+          "name": "YU, Wai Ying",
+          "rating": 1
+        }
+      ],
+      "author": "Xxkdy",
+      "date": "Mar 18, 2024",
+      "title": "无甚用的课",
+      "comment_content": "课程材料对所有评估没有什么帮助。教学和里面的内容不很一致，并且没有什么逻辑，不用期望对个人写作能力并没有提升，什么水平进去的什么水平出去，带走的只有红温的你。",
+      "comment_teaching": "难以想象中文课老师会有这么明显的口音，她甚至还说口音不影响评估，在给自己找台阶吧，真是很好笑。抛去口音问题，有些初中生都会的读音都说不对，中文水平到底如何也让人怀疑。授课水平也实在平平。",
+      "comment_grading": "评分只有主观没有客观，阴阳怪气还mean。退一步讲如果中文水平高也OK，但这种中文水平且普信的instructor在那里指指点点就很恶心。",
+      "comment_workload": "workload略大，到底如何也得看卷不卷。",
+      "rating_content": 2,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 2,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "YVHZV7L3GDzKQUqeXvKR7mPwZJk6jerv",
       "semester": "2023-24 Fall",
@@ -100,8 +135,8 @@
       "has_attendance": true,
       "has_reading": true,
       "has_presentation": true,
-      "upvote_count": 11,
-      "vote_count": 12,
+      "upvote_count": 12,
+      "vote_count": 13,
       "comment_count": 1,
       "attachments": []
     }

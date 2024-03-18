@@ -24,11 +24,11 @@
     "prerequisites": "LANG 1002",
     "corequisites": "",
     "exclusions": "IELTS - Band 7 or above in overall and Band 6.5 or above in each part of the test or equivalent",
-    "rating_content": 3.32,
-    "rating_teaching": 4.1,
-    "rating_grading": 3.91,
-    "rating_workload": 3.33,
-    "review_count": 157,
+    "rating_content": 3.31,
+    "rating_teaching": 4.08,
+    "rating_grading": 3.89,
+    "rating_workload": 3.32,
+    "review_count": 158,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -72,6 +72,11 @@
         "count": 6
       },
       {
+        "id": 1417,
+        "name": "CHEUNG, Anisa",
+        "count": 5
+      },
+      {
         "id": 411,
         "name": "MEGAN, Melissa Jane",
         "count": 4
@@ -99,11 +104,6 @@
       {
         "id": 1416,
         "name": "CHAN, Sumie",
-        "count": 4
-      },
-      {
-        "id": 1417,
-        "name": "CHEUNG, Anisa",
         "count": 4
       },
       {
@@ -274,6 +274,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "UIUEjpd9mMDqPJudJU8p0uyM48O4qkmV",
+      "semester": "2021-22 Spring",
+      "instructors": [
+        {
+          "id": 1417,
+          "name": "CHEUNG, Anisa",
+          "rating": 0
+        }
+      ],
+      "author": "Taroooo",
+      "date": "Mar 19, 2024",
+      "title": "Must swap! Don&#039;t hesitate !!",
+      "comment_content": "Beauty and happiness",
+      "comment_teaching": "Cheung, Anisa provided many tasks for us to complete that other instructors did not. She constantly set up breakout rooms for us to discuss, and she would occasionally join in. She&#039;d also ask someone in the breakout room to record it and upload it to Google Drive so she could see it. If you couldn&#039;t answer her queries, she&#039;d have a negative impression of you.",
+      "comment_grading": "The grading is not good. <br />Maybe based on her impression, people with good impressions have better marks.",
+      "comment_workload": "Fair workload.",
+      "rating_content": 2,
+      "rating_teaching": 1,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "qpBicccpKX6xpSXMOB2f7e9iXeqL3wl8",
       "semester": "2021-22 Fall",

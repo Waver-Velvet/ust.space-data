@@ -15,11 +15,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "IDPO 1020",
-    "rating_content": 3.59,
-    "rating_teaching": 3.63,
-    "rating_grading": 3.3,
-    "rating_workload": 3.63,
-    "review_count": 27,
+    "rating_content": 3.61,
+    "rating_teaching": 3.61,
+    "rating_grading": 3.25,
+    "rating_workload": 3.64,
+    "review_count": 28,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -30,22 +30,22 @@
       {
         "id": 765,
         "name": "NAM, Sai Lok",
-        "count": 15
+        "count": 16
       },
       {
         "id": 384,
         "name": "JAISINGH, Jeevan",
-        "count": 12
+        "count": 13
       },
       {
         "id": 1572,
         "name": "VONG, Kenward",
-        "count": 10
+        "count": 11
       },
       {
         "id": 978,
         "name": "SAUERWEIN, Meike",
-        "count": 7
+        "count": 8
       },
       {
         "id": 1594,
@@ -80,6 +80,56 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "k2P8JVnBdszKhS59kQMrOjFjG1gAQcSY",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 765,
+          "name": "NAM, Sai Lok",
+          "rating": 1
+        },
+        {
+          "id": 384,
+          "name": "JAISINGH, Jeevan",
+          "rating": 1
+        },
+        {
+          "id": 1572,
+          "name": "VONG, Kenward",
+          "rating": 1
+        },
+        {
+          "id": 978,
+          "name": "SAUERWEIN, Meike",
+          "rating": 1
+        }
+      ],
+      "author": "Ryan P",
+      "date": "Mar 18, 2024",
+      "title": "",
+      "comment_content": "Teach some cognitive thinking like different bias and fallacy, quite fun for the first half of the lectures. We are then divided to classes where different professors form the engineering faculty, business school and the social science school&nbsp;&nbsp;will deliver different content according to their faculties that are somehow related to cognitive thinking.",
+      "comment_teaching": "The professors are nice and interactive.",
+      "comment_grading": "The grading is absurd, got B+ at last even though I got full marks in quiz and two A for my essays and one B+ in my essay scores.",
+      "comment_workload": "The workload is not that high, 2 quizzes and three essays ,no mid terms and finals",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 2,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "gOOjofnGswP20Cx9V1lzAZXcvZxxhYKw",
       "semester": "2023-24 Fall",

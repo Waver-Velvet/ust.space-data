@@ -27,7 +27,7 @@
     "rating_teaching": 3.75,
     "rating_grading": 4.07,
     "rating_workload": 4.25,
-    "review_count": 309,
+    "review_count": 310,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -48,7 +48,7 @@
       {
         "id": 1278,
         "name": "GONG, Robin Kaiji",
-        "count": 39
+        "count": 40
       },
       {
         "id": 140,
@@ -128,6 +128,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "Zhfo8JnwXjP1K80q1pro3fYRbzbTs1Jd",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1278,
+          "name": "GONG, Robin Kaiji",
+          "rating": 1
+        }
+      ],
+      "author": "hiandbye",
+      "date": "Mar 18, 2024",
+      "title": "",
+      "comment_content": "Part 1: Introduction<br />1 Intro + Chapter 2: The Economic Problem (1)<br />2 Chapter 2: The Economic Problem (2)<br />Part 2: How Markets Work<br />3 Chapter 3: Demand and Supply (1)<br />4 Chapter 3: Demand and Supply (2)<br />5 Chapter 4: Elasticity (1)<br />6 Chapter 4: Elasticity (2)<br />7 Chapter 5: Efficiency and Equity<br />8 Chapter 6: Government Actions in Markets<br />9 Chapter 7: Global Markets in Action<br />Part 3: Households’ Choices<br />Chapter 8: Utility and Demand<br /> Chapter 9: Possibilities, Preferences, and Choice<br />Part 4: Firms and Markets<br />12 Chapter 10: Organizing Production<br />13 Chapter 11: Output and Costs<br />14 Midterm Review/Q&amp;A<br />Midterm Exam<br />15 Chapter 12: Perfect Competition (1)<br />16 Chapter 12: Perfect Competition (2)<br />17 Chapter 13: Monopoly<br />18 Chapter 14: Monopolistic Competition<br />19 Chapter 15: Oligopoly (1)<br />20 Chapter 15: Oligopoly (2)<br />Part 5: Market Failure and Government<br />21 Chapter 16: Public Choices, Public Goods, and Healthcare<br />22 Chapter 17: Externalities<br />Part 6: Factor Markets, Inequality, and Uncertainty<br />23 Chapter 18: Markets for Factors of Production<br />24 Final Review/Q&amp;A<br /><br />Before midterm: very similar to DSE<br />After midterm: a little bit difficult. Make sure you attend the lecture and ask the professor if you don&#039;t understand.",
+      "comment_teaching": "Slides are easy to follow. He briefly explains it. If the theory is difficult, he will draw it again on the whiteboard, which allows you to follow how the graph works. Good time management which will not rush the slides. Nearly most classes can finish on time. He gives us 3 years of past papers, which is similar to the format of the midterm and final exams. Great for practice.<br /><br />TA is good too. His tutorial has some extra exercises for you to revise the topic also. He has a time slog, which you can swap to another freely, you can make a day off by yourself.",
+      "comment_grading": "very good :D<br /><br />In-class quizzes 5%<br />6 in-class quizzes in total, 1% each (can miss one)<br />Those in-class quizzes are only 1 easy MCQ which serves as attendance and makes sure everyone can follow the contents, right or wrong doesn&#039;t matter.<br /><br /><br />Problem Sets 20% (each assignment 3% and peer evaluation 5%) <br />Long questions related to the content that he covered.<br /><br />Midterm Exam 30%<br />Final Exam 45%<br /><br />My grades:<br />In-class quizzes: 5/5<br /><br />Problem sets: <br />1. 98/100 (mean: 92.42)<br />2. 88/100 (mean: 89.65)<br />3. 90/100 (mean: 90.33)<br />4. 100/100 (mean: 96.17)<br />5. 95/100 (mean: 83.54)<br />Peer Evaluation:<br />You should give full to all your members if they have contributed to the assignment. <br /><br />Midterm: 89/100 (Mean: 71.82, Median: 72, SD: 15.08, Max: 96)<br />Final: not released<br />Final grade: A+ (5 in HKDSE Economics)<br /><br />He said he must give around 25% A range, and 40% B range at the beginning of the semester.",
+      "comment_workload": "Very low, only five problem sets for the whole semester were done in a group of four. If you have good members, you can do it very well. As each assignment usually has 4 questions, each of the group mates can do one.<br /><br />IPRS randomly comes out so you should attend every lecture.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "MnHWTeaOuiYReogLdT4toq5DyIQNQKso",
       "semester": "2023-24 Fall",

@@ -39,7 +39,7 @@
     "rating_teaching": 4.61,
     "rating_grading": 4.25,
     "rating_workload": 4.54,
-    "review_count": 909,
+    "review_count": 910,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -50,7 +50,7 @@
       {
         "id": 95,
         "name": "ROSSITER, David",
-        "count": 331
+        "count": 332
       },
       {
         "id": 99,
@@ -105,6 +105,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "M02Rm92QcXiLxDLKFztluQ4Tk3nDanJP",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 95,
+          "name": "ROSSITER, David",
+          "rating": 1
+        }
+      ],
+      "author": "ConanWang",
+      "date": "Mar 18, 2024",
+      "title": "",
+      "comment_content": "The main teaching content contains basics in Python (condition, grammar..), turtle, and a little algorithms(recursion)",
+      "comment_teaching": "Prof. David&#039;s teaching is engaging and he is willing to answer student&#039;s questions.",
+      "comment_grading": "The grading is not bad but requires you to be careful. I heard that some students got an MC question wrong and their grades simply dropped by one level.<br />I got full marks for all graded labs.<br />87/100 in midterm<br />100/100 in final<br />my final grade is A+",
+      "comment_workload": "The workload is relatively small compared to other cs courses.<br />Graded labs will provide students with the majority of codes and it simply makes the total workload smaller.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "HApLhE8ifU8BdxJD2ohrAQVx0bjg8Dj2",
       "semester": "2023-24 Fall",

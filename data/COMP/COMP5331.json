@@ -21,11 +21,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "CSIT 5210, MSBD 5002",
-    "rating_content": 4.72,
-    "rating_teaching": 4.79,
-    "rating_grading": 4.38,
-    "rating_workload": 4.07,
-    "review_count": 29,
+    "rating_content": 4.7,
+    "rating_teaching": 4.8,
+    "rating_grading": 4.37,
+    "rating_workload": 4.03,
+    "review_count": 30,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -36,11 +36,46 @@
       {
         "id": 134,
         "name": "WONG, Raymond Chi Wing",
-        "count": 23
+        "count": 24
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "REejHS0sL7sIAnTwH8tJXvNRduSsSaXu",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 134,
+          "name": "WONG, Raymond Chi Wing",
+          "rating": 1
+        }
+      ],
+      "author": "chpoonag",
+      "date": "Mar 18, 2024",
+      "title": "",
+      "comment_content": "",
+      "comment_teaching": "",
+      "comment_grading": "Seems that most of the classmates got 9X/100 in all assignments.<br /><br />Despite having prepared a marking scheme, exam grading is actually a bit vague / flexible in some cases. Make sure you go to paper checking session. (The paper checking session was just a few days after exam.)<br /><br />Also, the exam contains proof-required question(s), which is/are very similar to the assignments. <br /><br />My assignments scored around mean. <br />The group project, which was chosen to be research type, was not the top among the others.<br />Final exam is below mean for slightly more than 1 SD.<br />Got a B in this course.",
+      "comment_workload": "It&#039;s acceptable.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "73iTaUrfgqmJK1lHQGSa1nahFn3Y8O4Y",
       "semester": "2023-24 Fall",
