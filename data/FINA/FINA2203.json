@@ -33,11 +33,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"2303\" href=\"/review/FINA2303\" target=\"_blank\">FINA 2303</a>",
-    "rating_content": 4.31,
-    "rating_teaching": 3.89,
-    "rating_grading": 3.74,
-    "rating_workload": 3.63,
-    "review_count": 65,
+    "rating_content": 4.32,
+    "rating_teaching": 3.91,
+    "rating_grading": 3.76,
+    "rating_workload": 3.65,
+    "review_count": 66,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -48,7 +48,7 @@
       {
         "id": 237,
         "name": "PI, Lynn",
-        "count": 28
+        "count": 29
       },
       {
         "id": 979,
@@ -83,6 +83,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "7MwU4fo8BYTynaH8Vcux11ZxP1iKf4eZ",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 237,
+          "name": "PI, Lynn",
+          "rating": 1
+        }
+      ],
+      "author": "Sherry Wu",
+      "date": "Mar 19, 2024",
+      "title": "Best Lynn",
+      "comment_content": "Mainly about foundation of Finance. Pynn would pass some content which are difficult in her mind.",
+      "comment_teaching": "Best teacher I have ever met. Very friendly and patient. She would sometimes talk with students in the front before lectures and get to know the feedback from students.",
+      "comment_grading": "Although this class is pretty competitive, you can have a high grade if you make efforts and understand the concepts well.",
+      "comment_workload": "Accceptable. Homework is harder than exams so it’s kind of time-consuming and need a good understanding of the notes. However, homework practice is quite useful to the exams.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "DR4XJoUpB8vVlIkQUWXBMvUk5MVuSnjU",
       "semester": "2022-23 Fall",

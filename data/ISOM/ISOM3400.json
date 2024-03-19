@@ -31,10 +31,10 @@
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"1021\" href=\"/review/COMP1021\" target=\"_blank\">COMP 1021</a>",
     "rating_content": 3.93,
-    "rating_teaching": 3.38,
-    "rating_grading": 3.71,
-    "rating_workload": 3.55,
-    "review_count": 42,
+    "rating_teaching": 3.37,
+    "rating_grading": 3.72,
+    "rating_workload": 3.53,
+    "review_count": 43,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -45,7 +45,7 @@
       {
         "id": 373,
         "name": "JIA, Jia",
-        "count": 18
+        "count": 19
       },
       {
         "id": 375,
@@ -100,6 +100,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "NFU7yE2HDcKNFh3xIGxCdTxd5rXJ7G4Q",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 373,
+          "name": "JIA, Jia",
+          "rating": 1
+        }
+      ],
+      "author": "ty111",
+      "date": "Mar 19, 2024",
+      "title": "Slight advanced course that pretend to be a basic course",
+      "comment_content": "The first 40% of the course is very simple and just reminding you of some basic python concept from ISOM2020. Don&#039;t be fooled by that as the progress would suddenly accelerate and become a bit challenging for python beginners in the middle of the course.",
+      "comment_teaching": "Nearly fall asleep in class. No need to attend the lecture if no in-class exercise that day. Didn&#039;t even watch the lecture recording either. Just watch Youtube videos.",
+      "comment_grading": "In-class Exercises 25% (5% each)<br />Jia Jia went through the in-class exercises on lecture, so you would basically get full mark if attending all the lectures. Also the deadline is usually 23:59, unlike other courses that force you to hand in before the lecture ends. It gives you more room for checking and correcting your answers.<br /><br />Individual Assignment 15%<br />Basically free marks as GPT allowed<br /><br />Group Assignment 25%<br />The group is extremely difficult for python beginners, even with the help of GPT. It is nearly impossible to fill all the requirements matching professor&#039;s demo unless you are already at Python before taking this course. Luckily the TAs understand the difficulty of students and would give a relatively good score as soon as you meet some basic requirements.<br /><br />Final Exam 40%<br />Score is not provided<br />Open book written exam that is troublesome for a programming course<br /><br />Final Grade: B+",
+      "comment_workload": "The workload is okay as soon as you step by step follow the instructions provided by the lecturer and the TA. Just no need to take the project (Group Assignment) too seriously as it is too hard for the level of normal students who would take this course. Save your effort on other meaningful things.",
+      "rating_content": 4,
+      "rating_teaching": 3,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": true,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "lnaUhH4o1CaQGL2pHZKLvc78DI9gMeva",
       "semester": "2023-24 Winter",

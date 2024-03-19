@@ -17,11 +17,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "Level 3 or above in HKDSE 1/2x Physics or HKDSE 1x Physics; any PHYS courses at 1100-level or above",
-    "rating_content": 3.93,
-    "rating_teaching": 4.14,
-    "rating_grading": 4.16,
-    "rating_workload": 3.77,
-    "review_count": 44,
+    "rating_content": 3.91,
+    "rating_teaching": 4.13,
+    "rating_grading": 4.11,
+    "rating_workload": 3.76,
+    "review_count": 45,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -32,7 +32,7 @@
       {
         "id": 601,
         "name": "NG, Yee Fai",
-        "count": 40
+        "count": 41
       },
       {
         "id": 1882,
@@ -42,6 +42,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "BijDgahbZkhMd07XEEgzXGqrV3d9Pqik",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 601,
+          "name": "NG, Yee Fai",
+          "rating": 1
+        }
+      ],
+      "author": "EuniceC",
+      "date": "Mar 20, 2024",
+      "title": "冇讀過phys都幾多野要讀",
+      "comment_content": "Content：<br />Heat and Gases<br />Force and Motion<br />Waves<br />Electricity and Magnetism<br />一個sem讀曬DSE教既野<br />Midterm 有一張cheatsheet<br />Final有兩個張cheatsheet<br />但都係冇mc。<br />power point有啲複雜，自己睇片容易明好多",
+      "comment_teaching": "講得幾清楚，不過有啲悶<br />上堂有啲實驗睇下",
+      "comment_grading": "C-",
+      "comment_workload": "一個星期有兩堂lecture，一堂tutorial<br />assignment一個星期要交一份<br /> around有15份<br />一份有6-7題",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 2,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "k8mzskwLA9QWgVhcQVH5IzVGUx3DlPxv",
       "semester": "2023-24 Fall",

@@ -34,10 +34,10 @@
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"2012H\" href=\"/review/COMP2012H\" target=\"_blank\">COMP 2012H</a>",
     "rating_content": 4.13,
-    "rating_teaching": 4.2,
-    "rating_grading": 3.74,
+    "rating_teaching": 4.21,
+    "rating_grading": 3.73,
     "rating_workload": 3.19,
-    "review_count": 232,
+    "review_count": 233,
     "single_review": false,
     "enrollment_status": 1,
     "is_favourited": false,
@@ -58,7 +58,7 @@
       {
         "id": 101,
         "name": "LI, Xin",
-        "count": 35
+        "count": 36
       },
       {
         "id": 130,
@@ -128,6 +128,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "Q7v3wAm7OwkiOzK5Vdw9QdFftX1q7xv7",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 101,
+          "name": "LI, Xin",
+          "rating": 1
+        }
+      ],
+      "author": "TKah",
+      "date": "Mar 19, 2024",
+      "title": "",
+      "comment_content": "Topics Covered<br /><br />1. Introduction to computer programming<br />2. C++ basics: basic syntax, data types, operators<br />3. Control flow<br />4. Functions<br />5. Array and structure<br />6. Recursion<br />7. Scope<br />8. Struct<br />9. Pointers<br />10. Dynamic Data<br />11. Class<br />12. Stack and Queue<br />13. File input / output",
+      "comment_teaching": "Quite details. Taught by Li this semester. She went through all the lecture slides and gave many examples to demo the function.",
+      "comment_grading": "Fare<br />The labs are easy to get full marks.<br />TA will ask one or two questions during the lab section.<br />Both midterm and final are upper quarter, and A-",
+      "comment_workload": "one lab each week<br />3 PA<br />one midterm<br />one final",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "qeMrP2Ran4RgjESQAgepNCWJpBrsLwZQ",
       "semester": "2023-24 Fall",
