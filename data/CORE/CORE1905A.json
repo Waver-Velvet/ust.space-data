@@ -38,6 +38,11 @@
         "count": 1
       },
       {
+        "id": 1739,
+        "name": "CHAN, Fred",
+        "count": 1
+      },
+      {
         "id": 1741,
         "name": "KO, Ngan Nei",
         "count": 1
@@ -156,7 +161,7 @@
       "has_attendance": true,
       "has_reading": true,
       "has_presentation": false,
-      "upvote_count": 7,
+      "upvote_count": 8,
       "vote_count": 8,
       "comment_count": 1,
       "attachments": []
@@ -186,7 +191,7 @@
       "has_reading": true,
       "has_presentation": false,
       "upvote_count": 1,
-      "vote_count": 4,
+      "vote_count": 5,
       "comment_count": 0,
       "attachments": []
     },
@@ -214,22 +219,28 @@
       "has_attendance": true,
       "has_reading": false,
       "has_presentation": false,
-      "upvote_count": 0,
-      "vote_count": 0,
+      "upvote_count": 1,
+      "vote_count": 1,
       "comment_count": 0,
       "attachments": []
     },
     {
       "hash": "l54Rr5WopFvw27XifY9keTtRvoe3OAWF",
       "semester": "2023-24 Fall",
-      "instructors": [],
+      "instructors": [
+        {
+          "id": 1739,
+          "name": "CHAN, Fred",
+          "rating": 1
+        }
+      ],
       "author": "命運無常",
       "date": "Nov 14, 2023",
       "title": "HMAW1905A = Relaxing course, but the tasks will take up some of your revisioning time.",
-      "comment_content": "Not hard. Just use up some of your times. Treat these activities as resting time may help you feeling these tasks are not wasting your time.<br /><br />1. Science School Compulsory Seminars<br />(Attend TWO Science School Compulsory Seminars)<br /><br />2. Science School Elective Activity<br />(Attend ONE Science School Elective Activity)<br /><br />3. Online Modules X4 (2 Fall and 2 Spring - Get at least 75% to pass for each module quiz) <br /><br />4. Community Meetings X4 (2 Fall and 2 Spring - Must attend)<br /><br />5. Self-Directed Learning Experience (at least 12 hours - Minimum 9 hours in Sport-Skill Class and Minimum 3 hours in Personal Enrichment Activities)<br /><br />6. Survey X2 (Intake Survey + Mood and Stress Assessment (DASS) Survey)",
-      "comment_teaching": "My group facilitator (Lillian Li) is nice. Use activities to enhance socialization.",
-      "comment_grading": "1 credit in fall and 2 credits in spring. Complete all tasks in the contents and you can get a pass in this course. I think this course deserves 4 credits instead of 3 because of the multifarious tasks to be completed.<br /><br />&quot;No Shows&quot; in community meetings will be given lower priority when applying for any activities, including exchanges and internships organized by the School. This is one thing not favourable to students.",
-      "comment_workload": "Not that high mentioned by other reviewers (maybe because there was high workload last year, so UST improved the course). However, there are still a little bit too many tasks to be completed.<br /><br />But still the time slots for community meetings and science school seminars &amp; Activities are not good. Most timeslots are 9 am - 10:20 am, some are 6 pm - 7:20 pm. All these timeslots are when students are tired. Also, they may disturb your revision plan. I am a BIBU student (program-based admission), so fortunately I can attend fewer activities than most students, and use extra time for my study and leisure.<br /><br />Before attending this course, complete the 3 hours personal enrichment activities (they are some workshops and talks) in your summer holiday, and finish the online modules and surveys within the first month of the semester because you will get more and more busy with your academics.",
+      "comment_content": "Not hard. Just use up some of your time. Treating these activities as resting time may help you feel these tasks are not wasting your time.<br /><br />1. Science School Compulsory Seminars X4<br />(2 in Fall and 2 in Spring)<br /><br />2. Science School Elective Activities X2<br />(1 in Fall and 1 in Spring)<br /><br />3. Online Modules X4 (2 in Fall and 2 in Spring - Get at least 75% to pass for each module quiz) <br /><br />4. Community Meetings X4 (2 in Fall and 2 in Spring - Must attend)<br /><br />5. Self-Directed Learning Experience (at least 12 hours - Minimum 9 hours in Sport-Skill Class and Minimum 3 hours in Personal Enrichment Activities)<br /><br />6. Surveys X2 (Intake Survey + Mood and Stress Assessment (DASS) Survey)",
+      "comment_teaching": "My group facilitator (Lillian Li) is nice. Use activities to enhance socialization.<br /><br />I have also attended Fred Chan&#039;s CV Writing Workshop, which is useful for my future career. He engagingly delivers the information and tips.",
+      "comment_grading": "1 credit in fall and 2 credits in spring. Complete all tasks in the contents and you can get a pass in this course. I think this course deserves 4 credits instead of 3 because of the multifarious tasks to be completed.<br /><br />&quot;No Shows&quot; in community meetings will be given lower priority when applying for any activities, including exchanges and internships organized by the School. This is one thing not favorable to students.",
+      "comment_workload": "Not that high mentioned by other reviewers (maybe because there was very high workload last year, so UST improved the course). However, there are still a little bit too many tasks to be completed.<br /><br />But still the time slots for community meetings and science school seminars &amp; Activities are not good. Most timeslots are 9 am - 10:20 am, some are 6 pm - 7:20 pm. All these timeslots are when students are tired. Also, they may disturb your revision plan. I am a BIBU student (program-based admission), so fortunately I can attend fewer activities than most students, and use extra time for my study and leisure.<br /><br />Before attending this course, complete the 3 hours personal enrichment activities (they are some workshops and talks) during your summer holiday, and finish the online modules and surveys within the first month of the semester because you will get more and more busy with your academics.<br /><br />Suggest you guys attend &#039;Wing Chun Class&#039; for the sport-skill class. It is very interesting and easy to learn, and you can learn Wing Chun from the movie &#039;Yip Man&#039; :D",
       "rating_content": 4,
       "rating_teaching": 5,
       "rating_grading": 4,
@@ -272,8 +283,8 @@
       "has_attendance": true,
       "has_reading": true,
       "has_presentation": true,
-      "upvote_count": 0,
-      "vote_count": 0,
+      "upvote_count": 1,
+      "vote_count": 1,
       "comment_count": 0,
       "attachments": []
     },
@@ -336,8 +347,8 @@
       "has_attendance": true,
       "has_reading": true,
       "has_presentation": false,
-      "upvote_count": 1,
-      "vote_count": 1,
+      "upvote_count": 2,
+      "vote_count": 2,
       "comment_count": 0,
       "attachments": []
     },
@@ -365,8 +376,8 @@
       "has_attendance": true,
       "has_reading": false,
       "has_presentation": true,
-      "upvote_count": 0,
-      "vote_count": 0,
+      "upvote_count": 1,
+      "vote_count": 1,
       "comment_count": 0,
       "attachments": []
     },
@@ -517,7 +528,7 @@
       "has_reading": false,
       "has_presentation": false,
       "upvote_count": 3,
-      "vote_count": 10,
+      "vote_count": 11,
       "comment_count": 0,
       "attachments": []
     },
@@ -551,8 +562,8 @@
       "has_attendance": true,
       "has_reading": false,
       "has_presentation": true,
-      "upvote_count": 2,
-      "vote_count": 2,
+      "upvote_count": 3,
+      "vote_count": 3,
       "comment_count": 0,
       "attachments": []
     },
@@ -609,8 +620,8 @@
       "has_attendance": true,
       "has_reading": true,
       "has_presentation": true,
-      "upvote_count": 9,
-      "vote_count": 9,
+      "upvote_count": 10,
+      "vote_count": 10,
       "comment_count": 0,
       "attachments": []
     },

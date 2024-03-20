@@ -23,11 +23,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "CSIT 5910, MSBD 5012",
-    "rating_content": 4.63,
-    "rating_teaching": 4.25,
-    "rating_grading": 4.5,
-    "rating_workload": 4.13,
-    "review_count": 16,
+    "rating_content": 4.65,
+    "rating_teaching": 4.24,
+    "rating_grading": 4.53,
+    "rating_workload": 4.12,
+    "review_count": 17,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -43,11 +43,46 @@
       {
         "id": 1575,
         "name": "CHENG, Minhao",
-        "count": 3
+        "count": 4
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "BOp2tXQLo14CZLnh7MQgzCDoYEFKQHbV",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 1575,
+          "name": "CHENG, Minhao",
+          "rating": 1
+        }
+      ],
+      "author": "stanly",
+      "date": "Mar 20, 2024",
+      "title": "",
+      "comment_content": "Enough, covers most of the necessary techniques. And these are quite inspiring and helped me with my academic research.",
+      "comment_teaching": "The new professor, so not as good as an experienced one. But overall, he is trying his best to give us a good lesson, I really understand it is not easy for a new professor.",
+      "comment_grading": "Good, very fair. And I like this course and the instructor style.",
+      "comment_workload": "a little time-consuming. A lot of maths about the ground theory, we can understand that machine learning itself is not a black box. the problem is only from deep learning.",
+      "rating_content": 5,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "lkP4ulbqonTgb7muvwPljG3hgZkTS1mD",
       "semester": "2023-24 Fall",

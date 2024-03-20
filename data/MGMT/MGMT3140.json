@@ -33,11 +33,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 4.66,
-    "rating_teaching": 4.79,
+    "rating_content": 4.65,
+    "rating_teaching": 4.78,
     "rating_grading": 4.15,
-    "rating_workload": 4.38,
-    "review_count": 53,
+    "rating_workload": 4.37,
+    "review_count": 54,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -48,7 +48,7 @@
       {
         "id": 269,
         "name": "NASON, Stephen William",
-        "count": 39
+        "count": 40
       },
       {
         "id": 1514,
@@ -68,6 +68,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "Titx7OkbLIE4QT3Odap7suTfPLmrSis3",
+      "semester": "2022-23 Fall",
+      "instructors": [
+        {
+          "id": 269,
+          "name": "NASON, Stephen William",
+          "rating": 1
+        }
+      ],
+      "author": "unnamed cell",
+      "date": "Mar 21, 2024",
+      "title": "MGMT3140",
+      "comment_content": "Useful theories and skills taught. Every week, the professor will review a new case requiring certain negotiation skills. Basically, it teaches you to ask questions and get information from opponents to look for a middle ground in negotiations.",
+      "comment_teaching": "Super interactive and has to attend every class, as there are practical negotiation exercises every week.",
+      "comment_grading": "Attend all negotiations would be fine. Just go through PPTs before tests. Easy B range.",
+      "comment_workload": "Quite heavy in terms of participation but not for homework. Has to read cases every week to prepare for the negotiation exercises.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "wgjEDxVtAsgF7mRsDR4UlrTVj3VSqlZ4",
       "semester": "2023-24 Fall",
