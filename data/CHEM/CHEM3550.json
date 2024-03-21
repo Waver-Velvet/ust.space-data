@@ -23,11 +23,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"2550\" href=\"/review/CHEM2550\" target=\"_blank\">CHEM 2550</a>",
     "corequisites": "<a class=\"course-link\" data-subject=\"CHEM\" data-code=\"3120\" href=\"/review/CHEM3120\" target=\"_blank\">CHEM 3120</a> AND <a class=\"course-link\" data-subject=\"CHEM\" data-code=\"3220\" href=\"/review/CHEM3220\" target=\"_blank\">CHEM 3220</a>",
     "exclusions": "",
-    "rating_content": 4.5,
-    "rating_teaching": 4.33,
-    "rating_grading": 4.17,
-    "rating_workload": 3.33,
-    "review_count": 6,
+    "rating_content": 4.57,
+    "rating_teaching": 4.43,
+    "rating_grading": 4.14,
+    "rating_workload": 3.43,
+    "review_count": 7,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -38,11 +38,46 @@
       {
         "id": 10,
         "name": "CHAN, Dennis Ho Wai",
-        "count": 6
+        "count": 7
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "QAXJ72gm20nPu2S1U6p0L6qMEdWc3f0k",
+      "semester": "2023-24 Spring",
+      "instructors": [
+        {
+          "id": 10,
+          "name": "CHAN, Dennis Ho Wai",
+          "rating": 1
+        }
+      ],
+      "author": "14nm_forever",
+      "date": "Mar 21, 2024",
+      "title": "Very decent lab course, 同埋小心有大剌剌嘅TA",
+      "comment_content": "各位開心做實驗之餘，記得要小心<br />可能會有大剌剌嘅女TA (or 男TA) 會扯你嘅衫袖 (^_^)凸<br />如果feel到好unconfortable嘅話，記得要事後同Dennis講 <br />同埋其他睇到呢度嘅現任/未來lab TA都記得要aware下你嘅行爲 <br />Thank you~<br /><br />Ok back to ordinary contents:<br />===========================================<br />Expt 1: Purification of Organic Compounds by Column Chromatography (Column+TLC of carotenoid)<br />Expt 2: Chemical Resolution of a Racemic Mixture (Resolve of ibuprofen+polarimetry)<br />Expt 3:Carbon-Carbon Bond Formation by Aldol Condensation (Synthesis of dba by aldol cond. and 1H-NMR)<br />Expt 4: Synthesis of Schiff Bases and Reductive Amination (Synthesis of zinc-salen and 1H-NMR... again Orz)<br />Expt 5: Synthesis of Transition Metal Complexes and Their Isomers (To be updated)",
+      "comment_teaching": "Dennis嘅pre lab片講解得幾清楚 無論係principal同lab work嘅部分都會好仔細咁講解<br />(但爆mic嘅情況係幾嚴重下 戴耳機聽記得要較細聲啲)<br />TA同IA嘅臨場guidance係好及時嘅 但都係要講多次， *小心 body contact*<br />(Lab 3 同 lab 4 要過1004 (aka 1樓gen chem lab) 排NMR機 所以記得預時間)<br /><br />呢個A係比Dennis同衆IAs/TAsss嘅，但個位TA我就不予置評啦 凸(^_^)凸",
+      "comment_grading": "5% Attendance (遲太多會扣)<br />5% Risk assessment<br />20% Quiz<br />25% Performance mark (通常扣唔多，even打爛嘢都淨喺會扣1分；但冇帶labcoat/safety goggle一定會扣到傻)<br />10% Product mark (Product yield得個幾mg嘅話可能會扣得好甘)<br />35% Lab report mark<br /><br />(Other parts to be updated)",
+      "comment_workload": "Ok la quite handleable<br /><br />Lab前1個禮拜會有material派落嚟，比你做risk assessment form同revise個lab quiz，同埋risk assessment form通常淨喺會花你5分鐘就搞掂<br />Quiz嘅題目以short question爲主+少量MC，記得要溫書<br />Labwork通常會牽涉到好多要等嘅procedure, e.g. suction filtration, recryst, reflux等，所以記得要有耐心<br />Lab Report 除咗data+analysis之外 亦都會有LQ 記得要小心啲答",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "tpoQFjwNmC9AoKXMnNkyGJ7XNWOLpuJ5",
       "semester": "2021-22 Spring",

@@ -33,11 +33,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 4.57,
-    "rating_teaching": 4.71,
-    "rating_grading": 4.36,
-    "rating_workload": 4.36,
-    "review_count": 14,
+    "rating_content": 4.53,
+    "rating_teaching": 4.67,
+    "rating_grading": 4.4,
+    "rating_workload": 4.4,
+    "review_count": 15,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -48,11 +48,46 @@
       {
         "id": 1787,
         "name": "ALIAS MARTINEZ, Ana",
-        "count": 1
+        "count": 2
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "F7THidSBeaQ7SXIdrkClyyBXyb5cvdDC",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1787,
+          "name": "ALIAS MARTINEZ, Ana",
+          "rating": 1
+        }
+      ],
+      "author": "泰臣耀西",
+      "date": "Mar 21, 2024",
+      "title": "Must take course",
+      "comment_content": "The course is not just spanish but also focusing on the culture, history and various aspects of Spain and other latin America countries. <br />The language part are beginner level and nothing crazy, enough for you to travel to Spain :)",
+      "comment_teaching": "Ana is very kind and passionate, her classes was never boring",
+      "comment_grading": "The grading is kinda loose <br />The final speaking exam was a 1 min self introduction and answer some follow-up questions in spanish<br />The final listen exam is similar to assignments&#039; listening tasks but a bit harder <br />Memorize the script for your self intro and take some time to run through the ppt before final exam is enough imo<br />Didnt put much effort in this course but end up with a B",
+      "comment_workload": "Not much regualr workload <br />1 discussion + 1 listening task / week (Take around 1.5 - 2hrs)<br />A group presentation for 15 minutes about the topics related to spanish and other america",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "rwC3noiqVFJsltBd6PclH32wwvTgyMpC",
       "semester": "2023-24 Fall",

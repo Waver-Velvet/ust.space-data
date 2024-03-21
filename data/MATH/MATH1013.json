@@ -43,7 +43,7 @@
     "rating_teaching": 3.36,
     "rating_grading": 3.46,
     "rating_workload": 3.86,
-    "review_count": 746,
+    "review_count": 747,
     "single_review": false,
     "enrollment_status": 1,
     "is_favourited": false,
@@ -59,7 +59,7 @@
       {
         "id": 539,
         "name": "CHANG, Huai-Liang",
-        "count": 50
+        "count": 51
       },
       {
         "id": 902,
@@ -319,6 +319,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "VQOPOYjgE47tGpHiWlng3nqCoj9vscsy",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 539,
+          "name": "CHANG, Huai-Liang",
+          "rating": 1
+        }
+      ],
+      "author": "Candixefong",
+      "date": "Mar 21, 2024",
+      "title": "最好唔好讀",
+      "comment_content": "similar to DSE M2 but hard siu siu gum and have extra content so it would be better if u studied M2!! <br />if u studied M1 then u may find it difficult",
+      "comment_teaching": "say joke sometimes but not fun at all <br />will scold people when they chat so not ok :((",
+      "comment_grading": "its okay la but need to compete with hou ging geh people so its hard to get A eh",
+      "comment_workload": "Only homework every week:)<br />mm sai song lecture and tutor dou okayyy can skip all! <br />zi gei go watch youtube learn farn d stuff",
+      "rating_content": 3,
+      "rating_teaching": 2,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "HW7AhfWl7nwrs1M0EorWyPDoozrlNqGJ",
       "semester": "2023-24 Fall",

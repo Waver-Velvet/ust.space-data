@@ -23,11 +23,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"MECH\" data-code=\"2020\" href=\"/review/MECH2020\" target=\"_blank\">MECH 2020</a>",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"2120\" href=\"/review/CIVL2120\" target=\"_blank\">CIVL 2120</a>",
-    "rating_content": 3.92,
-    "rating_teaching": 3.92,
+    "rating_content": 4,
+    "rating_teaching": 4.09,
     "rating_grading": 4,
-    "rating_workload": 3.83,
-    "review_count": 12,
+    "rating_workload": 3.91,
+    "review_count": 11,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -49,50 +49,10 @@
         "id": 1018,
         "name": "TAO, Hong",
         "count": 2
-      },
-      {
-        "id": 1618,
-        "name": "CHEN, Yangyang",
-        "count": 1
       }
     ]
   },
   "reviews": [
-    {
-      "hash": "Zbtvwjqanl2StHhaBAUWEtX1xamf4zCa",
-      "semester": "2023-24 Spring",
-      "instructors": [
-        {
-          "id": 1618,
-          "name": "CHEN, Yangyang",
-          "rating": 1
-        }
-      ],
-      "author": "rickcwk",
-      "date": "Mar 05, 2024",
-      "title": "",
-      "comment_content": "Concept of Stress<br />Stress and Strain under Axial Loading<br />Torsion<br />Pure bending<br />Transverse loading<br />Transformation of Stress/Mohr Circle<br />Design of Beams for Strength<br />Deflection of Beams by Integration<br />Columns and Buckling<br />Energy Method",
-      "comment_teaching": "見名swap<br />聼佢把聲係催眠曲, 講野好細聲, 多懶音. 就嚟聼唔清楚佢講咩.<br />第二個instructor(YE, Weijing)會好d.",
-      "comment_grading": "",
-      "comment_workload": "Assignment 通常俾1個星期時間.<br />有心上網揾都揾到類似題目參考",
-      "rating_content": 3,
-      "rating_teaching": 2,
-      "rating_grading": 4,
-      "rating_workload": 3,
-      "has_midterm": true,
-      "has_final": true,
-      "has_quiz": false,
-      "has_assignment": true,
-      "has_essay": false,
-      "has_project": false,
-      "has_attendance": false,
-      "has_reading": false,
-      "has_presentation": false,
-      "upvote_count": 0,
-      "vote_count": 0,
-      "comment_count": 0,
-      "attachments": []
-    },
     {
       "hash": "Tp1E45TZp0aCq8cdNJf9CPgl5kFemczx",
       "semester": "2021-22 Spring",

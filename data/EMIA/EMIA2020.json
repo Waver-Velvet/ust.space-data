@@ -17,11 +17,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 2.67,
-    "rating_teaching": 2.55,
-    "rating_grading": 2.61,
-    "rating_workload": 1.52,
-    "review_count": 33,
+    "rating_content": 2.65,
+    "rating_teaching": 2.53,
+    "rating_grading": 2.56,
+    "rating_workload": 1.5,
+    "review_count": 34,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -37,7 +37,7 @@
       {
         "id": 1644,
         "name": "ZHANG, Rong",
-        "count": 18
+        "count": 19
       },
       {
         "id": 378,
@@ -52,6 +52,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "M7hRePFeNsPtAXMfd4tVtV4zNqrJB1jK",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1644,
+          "name": "ZHANG, Rong",
+          "rating": 0
+        }
+      ],
+      "author": "LeeYu",
+      "date": "Mar 21, 2024",
+      "title": "A course that you have no idea what to make",
+      "comment_content": "Mainly teach you about the workflow of creawting a new product. At the very last of the sem will require you to come up with a new idea or item to tackle some of the existing problem.",
+      "comment_teaching": "Totally don&#039;t know what is happening. Not much instruction is given to yuor final product. They will only require you to come up with an idea and ban you if there are solution already existed. How can i come up with a good idea, if i can I dont have to sit here.",
+      "comment_grading": "Very unclear. He will only release the grade and marks at the very last day of the sem. You cannot improve your work by using the grade. You have to find the TAs personally to get some hint for the review.",
+      "comment_workload": "Nearly every week one assignment with lots of interview and observation to be done. The work are all made into a ppt and the ppt for each assigment is nearly 15 pages for every week. <br />The final project will require you to have a workablr product to do the demostrcution and test by others, so be good to your classmate to have a good testing result.",
+      "rating_content": 2,
+      "rating_teaching": 2,
+      "rating_grading": 1,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": true,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "0gb95ODUjmR5RPtw1YamhaGIyQdJylKU",
       "semester": "2023-24 Fall",
@@ -192,8 +227,8 @@
       "has_attendance": true,
       "has_reading": false,
       "has_presentation": false,
-      "upvote_count": 48,
-      "vote_count": 49,
+      "upvote_count": 49,
+      "vote_count": 50,
       "comment_count": 4,
       "attachments": []
     },
