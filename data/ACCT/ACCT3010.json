@@ -23,11 +23,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"ACCT\" data-code=\"2010\" href=\"/review/ACCT2010\" target=\"_blank\">ACCT 2010</a>",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"ACCT\" data-code=\"3030\" href=\"/review/ACCT3030\" target=\"_blank\">ACCT 3030</a>",
-    "rating_content": 4.31,
-    "rating_teaching": 3.31,
+    "rating_content": 4.3,
+    "rating_teaching": 3.33,
     "rating_grading": 3.97,
     "rating_workload": 4.07,
-    "review_count": 29,
+    "review_count": 30,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -38,11 +38,46 @@
       {
         "id": 5,
         "name": "ZANG, Amy Yunzhi",
-        "count": 29
+        "count": 30
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "WCCkPCePAYf8wobUFDaS5ml8oFRkN8RV",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 5,
+          "name": "ZANG, Amy Yunzhi",
+          "rating": 1
+        }
+      ],
+      "author": "yanae",
+      "date": "Mar 22, 2024",
+      "title": "",
+      "comment_content": "The content is relative simple if you have paid attention in class. Some of the concepts have already covered in ACCT2200, and Amy’s ppt is very clear and explains different scenario.",
+      "comment_teaching": "Amy explains every case with examples and she had clarified the problems raised by the students.",
+      "comment_grading": "The grading is fair. The grading are 50% homework, 40% Exam&nbsp;&nbsp;and 10 % attendance. However, Amy gives everyone full marks for the attendance so you can skip all the classes and watch the lecture recording on your own time.",
+      "comment_workload": "The workload is relative low, you just have to finished the homework per week. The means for homework is around 90% of full marks.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "dbnSbhXofxE7fvK6MEG2Rqkc4LAKRIjo",
       "semester": "2022-23 Fall",

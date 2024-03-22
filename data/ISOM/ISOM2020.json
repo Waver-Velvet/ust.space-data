@@ -24,9 +24,9 @@
     "exclusions": "<a class=\"course-link\" data-subject=\"COMP\" data-code=\"1021\" href=\"/review/COMP1021\" target=\"_blank\">COMP 1021</a>",
     "rating_content": 4.03,
     "rating_teaching": 4.1,
-    "rating_grading": 3.34,
-    "rating_workload": 3.23,
-    "review_count": 71,
+    "rating_grading": 3.33,
+    "rating_workload": 3.22,
+    "review_count": 72,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -70,6 +70,11 @@
         "count": 4
       },
       {
+        "id": 1866,
+        "name": "CHEN, Jianqing",
+        "count": 2
+      },
+      {
         "id": 1602,
         "name": "LEE, Aaron Chun Hay",
         "count": 1
@@ -83,15 +88,45 @@
         "id": 1777,
         "name": "TSE, Chris",
         "count": 1
-      },
-      {
-        "id": 1866,
-        "name": "CHEN, Jianqing",
-        "count": 1
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "33LZhPgyZwOWmePLU8zpmtdmJLhoTL2Z",
+      "semester": "2023-24 Spring",
+      "instructors": [
+        {
+          "id": 1866,
+          "name": "CHEN, Jianqing",
+          "rating": 1
+        }
+      ],
+      "author": "hheh",
+      "date": "Mar 22, 2024",
+      "title": "",
+      "comment_content": "introduction to Python<br />Arithmetic operators,<br />Print, Variable, and Data<br />type<br /><br />Input, Conversion,<br />Collective Variables<br /><br />Conditional statement<br />(if...else)<br /><br />Loops (for)<br /><br />More about Loops<br />(while/break)<br /><br />EZ to catch up even you are beginner in python",
+      "comment_teaching": "prof is fine, some extra skills out of the weekly pre-class videos will be taught in the lecture<br /><br />ONLY SKILLS DISCUSSED IN THIS COURSE IS ALLOWED TO USE IN EXAM, dont waste time on studying other stuff<br />eg.u can only use &quot;while True&quot; but not &quot;while x&lt;10&quot;",
+      "comment_grading": "weekly quiz 10/10 (all ppl full mark)<br />lab submission 20/20 (all ppl full mark)<br />final ?/70 (havnt release)<br />Grade depends on final <br /><br />code sheet is given during exam but dont rely on it since u only have 1.5hr to do 20mc,5 fill in the blank,5 coding. if u arent prepared well, u must feel frustrated on the questions<br /><br />in order to perform well, do all optional practice, challenging question in lab, and most important----try more in google colab ,dont miss any concept that TAUGHT",
+      "comment_workload": "althought u have to submit labwork during lab session (in 2 hours), u can just finish it before and submit the assigment in that period<br />5 weekly pre-class video <br />5 lab <br />5 lecture<br />5 optional practice ( although it is optional, do it if u want A range, difficulty similar to exam)",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "1GtKvowMUTCydZD3PfE09AE7OPFFXHOn",
       "semester": "2023-24 Spring",
