@@ -18,11 +18,11 @@
     "prerequisites": "a passing letter grade in <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1401\" href=\"/review/LANG1401\" target=\"_blank\">LANG 1401</a> OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1402\" href=\"/review/LANG1402\" target=\"_blank\">LANG 1402</a> OR LANG 1403 OR <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1404\" href=\"/review/LANG1404\" target=\"_blank\">LANG 1404</a> OR LANG 1002 (prior to 2022-23)",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 4.57,
+    "rating_content": 4.63,
     "rating_teaching": 5,
-    "rating_grading": 4.43,
-    "rating_workload": 3.86,
-    "review_count": 7,
+    "rating_grading": 4.5,
+    "rating_workload": 3.88,
+    "review_count": 8,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -33,11 +33,46 @@
       {
         "id": 651,
         "name": "SHARIF, Naubahar",
-        "count": 7
+        "count": 8
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "eHaRRz9E5fkiu4MFlhsn2LyJBl31Rh5a",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 651,
+          "name": "SHARIF, Naubahar",
+          "rating": 1
+        }
+      ],
+      "author": "Jessica12",
+      "date": "Mar 23, 2024",
+      "title": "",
+      "comment_content": "The content was very interesting. It mainly talked about technology and development in China. I found it very fun since it was also pretty applicable in real life, and I am genuinely interest in learning about China.",
+      "comment_teaching": "Teaching was elite and great. Classes were very engaging discussions and the TA were nice too. He was always very accommodating to all my questions in the course.",
+      "comment_grading": "4 assignments, 4 quizzes and no exams",
+      "comment_workload": "to be honest quite high dring the semester but no exams. Very recommended for those who need to take common core under SA.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": true,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "Ep4j8LkSBzKGR0IFvlmiYffPZNeCs0Lr",
       "semester": "2023-24 Fall",
