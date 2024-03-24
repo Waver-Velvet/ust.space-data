@@ -39,7 +39,7 @@
     "rating_teaching": 3.91,
     "rating_grading": 3.99,
     "rating_workload": 4.15,
-    "review_count": 620,
+    "review_count": 621,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -95,7 +95,7 @@
       {
         "id": 769,
         "name": "SO, Mike Ka Pui",
-        "count": 22
+        "count": 23
       },
       {
         "id": 404,
@@ -165,6 +165,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "1W8s7DC5t9cwCFdulXMVASVYvFCETBxr",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 769,
+          "name": "SO, Mike Ka Pui",
+          "rating": 1
+        }
+      ],
+      "author": "Kelvinctl",
+      "date": "Mar 24, 2024",
+      "title": "",
+      "comment_content": "If you have studied M1 in DSE before, this course is relatively easy for you, except for the last two chapters about hypothesis testing and correlation.<br /><br />If you have not done so, you can get a taste of statistics for the first few chapters, they are not highly related to the later part of study, but keep focusing later.",
+      "comment_teaching": "It may be a bit boring if you can master statistics already. Mike keeps on explaining the theory and asking questions during the lessons rather than talking about implications and examples. You may have to search for other resources for your midterm and final exam.",
+      "comment_grading": "Mainly from 2 group assignments, midterm and final. The final is not cumulative in terms of content. Both exams comprise multiple choice questions only, so the mean is quite high, be sure you master everything before the exams.",
+      "comment_workload": "Relatively low workload. You have to be a self-disciplined learner, because not many resources are provided for you. You have to keep tracking your own process.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "u3CbVkfIbDiMj8m8RUdjF3ejeB667ttt",
       "semester": "2023-24 Spring",
