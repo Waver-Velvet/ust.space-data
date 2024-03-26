@@ -43,7 +43,7 @@
     "rating_teaching": 3.36,
     "rating_grading": 3.46,
     "rating_workload": 3.86,
-    "review_count": 747,
+    "review_count": 748,
     "single_review": false,
     "enrollment_status": 1,
     "is_favourited": false,
@@ -167,13 +167,13 @@
         "count": 9
       },
       {
-        "id": 867,
-        "name": "JI, Xing",
-        "count": 8
-      },
-      {
         "id": 1871,
         "name": "TANG, Rong",
+        "count": 9
+      },
+      {
+        "id": 867,
+        "name": "JI, Xing",
         "count": 8
       },
       {
@@ -319,6 +319,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "KcW1iYba7lZ05qNtoFvUAj1Om40MZP6z",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1871,
+          "name": "TANG, Rong",
+          "rating": 1
+        }
+      ],
+      "author": "MikFr",
+      "date": "Mar 26, 2024",
+      "title": "Courses that require self-study",
+      "comment_content": "Normal advanced mathematics course content. The course covers the basics of calculus, from derivatives to Riemann Sum and Substitution methods. The content covered is not too much, and the knowledge point is not too difficult, so sometimes the lecture will be slightly slow. Class attendance is not counted. If you are a student who participated in NEMT(高考), you will find it not pretty hard to understand the content. I am not sure about what other students have learnt in high school.",
+      "comment_teaching": "The teaching is very regular. If you listen carefully, you can understand the content of the course. But even if you can understand the content of the course, you may not be able to do the problem correctly. So I still suggest that if you can find some courses on the Internet, you can study on your own and do some problems by yourself. This will make it easier for you to deal with exams and assignments.",
+      "comment_grading": "The overall grade is made up of three parts, 15% assignment, 35% mid-term grade, and 50% final grade. There is no limit on the number of times the assignment can be submitted, which means that as long as you start writing some time in advance you will get the 15% of overall scores.<br />The assessment of the total score depends on the absolute score. 85-100 A<br />70-85 B<br />......<br /><br />This method of grading means that if you want to get a high grade, you need to get all the questions right and try to solve some of the more difficult questions. Personally, I think this evaluation method has great flaws, and few people can get A score or above. Of course, this also means that you need to put more effort into the course. Generally speaking, the difficulty of the test questions is not very large, mainly to test whether you have mastered the knowledge and use it and whether you are rigorous.<br /><br />About scores in exams.<br />I am a NEMT(高考) student and a PhOer in high school(but not the ones who got good prizes). <br />My scores<br />Assignments: 15/15<br />Mid-term: 93/100(average score around 65 and only 3% of student get 90+)<br />Final: 99/100(average score around 65 )<br />Overall: A+",
+      "comment_workload": "If you understand the course well, the workload is not huge. As I have said before, there is no limit on the number of submission of homework in this course, and you will be given two weeks to complete the homework, so the burden of homework is not very heavy. But if you want to deepen your understanding of the course or get a higher grade, you may need to put more effort into the course.",
+      "rating_content": 4,
+      "rating_teaching": 4,
+      "rating_grading": 3,
+      "rating_workload": 4,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "VQOPOYjgE47tGpHiWlng3nqCoj9vscsy",
       "semester": "2023-24 Fall",
@@ -519,7 +554,7 @@
       "has_reading": false,
       "has_presentation": false,
       "upvote_count": 0,
-      "vote_count": 1,
+      "vote_count": 2,
       "comment_count": 0,
       "attachments": []
     },

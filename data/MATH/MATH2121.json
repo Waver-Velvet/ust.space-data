@@ -33,11 +33,11 @@
     "prerequisites": "A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1014\" href=\"/review/MATH1014\" target=\"_blank\">MATH 1014</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1020\" href=\"/review/MATH1020\" target=\"_blank\">MATH 1020</a> OR <a class=\"course-link\" data-subject=\"MATH\" data-code=\"1024\" href=\"/review/MATH1024\" target=\"_blank\">MATH 1024</a>",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"MATH\" data-code=\"2111\" href=\"/review/MATH2111\" target=\"_blank\">MATH 2111</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2131\" href=\"/review/MATH2131\" target=\"_blank\">MATH 2131</a>, <a class=\"course-link\" data-subject=\"MATH\" data-code=\"2350\" href=\"/review/MATH2350\" target=\"_blank\">MATH 2350</a>",
-    "rating_content": 4.08,
-    "rating_teaching": 3.71,
+    "rating_content": 4.07,
+    "rating_teaching": 3.68,
     "rating_grading": 3.85,
-    "rating_workload": 3.91,
-    "review_count": 80,
+    "rating_workload": 3.9,
+    "review_count": 81,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -48,7 +48,7 @@
       {
         "id": 1038,
         "name": "MARBERG, Eric Paul",
-        "count": 40
+        "count": 41
       },
       {
         "id": 539,
@@ -103,6 +103,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "GQuHNczuJZFtQf8AIw96qSWvxUSI1OmB",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 1038,
+          "name": "MARBERG, Eric Paul",
+          "rating": 1
+        }
+      ],
+      "author": "_fiona",
+      "date": "Mar 26, 2024",
+      "title": "bad teaching",
+      "comment_content": "Week 1:<br />Lecture 1: Systems of linear equations<br />Lecture 2: Row reduction to echelon form [demo]<br />Practice Problems<br />Week 2:<br />Lecture 3: Vectors in Euclidean space<br />Lecture 4: Matrix-vector products, linear independence [demo]<br />Practice Problems<br />Week 3:<br />Lecture 5: More linear independence, linear transformations<br />Lecture 6: One-to-one and onto functions<br />Practice Problems<br />Week 4:<br />Lecture 7: Matrix operations, matrix multiplication [demo]<br />Lecture 8: Invertible functions and matrices<br />Practice Problems<br />Week 5:<br />Lecture 9: Subspaces, null and column space<br />Lecture 10: Dimension and rank<br />Practice Problems<br />Week 6:<br />Lecture 11: Introduction to determinants<br />Lecture 12: Properties of determinants [demo]<br />No graded Practice Problems in Week 6 (prepare for midterm instead)<br />Week 7:<br />Lecture 13: Abstract vector spaces<br />Week 8:<br />Lecture 14: More vector spaces, eigenvectors, eigenvalues [demo]<br />Lecture 15: Diagonalizable matrices<br />Practice Problems<br />Week 9:<br />Lecture 16: Fibonacci numbers and diagonalization<br />Lecture 17: Complex numbers [demo]<br />Practice Problems<br />Week 10:<br />Lecture 18: Properties of complex eigenvalues<br />Lecture 19: Orthogonal vectors, orthogonal projections<br />Practice Problems<br />Week 11:<br />Lecture 20: Orthogonal projections, Gram-Schmidt process<br />Lecture 21: Least-squares solutions [demo]<br />Practice Problems<br />Week 12:<br />Lecture 22: Symmetric matrices [demo]<br />Lecture 23: Singular value decompositions<br />Practice Problems<br />Week 13:<br />Lecture 24: More on SVDs [demo]<br />Lecture 25: Final review",
+      "comment_teaching": "So bad!!! Don&#039;t know what&#039;s he talking about. So vague teaching and proof. Just use some numerical example to verify theorem. If you really want to learn something, go Youtube.",
+      "comment_grading": "normal<br />full for each hw<br />mt:<br />57/60<br />The median score was 44.<br />The mean score was 42.2.<br />The standard deviation was 12.3<br />final:<br />140/180<br />The median score was 88.<br />The mean score was 89.<br />The high score was 162.<br />The standard deviation was 33.0<br /><br />get A finally.",
+      "comment_workload": "some hw problem are hard. But you don&#039;t need to solve it to get full mark. Just show sufficient efforts on the problem will be ok. The heavy workload mainly comes from self studying.",
+      "rating_content": 4,
+      "rating_teaching": 1,
+      "rating_grading": 4,
+      "rating_workload": 3,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": false,
+      "upvote_count": 1,
+      "vote_count": 2,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "ifEzGR24V19dfpkvk5WZuxVxslXuXWrb",
       "semester": "2023-24 Fall",

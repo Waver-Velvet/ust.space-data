@@ -18,11 +18,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"CORE\" data-code=\"1411\" href=\"/review/CORE1411\" target=\"_blank\">CORE 1411</a>, <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1412\" href=\"/review/CORE1412\" target=\"_blank\">CORE 1412</a>, <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1413\" href=\"/review/CORE1413\" target=\"_blank\">CORE 1413</a>, <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1414\" href=\"/review/CORE1414\" target=\"_blank\">CORE 1414</a>, <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1415\" href=\"/review/CORE1415\" target=\"_blank\">CORE 1415</a>, <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1120\" href=\"/review/LANG1120\" target=\"_blank\">LANG 1120</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1121\" href=\"/review/LANG1121\" target=\"_blank\">LANG 1121</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1122\" href=\"/review/LANG1122\" target=\"_blank\">LANG 1122</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1123\" href=\"/review/LANG1123\" target=\"_blank\">LANG 1123</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1124\" href=\"/review/LANG1124\" target=\"_blank\">LANG 1124</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1125\" href=\"/review/LANG1125\" target=\"_blank\">LANG 1125</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1126\" href=\"/review/LANG1126\" target=\"_blank\">LANG 1126</a> (prior to 2022-23), <a class=\"course-link\" data-subject=\"LANG\" data-code=\"1127\" href=\"/review/LANG1127\" target=\"_blank\">LANG 1127</a> (prior to 2022-23)",
-    "rating_content": 1.9,
-    "rating_teaching": 2.3,
-    "rating_grading": 1.8,
-    "rating_workload": 2,
-    "review_count": 10,
+    "rating_content": 2,
+    "rating_teaching": 2.45,
+    "rating_grading": 2.09,
+    "rating_workload": 1.91,
+    "review_count": 11,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -38,7 +38,7 @@
       {
         "id": 1731,
         "name": "YU, Wai Ying",
-        "count": 3
+        "count": 4
       },
       {
         "id": 1729,
@@ -48,6 +48,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "yCm0BiWKJKxOYSvmLbxnxq1lRAagjw1t",
+      "semester": "2022-23 Summer",
+      "instructors": [
+        {
+          "id": 1731,
+          "name": "YU, Wai Ying",
+          "rating": 1
+        }
+      ],
+      "author": "Winnnn",
+      "date": "Mar 26, 2024",
+      "title": "Chur 爆summer sem",
+      "comment_content": "1.批判性閲讀的方法與技巧<br />2.口頭推介思路與推介文案寫作<br />3.個性化演説稿的設計思路與高級演説技巧<br />4.論辯的思維與對白溝通技巧<br />5.媒體評論文章寫作<br /><br />總括而言就是普通話通識課，不是特別有趣",
+      "comment_teaching": "Ok 啦，每堂都要小組討論，當練普通話",
+      "comment_grading": "課堂參與及團隊精神（peer evaluation)\t個人10%\t：團隊精神-同groupmate夾下點就可full mark。課堂參與-記得每個assignment都要做線上交流<br /><br />個人寫作\t推介文案\t個人20%\t：好grade(4.5/4.5/4)，用canva整左份好美觀嘅幾頁poster，佢話我用善用插圖 &amp; figures <br /><br />公開演講\t命題演講\t個人30%\t: 好grade(4/4/4)，因為係交video clip，可以無限重錄<br /><br />小組錄像\t時事論辯\t小組+個人20%：好grade(4.5/4/4.5)，groupmates 全部nds，carry左我呢個普通話發音唔正嘅香港人<br /><br />個人寫作\t社評評論\t個人20%\t：一般(3.5/3.5/4)，我dse中文作文只有3，用chatgpt都打救唔到我 :(<br /><br />Overall A- <br />明顯死因：writing - 文盲唔識寫文",
+      "comment_workload": "Summer讀churrrr爆，1 assignment per week 真係辛苦都想死 （加上我summer 同時reg 左個sicence cc）<br /><br />但如果你暑sem好得閒，可以試下reg",
+      "rating_content": 3,
+      "rating_teaching": 4,
+      "rating_grading": 5,
+      "rating_workload": 1,
+      "has_midterm": false,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 1,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "J0gExvJHmkwtjqkyZERSZDqrKjTX8sjE",
       "semester": "2022-23 Spring",
