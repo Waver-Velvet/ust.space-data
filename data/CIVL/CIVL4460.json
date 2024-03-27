@@ -23,11 +23,11 @@
     "prerequisites": "<a class=\"course-link\" data-subject=\"CIVL\" data-code=\"3420\" href=\"/review/CIVL3420\" target=\"_blank\">CIVL 3420</a>",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 3.25,
-    "rating_teaching": 3.5,
+    "rating_content": 3.4,
+    "rating_teaching": 3.8,
     "rating_grading": 4,
-    "rating_workload": 3,
-    "review_count": 4,
+    "rating_workload": 3.2,
+    "review_count": 5,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -43,11 +43,46 @@
       {
         "id": 77,
         "name": "CHEN, Guanghao",
-        "count": 1
+        "count": 2
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "kxSql0HiWBDiJb8hjgkQ855gAy0cPL3O",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 77,
+          "name": "CHEN, Guanghao",
+          "rating": 1
+        }
+      ],
+      "author": "sodomy",
+      "date": "Mar 27, 2024",
+      "title": "",
+      "comment_content": "Talks about advanced water treatment systems and the respective design principles",
+      "comment_teaching": "Very good. Professor is a very humorous guy and makes the whole learning process much more fun and easier to grasp the content",
+      "comment_grading": "Decent. The literature review is evaluated both by teaching assistants and peers. The grading on the literature review was pretty lenient. Got a B+ with minimum effort",
+      "comment_workload": "1 literature review and a group project. Pretty fair of a workload. I was lucky to group with some master students for the group project, which carried me through the whole project. The group project has to be submitted by the end of semester, and a presentation must be delivered to professor.",
+      "rating_content": 4,
+      "rating_teaching": 5,
+      "rating_grading": 4,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": true,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "RP9cHj07ql3N62c8tJOR4LqiUME0jVjj",
       "semester": "2022-23 Fall",

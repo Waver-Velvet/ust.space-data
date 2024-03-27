@@ -29,11 +29,11 @@
     "prerequisites": "Grade C+ or above in <a class=\"course-link\" data-subject=\"CHEM\" data-code=\"1008\" href=\"/review/CHEM1008\" target=\"_blank\">CHEM 1008</a> OR Level 4 or above in HKDSE 1x Chemistry OR <a class=\"course-link\" data-subject=\"CHEM\" data-code=\"1010\" href=\"/review/CHEM1010\" target=\"_blank\">CHEM 1010</a> OR <a class=\"course-link\" data-subject=\"CHEM\" data-code=\"1020\" href=\"/review/CHEM1020\" target=\"_blank\">CHEM 1020</a>",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 4.09,
-    "rating_teaching": 3.97,
-    "rating_grading": 4.23,
-    "rating_workload": 4.33,
-    "review_count": 100,
+    "rating_content": 4.1,
+    "rating_teaching": 3.98,
+    "rating_grading": 4.24,
+    "rating_workload": 4.34,
+    "review_count": 101,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -44,7 +44,7 @@
       {
         "id": 45,
         "name": "LIN, Zhenyang",
-        "count": 79
+        "count": 80
       },
       {
         "id": 55,
@@ -59,11 +59,51 @@
       {
         "id": 1693,
         "name": "SHEONG, Frederick Fu Kit",
-        "count": 8
+        "count": 9
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "CQyYrsYVaxIXNnmY5OUuBluhC29pboZ3",
+      "semester": "2023-24 Spring",
+      "instructors": [
+        {
+          "id": 45,
+          "name": "LIN, Zhenyang",
+          "rating": 1
+        },
+        {
+          "id": 1693,
+          "name": "SHEONG, Frederick Fu Kit",
+          "rating": 1
+        }
+      ],
+      "author": "命運無常",
+      "date": "Mar 27, 2024",
+      "title": "Comprehensive understanding in basic concepts of different topics",
+      "comment_content": "Same as previous years, but the teaching order has changed. First part is taught by professor Sheong. Second part is taught by professor Lin.<br /><br />Chapter 10: Properties of Solutions<br />Chapter 12: Chemical Equilibrium<br />Chapter 13: Acids and Bases<br />Chapter 14: Acid-Base Equilibria<br />Chapter 15: Solubility and Complex Ion Equilibria<br />Chapter 16: Spontaneity, Entropy, and Free Energy<br /><br />—— Mid-term Exam (Chapter 10, 12-16) ——<br /><br />Chapter 17: Electrochemistry<br />Chapter 11: Chemical Kinetics<br />Chapter 18: The Nucleus: A Chemist’s View<br />Chapter 19: The Representative Elements<br />Chapter 20: Transition Metals and Coordination Chemistry<br /><br />—— Final Exam (Chapter 11, 17-20)——<br /><br />The most difficult chapters for nearly all students are Chapter 13-15 and 19-20.<br /><br />Although all the concepts are basic in chemistry, but these knowledges can much expand your understanding in different topics learned in DSE Chemistry.",
+      "comment_teaching": "Overall: A-<br />Professor Sheong: A+<br />Professor Lin: B+<br />Ken Ng (IA) and TAs: A<br /><br />Professor Sheong:<br />He explains all the concepts and reasons behind clearly with the illustration of typical examples. Even for the concepts most of the students have already learned like ‘chemical equilibrium’ and ‘titration’, he can explain from more advanced perspectives. For example, why would we not include concentration of solids and liquids into the equilibrium constant expression? Why ithe equilibrium constant does not have an unit (not like what we have learned in DSE Chemistry)?<br /><br />At the last lecture, he reviews all the concepts required for the mid-term exam, and explain examples of past exam questions (1 MCQ for each chapter), which is very useful for students’ preparations for the exam.",
+      "comment_grading": "Assignment 1 (5%)<br />Mid-term Exam (45%)<br />Assignment 2 (5%)<br />Final Exam (45%)<br /><br />Unlimited attempts for assignments, each containing some MCQs and short questions (only answers)<br /><br />Exams are open-book and open-notes, but only either hand-written or printed. However, as the exam times are quite tight, you should NOT heavily rely on your materials and should only serve them as references.<br /><br />Statistics:<br /><br />1. Assignment 1<br /><br /><br />2. Mid-term Exam<br /><br /><br />3. Assignment 2<br /><br /><br />4. Final Exam",
+      "comment_workload": "Only 2 assignments for whole semester, so workload should be quite low.<br /><br />The difficulty of the assignment is approximately the same as the exam (just slightly lower than the real exam).<br /><br />But the exam are quite difficult, so you should practice more to familiarize yourself with the concepts and calculations required.",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": false,
+      "has_quiz": false,
+      "has_assignment": true,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": false,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "snaeUFjuzIKKYX3r1iaYOTXRFdZdxmlh",
       "semester": "2022-23 Spring",
@@ -169,8 +209,8 @@
       "has_attendance": false,
       "has_reading": false,
       "has_presentation": false,
-      "upvote_count": 0,
-      "vote_count": 0,
+      "upvote_count": 1,
+      "vote_count": 1,
       "comment_count": 0,
       "attachments": [
         {
@@ -318,8 +358,8 @@
       "has_attendance": false,
       "has_reading": false,
       "has_presentation": false,
-      "upvote_count": 0,
-      "vote_count": 0,
+      "upvote_count": 1,
+      "vote_count": 1,
       "comment_count": 0,
       "attachments": [
         {
