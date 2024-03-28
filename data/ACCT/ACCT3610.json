@@ -33,11 +33,11 @@
     "prerequisites": "",
     "corequisites": "",
     "exclusions": "",
-    "rating_content": 4.42,
+    "rating_content": 4.43,
     "rating_teaching": 4.52,
-    "rating_grading": 4.39,
+    "rating_grading": 4.34,
     "rating_workload": 4.2,
-    "review_count": 64,
+    "review_count": 65,
     "single_review": false,
     "enrollment_status": 0,
     "is_favourited": false,
@@ -53,11 +53,46 @@
       {
         "id": 1270,
         "name": "TAN, Jing",
-        "count": 24
+        "count": 25
       }
     ]
   },
   "reviews": [
+    {
+      "hash": "U4iE3jAkjns2SfnRTCC9CZoX9A57Sq18",
+      "semester": "2022-23 Spring",
+      "instructors": [
+        {
+          "id": 1270,
+          "name": "TAN, Jing",
+          "rating": 1
+        }
+      ],
+      "author": "sindicnwdini",
+      "date": "Mar 28, 2024",
+      "title": "Do not take it if your English is NOT good",
+      "comment_content": "See others.<br /><br />Useful and interesting.<br /><br />If you want to learn something in Business Law or you just want to equip yourself with legal knowledge, you can consider taking it.",
+      "comment_teaching": "GOOD.<br /><br />Prof is very nice",
+      "comment_grading": "It requires very good English because you are basically just writing legal arguments on cases in a very short time.<br /><br />如果你是高考生，或者你的英语不好。这对你来说将是个非常大的劣势。考试时有很多很生僻的单词.",
+      "comment_workload": "moderate",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 1,
+      "rating_workload": 4,
+      "has_midterm": false,
+      "has_final": true,
+      "has_quiz": true,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": true,
+      "has_presentation": false,
+      "upvote_count": 0,
+      "vote_count": 1,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "roLtjc2CSig0qbSCuuJYN1erJHBwFG82",
       "semester": "2022-23 Spring",

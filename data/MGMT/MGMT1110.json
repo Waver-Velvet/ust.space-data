@@ -37,10 +37,10 @@
     "corequisites": "",
     "exclusions": "<a class=\"course-link\" data-subject=\"CORE\" data-code=\"1371\" href=\"/review/CORE1371\" target=\"_blank\">CORE 1371</a>",
     "rating_content": 4.54,
-    "rating_teaching": 4.32,
-    "rating_grading": 4.13,
-    "rating_workload": 4.36,
-    "review_count": 56,
+    "rating_teaching": 4.33,
+    "rating_grading": 4.14,
+    "rating_workload": 4.37,
+    "review_count": 57,
     "single_review": false,
     "enrollment_status": 3,
     "is_favourited": false,
@@ -56,7 +56,7 @@
       {
         "id": 831,
         "name": "ZHELYAZKOV, Pavel Ivanov",
-        "count": 14
+        "count": 15
       },
       {
         "id": 595,
@@ -76,6 +76,41 @@
     ]
   },
   "reviews": [
+    {
+      "hash": "3wNETeJwAVZWLNG2JcBFoT32z0Ooz3tF",
+      "semester": "2023-24 Fall",
+      "instructors": [
+        {
+          "id": 831,
+          "name": "ZHELYAZKOV, Pavel Ivanov",
+          "rating": 1
+        }
+      ],
+      "author": "b_bi",
+      "date": "Mar 28, 2024",
+      "title": "",
+      "comment_content": "9 units<br />Units 1-4: Basics of Management<br />Units 5-9: Functions of a manager (POLC)<br /><br />Overall, the content is easy to understand and follow (in class) and appropriate for a common core course.",
+      "comment_teaching": "Very good instructor delivering interactive and engaging lessons.",
+      "comment_grading": "very good grade booster, common core course and is one of the required courses for a minor in business. 1 midterm, 1 final, and a presentation. Case Analysis and discussions during classes on certain management cases towards the end of the course. <br /><br />To do well and/or to get A range, you have to be attentive in class, participate by raising you hand and giving ideas/answering questions. If you cannot do this enough during regular classes, then for case analysis, study the cases, to be able to participate in class. Case analysis participation seems to impact the participation grade more.",
+      "comment_workload": "Very light workload until midterm which covers units 1-4. After midterm, there is some increase in workload due to the presentation and in class case discussions. Final covers only units 5-9 (non-cumulative)",
+      "rating_content": 5,
+      "rating_teaching": 5,
+      "rating_grading": 5,
+      "rating_workload": 5,
+      "has_midterm": true,
+      "has_final": true,
+      "has_quiz": false,
+      "has_assignment": false,
+      "has_essay": false,
+      "has_project": false,
+      "has_attendance": true,
+      "has_reading": false,
+      "has_presentation": true,
+      "upvote_count": 0,
+      "vote_count": 0,
+      "comment_count": 0,
+      "attachments": []
+    },
     {
       "hash": "Wmi1SKzT6H9r5x5OiYzQJezTimYnpsxW",
       "semester": "2022-23 Summer",
